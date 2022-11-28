@@ -37,11 +37,11 @@ function Event(props) {
     return (
         <div className="pt-2 mt-2 text-left">
             <div className="flex hover:text-sky-400 " onClick={toggleHandler}>
-                <div className="grid grid-cols-7 w-full">
+                <div className="grid grid-cols-6 xl:grid-cols-7 w-full">
                     <div className='row-start-1 col-start-1 flex-none h-auto'> {date_str} </div>
-                    <div className="row-start-1 col-start-2 flex-none">{time_start_str} à {time_end_str}</div>
-                    <div className="row-start-1 col-start-3 col-span-4 font-semibold flex-none" >{props.summary}</div>
-                    <div className='row-start-2 col-start-3 col-span-4 flex'>{props.location}</div>
+                    <div className="row-start-2 col-start-1 xl:row-start-1 xl:col-start-2 flex-none">{time_start_str} à {time_end_str}</div>
+                    <div className="row-start-1 col-start-2 xl:col-start-3 col-span-5 font-semibold flex-none" >{props.summary}</div>
+                    <div className='row-start-2 col-start-2 xl:col-start-3 col-span-5 flex'>{props.location}</div>
                 </div>
                 <p
                     className="my-auto text-2xl transition-[transform] ease-out duration-200 delay-[0ms] select-none"
@@ -67,7 +67,7 @@ function Event(props) {
                         />
                         <Marker position={geo} />
                     </MapContainer>
-                    <div className="block h-auto row-start-1 col-start-3 col-span-4" ref={ref}>
+                    <div className="block h-auto row-start-1 col-start-3 col-span-5" ref={ref}>
                         {props.description.split('\n\n').map((str) => <div className='my-1 py-1'>{str.split('\n').map((str2) => <p className='flex'>{str2}</p>)}</div>)}
                     </div>
                 </div>
