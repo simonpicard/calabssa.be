@@ -12,7 +12,7 @@ export async function loader({ params }) {
     if (!TeamData.map(e => e.ics_name).includes(params.teamId))
         throw new Error("Équipe introuvable! Refais une recherche ou vérifie ton lien.");
 
-    const ical_path = `${process.env.PUBLIC_URL}/ics/${params.teamId}.ics`
+    const ical_path = `${process.env.URL}/ics/${params.teamId}.ics`
     const ical_call = await fetch(ical_path);
     var ical_text = await ical_call.text();
     ical_text = ical_text.replace(/\\n/g, "<br />");
@@ -42,7 +42,7 @@ export async function loader({ params }) {
     return { ical_path, cal_info, cal_events };
 }
 
-export default function Calendar({ cal_path, display_past }) {
+export default function Calendar({ display_past }) {
 
     const { ical_path, cal_info, cal_events } = useLoaderData();
 
@@ -55,32 +55,32 @@ export default function Calendar({ cal_path, display_past }) {
     const cal_dl_info = [
         {
             "name": "Google Calendar",
-            "img_url": `${process.env.PUBLIC_URL}/img/calendar/google-calendar.svg`,
+            "img_url": `${process.env.URL}/img/calendar/google-calendar.svg`,
             "link": `https://www.google.com/calendar/render?cid=webcal://${ical_path}`
         },
         {
             "name": "Apple iCal",
-            "img_url": `${process.env.PUBLIC_URL}/img/calendar/apple-calendar.png`,
+            "img_url": `${process.env.URL}/img/calendar/apple-calendar.png`,
             "link": `webcal://${ical_path}`
         },
         {
             "name": "Outlook Agenda",
-            "img_url": `${process.env.PUBLIC_URL}/img/calendar/outlook-calendar.svg`,
+            "img_url": `${process.env.URL}/img/calendar/outlook-calendar.svg`,
             "link": `https://outlook.live.com/calendar/0/addfromweb/?url=webcal://${ical_path}&name=${cal_info['x-wr-calname']}`
         },
         {
             "name": "Windows Calendar",
-            "img_url": `${process.env.PUBLIC_URL}/img/calendar/windows-calendar.svg`,
+            "img_url": `${process.env.URL}/img/calendar/windows-calendar.svg`,
             "link": `webcal://${ical_path}`
         },
         {
             "name": "Office 365 Calendar",
-            "img_url": `${process.env.PUBLIC_URL}/img/calendar/office-calendar.svg`,
+            "img_url": `${process.env.URL}/img/calendar/office-calendar.svg`,
             "link": `https://outlook.office.com/calendar/0/addfromweb/?url=webcal://${ical_path}&name=${cal_info['x-wr-calname']}`
         },
         {
             "name": "Fichier ics",
-            "img_url": `${process.env.PUBLIC_URL}/img/calendar/file.svg`,
+            "img_url": `${process.env.URL}/img/calendar/file.svg`,
             "link": ical_path
         },
     ]
@@ -113,7 +113,7 @@ export default function Calendar({ cal_path, display_past }) {
                         className="flex items-center justify-center w-full h-full"
                     >
                         <div
-                            className="bg-white block w-auto drop-shadow-2xl rounded-3xl p-6 text-2xl divide-y "
+                            className="bg-white block w-auto drop-shadow-2xl rounded-3xl p-6 text-lg md:text-2xl divide-y "
                         >
                             <div className="mb-2 flex">
                                 <p>Ajoute ce calendrier à ton agenda favori...</p>
@@ -139,12 +139,12 @@ export default function Calendar({ cal_path, display_past }) {
                 </div>
             }
             <div className='block'>
-                <div className="grid grid-cols-4 w-full items-center mb-8">
-                    <h1 className="text-left text-3xl font-extrabold col-span-3">
+                <div className="block lg:grid lg:grid-cols-4 w-full items-center space-y-4 lg:mb-8">
+                    <h1 className="text-center lg:text-left font-extrabold col-span-3 text-2xl sm:text-3xl">
                         {cal_info['x-wr-calname']}
                     </h1>
                     <p
-                        className="ml-auto rounded-3xl p-3 text-white font-semibold bg-sky-400 text-lg select-none transition duration-150 ease-out hover:scale-110"
+                        className="w-max mx-auto lg:ml-auto rounded-3xl p-3 text-white font-semibold bg-sky-400 text-lg select-none transition duration-150 ease-out hover:scale-110"
                         onClick={handleClickAddCal}
                     >
                         Ajouter à l'agenda
