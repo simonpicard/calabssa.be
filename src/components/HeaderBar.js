@@ -9,7 +9,7 @@ function HeaderBar({ data }) {
             <div className="fixed top-0 flex space-x-4 md:grid md:grid-cols-4 border-b border-slate-900/10 w-full backdrop-blur bg-white/75 items-center p-2 h-16 z-20">
                 <Link to="/" className="flex">
                     <img
-                        src={`${process.env.URL}/icon/icon-mini.svg`}
+                        src={`${process.env.PUBLIC_URL}/icon/icon-mini.svg`}
                         className="h-9 w-9 min-w-[36px] min-h-[36px]"
                         alt="CalABSSA icon"
                     />

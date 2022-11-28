@@ -42,14 +42,13 @@ function useWindowDimensions() {
 
 function Event(props) {
 
-    const { height, width } = useWindowDimensions();
+    const { width } = useWindowDimensions();
 
     let date_str = width >= 1024 ? props.dtstart.toLocaleDateString("fr-BE", { year: 'numeric', month: 'long', day: 'numeric' }) : props.dtstart.toLocaleDateString("fr-BE", { year: 'numeric', month: 'numeric', day: 'numeric' });
     let time_start_str = props.dtstart.toLocaleTimeString("fr-BE", { hour: "numeric", minute: "numeric" });
     let time_end_str = props.dtend.toLocaleTimeString("fr-BE", { hour: "numeric", minute: "numeric" });
 
     const [open, setOpen] = useState(false);
-    const [windowDimensions, setWindowDimensions] = useState(getWindowDimensions());
     const ref = useRef(null);
     const mapRef = useRef(null);
 

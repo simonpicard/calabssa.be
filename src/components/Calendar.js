@@ -12,7 +12,7 @@ export async function loader({ params }) {
     if (!TeamData.map(e => e.ics_name).includes(params.teamId))
         throw new Error("Équipe introuvable! Refais une recherche ou vérifie ton lien.");
 
-    const ical_path = `${process.env.URL}/ics/${params.teamId}.ics`
+    const ical_path = `${window.location.protocol}//${window.location.host}/ics/${params.teamId}.ics`
     const ical_call = await fetch(ical_path);
     var ical_text = await ical_call.text();
     ical_text = ical_text.replace(/\\n/g, "<br />");
@@ -55,32 +55,32 @@ export default function Calendar({ display_past }) {
     const cal_dl_info = [
         {
             "name": "Google Calendar",
-            "img_url": `${process.env.URL}/img/calendar/google-calendar.svg`,
+            "img_url": `${process.env.PUBLIC_URL}/img/calendar/google-calendar.svg`,
             "link": `https://www.google.com/calendar/render?cid=webcal://${ical_path}`
         },
         {
             "name": "Apple iCal",
-            "img_url": `${process.env.URL}/img/calendar/apple-calendar.png`,
+            "img_url": `${process.env.PUBLIC_URL}/img/calendar/apple-calendar.png`,
             "link": `webcal://${ical_path}`
         },
         {
             "name": "Outlook Agenda",
-            "img_url": `${process.env.URL}/img/calendar/outlook-calendar.svg`,
+            "img_url": `${process.env.PUBLIC_URL}/img/calendar/outlook-calendar.svg`,
             "link": `https://outlook.live.com/calendar/0/addfromweb/?url=webcal://${ical_path}&name=${cal_info['x-wr-calname']}`
         },
         {
             "name": "Windows Calendar",
-            "img_url": `${process.env.URL}/img/calendar/windows-calendar.svg`,
+            "img_url": `${process.env.PUBLIC_URL}/img/calendar/windows-calendar.svg`,
             "link": `webcal://${ical_path}`
         },
         {
             "name": "Office 365 Calendar",
-            "img_url": `${process.env.URL}/img/calendar/office-calendar.svg`,
+            "img_url": `${process.env.PUBLIC_URL}/img/calendar/office-calendar.svg`,
             "link": `https://outlook.office.com/calendar/0/addfromweb/?url=webcal://${ical_path}&name=${cal_info['x-wr-calname']}`
         },
         {
             "name": "Fichier ics",
-            "img_url": `${process.env.URL}/img/calendar/file.svg`,
+            "img_url": `${process.env.PUBLIC_URL}/img/calendar/file.svg`,
             "link": ical_path
         },
     ]
