@@ -139,7 +139,7 @@ export default function Calendar({ display_past }) {
                 </div>
             }
             <div className='block'>
-                <div className="block lg:grid lg:grid-cols-4 w-full items-center space-y-4 lg:mb-8">
+                <div className="block lg:grid lg:grid-cols-4 w-full items-center space-y-4 lg:space-y-0 lg:mb-8">
                     <h1 className="text-center lg:text-left font-extrabold col-span-3 text-2xl sm:text-3xl">
                         {cal_info['x-wr-calname']}
                     </h1>

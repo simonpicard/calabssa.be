@@ -27,6 +27,14 @@ function HeaderBar({ data }) {
             <div className='px-4 sm:px-6 md:px-8 py-4 sm:py-6 md:py-8 mt-16 max-w-[1280px] mx-auto z-10'>
                 <Outlet />
             </div>
+            <footer className="flex text-sm px-4 sm:px-6 md:px-8 pb-4 sm:pb-6 md:pb-8 max-w-[1280px] mx-auto text-[#334155]">
+                <p>
+                    Créé par <a href="https://www.simonmyway.com/?ref=calabssa" className="underline">Simon Myway</a>
+                </p>
+                <p className="ml-auto">
+                    Code open source sur <a href="https://github.com/simonpicard/calabssa.be" className="underline">GitHub</a>
+                </p>
+            </footer>
         </div>
     )
 }
