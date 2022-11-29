@@ -44,7 +44,14 @@ function Event(props) {
 
     const { width } = useWindowDimensions();
 
-    let date_str = width >= 1024 ? props.dtstart.toLocaleDateString("fr-BE", { year: 'numeric', month: 'long', day: 'numeric' }) : props.dtstart.toLocaleDateString("fr-BE", { year: 'numeric', month: 'numeric', day: 'numeric' });
+    var date_fmt;
+    if (width >= 768) {
+        date_fmt = { year: 'numeric', month: 'long', day: 'numeric' };
+    }
+    else {
+        date_fmt = { year: '2-digit', month: '2-digit', day: '2-digit' };
+    }
+    let date_str = props.dtstart.toLocaleDateString("fr-BE", date_fmt);
     let time_start_str = props.dtstart.toLocaleTimeString("fr-BE", { hour: "numeric", minute: "numeric" });
     let time_end_str = props.dtend.toLocaleTimeString("fr-BE", { hour: "numeric", minute: "numeric" });
 
@@ -66,7 +73,7 @@ function Event(props) {
                 <div className="grid grid-cols-6 lg:grid-cols-6 xl:grid-cols-7 w-full">
                     <div className='row-start-1 col-start-1 flex-none flex lg:block xl:grid xl:grid-cols-2 row-span-1 lg:row-span-2 xl:row-span-1 xl:col-span-2 space-x-1 lg:space-x-0'>
                         <div className='flex-none'> {date_str} </div>
-                        <div className="flex-none">{time_start_str} à {time_end_str}</div>
+                        <div className="flex-none">{width >= 640 ? `${time_start_str} à ${time_end_str}` : time_start_str}</div>
                     </div>
                     <div className="row-start-2 col-span-full lg:row-start-1 lg:col-start-2 xl:col-start-3 lg:col-span-5 font-semibold flex-none" >{props.summary}</div>
                     <div className='row-start-3 col-span-full lg:row-start-2 lg:col-start-2 xl:col-start-3 lg:col-span-5 flex'>{props.location}</div>

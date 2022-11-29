@@ -87,7 +87,7 @@ function SearchBar({ placeholder, data }) {
     };
 
     return (
-        <div className="relative text-lg font-semibold w-full h-full col-span-2">
+        <div className="relative sm:text-lg font-semibold w-full h-full col-span-2">
             <div
                 className="absolute border-2 rounded-3xl bg-white w-full transition-[filter] ease-out duration-200 delay-[0ms]"
                 style={{ filter: filteredData.length > 0 ? "drop-shadow(0 20px 13px rgb(0 0 0 / 0.03)) drop-shadow(0 8px 5px rgb(0 0 0 / 0.08))" : "drop-shadow(0 0 #0000)" }}
@@ -118,7 +118,7 @@ function SearchBar({ placeholder, data }) {
                 }
                 <div
                     ref={resultRef}
-                    className="text-lg overflow-hidden transition-[max-height] ease-out duration-200 delay-[0ms] rounded-b-3xl"
+                    className="sm:text-lg overflow-hidden transition-[max-height] ease-out duration-200 delay-[0ms] rounded-b-3xl"
                     style={{ maxHeight: Math.min(8, filteredData.length) * 48 + "px" }}
                 >
                     {filteredData.slice(0, 8).map((value, key) => {

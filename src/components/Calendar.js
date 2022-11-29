@@ -139,12 +139,12 @@ export default function Calendar({ display_past }) {
                 </div>
             }
             <div className='block'>
-                <div className="block lg:grid lg:grid-cols-4 w-full items-center space-y-4 lg:space-y-0 lg:mb-8">
-                    <h1 className="text-center lg:text-left font-extrabold col-span-3 text-2xl sm:text-3xl">
+                <div className="block lg:flex w-full items-center space-y-4 lg:space-y-0 lg:mb-8 ">
+                    <h1 className="text-center lg:text-left font-extrabold text-2xl sm:text-3xl w-full">
                         {cal_info['x-wr-calname']}
                     </h1>
                     <p
-                        className="w-max mx-auto lg:ml-auto rounded-3xl p-3 text-white font-semibold bg-sky-400 text-lg select-none transition duration-150 ease-out hover:scale-110"
+                        className="min-w-max max-w-max mx-auto rounded-3xl p-3 text-white font-semibold bg-sky-400 text-lg select-none transition duration-150 ease-out hover:scale-110"
                         onClick={handleClickAddCal}
                     >
                         Ajouter à l'agenda
