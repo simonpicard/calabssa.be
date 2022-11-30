@@ -65,7 +65,6 @@ function Event(props) {
     let toggleHandler = (e) => {
         setOpen(!open);
         setTimeout(() => mapRef.current.invalidateSize(), 300);
-        //ref.current?.scrollIntoView({ behavior: 'smooth' });
     };
 
     const urlify = (txt) => {
