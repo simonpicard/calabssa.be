@@ -74,7 +74,7 @@ function Event(props) {
         var links = txt.split(urlRegex)
 
         for (let i = 1; i < links.length; i += 2) {
-            links[i] = <a className="underline" key={'link' + i} href={links[i]}>{links[i]}</a>
+            links[i] = <a className="underline" key={'link' + i} href={links[i]}>{width < 640 ? "lien" : links[i]}</a>
         }
 
         return links
@@ -88,7 +88,7 @@ function Event(props) {
                     {
                         str.split('\n').map(
                             (str2, i2) =>
-                                <p className='flex' key={'desc' + i + "_" + i2} >
+                                <p className='text-justify' key={'desc' + i + "_" + i2} >
                                     {urlify(str2)}
                                 </p>
                         )
