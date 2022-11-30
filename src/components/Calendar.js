@@ -56,9 +56,10 @@ export async function loader({ params }) {
 
 export async function defaultLoader({ params }) {
 
-    const today = new Date().setHours(0, 0, 0, 0);
+    const today = new Date()
+    today.setHours(0, 0, 0, 0);
 
-    const dayDivFlt = Object.entries(DayDiv).filter(([key, value]) => new Date(value.date) >= today);
+    const dayDivFlt = Object.entries(DayDiv).filter(([key, value]) => new Date(value.date.replace(/-/g, "/")) >= today);
 
     var dayDivCandidates;
 
