@@ -30,7 +30,7 @@ function HeaderBar({ data }) {
                     </Link>
                     <SearchBar
                         data={data}
-                        placeholder="Cherche une équipe"
+                        placeholder="Chercher une équipe"
                     />
                     <div className="hidden sm:grid">
                         <Link to="/about" className="place-self-end">
