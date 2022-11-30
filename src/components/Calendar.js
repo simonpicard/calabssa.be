@@ -187,7 +187,6 @@ export default function Calendar({ display_past }) {
                                             <a
                                                 href={elem.link}
                                                 className="flex space-x-2 h-full py-2"
-                                                download={elem.download ? elem.download : ""}
                                             >
                                                 <img src={elem.img_url} alt={`${elem.name} icon`} width="32" />
                                                 <p>{elem.name}</p>

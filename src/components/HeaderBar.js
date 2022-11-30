@@ -32,9 +32,9 @@ function HeaderBar({ data }) {
                         data={data}
                         placeholder="Cherche une équipe"
                     />
-                    <div>
-                        <Link to="/about" className="hidden sm:grid">
-                            <p className="font-semibold text-lg sm:text-2xl w-max place-self-end">À propos</p>
+                    <div className="hidden sm:grid">
+                        <Link to="/about" className="place-self-end">
+                            <p className="font-semibold text-lg sm:text-2xl w-max">À propos</p>
                         </Link>
                     </div>
                 </div>
