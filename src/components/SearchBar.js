@@ -102,7 +102,7 @@ function SearchBar({ placeholder, data }) {
                         onChange={handleFilter}
                         className="h-auto w-full p-4 focus:outline-none rounded-3xl"
                     />
-                    <div className="w-6 grid place-items-center mr-2">
+                    <div className="w-6 grid place-items-center mr-2 cursor-pointer">
                         {wordEntered.length !== 0 &&
                             <svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" onClick={clearInput}>
                                 <path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z">
@@ -128,7 +128,7 @@ function SearchBar({ placeholder, data }) {
                                 value={key}
                                 ref={key === focusedIndex ? selectedResultRef : null}
                                 id={value[0]}
-                                className="flex py-1 items-center bg-white pl-4"
+                                className="flex py-1 items-center bg-white pl-4 cursor-pointer"
                                 onMouseOver={handleMouseOver}
                                 onClick={handleClick}
                                 style={{

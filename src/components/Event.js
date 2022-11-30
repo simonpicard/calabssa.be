@@ -65,6 +65,7 @@ function Event(props) {
     let toggleHandler = (e) => {
         setOpen(!open);
         setTimeout(() => mapRef.current.invalidateSize(), 300);
+        //ref.current?.scrollIntoView({ behavior: 'smooth' });
     };
 
     const urlify = (txt) => {
@@ -97,8 +98,8 @@ function Event(props) {
     };
 
     return (
-        <div className="pt-2 mt-2 text-left text-[#334155]">
-            <div className="flex hover:text-sky-400 " onClick={toggleHandler}>
+        <div className="pt-2 mt-2 text-left text-[#334155] ">
+            <div className="flex hover:text-sky-400 cursor-pointer" onClick={toggleHandler}>
                 <div className="grid grid-cols-6 lg:grid-cols-6 xl:grid-cols-7 w-full">
                     <div className='row-start-1 col-start-1 flex-none flex lg:block xl:grid xl:grid-cols-2 row-span-1 lg:row-span-2 xl:row-span-1 xl:col-span-2 space-x-1 lg:space-x-0'>
                         <div className='flex-none'> {date_str} </div>

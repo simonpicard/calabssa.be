@@ -46,7 +46,10 @@ export async function loader({ params }) {
         throw new Error("Équipe introuvable! Refais une recherche ou vérifie ton lien.");
 
     const res = await load_and_parse_cal(params.teamId);
-    res.team_info = TeamData[params.teamId]
+    res.team_info = {
+        ...TeamData[params.teamId],
+        calendar_id: params.teamId
+    }
     res.cal_param = { display_past: false }
     return res;
 }
@@ -57,17 +60,26 @@ export async function defaultLoader({ params }) {
 
     const dayDivFlt = Object.entries(DayDiv).filter(([key, value]) => new Date(value.date) >= today);
 
-    const nextDay = dayDivFlt.reduce((prev, curr) => {
-        return prev[1].day < curr[1].day ? prev : curr;
-    })[1].day;
+    var dayDivCandidates;
 
-    const dayDivCandidates = dayDivFlt.filter(([key, value]) => value.day === nextDay);
+    if (dayDivFlt.length == 0) {
+        dayDivCandidates = Object.entries(DayDiv);
+    }
+    else {
+
+        const nextDay = dayDivFlt.reduce((prev, curr) => {
+            return prev[1].day < curr[1].day ? prev : curr;
+        })[1].day;
+
+        dayDivCandidates = dayDivFlt.filter(([key, value]) => value.day === nextDay);
+    }
 
     const [calendar_id, calendar_info] = dayDivCandidates[Math.floor(Math.random() * dayDivCandidates.length)];
 
     const res = await load_and_parse_cal(calendar_id);
     res.team_info = {
         search_name: calendar_info["name"],
+        calendar_id: calendar_id,
         ...calendar_info
     }
     res.cal_param = { display_past: true }
@@ -125,7 +137,8 @@ export default function Calendar({ display_past }) {
         {
             "name": "Fichier ics",
             "img_url": `${process.env.PUBLIC_URL}/img/calendar/file.svg`,
-            "link": ical_path
+            "link": ical_path,
+            "download": team_info.calendar_id + ".ics"
         },
     ]
 
@@ -160,17 +173,22 @@ export default function Calendar({ display_past }) {
                             className="bg-white block w-auto drop-shadow-2xl rounded-3xl p-6 text-lg md:text-2xl divide-y "
                         >
                             <div className="mb-2 flex">
-                                <p>Ajoute ce calendrier à ton agenda favori...</p>
-                                <svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" onClick={() => setSaveCal(false)} className='w-6 ml-4'>
+                                <p>Enregistrer le calendrier</p>
+                                <svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" onClick={() => setSaveCal(false)} className='w-6 ml-4 cursor-pointer'>
                                     <path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z">
                                     </path>
                                 </svg>
                             </div>
                             {
                                 cal_dl_info.map((elem, key) => {
+                                    console.log(elem)
                                     return (
-                                        <div className="hover:bg-slate-100 w-full h-full" key={key} >
-                                            <a href={elem.link} className="flex space-x-2 h-full py-2">
+                                        <div className="hover:bg-slate-100 w-full h-full cursor-pointer" key={key} >
+                                            <a
+                                                href={elem.link}
+                                                className="flex space-x-2 h-full py-2"
+                                                download={elem.download ? elem.download : ""}
+                                            >
                                                 <img src={elem.img_url} alt={`${elem.name} icon`} width="32" />
                                                 <p>{elem.name}</p>
                                             </a>
@@ -189,14 +207,14 @@ export default function Calendar({ display_past }) {
                         {team_info.search_name}
                     </h1>
                     <p
-                        className="min-w-max max-w-max mx-auto rounded-3xl p-3 text-white font-semibold bg-sky-400 text-lg select-none transition duration-150 ease-out hover:scale-110"
+                        className="min-w-max max-w-max mx-auto rounded-3xl p-3 text-white font-semibold bg-sky-400 text-lg select-none cursor-pointer"
                         onClick={handleClickAddCal}
                     >
                         Ajouter à l'agenda
                     </p>
                 </div>
                 <div
-                    className="flex items-center mt-2 md:mt-0"
+                    className="flex items-center mt-2 md:mt-0 cursor-pointer"
                     onClick={() => setShowPast(!showPast)}
 
                 >

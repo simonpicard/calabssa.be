@@ -45,9 +45,15 @@ ReactDOM.createRoot(document.getElementById("root")).render(
           />
         </div>
       </div>
-      <div className="font-custom">
-        <RouterProvider router={router} />
-      </div>
+      <RouterProvider router={router} />
+      <footer className="flex text-sm px-4 sm:px-6 md:px-8 pb-4 sm:pb-6 md:pb-8 max-w-[1280px] mx-auto text-[#334155]">
+        <p>
+          Créé par <a href="https://www.simonmyway.com/?ref=calabssa" className="underline">Simon Myway</a>
+        </p>
+        <p className="ml-auto text-right">
+          Code open source sur <a href="https://github.com/simonpicard/calabssa.be" className="underline">GitHub</a>
+        </p>
+      </footer>
     </div>
   </React.StrictMode>
 );
