@@ -184,7 +184,7 @@ export default function Calendar({ display_past }) {
             }
             <div className='block'>
 
-                <div className="block lg:flex w-full items-center space-y-4 lg:space-y-0 lg:mb-8 ">
+                <div className="block lg:flex w-full items-center space-y-4 lg:space-y-0 lg:mb-6 ">
                     <h1 className="text-center lg:text-left font-extrabold text-2xl sm:text-3xl w-full">
                         {team_info.search_name}
                     </h1>
@@ -196,7 +196,7 @@ export default function Calendar({ display_past }) {
                     </p>
                 </div>
                 <div
-                    className="flex items-center"
+                    className="flex items-center mt-2 md:mt-0"
                     onClick={() => setShowPast(!showPast)}
 
                 >
