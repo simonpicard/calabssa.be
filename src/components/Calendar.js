@@ -103,7 +103,7 @@ export default function Calendar({ display_past }) {
     }, [showPast, cal_events]);
 
     useEffect(() => {
-        document.title = "CalABSSA - " + team_info.club_name;
+        document.title = "CalABSSA" + (team_info.club_name ? " - " + team_info.club_name : "");
         setShowPast(cal_param.display_past);
     }, [team_info, cal_param]);
 
