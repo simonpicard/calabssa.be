@@ -67,6 +67,35 @@ function Event(props) {
         setTimeout(() => mapRef.current.invalidateSize(), 300);
     };
 
+    const urlify = (txt) => {
+        var urlRegex = /(https?:\/\/[^\s]+)/g;
+
+        var links = txt.split(urlRegex)
+
+        for (let i = 1; i < links.length; i += 2) {
+            links[i] = <a className="underline" key={'link' + i} href={links[i]}>{links[i]}</a>
+        }
+
+        return links
+
+    };
+
+    const formatDescription = (description) => {
+        return description.split('\n\n').map(
+            (str, i) =>
+                <div className='my-1 py-1' key={'desc' + i}>
+                    {
+                        str.split('\n').map(
+                            (str2, i2) =>
+                                <p className='flex' key={'desc' + i + "_" + i2} >
+                                    {urlify(str2)}
+                                </p>
+                        )
+                    }
+                </div>
+        )
+    };
+
     return (
         <div className="pt-2 mt-2 text-left text-[#334155]">
             <div className="flex hover:text-sky-400 " onClick={toggleHandler}>
@@ -103,7 +132,7 @@ function Event(props) {
                         <Marker position={geo} />
                     </MapContainer>
                     <div className="block h-max md:row-start-1 md:col-start-1 xl:col-start-3 md:col-span-4 xl:col-span-5 text-justify" ref={ref}>
-                        {props.description.split('\n\n').map((str) => <div className='my-1 py-1'>{str.split('\n').map((str2) => <p className='flex'>{str2}</p>)}</div>)}
+                        {formatDescription(props.description)}
                     </div>
                 </div>
                 {width >= 1280 &&

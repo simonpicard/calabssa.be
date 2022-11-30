@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import TeamData from "./data/teams.json";
 import HeaderBar from "./components/HeaderBar";
-import Calendar, { loader as calendarLoader } from "./components/Calendar";
+import Calendar, { loader as calendarLoader, defaultLoader as defaultCalendarLoader } from "./components/Calendar";
 import {
   createBrowserRouter,
   RouterProvider,
@@ -18,8 +18,13 @@ const router = createBrowserRouter([
     children: [
       {
         path: "c/:teamId",
-        element: <Calendar />,
+        element: <Calendar display_past={false} />,
         loader: calendarLoader,
+      },
+      {
+        path: "",
+        element: <Calendar display_past={false} />,
+        loader: defaultCalendarLoader,
       },
       {
         path: "about",

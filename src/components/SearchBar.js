@@ -15,8 +15,8 @@ function SearchBar({ placeholder, data }) {
     const handleFilter = (event) => {
         const searchWord = event.target.value;
         setWordEntered(searchWord);
-        const newFilter = data.filter((value) => {
-            return value.club_team_name.toLowerCase().includes(searchWord.toLowerCase());
+        const newFilter = Object.entries(data).filter(([key, value]) => {
+            return value.search_name.toLowerCase().includes(searchWord.toLowerCase());
         });
 
         if (searchWord === "") {
@@ -127,7 +127,7 @@ function SearchBar({ placeholder, data }) {
                                 key={key}
                                 value={key}
                                 ref={key === focusedIndex ? selectedResultRef : null}
-                                id={value.ics_name}
+                                id={value[0]}
                                 className="flex py-1 items-center bg-white pl-4"
                                 onMouseOver={handleMouseOver}
                                 onClick={handleClick}
@@ -135,9 +135,9 @@ function SearchBar({ placeholder, data }) {
                                     background: key === focusedIndex ? "rgb(56 189 248)" : "",
                                     color: key === focusedIndex ? "white" : ""
                                 }}
-                                href={`/c/${value.ics_name}`}
+                                href={`/c/${value[0]}`}
                             >
-                                {value.club_team_name}
+                                {value[1].search_name}
                             </p>
                         );
                     })}
