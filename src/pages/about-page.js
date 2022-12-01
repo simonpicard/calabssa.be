@@ -5,6 +5,8 @@ export default function AboutPage() {
     console.log(AboutData);
     AboutData.forEach((value, key) => { console.log(value, key) });
 
+    document.title = "CalABSSA";
+
     return (
         <div id="about-page" className="block divide-solid divide-y divide-slate-900/10 text-[#334155] items-center">
             {
