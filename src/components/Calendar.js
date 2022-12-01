@@ -9,7 +9,8 @@ import {
 const ical = require('cal-parser');
 
 async function load_and_parse_cal(file_name) {
-    const ical_path = `https://raw.githubusercontent.com/simonpicard/abssa-calendar/kedro/data/07_model_output/ics/${file_name}.ics`
+    const ical_path = `https://raw.githubusercontent.com/simonpicard/abssa-ical/main/data/07_model_output/ics/${file_name}.ics`
+    const ical_webcal = ical_path.replace("https", "webcal")
     const ical_call = await fetch(ical_path);
     var ical_text = await ical_call.text();
     ical_text = ical_text.replace(/\\n/g, "<br />");
@@ -37,7 +38,12 @@ async function load_and_parse_cal(file_name) {
         });
     });
 
-    return { ical_path, cal_info, cal_events };
+    const ical_param = {
+        ical_path: ical_path,
+        ical_webcal: ical_webcal
+    }
+
+    return { ical_param, cal_info, cal_events };
 }
 
 export async function loader({ params }) {
@@ -89,7 +95,7 @@ export async function defaultLoader({ params }) {
 
 export default function Calendar({ display_past }) {
 
-    const { team_info, ical_path, cal_info, cal_events, cal_param } = useLoaderData();
+    const { team_info, ical_param, cal_info, cal_events, cal_param } = useLoaderData();
 
     const [save_cal, setSaveCal] = useState(false);
     const saveCalPopUp = useRef(null);
@@ -113,32 +119,32 @@ export default function Calendar({ display_past }) {
         {
             "name": "Google Calendar",
             "img_url": `${process.env.PUBLIC_URL}/img/calendar/google-calendar.svg`,
-            "link": `https://www.google.com/calendar/render?cid=webcal://${ical_path}`
+            "link": `https://www.google.com/calendar/render?cid=${ical_param.ical_webcal}`
         },
         {
             "name": "Apple iCal",
             "img_url": `${process.env.PUBLIC_URL}/img/calendar/apple-calendar.png`,
-            "link": `webcal://${ical_path}`
+            "link": `${ical_param.ical_webcal}`
         },
         {
             "name": "Outlook Agenda",
             "img_url": `${process.env.PUBLIC_URL}/img/calendar/outlook-calendar.svg`,
-            "link": `https://outlook.live.com/calendar/0/addfromweb/?url=webcal://${ical_path}&name=${cal_info['x-wr-calname']}`
+            "link": `https://outlook.live.com/calendar/0/addfromweb/?url=${ical_param.ical_webcal}&name=${cal_info['x-wr-calname']}`
         },
         {
             "name": "Windows Calendar",
             "img_url": `${process.env.PUBLIC_URL}/img/calendar/windows-calendar.svg`,
-            "link": `webcal://${ical_path}`
+            "link": `${ical_param.ical_webcal}`
         },
         {
             "name": "Office 365 Calendar",
             "img_url": `${process.env.PUBLIC_URL}/img/calendar/office-calendar.svg`,
-            "link": `https://outlook.office.com/calendar/0/addfromweb/?url=webcal://${ical_path}&name=${cal_info['x-wr-calname']}`
+            "link": `https://outlook.office.com/calendar/0/addfromweb/?url=${ical_param.ical_webcal}&name=${cal_info['x-wr-calname']}`
         },
         {
             "name": "Fichier ics",
             "img_url": `${process.env.PUBLIC_URL}/img/calendar/file.svg`,
-            "link": ical_path,
+            "link": ical_param.ical_path,
             "download": team_info.calendar_id + ".ics"
         },
     ]
