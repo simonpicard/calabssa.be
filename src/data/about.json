@@ -1,0 +1,14 @@
+[
+    {
+        "q": "De quoi s'agit-il?",
+        "a": "Un outil pour visualiser les matches d'ABSSA, une ligue de football amateur Belge, en regroupant différentes information dans un calendrier."
+    },
+    {
+        "q": "Comment ça marche?",
+        "a": "Les données du site web de l'ABSSA sont récupérées et puis combinées pour créer un calendrier via Python. Ensuite ces calendriers sont affichés sur ce site web via JavaScript et React."
+    },
+    {
+        "q": "Qui suis-je?",
+        "a": "Simon, vous pouvez en savoir plus ici: simonmyway.com"
+    }
+]
