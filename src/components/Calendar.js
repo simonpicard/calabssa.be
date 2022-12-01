@@ -5,6 +5,7 @@ import DayDiv from "../data/day_div.json";
 import {
     useLoaderData
 } from "react-router-dom";
+import { Helmet } from "react-helmet";
 
 const ical = require('cal-parser');
 
@@ -110,7 +111,6 @@ export default function Calendar({ display_past }) {
     }, [showPast, cal_events]);
 
     useEffect(() => {
-        document.title = "CalABSSA" + (team_info.club_name ? " - " + team_info.club_name : "");
         setShowPast(cal_param.display_past);
     }, [team_info, cal_param]);
 
@@ -167,6 +167,11 @@ export default function Calendar({ display_past }) {
             tabIndex={-1}
             className="focus:outline-none"
         >
+
+            <Helmet>
+                <title>{"CalABSSA" + (team_info.club_name ? " - " + team_info.club_name : "")}</title>
+                <meta name="description" content={team_info.caldesc} />
+            </Helmet>
             {
                 save_cal &&
                 <div
@@ -188,7 +193,6 @@ export default function Calendar({ display_past }) {
                             </div>
                             {
                                 cal_dl_info.map((elem, key) => {
-                                    console.log(elem)
                                     return (
                                         <div className="hover:bg-slate-100 w-full h-full cursor-pointer" key={key} >
                                             <a
@@ -246,7 +250,7 @@ export default function Calendar({ display_past }) {
                     }
                 </div>
             </div>
-        </div >
+        </div>
     )
 
 

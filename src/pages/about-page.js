@@ -2,9 +2,6 @@ import AboutData from "../data/about.json";
 
 export default function AboutPage() {
 
-    console.log(AboutData);
-    AboutData.forEach((value, key) => { console.log(value, key) });
-
     document.title = "CalABSSA";
 
     return (
@@ -23,6 +20,6 @@ export default function AboutPage() {
                     );
                 })
             }
-        </div >
+        </div>
     );
 }
