@@ -1,4 +1,5 @@
 import { useRef, useState } from "react";
+
 import React from "react";
 
 export default function Accordion(props) {
@@ -9,7 +10,7 @@ export default function Accordion(props) {
 
   const [summary, ...details] = children;
 
-  let toggleHandler = (e) => {
+  let toggleHandler = () => {
     setOpen(!open);
     if (openAction) openAction();
   };
