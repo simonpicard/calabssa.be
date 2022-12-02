@@ -9,7 +9,7 @@ export default function MainPage({ data }) {
         <title>CalABSSA</title>
         <meta
           name="description"
-          content="Les matches d'ABSSA sour forme de calendrier pour toutes ses équipe!"
+          content="Les matches d'ABSSA sous forme de calendrier pour toutes ses équipe!"
         />
       </Helmet>
 

@@ -11,7 +11,12 @@ export default function AboutPage() {
         return (
           <Accordion className="py-2" key={key}>
             <div className="font-semibold">{value.q}</div>
-            <div className="text-justify">{value.a}</div>
+            <div className="text-justify">
+              <div
+                className="content"
+                dangerouslySetInnerHTML={{ __html: value.a }}
+              ></div>
+            </div>
           </Accordion>
         );
       })}
