@@ -1,25 +1,20 @@
 import AboutData from "../data/about.json";
+import Accordion from "../components/Accordion";
 
 export default function AboutPage() {
-
-    document.title = "CalABSSA";
-
-    return (
-        <div id="about-page" className="block divide-solid divide-y divide-slate-900/10 text-[#334155] items-center">
-            {
-                AboutData.map((value, key) => {
-                    return (
-                        <details key={key} className="pt-4 pb-2">
-                            <summary className="cursor-pointer font-semibold pb-2">
-                                {value.q}
-                            </summary>
-                            <div className="mb-2 text-justify">
-                                {value.a}
-                            </div>
-                        </details>
-                    );
-                })
-            }
-        </div>
-    );
+  return (
+    <div
+      id="about-page"
+      className="block divide-solid divide-y divide-slate-900/ 10 text-[#334155] items-center"
+    >
+      {AboutData.map((value, key) => {
+        return (
+          <Accordion className="py-2">
+            <div className="font-semibold">{value.q}</div>
+            <div className="text-justify">{value.a}</div>
+          </Accordion>
+        );
+      })}
+    </div>
+  );
 }

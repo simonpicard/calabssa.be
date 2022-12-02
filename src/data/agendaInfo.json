@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Google Calendar",
+    "img_url": "{{publicUrl}}/img/calendar/google-calendar.svg",
+    "link": "https://www.google.com/calendar/render?cid=webcal://{{baseUri}}"
+  },
+  {
+    "name": "Apple iCal",
+    "img_url": "{{publicUrl}}/img/calendar/apple-calendar.png",
+    "link": "webcal://{{baseUri}}"
+  },
+  {
+    "name": "Outlook Agenda",
+    "img_url": "{{publicUrl}}/img/calendar/outlook-calendar.svg",
+    "link": "https://outlook.live.com/calendar/0/addfromweb/?url=webcal://{{baseUri}}&name={{calName}}"
+  },
+  {
+    "name": "Windows Calendar",
+    "img_url": "{{publicUrl}}/img/calendar/windows-calendar.svg",
+    "link": "webcal://{{baseUri}}"
+  },
+  {
+    "name": "Office 365 Calendar",
+    "img_url": "{{publicUrl}}/img/calendar/office-calendar.svg",
+    "link": "https://outlook.office.com/calendar/0/addfromweb/?url=webcal://{{baseUri}}&name={{calName}}"
+  },
+  {
+    "name": "Fichier ics",
+    "img_url": "{{publicUrl}}/img/calendar/file.svg",
+    "link": "https://{{baseUri}}"
+  }
+]
