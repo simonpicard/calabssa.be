@@ -7,7 +7,7 @@ function HeaderBar({ data }) {
       <div className="sm:hidden flex w-full p-2 items-center">
         <Link to="/" className="flex items-center">
           <img
-            src={`${process.env.PUBLIC_URL}/icon/soccer-459-edit.svg`}
+            src={`${process.env.PUBLIC_URL}/icon/calabssa-logo.svg`}
             className="h-9 w-9 min-w-[36px] min-h-[36px] mr-2"
             alt="CalABSSA icon"
           />
@@ -20,7 +20,7 @@ function HeaderBar({ data }) {
       <div className="flex md:grid md:grid-cols-4 h-16 sm:space-x-4 items-center p-2">
         <Link to="/" className="hidden sm:flex items-center w-max">
           <img
-            src={`${process.env.PUBLIC_URL}/icon/soccer-459-edit.svg`}
+            src={`${process.env.PUBLIC_URL}/icon/calabssa-logo.svg`}
             className="h-9 w-9 min-w-[36px] min-h-[36px] md:mr-2"
             alt="CalABSSA icon"
           />

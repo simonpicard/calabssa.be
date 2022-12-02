@@ -18,6 +18,8 @@ export default function MainPage({ data }) {
           <img
             src={`${process.env.PUBLIC_URL}/img/bg-green.avif`}
             alt="background"
+            width="2296"
+            height="668"
           />
         </div>
       </div>

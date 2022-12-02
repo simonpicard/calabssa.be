@@ -9,7 +9,7 @@ export default function AboutPage() {
     >
       {AboutData.map((value, key) => {
         return (
-          <Accordion className="py-2">
+          <Accordion className="py-2" key={key}>
             <div className="font-semibold">{value.q}</div>
             <div className="text-justify">{value.a}</div>
           </Accordion>
