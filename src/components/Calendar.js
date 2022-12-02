@@ -1,5 +1,6 @@
 import { useRef, useState, useEffect } from "react";
 import Event from "./Event";
+import AddCalendarPopUp from "./AddCalendarPopUp";
 import TeamData from "../data/teams.json";
 import DayDiv from "../data/day_div.json";
 import {
@@ -10,6 +11,7 @@ import { Helmet } from "react-helmet";
 const ical = require('cal-parser');
 
 async function load_and_parse_cal(file_name) {
+    const base_uri = `raw.githubusercontent.com/simonpicard/abssa-ical/main/data/07_model_output/ics/${file_name}.ics`
     const ical_path = `https://raw.githubusercontent.com/simonpicard/abssa-ical/main/data/07_model_output/ics/${file_name}.ics`
     const ical_webcal = ical_path.replace("https", "webcal")
     const ical_call = await fetch(ical_path);
@@ -27,8 +29,8 @@ async function load_and_parse_cal(file_name) {
         cal_events.push({
             "key": elem.uid.value,
             "dtstamp": elem.dtstamp,
-            "dtstart": new Date(elem.dtstart.value.toLocaleString('en', { timeZone: 'UTC' })),
-            "dtend": new Date(elem.dtend.value.toLocaleString('en', { timeZone: 'UTC' })),
+            "dtstart": elem.dtstart.value,
+            "dtend": elem.dtend.value,
             "summary": elem.summary.value,
             "description": desc,
             "location": elem.location.value,
@@ -41,7 +43,8 @@ async function load_and_parse_cal(file_name) {
 
     const ical_param = {
         ical_path: ical_path,
-        ical_webcal: ical_webcal
+        ical_webcal: ical_webcal,
+        base_uri: base_uri
     }
 
     return { ical_param, cal_info, cal_events };
@@ -114,41 +117,6 @@ export default function Calendar({ display_past }) {
         setShowPast(cal_param.display_past);
     }, [team_info, cal_param]);
 
-
-    const cal_dl_info = [
-        {
-            "name": "Google Calendar",
-            "img_url": `${process.env.PUBLIC_URL}/img/calendar/google-calendar.svg`,
-            "link": `https://www.google.com/calendar/render?cid=${ical_param.ical_webcal}`
-        },
-        {
-            "name": "Apple iCal",
-            "img_url": `${process.env.PUBLIC_URL}/img/calendar/apple-calendar.png`,
-            "link": `${ical_param.ical_webcal}`
-        },
-        {
-            "name": "Outlook Agenda",
-            "img_url": `${process.env.PUBLIC_URL}/img/calendar/outlook-calendar.svg`,
-            "link": `https://outlook.live.com/calendar/0/addfromweb/?url=${ical_param.ical_webcal}&name=${cal_info['x-wr-calname']}`
-        },
-        {
-            "name": "Windows Calendar",
-            "img_url": `${process.env.PUBLIC_URL}/img/calendar/windows-calendar.svg`,
-            "link": `${ical_param.ical_webcal}`
-        },
-        {
-            "name": "Office 365 Calendar",
-            "img_url": `${process.env.PUBLIC_URL}/img/calendar/office-calendar.svg`,
-            "link": `https://outlook.office.com/calendar/0/addfromweb/?url=${ical_param.ical_webcal}&name=${cal_info['x-wr-calname']}`
-        },
-        {
-            "name": "Fichier ics",
-            "img_url": `${process.env.PUBLIC_URL}/img/calendar/file.svg`,
-            "link": ical_param.ical_path,
-            "download": team_info.calendar_id + ".ics"
-        },
-    ]
-
     const handleKeyDown = (event) => {
         const { key } = event;
         if (key === "Escape")
@@ -173,42 +141,7 @@ export default function Calendar({ display_past }) {
                 <meta name="description" content={team_info.caldesc} />
             </Helmet>
             {
-                save_cal &&
-                <div
-                    className="fixed w-full h-full bg-white/50 backdrop-blur top-0 left-0 z-50"
-                    onClick={() => setSaveCal(false)}
-                >
-                    <div
-                        className="flex items-center justify-center w-full h-full"
-                    >
-                        <div
-                            className="bg-white block w-auto drop-shadow-2xl rounded-3xl p-6 text-lg md:text-2xl divide-y "
-                        >
-                            <div className="mb-2 flex">
-                                <p>Enregistrer le calendrier</p>
-                                <svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" onClick={() => setSaveCal(false)} className='w-6 ml-4 cursor-pointer'>
-                                    <path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z">
-                                    </path>
-                                </svg>
-                            </div>
-                            {
-                                cal_dl_info.map((elem, key) => {
-                                    return (
-                                        <div className="hover:bg-slate-100 w-full h-full cursor-pointer" key={key} >
-                                            <a
-                                                href={elem.link}
-                                                className="flex space-x-2 h-full py-2"
-                                            >
-                                                <img src={elem.img_url} alt={`${elem.name} icon`} width="32" />
-                                                <p>{elem.name}</p>
-                                            </a>
-                                        </div>
-                                    )
-                                })
-                            }
-                        </div>
-                    </div>
-                </div>
+                save_cal && <AddCalendarPopUp base_uri={ical_param.base_uri} cal_name={cal_info['x-wr-calname']} closeEvent={() => setSaveCal(false)} />
             }
             <div className='block'>
 

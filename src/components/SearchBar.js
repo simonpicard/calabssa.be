@@ -119,7 +119,7 @@ function SearchBar({ placeholder, data }) {
                 <div
                     ref={resultRef}
                     className="sm:text-lg overflow-hidden transition-[max-height] ease-out duration-200 delay-[0ms] rounded-b-3xl"
-                    style={{ maxHeight: Math.min(8, filteredData.length) * 48 + "px" }}
+                    style={{ maxHeight: Math.max(0, Math.min(8, filteredData.length) * (48 + 1) - 1) + "px" }}
                 >
                     {filteredData.slice(0, 8).map((value, key) => {
                         return (
@@ -128,7 +128,7 @@ function SearchBar({ placeholder, data }) {
                                 value={key}
                                 ref={key === focusedIndex ? selectedResultRef : null}
                                 id={value[0]}
-                                className="flex py-1 items-center bg-white pl-4 cursor-pointer"
+                                className="flex py-3 sm:py-1 items-center bg-white mx-4 cursor-pointer border-b sm:border-b-0"
                                 onMouseOver={handleMouseOver}
                                 onClick={handleClick}
                                 style={{
