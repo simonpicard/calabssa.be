@@ -21,7 +21,7 @@ export default function Accordion(props) {
         className="relative flex hover:text-sky-400 cursor-pointer"
         onClick={toggleHandler}
       >
-        <div className="w-full">{summary}</div>
+        <div className="w-full min-h-full items-center flex">{summary}</div>
         <div className="place-self-center h-min my-auto">
           <p
             className="text-2xl transition-[transform] ease-out duration-200 delay-[0ms] select-none"
