@@ -84,7 +84,7 @@ function Event(props) {
 
   const formatDescription = (description) => {
     return description.split("\n\n").map((str, i) => (
-      <div className="my-1 py-1" key={"desc" + i}>
+      <div className="my-1 py-1 block" key={"desc" + i}>
         {str.split("\n").map((str2, i2) => (
           <p className="text-justify" key={"desc" + i + "_" + i2}>
             {urlify(str2)}
@@ -98,6 +98,7 @@ function Event(props) {
     <Accordion
       className="pt-2 mt-2 text-left text-[#334155]"
       openAction={updateMap}
+      offsetArrow={width > 1280}
     >
       <div className="grid grid-cols-6 lg:grid-cols-6 xl:grid-cols-7 w-full">
         <div className="row-start-1 col-start-1 flex-none flex lg:block xl:grid xl:grid-cols-2 row-span-1 lg:row-span-2 xl:row-span-1 xl:col-span-2 space-x-1 lg:space-x-0">
