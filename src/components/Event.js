@@ -114,10 +114,10 @@ function Event(props) {
         </div>
       </div>
 
-      <div className="flex flex-col-reverse md:grid md:grid-rows-1 md:grid-cols-6 xl:grid-cols-7">
+      <div className="flex flex-col-reverse h-full md:grid md:grid-rows-1 md:grid-cols-6 xl:grid-cols-7">
         <MapContainer
           ref={mapRef}
-          className="block z-0 h-32 md:h-auto md:row-start-1 col-start1 md:col-start-5 xl:col-start-1 col-span-2 md:ml-2 xl:mr-2 xl:ml-0"
+          className="block z-0 min-h-[8rem] md:min-h-[auto] md:row-start-1 md:col-start-5 xl:col-start-1 md:col-span-2 md:ml-2 xl:mr-2 xl:ml-0"
           center={geo}
           zoom={10}
         >

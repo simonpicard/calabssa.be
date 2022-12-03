@@ -14,15 +14,31 @@ function SearchBar({ placeholder, data }) {
   const handleFilter = (event) => {
     const searchWord = event.target.value;
     setWordEntered(searchWord);
-    const newFilter = Object.entries(data).filter(([key, value]) => {
-      return value.search_name.toLowerCase().includes(searchWord.toLowerCase());
-    });
 
     if (searchWord === "") {
       setFilteredData([]);
-    } else {
-      setFilteredData(newFilter);
+      return;
     }
+
+    const strictFilteredIn = [];
+    const strictFilteredOut = [];
+
+    for (const [key, value] of Object.entries(data)) {
+      (value.search_name
+        .toLowerCase()
+        .split(" - ")[1]
+        .substring(0, searchWord.length) === searchWord.toLowerCase()
+        ? strictFilteredIn
+        : strictFilteredOut
+      ).push([key, value]);
+    }
+
+    const generalFilteredIn = strictFilteredOut.filter(([key, value]) => {
+      return value.search_name.toLowerCase().includes(searchWord.toLowerCase());
+    });
+
+    const newFilter = strictFilteredIn.concat(generalFilteredIn);
+    setFilteredData(newFilter);
   };
 
   const clearInput = () => {

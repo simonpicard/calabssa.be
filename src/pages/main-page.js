@@ -4,7 +4,7 @@ import { Outlet } from "react-router-dom";
 
 export default function MainPage({ data }) {
   return (
-    <div className="relative z-10 antialiased">
+    <div className="antialiased">
       <Helmet>
         <title>CalABSSA</title>
         <meta

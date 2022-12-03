@@ -65,7 +65,7 @@ export async function loader({ params }) {
   loaderData.calSettings = {
     displayPast: false,
     setPageTitle: true,
-    enableAddAgenda: true,
+    enableOptions: true,
   };
 
   return loaderData;
@@ -101,7 +101,7 @@ export async function defaultLoader() {
   loaderData.calSettings = {
     displayPast: true,
     setPageTitle: false,
-    enableAddAgenda: false,
+    enableOptions: false,
   };
   return loaderData;
 }
@@ -133,7 +133,7 @@ export default function Calendar() {
   };
 
   const handleClickAddAgenda = () => {
-    if (calSettings.enableAddAgenda) {
+    if (calSettings.enableOptions) {
       setSaveCal(true);
       saveCalPopUp.current.focus();
     }
@@ -167,22 +167,23 @@ export default function Calendar() {
       )}
       <div className="block">
         <div className="block lg:flex w-full items-center space-y-4 lg:space-y-0 lg:mb-6 ">
-          <h1 className="text-center lg:text-left font-extrabold text-2xl sm:text-3xl w-full">
+          <h1 className="text-center lg:text-left font-extrabold text-2xl sm:text-3xl w-full lg:min-h-[52px]">
             {icalInfo.displayNameFull}
           </h1>
-          <p
-            className="min-w-max max-w-max mx-auto rounded-3xl p-3 text-white font-semibold bg-sky-400 text-lg select-none cursor-pointer"
-            onClick={handleClickAddAgenda}
-            style={{
-              visibility: calSettings.enableAddAgenda ? "visible" : "hidden",
-            }}
-          >
-            Ajouter à l'agenda
-          </p>
+          {calSettings.enableOptions && (
+            <p
+              className="min-w-max max-w-max mx-auto rounded-3xl p-3 text-white font-semibold bg-sky-400 text-lg select-none cursor-pointer"
+              onClick={handleClickAddAgenda}
+            >
+              Ajouter à l'agenda
+            </p>
+          )}
         </div>
-        <Toggle state={showPast} setState={setShowPast}>
-          Afficher les matches passés
-        </Toggle>
+        {calSettings.enableOptions && (
+          <Toggle state={showPast} setState={setShowPast}>
+            Afficher les matches passés
+          </Toggle>
+        )}
       </div>
       <div className="divide-solid divide-y divide-slate-900/10">
         {events.map((e) => (

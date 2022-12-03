@@ -6,7 +6,7 @@ export default function ErrorPage({ data }) {
   console.error(error);
 
   return (
-    <div className="relative z-10 antialiased">
+    <div className="antialiased">
       <div className="absolute z-0 top-0 inset-x-0 overflow-hidden pointer-events-none flex justify-end">
         <div className="w-[71.75rem] max-w-none flex-none">
           <img
