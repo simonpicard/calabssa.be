@@ -17,7 +17,10 @@ async function loadAndParseCal(fileName) {
 
   const icalCall = await fetch(icalPath);
   const icalText = await icalCall.text();
-  const icalTextNewline = icalText.replace(/\\n/g, "<br />");
+  const icalTextNewline = icalText
+    .replace(/\\\r\n n/g, "<br />")
+    .replace(/\\n/g, "<br />");
+
   const icalDict = ical.parseString(icalTextNewline);
 
   const icalInfo = icalDict.calendarData;
