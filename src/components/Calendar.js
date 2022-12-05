@@ -79,7 +79,7 @@ export async function defaultLoader() {
   today.setHours(0, 0, 0, 0);
 
   const dayDivFlt = Object.entries(DayDiv).filter(
-    (e) => new Date(e[1].date.replace(/-/g, "/")) >= today
+    (e) => new Date(Date.parse(e[1].date.replace(" ", "T"))) >= today
   );
 
   var dayDivCandidates;
