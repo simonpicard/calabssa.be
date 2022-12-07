@@ -1,7 +1,7 @@
 [
   {
     "q": "De quoi s'agit-il?",
-    "a": "Un outil pour visualiser les matchs d'ABSSA, une ligue de football amateur belge, en regroupant différentes informations dans un calendrier."
+    "a": "Un outil pour visualiser les matchs d'ABSSA, une ligue de football amateur belge, en regroupant différentes informations dans un calendrier. Attention, cet outil est une aide proposée sans garantie de service. Il est possible que celui-ci soit un jour interrompu ou indisponible."
   },
   {
     "q": "Comment ça marche?",
@@ -16,8 +16,8 @@
     "a": "Tous les matchs présent sur le site web de l'ABSSA seront affichés ici. Cependant, tout autre match ne sera pas affiché, c'est typiquement le cas pour les matchs remis."
   },
   {
-    "q": "Toutes les informations à propos des matchs  sont-elles correctes?",
-    "a": "En principe oui, vous pouvez toujours les vérifier via les liens directs vers le site de l'ABSSA dans les détails d'un match. Enfin, si une information est incorrecte sur le site de l'ABSSA, elle sera copiée telle quelle ici, pensez à en informer l'ABSSA si c'est le cas."
+    "q": "Toutes les informations à propos des matchs sont-elles correctes?",
+    "a": "En principe oui, vous pouvez toujours les vérifier via les liens directs vers le site de l'ABSSA dans les détails d'un match. Enfin, si une information est incorrecte sur le site de l'ABSSA, elle sera copiée telle quelle ici, pensez à en informer l'ABSSA si c'est le cas. Cela dit, l'exactitude des données n'est pas garantie."
   },
   {
     "q": "J'aimerais avoir accès aux données brutes de l'ABSSA, est-ce possible?",
