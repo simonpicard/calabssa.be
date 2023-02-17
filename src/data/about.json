@@ -38,5 +38,9 @@
   {
     "q": "Pourquoi ai-je créé ce site web?",
     "a": "À la base, j'avais créé un calendrier pour mon équipe, et une fois la logique implémentée, il était facile de le faire pour toutes les autres équipes. Ensuite, j'ai voulu apprendre à créer un site web en utilisant React, et ce projet m'a permis de pratiquer."
+  },
+  {
+    "q": "Liens utiles",
+    "a": "<ul><li><a href=\"https://www.abssa.org/\" style=\"text-decoration: underline;\">abssa.org<a>: le site officiel de la Royale A.B.S.S.A.</li><li><a href=\"http://www.abssaratings.be/\" style=\"text-decoration: underline;\">abssaratings.be<a>: ABSSA Ratings applique la formule Elo au football en ABSSA.</li></ul>"
   }
 ]
