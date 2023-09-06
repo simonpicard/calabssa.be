@@ -1,0 +1,123 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:abbsa_j_18_d_6d
+X-WR-CALDESC:Les matches de la journée 18 en divion 6D d'ABSSA.
+X-WR-CALNAME:D6D Journée 18
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J18: NIVELLOIS-ACLOT BS (Eq. 2) vs PANGLOSS FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240210T120000Z
+DTEND;VALUE=DATE-TIME:20240210T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_6D_18_503_123
+DESCRIPTION:Terrain synthétique: non\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
+ e: Bleu\n\nContact équipe domicile: Draux N. (0472.40.01.22 - ni.draux@gm
+ ail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoroute Brux
+ elles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le pon
+ t de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au rond-p
+ oint (Shopping Center)\, tourner à droite en direction de Wavre (petit ri
+ ng de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point du S
+ hopping Center)\, tourner à gauche \, rue de l'Industrie et pénétrer da
+ ns le zoning. Au bout de la rue\, avant le feu de signalisation\, tourner 
+ à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérifiez to
+ ujours ces infos sur http://www.abssa.be/
+GEO:50.5963436;4.3564187
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Draux N.";ROLE=Secrétaire:MAILTO:ni.draux@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J18: ENTENTE  RACB (Eq. 2) vs AEMA VETERANS
+DTSTART;VALUE=DATE-TIME:20240210T130000Z
+DTEND;VALUE=DATE-TIME:20240210T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_6D_18_2_427
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Jaune
+  et bleu\n\nContact équipe domicile: Dath D. (0473.47.15.41 - daniel.dath
+ @hotmail.com)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\,
+  vers Neder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au
+  rond-point\, tout droit Chemin Vert\, puis première à gauche\, Petit Ch
+ emin Vert\, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://w
+ ww.abssa.be/
+GEO:50.89983369999999;4.3936101
+LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
+ORGANIZER;CN="Dath D.";ROLE=Secrétaire:MAILTO:daniel.dath@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J18: CHOULE AUDERGHEM (Eq. 6) vs MIREILLE WEMMEL (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240210T130000Z
+DTEND;VALUE=DATE-TIME:20240210T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_6D_18_517_93
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir\
+ n\nContact équipe domicile: Vandenplas D. (0476.54.48.01 - dav_54@hotmail
+ .com)\n\nAccès voiture : En venant de Bruxelles par la chaussée de Wavre
+ \, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ban
+ de de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADEP
+ S\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le te
+ rrain se trouve à 200 m. Le stade est fléché.\n\nVérifiez toujours ces
+  infos sur http://www.abssa.be/
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J18: LA LORRAINE-MTM.R (Eq. 3) vs BRITISH UNITED (Eq. 6)
+DTSTART;VALUE=DATE-TIME:20240210T130000Z
+DTEND;VALUE=DATE-TIME:20240210T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_6D_18_44_132
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Degimbe M. (0478.53.63.56 - lalorrainefc@gmail
+ .com)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Pa
+ sser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur ht
+ tp://www.abssa.be/
+GEO:50.7282426;4.5537189
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="Degimbe M.";ROLE=Secrétaire:MAILTO:lalorrainefc@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J18: OMNISPORT BIERGHES (Eq. 2) vs ANDERLECHT US
+DTSTART;VALUE=DATE-TIME:20240210T143000Z
+DTEND;VALUE=DATE-TIME:20240210T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_6D_18_455_280
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B02\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Ma
+ uve\n\nContact équipe domicile: Barbe L. (0495.21.74.14 - omnisportbiergh
+ es1995@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Charleroi (E19)\
+ , prendre la sortie Halle-Tournai-Lille (n° 21) pour rejoindre l'autorout
+ e Tournai-Lille\, ancienne route A8 (E429). Prendre la sortie Rebecq-Quena
+ st (n° 24). En bas de la sortie\, prendre à droite\, direction Bierghes.
+  Rouler tout droit jusqu'au premier feu rouge. Tourner à droite en direct
+ ion de Halle\, ensuite la deuxième rue à droite (rue du Sartiau)\, ensui
+ te à gauche. Le terrain se trouve à 300 m.\n\nVérifiez toujours ces inf
+ os sur http://www.abssa.be/
+GEO:50.6957846;4.129257
+LOCATION:Rue du Sartiau 3B\, 1430 Bierghes-Rebecq\, Belgique
+ORGANIZER;CN="Barbe L.";ROLE=Secrétaire:MAILTO:omnisportbierghes1995@gmai
+ l.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J18: JETTOISE (AMICALE) vs STRING PENELOPE (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20240210T143000Z
+DTEND;VALUE=DATE-TIME:20240210T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_6D_18_347_181
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Bleu et blanc\nCouleur principale équipe exterieur
+ e: Orange\n\nContact équipe domicile: Pogradja  A. (0478.37.94.22 - avnip
+ ogradja@gmail.com)\n\nAccès voiture : Direction cimetière de Jette\, ens
+ uite prendre la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, av
+ enue J.J. Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces
+  infos sur http://www.abssa.be/
+GEO:50.8907643;4.3211209
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
+ Belgique
+ORGANIZER;CN="Pogradja  A.";ROLE=Secrétaire:MAILTO:avnipogradja@gmail.com
+END:VEVENT
+END:VCALENDAR

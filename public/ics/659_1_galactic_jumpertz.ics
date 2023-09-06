@@ -1,288 +1,516 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:c1936e24-188b-4206-85a6-6e03528985dd
-X-WR-CALDESC:Les matches de GALACTIC JUMPERTZ (eq. 1) en ABSSA.
-X-WR-CALNAME:ABSSA - GALACTIC JUMPERTZ (eq. 1) - 659
-X-WR-TIMEZONE:Europe/Brussels
+PRODID:659_1_galactic_jumpertz
+X-WR-CALDESC:Les matches du club GALACTIC JUMPERTZ (equipe 1) en ABSSA.
+X-WR-CALNAME:ABSSA: GALACTIC JUMPERTZ (eq. 1)
 BEGIN:VEVENT
-SUMMARY:ABSSA D5B J2: GALACTIC JUMPERTZ vs GREZ AJ (Eq. 3)
-DTSTART:20220910T123000Z
-DTEND:20220910T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:b5c4d162-117d-4bcf-9b3e-6f07f181e715
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Orange\nCouleur principale équipe extérieur: Vert\n\nContact équipe
-  domicile: EYLETTEN J. (0470.31.54.56)\n\nAccès voiture : Par la E411 Bru
- xelles-Namur\, prendre la sortie n° 5 (Wavre Nord\, Rixensart\, Bierges).
- \nEnsuite prendre la N257 pendant 700 mètres jusqu'au rond-point\, prendr
- e la rue de l'Etoile et ensuite la rue de Mérode jusqu'à Rixensart. Apr
- ès 900 mètres\, à la Place de la Perche\, prendre à droite l'avenue de
-  la Paix et encore à droite l'avenue Clermont Tonnerre.
+SUMMARY:ABSSA D5B J10: GALACTIC JUMPERTZ vs L'EKIP
+DTSTART;VALUE=DATE-TIME:20230902T103000Z
+DTEND;VALUE=DATE-TIME:20230902T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5B_10_659_662
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R03\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Blan
+ c\n\nContact équipe domicile: Eyletten J. (0470.31.54.56 - galactic.jumpe
+ rtz@gmail.com)\n\nAccès voiture : Par la E411 Bruxelles-Namur\, prendre l
+ a sortie n° 5 (Wavre Nord\, Rixensart\, Bierges).\nEnsuite prendre la N25
+ 7 pendant 700 mètres jusqu'au rond-point\, prendre la rue de l'Etoile et 
+ ensuite la rue de Mérode jusqu'à Rixensart. Après 900 mètres\, à la P
+ lace de la Perche\, prendre à droite l'avenue de la Paix et encore à dro
+ ite l'avenue Clermont Tonnerre.\n\nVérifiez toujours ces infos sur http:/
+ /www.abssa.be/
 GEO:50.7128483;4.5376972
-LOCATION:COMPLEXE SPORTIF DE RIXENSART\, Avenue Clermont Tonnerre\, 26A\, 
- 1330 Rixensart\, Belgique
-ORGANIZER:MAILTO:galactic.jumpertz@gmail.com
+LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
+ 30 Rixensart\, Belgique
+ORGANIZER;CN="Eyletten J.";ROLE=Secrétaire:MAILTO:galactic.jumpertz@gmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5B J12: DEAF BRUSSELS FC vs GALACTIC JUMPERTZ
-DTSTART:20221126T153000Z
-DTEND:20221126T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:44a50a72-348f-494c-a807-a248b69b0899
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert et noir\nCouleur principale équipe extérieur: Orange\n\nContact
-  équipe domicile: VAN BRANDT S. (0494.24.34.05 (SMS))\n\nAccès voiture :
-  Chaussée de Haecht\, vers Diegem. Prendre la rue Harenheyde à gauche\, 
- juste au feu de signalisation\, après la station "JET"\, situé à gauche
- . Entrée du stade par la rue Harenheyde\, 100 m. au-delà du pont du chem
- in de fer.
-GEO:50.8929668;4.4236193
-LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
-ORGANIZER:MAILTO:fc_deaf_brussels@live.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5B J13: GREZ AJ (Eq. 3) vs GALACTIC JUMPERTZ
-DTSTART:20221203T153000Z
-DTEND:20221203T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:911935ea-96f6-4db8-88bb-6db3fe1d159a
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe extérieur: Orange\n\nContact équipe
-  domicile: VANHAMME J. (0474.56.81.54)\n\nAccès voiture : Autoroute Bruxe
- lles-Namur (E411) prendre la sortie Louvain/Grez-Doiceau (n° 8). Prendre 
- la RN25 en direction de Louvain/Grez-Doiceau. Passer tout droit les deux p
- remiers ronds-points à l'issue de la RN 25. Au troisième rond-point pren
- dre à droite. Le terrain se trouve 150 m. plus loin à gauche de la rue d
- u Stampia.
-GEO:50.744789;4.6969702
-LOCATION:Rue du Stampia\, 1390 Grez-Doiceau\, Belgique
-ORGANIZER:MAILTO:jerome.vanhamme@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5B J14: GALACTIC JUMPERTZ vs PINK PANTHERS
-DTSTART:20221210T123000Z
-DTEND:20221210T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:05d42da7-717f-4727-ac6e-66c24957cb05
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Orange\nCouleur principale équipe extérieur: Noir/ rose\n\nContact 
- équipe domicile: EYLETTEN J. (0470.31.54.56)\n\nAccès voiture : Par la E
- 411 Bruxelles-Namur\, prendre la sortie n° 5 (Wavre Nord\, Rixensart\, Bi
- erges).\nEnsuite prendre la N257 pendant 700 mètres jusqu'au rond-point\,
-  prendre la rue de l'Etoile et ensuite la rue de Mérode jusqu'à Rixensar
- t. Après 900 mètres\, à la Place de la Perche\, prendre à droite l'ave
- nue de la Paix et encore à droite l'avenue Clermont Tonnerre.
+SUMMARY:ABSSA D5B J1: GALACTIC JUMPERTZ vs UNION BRUXELLOISE
+DTSTART;VALUE=DATE-TIME:20230909T103000Z
+DTEND;VALUE=DATE-TIME:20230909T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5B_1_659_655
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R03\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Noir
+ / Bleu\n\nContact équipe domicile: Eyletten J. (0470.31.54.56 - galactic.
+ jumpertz@gmail.com)\n\nAccès voiture : Par la E411 Bruxelles-Namur\, pren
+ dre la sortie n° 5 (Wavre Nord\, Rixensart\, Bierges).\nEnsuite prendre l
+ a N257 pendant 700 mètres jusqu'au rond-point\, prendre la rue de l'Etoil
+ e et ensuite la rue de Mérode jusqu'à Rixensart. Après 900 mètres\, à
+  la Place de la Perche\, prendre à droite l'avenue de la Paix et encore 
+ à droite l'avenue Clermont Tonnerre.\n\nVérifiez toujours ces infos sur 
+ http://www.abssa.be/
 GEO:50.7128483;4.5376972
-LOCATION:COMPLEXE SPORTIF DE RIXENSART\, Avenue Clermont Tonnerre\, 26A\, 
- 1330 Rixensart\, Belgique
-ORGANIZER:MAILTO:galactic.jumpertz@gmail.com
+LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
+ 30 Rixensart\, Belgique
+ORGANIZER;CN="Eyletten J.";ROLE=Secrétaire:MAILTO:galactic.jumpertz@gmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5B J15: RAYO LATINO vs GALACTIC JUMPERTZ
-DTSTART:20221217T140000Z
-DTEND:20221217T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:9db6e87c-33d2-4b77-a42c-aa97c7ca545b
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge et noir\nCouleur principale équipe extérieur: Orange\n\nContac
- t équipe domicile: LEPORCQ N (0485.64.31.86)\n\nAccès voiture : Chaussé
- e de Louvain jusqu'à Nossegem\, au premier croisement prendre à gauche l
- a \nMechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar
-  l'autoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, pr
- endre à gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, 
- et suivre comme ci-avant.
-GEO:50.8877772;4.5090761
-LOCATION:RADAR VLIEGHAVEN\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER:MAILTO:rayolatino@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5B J16: COSMOS BRUWOLF MJ vs GALACTIC JUMPERTZ
-DTSTART:20230107T153000Z
-DTEND:20230107T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:a8e92814-6dbb-4003-9a8a-2640fe703b91
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Orange/Noir\nCouleur principale équipe extérieur: Orange\n\nContact 
- équipe domicile: DEHAUT A. (0476.26.26.87)\n\nAccès voiture : Direction 
- cimetière de Jette\, ensuite prendre la rue du "Sacré-Coeur" jusqu'au bo
- ut\, puis tout droit\, avenue J.J. Crocq. Le terrain se trouve à gauche.
-GEO:50.8868564;4.3286963
-LOCATION:COMPLEXE SPORTIF DU HEYMBOSCH\, Avenue J.J. Crocq\, 1090 Jette\, 
+SUMMARY:ABSSA D5B J2: FRAUDES (LES) vs GALACTIC JUMPERTZ
+DTSTART;VALUE=DATE-TIME:20230916T113000Z
+DTEND;VALUE=DATE-TIME:20230916T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5B_2_665_659
+DESCRIPTION:Terrain synthétique: non\nCode terrain: A10\n\nCouleur princi
+ pale équipe domicile: Noir et blanc\nCouleur principale équipe exterieur
+ e: Orange\n\nContact équipe domicile: Struys L. (0491.84.27.37 - leo.stru
+ ys@telenet.be)\n\nAccès voiture : L'accès au terrain se fait à partir d
+ u n° 2057 de la chaussée de Wavre (en face du stade communal d'Auderghem
+ ). L'accès au terrain se fait par l'arrière du bâtiment principal (où 
+ sont situés les vestiaires) il faut parcourir environ 300 mètres avant d
+ 'atteindre le terrain de football situé après la piste d'athlétisme et 
+ le terrain de hockey.\n\nVérifiez toujours ces infos sur http://www.abssa
+ .be/
+GEO:50.8093405;4.4437919
+LOCATION:Complexe de L'Adeps\, Chaussée de Wavre 2057\, 1160 Auderghem\, 
  Belgique
-ORGANIZER:MAILTO:alain.dehaut@skynet.be
+ORGANIZER;CN="Struys L.";ROLE=Secrétaire:MAILTO:leo.struys@telenet.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5B J17: GALACTIC JUMPERTZ vs KARIA FC
-DTSTART:20230114T123000Z
-DTEND:20230114T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:10ed65d6-21c9-4004-8616-dc6e09b06b6d
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Orange\nCouleur principale équipe extérieur: Orange\n\nContact équi
- pe domicile: EYLETTEN J. (0470.31.54.56)\n\nAccès voiture : Par la E411 B
- ruxelles-Namur\, prendre la sortie n° 5 (Wavre Nord\, Rixensart\, Bierges
- ).\nEnsuite prendre la N257 pendant 700 mètres jusqu'au rond-point\, pren
- dre la rue de l'Etoile et ensuite la rue de Mérode jusqu'à Rixensart. Ap
- rès 900 mètres\, à la Place de la Perche\, prendre à droite l'avenue d
- e la Paix et encore à droite l'avenue Clermont Tonnerre.
+SUMMARY:ABSSA D5B J3: GALACTIC JUMPERTZ vs CHOULE AUDERGHEM (Eq. 4)
+DTSTART;VALUE=DATE-TIME:20230923T103000Z
+DTEND;VALUE=DATE-TIME:20230923T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5B_3_659_517
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R03\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Ray
+ é Bleu et Blanc\n\nContact équipe domicile: Eyletten J. (0470.31.54.56 -
+  galactic.jumpertz@gmail.com)\n\nAccès voiture : Par la E411 Bruxelles-Na
+ mur\, prendre la sortie n° 5 (Wavre Nord\, Rixensart\, Bierges).\nEnsuite
+  prendre la N257 pendant 700 mètres jusqu'au rond-point\, prendre la rue 
+ de l'Etoile et ensuite la rue de Mérode jusqu'à Rixensart. Après 900 m
+ ètres\, à la Place de la Perche\, prendre à droite l'avenue de la Paix 
+ et encore à droite l'avenue Clermont Tonnerre.\n\nVérifiez toujours ces 
+ infos sur http://www.abssa.be/
 GEO:50.7128483;4.5376972
-LOCATION:COMPLEXE SPORTIF DE RIXENSART\, Avenue Clermont Tonnerre\, 26A\, 
- 1330 Rixensart\, Belgique
-ORGANIZER:MAILTO:galactic.jumpertz@gmail.com
+LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
+ 30 Rixensart\, Belgique
+ORGANIZER;CN="Eyletten J.";ROLE=Secrétaire:MAILTO:galactic.jumpertz@gmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5B J18: CELTIC FORESTOIS vs GALACTIC JUMPERTZ
-DTSTART:20230121T140000Z
-DTEND:20230121T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:f73e4c5b-1268-4a69-837d-89db4de4fcdf
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert et  blanc\nCouleur principale équipe extérieur: Orange\n\nConta
- ct équipe domicile: LEAL SORIA D. (0474.88.64.33)\n\nAccès voiture : Au 
- départ de la Place St. Denis à Forest prendre la chaussée de Neerstalle
-  jusqu'à la rue de la Soierie (4ème rue à droite) et dans la rue de la 
- Soierie rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée B
- ritannique) pendant env. 500 m. L'entrée du Complexe se trouve à hauteur
-  de City Cart\, à gauche de la route.
-GEO:50.8005447;4.3095283
-LOCATION:COMPLEXE SPORTIF DU BEMPT\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER:MAILTO:leal-david@hotmail.fr
+SUMMARY:ABSSA D5B J4: PECHEUR F.C. vs GALACTIC JUMPERTZ
+DTSTART;VALUE=DATE-TIME:20230930T133000Z
+DTEND;VALUE=DATE-TIME:20230930T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5B_4_677_659
+DESCRIPTION:Terrain synthétique: non\nCode terrain: N04\n\nCouleur princi
+ pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
+ e: Orange\n\nContact équipe domicile: Delannoy I. (0471.59.00.22 - ignace
+ .delannoyc@gmail.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à No
+ ssegem\, au premier croisement prendre à gauche la \nMechelsesteenweg. Le
+  terrain est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-L
+ iège\, prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Meche
+ lsesteenweg\, traverser la chaussée de Louvain\, et suivre comme ci-avant
+ .\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.88776559999999;4.50894
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER;CN="Delannoy I.";ROLE=Secrétaire:MAILTO:ignace.delannoyc@gmail.
+ com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5B J19: GALACTIC JUMPERTZ vs MASIA CITY
-DTSTART:20230128T123000Z
-DTEND:20230128T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:39d3a923-773f-4c57-b018-f0ef0ff7ccea
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Orange\nCouleur principale équipe extérieur: Beige et bordeaux\n\nCo
- ntact équipe domicile: EYLETTEN J. (0470.31.54.56)\n\nAccès voiture : Pa
- r la E411 Bruxelles-Namur\, prendre la sortie n° 5 (Wavre Nord\, Rixensar
- t\, Bierges).\nEnsuite prendre la N257 pendant 700 mètres jusqu'au rond-p
- oint\, prendre la rue de l'Etoile et ensuite la rue de Mérode jusqu'à Ri
- xensart. Après 900 mètres\, à la Place de la Perche\, prendre à droite
-  l'avenue de la Paix et encore à droite l'avenue Clermont Tonnerre.
+SUMMARY:ABSSA D5B J5: GALACTIC JUMPERTZ vs BEA WOLUWE
+DTSTART;VALUE=DATE-TIME:20231007T103000Z
+DTEND;VALUE=DATE-TIME:20231007T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5B_5_659_459
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R03\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Bleu
+ \n\nContact équipe domicile: Eyletten J. (0470.31.54.56 - galactic.jumper
+ tz@gmail.com)\n\nAccès voiture : Par la E411 Bruxelles-Namur\, prendre la
+  sortie n° 5 (Wavre Nord\, Rixensart\, Bierges).\nEnsuite prendre la N257
+  pendant 700 mètres jusqu'au rond-point\, prendre la rue de l'Etoile et e
+ nsuite la rue de Mérode jusqu'à Rixensart. Après 900 mètres\, à la Pl
+ ace de la Perche\, prendre à droite l'avenue de la Paix et encore à droi
+ te l'avenue Clermont Tonnerre.\n\nVérifiez toujours ces infos sur http://
+ www.abssa.be/
 GEO:50.7128483;4.5376972
-LOCATION:COMPLEXE SPORTIF DE RIXENSART\, Avenue Clermont Tonnerre\, 26A\, 
- 1330 Rixensart\, Belgique
-ORGANIZER:MAILTO:galactic.jumpertz@gmail.com
+LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
+ 30 Rixensart\, Belgique
+ORGANIZER;CN="Eyletten J.";ROLE=Secrétaire:MAILTO:galactic.jumpertz@gmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5B J20: UNION BRUXELLOISE vs GALACTIC JUMPERTZ
-DTSTART:20230204T123000Z
-DTEND:20230204T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:2c840568-e1a4-49fe-8888-91e42439f18f
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Orange\n\nContact équipe
-  domicile: HERINCKX C. (0472.83.06.56)\n\nAccès voiture : Au départ de l
- a Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kr
- aainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anciens Co
- mbattants. Juste après le carrefour avec des feux de signalisation prendr
- e à droite vers la Place de la Chapelle\, puis prendre la 4ème rue à ma
- in droite (rue au Bois). Le terrain se trouve à 300 m. sur la droite.
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:union.bruxelloise@gmail.com
+SUMMARY:ABSSA D5B J6: WATERMAEL FC (Eq. 2) vs GALACTIC JUMPERTZ
+DTSTART;VALUE=DATE-TIME:20231014T103000Z
+DTEND;VALUE=DATE-TIME:20231014T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5B_6_611_659
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A10\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Orange
+ \n\nContact équipe domicile: Deschamps J. (0477.67.76.37 - jul_desch@hotm
+ ail.com)\n\nAccès voiture : L'accès au terrain se fait à partir du n° 
+ 2057 de la chaussée de Wavre (en face du stade communal d'Auderghem). L'a
+ ccès au terrain se fait par l'arrière du bâtiment principal (où sont s
+ itués les vestiaires) il faut parcourir environ 300 mètres avant d'attei
+ ndre le terrain de football situé après la piste d'athlétisme et le ter
+ rain de hockey.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8093405;4.4437919
+LOCATION:Complexe de L'Adeps\, Chaussée de Wavre 2057\, 1160 Auderghem\, 
+ Belgique
+ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5B J21: GALACTIC JUMPERTZ vs CORNOI AS
-DTSTART:20230211T123000Z
-DTEND:20230211T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:89c4deca-9e44-408e-9c70-3060d88617e0
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Orange\nCouleur principale équipe extérieur: Rouge et blanc\n\nConta
- ct équipe domicile: EYLETTEN J. (0470.31.54.56)\n\nAccès voiture : Par l
- a E411 Bruxelles-Namur\, prendre la sortie n° 5 (Wavre Nord\, Rixensart\,
-  Bierges).\nEnsuite prendre la N257 pendant 700 mètres jusqu'au rond-poin
- t\, prendre la rue de l'Etoile et ensuite la rue de Mérode jusqu'à Rixen
- sart. Après 900 mètres\, à la Place de la Perche\, prendre à droite l'
- avenue de la Paix et encore à droite l'avenue Clermont Tonnerre.
+SUMMARY:ABSSA D5B J24: GALACTIC JUMPERTZ vs SPORTING BW
+DTSTART;VALUE=DATE-TIME:20231028T103000Z
+DTEND;VALUE=DATE-TIME:20231028T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5B_24_659_673
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R03\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Blan
+ c\n\nContact équipe domicile: Eyletten J. (0470.31.54.56 - galactic.jumpe
+ rtz@gmail.com)\n\nAccès voiture : Par la E411 Bruxelles-Namur\, prendre l
+ a sortie n° 5 (Wavre Nord\, Rixensart\, Bierges).\nEnsuite prendre la N25
+ 7 pendant 700 mètres jusqu'au rond-point\, prendre la rue de l'Etoile et 
+ ensuite la rue de Mérode jusqu'à Rixensart. Après 900 mètres\, à la P
+ lace de la Perche\, prendre à droite l'avenue de la Paix et encore à dro
+ ite l'avenue Clermont Tonnerre.\n\nVérifiez toujours ces infos sur http:/
+ /www.abssa.be/
 GEO:50.7128483;4.5376972
-LOCATION:COMPLEXE SPORTIF DE RIXENSART\, Avenue Clermont Tonnerre\, 26A\, 
- 1330 Rixensart\, Belgique
-ORGANIZER:MAILTO:galactic.jumpertz@gmail.com
+LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
+ 30 Rixensart\, Belgique
+ORGANIZER;CN="Eyletten J.";ROLE=Secrétaire:MAILTO:galactic.jumpertz@gmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5B J22: GALACTIC JUMPERTZ vs DEAF BRUSSELS FC
-DTSTART:20230225T123000Z
-DTEND:20230225T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:89f9e7a2-760a-4529-9b68-a32116917e03
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Orange\nCouleur principale équipe extérieur: Vert et noir\n\nContact
-  équipe domicile: EYLETTEN J. (0470.31.54.56)\n\nAccès voiture : Par la 
- E411 Bruxelles-Namur\, prendre la sortie n° 5 (Wavre Nord\, Rixensart\, B
- ierges).\nEnsuite prendre la N257 pendant 700 mètres jusqu'au rond-point\
- , prendre la rue de l'Etoile et ensuite la rue de Mérode jusqu'à Rixensa
- rt. Après 900 mètres\, à la Place de la Perche\, prendre à droite l'av
- enue de la Paix et encore à droite l'avenue Clermont Tonnerre.
+SUMMARY:ABSSA D5B J7: SPIJTOIS FC vs GALACTIC JUMPERTZ
+DTSTART;VALUE=DATE-TIME:20231104T130000Z
+DTEND;VALUE=DATE-TIME:20231104T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5B_7_631_659
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: U02\n\nCouleur princi
+ pale équipe domicile: Blanc Bordeaux\nCouleur principale équipe exterieu
+ re: Orange\n\nContact équipe domicile: Marchese G. (0496.53.66.37 - march
+ ese.gregoire21@yahoo.be)\n\nAccès voiture : L'entrée se fait par la rue 
+ du Zwartebeek.\nPar le ring\, prendre la sortie Drogenbos-Ruisbroek\, dire
+ ction Uccle\, par la rue de Stalle prolongée.  Après le rond-point prend
+ re la 1ère rue à gauche\, la chaussée de Neerstalle.\nEnsuite la 2ème 
+ rue à gauche\, rue du Zwartebeek\, l'entrée du complexe est située à +
+ /- 200 mètres sur la droite.\n\nVérifiez toujours ces infos sur http://w
+ ww.abssa.be/
+GEO:50.7970109;4.319077
+LOCATION:Leopold-Uccle\, Rue du Zwartebeek\, 1180 Uccle\, Belgique
+ORGANIZER;CN="Marchese G.";ROLE=Secrétaire:MAILTO:marchese.gregoire21@yah
+ oo.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J9: MASIA CITY vs GALACTIC JUMPERTZ
+DTSTART;VALUE=DATE-TIME:20231118T113000Z
+DTEND;VALUE=DATE-TIME:20231118T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5B_9_661_659
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
+ pale équipe domicile: Rouge-Noir\nCouleur principale équipe exterieure: 
+ Orange\n\nContact équipe domicile: Saoud T. (0460.97.04.65 - masiacity@gm
+ ail.com)\n\nAccès voiture : A partir de Bruxelles\, prendre la E 411 en d
+ irection de Namur. Prendre la sortie N° 8 puis à droite la bretelle pour
+  la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 k
+ m\, au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Libéra
+ tion\, puis à gauche dans la rue de la Grande lecke.\n\nVérifiez toujour
+ s ces infos sur http://www.abssa.be/
+GEO:50.7540176;4.7835618
+LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
+ORGANIZER;CN="Saoud T.";ROLE=Secrétaire:MAILTO:masiacity@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J12: GALACTIC JUMPERTZ vs EFFETA FC
+DTSTART;VALUE=DATE-TIME:20231125T113000Z
+DTEND;VALUE=DATE-TIME:20231125T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5B_12_659_516
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R03\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Roug
+ e et noir\n\nContact équipe domicile: Eyletten J. (0470.31.54.56 - galact
+ ic.jumpertz@gmail.com)\n\nAccès voiture : Par la E411 Bruxelles-Namur\, p
+ rendre la sortie n° 5 (Wavre Nord\, Rixensart\, Bierges).\nEnsuite prendr
+ e la N257 pendant 700 mètres jusqu'au rond-point\, prendre la rue de l'Et
+ oile et ensuite la rue de Mérode jusqu'à Rixensart. Après 900 mètres\,
+  à la Place de la Perche\, prendre à droite l'avenue de la Paix et encor
+ e à droite l'avenue Clermont Tonnerre.\n\nVérifiez toujours ces infos su
+ r http://www.abssa.be/
 GEO:50.7128483;4.5376972
-LOCATION:COMPLEXE SPORTIF DE RIXENSART\, Avenue Clermont Tonnerre\, 26A\, 
- 1330 Rixensart\, Belgique
-ORGANIZER:MAILTO:galactic.jumpertz@gmail.com
+LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
+ 30 Rixensart\, Belgique
+ORGANIZER;CN="Eyletten J.";ROLE=Secrétaire:MAILTO:galactic.jumpertz@gmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5B J24: PIRATERIE (LA) vs GALACTIC JUMPERTZ
-DTSTART:20230311T140000Z
-DTEND:20230311T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:95d4d82f-627b-4d73-9e84-a8956797f7c9
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe extérieur: Orange\n\nContact équipe
-  domicile: COOK Z (0497.25.56.22)\n\nAccès voiture : En venant de Bruxell
- es\, par l'autoroute Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n°
-  19)\, passer sous le pont de l'autoroute et prendre la direction de Nivel
- les. A 200 m.\, au rond-point (Shopping Center)\, tourner à droite en dir
- ection de Wavre (petit ring de Nivelles).\nAu 4ème rond-point (en tenant 
- compte du rond-point du Shopping Center)\, tourner à gauche \, rue de l'I
- ndustrie et pénétrer dans le zoning. Au bout de la rue\, avant le feu de
-  signalisation\, tourner à gauche et prendre la rue du Progrès pendant +
- /- 400 m.
+SUMMARY:ABSSA D5B J11: SPORTING BW vs GALACTIC JUMPERTZ
+DTSTART;VALUE=DATE-TIME:20231202T130000Z
+DTEND;VALUE=DATE-TIME:20231202T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5B_11_673_659
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: I03\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Orang
+ e\n\nContact équipe domicile: Thumas A. (0472.60.28.90 - sporting.bw.abss
+ a@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l’E411
+  en direction de Namur et prendre la sortie 11 Perwez-Gembloux\, prendre 
+ à droite vers Perwez sur la N29 jusqu’au rond-point de Glimes qui crois
+ e la N91 (7km depuis l’E411). Sortir à la 3ème sortie sur la N91 en\nd
+ irection de Hamme-Mille. Prendre ensuite la 3ème rue à gauche et le terr
+ ain se trouve directement sur la droite.\n\nVérifiez toujours ces infos s
+ ur http://www.abssa.be/
+GEO:50.6849677;4.8070879
+LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
+ORGANIZER;CN="Thumas A.";ROLE=Secrétaire:MAILTO:sporting.bw.abssa@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J13: RED STAR BRUSSELS vs GALACTIC JUMPERTZ
+DTSTART;VALUE=DATE-TIME:20231209T141500Z
+DTEND;VALUE=DATE-TIME:20231209T154500Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5B_13_663_659
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
+ pale équipe domicile: Blanc et rouge\nCouleur principale équipe exterieu
+ re: Orange\n\nContact équipe domicile: Helalouch A (0485.97.90.82 - redst
+ arbrussels@gmail.com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jet
+ te.\nEn venant de Zaventem\, prendre à gauche à la sortie\, en venant de
+  Charleroi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au
+  rond point. Le terrain se trouve en face de la pompe à essence Q8.\n\nV
+ érifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.883299;4.316365
+LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
+ORGANIZER;CN="Helalouch A";ROLE=Secrétaire:MAILTO:redstarbrussels@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J14: UNION BRUXELLOISE vs GALACTIC JUMPERTZ
+DTSTART;VALUE=DATE-TIME:20240113T113000Z
+DTEND;VALUE=DATE-TIME:20240113T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5B_14_655_659
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: Noir/ Bleu\nCouleur principale équipe exterieure: 
+ Orange\n\nContact équipe domicile: Herinckx C. (0472.83.06.56 - union.bru
+ xelloise@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'aut
+ oroute Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer 
+ sous le pont de l'autoroute et prendre la direction de Nivelles. A 200 m.\
+ , au rond-point (Shopping Center)\, tourner à droite en direction de Wavr
+ e (petit ring de Nivelles).\nAu 4ème rond-point (en tenant compte du rond
+ -point du Shopping Center)\, tourner à gauche \, rue de l'Industrie et p
+ énétrer dans le zoning. Au bout de la rue\, avant le feu de signalisatio
+ n\, tourner à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\n
+ Vérifiez toujours ces infos sur http://www.abssa.be/
 GEO:50.5963436;4.3564187
-LOCATION:DOMAINE MILITAIRE\, Rue du Progrès\, 1A\, 1400 Nivelles\, Belgiq
- ue
-ORGANIZER:MAILTO:lapirateriefc@outlook.com
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Herinckx C.";ROLE=Secrétaire:MAILTO:union.bruxelloise@gmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5B J25: BLUE THRILLS vs GALACTIC JUMPERTZ
-DTSTART:20230318T150000Z
-DTEND:20230318T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:a9a6da9e-0e4a-46b2-b54d-4b4a82abb0b3
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu Marine\nCouleur principale équipe extérieur: Orange\n\nContact 
- équipe domicile: DE BRIEY A. (0479.858.374)\n\nAccès voiture : L'accès 
- au terrain se fait à partir du n° 2057 de la chaussée de Wavre (en face
-  du stade communal d'Auderghem). L'accès au terrain se fait par l'arrièr
- e du bâtiment principal (où sont situés les vestiaires) il faut parcour
- ir environ 300 mètres avant d'atteindre le terrain de football situé apr
- ès la piste d'athlétisme et le terrain de hockey.
-GEO:50.80890770000001;4.4427327
-LOCATION:COMPLEXE DE L'ADEPS\, Chaussée de Wavre\, 2057\, 1160 Auderghem\
- , Belgique
-ORGANIZER:MAILTO:alexdebriey@hotmail.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5B J26: GALACTIC JUMPERTZ vs RAYO LATINO
-DTSTART:20230325T123000Z
-DTEND:20230325T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:18f91a9e-cfdb-42b8-ad21-9b8dab09b85f
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Orange\nCouleur principale équipe extérieur: Rouge et noir\n\nContac
- t équipe domicile: EYLETTEN J. (0470.31.54.56)\n\nAccès voiture : Par la
-  E411 Bruxelles-Namur\, prendre la sortie n° 5 (Wavre Nord\, Rixensart\, 
- Bierges).\nEnsuite prendre la N257 pendant 700 mètres jusqu'au rond-point
- \, prendre la rue de l'Etoile et ensuite la rue de Mérode jusqu'à Rixens
- art. Après 900 mètres\, à la Place de la Perche\, prendre à droite l'a
- venue de la Paix et encore à droite l'avenue Clermont Tonnerre.
+SUMMARY:ABSSA D5B J15: GALACTIC JUMPERTZ vs FRAUDES (LES)
+DTSTART;VALUE=DATE-TIME:20240120T113000Z
+DTEND;VALUE=DATE-TIME:20240120T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5B_15_659_665
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R03\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Noir
+  et blanc\n\nContact équipe domicile: Eyletten J. (0470.31.54.56 - galact
+ ic.jumpertz@gmail.com)\n\nAccès voiture : Par la E411 Bruxelles-Namur\, p
+ rendre la sortie n° 5 (Wavre Nord\, Rixensart\, Bierges).\nEnsuite prendr
+ e la N257 pendant 700 mètres jusqu'au rond-point\, prendre la rue de l'Et
+ oile et ensuite la rue de Mérode jusqu'à Rixensart. Après 900 mètres\,
+  à la Place de la Perche\, prendre à droite l'avenue de la Paix et encor
+ e à droite l'avenue Clermont Tonnerre.\n\nVérifiez toujours ces infos su
+ r http://www.abssa.be/
 GEO:50.7128483;4.5376972
-LOCATION:COMPLEXE SPORTIF DE RIXENSART\, Avenue Clermont Tonnerre\, 26A\, 
- 1330 Rixensart\, Belgique
-ORGANIZER:MAILTO:galactic.jumpertz@gmail.com
+LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
+ 30 Rixensart\, Belgique
+ORGANIZER;CN="Eyletten J.";ROLE=Secrétaire:MAILTO:galactic.jumpertz@gmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J16: CHOULE AUDERGHEM (Eq. 4) vs GALACTIC JUMPERTZ
+DTSTART;VALUE=DATE-TIME:20240127T143000Z
+DTEND;VALUE=DATE-TIME:20240127T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5B_16_517_659
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W19\n\nCouleur princi
+ pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
+ erieure: Orange\n\nContact équipe domicile: Vandenplas D. (0476.54.48.01 
+ - dav_54@hotmail.com)\n\nAccès voiture : Ring de Bruxelles (RO)\, sortie 
+ n° 2. Prendre la direction Wezembeek-Oppem. Ensuite première rue à droi
+ te (Louis Marcelisstraat) puis la troisième à droite (Sportpleinstraat).
+ \nL'entrée au terrain se trouve à gauche entre les n° 16 et 24.\nPar la
+  ville : A partir du rond point Montgomery\, prendre l'Avenue de Broquevil
+ le\, toujours tout droit. Passez devant le Shopping de Woluwé\, toujours 
+ tout droit\, passez devant le magasin "Carrefour"\, puis au 2ème feu de s
+ ignalisation prendre à droite et ensuite tout droit. Au bout de la rue pr
+ endre à droite\, le terrain se trouve à 100 mètres  sur la gauche.\n\nV
+ érifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8424578;4.486587999999999
+LOCATION:Sportpleinstraat 20\, 1970 Wezembeek - Oppem\, Belgique
+ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J17: GALACTIC JUMPERTZ vs PECHEUR F.C.
+DTSTART;VALUE=DATE-TIME:20240203T113000Z
+DTEND;VALUE=DATE-TIME:20240203T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5B_17_659_677
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R03\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Vert
+  et blanc\n\nContact équipe domicile: Eyletten J. (0470.31.54.56 - galact
+ ic.jumpertz@gmail.com)\n\nAccès voiture : Par la E411 Bruxelles-Namur\, p
+ rendre la sortie n° 5 (Wavre Nord\, Rixensart\, Bierges).\nEnsuite prendr
+ e la N257 pendant 700 mètres jusqu'au rond-point\, prendre la rue de l'Et
+ oile et ensuite la rue de Mérode jusqu'à Rixensart. Après 900 mètres\,
+  à la Place de la Perche\, prendre à droite l'avenue de la Paix et encor
+ e à droite l'avenue Clermont Tonnerre.\n\nVérifiez toujours ces infos su
+ r http://www.abssa.be/
+GEO:50.7128483;4.5376972
+LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
+ 30 Rixensart\, Belgique
+ORGANIZER;CN="Eyletten J.";ROLE=Secrétaire:MAILTO:galactic.jumpertz@gmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J18: BEA WOLUWE vs GALACTIC JUMPERTZ
+DTSTART;VALUE=DATE-TIME:20240210T130000Z
+DTEND;VALUE=DATE-TIME:20240210T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5B_18_459_659
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Orange
+ \n\nContact équipe domicile: Maquestiau Ph. (0485.49.62.62 - philippemaqu
+ estiau@yahoo.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"avenu
+ e Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujours ces in
+ fos sur http://www.abssa.be/
+GEO:50.8343279;4.4397562
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Maquestiau Ph.";ROLE=Secrétaire:MAILTO:philippemaquestiau@y
+ ahoo.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J19: GALACTIC JUMPERTZ vs WATERMAEL FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240217T113000Z
+DTEND;VALUE=DATE-TIME:20240217T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5B_19_659_611
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R03\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Bleu
+ \n\nContact équipe domicile: Eyletten J. (0470.31.54.56 - galactic.jumper
+ tz@gmail.com)\n\nAccès voiture : Par la E411 Bruxelles-Namur\, prendre la
+  sortie n° 5 (Wavre Nord\, Rixensart\, Bierges).\nEnsuite prendre la N257
+  pendant 700 mètres jusqu'au rond-point\, prendre la rue de l'Etoile et e
+ nsuite la rue de Mérode jusqu'à Rixensart. Après 900 mètres\, à la Pl
+ ace de la Perche\, prendre à droite l'avenue de la Paix et encore à droi
+ te l'avenue Clermont Tonnerre.\n\nVérifiez toujours ces infos sur http://
+ www.abssa.be/
+GEO:50.7128483;4.5376972
+LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
+ 30 Rixensart\, Belgique
+ORGANIZER;CN="Eyletten J.";ROLE=Secrétaire:MAILTO:galactic.jumpertz@gmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J26: GALACTIC JUMPERTZ vs RED STAR BRUSSELS
+DTSTART;VALUE=DATE-TIME:20240224T113000Z
+DTEND;VALUE=DATE-TIME:20240224T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5B_26_659_663
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R03\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Blan
+ c et rouge\n\nContact équipe domicile: Eyletten J. (0470.31.54.56 - galac
+ tic.jumpertz@gmail.com)\n\nAccès voiture : Par la E411 Bruxelles-Namur\, 
+ prendre la sortie n° 5 (Wavre Nord\, Rixensart\, Bierges).\nEnsuite prend
+ re la N257 pendant 700 mètres jusqu'au rond-point\, prendre la rue de l'E
+ toile et ensuite la rue de Mérode jusqu'à Rixensart. Après 900 mètres\
+ , à la Place de la Perche\, prendre à droite l'avenue de la Paix et enco
+ re à droite l'avenue Clermont Tonnerre.\n\nVérifiez toujours ces infos s
+ ur http://www.abssa.be/
+GEO:50.7128483;4.5376972
+LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
+ 30 Rixensart\, Belgique
+ORGANIZER;CN="Eyletten J.";ROLE=Secrétaire:MAILTO:galactic.jumpertz@gmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J23: L'EKIP vs GALACTIC JUMPERTZ
+DTSTART;VALUE=DATE-TIME:20240302T140000Z
+DTEND;VALUE=DATE-TIME:20240302T153000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5B_23_662_659
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: P02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Orang
+ e\n\nContact équipe domicile: Maes A (0471.66.04.74 - lekipofficielle@gma
+ il.com)\n\nAccès voiture : a Partir de Bruxelles\, Prendre la E 411 en Di
+ rection de Namur. Prendre la Sortie 11  Gembloux pour Rejoindre la N 29 en
+  Direction de Gembloux / Tirlement / Jodoigne / Perwez. suivre la N29 et C
+ haussée de Wavre (N243) en Direction de la Rue des Marronniers. au Rond-P
+ oint 1\, 2 et 3 Prendre chaque Fois la première Sortie.\nAu Rond-Point su
+ ivant (4Ième) Prendre la deuxième Sortie et Continuer sur la Chaussée d
+ e Wavre / N 243. Prendre à Droite sur la Rue des Marronniers\, le Terrain
+  se Trouve à Droite\n\nVérifiez toujours ces infos sur http://www.abssa.
+ be/
+GEO:50.6251834;4.8051205
+LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
+ORGANIZER;CN="Maes A";ROLE=Secrétaire:MAILTO:lekipofficielle@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J20: GALACTIC JUMPERTZ vs SPIJTOIS FC
+DTSTART;VALUE=DATE-TIME:20240309T113000Z
+DTEND;VALUE=DATE-TIME:20240309T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5B_20_659_631
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R03\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Blan
+ c Bordeaux\n\nContact équipe domicile: Eyletten J. (0470.31.54.56 - galac
+ tic.jumpertz@gmail.com)\n\nAccès voiture : Par la E411 Bruxelles-Namur\, 
+ prendre la sortie n° 5 (Wavre Nord\, Rixensart\, Bierges).\nEnsuite prend
+ re la N257 pendant 700 mètres jusqu'au rond-point\, prendre la rue de l'E
+ toile et ensuite la rue de Mérode jusqu'à Rixensart. Après 900 mètres\
+ , à la Place de la Perche\, prendre à droite l'avenue de la Paix et enco
+ re à droite l'avenue Clermont Tonnerre.\n\nVérifiez toujours ces infos s
+ ur http://www.abssa.be/
+GEO:50.7128483;4.5376972
+LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
+ 30 Rixensart\, Belgique
+ORGANIZER;CN="Eyletten J.";ROLE=Secrétaire:MAILTO:galactic.jumpertz@gmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J22: GALACTIC JUMPERTZ vs MASIA CITY
+DTSTART;VALUE=DATE-TIME:20240323T113000Z
+DTEND;VALUE=DATE-TIME:20240323T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5B_22_659_661
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R03\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Roug
+ e-Noir\n\nContact équipe domicile: Eyletten J. (0470.31.54.56 - galactic.
+ jumpertz@gmail.com)\n\nAccès voiture : Par la E411 Bruxelles-Namur\, pren
+ dre la sortie n° 5 (Wavre Nord\, Rixensart\, Bierges).\nEnsuite prendre l
+ a N257 pendant 700 mètres jusqu'au rond-point\, prendre la rue de l'Etoil
+ e et ensuite la rue de Mérode jusqu'à Rixensart. Après 900 mètres\, à
+  la Place de la Perche\, prendre à droite l'avenue de la Paix et encore 
+ à droite l'avenue Clermont Tonnerre.\n\nVérifiez toujours ces infos sur 
+ http://www.abssa.be/
+GEO:50.7128483;4.5376972
+LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
+ 30 Rixensart\, Belgique
+ORGANIZER;CN="Eyletten J.";ROLE=Secrétaire:MAILTO:galactic.jumpertz@gmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J25: EFFETA FC vs GALACTIC JUMPERTZ
+DTSTART;VALUE=DATE-TIME:20240406T103000Z
+DTEND;VALUE=DATE-TIME:20240406T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5B_25_516_659
+DESCRIPTION:Terrain synthétique: non\nCode terrain: L05\n\nCouleur princi
+ pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
+ e: Orange\n\nContact équipe domicile: Eryuruk K. (0487.34.08.40 - effetaf
+ c@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Anvers (A12)\, au pre
+ mier feu de signalisation\, prendre à gauche\, direction Londerzeel. Suiv
+ re la plaque Stationstraat. Passée la gare (après env. 1200 m.) prendre 
+ à gauche au " Monument aux Morts". Le terrain se trouve à 50 m.\n\nVéri
+ fiez toujours ces infos sur http://www.abssa.be/
+GEO:51.0192214;4.2904455
+LOCATION:Verma\, Blauwenhoek 76\, 1840 Londerzeel\, Belgique
+ORGANIZER;CN="Eryuruk K.";ROLE=Secrétaire:MAILTO:effetafc@gmail.com
 END:VEVENT
 END:VCALENDAR

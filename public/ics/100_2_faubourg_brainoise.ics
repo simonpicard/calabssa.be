@@ -1,305 +1,491 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:baeb8029-781a-466f-a77b-aa478138518d
-X-WR-CALDESC:Les matches de FAUBOURG-BRAINOISE (eq. 2) en ABSSA.
-X-WR-CALNAME:ABSSA - FAUBOURG-BRAINOISE (eq. 2) - 100
-X-WR-TIMEZONE:Europe/Brussels
+PRODID:100_2_faubourg_brainoise
+X-WR-CALDESC:Les matches du club FAUBOURG-BRAINOISE (equipe 2) en ABSSA.
+X-WR-CALNAME:ABSSA: FAUBOURG-BRAINOISE (eq. 2)
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J2: ELAN EVERE RAC (Eq. 2) vs FAUBOURG-BRAINOISE (Eq. 2)
-DTSTART:20220910T150000Z
-DTEND:20220910T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:e2037a23-4bda-47c7-a6aa-ffaecc1328c0
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge et blanc rayé\nCouleur principale équipe extérieur: Rouge\n\n
- Contact équipe domicile: DUBOIS J-J. (0486.47.10.49)\n\nAccès voiture : 
- Le terrain se trouve derrière l'église St. Vincent
-GEO:50.8786351;4.3949376
-LOCATION:PARC ST. VINCENT (BON PASTEUR)\, Rue de Picardie\, 1140 Evere\, B
- elgique
-ORGANIZER:MAILTO:jjdubois58@gmail.com
+SUMMARY:ABSSA D6E J1: BRITISH UNITED (Eq. 7) vs FAUBOURG-BRAINOISE (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20230909T133000Z
+DTEND;VALUE=DATE-TIME:20230909T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6E_1_132_100
+DESCRIPTION:Terrain synthétique: non\nCode terrain: M02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge\
+ n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gillesvander
+ seypen@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Anvers (E19) sor
+ tie Mechelen-Noord (n° 9) En arrivant dans le centre\, suivre la directio
+ n "Heist-op-den-Berg" Aller tout droit et passer le viaduc du chemin de fe
+ r. Après 1 km. suivre les flèches "De Nekker". Garer les voitures à l'e
+ xtérieur du complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terra
+ in.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:51.0254354;4.503786799999999
+LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
+ ue
+ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
+ gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J12: FAUBOURG-BRAINOISE (Eq. 2) vs PHARMA SC (Eq. 4)
-DTSTART:20221126T140000Z
-DTEND:20221126T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:8c36aed5-73aa-429f-bdb5-4f3813a26af4
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe extérieur: Bleu\n\nContact équipe 
- domicile: HERPAIN D. (0474.79.02.18)\n\nAccès voiture : En venant de Brux
- elles\, emprunter la chaussée de Bruxelles ou de Waterloo jusqu'au magasi
- n "Carrefour". Au dit carrefour (Mont-St.-Jean) prendre la direction Nivel
- les. Sur cette chaussée\, au deuxième feu de signalisation\, prendre à 
- droite\, le terrain se trouve à 500 m. et est fléché.
+SUMMARY:ABSSA D6E J2: FAUBOURG-BRAINOISE (Eq. 2) vs NIVELLES AS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20230916T113000Z
+DTEND;VALUE=DATE-TIME:20230916T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6E_2_100_306
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Orang
+ e fluo\n\nContact équipe domicile: Herpain D. (0474.79.02.18 - daniel.her
+ pain@skynet.be)\n\nAccès voiture : En venant de Bruxelles\, emprunter la 
+ chaussée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit
+  carrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chauss
+ ée\, au deuxième feu de signalisation\, prendre à droite\, le terrain s
+ e trouve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur ht
+ tp://www.abssa.be/
 GEO:50.6827211;4.3844421
-LOCATION:STADE GASTON REIFF\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
  ud\, Belgique
-ORGANIZER:MAILTO:daniel.herpain@skynet.be
+ORGANIZER;CN="Herpain D.";ROLE=Secrétaire:MAILTO:daniel.herpain@skynet.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J13: FAUBOURG-BRAINOISE (Eq. 2) vs ELAN EVERE RAC (Eq. 2
- )
-DTSTART:20221203T140000Z
-DTEND:20221203T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:c04ea2cb-abd1-4a2e-8b4d-2361ea640a9e
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe extérieur: Rouge et blanc rayé\n\n
- Contact équipe domicile: HERPAIN D. (0474.79.02.18)\n\nAccès voiture : E
- n venant de Bruxelles\, emprunter la chaussée de Bruxelles ou de Waterloo
-  jusqu'au magasin "Carrefour". Au dit carrefour (Mont-St.-Jean) prendre la
-  direction Nivelles. Sur cette chaussée\, au deuxième feu de signalisati
- on\, prendre à droite\, le terrain se trouve à 500 m. et est fléché.
-GEO:50.6827211;4.3844421
-LOCATION:STADE GASTON REIFF\, Boulevard de l'Europe\, 1420 Braine - l'Alle
- ud\, Belgique
-ORGANIZER:MAILTO:daniel.herpain@skynet.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J14: BRUSSELS LTC (Eq. 6) vs FAUBOURG-BRAINOISE (Eq. 2)
-DTSTART:20221210T140000Z
-DTEND:20221210T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:93fdb470-86c5-4953-b248-1ae5113e0818
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bordeaux\nCouleur principale équipe extérieur: Rouge\n\nContact équ
- ipe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Venant de B
- ruxelles\, prendre le Ring Est direction Waterloo. Sortir au pont de Groen
- endael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. Après le c
- hateau de La Hulpe\, toujours tout droit. Au feu de signalisation et le ca
- rrefour de La Hulpe\, tout droit direction Genval. Au feu de signalisation
-  prendre à gauche et ensuite directement à droite\, l'avenue Soyer\, der
- rière le G.B. Le terrain se trouve à 300 m.
-GEO:50.7309582;4.4952087
-LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J15: FAUBOURG-BRAINOISE (Eq. 2) vs TUBIFOOT AS
-DTSTART:20221217T140000Z
-DTEND:20221217T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:1acae7fa-dfbf-43b4-a75a-c3dfb05fa547
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe extérieur: Jaune et Rouge\n\nContac
- t équipe domicile: HERPAIN D. (0474.79.02.18)\n\nAccès voiture : En vena
- nt de Bruxelles\, emprunter la chaussée de Bruxelles ou de Waterloo jusqu
- 'au magasin "Carrefour". Au dit carrefour (Mont-St.-Jean) prendre la direc
- tion Nivelles. Sur cette chaussée\, au deuxième feu de signalisation\, p
- rendre à droite\, le terrain se trouve à 500 m. et est fléché.
-GEO:50.6827211;4.3844421
-LOCATION:STADE GASTON REIFF\, Boulevard de l'Europe\, 1420 Braine - l'Alle
- ud\, Belgique
-ORGANIZER:MAILTO:daniel.herpain@skynet.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J16: FAUBOURG-BRAINOISE (Eq. 2) vs SAINT GEORGES RCS (Eq
- . 4)
-DTSTART:20230107T140000Z
-DTEND:20230107T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:5c234ab4-6dd2-4e52-b838-5dccc982600e
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe extérieur: Blanc\n\nContact équipe
-  domicile: HERPAIN D. (0474.79.02.18)\n\nAccès voiture : En venant de Bru
- xelles\, emprunter la chaussée de Bruxelles ou de Waterloo jusqu'au magas
- in "Carrefour". Au dit carrefour (Mont-St.-Jean) prendre la direction Nive
- lles. Sur cette chaussée\, au deuxième feu de signalisation\, prendre à
-  droite\, le terrain se trouve à 500 m. et est fléché.
-GEO:50.6827211;4.3844421
-LOCATION:STADE GASTON REIFF\, Boulevard de l'Europe\, 1420 Braine - l'Alle
- ud\, Belgique
-ORGANIZER:MAILTO:daniel.herpain@skynet.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J17: FORESTOIS SC (Eq. 5) vs FAUBOURG-BRAINOISE (Eq. 2)
-DTSTART:20230114T140000Z
-DTEND:20230114T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:6aa1e9bb-0d48-4ab0-b63c-14dc286604a8
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe extérieur: Rouge\n\nContact équipe 
- domicile: JANSSENS P. (0479.95.08.14)\n\nAccès voiture : Au départ de la
-  Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à la 
- rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie roule
- r env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique) p
- endant env. 500 m. L'entrée du Complexe se trouve à hauteur de City Cart
- \, à gauche de la route.
-GEO:50.8005447;4.3095283
-LOCATION:COMPLEXE SPORTIF DU BEMPT\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER:MAILTO:patj.scf@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J18: FAUBOURG-BRAINOISE (Eq. 2) vs CAMPOMAIORENSE SC
-DTSTART:20230121T140000Z
-DTEND:20230121T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:265f3ba3-8c34-474b-924c-664b93994fa9
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe extérieur: Vert rayé de blanc\n\nC
- ontact équipe domicile: HERPAIN D. (0474.79.02.18)\n\nAccès voiture : En
-  venant de Bruxelles\, emprunter la chaussée de Bruxelles ou de Waterloo 
- jusqu'au magasin "Carrefour". Au dit carrefour (Mont-St.-Jean) prendre la 
- direction Nivelles. Sur cette chaussée\, au deuxième feu de signalisatio
- n\, prendre à droite\, le terrain se trouve à 500 m. et est fléché.
-GEO:50.6827211;4.3844421
-LOCATION:STADE GASTON REIFF\, Boulevard de l'Europe\, 1420 Braine - l'Alle
- ud\, Belgique
-ORGANIZER:MAILTO:daniel.herpain@skynet.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J19: BRUSSELS BRITISH R (Eq. 6) vs FAUBOURG-BRAINOISE (E
- q. 2)
-DTSTART:20230128T140000Z
-DTEND:20230128T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:1b1c21ee-9380-4500-be56-33f1599bdb54
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe extérieur: Rouge\n\nContact équipe
-  domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Autoroute E411\, 
- prendre la sortie Rosières. Passer devant l'église\, longer l'autoroute 
- et tourner à droite au cimetière des animaux. Terrain à 200 m.
-GEO:50.728425;4.5537381
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:abssa-sec@rbbfc.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J20: FAUBOURG-BRAINOISE (Eq. 2) vs AZUR RCS (Eq. 6)
-DTSTART:20230204T140000Z
-DTEND:20230204T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:a2870721-3640-4ce3-ae59-a14d38cf1203
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe extérieur: Bleu ciel\n\nContact éq
- uipe domicile: HERPAIN D. (0474.79.02.18)\n\nAccès voiture : En venant de
-  Bruxelles\, emprunter la chaussée de Bruxelles ou de Waterloo jusqu'au m
- agasin "Carrefour". Au dit carrefour (Mont-St.-Jean) prendre la direction 
- Nivelles. Sur cette chaussée\, au deuxième feu de signalisation\, prendr
- e à droite\, le terrain se trouve à 500 m. et est fléché.
-GEO:50.6827211;4.3844421
-LOCATION:STADE GASTON REIFF\, Boulevard de l'Europe\, 1420 Braine - l'Alle
- ud\, Belgique
-ORGANIZER:MAILTO:daniel.herpain@skynet.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J21: ANDERLECHT US vs FAUBOURG-BRAINOISE (Eq. 2)
-DTSTART:20230211T140000Z
-DTEND:20230211T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:21277649-b428-4036-ab5a-b7baebb724a7
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Mauve\nCouleur principale équipe extérieur: Rouge\n\nContact équipe
-  domicile: SADIN D. (0477.76.34.69)\n\nAccès voiture : En venant de la Ro
- ute de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre la di
- rection du cimetière d'Anderlecht\, emprunter le Boulevard Josse Leemans\
- , au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (Vogelenz
- ang). L'entrée du complexe et des terrains se situe à +/- 500 m. sur la 
- gauche.
-GEO:50.8114933;4.2763364
-LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:usanderlecht@sadinfoot.net
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J22: PHARMA SC (Eq. 4) vs FAUBOURG-BRAINOISE (Eq. 2)
-DTSTART:20230225T140000Z
-DTEND:20230225T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:6d03b9e5-9493-4cff-81af-e420241a72b0
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Rouge\n\nContact équipe 
- domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Au départ de 
- la Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à l
- a rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie rou
- ler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique)
-  pendant env. 500 m. L'entrée du Complexe se trouve à hauteur de City Ca
- rt\, à gauche de la route.
-GEO:50.8005447;4.3095283
-LOCATION:COMPLEXE SPORTIF DU BEMPT\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER:MAILTO:phie.dumidi@scarlet.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J23: AUDERGHEM R.CF vs FAUBOURG-BRAINOISE (Eq. 2)
-DTSTART:20230304T140000Z
-DTEND:20230304T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:0a64a733-5d79-4af0-a45b-ddaba3d940b2
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Rouge\n\nContact équipe 
- domicile: PLECK P. (0475.82.01.41)\n\nAccès voiture : En venant de Bruxel
- les par la chaussée de Wavre\, rejoindre le du début de l'autoroute Brux
- elles-Namur\, utiliser la bande de droite pendant +/- 200 m. et descendre 
- devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (en d
- essous de l'autoroute). Le terrain se trouve à 200 m. Le stade est fléch
- é.
-GEO:50.8103473;4.443252699999999
-LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem\, 
- Belgique
-ORGANIZER:MAILTO:ppleckson@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J24: FAUBOURG-BRAINOISE (Eq. 2) vs ALIZE VETERANS FC
-DTSTART:20230311T140000Z
-DTEND:20230311T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:a08444f0-fb2a-445e-a9c3-06c0b3881406
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe extérieur: Jaune\n\nContact équipe
-  domicile: HERPAIN D. (0474.79.02.18)\n\nAccès voiture : En venant de Bru
- xelles\, emprunter la chaussée de Bruxelles ou de Waterloo jusqu'au magas
- in "Carrefour". Au dit carrefour (Mont-St.-Jean) prendre la direction Nive
- lles. Sur cette chaussée\, au deuxième feu de signalisation\, prendre à
-  droite\, le terrain se trouve à 500 m. et est fléché.
-GEO:50.6827211;4.3844421
-LOCATION:STADE GASTON REIFF\, Boulevard de l'Europe\, 1420 Braine - l'Alle
- ud\, Belgique
-ORGANIZER:MAILTO:daniel.herpain@skynet.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J25: FAUBOURG-BRAINOISE (Eq. 2) vs COSMOS BRUWOLF MJ (Eq
+SUMMARY:ABSSA D6E J3: BRUSSELS BRITISH R (Eq. 7) vs FAUBOURG-BRAINOISE (Eq
  . 2)
-DTSTART:20230318T140000Z
-DTEND:20230318T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:6be0a971-b70c-416c-9f5a-56e94e74b5b7
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe extérieur: Orange/Noir\n\nContact 
- équipe domicile: HERPAIN D. (0474.79.02.18)\n\nAccès voiture : En venant
-  de Bruxelles\, emprunter la chaussée de Bruxelles ou de Waterloo jusqu'a
- u magasin "Carrefour". Au dit carrefour (Mont-St.-Jean) prendre la directi
- on Nivelles. Sur cette chaussée\, au deuxième feu de signalisation\, pre
- ndre à droite\, le terrain se trouve à 500 m. et est fléché.
-GEO:50.6827211;4.3844421
-LOCATION:STADE GASTON REIFF\, Boulevard de l'Europe\, 1420 Braine - l'Alle
- ud\, Belgique
-ORGANIZER:MAILTO:daniel.herpain@skynet.be
+DTSTART;VALUE=DATE-TIME:20230923T133000Z
+DTEND;VALUE=DATE-TIME:20230923T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6E_3_1_100
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
+ \n\nContact équipe domicile: Lachia S. (0484.27.72.64 - abssa-sec@rbbfc.o
+ rg)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Pass
+ er devant l'église\, longer l'autoroute et tourner à droite au cimetièr
+ e des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur http:
+ //www.abssa.be/
+GEO:50.7282426;4.5537189
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="Lachia S.";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J26: TUBIFOOT AS vs FAUBOURG-BRAINOISE (Eq. 2)
-DTSTART:20230325T153000Z
-DTEND:20230325T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:f94d1438-2dbe-44d1-9553-88b73a1133ee
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Jaune et Rouge\nCouleur principale équipe extérieur: Rouge\n\nContac
- t équipe domicile: GIRARDO. M (0491.35.69.81)\n\nAccès voiture : En vena
- nt de Bruxelles : Prendre le RO en direction Mons-Bergen / Charleroi - pre
- ndre la sortie 21 et continuer sur la E429 direction Lille/Rijsel sur 7\,2
-  km. Ensuite prendre la sortie 23 et continuer sur le Hondzochtsesteenweg 
- pendant 1\,7km. Au rond point continuer tout droit Chaussée d'Hondzocht s
- ur 857 m\, \, prendre à droite Rue de Bruxelles sur 141 m.\, au rond- poi
- nt continuer tour droit et à nouveau au rond-point continuer tout droite 
- sur 537 m.\,\npasser devant l'Eglise de Tubize et après le 2ème feu roug
- e\, prendre la 2ème rue à gauche\,\nRue des Ponts et continuer sur 470 m
- . (suivre les panneaux AFC. Tubize) puis prendre la 2ème à droite (à c
- ôté des terrains de tennis) chemin menant au parking du Stade de Tubize.
- \nPrendre le chemin à pied sur +/- 50 m. à gauche du stade jusqu'à l'ar
- rière de la tribune T3.
-GEO:50.684014;4.1993301
-LOCATION:Allée des Sports\, 7\, 1480  Tubize\, Belgique
-ORGANIZER:MAILTO:astubifoot@gmail.com
+SUMMARY:ABSSA D6E J4: FAUBOURG-BRAINOISE (Eq. 2) vs WATERMAEL CS
+DTSTART;VALUE=DATE-TIME:20230930T113000Z
+DTEND;VALUE=DATE-TIME:20230930T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6E_4_100_375
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rouge
+ \n\nContact équipe domicile: Herpain D. (0474.79.02.18 - daniel.herpain@s
+ kynet.be)\n\nAccès voiture : En venant de Bruxelles\, emprunter la chauss
+ ée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit carre
+ four (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chaussée\, 
+ au deuxième feu de signalisation\, prendre à droite\, le terrain se trou
+ ve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur http://w
+ ww.abssa.be/
+GEO:50.6827211;4.3844421
+LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud\, Belgique
+ORGANIZER;CN="Herpain D.";ROLE=Secrétaire:MAILTO:daniel.herpain@skynet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J5: CHENOIS (ESPER) (Eq. 2) vs FAUBOURG-BRAINOISE (Eq. 2
+ )
+DTSTART;VALUE=DATE-TIME:20231007T130000Z
+DTEND;VALUE=DATE-TIME:20231007T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6E_5_412_100
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W02\n\nCouleur princi
+ pale équipe domicile: Blanc et rouge\nCouleur principale équipe exterieu
+ re: Rouge\n\nContact équipe domicile: Gioffredi G. (0474.24.92.27 - 412fc
+ ec@gmail.com)\n\nAccès voiture : Venant d'Uccle\, prendre la chaussée de
+  Waterloo\, ensuite la chaussée de Bruxelles\, continuer jusqu'à la plac
+ e E. Vandevelde (intersection de la chaussée de Bruxelles avec la chauss
+ ée de Tervuren à Joli-Bois). Au feu de signalisation prendre à droite l
+ a chaussée Bara. Le terrain se trouve à droite à +/- 500 m.\n\nVérifie
+ z toujours ces infos sur http://www.abssa.be/
+GEO:50.701676;4.397567
+LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
+ORGANIZER;CN="Gioffredi G.";ROLE=Secrétaire:MAILTO:412fcec@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J6: FAUBOURG-BRAINOISE (Eq. 2) vs BRUSSELS LTC (Eq. 6)
+DTSTART;VALUE=DATE-TIME:20231014T113000Z
+DTEND;VALUE=DATE-TIME:20231014T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6E_6_100_39
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Borde
+ aux\n\nContact équipe domicile: Herpain D. (0474.79.02.18 - daniel.herpai
+ n@skynet.be)\n\nAccès voiture : En venant de Bruxelles\, emprunter la cha
+ ussée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit ca
+ rrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chaussée
+ \, au deuxième feu de signalisation\, prendre à droite\, le terrain se t
+ rouve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur http:
+ //www.abssa.be/
+GEO:50.6827211;4.3844421
+LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud\, Belgique
+ORGANIZER;CN="Herpain D.";ROLE=Secrétaire:MAILTO:daniel.herpain@skynet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J8: FAUBOURG-BRAINOISE (Eq. 2) vs TIGRE (LE) FC
+DTSTART;VALUE=DATE-TIME:20231021T113000Z
+DTEND;VALUE=DATE-TIME:20231021T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6E_8_100_237
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Orang
+ e\n\nContact équipe domicile: Herpain D. (0474.79.02.18 - daniel.herpain@
+ skynet.be)\n\nAccès voiture : En venant de Bruxelles\, emprunter la chaus
+ sée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit carr
+ efour (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chaussée\,
+  au deuxième feu de signalisation\, prendre à droite\, le terrain se tro
+ uve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur http://
+ www.abssa.be/
+GEO:50.6827211;4.3844421
+LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud\, Belgique
+ORGANIZER;CN="Herpain D.";ROLE=Secrétaire:MAILTO:daniel.herpain@skynet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J24: FAUBOURG-BRAINOISE (Eq. 2) vs KARIA FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20231028T113000Z
+DTEND;VALUE=DATE-TIME:20231028T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6E_24_100_498
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Noir\
+ n\nContact équipe domicile: Herpain D. (0474.79.02.18 - daniel.herpain@sk
+ ynet.be)\n\nAccès voiture : En venant de Bruxelles\, emprunter la chauss
+ ée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit carre
+ four (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chaussée\, 
+ au deuxième feu de signalisation\, prendre à droite\, le terrain se trou
+ ve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur http://w
+ ww.abssa.be/
+GEO:50.6827211;4.3844421
+LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud\, Belgique
+ORGANIZER;CN="Herpain D.";ROLE=Secrétaire:MAILTO:daniel.herpain@skynet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J7: IRLANDE FC (Eq. 6) vs FAUBOURG-BRAINOISE (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20231104T143000Z
+DTEND;VALUE=DATE-TIME:20231104T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6E_7_402_100
+DESCRIPTION:Terrain synthétique: non\nCode terrain: N04\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Rouge\
+ n\nContact équipe domicile: Bridoux J.F. (0455.12.12.65 - fci.secretary.m
+ ens@outlook.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à Nossege
+ m\, au premier croisement prendre à gauche la \nMechelsesteenweg. Le terr
+ ain est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège
+ \, prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelsest
+ eenweg\, traverser la chaussée de Louvain\, et suivre comme ci-avant.\n\n
+ Vérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.88776559999999;4.50894
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER;CN="Bridoux J.F.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@out
+ look.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J9: BOUSVAL GENAPPE (Eq. 3) vs FAUBOURG-BRAINOISE (Eq. 2
+ )
+DTSTART;VALUE=DATE-TIME:20231118T130000Z
+DTEND;VALUE=DATE-TIME:20231118T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6E_9_401_100
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge\
+ n\nContact équipe domicile: Gossiaux S. (0473.44.25.52 - gossiaux_sebasti
+ en@hotmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring Ou
+ est\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Cha
+ rleroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, trave
+ rser le carrefour\, tout droit direction route du sucre.\n\nVérifiez touj
+ ours ces infos sur http://www.abssa.be/
+GEO:50.6007528;4.4472782
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER;CN="Gossiaux S.";ROLE=Secrétaire:MAILTO:gossiaux_sebastien@hotm
+ ail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J12: FAUBOURG-BRAINOISE (Eq. 2) vs CORNAC UNITED FC (Eq.
+  2)
+DTSTART;VALUE=DATE-TIME:20231125T123000Z
+DTEND;VALUE=DATE-TIME:20231125T140000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6E_12_100_151
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rouge
+ \n\nContact équipe domicile: Herpain D. (0474.79.02.18 - daniel.herpain@s
+ kynet.be)\n\nAccès voiture : En venant de Bruxelles\, emprunter la chauss
+ ée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit carre
+ four (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chaussée\, 
+ au deuxième feu de signalisation\, prendre à droite\, le terrain se trou
+ ve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur http://w
+ ww.abssa.be/
+GEO:50.6827211;4.3844421
+LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud\, Belgique
+ORGANIZER;CN="Herpain D.";ROLE=Secrétaire:MAILTO:daniel.herpain@skynet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J11: KARIA FC (Eq. 2) vs FAUBOURG-BRAINOISE (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20231202T143000Z
+DTEND;VALUE=DATE-TIME:20231202T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6E_11_498_100
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge\
+ n\nContact équipe domicile: Bercha  M (0477.69.27.28 - mohamedbercha@hotm
+ ail.fr)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\, vers 
+ Neder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-
+ point\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin V
+ ert\, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://www.abs
+ sa.be/
+GEO:50.89983369999999;4.3936101
+LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
+ORGANIZER;CN="Bercha  M";ROLE=Secrétaire:MAILTO:mohamedbercha@hotmail.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J13: CHEVERNY SCHAERB (Eq. 2) vs FAUBOURG-BRAINOISE (Eq.
+  2)
+DTSTART;VALUE=DATE-TIME:20231209T143000Z
+DTEND;VALUE=DATE-TIME:20231209T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6E_13_128_100
+DESCRIPTION:Terrain synthétique: non\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Rouge
+ \n\nContact équipe domicile: Bex V (0476.92.58.43 - vincentbex@gmail.com)
+ \n\nAccès voiture : Direction cimetière de Jette\, ensuite prendre la ru
+ e du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Crocq. L
+ e terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur http://
+ www.abssa.be/
+GEO:50.8907643;4.3211209
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
+ Belgique
+ORGANIZER;CN="Bex V";ROLE=Secrétaire:MAILTO:vincentbex@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J14: FAUBOURG-BRAINOISE (Eq. 2) vs BRITISH UNITED (Eq. 7
+ )
+DTSTART;VALUE=DATE-TIME:20240113T123000Z
+DTEND;VALUE=DATE-TIME:20240113T140000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6E_14_100_132
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Herpain D. (0474.79.02.18 - daniel.herpain@sk
+ ynet.be)\n\nAccès voiture : En venant de Bruxelles\, emprunter la chauss
+ ée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit carre
+ four (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chaussée\, 
+ au deuxième feu de signalisation\, prendre à droite\, le terrain se trou
+ ve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur http://w
+ ww.abssa.be/
+GEO:50.6827211;4.3844421
+LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud\, Belgique
+ORGANIZER;CN="Herpain D.";ROLE=Secrétaire:MAILTO:daniel.herpain@skynet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J15: NIVELLES AS (Eq. 2) vs FAUBOURG-BRAINOISE (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240120T143000Z
+DTEND;VALUE=DATE-TIME:20240120T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6E_15_306_100
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: Orange fluo\nCouleur principale équipe exterieure:
+  Rouge\n\nContact équipe domicile: Couteau A (0497.63.11.19 - couteau.arn
+ old.00@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autor
+ oute Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer so
+ us le pont de l'autoroute et prendre la direction de Nivelles. A 200 m.\, 
+ au rond-point (Shopping Center)\, tourner à droite en direction de Wavre 
+ (petit ring de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-p
+ oint du Shopping Center)\, tourner à gauche \, rue de l'Industrie et pén
+ étrer dans le zoning. Au bout de la rue\, avant le feu de signalisation\,
+  tourner à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVé
+ rifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.5963436;4.3564187
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Couteau A";ROLE=Secrétaire:MAILTO:couteau.arnold.00@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J16: FAUBOURG-BRAINOISE (Eq. 2) vs BRUSSELS BRITISH R (E
+ q. 7)
+DTSTART;VALUE=DATE-TIME:20240127T123000Z
+DTEND;VALUE=DATE-TIME:20240127T140000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6E_16_100_1
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Blanc
+ \n\nContact équipe domicile: Herpain D. (0474.79.02.18 - daniel.herpain@s
+ kynet.be)\n\nAccès voiture : En venant de Bruxelles\, emprunter la chauss
+ ée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit carre
+ four (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chaussée\, 
+ au deuxième feu de signalisation\, prendre à droite\, le terrain se trou
+ ve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur http://w
+ ww.abssa.be/
+GEO:50.6827211;4.3844421
+LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud\, Belgique
+ORGANIZER;CN="Herpain D.";ROLE=Secrétaire:MAILTO:daniel.herpain@skynet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J17: WATERMAEL CS vs FAUBOURG-BRAINOISE (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240203T143000Z
+DTEND;VALUE=DATE-TIME:20240203T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6E_17_375_100
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rouge
+ \n\nContact équipe domicile: De Greve M. (0495.22.83.19 - micheldegreve08
+ @gmail.com)\n\nAccès voiture : A partir du square des Archiducs\, prendre
+  la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez toujours 
+ ces infos sur http://www.abssa.be/
+GEO:50.8059082;4.4137428
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="De Greve M.";ROLE=Secrétaire:MAILTO:micheldegreve08@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J18: FAUBOURG-BRAINOISE (Eq. 2) vs CHENOIS (ESPER) (Eq. 
+ 2)
+DTSTART;VALUE=DATE-TIME:20240210T123000Z
+DTEND;VALUE=DATE-TIME:20240210T140000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6E_18_100_412
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Blanc
+  et rouge\n\nContact équipe domicile: Herpain D. (0474.79.02.18 - daniel.
+ herpain@skynet.be)\n\nAccès voiture : En venant de Bruxelles\, emprunter 
+ la chaussée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au 
+ dit carrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur cette cha
+ ussée\, au deuxième feu de signalisation\, prendre à droite\, le terrai
+ n se trouve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur
+  http://www.abssa.be/
+GEO:50.6827211;4.3844421
+LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud\, Belgique
+ORGANIZER;CN="Herpain D.";ROLE=Secrétaire:MAILTO:daniel.herpain@skynet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J19: BRUSSELS LTC (Eq. 6) vs FAUBOURG-BRAINOISE (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240217T143000Z
+DTEND;VALUE=DATE-TIME:20240217T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6E_19_39_100
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Ro
+ uge\n\nContact équipe domicile: Van Hacht O. (0475.96.43.03 - brusselsltc
+ @hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre le Ring Es
+ t direction Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\,
+  Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours
+  tout droit. Au feu de signalisation et le carrefour de La Hulpe\, tout dr
+ oit direction Genval. Au feu de signalisation prendre à gauche et ensuite
+  directement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se 
+ trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.7309318;4.4945865
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J26: FAUBOURG-BRAINOISE (Eq. 2) vs CHEVERNY SCHAERB (Eq.
+  2)
+DTSTART;VALUE=DATE-TIME:20240224T123000Z
+DTEND;VALUE=DATE-TIME:20240224T140000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6E_26_100_128
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Jaune
+ \n\nContact équipe domicile: Herpain D. (0474.79.02.18 - daniel.herpain@s
+ kynet.be)\n\nAccès voiture : En venant de Bruxelles\, emprunter la chauss
+ ée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit carre
+ four (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chaussée\, 
+ au deuxième feu de signalisation\, prendre à droite\, le terrain se trou
+ ve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur http://w
+ ww.abssa.be/
+GEO:50.6827211;4.3844421
+LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud\, Belgique
+ORGANIZER;CN="Herpain D.";ROLE=Secrétaire:MAILTO:daniel.herpain@skynet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J20: FAUBOURG-BRAINOISE (Eq. 2) vs IRLANDE FC (Eq. 6)
+DTSTART;VALUE=DATE-TIME:20240309T123000Z
+DTEND;VALUE=DATE-TIME:20240309T140000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6E_20_100_402
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Vert\
+ n\nContact équipe domicile: Herpain D. (0474.79.02.18 - daniel.herpain@sk
+ ynet.be)\n\nAccès voiture : En venant de Bruxelles\, emprunter la chauss
+ ée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit carre
+ four (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chaussée\, 
+ au deuxième feu de signalisation\, prendre à droite\, le terrain se trou
+ ve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur http://w
+ ww.abssa.be/
+GEO:50.6827211;4.3844421
+LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud\, Belgique
+ORGANIZER;CN="Herpain D.";ROLE=Secrétaire:MAILTO:daniel.herpain@skynet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J21: TIGRE (LE) FC vs FAUBOURG-BRAINOISE (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240316T113000Z
+DTEND;VALUE=DATE-TIME:20240316T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6E_21_237_100
+DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Roug
+ e\n\nContact équipe domicile: Goetghebuer G. (0494.46.63.32 - sportetvie@
+ skynet.be)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute
+  Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viad
+ uc prendre à droite\, l'avenue des Anciens Combattants. Juste après le c
+ arrefour avec des feux de signalisation prendre à droite vers la Place de
+  la Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le 
+ terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces infos
+  sur http://www.abssa.be/
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="Goetghebuer G.";ROLE=Secrétaire:MAILTO:sportetvie@skynet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J22: FAUBOURG-BRAINOISE (Eq. 2) vs BOUSVAL GENAPPE (Eq. 
+ 3)
+DTSTART;VALUE=DATE-TIME:20240323T123000Z
+DTEND;VALUE=DATE-TIME:20240323T140000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6E_22_100_401
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Herpain D. (0474.79.02.18 - daniel.herpain@sk
+ ynet.be)\n\nAccès voiture : En venant de Bruxelles\, emprunter la chauss
+ ée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit carre
+ four (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chaussée\, 
+ au deuxième feu de signalisation\, prendre à droite\, le terrain se trou
+ ve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur http://w
+ ww.abssa.be/
+GEO:50.6827211;4.3844421
+LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud\, Belgique
+ORGANIZER;CN="Herpain D.";ROLE=Secrétaire:MAILTO:daniel.herpain@skynet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J25: CORNAC UNITED FC (Eq. 2) vs FAUBOURG-BRAINOISE (Eq.
+  2)
+DTSTART;VALUE=DATE-TIME:20240406T103000Z
+DTEND;VALUE=DATE-TIME:20240406T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6E_25_151_100
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A01\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rouge
+ \n\nContact équipe domicile: Denayer M. (0476.53.14.48 - marcdenayermd@gm
+ ail.com)\n\nAccès voiture : Par le Ring Ouest\, direction Paris\, sortie 
+ Westland Shopping Center (n° 14) continuer tout droit\, remonter vers le 
+ Ring et prendre à droite pour sortir vers Itterbeek. Prendre l'avenue d'I
+ tterbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. Le terrain se
+  trouve à gauche\, entre l'école Van Belle et Veeweyde.\n\nVérifiez tou
+ jours ces infos sur http://www.abssa.be/
+GEO:50.8354396;4.2768611
+LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
+ORGANIZER;CN="Denayer M.";ROLE=Secrétaire:MAILTO:marcdenayermd@gmail.com
 END:VEVENT
 END:VCALENDAR

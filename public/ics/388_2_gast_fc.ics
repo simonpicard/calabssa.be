@@ -1,294 +1,477 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:983878c5-3b30-40c9-b798-5bca23ab11b7
-X-WR-CALDESC:Les matches de GAST FC (eq. 2) en ABSSA.
-X-WR-CALNAME:ABSSA - GAST FC (eq. 2) - 388
-X-WR-TIMEZONE:Europe/Brussels
+PRODID:388_2_gast_fc
+X-WR-CALDESC:Les matches du club GAST FC (equipe 2) en ABSSA.
+X-WR-CALNAME:ABSSA: GAST FC (eq. 2)
 BEGIN:VEVENT
-SUMMARY:ABSSA D6A J2: MUTUELLE RSB vs GAST FC (Eq. 2)
-DTSTART:20220910T151500Z
-DTEND:20220910T164000Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:2285e76f-79e7-458b-a1db-10a04829af8a
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert rayé de blanc\nCouleur principale équipe extérieur: Gris\n\nCo
- ntact équipe domicile: PALANGA  M. (0479.61.03.59)\n\nAccès voiture : Ri
- ng de Bruxelles\, sortie 9 Jette.\nEn venant de Zaventem\, prendre à gauc
- he à la sortie\, en venant de Charleroi prendre à droite. Au feu rouge c
- ontinuer sur +/- 1 km jusqu'au rond point. Le terrain se trouve en face de
-  la pompe à essence Q8.
-GEO:50.8832985;4.3163697
-LOCATION:Avenue de l'Exposition\, 257\, 1090 Jette\, Belgique
-ORGANIZER:MAILTO:royalemumu@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6A J12: TRINQUANT (Eq. 2) vs GAST FC (Eq. 2)
-DTSTART:20221126T140000Z
-DTEND:20221126T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:b6bb8d35-be4b-4085-96fd-69bb9fc03dfd
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu marine\nCouleur principale équipe extérieur: Gris\n\nContact é
- quipe domicile: BERNARD J-M. (0476.66.08.14)\n\nAccès voiture : Venant de
-  Bruxelles\, prendre le Ring Est direction Waterloo. Sortir au pont de Gro
- enendael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. Après le
-  chateau de La Hulpe\, toujours tout droit. Au feu de signalisation et le 
- carrefour de La Hulpe\, tout droit direction Genval. Au feu de signalisati
- on prendre à gauche et ensuite directement à droite\, l'avenue Soyer\, d
- errière le G.B. Le terrain se trouve à 300 m.
-GEO:50.7309582;4.4952087
-LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:jmbernard.trinquant@yahoo.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6A J13: GAST FC (Eq. 2) vs MUTUELLE RSB
-DTSTART:20221203T153000Z
-DTEND:20221203T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:fa40d7b2-7dee-4d92-a191-cbeaa8fd0a5e
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Gris\nCouleur principale équipe extérieur: Vert rayé de blanc\n\nCo
- ntact équipe domicile: CLAIS D. (0476.99.88.10)\n\nAccès voiture : Prend
- re l'Autoroute ou le ring Bruxelles-Mons-Paris\, sortie Drogenbos. Prendre
-  direction Drogenbos-Centre\, passer devant la Maison Communale et le term
- inus du tram\, ensuite à la 3ème rue tourner à main droite (Le terrain 
- se trouve au bout de la rue au Bois).
-GEO:50.7815004;4.3192086
-LOCATION:STADE COMMUNAL DE DROGENBOS\, Rue au Bois\, 1620 Drogenbos\, Belg
+SUMMARY:ABSSA D6A J10: GAST FC (Eq. 2) vs FORESTOIS SC (Eq. 4)
+DTSTART;VALUE=DATE-TIME:20230902T133000Z
+DTEND;VALUE=DATE-TIME:20230902T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6A_10_388_152
+DESCRIPTION:Terrain synthétique: non\nCode terrain: D01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Clais D. (0476.99.88.10 - davidclais@hotmail.c
+ om)\n\nAccès voiture : Prendre l'Autoroute ou le ring Bruxelles-Mons-Pari
+ s\, sortie Drogenbos. Prendre direction Drogenbos-Centre\, passer devant l
+ a Maison Communale et le terminus du tram\, ensuite à la 3ème rue tourne
+ r à main droite (Le terrain se trouve au bout de la rue au Bois).\n\nVér
+ ifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.7815028;4.3192053
+LOCATION:Stade Communal de Drogenbos\, Rue au Bois\, 1620 Drogenbos\, Belg
  ique
-ORGANIZER:MAILTO:davidclais@hotmail.com
+ORGANIZER;CN="Clais D.";ROLE=Secrétaire:MAILTO:davidclais@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6A J14: JEFKE COUNTRY (Eq. 2) vs GAST FC (Eq. 2)
-DTSTART:20221210T143000Z
-DTEND:20221210T155500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:1a01ca8c-e93b-4878-be27-3988825f8496
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir et blanc\nCouleur principale équipe extérieur: Gris\n\nContact 
- équipe domicile: PARMENTIER A. (0476.88.11.08)\n\nAccès voiture : Boulev
- ard de la Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel jusq
- u'au Petit Pont (terminus bus 28). Avant ce pont le terrain se trouve à g
- auche.
-GEO:50.8423054;4.445628699999999
-LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
- é-Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:alainjefke@outlook.fr
+SUMMARY:ABSSA D6A J1: GAST FC (Eq. 2) vs AUDERGHEM RU
+DTSTART;VALUE=DATE-TIME:20230909T133000Z
+DTEND;VALUE=DATE-TIME:20230909T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6A_1_388_376
+DESCRIPTION:Terrain synthétique: non\nCode terrain: D01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Jaune\
+ n\nContact équipe domicile: Clais D. (0476.99.88.10 - davidclais@hotmail.
+ com)\n\nAccès voiture : Prendre l'Autoroute ou le ring Bruxelles-Mons-Par
+ is\, sortie Drogenbos. Prendre direction Drogenbos-Centre\, passer devant 
+ la Maison Communale et le terminus du tram\, ensuite à la 3ème rue tourn
+ er à main droite (Le terrain se trouve au bout de la rue au Bois).\n\nVé
+ rifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.7815028;4.3192053
+LOCATION:Stade Communal de Drogenbos\, Rue au Bois\, 1620 Drogenbos\, Belg
+ ique
+ORGANIZER;CN="Clais D.";ROLE=Secrétaire:MAILTO:davidclais@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6A J15: AUDERGHEM RU vs GAST FC (Eq. 2)
-DTSTART:20221217T153000Z
-DTEND:20221217T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:8c0eb9a7-d7be-4b7e-811d-e01e4763e3f5
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune\nCouleur principale équipe extérieur: Gris\n\nContact équipe 
- domicile: VAN EYCKE R. (0479.27.27.46)\n\nAccès voiture : En venant de Br
- uxelles par la chaussée de Wavre\, rejoindre le du début de l'autoroute 
- Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et descen
- dre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (
- en dessous de l'autoroute). Le terrain se trouve à 200 m. Le stade est fl
- éché.
+SUMMARY:ABSSA D6A J2: JEFKE COUNTRY (Eq. 2) vs GAST FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20230916T133000Z
+DTEND;VALUE=DATE-TIME:20230916T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6A_2_423_388
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: T07\n\nCouleur princi
+ pale équipe domicile: Noir et blanc\nCouleur principale équipe exterieur
+ e: Noir\n\nContact équipe domicile: Mad. Kadycz C. (0477.67.18.80 - carol
+ ejefke@gmail.com)\n\nAccès voiture : Aux quatre-Bras\, prendre direction 
+ Tervuren via l’avenue de Tervuren(N3) pendant 750M\nAu rond-point\, pren
+ dre la 1ère sortie et continuer sur l’avenue de Tervuren pendant 1\,2km
+  puis prendre à droite sur la chaussée de Bruxelles pendant 500m. Ensuit
+ e Prendre légèrement sur la droite dans la Wijngaardstraat pendant 400m 
+ et tourner à gauche dans la Pepperstraat pendant 400m. Ensuite tourner à
+  droite sur la chaussée de Duisburg et rouler pendant 1\,4 km... Continue
+ r tout droit sur la chaussée de Tervuren pendant 1\,3 km et prendre à ga
+ uche dans la rue de destination ( Schonenboomstraat).\nLe terrain se situe
+  sur la droite de la route!\n\nVérifiez toujours ces infos sur http://www
+ .abssa.be/
+GEO:50.8107232;4.5492332
+LOCATION:Schonenboormstraat\, 3080 Tervuren\, Belgique
+ORGANIZER;CN="Mad. Kadycz C.";ROLE=Secrétaire:MAILTO:carolejefke@gmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J3: GAST FC (Eq. 2) vs COIN DU BALAI FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20230923T133000Z
+DTEND;VALUE=DATE-TIME:20230923T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6A_3_388_229
+DESCRIPTION:Terrain synthétique: non\nCode terrain: D01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu M
+ arine\n\nContact équipe domicile: Clais D. (0476.99.88.10 - davidclais@ho
+ tmail.com)\n\nAccès voiture : Prendre l'Autoroute ou le ring Bruxelles-Mo
+ ns-Paris\, sortie Drogenbos. Prendre direction Drogenbos-Centre\, passer d
+ evant la Maison Communale et le terminus du tram\, ensuite à la 3ème rue
+  tourner à main droite (Le terrain se trouve au bout de la rue au Bois).\
+ n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.7815028;4.3192053
+LOCATION:Stade Communal de Drogenbos\, Rue au Bois\, 1620 Drogenbos\, Belg
+ ique
+ORGANIZER;CN="Clais D.";ROLE=Secrétaire:MAILTO:davidclais@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J5: GAST FC (Eq. 2) vs J.ST-GILLOISE R.
+DTSTART;VALUE=DATE-TIME:20231007T133000Z
+DTEND;VALUE=DATE-TIME:20231007T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6A_5_388_38
+DESCRIPTION:Terrain synthétique: non\nCode terrain: D01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu f
+ oncé\n\nContact équipe domicile: Clais D. (0476.99.88.10 - davidclais@ho
+ tmail.com)\n\nAccès voiture : Prendre l'Autoroute ou le ring Bruxelles-Mo
+ ns-Paris\, sortie Drogenbos. Prendre direction Drogenbos-Centre\, passer d
+ evant la Maison Communale et le terminus du tram\, ensuite à la 3ème rue
+  tourner à main droite (Le terrain se trouve au bout de la rue au Bois).\
+ n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.7815028;4.3192053
+LOCATION:Stade Communal de Drogenbos\, Rue au Bois\, 1620 Drogenbos\, Belg
+ ique
+ORGANIZER;CN="Clais D.";ROLE=Secrétaire:MAILTO:davidclais@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J6: AMB. AUDERGHEM (Eq. 2) vs GAST FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20231014T120000Z
+DTEND;VALUE=DATE-TIME:20231014T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6A_6_249_388
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Blanc rayé de Gris\nCouleur principale équipe ext
+ erieure: Noir\n\nContact équipe domicile: Leclef R. (0473.13.76.27 - rena
+ udleclef@hotmail.fr)\n\nAccès voiture : En venant de Bruxelles par la cha
+ ussée de Wavre\, rejoindre le du début de l'autoroute Bruxelles-Namur\, 
+ utiliser la bande de droite pendant +/- 200 m. et descendre devant le bât
+ iment de l'ADEPS\, puis passer par le tunnel à gauche (en dessous de l'au
+ toroute). Le terrain se trouve à 200 m. Le stade est fléché.\n\nVérifi
+ ez toujours ces infos sur http://www.abssa.be/
 GEO:50.8103473;4.443252699999999
-LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem\, 
- Belgique
-ORGANIZER:MAILTO:rvaneycke@biac.skynet.be
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="Leclef R.";ROLE=Secrétaire:MAILTO:renaudleclef@hotmail.fr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6A J16: GAST FC (Eq. 2) vs IRLANDE FC (Eq. 5)
-DTSTART:20230107T153000Z
-DTEND:20230107T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:7c37c0e9-80e1-431b-b263-3e30696ac72c
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Gris\nCouleur principale équipe extérieur: Vert\n\nContact équipe d
- omicile: CLAIS D. (0476.99.88.10)\n\nAccès voiture : Prendre l'Autoroute 
- ou le ring Bruxelles-Mons-Paris\, sortie Drogenbos. Prendre direction Drog
- enbos-Centre\, passer devant la Maison Communale et le terminus du tram\, 
- ensuite à la 3ème rue tourner à main droite (Le terrain se trouve au bo
- ut de la rue au Bois).
-GEO:50.7815004;4.3192086
-LOCATION:STADE COMMUNAL DE DROGENBOS\, Rue au Bois\, 1620 Drogenbos\, Belg
- ique
-ORGANIZER:MAILTO:davidclais@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6A J17: TOURINNOIS FC (Eq. 3) vs GAST FC (Eq. 2)
-DTSTART:20230114T133000Z
-DTEND:20230114T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:7138e7ba-5c5a-444f-9510-601da47fcd6f
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe extérieur: Gris\n\nContact équipe 
- domicile: STRADE P. (010.65.83.02)\n\nAccès voiture : A partir de l'autor
- oute Bruxelles-Namur (E411)\, prendre la sortie  Walhain (n° 10). Au pied
-  de la rampe d'accès\, suivre la direction Walhain vers la droite et apr
- ès 200 m. prendre à droite et 400 m. plus loin\, prendre à nouveau à d
- roite. Le terrain se trouve à +/- 300 m. sur la gauche.
+SUMMARY:ABSSA D6A J8: TOURINNOIS FC (Eq. 3) vs GAST FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20231021T113000Z
+DTEND;VALUE=DATE-TIME:20231021T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6A_8_292_388
+DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Noir\
+ n\nContact équipe domicile: Strade P. (010.65.83.02 - stradepaul@hotmail.
+ com)\n\nAccès voiture : A partir de l'autoroute Bruxelles-Namur (E411)\, 
+ prendre la sortie  Walhain (n° 10). Au pied de la rampe d'accès\, suivre
+  la direction Walhain vers la droite et après 200 m. prendre à droite et
+  400 m. plus loin\, prendre à nouveau à droite. Le terrain se trouve à 
+ +/- 300 m. sur la gauche.\n\nVérifiez toujours ces infos sur http://www.a
+ bssa.be/
 GEO:50.6414624;4.7191939
 LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
-ORGANIZER:MAILTO:stradepaul@hotmail.com
+ORGANIZER;CN="Strade P.";ROLE=Secrétaire:MAILTO:stradepaul@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6A J18: GAST FC (Eq. 2) vs BRITISH UNITED (Eq. 5)
-DTSTART:20230121T153000Z
-DTEND:20230121T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:44b44024-76d6-4d83-b3c5-06d8b980ab0b
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Gris\nCouleur principale équipe extérieur: Bleu\n\nContact équipe d
- omicile: CLAIS D. (0476.99.88.10)\n\nAccès voiture : Prendre l'Autoroute 
- ou le ring Bruxelles-Mons-Paris\, sortie Drogenbos. Prendre direction Drog
- enbos-Centre\, passer devant la Maison Communale et le terminus du tram\, 
- ensuite à la 3ème rue tourner à main droite (Le terrain se trouve au bo
- ut de la rue au Bois).
-GEO:50.7815004;4.3192086
-LOCATION:STADE COMMUNAL DE DROGENBOS\, Rue au Bois\, 1620 Drogenbos\, Belg
+SUMMARY:ABSSA D6A J24: GAST FC (Eq. 2) vs IRLANDE FC (Eq. 5)
+DTSTART;VALUE=DATE-TIME:20231028T133000Z
+DTEND;VALUE=DATE-TIME:20231028T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6A_24_388_402
+DESCRIPTION:Terrain synthétique: non\nCode terrain: D01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Vert\n
+ \nContact équipe domicile: Clais D. (0476.99.88.10 - davidclais@hotmail.c
+ om)\n\nAccès voiture : Prendre l'Autoroute ou le ring Bruxelles-Mons-Pari
+ s\, sortie Drogenbos. Prendre direction Drogenbos-Centre\, passer devant l
+ a Maison Communale et le terminus du tram\, ensuite à la 3ème rue tourne
+ r à main droite (Le terrain se trouve au bout de la rue au Bois).\n\nVér
+ ifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.7815028;4.3192053
+LOCATION:Stade Communal de Drogenbos\, Rue au Bois\, 1620 Drogenbos\, Belg
  ique
-ORGANIZER:MAILTO:davidclais@hotmail.com
+ORGANIZER;CN="Clais D.";ROLE=Secrétaire:MAILTO:davidclais@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6A J19: AMB. AUDERGHEM (Eq. 2) vs GAST FC (Eq. 2)
-DTSTART:20230128T140000Z
-DTEND:20230128T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:de0b4dc1-fde1-49b0-bdc6-7508dd589cd5
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc rayé de Gris\nCouleur principale équipe extérieur: Gris\n\nCo
- ntact équipe domicile: LECLEF R. (0473.13.76.27)\n\nAccès voiture : En v
- enant de Bruxelles par la chaussée de Wavre\, rejoindre le du début de l
- 'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m
- . et descendre devant le bâtiment de l'ADEPS\, puis passer par le tunnel 
- à gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le s
- tade est fléché.
+SUMMARY:ABSSA D6A J7: GAST FC (Eq. 2) vs TUBIFOOT AS
+DTSTART;VALUE=DATE-TIME:20231104T143000Z
+DTEND;VALUE=DATE-TIME:20231104T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6A_7_388_451
+DESCRIPTION:Terrain synthétique: non\nCode terrain: D01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Jaune 
+ et Rouge\n\nContact équipe domicile: Clais D. (0476.99.88.10 - davidclais
+ @hotmail.com)\n\nAccès voiture : Prendre l'Autoroute ou le ring Bruxelles
+ -Mons-Paris\, sortie Drogenbos. Prendre direction Drogenbos-Centre\, passe
+ r devant la Maison Communale et le terminus du tram\, ensuite à la 3ème 
+ rue tourner à main droite (Le terrain se trouve au bout de la rue au Bois
+ ).\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.7815028;4.3192053
+LOCATION:Stade Communal de Drogenbos\, Rue au Bois\, 1620 Drogenbos\, Belg
+ ique
+ORGANIZER;CN="Clais D.";ROLE=Secrétaire:MAILTO:davidclais@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J9: BRITISH UNITED (Eq. 5) vs GAST FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20231118T113000Z
+DTEND;VALUE=DATE-TIME:20231118T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6A_9_132_388
+DESCRIPTION:Terrain synthétique: non\nCode terrain: M02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gillesvanders
+ eypen@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Anvers (E19) sort
+ ie Mechelen-Noord (n° 9) En arrivant dans le centre\, suivre la direction
+  "Heist-op-den-Berg" Aller tout droit et passer le viaduc du chemin de fer
+ . Après 1 km. suivre les flèches "De Nekker". Garer les voitures à l'ex
+ térieur du complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terrai
+ n.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:51.0254354;4.503786799999999
+LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
+ ue
+ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
+ gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J12: GAST FC (Eq. 2) vs METRASPORT R.
+DTSTART;VALUE=DATE-TIME:20231125T143000Z
+DTEND;VALUE=DATE-TIME:20231125T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6A_12_388_33
+DESCRIPTION:Terrain synthétique: non\nCode terrain: D01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge 
+ et Bleu\n\nContact équipe domicile: Clais D. (0476.99.88.10 - davidclais@
+ hotmail.com)\n\nAccès voiture : Prendre l'Autoroute ou le ring Bruxelles-
+ Mons-Paris\, sortie Drogenbos. Prendre direction Drogenbos-Centre\, passer
+  devant la Maison Communale et le terminus du tram\, ensuite à la 3ème r
+ ue tourner à main droite (Le terrain se trouve au bout de la rue au Bois)
+ .\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.7815028;4.3192053
+LOCATION:Stade Communal de Drogenbos\, Rue au Bois\, 1620 Drogenbos\, Belg
+ ique
+ORGANIZER;CN="Clais D.";ROLE=Secrétaire:MAILTO:davidclais@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J11: IRLANDE FC (Eq. 5) vs GAST FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20231202T143000Z
+DTEND;VALUE=DATE-TIME:20231202T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6A_11_402_388
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: N04\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Bridoux J.F. (0455.12.12.65 - fci.secretary.me
+ ns@outlook.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à Nossegem
+ \, au premier croisement prendre à gauche la \nMechelsesteenweg. Le terra
+ in est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\
+ , prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelseste
+ enweg\, traverser la chaussée de Louvain\, et suivre comme ci-avant.\n\nV
+ érifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.88776559999999;4.50894
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER;CN="Bridoux J.F.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@out
+ look.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J13: BRUSSELS BRITISH R (Eq. 5) vs GAST FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20231209T143000Z
+DTEND;VALUE=DATE-TIME:20231209T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6A_13_1_388
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir\
+ n\nContact équipe domicile: Lachia S. (0484.27.72.64 - abssa-sec@rbbfc.or
+ g)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Passe
+ r devant l'église\, longer l'autoroute et tourner à droite au cimetière
+  des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur http:/
+ /www.abssa.be/
+GEO:50.7282426;4.5537189
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="Lachia S.";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J14: AUDERGHEM RU vs GAST FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240113T143000Z
+DTEND;VALUE=DATE-TIME:20240113T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6A_14_376_388
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Noir\
+ n\nContact équipe domicile: Van Eycke R. (0479.27.27.46 - rvaneycke@biac.
+ skynet.be)\n\nAccès voiture : En venant de Bruxelles par la chaussée de 
+ Wavre\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser l
+ a bande de droite pendant +/- 200 m. et descendre devant le bâtiment de l
+ 'ADEPS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). 
+ Le terrain se trouve à 200 m. Le stade est fléché.\n\nVérifiez toujour
+ s ces infos sur http://www.abssa.be/
 GEO:50.8103473;4.443252699999999
-LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem\, 
- Belgique
-ORGANIZER:MAILTO:renaudleclef@hotmail.fr
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="Van Eycke R.";ROLE=Secrétaire:MAILTO:rvaneycke@biac.skynet.
+ be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6A J20: GAST FC (Eq. 2) vs FORESTOIS SC (Eq. 4)
-DTSTART:20230204T153000Z
-DTEND:20230204T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:99ca799b-219e-4f57-a11e-ba5d6c588417
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Gris\nCouleur principale équipe extérieur: Vert\n\nContact équipe d
- omicile: CLAIS D. (0476.99.88.10)\n\nAccès voiture : Prendre l'Autoroute 
- ou le ring Bruxelles-Mons-Paris\, sortie Drogenbos. Prendre direction Drog
- enbos-Centre\, passer devant la Maison Communale et le terminus du tram\, 
- ensuite à la 3ème rue tourner à main droite (Le terrain se trouve au bo
- ut de la rue au Bois).
-GEO:50.7815004;4.3192086
-LOCATION:STADE COMMUNAL DE DROGENBOS\, Rue au Bois\, 1620 Drogenbos\, Belg
+SUMMARY:ABSSA D6A J15: GAST FC (Eq. 2) vs JEFKE COUNTRY (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240120T143000Z
+DTEND;VALUE=DATE-TIME:20240120T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6A_15_388_423
+DESCRIPTION:Terrain synthétique: non\nCode terrain: D01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir e
+ t blanc\n\nContact équipe domicile: Clais D. (0476.99.88.10 - davidclais@
+ hotmail.com)\n\nAccès voiture : Prendre l'Autoroute ou le ring Bruxelles-
+ Mons-Paris\, sortie Drogenbos. Prendre direction Drogenbos-Centre\, passer
+  devant la Maison Communale et le terminus du tram\, ensuite à la 3ème r
+ ue tourner à main droite (Le terrain se trouve au bout de la rue au Bois)
+ .\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.7815028;4.3192053
+LOCATION:Stade Communal de Drogenbos\, Rue au Bois\, 1620 Drogenbos\, Belg
  ique
-ORGANIZER:MAILTO:davidclais@hotmail.com
+ORGANIZER;CN="Clais D.";ROLE=Secrétaire:MAILTO:davidclais@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6A J21: METRASPORT R. vs GAST FC (Eq. 2)
-DTSTART:20230211T140000Z
-DTEND:20230211T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:50b65ac9-1e81-4956-b2b4-a2092751c704
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge et Bleu\nCouleur principale équipe extérieur: Gris\n\nContact 
- équipe domicile: PIRLOT E. (0474.90.52.25)\n\nAccès voiture : Ring de Br
- uxelles\, Sortie Wemmel\, prendre l'Avenue Houba de Strooper\, puis la rue
-  à gauche\, avant le bâtiment de l'URBSFA\, direction Atomium.
+SUMMARY:ABSSA D6A J16: COIN DU BALAI FC (Eq. 2) vs GAST FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240127T143000Z
+DTEND;VALUE=DATE-TIME:20240127T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6A_16_229_388
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
+  Noir\n\nContact équipe domicile: Rosenfeld J. (0485.05.40.06 - rosenfeld
+ jean@hotmail.com)\n\nAccès voiture : A partir du square des Archiducs\, p
+ rendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez tou
+ jours ces infos sur http://www.abssa.be/
+GEO:50.8059082;4.4137428
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Rosenfeld J.";ROLE=Secrétaire:MAILTO:rosenfeldjean@hotmail.
+ com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J18: J.ST-GILLOISE R. vs GAST FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240210T130000Z
+DTEND;VALUE=DATE-TIME:20240210T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6A_18_38_388
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
+  Noir\n\nContact équipe domicile: Honore K. (0475.53.32.84 - kenny.honore
+ 9@gmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 300
+  m. en direction de Lennik\, prendre à droite.\nVenant de la chaussée de
+  Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld.
+  Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en direc
+ tion de Lennik.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8177358;4.2557195
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER;CN="Honore K.";ROLE=Secrétaire:MAILTO:kenny.honore9@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J19: GAST FC (Eq. 2) vs AMB. AUDERGHEM (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240217T143000Z
+DTEND;VALUE=DATE-TIME:20240217T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6A_19_388_249
+DESCRIPTION:Terrain synthétique: non\nCode terrain: D01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Blanc 
+ rayé de Gris\n\nContact équipe domicile: Clais D. (0476.99.88.10 - david
+ clais@hotmail.com)\n\nAccès voiture : Prendre l'Autoroute ou le ring Brux
+ elles-Mons-Paris\, sortie Drogenbos. Prendre direction Drogenbos-Centre\, 
+ passer devant la Maison Communale et le terminus du tram\, ensuite à la 3
+ ème rue tourner à main droite (Le terrain se trouve au bout de la rue au
+  Bois).\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.7815028;4.3192053
+LOCATION:Stade Communal de Drogenbos\, Rue au Bois\, 1620 Drogenbos\, Belg
+ ique
+ORGANIZER;CN="Clais D.";ROLE=Secrétaire:MAILTO:davidclais@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J26: GAST FC (Eq. 2) vs BRUSSELS BRITISH R (Eq. 5)
+DTSTART;VALUE=DATE-TIME:20240224T143000Z
+DTEND;VALUE=DATE-TIME:20240224T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6A_26_388_1
+DESCRIPTION:Terrain synthétique: non\nCode terrain: D01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Clais D. (0476.99.88.10 - davidclais@hotmail.
+ com)\n\nAccès voiture : Prendre l'Autoroute ou le ring Bruxelles-Mons-Par
+ is\, sortie Drogenbos. Prendre direction Drogenbos-Centre\, passer devant 
+ la Maison Communale et le terminus du tram\, ensuite à la 3ème rue tourn
+ er à main droite (Le terrain se trouve au bout de la rue au Bois).\n\nVé
+ rifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.7815028;4.3192053
+LOCATION:Stade Communal de Drogenbos\, Rue au Bois\, 1620 Drogenbos\, Belg
+ ique
+ORGANIZER;CN="Clais D.";ROLE=Secrétaire:MAILTO:davidclais@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J23: FORESTOIS SC (Eq. 4) vs GAST FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240302T143000Z
+DTEND;VALUE=DATE-TIME:20240302T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6A_23_152_388
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Janssens P. (0479.95.08.14 - patj.scf@gmail.co
+ m)\n\nAccès voiture : Au départ de la Place St. Denis à Forest prendre 
+ la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à dro
+ ite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gauche 
+ (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du Com
+ plexe se trouve à hauteur de City Cart\, à gauche de la route.\n\nVérif
+ iez toujours ces infos sur http://www.abssa.be/
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J20: TUBIFOOT AS vs GAST FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240309T143000Z
+DTEND;VALUE=DATE-TIME:20240309T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6A_20_451_388
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: T06\n\nCouleur princi
+ pale équipe domicile: Jaune et Rouge\nCouleur principale équipe exterieu
+ re: Noir\n\nContact équipe domicile: Girardo. M (0491.35.69.81 - astubifo
+ ot@gmail.com)\n\nAccès voiture : •En venant de Bruxelles : Prendre le R
+ O en direction Mons-Bergen / Charleroi - prendre la sortie 21 et continuer
+  sur la E429 direction Lille/Rijsel. Prendre la sortie 23 Tubize / Tubeke 
+ et continuer sur la chaussée d’Hondzocht . Passer 2  ronds point jusqu
+ ’à la chaussée de Bruxelles (N6)\, prendre à droite Rue de Bruxelles 
+ et traverser le centre de Tubize en direction de Braine-le-Comte : rue de 
+ Bruxelles et Chaussée de Mons. Aprè IPES\, prendre la première rue à g
+ auche (rue d’Atina) suivre le panneau cimetière-parc à container-ferme
+  Massart.  Continuer 10 m. jusqu’au parking du cimetière\, l’entrée 
+ du stade se trouve en face du parking.\n\nVérifiez toujours ces infos sur
+  http://www.abssa.be/
+GEO:50.683352;4.1953276
+LOCATION:Rue d'Atina \, 1480  Tubize\, Belgique
+ORGANIZER;CN="Girardo. M";ROLE=Secrétaire:MAILTO:astubifoot@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J21: GAST FC (Eq. 2) vs TOURINNOIS FC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20240316T143000Z
+DTEND;VALUE=DATE-TIME:20240316T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6A_21_388_292
+DESCRIPTION:Terrain synthétique: non\nCode terrain: D01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge\
+ n\nContact équipe domicile: Clais D. (0476.99.88.10 - davidclais@hotmail.
+ com)\n\nAccès voiture : Prendre l'Autoroute ou le ring Bruxelles-Mons-Par
+ is\, sortie Drogenbos. Prendre direction Drogenbos-Centre\, passer devant 
+ la Maison Communale et le terminus du tram\, ensuite à la 3ème rue tourn
+ er à main droite (Le terrain se trouve au bout de la rue au Bois).\n\nVé
+ rifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.7815028;4.3192053
+LOCATION:Stade Communal de Drogenbos\, Rue au Bois\, 1620 Drogenbos\, Belg
+ ique
+ORGANIZER;CN="Clais D.";ROLE=Secrétaire:MAILTO:davidclais@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J22: GAST FC (Eq. 2) vs BRITISH UNITED (Eq. 5)
+DTSTART;VALUE=DATE-TIME:20240323T143000Z
+DTEND;VALUE=DATE-TIME:20240323T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6A_22_388_132
+DESCRIPTION:Terrain synthétique: non\nCode terrain: D01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Clais D. (0476.99.88.10 - davidclais@hotmail.c
+ om)\n\nAccès voiture : Prendre l'Autoroute ou le ring Bruxelles-Mons-Pari
+ s\, sortie Drogenbos. Prendre direction Drogenbos-Centre\, passer devant l
+ a Maison Communale et le terminus du tram\, ensuite à la 3ème rue tourne
+ r à main droite (Le terrain se trouve au bout de la rue au Bois).\n\nVér
+ ifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.7815028;4.3192053
+LOCATION:Stade Communal de Drogenbos\, Rue au Bois\, 1620 Drogenbos\, Belg
+ ique
+ORGANIZER;CN="Clais D.";ROLE=Secrétaire:MAILTO:davidclais@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J25: METRASPORT R. vs GAST FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240406T120000Z
+DTEND;VALUE=DATE-TIME:20240406T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6A_25_33_388
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B07\n\nCouleur princi
+ pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
+ e: Noir\n\nContact équipe domicile: Pirlot E. (0474.90.52.25 - emilepirlo
+ t@outlook.be)\n\nAccès voiture : Ring de Bruxelles\, Sortie Wemmel\, pren
+ dre l'Avenue Houba de Strooper\, puis la rue à gauche\, avant le bâtimen
+ t de l'URBSFA\, direction Atomium.\n\nVérifiez toujours ces infos sur htt
+ p://www.abssa.be/
 GEO:50.8933845;4.3399807
-LOCATION:HEYSEL - ANNEXE 3\, Avenue de Bouchout (Atomium)\, 1020 Bruxelles
+LOCATION:Heysel - Annexe 3\, Avenue de Bouchout (Atomium)\, 1020 Bruxelles
  \, Belgique
-ORGANIZER:MAILTO:emilepirlot@outlook.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6A J22: GAST FC (Eq. 2) vs TRINQUANT (Eq. 2)
-DTSTART:20230225T153000Z
-DTEND:20230225T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:5a3df583-c78c-4ed0-8c18-935491b43c13
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Gris\nCouleur principale équipe extérieur: Bleu marine\n\nContact é
- quipe domicile: CLAIS D. (0476.99.88.10)\n\nAccès voiture : Prendre l'Aut
- oroute ou le ring Bruxelles-Mons-Paris\, sortie Drogenbos. Prendre directi
- on Drogenbos-Centre\, passer devant la Maison Communale et le terminus du 
- tram\, ensuite à la 3ème rue tourner à main droite (Le terrain se trouv
- e au bout de la rue au Bois).
-GEO:50.7815004;4.3192086
-LOCATION:STADE COMMUNAL DE DROGENBOS\, Rue au Bois\, 1620 Drogenbos\, Belg
- ique
-ORGANIZER:MAILTO:davidclais@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6A J23: GAST FC (Eq. 2) vs ITT - GECKO FC (Eq. 3)
-DTSTART:20230304T153000Z
-DTEND:20230304T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:a465ca71-5d58-4306-8c9a-07b16c5f8ba1
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Gris\nCouleur principale équipe extérieur: Noir\n\nContact équipe d
- omicile: CLAIS D. (0476.99.88.10)\n\nAccès voiture : Prendre l'Autoroute 
- ou le ring Bruxelles-Mons-Paris\, sortie Drogenbos. Prendre direction Drog
- enbos-Centre\, passer devant la Maison Communale et le terminus du tram\, 
- ensuite à la 3ème rue tourner à main droite (Le terrain se trouve au bo
- ut de la rue au Bois).
-GEO:50.7815004;4.3192086
-LOCATION:STADE COMMUNAL DE DROGENBOS\, Rue au Bois\, 1620 Drogenbos\, Belg
- ique
-ORGANIZER:MAILTO:davidclais@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6A J24: J.ST-GILLOISE R. vs GAST FC (Eq. 2)
-DTSTART:20230311T140000Z
-DTEND:20230311T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:cf886dfc-4c40-4010-99ea-e75f7f8fc661
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu foncé\nCouleur principale équipe extérieur: Gris\n\nContact é
- quipe domicile: HONORE K. (0475.53.32.84)\n\nAccès voiture : Ring\, sorti
- e Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à droit
- e.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A
- . Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'h
- opital Erasme 400 m. en direction de Lennik.
-GEO:50.8177195;4.2558158
-LOCATION:COMPLEXE SPORTIF DE SAINT GILLES (BARKA)\, Route de Lennik\, 1015
- \, 1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:kenny.honore9@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6A J25: CHOULE AUDERGHEM (Eq. 3) vs GAST FC (Eq. 2)
-DTSTART:20230318T140000Z
-DTEND:20230318T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:89f31d24-d535-4200-b25d-d2caffd8aa0d
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe extérieur: Gris\n\nContact équipe 
- domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : En venant de B
- ruxelles par la chaussée de Wavre\, rejoindre le du début de l'autoroute
-  Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et desce
- ndre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche 
- (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le stade est f
- léché.
-GEO:50.8103473;4.443252699999999
-LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem\, 
- Belgique
-ORGANIZER:MAILTO:dav_54@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6A J26: GAST FC (Eq. 2) vs AUDERGHEM RU
-DTSTART:20230325T153000Z
-DTEND:20230325T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:44d7594c-4427-4ea5-afd0-3a2016b4be68
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Gris\nCouleur principale équipe extérieur: Jaune\n\nContact équipe 
- domicile: CLAIS D. (0476.99.88.10)\n\nAccès voiture : Prendre l'Autoroute
-  ou le ring Bruxelles-Mons-Paris\, sortie Drogenbos. Prendre direction Dro
- genbos-Centre\, passer devant la Maison Communale et le terminus du tram\,
-  ensuite à la 3ème rue tourner à main droite (Le terrain se trouve au b
- out de la rue au Bois).
-GEO:50.7815004;4.3192086
-LOCATION:STADE COMMUNAL DE DROGENBOS\, Rue au Bois\, 1620 Drogenbos\, Belg
- ique
-ORGANIZER:MAILTO:davidclais@hotmail.com
+ORGANIZER;CN="Pirlot E.";ROLE=Secrétaire:MAILTO:emilepirlot@outlook.be
 END:VEVENT
 END:VCALENDAR

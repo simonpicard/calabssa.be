@@ -1,269 +1,476 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:31bdbf22-da2e-4ee3-aec6-5009b4eb7153
-X-WR-CALDESC:Les matches de CELTIC FORESTOIS (eq. 1) en ABSSA.
-X-WR-CALNAME:ABSSA - CELTIC FORESTOIS (eq. 1) - 330
-X-WR-TIMEZONE:Europe/Brussels
+PRODID:330_1_celtic_forestois
+X-WR-CALDESC:Les matches du club CELTIC FORESTOIS (equipe 1) en ABSSA.
+X-WR-CALNAME:ABSSA: CELTIC FORESTOIS (eq. 1)
 BEGIN:VEVENT
-SUMMARY:ABSSA D5B J12: PINK PANTHERS vs CELTIC FORESTOIS
-DTSTART:20221126T153000Z
-DTEND:20221126T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:cfbfa022-a25a-412e-9e0c-f8183731bade
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Noir/ rose\nCouleur principale équipe extérieur: Vert et  blanc\n\nC
- ontact équipe domicile: ARGYRAKIS J. (0492.88.69.79)\n\nAccès voiture : 
- Autoroute Bruxelles-Namur (E411) prendre la sortie Louvain/Grez-Doiceau (n
- ° 8). Prendre la RN25 en direction de Louvain/Grez-Doiceau. Passer tout d
- roit les deux premiers ronds-points à l'issue de la RN 25. Au troisième 
- rond-point prendre à droite. Le terrain se trouve 150 m. plus loin à gau
- che de la rue du Stampia.
-GEO:50.744789;4.6969702
-LOCATION:Rue du Stampia\, 1390 Grez-Doiceau\, Belgique
-ORGANIZER:MAILTO:jeremy_a@hotmail.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5B J14: MASIA CITY vs CELTIC FORESTOIS
-DTSTART:20221210T133000Z
-DTEND:20221210T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:7e9b68a6-5f23-4b80-976c-58d47168080d
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Beige et bordeaux\nCouleur principale équipe extérieur: Vert et  bla
- nc\n\nContact équipe domicile: SAOUD T. (0460.97.04.65)\n\nAccès voiture
-  : A partir de Bruxelles\, prendre la E 411 en direction de Namur. Prendre
-  la sortie N° 8 puis à droite la bretelle pour la N 25 vers Chaumont-Gis
- toux / Grez Doiceau / Louvain. Après +/- 6\,5 km\, au rond-point\, prendr
- e la sortie 1 vers la N 420 Chée. de la Libération\, puis à gauche dans
-  la rue de la Grande lecke.
-GEO:50.7540176;4.7835618
-LOCATION:Rue de la Grande Lecke\, 3\, 1320 Beauvechain\, Belgique
-ORGANIZER:MAILTO:masiacity@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5B J15: KARIA FC vs CELTIC FORESTOIS
-DTSTART:20221217T153000Z
-DTEND:20221217T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:767f3331-da58-4a2d-88fd-fe05d26a85e8
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Orange\nCouleur principale équipe extérieur: Vert et  blanc\n\nConta
- ct équipe domicile: BERCHA  M (0477.69.27.28)\n\nAccès voiture : Pont de
-  Laeken\, Chaussée de Vilvorde\, vers Neder-Over-Heembeek\, prendre l' Av
- enue des Croix de Guerre jusqu'au rond-point\, tout droit Chemin Vert\, pu
- is première à gauche\, Petit Chemin Vert\, terrain à 300 m.
-GEO:50.8998295;4.3935952
-LOCATION:PETIT CHEMIN VERT\, Petit Chemin Vert\, 99\, 1120 Neder-Over-Heem
- beek\, Belgique
-ORGANIZER:MAILTO:mohamedbercha@hotmail.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5B J16: CELTIC FORESTOIS vs UNION BRUXELLOISE
-DTSTART:20230107T140000Z
-DTEND:20230107T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:2e31cb29-1ff9-4671-918a-a66600b712f6
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert et  blanc\nCouleur principale équipe extérieur: Bleu\n\nContact
-  équipe domicile: LEAL SORIA D. (0474.88.64.33)\n\nAccès voiture : Au d
- épart de la Place St. Denis à Forest prendre la chaussée de Neerstalle 
- jusqu'à la rue de la Soierie (4ème rue à droite) et dans la rue de la S
- oierie rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Br
- itannique) pendant env. 500 m. L'entrée du Complexe se trouve à hauteur 
- de City Cart\, à gauche de la route.
+SUMMARY:ABSSA D5C J10: CELTIC FORESTOIS vs KARIA FC
+DTSTART;VALUE=DATE-TIME:20230902T120000Z
+DTEND;VALUE=DATE-TIME:20230902T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5C_10_330_498
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Vert et  blanc\nCouleur principale équipe exterieu
+ re: Noir\n\nContact équipe domicile: Leal Soria D. (0474.88.64.33 - leal-
+ david@hotmail.fr)\n\nAccès voiture : Au départ de la Place St. Denis à 
+ Forest prendre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4
+ ème rue à droite) et dans la rue de la Soierie rouler env. 100 m. puis 1
+ ère à gauche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L
+ 'entrée du Complexe se trouve à hauteur de City Cart\, à gauche de la r
+ oute.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
 GEO:50.8005447;4.3095283
-LOCATION:COMPLEXE SPORTIF DU BEMPT\, Av. de la 2ème Armée Britannique\, 
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
-ORGANIZER:MAILTO:leal-david@hotmail.fr
+ORGANIZER;CN="Leal Soria D.";ROLE=Secrétaire:MAILTO:leal-david@hotmail.fr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5B J17: CORNOI AS vs CELTIC FORESTOIS
-DTSTART:20230114T150000Z
-DTEND:20230114T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:97b2dab2-c460-47a7-9929-3ed30fb8afb2
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge et blanc\nCouleur principale équipe extérieur: Vert et  blanc\
- n\nContact équipe domicile: DEVILLE A (0492. 67.96.76)\n\nAccès voiture 
- : En venant de Bruxelles\, emprunter la chaussée de Bruxelles ou de Water
- loo jusqu'au magasin "Carrefour". Au dit carrefour (Mont-St.-Jean) prendre
-  la direction Nivelles. Sur cette chaussée\, au deuxième feu de signalis
- ation\, prendre à droite\, le terrain se trouve à 500 m. et est fléché
- .
-GEO:50.6827211;4.3844421
-LOCATION:STADE GASTON REIFF\, Boulevard de l'Europe\, 1420 Braine - l'Alle
- ud\, Belgique
-ORGANIZER:MAILTO:ascornoi@live.fr
+SUMMARY:ABSSA D5C J1: DOPA FC vs CELTIC FORESTOIS
+DTSTART;VALUE=DATE-TIME:20230909T120000Z
+DTEND;VALUE=DATE-TIME:20230909T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5C_1_666_330
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B07\n\nCouleur princi
+ pale équipe domicile: Noir et rouge\nCouleur principale équipe exterieur
+ e: Vert et  blanc\n\nContact équipe domicile: Aikar Y. (0484.86.90.44 - b
+ ravm.abssa@gmail.com)\n\nAccès voiture : Ring de Bruxelles\, Sortie Wemme
+ l\, prendre l'Avenue Houba de Strooper\, puis la rue à gauche\, avant le 
+ bâtiment de l'URBSFA\, direction Atomium.\n\nVérifiez toujours ces infos
+  sur http://www.abssa.be/
+GEO:50.8933845;4.3399807
+LOCATION:Heysel - Annexe 3\, Avenue de Bouchout (Atomium)\, 1020 Bruxelles
+ \, Belgique
+ORGANIZER;CN="Aikar Y.";ROLE=Secrétaire:MAILTO:bravm.abssa@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5B J18: CELTIC FORESTOIS vs GALACTIC JUMPERTZ
-DTSTART:20230121T140000Z
-DTEND:20230121T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:40bed684-ddd4-49c3-a8f0-1c3e82dd2609
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert et  blanc\nCouleur principale équipe extérieur: Orange\n\nConta
- ct équipe domicile: LEAL SORIA D. (0474.88.64.33)\n\nAccès voiture : Au 
- départ de la Place St. Denis à Forest prendre la chaussée de Neerstalle
-  jusqu'à la rue de la Soierie (4ème rue à droite) et dans la rue de la 
- Soierie rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée B
- ritannique) pendant env. 500 m. L'entrée du Complexe se trouve à hauteur
-  de City Cart\, à gauche de la route.
+SUMMARY:ABSSA D5C J2: CELTIC FORESTOIS vs PANTOUFLES FC
+DTSTART;VALUE=DATE-TIME:20230916T120000Z
+DTEND;VALUE=DATE-TIME:20230916T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5C_2_330_428
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Vert et  blanc\nCouleur principale équipe exterieu
+ re: Bordeaux-Orange\n\nContact équipe domicile: Leal Soria D. (0474.88.64
+ .33 - leal-david@hotmail.fr)\n\nAccès voiture : Au départ de la Place St
+ . Denis à Forest prendre la chaussée de Neerstalle jusqu'à la rue de la
+  Soierie (4ème rue à droite) et dans la rue de la Soierie rouler env. 10
+ 0 m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique) pendant en
+ v. 500 m. L'entrée du Complexe se trouve à hauteur de City Cart\, à gau
+ che de la route.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
 GEO:50.8005447;4.3095283
-LOCATION:COMPLEXE SPORTIF DU BEMPT\, Av. de la 2ème Armée Britannique\, 
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
-ORGANIZER:MAILTO:leal-david@hotmail.fr
+ORGANIZER;CN="Leal Soria D.";ROLE=Secrétaire:MAILTO:leal-david@hotmail.fr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5B J19: BLUE THRILLS vs CELTIC FORESTOIS
-DTSTART:20230128T150000Z
-DTEND:20230128T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:f028d510-3b95-47c0-933d-77f4bbca6216
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu Marine\nCouleur principale équipe extérieur: Vert et  blanc\n\n
- Contact équipe domicile: DE BRIEY A. (0479.858.374)\n\nAccès voiture : L
- 'accès au terrain se fait à partir du n° 2057 de la chaussée de Wavre 
- (en face du stade communal d'Auderghem). L'accès au terrain se fait par l
- 'arrière du bâtiment principal (où sont situés les vestiaires) il faut
-  parcourir environ 300 mètres avant d'atteindre le terrain de football si
- tué après la piste d'athlétisme et le terrain de hockey.
-GEO:50.80890770000001;4.4427327
-LOCATION:COMPLEXE DE L'ADEPS\, Chaussée de Wavre\, 2057\, 1160 Auderghem\
- , Belgique
-ORGANIZER:MAILTO:alexdebriey@hotmail.fr
+SUMMARY:ABSSA D5C J3: SANSERIF FC vs CELTIC FORESTOIS
+DTSTART;VALUE=DATE-TIME:20230923T133000Z
+DTEND;VALUE=DATE-TIME:20230923T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5C_3_657_330
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Vert et  blanc\n\nContact équipe domicile: Karpowicz A. (0493.16.46.10 -
+  itsadonis0@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendr
+ e la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus
+  bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujo
+ urs ces infos sur http://www.abssa.be/
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Karpowicz A.";ROLE=Secrétaire:MAILTO:itsadonis0@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5B J20: CELTIC FORESTOIS vs DEAF BRUSSELS FC
-DTSTART:20230204T140000Z
-DTEND:20230204T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:227248a9-2ba3-41fd-a72e-700c9054358a
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert et  blanc\nCouleur principale équipe extérieur: Vert et noir\n\
- nContact équipe domicile: LEAL SORIA D. (0474.88.64.33)\n\nAccès voiture
-  : Au départ de la Place St. Denis à Forest prendre la chaussée de Neer
- stalle jusqu'à la rue de la Soierie (4ème rue à droite) et dans la rue 
- de la Soierie rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Ar
- mée Britannique) pendant env. 500 m. L'entrée du Complexe se trouve à h
- auteur de City Cart\, à gauche de la route.
+SUMMARY:ABSSA D5C J4: CELTIC FORESTOIS vs PIRATE S.C.
+DTSTART;VALUE=DATE-TIME:20230930T120000Z
+DTEND;VALUE=DATE-TIME:20230930T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5C_4_330_670
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Vert et  blanc\nCouleur principale équipe exterieu
+ re: Noir / doré\n\nContact équipe domicile: Leal Soria D. (0474.88.64.33
+  - leal-david@hotmail.fr)\n\nAccès voiture : Au départ de la Place St. D
+ enis à Forest prendre la chaussée de Neerstalle jusqu'à la rue de la So
+ ierie (4ème rue à droite) et dans la rue de la Soierie rouler env. 100 m
+ . puis 1ère à gauche (Bld. de la 2ème Armée Britannique) pendant env. 
+ 500 m. L'entrée du Complexe se trouve à hauteur de City Cart\, à gauche
+  de la route.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
 GEO:50.8005447;4.3095283
-LOCATION:COMPLEXE SPORTIF DU BEMPT\, Av. de la 2ème Armée Britannique\, 
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
-ORGANIZER:MAILTO:leal-david@hotmail.fr
+ORGANIZER;CN="Leal Soria D.";ROLE=Secrétaire:MAILTO:leal-david@hotmail.fr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5B J21: PIRATERIE (LA) vs CELTIC FORESTOIS
-DTSTART:20230211T140000Z
-DTEND:20230211T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:37c1d746-0cd1-4d78-8271-6eb9f3c2f8f1
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe extérieur: Vert et  blanc\n\nContact
-  équipe domicile: COOK Z (0497.25.56.22)\n\nAccès voiture : En venant de
-  Bruxelles\, par l'autoroute Bruxelles-Paris\, prendre la sortie Nivelles-
- Sud (n° 19)\, passer sous le pont de l'autoroute et prendre la direction 
- de Nivelles. A 200 m.\, au rond-point (Shopping Center)\, tourner à droit
- e en direction de Wavre (petit ring de Nivelles).\nAu 4ème rond-point (en
-  tenant compte du rond-point du Shopping Center)\, tourner à gauche \, ru
- e de l'Industrie et pénétrer dans le zoning. Au bout de la rue\, avant l
- e feu de signalisation\, tourner à gauche et prendre la rue du Progrès p
- endant +/- 400 m.
+SUMMARY:ABSSA D5C J5: WATERMAEL FC (Eq. 3) vs CELTIC FORESTOIS
+DTSTART;VALUE=DATE-TIME:20231007T113000Z
+DTEND;VALUE=DATE-TIME:20231007T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5C_5_611_330
+DESCRIPTION:Terrain synthétique: non\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Vert e
+ t  blanc\n\nContact équipe domicile: Deschamps J. (0477.67.76.37 - jul_de
+ sch@hotmail.com)\n\nAccès voiture : A partir du square des Archiducs\, pr
+ endre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez touj
+ ours ces infos sur http://www.abssa.be/
+GEO:50.8059082;4.4137428
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J6: CELTIC FORESTOIS vs ELAN EVERE RAC
+DTSTART;VALUE=DATE-TIME:20231014T120000Z
+DTEND;VALUE=DATE-TIME:20231014T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5C_6_330_7
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Vert et  blanc\nCouleur principale équipe exterieu
+ re: Rouge et blanc rayé\n\nContact équipe domicile: Leal Soria D. (0474.
+ 88.64.33 - leal-david@hotmail.fr)\n\nAccès voiture : Au départ de la Pla
+ ce St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à la rue 
+ de la Soierie (4ème rue à droite) et dans la rue de la Soierie rouler en
+ v. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique) penda
+ nt env. 500 m. L'entrée du Complexe se trouve à hauteur de City Cart\, 
+ à gauche de la route.\n\nVérifiez toujours ces infos sur http://www.abss
+ a.be/
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER;CN="Leal Soria D.";ROLE=Secrétaire:MAILTO:leal-david@hotmail.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J24: CELTIC FORESTOIS vs RANGERS F.C.
+DTSTART;VALUE=DATE-TIME:20231028T120000Z
+DTEND;VALUE=DATE-TIME:20231028T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5C_24_330_620
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Vert et  blanc\nCouleur principale équipe exterieu
+ re: Rayé Bordeaux Blanc et Bleu\n\nContact équipe domicile: Leal Soria D
+ . (0474.88.64.33 - leal-david@hotmail.fr)\n\nAccès voiture : Au départ d
+ e la Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à
+  la rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie r
+ ouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britanniqu
+ e) pendant env. 500 m. L'entrée du Complexe se trouve à hauteur de City 
+ Cart\, à gauche de la route.\n\nVérifiez toujours ces infos sur http://w
+ ww.abssa.be/
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER;CN="Leal Soria D.";ROLE=Secrétaire:MAILTO:leal-david@hotmail.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J7: UNION FOXES CLUB vs CELTIC FORESTOIS
+DTSTART;VALUE=DATE-TIME:20231104T143000Z
+DTEND;VALUE=DATE-TIME:20231104T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5C_7_669_330
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: Orange et noir\nCouleur principale équipe exterieu
+ re: Vert et  blanc\n\nContact équipe domicile: Mizrahi D. (0476.03.37.84 
+ - daniel_mizrahi96@hotmail.com)\n\nAccès voiture : En venant de Bruxelles
+ \, par l'autoroute Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 1
+ 9)\, passer sous le pont de l'autoroute et prendre la direction de Nivelle
+ s. A 200 m.\, au rond-point (Shopping Center)\, tourner à droite en direc
+ tion de Wavre (petit ring de Nivelles).\nAu 4ème rond-point (en tenant co
+ mpte du rond-point du Shopping Center)\, tourner à gauche \, rue de l'Ind
+ ustrie et pénétrer dans le zoning. Au bout de la rue\, avant le feu de s
+ ignalisation\, tourner à gauche et prendre la rue du Progrès pendant +/-
+  400 m.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
 GEO:50.5963436;4.3564187
-LOCATION:DOMAINE MILITAIRE\, Rue du Progrès\, 1A\, 1400 Nivelles\, Belgiq
- ue
-ORGANIZER:MAILTO:lapirateriefc@outlook.com
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Mizrahi D.";ROLE=Secrétaire:MAILTO:daniel_mizrahi96@hotmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5B J22: CELTIC FORESTOIS vs PINK PANTHERS
-DTSTART:20230225T140000Z
-DTEND:20230225T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:7acf177a-8829-44cb-8e3d-fb465f11090f
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert et  blanc\nCouleur principale équipe extérieur: Noir/ rose\n\nC
- ontact équipe domicile: LEAL SORIA D. (0474.88.64.33)\n\nAccès voiture :
-  Au départ de la Place St. Denis à Forest prendre la chaussée de Neerst
- alle jusqu'à la rue de la Soierie (4ème rue à droite) et dans la rue de
-  la Soierie rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Arm
- ée Britannique) pendant env. 500 m. L'entrée du Complexe se trouve à ha
- uteur de City Cart\, à gauche de la route.
-GEO:50.8005447;4.3095283
-LOCATION:COMPLEXE SPORTIF DU BEMPT\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER:MAILTO:leal-david@hotmail.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5B J23: CELTIC FORESTOIS vs RAYO LATINO
-DTSTART:20230304T140000Z
-DTEND:20230304T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:076d0cf5-fea9-462a-b997-e6825d898665
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert et  blanc\nCouleur principale équipe extérieur: Rouge et noir\n
- \nContact équipe domicile: LEAL SORIA D. (0474.88.64.33)\n\nAccès voitur
- e : Au départ de la Place St. Denis à Forest prendre la chaussée de Nee
- rstalle jusqu'à la rue de la Soierie (4ème rue à droite) et dans la rue
-  de la Soierie rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème A
- rmée Britannique) pendant env. 500 m. L'entrée du Complexe se trouve à 
- hauteur de City Cart\, à gauche de la route.
-GEO:50.8005447;4.3095283
-LOCATION:COMPLEXE SPORTIF DU BEMPT\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER:MAILTO:leal-david@hotmail.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5B J24: COSMOS BRUWOLF MJ vs CELTIC FORESTOIS
-DTSTART:20230311T153000Z
-DTEND:20230311T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:9df13523-5026-4725-b44f-c68e4f85db14
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Orange/Noir\nCouleur principale équipe extérieur: Vert et  blanc\n\n
- Contact équipe domicile: DEHAUT A. (0476.26.26.87)\n\nAccès voiture : Di
- rection cimetière de Jette\, ensuite prendre la rue du "Sacré-Coeur" jus
- qu'au bout\, puis tout droit\, avenue J.J. Crocq. Le terrain se trouve à 
- gauche.
-GEO:50.8868564;4.3286963
-LOCATION:COMPLEXE SPORTIF DU HEYMBOSCH\, Avenue J.J. Crocq\, 1090 Jette\, 
- Belgique
-ORGANIZER:MAILTO:alain.dehaut@skynet.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5B J25: GREZ AJ (Eq. 3) vs CELTIC FORESTOIS
-DTSTART:20230318T153000Z
-DTEND:20230318T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:55bcbc53-318e-4e60-9cee-8a3fdfddb823
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe extérieur: Vert et  blanc\n\nContact
-  équipe domicile: VANHAMME J. (0474.56.81.54)\n\nAccès voiture : Autorou
- te Bruxelles-Namur (E411) prendre la sortie Louvain/Grez-Doiceau (n° 8). 
- Prendre la RN25 en direction de Louvain/Grez-Doiceau. Passer tout droit le
- s deux premiers ronds-points à l'issue de la RN 25. Au troisième rond-po
- int prendre à droite. Le terrain se trouve 150 m. plus loin à gauche de 
- la rue du Stampia.
+SUMMARY:ABSSA D5C J9: GREZ AJ (Eq. 3) vs CELTIC FORESTOIS
+DTSTART;VALUE=DATE-TIME:20231118T143000Z
+DTEND;VALUE=DATE-TIME:20231118T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5C_9_514_330
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: G04\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Vert e
+ t  blanc\n\nContact équipe domicile: Vanhamme J. (0474.56.81.54 - jerome.
+ vanhamme@hotmail.com)\n\nAccès voiture : Autoroute Bruxelles-Namur (E411)
+  prendre la sortie Louvain/Grez-Doiceau (n° 8). Prendre la RN25 en direct
+ ion de Louvain/Grez-Doiceau. Passer tout droit les deux premiers ronds-poi
+ nts à l'issue de la RN 25. Au troisième rond-point prendre à droite. Le
+  terrain se trouve 150 m. plus loin à gauche de la rue du Stampia.\n\nVé
+ rifiez toujours ces infos sur http://www.abssa.be/
 GEO:50.744789;4.6969702
 LOCATION:Rue du Stampia\, 1390 Grez-Doiceau\, Belgique
-ORGANIZER:MAILTO:jerome.vanhamme@hotmail.com
+ORGANIZER;CN="Vanhamme J.";ROLE=Secrétaire:MAILTO:jerome.vanhamme@hotmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5B J26: CELTIC FORESTOIS vs KARIA FC
-DTSTART:20230325T140000Z
-DTEND:20230325T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:56fd9bf7-204f-402a-987f-37ccb2f51fea
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert et  blanc\nCouleur principale équipe extérieur: Orange\n\nConta
- ct équipe domicile: LEAL SORIA D. (0474.88.64.33)\n\nAccès voiture : Au 
- départ de la Place St. Denis à Forest prendre la chaussée de Neerstalle
-  jusqu'à la rue de la Soierie (4ème rue à droite) et dans la rue de la 
- Soierie rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée B
- ritannique) pendant env. 500 m. L'entrée du Complexe se trouve à hauteur
-  de City Cart\, à gauche de la route.
+SUMMARY:ABSSA D5C J12: WOLUWE FC vs CELTIC FORESTOIS
+DTSTART;VALUE=DATE-TIME:20231125T143000Z
+DTEND;VALUE=DATE-TIME:20231125T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5C_12_153_330
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R03\n\nCouleur princi
+ pale équipe domicile: Jaune et Bleu\nCouleur principale équipe exterieur
+ e: Vert et  blanc\n\nContact équipe domicile: Purnelle K. (0491.08.24.67 
+ - kevin.purnelle@ing.com)\n\nAccès voiture : Par la E411 Bruxelles-Namur\
+ , prendre la sortie n° 5 (Wavre Nord\, Rixensart\, Bierges).\nEnsuite pre
+ ndre la N257 pendant 700 mètres jusqu'au rond-point\, prendre la rue de l
+ 'Etoile et ensuite la rue de Mérode jusqu'à Rixensart. Après 900 mètre
+ s\, à la Place de la Perche\, prendre à droite l'avenue de la Paix et en
+ core à droite l'avenue Clermont Tonnerre.\n\nVérifiez toujours ces infos
+  sur http://www.abssa.be/
+GEO:50.7128483;4.5376972
+LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
+ 30 Rixensart\, Belgique
+ORGANIZER;CN="Purnelle K.";ROLE=Secrétaire:MAILTO:kevin.purnelle@ing.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J11: RANGERS F.C. vs CELTIC FORESTOIS
+DTSTART;VALUE=DATE-TIME:20231202T130000Z
+DTEND;VALUE=DATE-TIME:20231202T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5C_11_620_330
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E04\n\nCouleur princi
+ pale équipe domicile: Rayé Bordeaux Blanc et Bleu\nCouleur principale é
+ quipe exterieure: Vert et  blanc\n\nContact équipe domicile: Thuns S. (04
+ 74.62.02.22 - samuel.thuns@gmail.com)\n\nAccès voiture : De la Place Meis
+ er\, remonter tous les boulevards. Au carrefour de la Chaussée de Wavre\,
+  prendre celle-ci à droite\, ensuite la 2ème rue à droite (Rue Généra
+ l Fivé)\, puis la 3ème à droite (rue Baron Dhanis).\n\nVérifiez toujou
+ rs ces infos sur http://www.abssa.be/
+GEO:50.8287714;4.3975708
+LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
+ORGANIZER;CN="Thuns S.";ROLE=Secrétaire:MAILTO:samuel.thuns@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J13: CELTIC FORESTOIS vs BAYERN DE MONIQUE
+DTSTART;VALUE=DATE-TIME:20231209T130000Z
+DTEND;VALUE=DATE-TIME:20231209T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5C_13_330_417
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Vert et  blanc\nCouleur principale équipe exterieu
+ re: Rouge et blanc\n\nContact équipe domicile: Leal Soria D. (0474.88.64.
+ 33 - leal-david@hotmail.fr)\n\nAccès voiture : Au départ de la Place St.
+  Denis à Forest prendre la chaussée de Neerstalle jusqu'à la rue de la 
+ Soierie (4ème rue à droite) et dans la rue de la Soierie rouler env. 100
+  m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique) pendant env
+ . 500 m. L'entrée du Complexe se trouve à hauteur de City Cart\, à gauc
+ he de la route.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
 GEO:50.8005447;4.3095283
-LOCATION:COMPLEXE SPORTIF DU BEMPT\, Av. de la 2ème Armée Britannique\, 
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
-ORGANIZER:MAILTO:leal-david@hotmail.fr
+ORGANIZER;CN="Leal Soria D.";ROLE=Secrétaire:MAILTO:leal-david@hotmail.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J14: CELTIC FORESTOIS vs DOPA FC
+DTSTART;VALUE=DATE-TIME:20240113T130000Z
+DTEND;VALUE=DATE-TIME:20240113T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5C_14_330_666
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Vert et  blanc\nCouleur principale équipe exterieu
+ re: Noir et rouge\n\nContact équipe domicile: Leal Soria D. (0474.88.64.3
+ 3 - leal-david@hotmail.fr)\n\nAccès voiture : Au départ de la Place St. 
+ Denis à Forest prendre la chaussée de Neerstalle jusqu'à la rue de la S
+ oierie (4ème rue à droite) et dans la rue de la Soierie rouler env. 100 
+ m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique) pendant env.
+  500 m. L'entrée du Complexe se trouve à hauteur de City Cart\, à gauch
+ e de la route.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER;CN="Leal Soria D.";ROLE=Secrétaire:MAILTO:leal-david@hotmail.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J15: PANTOUFLES FC vs CELTIC FORESTOIS
+DTSTART;VALUE=DATE-TIME:20240120T143000Z
+DTEND;VALUE=DATE-TIME:20240120T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5C_15_428_330
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Bordeaux-Orange\nCouleur principale équipe exterie
+ ure: Vert et  blanc\n\nContact équipe domicile: Laurent F (0478.68.80.02 
+ - florimond.laurent@outlook.com)\n\nAccès voiture : Autoroute E411\, pren
+ dre la sortie Rosières. Passer devant l'église\, longer l'autoroute et t
+ ourner à droite au cimetière des animaux. Terrain à 200 m.\n\nVérifiez
+  toujours ces infos sur http://www.abssa.be/
+GEO:50.7282426;4.5537189
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="Laurent F";ROLE=Secrétaire:MAILTO:florimond.laurent@outlook
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J16: CELTIC FORESTOIS vs SANSERIF FC
+DTSTART;VALUE=DATE-TIME:20240127T130000Z
+DTEND;VALUE=DATE-TIME:20240127T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5C_16_330_657
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Vert et  blanc\nCouleur principale équipe exterieu
+ re: Bleu marine\n\nContact équipe domicile: Leal Soria D. (0474.88.64.33 
+ - leal-david@hotmail.fr)\n\nAccès voiture : Au départ de la Place St. De
+ nis à Forest prendre la chaussée de Neerstalle jusqu'à la rue de la Soi
+ erie (4ème rue à droite) et dans la rue de la Soierie rouler env. 100 m.
+  puis 1ère à gauche (Bld. de la 2ème Armée Britannique) pendant env. 5
+ 00 m. L'entrée du Complexe se trouve à hauteur de City Cart\, à gauche 
+ de la route.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER;CN="Leal Soria D.";ROLE=Secrétaire:MAILTO:leal-david@hotmail.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J17: PIRATE S.C. vs CELTIC FORESTOIS
+DTSTART;VALUE=DATE-TIME:20240203T140000Z
+DTEND;VALUE=DATE-TIME:20240203T153000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5C_17_670_330
+DESCRIPTION:Terrain synthétique: non\nCode terrain: L11\n\nCouleur princi
+ pale équipe domicile: Noir / doré\nCouleur principale équipe exterieure
+ : Vert et  blanc\n\nContact équipe domicile: Gulrakan I. (0486.20.99.11 -
+  ilhangulbakan@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Na
+ mur / Luxembourg\, prendre la sortie n° 6 Wavre\, vers N238. Tourner à d
+ roite sur Boulevard de l'Europe/N238 sur 200 m. Prendre à droite sur Rue 
+ de la Wastinne. Ensuite\, aprèsle passage à niveau\, prendre à gauche s
+ ur Rue Provinciale/N239. Les terrains se trouvent sur la gauche de la rout
+ e en contre-bas (facilement visible de la route).\n\nVérifiez toujours ce
+ s infos sur http://www.abssa.be/
+GEO:50.7007516;4.582180999999999
+LOCATION:Charles Jaumotte 156\, 1300 Wavre (Limal)\, Belgique
+ORGANIZER;CN="Gulrakan I.";ROLE=Secrétaire:MAILTO:ilhangulbakan@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J18: CELTIC FORESTOIS vs WATERMAEL FC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20240210T130000Z
+DTEND;VALUE=DATE-TIME:20240210T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5C_18_330_611
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Vert et  blanc\nCouleur principale équipe exterieu
+ re: Bleu\n\nContact équipe domicile: Leal Soria D. (0474.88.64.33 - leal-
+ david@hotmail.fr)\n\nAccès voiture : Au départ de la Place St. Denis à 
+ Forest prendre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4
+ ème rue à droite) et dans la rue de la Soierie rouler env. 100 m. puis 1
+ ère à gauche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L
+ 'entrée du Complexe se trouve à hauteur de City Cart\, à gauche de la r
+ oute.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER;CN="Leal Soria D.";ROLE=Secrétaire:MAILTO:leal-david@hotmail.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J19: ELAN EVERE RAC vs CELTIC FORESTOIS
+DTSTART;VALUE=DATE-TIME:20240217T123000Z
+DTEND;VALUE=DATE-TIME:20240217T140000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5C_19_7_330
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E08\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc rayé\nCouleur principale équipe ex
+ terieure: Vert et  blanc\n\nContact équipe domicile: Dubois J-J. (0486.47
+ .10.49 - jjdubois58@gmail.com)\n\nAccès voiture : Le terrain se trouve de
+ rrière l'église St. Vincent\n\nVérifiez toujours ces infos sur http://w
+ ww.abssa.be/
+GEO:50.88086790000001;4.396579099999999
+LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue Stroobants 75\, 1140 Evere\,
+  Belgique
+ORGANIZER;CN="Dubois J-J.";ROLE=Secrétaire:MAILTO:jjdubois58@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J26: BAYERN DE MONIQUE vs CELTIC FORESTOIS
+DTSTART;VALUE=DATE-TIME:20240224T140000Z
+DTEND;VALUE=DATE-TIME:20240224T153000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5C_26_417_330
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B03\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
+ re: Vert et  blanc\n\nContact équipe domicile: Deville A (0492. 67.96.76 
+ - ascornoi@live.fr)\n\nAccès voiture : En venant de Bruxelles\, emprunter
+  la chaussée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au
+  dit carrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur cette ch
+ aussée\, au deuxième feu de signalisation\, prendre à droite\, le terra
+ in se trouve à 500 m. et est fléché.\n\nVérifiez toujours ces infos su
+ r http://www.abssa.be/
+GEO:50.6827211;4.3844421
+LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud\, Belgique
+ORGANIZER;CN="Deville A";ROLE=Secrétaire:MAILTO:ascornoi@live.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J23: KARIA FC vs CELTIC FORESTOIS
+DTSTART;VALUE=DATE-TIME:20240302T143000Z
+DTEND;VALUE=DATE-TIME:20240302T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5C_23_498_330
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Vert e
+ t  blanc\n\nContact équipe domicile: Bercha  M (0477.69.27.28 - mohamedbe
+ rcha@hotmail.fr)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvord
+ e\, vers Neder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu
+ 'au rond-point\, tout droit Chemin Vert\, puis première à gauche\, Petit
+  Chemin Vert\, terrain à 300 m.\n\nVérifiez toujours ces infos sur http:
+ //www.abssa.be/
+GEO:50.89983369999999;4.3936101
+LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
+ORGANIZER;CN="Bercha  M";ROLE=Secrétaire:MAILTO:mohamedbercha@hotmail.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J20: CELTIC FORESTOIS vs UNION FOXES CLUB
+DTSTART;VALUE=DATE-TIME:20240309T130000Z
+DTEND;VALUE=DATE-TIME:20240309T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5C_20_330_669
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Vert et  blanc\nCouleur principale équipe exterieu
+ re: Orange et noir\n\nContact équipe domicile: Leal Soria D. (0474.88.64.
+ 33 - leal-david@hotmail.fr)\n\nAccès voiture : Au départ de la Place St.
+  Denis à Forest prendre la chaussée de Neerstalle jusqu'à la rue de la 
+ Soierie (4ème rue à droite) et dans la rue de la Soierie rouler env. 100
+  m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique) pendant env
+ . 500 m. L'entrée du Complexe se trouve à hauteur de City Cart\, à gauc
+ he de la route.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER;CN="Leal Soria D.";ROLE=Secrétaire:MAILTO:leal-david@hotmail.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J22: CELTIC FORESTOIS vs GREZ AJ (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20240323T130000Z
+DTEND;VALUE=DATE-TIME:20240323T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5C_22_330_514
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Vert et  blanc\nCouleur principale équipe exterieu
+ re: Vert\n\nContact équipe domicile: Leal Soria D. (0474.88.64.33 - leal-
+ david@hotmail.fr)\n\nAccès voiture : Au départ de la Place St. Denis à 
+ Forest prendre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4
+ ème rue à droite) et dans la rue de la Soierie rouler env. 100 m. puis 1
+ ère à gauche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L
+ 'entrée du Complexe se trouve à hauteur de City Cart\, à gauche de la r
+ oute.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER;CN="Leal Soria D.";ROLE=Secrétaire:MAILTO:leal-david@hotmail.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J25: CELTIC FORESTOIS vs WOLUWE FC
+DTSTART;VALUE=DATE-TIME:20240406T120000Z
+DTEND;VALUE=DATE-TIME:20240406T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5C_25_330_153
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Vert et  blanc\nCouleur principale équipe exterieu
+ re: Jaune et Bleu\n\nContact équipe domicile: Leal Soria D. (0474.88.64.3
+ 3 - leal-david@hotmail.fr)\n\nAccès voiture : Au départ de la Place St. 
+ Denis à Forest prendre la chaussée de Neerstalle jusqu'à la rue de la S
+ oierie (4ème rue à droite) et dans la rue de la Soierie rouler env. 100 
+ m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique) pendant env.
+  500 m. L'entrée du Complexe se trouve à hauteur de City Cart\, à gauch
+ e de la route.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER;CN="Leal Soria D.";ROLE=Secrétaire:MAILTO:leal-david@hotmail.fr
 END:VEVENT
 END:VCALENDAR

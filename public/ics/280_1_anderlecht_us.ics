@@ -1,307 +1,491 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:9bcf882d-5f0e-4700-bf8f-e7e16b1adde9
-X-WR-CALDESC:Les matches de ANDERLECHT US (eq. 1) en ABSSA.
-X-WR-CALNAME:ABSSA - ANDERLECHT US (eq. 1) - 280
-X-WR-TIMEZONE:Europe/Brussels
+PRODID:280_1_anderlecht_us
+X-WR-CALDESC:Les matches du club ANDERLECHT US (equipe 1) en ABSSA.
+X-WR-CALNAME:ABSSA: ANDERLECHT US (eq. 1)
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J2: ANDERLECHT US vs PHARMA SC (Eq. 4)
-DTSTART:20220910T140000Z
-DTEND:20220910T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:14f80fa3-3c63-4d41-a657-4862b8cae5b1
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Mauve\nCouleur principale équipe extérieur: Bleu\n\nContact équipe 
- domicile: SADIN D. (0477.76.34.69)\n\nAccès voiture : En venant de la Rou
- te de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre la dir
- ection du cimetière d'Anderlecht\, emprunter le Boulevard Josse Leemans\,
-  au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (Vogelenza
- ng). L'entrée du complexe et des terrains se situe à +/- 500 m. sur la g
- auche.
+SUMMARY:ABSSA D6D J10: HIGGINS-PUMAS (Eq. 3) vs ANDERLECHT US
+DTSTART;VALUE=DATE-TIME:20230902T120000Z
+DTEND;VALUE=DATE-TIME:20230902T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_6D_10_416_280
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
+ erieure: Mauve\n\nContact équipe domicile: De Biolley Ph. (0477.23.31.25 
+ - philippe.debiolley@gmail.com)\n\nAccès voiture : En venant de Bruxelles
+  par la chaussée de Wavre\, rejoindre le du début de l'autoroute Bruxell
+ es-Namur\, utiliser la bande de droite pendant +/- 200 m. et descendre dev
+ ant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (en dess
+ ous de l'autoroute). Le terrain se trouve à 200 m. Le stade est fléché.
+ \n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="De Biolley Ph.";ROLE=Secrétaire:MAILTO:philippe.debiolley@g
+ mail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J1: ANDERLECHT US vs AEMA VETERANS
+DTSTART;VALUE=DATE-TIME:20230909T120000Z
+DTEND;VALUE=DATE-TIME:20230909T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_6D_1_280_427
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Mauve\nCouleur principale équipe exterieure: Jaune
+  et bleu\n\nContact équipe domicile: Sadin D. (0477.76.34.69 - usanderlec
+ ht@sadinfoot.net)\n\nAccès voiture : En venant de la Route de Lennik (Cit
+ roën) ou de la Chaussée de Mons (Ikea)\, prendre la direction du cimeti
+ ère d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-point p
+ rendre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée d
+ u complexe et des terrains se situe à +/- 500 m. sur la gauche.\n\nVérif
+ iez toujours ces infos sur http://www.abssa.be/
 GEO:50.8114933;4.2763364
-LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
  \, Belgique
-ORGANIZER:MAILTO:usanderlecht@sadinfoot.net
+ORGANIZER;CN="Sadin D.";ROLE=Secrétaire:MAILTO:usanderlecht@sadinfoot.net
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J12: ANDERLECHT US vs SAINT GEORGES RCS (Eq. 4)
-DTSTART:20221126T140000Z
-DTEND:20221126T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:b5b2dc4e-b175-461a-a43a-8645b9d1f0d4
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Mauve\nCouleur principale équipe extérieur: Blanc\n\nContact équipe
-  domicile: SADIN D. (0477.76.34.69)\n\nAccès voiture : En venant de la Ro
- ute de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre la di
- rection du cimetière d'Anderlecht\, emprunter le Boulevard Josse Leemans\
- , au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (Vogelenz
- ang). L'entrée du complexe et des terrains se situe à +/- 500 m. sur la 
- gauche.
+SUMMARY:ABSSA D6D J2: MIREILLE WEMMEL (Eq. 2) vs ANDERLECHT US
+DTSTART;VALUE=DATE-TIME:20230916T120000Z
+DTEND;VALUE=DATE-TIME:20230916T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_6D_2_93_280
+DESCRIPTION:Terrain synthétique: non\nCode terrain: W16\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Mauve\
+ n\nContact équipe domicile: Vermeerbergen D. (0497.31.76.07 - daanvermeer
+ bergen@hotmail.com)\n\nAccès voiture : Ring RO\, afrit Wemmel-Merchtem (n
+ ° 9)\, richting Merchtem volgen via de Is. Meyskensstraat tot aan de roto
+ nde\, op de rotonde de 4de afslag nemen\, Diepstraat deze vloeit over in d
+ e Steenweg op Brussel\, 50 m. voorbij het eerste kruispunt met verkeerslic
+ hten\, links van de steenweg\, bevindt zich het stadium (parking)\n\nVéri
+ fiez toujours ces infos sur http://www.abssa.be/
+GEO:50.9077704;4.3065753
+LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
+  Wemmel\, Belgique
+ORGANIZER;CN="Vermeerbergen D.";ROLE=Secrétaire:MAILTO:daanvermeerbergen@
+ hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J3: ANDERLECHT US vs CHOULE AUDERGHEM (Eq. 6)
+DTSTART;VALUE=DATE-TIME:20230923T120000Z
+DTEND;VALUE=DATE-TIME:20230923T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_6D_3_280_517
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Mauve\nCouleur principale équipe exterieure: Blanc
+ \n\nContact équipe domicile: Sadin D. (0477.76.34.69 - usanderlecht@sadin
+ foot.net)\n\nAccès voiture : En venant de la Route de Lennik (Citroën) o
+ u de la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'An
+ derlecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la
+  sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complex
+ e et des terrains se situe à +/- 500 m. sur la gauche.\n\nVérifiez toujo
+ urs ces infos sur http://www.abssa.be/
 GEO:50.8114933;4.2763364
-LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
  \, Belgique
-ORGANIZER:MAILTO:usanderlecht@sadinfoot.net
+ORGANIZER;CN="Sadin D.";ROLE=Secrétaire:MAILTO:usanderlecht@sadinfoot.net
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J13: PHARMA SC (Eq. 4) vs ANDERLECHT US
-DTSTART:20221203T140000Z
-DTEND:20221203T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:a4d17759-c3f2-4c05-a07e-3645689c8e58
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Mauve\n\nContact équipe 
- domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Au départ de 
- la Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à l
- a rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie rou
- ler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique)
-  pendant env. 500 m. L'entrée du Complexe se trouve à hauteur de City Ca
- rt\, à gauche de la route.
-GEO:50.8005447;4.3095283
-LOCATION:COMPLEXE SPORTIF DU BEMPT\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER:MAILTO:phie.dumidi@scarlet.be
+SUMMARY:ABSSA D6D J4: ENTENTE  RACB (Eq. 2) vs ANDERLECHT US
+DTSTART;VALUE=DATE-TIME:20230930T120000Z
+DTEND;VALUE=DATE-TIME:20230930T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_6D_4_2_280
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Mauve
+ \n\nContact équipe domicile: Dath D. (0473.47.15.41 - daniel.dath@hotmail
+ .com)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\, vers Ne
+ der-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-po
+ int\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Ver
+ t\, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa
+ .be/
+GEO:50.89983369999999;4.3936101
+LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
+ORGANIZER;CN="Dath D.";ROLE=Secrétaire:MAILTO:daniel.dath@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J14: ANDERLECHT US vs CAMPOMAIORENSE SC
-DTSTART:20221210T140000Z
-DTEND:20221210T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:8dc29172-d445-4be2-b067-5231d0f0a5a3
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Mauve\nCouleur principale équipe extérieur: Vert rayé de blanc\n\nC
- ontact équipe domicile: SADIN D. (0477.76.34.69)\n\nAccès voiture : En v
- enant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\,
-  prendre la direction du cimetière d'Anderlecht\, emprunter le Boulevard 
- Josse Leemans\, au rond-point prendre la sortie pour la rue du Chant d'Ois
- eaux (Vogelenzang). L'entrée du complexe et des terrains se situe à +/- 
- 500 m. sur la gauche.
+SUMMARY:ABSSA D6D J5: ANDERLECHT US vs OMNISPORT BIERGHES (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20231007T120000Z
+DTEND;VALUE=DATE-TIME:20231007T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_6D_5_280_455
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Mauve\nCouleur principale équipe exterieure: Borde
+ aux\n\nContact équipe domicile: Sadin D. (0477.76.34.69 - usanderlecht@sa
+ dinfoot.net)\n\nAccès voiture : En venant de la Route de Lennik (Citroën
+ ) ou de la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d
+ 'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre
+  la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du comp
+ lexe et des terrains se situe à +/- 500 m. sur la gauche.\n\nVérifiez to
+ ujours ces infos sur http://www.abssa.be/
 GEO:50.8114933;4.2763364
-LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
  \, Belgique
-ORGANIZER:MAILTO:usanderlecht@sadinfoot.net
+ORGANIZER;CN="Sadin D.";ROLE=Secrétaire:MAILTO:usanderlecht@sadinfoot.net
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J15: FORESTOIS SC (Eq. 5) vs ANDERLECHT US
-DTSTART:20221217T140000Z
-DTEND:20221217T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:512d27ff-7729-45fd-b673-4a599b03887b
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe extérieur: Mauve\n\nContact équipe 
- domicile: JANSSENS P. (0479.95.08.14)\n\nAccès voiture : Au départ de la
-  Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à la 
- rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie roule
- r env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique) p
- endant env. 500 m. L'entrée du Complexe se trouve à hauteur de City Cart
- \, à gauche de la route.
-GEO:50.8005447;4.3095283
-LOCATION:COMPLEXE SPORTIF DU BEMPT\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER:MAILTO:patj.scf@gmail.com
+SUMMARY:ABSSA D6D J6: JETTOISE (AMICALE) vs ANDERLECHT US
+DTSTART;VALUE=DATE-TIME:20231014T133000Z
+DTEND;VALUE=DATE-TIME:20231014T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_6D_6_347_280
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Bleu et blanc\nCouleur principale équipe exterieur
+ e: Mauve\n\nContact équipe domicile: Pogradja  A. (0478.37.94.22 - avnipo
+ gradja@gmail.com)\n\nAccès voiture : Direction cimetière de Jette\, ensu
+ ite prendre la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, ave
+ nue J.J. Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces 
+ infos sur http://www.abssa.be/
+GEO:50.8907643;4.3211209
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
+ Belgique
+ORGANIZER;CN="Pogradja  A.";ROLE=Secrétaire:MAILTO:avnipogradja@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J16: ALIZE VETERANS FC vs ANDERLECHT US
-DTSTART:20230107T140000Z
-DTEND:20230107T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:74ca0b50-d214-4236-8096-890b99abdf35
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune\nCouleur principale équipe extérieur: Mauve\n\nContact équipe
-  domicile: HAENTJENS J-L. (0473.88.82.20)\n\nAccès voiture : Via la chaus
- sée de Mons jusqu'à Veeweyde (carrefour Fr. Van Kalken). Prendre à droi
- te le boulevard  A. Briand jusqu'à la Place Verdi\, puis le Bld. Théo La
- mbert.
+SUMMARY:ABSSA D6D J24: PANGLOSS FC (Eq. 2) vs ANDERLECHT US
+DTSTART;VALUE=DATE-TIME:20231028T133000Z
+DTEND;VALUE=DATE-TIME:20231028T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_6D_24_123_280
+DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Mauve\
+ n\nContact équipe domicile: De Paduwa P. (0475.67.06.50 - p.depaduwa@gmai
+ l.com)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces infos sur
+  http://www.abssa.be/
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="De Paduwa P.";ROLE=Secrétaire:MAILTO:p.depaduwa@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J7: ANDERLECHT US vs NIVELLOIS-ACLOT BS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20231104T130000Z
+DTEND;VALUE=DATE-TIME:20231104T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_6D_7_280_503
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Mauve\nCouleur principale équipe exterieure: Rouge
+  et noir\n\nContact équipe domicile: Sadin D. (0477.76.34.69 - usanderlec
+ ht@sadinfoot.net)\n\nAccès voiture : En venant de la Route de Lennik (Cit
+ roën) ou de la Chaussée de Mons (Ikea)\, prendre la direction du cimeti
+ ère d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-point p
+ rendre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée d
+ u complexe et des terrains se situe à +/- 500 m. sur la gauche.\n\nVérif
+ iez toujours ces infos sur http://www.abssa.be/
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Sadin D.";ROLE=Secrétaire:MAILTO:usanderlecht@sadinfoot.net
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J9: ANDERLECHT US vs LA LORRAINE-MTM.R (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20231118T130000Z
+DTEND;VALUE=DATE-TIME:20231118T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_6D_9_280_44
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Mauve\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Sadin D. (0477.76.34.69 - usanderlecht@sadinf
+ oot.net)\n\nAccès voiture : En venant de la Route de Lennik (Citroën) ou
+  de la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'And
+ erlecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la 
+ sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe
+  et des terrains se situe à +/- 500 m. sur la gauche.\n\nVérifiez toujou
+ rs ces infos sur http://www.abssa.be/
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Sadin D.";ROLE=Secrétaire:MAILTO:usanderlecht@sadinfoot.net
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J12: STRING PENELOPE (Eq. 3) vs ANDERLECHT US
+DTSTART;VALUE=DATE-TIME:20231125T140000Z
+DTEND;VALUE=DATE-TIME:20231125T153000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_6D_12_181_280
+DESCRIPTION:Terrain synthétique: non\nCode terrain: O04\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Mauv
+ e\n\nContact équipe domicile: Collignon T. (0474.89.84.20 - thom.colligno
+ n@gmail.com)\n\nAccès voiture : Au départ de Bruxelles\, prendre l'autor
+ oute E411 en direction de Namur. Prendre la sortie  Wavre ( n° 6) ensuite
+  à droite la N238 en direction d'Ottignies. Prendre la sortie Ottignies/L
+ ouvain-La-Neuve (N237) et suivre la direction Ottignies. Passer sous les 2
+  ponts du chemin de fer et\, au feu de signalisation\, continuer tout droi
+ t. Au feu suivant\, toujours tout droit par l'avenue des Combattants. Fran
+ chir le passage protégé pour piétons (feu clignotant) et au feu de sign
+ alisation suivant\, prendre à droite direction Ceroux-Mousty par la rue d
+ es Coquerées. Le terrain se trouve sur la droite à env. 400 m. Au n° 50
+ A \, panneau "Coca-Cola" l'entrée du centre sportif.\n\nVérifiez toujour
+ s ces infos sur http://www.abssa.be/
+GEO:50.6630401;4.5569959
+LOCATION:Centre Sportif des Coquerees\, Rue des Coquerées 50A\, 1341 Otti
+ gnies-Ceroux-Mousty\, Belgique
+ORGANIZER;CN="Collignon T.";ROLE=Secrétaire:MAILTO:thom.collignon@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J11: ANDERLECHT US vs PANGLOSS FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20231202T130000Z
+DTEND;VALUE=DATE-TIME:20231202T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_6D_11_280_123
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Mauve\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Sadin D. (0477.76.34.69 - usanderlecht@sadinf
+ oot.net)\n\nAccès voiture : En venant de la Route de Lennik (Citroën) ou
+  de la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'And
+ erlecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la 
+ sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe
+  et des terrains se situe à +/- 500 m. sur la gauche.\n\nVérifiez toujou
+ rs ces infos sur http://www.abssa.be/
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Sadin D.";ROLE=Secrétaire:MAILTO:usanderlecht@sadinfoot.net
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J13: ANDERLECHT US vs BRITISH UNITED (Eq. 6)
+DTSTART;VALUE=DATE-TIME:20231209T130000Z
+DTEND;VALUE=DATE-TIME:20231209T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_6D_13_280_132
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Mauve\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Sadin D. (0477.76.34.69 - usanderlecht@sadinf
+ oot.net)\n\nAccès voiture : En venant de la Route de Lennik (Citroën) ou
+  de la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'And
+ erlecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la 
+ sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe
+  et des terrains se situe à +/- 500 m. sur la gauche.\n\nVérifiez toujou
+ rs ces infos sur http://www.abssa.be/
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Sadin D.";ROLE=Secrétaire:MAILTO:usanderlecht@sadinfoot.net
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J14: AEMA VETERANS vs ANDERLECHT US
+DTSTART;VALUE=DATE-TIME:20240113T123000Z
+DTEND;VALUE=DATE-TIME:20240113T140000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_6D_14_427_280
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
+ pale équipe domicile: Jaune et bleu\nCouleur principale équipe exterieur
+ e: Mauve\n\nContact équipe domicile: Van Ingelgom J. (0475.36.44.88 - van
+ ingelgom_w_j@hotmail.com)\n\nAccès voiture : Via la chaussée de Mons jus
+ qu'à Veeweyde (carrefour Fr. Van Kalken). Prendre à droite le boulevard 
+  A. Briand jusqu'à la Place Verdi\, puis le Bld. Théo Lambert.\n\nVérif
+ iez toujours ces infos sur http://www.abssa.be/
 GEO:50.827564;4.2952993
-LOCATION:STADE VERDI (STADIUM)\, Boulevard Théo Lambert\, 1070 Anderlecht
+LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
  \, Belgique
-ORGANIZER:MAILTO:jean-luc.haentjens@police.belgium.eu
+ORGANIZER;CN="Van Ingelgom J.";ROLE=Secrétaire:MAILTO:vaningelgom_w_j@hot
+ mail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J17: ANDERLECHT US vs BRUSSELS BRITISH R (Eq. 6)
-DTSTART:20230114T140000Z
-DTEND:20230114T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:d061bd2b-c568-4381-8f5b-307a57ad97ea
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Mauve\nCouleur principale équipe extérieur: Blanc\n\nContact équipe
-  domicile: SADIN D. (0477.76.34.69)\n\nAccès voiture : En venant de la Ro
- ute de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre la di
- rection du cimetière d'Anderlecht\, emprunter le Boulevard Josse Leemans\
- , au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (Vogelenz
- ang). L'entrée du complexe et des terrains se situe à +/- 500 m. sur la 
- gauche.
+SUMMARY:ABSSA D6D J15: ANDERLECHT US vs MIREILLE WEMMEL (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240120T130000Z
+DTEND;VALUE=DATE-TIME:20240120T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_6D_15_280_93
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Mauve\nCouleur principale équipe exterieure: Noir\
+ n\nContact équipe domicile: Sadin D. (0477.76.34.69 - usanderlecht@sadinf
+ oot.net)\n\nAccès voiture : En venant de la Route de Lennik (Citroën) ou
+  de la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'And
+ erlecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la 
+ sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe
+  et des terrains se situe à +/- 500 m. sur la gauche.\n\nVérifiez toujou
+ rs ces infos sur http://www.abssa.be/
 GEO:50.8114933;4.2763364
-LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
  \, Belgique
-ORGANIZER:MAILTO:usanderlecht@sadinfoot.net
+ORGANIZER;CN="Sadin D.";ROLE=Secrétaire:MAILTO:usanderlecht@sadinfoot.net
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J18: TUBIFOOT AS vs ANDERLECHT US
-DTSTART:20230121T153000Z
-DTEND:20230121T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:4fb35676-d7d1-43cf-a3d2-d3105337dd09
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Jaune et Rouge\nCouleur principale équipe extérieur: Mauve\n\nContac
- t équipe domicile: GIRARDO. M (0491.35.69.81)\n\nAccès voiture : En vena
- nt de Bruxelles : Prendre le RO en direction Mons-Bergen / Charleroi - pre
- ndre la sortie 21 et continuer sur la E429 direction Lille/Rijsel sur 7\,2
-  km. Ensuite prendre la sortie 23 et continuer sur le Hondzochtsesteenweg 
- pendant 1\,7km. Au rond point continuer tout droit Chaussée d'Hondzocht s
- ur 857 m\, \, prendre à droite Rue de Bruxelles sur 141 m.\, au rond- poi
- nt continuer tour droit et à nouveau au rond-point continuer tout droite 
- sur 537 m.\,\npasser devant l'Eglise de Tubize et après le 2ème feu roug
- e\, prendre la 2ème rue à gauche\,\nRue des Ponts et continuer sur 470 m
- . (suivre les panneaux AFC. Tubize) puis prendre la 2ème à droite (à c
- ôté des terrains de tennis) chemin menant au parking du Stade de Tubize.
- \nPrendre le chemin à pied sur +/- 50 m. à gauche du stade jusqu'à l'ar
- rière de la tribune T3.
-GEO:50.684014;4.1993301
-LOCATION:Allée des Sports\, 7\, 1480  Tubize\, Belgique
-ORGANIZER:MAILTO:astubifoot@gmail.com
+SUMMARY:ABSSA D6D J16: CHOULE AUDERGHEM (Eq. 6) vs ANDERLECHT US
+DTSTART;VALUE=DATE-TIME:20240127T130000Z
+DTEND;VALUE=DATE-TIME:20240127T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_6D_16_517_280
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Mauve
+ \n\nContact équipe domicile: Vandenplas D. (0476.54.48.01 - dav_54@hotmai
+ l.com)\n\nAccès voiture : En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.\n\nVérifiez toujours ce
+ s infos sur http://www.abssa.be/
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J19: ANDERLECHT US vs AZUR RCS (Eq. 6)
-DTSTART:20230128T140000Z
-DTEND:20230128T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:3c3fb15b-1709-4932-bf33-c77c2ed32aad
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Mauve\nCouleur principale équipe extérieur: Bleu ciel\n\nContact éq
- uipe domicile: SADIN D. (0477.76.34.69)\n\nAccès voiture : En venant de l
- a Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre l
- a direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse Leem
- ans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (Voge
- lenzang). L'entrée du complexe et des terrains se situe à +/- 500 m. sur
-  la gauche.
+SUMMARY:ABSSA D6D J17: ANDERLECHT US vs ENTENTE  RACB (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240203T130000Z
+DTEND;VALUE=DATE-TIME:20240203T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_6D_17_280_2
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Mauve\nCouleur principale équipe exterieure: Rouge
+ \n\nContact équipe domicile: Sadin D. (0477.76.34.69 - usanderlecht@sadin
+ foot.net)\n\nAccès voiture : En venant de la Route de Lennik (Citroën) o
+ u de la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'An
+ derlecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la
+  sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complex
+ e et des terrains se situe à +/- 500 m. sur la gauche.\n\nVérifiez toujo
+ urs ces infos sur http://www.abssa.be/
 GEO:50.8114933;4.2763364
-LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
  \, Belgique
-ORGANIZER:MAILTO:usanderlecht@sadinfoot.net
+ORGANIZER;CN="Sadin D.";ROLE=Secrétaire:MAILTO:usanderlecht@sadinfoot.net
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J20: ELAN EVERE RAC (Eq. 2) vs ANDERLECHT US
-DTSTART:20230204T150000Z
-DTEND:20230204T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:93d7f48a-54b5-4913-9534-330a08f4c660
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge et blanc rayé\nCouleur principale équipe extérieur: Mauve\n\n
- Contact équipe domicile: DUBOIS J-J. (0486.47.10.49)\n\nAccès voiture : 
- Le terrain se trouve derrière l'église St. Vincent
-GEO:50.8786351;4.3949376
-LOCATION:PARC ST. VINCENT (BON PASTEUR)\, Rue de Picardie\, 1140 Evere\, B
- elgique
-ORGANIZER:MAILTO:jjdubois58@gmail.com
+SUMMARY:ABSSA D6D J18: OMNISPORT BIERGHES (Eq. 2) vs ANDERLECHT US
+DTSTART;VALUE=DATE-TIME:20240210T143000Z
+DTEND;VALUE=DATE-TIME:20240210T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_6D_18_455_280
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B02\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Ma
+ uve\n\nContact équipe domicile: Barbe L. (0495.21.74.14 - omnisportbiergh
+ es1995@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Charleroi (E19)\
+ , prendre la sortie Halle-Tournai-Lille (n° 21) pour rejoindre l'autorout
+ e Tournai-Lille\, ancienne route A8 (E429). Prendre la sortie Rebecq-Quena
+ st (n° 24). En bas de la sortie\, prendre à droite\, direction Bierghes.
+  Rouler tout droit jusqu'au premier feu rouge. Tourner à droite en direct
+ ion de Halle\, ensuite la deuxième rue à droite (rue du Sartiau)\, ensui
+ te à gauche. Le terrain se trouve à 300 m.\n\nVérifiez toujours ces inf
+ os sur http://www.abssa.be/
+GEO:50.6957846;4.129257
+LOCATION:Rue du Sartiau 3B\, 1430 Bierghes-Rebecq\, Belgique
+ORGANIZER;CN="Barbe L.";ROLE=Secrétaire:MAILTO:omnisportbierghes1995@gmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J21: ANDERLECHT US vs FAUBOURG-BRAINOISE (Eq. 2)
-DTSTART:20230211T140000Z
-DTEND:20230211T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:6f361877-2b04-4bf4-98a6-8955fa7606a7
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Mauve\nCouleur principale équipe extérieur: Rouge\n\nContact équipe
-  domicile: SADIN D. (0477.76.34.69)\n\nAccès voiture : En venant de la Ro
- ute de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre la di
- rection du cimetière d'Anderlecht\, emprunter le Boulevard Josse Leemans\
- , au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (Vogelenz
- ang). L'entrée du complexe et des terrains se situe à +/- 500 m. sur la 
- gauche.
+SUMMARY:ABSSA D6D J19: ANDERLECHT US vs JETTOISE (AMICALE)
+DTSTART;VALUE=DATE-TIME:20240217T130000Z
+DTEND;VALUE=DATE-TIME:20240217T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_6D_19_280_347
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Mauve\nCouleur principale équipe exterieure: Bleu 
+ et blanc\n\nContact équipe domicile: Sadin D. (0477.76.34.69 - usanderlec
+ ht@sadinfoot.net)\n\nAccès voiture : En venant de la Route de Lennik (Cit
+ roën) ou de la Chaussée de Mons (Ikea)\, prendre la direction du cimeti
+ ère d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-point p
+ rendre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée d
+ u complexe et des terrains se situe à +/- 500 m. sur la gauche.\n\nVérif
+ iez toujours ces infos sur http://www.abssa.be/
 GEO:50.8114933;4.2763364
-LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
  \, Belgique
-ORGANIZER:MAILTO:usanderlecht@sadinfoot.net
+ORGANIZER;CN="Sadin D.";ROLE=Secrétaire:MAILTO:usanderlecht@sadinfoot.net
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J22: SAINT GEORGES RCS (Eq. 4) vs ANDERLECHT US
-DTSTART:20230225T140000Z
-DTEND:20230225T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:1c7dd5df-3c8d-42cb-8f03-a6a363a5f353
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe extérieur: Mauve\n\nContact équipe
-  domicile: DESTIN C. (0483.33.01.12)\n\nAccès voiture : Boulevard de la W
- oluwe\, prendre la rue Voot\, puis la chaussée de Stockel. Passer en dess
- ous du petit pont et continuer la chaussée de Stockel pendant env. 500 m.
-  Le terrain est situé sur la droite de la chaussée.
-GEO:50.8416675;4.454784399999999
-LOCATION:Chaussée de Stockel\, 376\, 1150 Woluwé-Saint-Pierre\, Belgique
-ORGANIZER:MAILTO:cedric.destin@gmail.com
+SUMMARY:ABSSA D6D J26: BRITISH UNITED (Eq. 6) vs ANDERLECHT US
+DTSTART;VALUE=DATE-TIME:20240224T130000Z
+DTEND;VALUE=DATE-TIME:20240224T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_6D_26_132_280
+DESCRIPTION:Terrain synthétique: non\nCode terrain: M02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Mauve\
+ n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gillesvander
+ seypen@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Anvers (E19) sor
+ tie Mechelen-Noord (n° 9) En arrivant dans le centre\, suivre la directio
+ n "Heist-op-den-Berg" Aller tout droit et passer le viaduc du chemin de fe
+ r. Après 1 km. suivre les flèches "De Nekker". Garer les voitures à l'e
+ xtérieur du complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terra
+ in.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:51.0254354;4.503786799999999
+LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
+ ue
+ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
+ gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J23: BRUSSELS LTC (Eq. 6) vs ANDERLECHT US
-DTSTART:20230304T140000Z
-DTEND:20230304T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:a5c15b9e-31c0-44a3-a9dd-6d4ba1078100
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bordeaux\nCouleur principale équipe extérieur: Mauve\n\nContact équ
- ipe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Venant de B
- ruxelles\, prendre le Ring Est direction Waterloo. Sortir au pont de Groen
- endael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. Après le c
- hateau de La Hulpe\, toujours tout droit. Au feu de signalisation et le ca
- rrefour de La Hulpe\, tout droit direction Genval. Au feu de signalisation
-  prendre à gauche et ensuite directement à droite\, l'avenue Soyer\, der
- rière le G.B. Le terrain se trouve à 300 m.
-GEO:50.7309582;4.4952087
-LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J24: COSMOS BRUWOLF MJ (Eq. 2) vs ANDERLECHT US
-DTSTART:20230311T140000Z
-DTEND:20230311T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:b742d305-dfe3-413a-9a2c-3780d4915939
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Orange/Noir\nCouleur principale équipe extérieur: Mauve\n\nContact 
- équipe domicile: DEHAUT A. (0476.26.26.87)\n\nAccès voiture : Ring O\, s
- ortie Ninove-Dilbeek (n° 13) direction Molenbeek\, par la chaussée de Ni
- nove \n(+/- 3 km.). Au feu de signalisation qui se trouve juste après le 
- "BRICO" prendre à gauche l'Avenue J. Baeck. Le terrain se trouve à main 
- droite\, juste au début de cette avenue.
-GEO:50.8511158;4.3192467
-LOCATION:STADE VERBIST - PARC MARIE-JOSE\, Avenue J. Baeck\, 1080 Molenbee
- k\, Belgique
-ORGANIZER:MAILTO:alain.dehaut@skynet.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J25: ANDERLECHT US vs AUDERGHEM R.CF
-DTSTART:20230318T140000Z
-DTEND:20230318T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:3a129664-afba-4f82-adf1-81e99bcfdfde
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Mauve\nCouleur principale équipe extérieur: Bleu\n\nContact équipe 
- domicile: SADIN D. (0477.76.34.69)\n\nAccès voiture : En venant de la Rou
- te de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre la dir
- ection du cimetière d'Anderlecht\, emprunter le Boulevard Josse Leemans\,
-  au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (Vogelenza
- ng). L'entrée du complexe et des terrains se situe à +/- 500 m. sur la g
- auche.
+SUMMARY:ABSSA D6D J23: ANDERLECHT US vs HIGGINS-PUMAS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20240302T130000Z
+DTEND;VALUE=DATE-TIME:20240302T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_6D_23_280_416
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Mauve\nCouleur principale équipe exterieure: Rayé
+  Bleu et Blanc\n\nContact équipe domicile: Sadin D. (0477.76.34.69 - usan
+ derlecht@sadinfoot.net)\n\nAccès voiture : En venant de la Route de Lenni
+ k (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre la direction du c
+ imetière d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-po
+ int prendre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entr
+ ée du complexe et des terrains se situe à +/- 500 m. sur la gauche.\n\nV
+ érifiez toujours ces infos sur http://www.abssa.be/
 GEO:50.8114933;4.2763364
-LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
  \, Belgique
-ORGANIZER:MAILTO:usanderlecht@sadinfoot.net
+ORGANIZER;CN="Sadin D.";ROLE=Secrétaire:MAILTO:usanderlecht@sadinfoot.net
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J26: ANDERLECHT US vs FORESTOIS SC (Eq. 5)
-DTSTART:20230325T140000Z
-DTEND:20230325T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:b7df866a-53d3-4b23-9169-60c5c7266094
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Mauve\nCouleur principale équipe extérieur: Vert\n\nContact équipe 
- domicile: SADIN D. (0477.76.34.69)\n\nAccès voiture : En venant de la Rou
- te de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre la dir
- ection du cimetière d'Anderlecht\, emprunter le Boulevard Josse Leemans\,
-  au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (Vogelenza
- ng). L'entrée du complexe et des terrains se situe à +/- 500 m. sur la g
- auche.
+SUMMARY:ABSSA D6D J20: NIVELLOIS-ACLOT BS (Eq. 2) vs ANDERLECHT US
+DTSTART;VALUE=DATE-TIME:20240309T120000Z
+DTEND;VALUE=DATE-TIME:20240309T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_6D_20_503_280
+DESCRIPTION:Terrain synthétique: non\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
+ e: Mauve\n\nContact équipe domicile: Draux N. (0472.40.01.22 - ni.draux@g
+ mail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoroute Bru
+ xelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le po
+ nt de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au rond-
+ point (Shopping Center)\, tourner à droite en direction de Wavre (petit r
+ ing de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point du 
+ Shopping Center)\, tourner à gauche \, rue de l'Industrie et pénétrer d
+ ans le zoning. Au bout de la rue\, avant le feu de signalisation\, tourner
+  à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérifiez t
+ oujours ces infos sur http://www.abssa.be/
+GEO:50.5963436;4.3564187
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Draux N.";ROLE=Secrétaire:MAILTO:ni.draux@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J22: LA LORRAINE-MTM.R (Eq. 3) vs ANDERLECHT US
+DTSTART;VALUE=DATE-TIME:20240323T130000Z
+DTEND;VALUE=DATE-TIME:20240323T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_6D_22_44_280
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Mauve\
+ n\nContact équipe domicile: Degimbe M. (0478.53.63.56 - lalorrainefc@gmai
+ l.com)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur ht
+ tp://www.abssa.be/
+GEO:50.7282426;4.5537189
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="Degimbe M.";ROLE=Secrétaire:MAILTO:lalorrainefc@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J25: ANDERLECHT US vs STRING PENELOPE (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20240406T120000Z
+DTEND;VALUE=DATE-TIME:20240406T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_6D_25_280_181
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Mauve\nCouleur principale équipe exterieure: Orang
+ e\n\nContact équipe domicile: Sadin D. (0477.76.34.69 - usanderlecht@sadi
+ nfoot.net)\n\nAccès voiture : En venant de la Route de Lennik (Citroën) 
+ ou de la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'A
+ nderlecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre l
+ a sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du comple
+ xe et des terrains se situe à +/- 500 m. sur la gauche.\n\nVérifiez touj
+ ours ces infos sur http://www.abssa.be/
 GEO:50.8114933;4.2763364
-LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
  \, Belgique
-ORGANIZER:MAILTO:usanderlecht@sadinfoot.net
+ORGANIZER;CN="Sadin D.";ROLE=Secrétaire:MAILTO:usanderlecht@sadinfoot.net
 END:VEVENT
 END:VCALENDAR

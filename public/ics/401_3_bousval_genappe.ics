@@ -1,258 +1,473 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:9220ae38-cf57-44ca-91a6-e41785359497
-X-WR-CALDESC:Les matches de BOUSVAL GENAPPE (eq. 3) en ABSSA.
-X-WR-CALNAME:ABSSA - BOUSVAL GENAPPE (eq. 3) - 401
-X-WR-TIMEZONE:Europe/Brussels
+PRODID:401_3_bousval_genappe
+X-WR-CALDESC:Les matches du club BOUSVAL GENAPPE (equipe 3) en ABSSA.
+X-WR-CALNAME:ABSSA: BOUSVAL GENAPPE (eq. 3)
 BEGIN:VEVENT
-SUMMARY:ABSSA D6E J12: BOUSVAL GENAPPE (Eq. 3) vs BRITISH UNITED (Eq. 7)
-DTSTART:20221126T140000Z
-DTEND:20221126T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:fec2bf3c-8644-46eb-a2d2-d2b10e7313a6
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Bleu\n\nContact équipe d
- omicile: GOSSIAUX S. (0473.44.25.52)\n\nAccès voiture : Venant de Bruxell
- es prendre le Ring Ouest\, sortie Genappe (n° 25)\, prendre à droite sur
-  la N5 (Bruxelles-Charleroi) direction Charleroi pendant +/- 10 min.\, sor
- tie Loupoigne\, traverser le carrefour\, tout droit direction route du suc
- re.
+SUMMARY:ABSSA D6E J10: NIVELLES AS (Eq. 2) vs BOUSVAL GENAPPE (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20230902T133000Z
+DTEND;VALUE=DATE-TIME:20230902T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_6E_10_306_401
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: Orange fluo\nCouleur principale équipe exterieure:
+  Bleu\n\nContact équipe domicile: Couteau A (0497.63.11.19 - couteau.arno
+ ld.00@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoro
+ ute Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sou
+ s le pont de l'autoroute et prendre la direction de Nivelles. A 200 m.\, a
+ u rond-point (Shopping Center)\, tourner à droite en direction de Wavre (
+ petit ring de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-po
+ int du Shopping Center)\, tourner à gauche \, rue de l'Industrie et pén
+ étrer dans le zoning. Au bout de la rue\, avant le feu de signalisation\,
+  tourner à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVé
+ rifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.5963436;4.3564187
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Couteau A";ROLE=Secrétaire:MAILTO:couteau.arnold.00@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J1: BRUSSELS LTC (Eq. 6) vs BOUSVAL GENAPPE (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20230909T133000Z
+DTEND;VALUE=DATE-TIME:20230909T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_6E_1_39_401
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bl
+ eu\n\nContact équipe domicile: Van Hacht O. (0475.96.43.03 - brusselsltc@
+ hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre le Ring Est
+  direction Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, 
+ Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours 
+ tout droit. Au feu de signalisation et le carrefour de La Hulpe\, tout dro
+ it direction Genval. Au feu de signalisation prendre à gauche et ensuite 
+ directement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se t
+ rouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.7309318;4.4945865
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J2: BOUSVAL GENAPPE (Eq. 3) vs IRLANDE FC (Eq. 6)
+DTSTART;VALUE=DATE-TIME:20230916T120000Z
+DTEND;VALUE=DATE-TIME:20230916T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_6E_2_401_402
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Vert\n
+ \nContact équipe domicile: Gossiaux S. (0473.44.25.52 - gossiaux_sebastie
+ n@hotmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring Oue
+ st\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Char
+ leroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traver
+ ser le carrefour\, tout droit direction route du sucre.\n\nVérifiez toujo
+ urs ces infos sur http://www.abssa.be/
 GEO:50.6007528;4.4472782
-LOCATION:Stade J.C. FLAMEND\, Route du sucre\, 1\, 1471 Loupoigne\, Belgiq
- ue
-ORGANIZER:MAILTO:gossiaux_sebastien@hotmail.com
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER;CN="Gossiaux S.";ROLE=Secrétaire:MAILTO:gossiaux_sebastien@hotm
+ ail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6E J14: BOUSVAL GENAPPE (Eq. 3) vs TIGRE (LE) FC
-DTSTART:20221210T140000Z
-DTEND:20221210T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:9b8e3b2b-f5ac-4538-9f94-046fd0b4f118
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Orange\n\nContact équipe
-  domicile: GOSSIAUX S. (0473.44.25.52)\n\nAccès voiture : Venant de Bruxe
- lles prendre le Ring Ouest\, sortie Genappe (n° 25)\, prendre à droite s
- ur la N5 (Bruxelles-Charleroi) direction Charleroi pendant +/- 10 min.\, s
- ortie Loupoigne\, traverser le carrefour\, tout droit direction route du s
- ucre.
-GEO:50.6007528;4.4472782
-LOCATION:Stade J.C. FLAMEND\, Route du sucre\, 1\, 1471 Loupoigne\, Belgiq
- ue
-ORGANIZER:MAILTO:gossiaux_sebastien@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6E J15: BOUSVAL GENAPPE (Eq. 3) vs WATERMAEL CS
-DTSTART:20221217T140000Z
-DTEND:20221217T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:23c6154d-88bc-4d87-b356-7c4cad8139ff
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Rouge\n\nContact équipe 
- domicile: GOSSIAUX S. (0473.44.25.52)\n\nAccès voiture : Venant de Bruxel
- les prendre le Ring Ouest\, sortie Genappe (n° 25)\, prendre à droite su
- r la N5 (Bruxelles-Charleroi) direction Charleroi pendant +/- 10 min.\, so
- rtie Loupoigne\, traverser le carrefour\, tout droit direction route du su
- cre.
-GEO:50.6007528;4.4472782
-LOCATION:Stade J.C. FLAMEND\, Route du sucre\, 1\, 1471 Loupoigne\, Belgiq
- ue
-ORGANIZER:MAILTO:gossiaux_sebastien@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6E J16: AEMA VETERANS vs BOUSVAL GENAPPE (Eq. 3)
-DTSTART:20230107T123000Z
-DTEND:20230107T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:6aabfb49-152e-4de8-a10d-93aa7c514567
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune et bleu\nCouleur principale équipe extérieur: Bleu\n\nContact 
- équipe domicile: VAN INGELGOM J. (0475.36.44.88)\n\nAccès voiture : Via 
- la chaussée de Mons jusqu'à Veeweyde (carrefour Fr. Van Kalken). Prendre
-  à droite le boulevard  A. Briand jusqu'à la Place Verdi\, puis le Bld. 
- Théo Lambert.
-GEO:50.827564;4.2952993
-LOCATION:STADE VERDI (STADIUM)\, Boulevard Théo Lambert\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:vaningelgom_w_j@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6E J17: BOUSVAL GENAPPE (Eq. 3) vs CHEVERNY SCHAERB (Eq. 2)
-DTSTART:20230114T140000Z
-DTEND:20230114T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:a39e9021-728c-420b-a269-1a8c241b7186
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Jaune\n\nContact équipe 
- domicile: GOSSIAUX S. (0473.44.25.52)\n\nAccès voiture : Venant de Bruxel
- les prendre le Ring Ouest\, sortie Genappe (n° 25)\, prendre à droite su
- r la N5 (Bruxelles-Charleroi) direction Charleroi pendant +/- 10 min.\, so
- rtie Loupoigne\, traverser le carrefour\, tout droit direction route du su
- cre.
-GEO:50.6007528;4.4472782
-LOCATION:Stade J.C. FLAMEND\, Route du sucre\, 1\, 1471 Loupoigne\, Belgiq
- ue
-ORGANIZER:MAILTO:gossiaux_sebastien@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6E J18: KARIA FC (Eq. 2) vs BOUSVAL GENAPPE (Eq. 3)
-DTSTART:20230121T153000Z
-DTEND:20230121T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:6e780669-22c3-4a17-b244-f9a500b153da
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune\nCouleur principale équipe extérieur: Bleu\n\nContact équipe 
- domicile: BERCHA  M (0477.69.27.28)\n\nAccès voiture : Pont de Laeken\, C
- haussée de Vilvorde\, vers Neder-Over-Heembeek\, prendre l' Avenue des Cr
- oix de Guerre jusqu'au rond-point\, tout droit Chemin Vert\, puis premièr
- e à gauche\, Petit Chemin Vert\, terrain à 300 m.
-GEO:50.8998295;4.3935952
-LOCATION:PETIT CHEMIN VERT\, Petit Chemin Vert\, 99\, 1120 Neder-Over-Heem
- beek\, Belgique
-ORGANIZER:MAILTO:mohamedbercha@hotmail.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6E J19: BOUSVAL GENAPPE (Eq. 3) vs CHOULE AUDERGHEM (Eq. 4)
-DTSTART:20230128T140000Z
-DTEND:20230128T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:f4132633-e8df-42ab-b3bf-bcc28de83223
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Blanc\n\nContact équipe 
- domicile: GOSSIAUX S. (0473.44.25.52)\n\nAccès voiture : Venant de Bruxel
- les prendre le Ring Ouest\, sortie Genappe (n° 25)\, prendre à droite su
- r la N5 (Bruxelles-Charleroi) direction Charleroi pendant +/- 10 min.\, so
- rtie Loupoigne\, traverser le carrefour\, tout droit direction route du su
- cre.
-GEO:50.6007528;4.4472782
-LOCATION:Stade J.C. FLAMEND\, Route du sucre\, 1\, 1471 Loupoigne\, Belgiq
- ue
-ORGANIZER:MAILTO:gossiaux_sebastien@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6E J20: ECUSSON FC vs BOUSVAL GENAPPE (Eq. 3)
-DTSTART:20230204T153000Z
-DTEND:20230204T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:24f52208-67a7-4f78-98b6-3f6e796d3b53
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune et Bleu\nCouleur principale équipe extérieur: Bleu\n\nContact 
- équipe domicile: SANTORO M (0471.68.67.25)\n\nAccès voiture : Ring\, sor
- tie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à dro
- ite.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld.
-  A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l
- 'hopital Erasme 400 m. en direction de Lennik.
-GEO:50.8177195;4.2558158
-LOCATION:COMPLEXE SPORTIF DE SAINT GILLES (BARKA)\, Route de Lennik\, 1015
- \, 1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:domisie@hotmail.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6E J21: BOUSVAL GENAPPE (Eq. 3) vs BRUSSELS BRITISH R (Eq. 
- 7)
-DTSTART:20230211T140000Z
-DTEND:20230211T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:9fc3458f-c796-4f4e-b19f-d68f1273c2b9
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Blanc\n\nContact équipe 
- domicile: GOSSIAUX S. (0473.44.25.52)\n\nAccès voiture : Venant de Bruxel
- les prendre le Ring Ouest\, sortie Genappe (n° 25)\, prendre à droite su
- r la N5 (Bruxelles-Charleroi) direction Charleroi pendant +/- 10 min.\, so
- rtie Loupoigne\, traverser le carrefour\, tout droit direction route du su
- cre.
-GEO:50.6007528;4.4472782
-LOCATION:Stade J.C. FLAMEND\, Route du sucre\, 1\, 1471 Loupoigne\, Belgiq
- ue
-ORGANIZER:MAILTO:gossiaux_sebastien@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6E J22: BRITISH UNITED (Eq. 7) vs BOUSVAL GENAPPE (Eq. 3)
-DTSTART:20230225T153000Z
-DTEND:20230225T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:ae5467a5-1989-4aed-b82c-3bae053ba847
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Bleu\n\nContact équipe d
- omicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Autoroute Bru
- xelles-Anvers (E19) sortie Mechelen-Noord (n° 9) En arrivant dans le cent
- re\, suivre la direction "Heist-op-den-Berg" Aller tout droit et passer le
-  viaduc du chemin de fer. Après 1 km. suivre les flèches "De Nekker". Ga
- rer les voitures à l'extérieur du complexe. IL FAUT COMPTER ENV. 10 min.
-  à pied jusqu'au terrain.
-GEO:51.0216563;4.5020273
-LOCATION:SPORTPARK DE NEKKER\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
- ue
-ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6E J23: PANGLOSS FC (Eq. 2) vs BOUSVAL GENAPPE (Eq. 3)
-DTSTART:20230304T153000Z
-DTEND:20230304T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:9f84b853-f57a-4d13-a742-7edee3a44b0c
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Bleu\n\nContact équipe d
- omicile: DE PADUWA P. (0475.67.06.50)\n\nAccès voiture : Au départ de la
-  Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kra
- ainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anciens Com
- battants. Juste après le carrefour avec des feux de signalisation prendre
-  à droite vers la Place de la Chapelle\, puis prendre la 4ème rue à mai
- n droite (rue au Bois). Le terrain se trouve à 300 m. sur la droite.
+SUMMARY:ABSSA D6E J3: TIGRE (LE) FC vs BOUSVAL GENAPPE (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20230923T103000Z
+DTEND;VALUE=DATE-TIME:20230923T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_6E_3_237_401
+DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Bleu
+ \n\nContact équipe domicile: Goetghebuer G. (0494.46.63.32 - sportetvie@s
+ kynet.be)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute 
+ Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viadu
+ c prendre à droite\, l'avenue des Anciens Combattants. Juste après le ca
+ rrefour avec des feux de signalisation prendre à droite vers la Place de 
+ la Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le t
+ errain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces infos 
+ sur http://www.abssa.be/
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:p.depaduwa@gmail.com
+ORGANIZER;CN="Goetghebuer G.";ROLE=Secrétaire:MAILTO:sportetvie@skynet.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6E J24: BOUSVAL GENAPPE (Eq. 3) vs BRUSSELS LTC (Eq. 7)
-DTSTART:20230311T140000Z
-DTEND:20230311T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:4240085a-8b4a-4a45-928d-d05308412ad9
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Bordeaux\n\nContact équi
- pe domicile: GOSSIAUX S. (0473.44.25.52)\n\nAccès voiture : Venant de Bru
- xelles prendre le Ring Ouest\, sortie Genappe (n° 25)\, prendre à droite
-  sur la N5 (Bruxelles-Charleroi) direction Charleroi pendant +/- 10 min.\,
-  sortie Loupoigne\, traverser le carrefour\, tout droit direction route du
-  sucre.
+SUMMARY:ABSSA D6E J4: BOUSVAL GENAPPE (Eq. 3) vs BRITISH UNITED (Eq. 7)
+DTSTART;VALUE=DATE-TIME:20230930T120000Z
+DTEND;VALUE=DATE-TIME:20230930T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_6E_4_401_132
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Gossiaux S. (0473.44.25.52 - gossiaux_sebastie
+ n@hotmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring Oue
+ st\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Char
+ leroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traver
+ ser le carrefour\, tout droit direction route du sucre.\n\nVérifiez toujo
+ urs ces infos sur http://www.abssa.be/
 GEO:50.6007528;4.4472782
-LOCATION:Stade J.C. FLAMEND\, Route du sucre\, 1\, 1471 Loupoigne\, Belgiq
- ue
-ORGANIZER:MAILTO:gossiaux_sebastien@hotmail.com
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER;CN="Gossiaux S.";ROLE=Secrétaire:MAILTO:gossiaux_sebastien@hotm
+ ail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6E J25: BOUSVAL GENAPPE (Eq. 3) vs BRAINE-TERMINUS FC (Eq. 
- 2)
-DTSTART:20230318T140000Z
-DTEND:20230318T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:7fcbf9a1-992b-49c4-be1f-898a6e3f34dd
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Jaune et rouge\n\nContact
-  équipe domicile: GOSSIAUX S. (0473.44.25.52)\n\nAccès voiture : Venant 
- de Bruxelles prendre le Ring Ouest\, sortie Genappe (n° 25)\, prendre à 
- droite sur la N5 (Bruxelles-Charleroi) direction Charleroi pendant +/- 10 
- min.\, sortie Loupoigne\, traverser le carrefour\, tout droit direction ro
- ute du sucre.
+SUMMARY:ABSSA D6E J6: KARIA FC (Eq. 2) vs BOUSVAL GENAPPE (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20231014T133000Z
+DTEND;VALUE=DATE-TIME:20231014T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_6E_6_498_401
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Bercha  M (0477.69.27.28 - mohamedbercha@hotma
+ il.fr)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\, vers N
+ eder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-p
+ oint\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Ve
+ rt\, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://www.abss
+ a.be/
+GEO:50.89983369999999;4.3936101
+LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
+ORGANIZER;CN="Bercha  M";ROLE=Secrétaire:MAILTO:mohamedbercha@hotmail.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J8: CHEVERNY SCHAERB (Eq. 2) vs BOUSVAL GENAPPE (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20231021T133000Z
+DTEND;VALUE=DATE-TIME:20231021T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_6E_8_128_401
+DESCRIPTION:Terrain synthétique: non\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Bex V (0476.92.58.43 - vincentbex@gmail.com)\
+ n\nAccès voiture : Direction cimetière de Jette\, ensuite prendre la rue
+  du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Crocq. Le
+  terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur http://w
+ ww.abssa.be/
+GEO:50.8907643;4.3211209
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
+ Belgique
+ORGANIZER;CN="Bex V";ROLE=Secrétaire:MAILTO:vincentbex@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J24: BRUSSELS BRITISH R (Eq. 7) vs BOUSVAL GENAPPE (Eq. 
+ 3)
+DTSTART;VALUE=DATE-TIME:20231028T133000Z
+DTEND;VALUE=DATE-TIME:20231028T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_6E_24_1_401
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Lachia S. (0484.27.72.64 - abssa-sec@rbbfc.or
+ g)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Passe
+ r devant l'église\, longer l'autoroute et tourner à droite au cimetière
+  des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur http:/
+ /www.abssa.be/
+GEO:50.7282426;4.5537189
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="Lachia S.";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J7: BOUSVAL GENAPPE (Eq. 3) vs CORNAC UNITED FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20231104T130000Z
+DTEND;VALUE=DATE-TIME:20231104T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_6E_7_401_151
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge\
+ n\nContact équipe domicile: Gossiaux S. (0473.44.25.52 - gossiaux_sebasti
+ en@hotmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring Ou
+ est\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Cha
+ rleroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, trave
+ rser le carrefour\, tout droit direction route du sucre.\n\nVérifiez touj
+ ours ces infos sur http://www.abssa.be/
 GEO:50.6007528;4.4472782
-LOCATION:Stade J.C. FLAMEND\, Route du sucre\, 1\, 1471 Loupoigne\, Belgiq
- ue
-ORGANIZER:MAILTO:gossiaux_sebastien@hotmail.com
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER;CN="Gossiaux S.";ROLE=Secrétaire:MAILTO:gossiaux_sebastien@hotm
+ ail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6E J26: WATERMAEL CS vs BOUSVAL GENAPPE (Eq. 3)
-DTSTART:20230325T153000Z
-DTEND:20230325T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:e30cbcef-06b4-45d1-a2a8-e502321d1854
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe extérieur: Bleu\n\nContact équipe 
- domicile: DE GREVE M. (0495.22.83.19)\n\nAccès voiture : A partir du squa
- re des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymph
- es.
-GEO:50.8059064;4.4137412
-LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
- l-Boitsfort\, Belgique
-ORGANIZER:MAILTO:micheldegreve08@gmail.com
+SUMMARY:ABSSA D6E J9: BOUSVAL GENAPPE (Eq. 3) vs FAUBOURG-BRAINOISE (Eq. 2
+ )
+DTSTART;VALUE=DATE-TIME:20231118T130000Z
+DTEND;VALUE=DATE-TIME:20231118T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_6E_9_401_100
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge\
+ n\nContact équipe domicile: Gossiaux S. (0473.44.25.52 - gossiaux_sebasti
+ en@hotmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring Ou
+ est\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Cha
+ rleroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, trave
+ rser le carrefour\, tout droit direction route du sucre.\n\nVérifiez touj
+ ours ces infos sur http://www.abssa.be/
+GEO:50.6007528;4.4472782
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER;CN="Gossiaux S.";ROLE=Secrétaire:MAILTO:gossiaux_sebastien@hotm
+ ail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J12: WATERMAEL CS vs BOUSVAL GENAPPE (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20231125T143000Z
+DTEND;VALUE=DATE-TIME:20231125T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_6E_12_375_401
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: De Greve M. (0495.22.83.19 - micheldegreve08@
+ gmail.com)\n\nAccès voiture : A partir du square des Archiducs\, prendre 
+ la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez toujours c
+ es infos sur http://www.abssa.be/
+GEO:50.8059082;4.4137428
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="De Greve M.";ROLE=Secrétaire:MAILTO:micheldegreve08@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J11: BOUSVAL GENAPPE (Eq. 3) vs BRUSSELS BRITISH R (Eq. 
+ 7)
+DTSTART;VALUE=DATE-TIME:20231202T130000Z
+DTEND;VALUE=DATE-TIME:20231202T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_6E_11_401_1
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Gossiaux S. (0473.44.25.52 - gossiaux_sebasti
+ en@hotmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring Ou
+ est\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Cha
+ rleroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, trave
+ rser le carrefour\, tout droit direction route du sucre.\n\nVérifiez touj
+ ours ces infos sur http://www.abssa.be/
+GEO:50.6007528;4.4472782
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER;CN="Gossiaux S.";ROLE=Secrétaire:MAILTO:gossiaux_sebastien@hotm
+ ail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J13: BOUSVAL GENAPPE (Eq. 3) vs CHENOIS (ESPER) (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20231209T130000Z
+DTEND;VALUE=DATE-TIME:20231209T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_6E_13_401_412
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc 
+ et rouge\n\nContact équipe domicile: Gossiaux S. (0473.44.25.52 - gossiau
+ x_sebastien@hotmail.com)\n\nAccès voiture : Venant de Bruxelles prendre l
+ e Ring Ouest\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Brux
+ elles-Charleroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoign
+ e\, traverser le carrefour\, tout droit direction route du sucre.\n\nVéri
+ fiez toujours ces infos sur http://www.abssa.be/
+GEO:50.6007528;4.4472782
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER;CN="Gossiaux S.";ROLE=Secrétaire:MAILTO:gossiaux_sebastien@hotm
+ ail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J14: BOUSVAL GENAPPE (Eq. 3) vs BRUSSELS LTC (Eq. 6)
+DTSTART;VALUE=DATE-TIME:20240113T130000Z
+DTEND;VALUE=DATE-TIME:20240113T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_6E_14_401_39
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bordea
+ ux\n\nContact équipe domicile: Gossiaux S. (0473.44.25.52 - gossiaux_seba
+ stien@hotmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring
+  Ouest\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-
+ Charleroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, tr
+ averser le carrefour\, tout droit direction route du sucre.\n\nVérifiez t
+ oujours ces infos sur http://www.abssa.be/
+GEO:50.6007528;4.4472782
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER;CN="Gossiaux S.";ROLE=Secrétaire:MAILTO:gossiaux_sebastien@hotm
+ ail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J15: IRLANDE FC (Eq. 6) vs BOUSVAL GENAPPE (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20240120T143000Z
+DTEND;VALUE=DATE-TIME:20240120T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_6E_15_402_401
+DESCRIPTION:Terrain synthétique: non\nCode terrain: N04\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Bridoux J.F. (0455.12.12.65 - fci.secretary.me
+ ns@outlook.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à Nossegem
+ \, au premier croisement prendre à gauche la \nMechelsesteenweg. Le terra
+ in est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\
+ , prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelseste
+ enweg\, traverser la chaussée de Louvain\, et suivre comme ci-avant.\n\nV
+ érifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.88776559999999;4.50894
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER;CN="Bridoux J.F.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@out
+ look.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J16: BOUSVAL GENAPPE (Eq. 3) vs TIGRE (LE) FC
+DTSTART;VALUE=DATE-TIME:20240127T130000Z
+DTEND;VALUE=DATE-TIME:20240127T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_6E_16_401_237
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Orange
+ \n\nContact équipe domicile: Gossiaux S. (0473.44.25.52 - gossiaux_sebast
+ ien@hotmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring O
+ uest\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Ch
+ arleroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, trav
+ erser le carrefour\, tout droit direction route du sucre.\n\nVérifiez tou
+ jours ces infos sur http://www.abssa.be/
+GEO:50.6007528;4.4472782
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER;CN="Gossiaux S.";ROLE=Secrétaire:MAILTO:gossiaux_sebastien@hotm
+ ail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J17: BRITISH UNITED (Eq. 7) vs BOUSVAL GENAPPE (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20240203T143000Z
+DTEND;VALUE=DATE-TIME:20240203T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_6E_17_132_401
+DESCRIPTION:Terrain synthétique: non\nCode terrain: M02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gillesvanders
+ eypen@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Anvers (E19) sort
+ ie Mechelen-Noord (n° 9) En arrivant dans le centre\, suivre la direction
+  "Heist-op-den-Berg" Aller tout droit et passer le viaduc du chemin de fer
+ . Après 1 km. suivre les flèches "De Nekker". Garer les voitures à l'ex
+ térieur du complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terrai
+ n.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:51.0254354;4.503786799999999
+LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
+ ue
+ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
+ gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J19: BOUSVAL GENAPPE (Eq. 3) vs KARIA FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240217T130000Z
+DTEND;VALUE=DATE-TIME:20240217T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_6E_19_401_498
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Gossiaux S. (0473.44.25.52 - gossiaux_sebastie
+ n@hotmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring Oue
+ st\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Char
+ leroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traver
+ ser le carrefour\, tout droit direction route du sucre.\n\nVérifiez toujo
+ urs ces infos sur http://www.abssa.be/
+GEO:50.6007528;4.4472782
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER;CN="Gossiaux S.";ROLE=Secrétaire:MAILTO:gossiaux_sebastien@hotm
+ ail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J26: CHENOIS (ESPER) (Eq. 2) vs BOUSVAL GENAPPE (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20240224T140000Z
+DTEND;VALUE=DATE-TIME:20240224T153000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_6E_26_412_401
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W02\n\nCouleur princi
+ pale équipe domicile: Blanc et rouge\nCouleur principale équipe exterieu
+ re: Bleu\n\nContact équipe domicile: Gioffredi G. (0474.24.92.27 - 412fce
+ c@gmail.com)\n\nAccès voiture : Venant d'Uccle\, prendre la chaussée de 
+ Waterloo\, ensuite la chaussée de Bruxelles\, continuer jusqu'à la place
+  E. Vandevelde (intersection de la chaussée de Bruxelles avec la chaussé
+ e de Tervuren à Joli-Bois). Au feu de signalisation prendre à droite la 
+ chaussée Bara. Le terrain se trouve à droite à +/- 500 m.\n\nVérifiez 
+ toujours ces infos sur http://www.abssa.be/
+GEO:50.701676;4.397567
+LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
+ORGANIZER;CN="Gioffredi G.";ROLE=Secrétaire:MAILTO:412fcec@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J23: BOUSVAL GENAPPE (Eq. 3) vs NIVELLES AS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240302T130000Z
+DTEND;VALUE=DATE-TIME:20240302T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_6E_23_401_306
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Orange
+  fluo\n\nContact équipe domicile: Gossiaux S. (0473.44.25.52 - gossiaux_s
+ ebastien@hotmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le R
+ ing Ouest\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxell
+ es-Charleroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\,
+  traverser le carrefour\, tout droit direction route du sucre.\n\nVérifie
+ z toujours ces infos sur http://www.abssa.be/
+GEO:50.6007528;4.4472782
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER;CN="Gossiaux S.";ROLE=Secrétaire:MAILTO:gossiaux_sebastien@hotm
+ ail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J20: CORNAC UNITED FC (Eq. 2) vs BOUSVAL GENAPPE (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20240309T113000Z
+DTEND;VALUE=DATE-TIME:20240309T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_6E_20_151_401
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A01\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Denayer M. (0476.53.14.48 - marcdenayermd@gma
+ il.com)\n\nAccès voiture : Par le Ring Ouest\, direction Paris\, sortie W
+ estland Shopping Center (n° 14) continuer tout droit\, remonter vers le R
+ ing et prendre à droite pour sortir vers Itterbeek. Prendre l'avenue d'It
+ terbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. Le terrain se 
+ trouve à gauche\, entre l'école Van Belle et Veeweyde.\n\nVérifiez touj
+ ours ces infos sur http://www.abssa.be/
+GEO:50.8354396;4.2768611
+LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
+ORGANIZER;CN="Denayer M.";ROLE=Secrétaire:MAILTO:marcdenayermd@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J21: BOUSVAL GENAPPE (Eq. 3) vs CHEVERNY SCHAERB (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240316T130000Z
+DTEND;VALUE=DATE-TIME:20240316T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_6E_21_401_128
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Jaune\
+ n\nContact équipe domicile: Gossiaux S. (0473.44.25.52 - gossiaux_sebasti
+ en@hotmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring Ou
+ est\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Cha
+ rleroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, trave
+ rser le carrefour\, tout droit direction route du sucre.\n\nVérifiez touj
+ ours ces infos sur http://www.abssa.be/
+GEO:50.6007528;4.4472782
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER;CN="Gossiaux S.";ROLE=Secrétaire:MAILTO:gossiaux_sebastien@hotm
+ ail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J22: FAUBOURG-BRAINOISE (Eq. 2) vs BOUSVAL GENAPPE (Eq. 
+ 3)
+DTSTART;VALUE=DATE-TIME:20240323T123000Z
+DTEND;VALUE=DATE-TIME:20240323T140000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_6E_22_100_401
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Herpain D. (0474.79.02.18 - daniel.herpain@sk
+ ynet.be)\n\nAccès voiture : En venant de Bruxelles\, emprunter la chauss
+ ée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit carre
+ four (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chaussée\, 
+ au deuxième feu de signalisation\, prendre à droite\, le terrain se trou
+ ve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur http://w
+ ww.abssa.be/
+GEO:50.6827211;4.3844421
+LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud\, Belgique
+ORGANIZER;CN="Herpain D.";ROLE=Secrétaire:MAILTO:daniel.herpain@skynet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J25: BOUSVAL GENAPPE (Eq. 3) vs WATERMAEL CS
+DTSTART;VALUE=DATE-TIME:20240406T120000Z
+DTEND;VALUE=DATE-TIME:20240406T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_6E_25_401_375
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge\
+ n\nContact équipe domicile: Gossiaux S. (0473.44.25.52 - gossiaux_sebasti
+ en@hotmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring Ou
+ est\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Cha
+ rleroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, trave
+ rser le carrefour\, tout droit direction route du sucre.\n\nVérifiez touj
+ ours ces infos sur http://www.abssa.be/
+GEO:50.6007528;4.4472782
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER;CN="Gossiaux S.";ROLE=Secrétaire:MAILTO:gossiaux_sebastien@hotm
+ ail.com
 END:VEVENT
 END:VCALENDAR

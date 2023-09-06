@@ -4,24 +4,8 @@
     "a": "Un outil pour visualiser les matchs d'ABSSA, une ligue de football amateur belge, en regroupant différentes informations dans un calendrier. Attention, cet outil est une aide proposée sans garantie de service. Il est possible que celui-ci soit un jour interrompu ou indisponible."
   },
   {
-    "q": "Comment ça marche?",
-    "a": "Les données du site web de l'ABSSA sont récupérées et puis combinées pour créer un calendrier via Python. Ensuite, ces calendriers sont affichés sur ce site web via JavaScript et React. Le code source de ces applications est disponible <a href=\"https://github.com/simonpicard/abssa-ical\" style=\"text-decoration: underline;\">ici</a> pour la récupération des données et <a href=\"https://github.com/simonpicard/calabssa.be\" style=\"text-decoration: underline;\">ici</a> pour leur présentation sur ce site."
-  },
-  {
-    "q": "Les données sont-elles à jour?",
-    "a": "Une mise à jour des données a eu lieu pour la dernière fois le 30/11/2022."
-  },
-  {
-    "q": "Tous les matchs sont-ils présents?",
-    "a": "Tous les matchs présent sur le site web de l'ABSSA seront affichés ici. Cependant, tout autre match ne sera pas affiché, c'est typiquement le cas pour les matchs remis."
-  },
-  {
     "q": "Toutes les informations à propos des matchs sont-elles correctes?",
-    "a": "En principe oui, vous pouvez toujours les vérifier via les liens directs vers le site de l'ABSSA dans les détails d'un match. Enfin, si une information est incorrecte sur le site de l'ABSSA, elle sera copiée telle quelle ici, pensez à en informer l'ABSSA si c'est le cas. Cela dit, l'exactitude des données n'est pas garantie."
-  },
-  {
-    "q": "J'aimerais avoir accès aux données brutes de l'ABSSA, est-ce possible?",
-    "a": "Oui, les données extraitent telles quelles sont disponibles <a href=\"https://github.com/simonpicard/abssa-ical/tree/main/data/01_raw\" style=\"text-decoration: underline;\">ici<a> et les données formatées <a href=\"https://github.com/simonpicard/abssa-ical/tree/main/data/03_primary\" style=\"text-decoration: underline;\">ici<a>"
+    "a": "Veillez à toujours vérifier sur le site de l'ABSSA. Enfin, si une information est incorrecte sur le site de l'ABSSA, elle sera copiée telle quelle ici, pensez à en informer l'ABSSA si c'est le cas. Cela dit, l'exactitude des données n'est pas garantie."
   },
   {
     "q": "J'ai une suggestion pour améliorer CalABSSA.",
@@ -37,10 +21,10 @@
   },
   {
     "q": "Pourquoi ai-je créé ce site web?",
-    "a": "À la base, j'avais créé un calendrier pour mon équipe, et une fois la logique implémentée, il était facile de le faire pour toutes les autres équipes. Ensuite, j'ai voulu apprendre à créer un site web en utilisant React, et ce projet m'a permis de pratiquer."
+    "a": "À la base, j'avais créé un calendrier pour mon équipe, ensuite je l'ai fait pour toutes les autres équipes. Ensuite, j'ai voulu apprendre à créer un site web en utilisant React, et ce projet m'a permis de pratiquer."
   },
   {
     "q": "Liens utiles",
-    "a": "<ul><li><a href=\"https://www.abssa.org/\" style=\"text-decoration: underline;\">abssa.org<a>: le site officiel de la Royale A.B.S.S.A.</li><li><a href=\"http://www.abssaratings.be/\" style=\"text-decoration: underline;\">abssaratings.be<a>: ABSSA Ratings applique la formule Elo au football en ABSSA.</li></ul>"
+    "a": "<ul><li><a href=\"https://www.abssa.be/\" style=\"text-decoration: underline;\">abssa.be<a>: le site officiel de la Royale A.B.S.S.A.</li><li><a href=\"http://www.abssaratings.be/\" style=\"text-decoration: underline;\">abssaratings.be<a>: ABSSA Ratings applique la formule Elo au football en ABSSA.</li></ul>"
   }
 ]

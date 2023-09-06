@@ -1,392 +1,668 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:39658786-cfea-4062-b994-37dc8a0f3c9b
-X-WR-CALDESC:Les matches de PATJES FC (eq. 1) en ABSSA.
-X-WR-CALNAME:ABSSA - PATJES FC (eq. 1) - 582
-X-WR-TIMEZONE:Europe/Brussels
+PRODID:582_1_patjes_fc
+X-WR-CALDESC:Les matches du club PATJES FC (equipe 1) en ABSSA.
+X-WR-CALNAME:ABSSA: PATJES FC (eq. 1)
 BEGIN:VEVENT
-SUMMARY:ABSSA D3B J2: PATJES FC vs RAPID MYMOL
-DTSTART:20220910T153000Z
-DTEND:20220910T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:edea9090-fc29-4237-8c82-8ddb7025863e
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge et blanc.\nCouleur principale équipe extérieur: Bleu et Jaune\
- n\nContact équipe domicile: STOOP G. (0474.29.87.37)\n\nAccès voiture : 
- En venant de Bruxelles\, prendre l'autoroute E411 en direction de Namur\, 
- prendre la sortie  Wavre (n° 6)\, tenir la droite et au bout de la bretel
- le\, prendre la direction d'Ottignies par la N238. Au 1èr feu de signalis
- ation continuer tout droit en passant devant Walibi (qui se trouve sur la 
- gauche) jusqu'à la sortie Limelette. Au bout de cette sortie\, en face du
-  Tennis Club La Palestre\, prendre à droite la rue Charles Dubois\, jusqu
- 'au carrefour principal. Continuer tout droit en traversant l'avenue Alber
- t 1èr. Passer en dessous du 1èr pont du chemin de fer et prendre la rue 
- de l'Europe jusqu'à la place de l'Europe. Traverser cette place par la dr
- oite. Au bout à gauche\, suivre l'avenue Jassans. Ensuite 1ère rue à ga
- uche\,  la rue Bustan (panneau F.C. Limelette). Continuer cette rue et pas
- ser en dessous du 2ème pont du chemin de fer. Après ce pont\, prendre to
- ut de suite à gauche l'avenue Demolder (panneau F.C. Limelette)\, en face
-  de l'étang du Buston. Suivre cette avenue jusqu'à la 4ème rue à droit
- e\, l'avenue des Mérisiers. Après 50 m. dans cette rue\, prendre à droi
- te l'avenue des Sorbiers (panneau du F.C. Limelette). L'entrée du terrain
-  est située 50 m. plus bas sur la gauche.
+SUMMARY:ABSSA D3C J10: PATJES FC vs VOGELPIK FC.
+DTSTART;VALUE=DATE-TIME:20230902T133000Z
+DTEND;VALUE=DATE-TIME:20230902T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3C_10_582_629
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc.\nCouleur principale équipe exterie
+ ure: Rouge et noir\n\nContact équipe domicile: Waucquez J-B (0472.08.73.9
+ 0 - fcpatjes@outlook.com)\n\nAccès voiture : En venant de Bruxelles\, pre
+ ndre l'autoroute E411 en direction de Namur\, prendre la sortie  Wavre (n
+ ° 6)\, tenir la droite et au bout de la bretelle\, prendre la direction d
+ 'Ottignies par la N238. Au 1èr feu de signalisation continuer tout droit 
+ en passant devant Walibi (qui se trouve sur la gauche) jusqu'à la sortie 
+ Limelette. Au bout de cette sortie\, en face du Tennis Club La Palestre\, 
+ prendre à droite la rue Charles Dubois\, jusqu'au carrefour principal. Co
+ ntinuer tout droit en traversant l'avenue Albert 1èr. Passer en dessous d
+ u 1èr pont du chemin de fer et prendre la rue de l'Europe jusqu'à la pla
+ ce de l'Europe. Traverser cette place par la droite. Au bout à gauche\, s
+ uivre l'avenue Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (pann
+ eau F.C. Limelette). Continuer cette rue et passer en dessous du 2ème pon
+ t du chemin de fer. Après ce pont\, prendre tout de suite à gauche l'ave
+ nue Demolder (panneau F.C. Limelette)\, en face de l'étang du Buston. Sui
+ vre cette avenue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers
+ . Après 50 m. dans cette rue\, prendre à droite l'avenue des Sorbiers (p
+ anneau du F.C. Limelette). L'entrée du terrain est située 50 m. plus bas
+  sur la gauche.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
 GEO:50.6762848;4.562820299999999
-LOCATION:Avenue des Sorbiers\, 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER:MAILTO:fcpatjes@outlook.com
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Waucquez J-B";ROLE=Secrétaire:MAILTO:fcpatjes@outlook.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3B J12: GREEN DEVILS vs PATJES FC
-DTSTART:20221126T133000Z
-DTEND:20221126T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:fe9afb00-2c16-4fcc-a819-33ed8ab3f99f
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe extérieur: Rouge et blanc.\n\nContac
- t équipe domicile: VANDENBROECK K. (0477.66.15.69)\n\nAccès voiture : Le
-  terrain se trouve derrière l'église St. Vincent
-GEO:50.8786351;4.3949376
-LOCATION:PARC ST. VINCENT (BON PASTEUR)\, Rue de Picardie\, 1140 Evere\, B
- elgique
-ORGANIZER:MAILTO:krvandenbroeck@hotmail.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3B J13: RAPID MYMOL vs PATJES FC
-DTSTART:20221203T140000Z
-DTEND:20221203T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:dde53ab2-84a8-45a3-a8da-6be862080312
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu et Jaune\nCouleur principale équipe extérieur: Rouge et blanc.\
- n\nContact équipe domicile: DELANGHE A. (0498.42.21.39)\n\nAccès voiture
-  : Ring de Bruxelles (RO)\, sortie n° 2. Prendre la direction Wezembeek-O
- ppem. Ensuite première rue à droite (Louis Marcelisstraat) puis la trois
- ième à droite (Sportpleinstraat).\nL'entrée au terrain se trouve à gau
- che entre les n° 16 et 24.\nPar la ville : A partir du rond point Montgom
- ery\, prendre l'Avenue de Broqueville\, toujours tout droit. Passez devant
-  le Shopping de Woluwé\, toujours tout droit\, passez devant le magasin "
- Carrefour"\, puis au 2ème feu de signalisation prendre à droite et ensui
- te tout droit. Au bout de la rue prendre à droite\, le terrain se trouve 
- à 100 mètres  sur la gauche.
-GEO:50.8424503;4.4865891
-LOCATION:Sportpleinstraat\, 20\, 1970 Wezembeek - Oppem\, Belgique
-ORGANIZER:MAILTO:rapidmymolabssa@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3B J14: PATJES FC vs PHARMA SC (Eq. 2)
-DTSTART:20221210T153000Z
-DTEND:20221210T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:60fba24a-5ce0-48c2-a9c7-644f15684302
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge et blanc.\nCouleur principale équipe extérieur: Jaune\n\nConta
- ct équipe domicile: STOOP G. (0474.29.87.37)\n\nAccès voiture : En venan
- t de Bruxelles\, prendre l'autoroute E411 en direction de Namur\, prendre 
- la sortie  Wavre (n° 6)\, tenir la droite et au bout de la bretelle\, pre
- ndre la direction d'Ottignies par la N238. Au 1èr feu de signalisation co
- ntinuer tout droit en passant devant Walibi (qui se trouve sur la gauche) 
- jusqu'à la sortie Limelette. Au bout de cette sortie\, en face du Tennis 
- Club La Palestre\, prendre à droite la rue Charles Dubois\, jusqu'au carr
- efour principal. Continuer tout droit en traversant l'avenue Albert 1èr. 
- Passer en dessous du 1èr pont du chemin de fer et prendre la rue de l'Eur
- ope jusqu'à la place de l'Europe. Traverser cette place par la droite. Au
-  bout à gauche\, suivre l'avenue Jassans. Ensuite 1ère rue à gauche\,  
- la rue Bustan (panneau F.C. Limelette). Continuer cette rue et passer en d
- essous du 2ème pont du chemin de fer. Après ce pont\, prendre tout de su
- ite à gauche l'avenue Demolder (panneau F.C. Limelette)\, en face de l'é
- tang du Buston. Suivre cette avenue jusqu'à la 4ème rue à droite\, l'av
- enue des Mérisiers. Après 50 m. dans cette rue\, prendre à droite l'ave
- nue des Sorbiers (panneau du F.C. Limelette). L'entrée du terrain est sit
- uée 50 m. plus bas sur la gauche.
-GEO:50.6762848;4.562820299999999
-LOCATION:Avenue des Sorbiers\, 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER:MAILTO:fcpatjes@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3B J15: BLEU-BLANC (ENT)R. vs PATJES FC
-DTSTART:20221217T153000Z
-DTEND:20221217T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:d47fe678-9810-49aa-967d-d87de3090e06
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu rayé de Blanc\nCouleur principale équipe extérieur: Rouge et b
- lanc.\n\nContact équipe domicile: MINEUR X. (0471.56.08.07)\n\nAccès voi
- ture : Avenue de Tervuren\, prendre l"avenue Parmentier\, puis 1ère rue 
- à main gauche.
+SUMMARY:ABSSA D3C J1: BLEU-BLANC (ENT)R. vs PATJES FC
+DTSTART;VALUE=DATE-TIME:20230909T133000Z
+DTEND;VALUE=DATE-TIME:20230909T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3C_1_53_582
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Bleu rayé de Blanc\nCouleur principale équipe ext
+ erieure: Rouge et blanc.\n\nContact équipe domicile: Mineur X. (0471.56.0
+ 8.07 - josexavier.mineur@gmail.com)\n\nAccès voiture : Avenue de Tervuren
+ \, prendre l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nVérifi
+ ez toujours ces infos sur http://www.abssa.be/
 GEO:50.8343279;4.4397562
-LOCATION:KELLE (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
  e\, Belgique
-ORGANIZER:MAILTO:josexavier.mineur@gmail.com
+ORGANIZER;CN="Mineur X.";ROLE=Secrétaire:MAILTO:josexavier.mineur@gmail.c
+ om
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3B J16: PATJES FC vs ASTURIAS SPORTING
-DTSTART:20230107T153000Z
-DTEND:20230107T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:481d3ad9-e8df-4255-9f90-b094d6897d9f
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge et blanc.\nCouleur principale équipe extérieur: Bleu ciel\n\nC
- ontact équipe domicile: STOOP G. (0474.29.87.37)\n\nAccès voiture : En v
- enant de Bruxelles\, prendre l'autoroute E411 en direction de Namur\, pren
- dre la sortie  Wavre (n° 6)\, tenir la droite et au bout de la bretelle\,
-  prendre la direction d'Ottignies par la N238. Au 1èr feu de signalisatio
- n continuer tout droit en passant devant Walibi (qui se trouve sur la gauc
- he) jusqu'à la sortie Limelette. Au bout de cette sortie\, en face du Ten
- nis Club La Palestre\, prendre à droite la rue Charles Dubois\, jusqu'au 
- carrefour principal. Continuer tout droit en traversant l'avenue Albert 1
- èr. Passer en dessous du 1èr pont du chemin de fer et prendre la rue de 
- l'Europe jusqu'à la place de l'Europe. Traverser cette place par la droit
- e. Au bout à gauche\, suivre l'avenue Jassans. Ensuite 1ère rue à gauch
- e\,  la rue Bustan (panneau F.C. Limelette). Continuer cette rue et passer
-  en dessous du 2ème pont du chemin de fer. Après ce pont\, prendre tout 
- de suite à gauche l'avenue Demolder (panneau F.C. Limelette)\, en face de
-  l'étang du Buston. Suivre cette avenue jusqu'à la 4ème rue à droite\,
-  l'avenue des Mérisiers. Après 50 m. dans cette rue\, prendre à droite 
- l'avenue des Sorbiers (panneau du F.C. Limelette). L'entrée du terrain es
- t située 50 m. plus bas sur la gauche.
+SUMMARY:ABSSA D3C J2: PATJES FC vs BRAINE-TERMINUS FC
+DTSTART;VALUE=DATE-TIME:20230916T133000Z
+DTEND;VALUE=DATE-TIME:20230916T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3C_2_582_537
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc.\nCouleur principale équipe exterie
+ ure: Jaune et rouge\n\nContact équipe domicile: Waucquez J-B (0472.08.73.
+ 90 - fcpatjes@outlook.com)\n\nAccès voiture : En venant de Bruxelles\, pr
+ endre l'autoroute E411 en direction de Namur\, prendre la sortie  Wavre (n
+ ° 6)\, tenir la droite et au bout de la bretelle\, prendre la direction d
+ 'Ottignies par la N238. Au 1èr feu de signalisation continuer tout droit 
+ en passant devant Walibi (qui se trouve sur la gauche) jusqu'à la sortie 
+ Limelette. Au bout de cette sortie\, en face du Tennis Club La Palestre\, 
+ prendre à droite la rue Charles Dubois\, jusqu'au carrefour principal. Co
+ ntinuer tout droit en traversant l'avenue Albert 1èr. Passer en dessous d
+ u 1èr pont du chemin de fer et prendre la rue de l'Europe jusqu'à la pla
+ ce de l'Europe. Traverser cette place par la droite. Au bout à gauche\, s
+ uivre l'avenue Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (pann
+ eau F.C. Limelette). Continuer cette rue et passer en dessous du 2ème pon
+ t du chemin de fer. Après ce pont\, prendre tout de suite à gauche l'ave
+ nue Demolder (panneau F.C. Limelette)\, en face de l'étang du Buston. Sui
+ vre cette avenue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers
+ . Après 50 m. dans cette rue\, prendre à droite l'avenue des Sorbiers (p
+ anneau du F.C. Limelette). L'entrée du terrain est située 50 m. plus bas
+  sur la gauche.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
 GEO:50.6762848;4.562820299999999
-LOCATION:Avenue des Sorbiers\, 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER:MAILTO:fcpatjes@outlook.com
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Waucquez J-B";ROLE=Secrétaire:MAILTO:fcpatjes@outlook.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3B J17: IRLANDE FC (Eq. 3) vs PATJES FC
-DTSTART:20230114T123000Z
-DTEND:20230114T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:3f0e858a-262e-4299-810b-36227c0b9c95
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe extérieur: Rouge et blanc.\n\nContac
- t équipe domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaus
- sée de Louvain jusqu'à Nossegem\, au premier croisement prendre à gauch
- e la \nMechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\n
- Par l'autoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\,
-  prendre à gauche la Mechelsesteenweg\, traverser la chaussée de Louvain
- \, et suivre comme ci-avant.
-GEO:50.8877772;4.5090761
-LOCATION:RADAR VLIEGHAVEN\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+SUMMARY:ABSSA D3C J3: GREZ AJ (Eq. 2) vs PATJES FC
+DTSTART;VALUE=DATE-TIME:20230923T133000Z
+DTEND;VALUE=DATE-TIME:20230923T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3C_3_514_582
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: G04\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge 
+ et blanc.\n\nContact équipe domicile: Vanhamme J. (0474.56.81.54 - jerome
+ .vanhamme@hotmail.com)\n\nAccès voiture : Autoroute Bruxelles-Namur (E411
+ ) prendre la sortie Louvain/Grez-Doiceau (n° 8). Prendre la RN25 en direc
+ tion de Louvain/Grez-Doiceau. Passer tout droit les deux premiers ronds-po
+ ints à l'issue de la RN 25. Au troisième rond-point prendre à droite. L
+ e terrain se trouve 150 m. plus loin à gauche de la rue du Stampia.\n\nV
+ érifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.744789;4.6969702
+LOCATION:Rue du Stampia\, 1390 Grez-Doiceau\, Belgique
+ORGANIZER;CN="Vanhamme J.";ROLE=Secrétaire:MAILTO:jerome.vanhamme@hotmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J4: PATJES FC vs RHINOCEROS
+DTSTART;VALUE=DATE-TIME:20230930T133000Z
+DTEND;VALUE=DATE-TIME:20230930T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3C_4_582_654
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc.\nCouleur principale équipe exterie
+ ure: Jaune\n\nContact équipe domicile: Waucquez J-B (0472.08.73.90 - fcpa
+ tjes@outlook.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'a
+ utoroute E411 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, t
+ enir la droite et au bout de la bretelle\, prendre la direction d'Ottignie
+ s par la N238. Au 1èr feu de signalisation continuer tout droit en passan
+ t devant Walibi (qui se trouve sur la gauche) jusqu'à la sortie Limelette
+ . Au bout de cette sortie\, en face du Tennis Club La Palestre\, prendre 
+ à droite la rue Charles Dubois\, jusqu'au carrefour principal. Continuer 
+ tout droit en traversant l'avenue Albert 1èr. Passer en dessous du 1èr p
+ ont du chemin de fer et prendre la rue de l'Europe jusqu'à la place de l'
+ Europe. Traverser cette place par la droite. Au bout à gauche\, suivre l'
+ avenue Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C.
+  Limelette). Continuer cette rue et passer en dessous du 2ème pont du che
+ min de fer. Après ce pont\, prendre tout de suite à gauche l'avenue Demo
+ lder (panneau F.C. Limelette)\, en face de l'étang du Buston. Suivre cett
+ e avenue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après
+  50 m. dans cette rue\, prendre à droite l'avenue des Sorbiers (panneau d
+ u F.C. Limelette). L'entrée du terrain est située 50 m. plus bas sur la 
+ gauche.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.6762848;4.562820299999999
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Waucquez J-B";ROLE=Secrétaire:MAILTO:fcpatjes@outlook.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J5: WELL TEAM vs PATJES FC
+DTSTART;VALUE=DATE-TIME:20231007T133000Z
+DTEND;VALUE=DATE-TIME:20231007T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3C_5_544_582
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Rouge et blanc.\n\nContact équipe domicile: Dayez M. (0472.61.95.08 - ma
+ rtindayez@hotmail.com)\n\nAccès voiture : A partir du square des Archiduc
+ s\, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifie
+ z toujours ces infos sur http://www.abssa.be/
+GEO:50.8059082;4.4137428
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Dayez M.";ROLE=Secrétaire:MAILTO:martindayez@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J6: PATJES FC vs IRLANDE FC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20231014T133000Z
+DTEND;VALUE=DATE-TIME:20231014T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3C_6_582_402
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc.\nCouleur principale équipe exterie
+ ure: Vert\n\nContact équipe domicile: Waucquez J-B (0472.08.73.90 - fcpat
+ jes@outlook.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'au
+ toroute E411 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, te
+ nir la droite et au bout de la bretelle\, prendre la direction d'Ottignies
+  par la N238. Au 1èr feu de signalisation continuer tout droit en passant
+  devant Walibi (qui se trouve sur la gauche) jusqu'à la sortie Limelette.
+  Au bout de cette sortie\, en face du Tennis Club La Palestre\, prendre à
+  droite la rue Charles Dubois\, jusqu'au carrefour principal. Continuer to
+ ut droit en traversant l'avenue Albert 1èr. Passer en dessous du 1èr pon
+ t du chemin de fer et prendre la rue de l'Europe jusqu'à la place de l'Eu
+ rope. Traverser cette place par la droite. Au bout à gauche\, suivre l'av
+ enue Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. L
+ imelette). Continuer cette rue et passer en dessous du 2ème pont du chemi
+ n de fer. Après ce pont\, prendre tout de suite à gauche l'avenue Demold
+ er (panneau F.C. Limelette)\, en face de l'étang du Buston. Suivre cette 
+ avenue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 5
+ 0 m. dans cette rue\, prendre à droite l'avenue des Sorbiers (panneau du 
+ F.C. Limelette). L'entrée du terrain est située 50 m. plus bas sur la ga
+ uche.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.6762848;4.562820299999999
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Waucquez J-B";ROLE=Secrétaire:MAILTO:fcpatjes@outlook.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J8: PATJES FC vs ETTEKIJS
+DTSTART;VALUE=DATE-TIME:20231021T133000Z
+DTEND;VALUE=DATE-TIME:20231021T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3C_8_582_343
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc.\nCouleur principale équipe exterie
+ ure: Noir\n\nContact équipe domicile: Waucquez J-B (0472.08.73.90 - fcpat
+ jes@outlook.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'au
+ toroute E411 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, te
+ nir la droite et au bout de la bretelle\, prendre la direction d'Ottignies
+  par la N238. Au 1èr feu de signalisation continuer tout droit en passant
+  devant Walibi (qui se trouve sur la gauche) jusqu'à la sortie Limelette.
+  Au bout de cette sortie\, en face du Tennis Club La Palestre\, prendre à
+  droite la rue Charles Dubois\, jusqu'au carrefour principal. Continuer to
+ ut droit en traversant l'avenue Albert 1èr. Passer en dessous du 1èr pon
+ t du chemin de fer et prendre la rue de l'Europe jusqu'à la place de l'Eu
+ rope. Traverser cette place par la droite. Au bout à gauche\, suivre l'av
+ enue Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. L
+ imelette). Continuer cette rue et passer en dessous du 2ème pont du chemi
+ n de fer. Après ce pont\, prendre tout de suite à gauche l'avenue Demold
+ er (panneau F.C. Limelette)\, en face de l'étang du Buston. Suivre cette 
+ avenue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 5
+ 0 m. dans cette rue\, prendre à droite l'avenue des Sorbiers (panneau du 
+ F.C. Limelette). L'entrée du terrain est située 50 m. plus bas sur la ga
+ uche.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.6762848;4.562820299999999
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Waucquez J-B";ROLE=Secrétaire:MAILTO:fcpatjes@outlook.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J24: PATJES FC vs REQUINS (LES)
+DTSTART;VALUE=DATE-TIME:20231028T133000Z
+DTEND;VALUE=DATE-TIME:20231028T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3C_24_582_556
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc.\nCouleur principale équipe exterie
+ ure: Noir\n\nContact équipe domicile: Waucquez J-B (0472.08.73.90 - fcpat
+ jes@outlook.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'au
+ toroute E411 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, te
+ nir la droite et au bout de la bretelle\, prendre la direction d'Ottignies
+  par la N238. Au 1èr feu de signalisation continuer tout droit en passant
+  devant Walibi (qui se trouve sur la gauche) jusqu'à la sortie Limelette.
+  Au bout de cette sortie\, en face du Tennis Club La Palestre\, prendre à
+  droite la rue Charles Dubois\, jusqu'au carrefour principal. Continuer to
+ ut droit en traversant l'avenue Albert 1èr. Passer en dessous du 1èr pon
+ t du chemin de fer et prendre la rue de l'Europe jusqu'à la place de l'Eu
+ rope. Traverser cette place par la droite. Au bout à gauche\, suivre l'av
+ enue Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. L
+ imelette). Continuer cette rue et passer en dessous du 2ème pont du chemi
+ n de fer. Après ce pont\, prendre tout de suite à gauche l'avenue Demold
+ er (panneau F.C. Limelette)\, en face de l'étang du Buston. Suivre cette 
+ avenue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 5
+ 0 m. dans cette rue\, prendre à droite l'avenue des Sorbiers (panneau du 
+ F.C. Limelette). L'entrée du terrain est située 50 m. plus bas sur la ga
+ uche.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.6762848;4.562820299999999
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Waucquez J-B";ROLE=Secrétaire:MAILTO:fcpatjes@outlook.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J7: SAINT GEORGES RCS vs PATJES FC
+DTSTART;VALUE=DATE-TIME:20231104T143000Z
+DTEND;VALUE=DATE-TIME:20231104T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3C_7_221_582
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
+  et blanc.\n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.
+ destin@gmail.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"avenu
+ e Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujours ces in
+ fos sur http://www.abssa.be/
+GEO:50.8343279;4.4397562
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J9: CHIEFS WSL (Eq. 2) vs PATJES FC
+DTSTART;VALUE=DATE-TIME:20231118T143000Z
+DTEND;VALUE=DATE-TIME:20231118T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3C_9_303_582
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
+  et blanc.\n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@des
+ an.be)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant 
+ ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ces infos su
+ r http://www.abssa.be/
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J12: TAURO FC (Eq. 2) vs PATJES FC
+DTSTART;VALUE=DATE-TIME:20231125T134500Z
+DTEND;VALUE=DATE-TIME:20231125T151500Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3C_12_574_582
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge 
+ et blanc.\n\nContact équipe domicile: Lietaer Y. (0484.16.30.31 - ylietae
+ r@gmail.com)\n\nAccès voiture : Place Meiser\, descendre le boulevard Lam
+ bermont. Au 3ème feu de signalisation prendre à gauche\, puis la premiè
+ re à droite.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8666341;4.3823667
+LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
+ aerbeek\, Belgique
+ORGANIZER;CN="Lietaer Y.";ROLE=Secrétaire:MAILTO:ylietaer@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J11: REQUINS (LES) vs PATJES FC
+DTSTART;VALUE=DATE-TIME:20231202T130000Z
+DTEND;VALUE=DATE-TIME:20231202T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3C_11_556_582
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge 
+ et blanc.\n\nContact équipe domicile: Barbe L. (0476.04.93.45 - louis.bar
+ be1@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'auto
+ route E411 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, teni
+ r la droite et au bout de la bretelle\, prendre la direction d'Ottignies p
+ ar la N238. Au 1èr feu de signalisation continuer tout droit en passant d
+ evant Walibi (qui se trouve sur la gauche) jusqu'à la sortie Limelette. A
+ u bout de cette sortie\, en face du Tennis Club La Palestre\, prendre à d
+ roite la rue Charles Dubois\, jusqu'au carrefour principal. Continuer tout
+  droit en traversant l'avenue Albert 1èr. Passer en dessous du 1èr pont 
+ du chemin de fer et prendre la rue de l'Europe jusqu'à la place de l'Euro
+ pe. Traverser cette place par la droite. Au bout à gauche\, suivre l'aven
+ ue Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Lim
+ elette). Continuer cette rue et passer en dessous du 2ème pont du chemin 
+ de fer. Après ce pont\, prendre tout de suite à gauche l'avenue Demolder
+  (panneau F.C. Limelette)\, en face de l'étang du Buston. Suivre cette av
+ enue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 
+ m. dans cette rue\, prendre à droite l'avenue des Sorbiers (panneau du F.
+ C. Limelette). L'entrée du terrain est située 50 m. plus bas sur la gauc
+ he.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.6762848;4.562820299999999
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Barbe L.";ROLE=Secrétaire:MAILTO:louis.barbe1@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J13: PATJES FC vs GREEN DEVILS
+DTSTART;VALUE=DATE-TIME:20231209T143000Z
+DTEND;VALUE=DATE-TIME:20231209T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3C_13_582_90
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc.\nCouleur principale équipe exterie
+ ure: Vert\n\nContact équipe domicile: Waucquez J-B (0472.08.73.90 - fcpat
+ jes@outlook.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'au
+ toroute E411 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, te
+ nir la droite et au bout de la bretelle\, prendre la direction d'Ottignies
+  par la N238. Au 1èr feu de signalisation continuer tout droit en passant
+  devant Walibi (qui se trouve sur la gauche) jusqu'à la sortie Limelette.
+  Au bout de cette sortie\, en face du Tennis Club La Palestre\, prendre à
+  droite la rue Charles Dubois\, jusqu'au carrefour principal. Continuer to
+ ut droit en traversant l'avenue Albert 1èr. Passer en dessous du 1èr pon
+ t du chemin de fer et prendre la rue de l'Europe jusqu'à la place de l'Eu
+ rope. Traverser cette place par la droite. Au bout à gauche\, suivre l'av
+ enue Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. L
+ imelette). Continuer cette rue et passer en dessous du 2ème pont du chemi
+ n de fer. Après ce pont\, prendre tout de suite à gauche l'avenue Demold
+ er (panneau F.C. Limelette)\, en face de l'étang du Buston. Suivre cette 
+ avenue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 5
+ 0 m. dans cette rue\, prendre à droite l'avenue des Sorbiers (panneau du 
+ F.C. Limelette). L'entrée du terrain est située 50 m. plus bas sur la ga
+ uche.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.6762848;4.562820299999999
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Waucquez J-B";ROLE=Secrétaire:MAILTO:fcpatjes@outlook.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J14: PATJES FC vs BLEU-BLANC (ENT)R.
+DTSTART;VALUE=DATE-TIME:20240113T143000Z
+DTEND;VALUE=DATE-TIME:20240113T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3C_14_582_53
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc.\nCouleur principale équipe exterie
+ ure: Bleu rayé de Blanc\n\nContact équipe domicile: Waucquez J-B (0472.0
+ 8.73.90 - fcpatjes@outlook.com)\n\nAccès voiture : En venant de Bruxelles
+ \, prendre l'autoroute E411 en direction de Namur\, prendre la sortie  Wav
+ re (n° 6)\, tenir la droite et au bout de la bretelle\, prendre la direct
+ ion d'Ottignies par la N238. Au 1èr feu de signalisation continuer tout d
+ roit en passant devant Walibi (qui se trouve sur la gauche) jusqu'à la so
+ rtie Limelette. Au bout de cette sortie\, en face du Tennis Club La Palest
+ re\, prendre à droite la rue Charles Dubois\, jusqu'au carrefour principa
+ l. Continuer tout droit en traversant l'avenue Albert 1èr. Passer en dess
+ ous du 1èr pont du chemin de fer et prendre la rue de l'Europe jusqu'à l
+ a place de l'Europe. Traverser cette place par la droite. Au bout à gauch
+ e\, suivre l'avenue Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan 
+ (panneau F.C. Limelette). Continuer cette rue et passer en dessous du 2èm
+ e pont du chemin de fer. Après ce pont\, prendre tout de suite à gauche 
+ l'avenue Demolder (panneau F.C. Limelette)\, en face de l'étang du Buston
+ . Suivre cette avenue jusqu'à la 4ème rue à droite\, l'avenue des Méri
+ siers. Après 50 m. dans cette rue\, prendre à droite l'avenue des Sorbie
+ rs (panneau du F.C. Limelette). L'entrée du terrain est située 50 m. plu
+ s bas sur la gauche.\n\nVérifiez toujours ces infos sur http://www.abssa.
+ be/
+GEO:50.6762848;4.562820299999999
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Waucquez J-B";ROLE=Secrétaire:MAILTO:fcpatjes@outlook.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J15: BRAINE-TERMINUS FC vs PATJES FC
+DTSTART;VALUE=DATE-TIME:20240120T143000Z
+DTEND;VALUE=DATE-TIME:20240120T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3C_15_537_582
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
+ pale équipe domicile: Jaune et rouge\nCouleur principale équipe exterieu
+ re: Rouge et blanc.\n\nContact équipe domicile: Dero G. (0479.81.83.27 - 
+ fcbraineterminus@gmail.com)\n\nAccès voiture : En venant de Bruxelles : A
+ utoroute Tournai - Lille (A8)\, prendre la sortie n° 24\, direction Rebec
+ q\, puis la N 6 Bruxelles-Mons en direction de Mons. Entrer dans l'agglom
+ ération de Braine-Le-Comte et prendre la 1ère rue à droite\, le terrain
+  se situe au bout de la rue.\nEn venant de Nivelles : Prendre la N533\, Ni
+ velles/Braine-Le-Comte. Entrer dans l'agglomération de Braine-Le-Comte et
+  suivre la direction de Bruxelles (N 6 Mons-Bruxelles)\, prendre la 1ère 
+ rue à gauche\, le terrain se situe au bout de la rue.\n\nVérifiez toujou
+ rs ces infos sur http://www.abssa.be/
+GEO:50.6193857;4.1352085
+LOCATION:Rue du Poseur 39\, 7090 Braine-Le-Comte\, Belgique
+ORGANIZER;CN="Dero G.";ROLE=Secrétaire:MAILTO:fcbraineterminus@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J16: PATJES FC vs GREZ AJ (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240127T143000Z
+DTEND;VALUE=DATE-TIME:20240127T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3C_16_582_514
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc.\nCouleur principale équipe exterie
+ ure: Noir\n\nContact équipe domicile: Waucquez J-B (0472.08.73.90 - fcpat
+ jes@outlook.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'au
+ toroute E411 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, te
+ nir la droite et au bout de la bretelle\, prendre la direction d'Ottignies
+  par la N238. Au 1èr feu de signalisation continuer tout droit en passant
+  devant Walibi (qui se trouve sur la gauche) jusqu'à la sortie Limelette.
+  Au bout de cette sortie\, en face du Tennis Club La Palestre\, prendre à
+  droite la rue Charles Dubois\, jusqu'au carrefour principal. Continuer to
+ ut droit en traversant l'avenue Albert 1èr. Passer en dessous du 1èr pon
+ t du chemin de fer et prendre la rue de l'Europe jusqu'à la place de l'Eu
+ rope. Traverser cette place par la droite. Au bout à gauche\, suivre l'av
+ enue Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. L
+ imelette). Continuer cette rue et passer en dessous du 2ème pont du chemi
+ n de fer. Après ce pont\, prendre tout de suite à gauche l'avenue Demold
+ er (panneau F.C. Limelette)\, en face de l'étang du Buston. Suivre cette 
+ avenue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 5
+ 0 m. dans cette rue\, prendre à droite l'avenue des Sorbiers (panneau du 
+ F.C. Limelette). L'entrée du terrain est située 50 m. plus bas sur la ga
+ uche.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.6762848;4.562820299999999
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Waucquez J-B";ROLE=Secrétaire:MAILTO:fcpatjes@outlook.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J17: RHINOCEROS vs PATJES FC
+DTSTART;VALUE=DATE-TIME:20240203T143000Z
+DTEND;VALUE=DATE-TIME:20240203T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3C_17_654_582
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L08\n\nCouleur princi
+ pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Rouge
+  et blanc.\n\nContact équipe domicile: Watteyne R. (0498.16.13.01 - robin
+ @watteyne.com)\n\nAccès voiture : Autoroute Bruxelles-Namur E411\, après
+  Wavre prendre la sortie Louvain-la-Neuve\, continuer sur la N4 direction 
+ Namur\, au premier rond-point prendre à droite vers la N250 et suivre "Bl
+ ocry/Hocaille". Après le second rond-point\, prendre à droite\, au carre
+ four\, la rue de l'Invasion\, puis de nouveau à droite. L'entrée du terr
+ ain ROS se trouve au bout de l'avenue.\n\nVérifiez toujours ces infos sur
+  http://www.abssa.be/
+GEO:50.6706953;4.5975173
+LOCATION:Terrain Royal Ottignies Stimont (Ros)\, Avenue de Lauzelle\, 1348
+  Louvain-La-Neuve\, Belgique
+ORGANIZER;CN="Watteyne R.";ROLE=Secrétaire:MAILTO:robin@watteyne.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J18: PATJES FC vs WELL TEAM
+DTSTART;VALUE=DATE-TIME:20240210T143000Z
+DTEND;VALUE=DATE-TIME:20240210T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3C_18_582_544
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc.\nCouleur principale équipe exterie
+ ure: Bleu marine\n\nContact équipe domicile: Waucquez J-B (0472.08.73.90 
+ - fcpatjes@outlook.com)\n\nAccès voiture : En venant de Bruxelles\, prend
+ re l'autoroute E411 en direction de Namur\, prendre la sortie  Wavre (n° 
+ 6)\, tenir la droite et au bout de la bretelle\, prendre la direction d'Ot
+ tignies par la N238. Au 1èr feu de signalisation continuer tout droit en 
+ passant devant Walibi (qui se trouve sur la gauche) jusqu'à la sortie Lim
+ elette. Au bout de cette sortie\, en face du Tennis Club La Palestre\, pre
+ ndre à droite la rue Charles Dubois\, jusqu'au carrefour principal. Conti
+ nuer tout droit en traversant l'avenue Albert 1èr. Passer en dessous du 1
+ èr pont du chemin de fer et prendre la rue de l'Europe jusqu'à la place 
+ de l'Europe. Traverser cette place par la droite. Au bout à gauche\, suiv
+ re l'avenue Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau
+  F.C. Limelette). Continuer cette rue et passer en dessous du 2ème pont d
+ u chemin de fer. Après ce pont\, prendre tout de suite à gauche l'avenue
+  Demolder (panneau F.C. Limelette)\, en face de l'étang du Buston. Suivre
+  cette avenue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. A
+ près 50 m. dans cette rue\, prendre à droite l'avenue des Sorbiers (pann
+ eau du F.C. Limelette). L'entrée du terrain est située 50 m. plus bas su
+ r la gauche.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.6762848;4.562820299999999
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Waucquez J-B";ROLE=Secrétaire:MAILTO:fcpatjes@outlook.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J19: IRLANDE FC (Eq. 3) vs PATJES FC
+DTSTART;VALUE=DATE-TIME:20240217T113000Z
+DTEND;VALUE=DATE-TIME:20240217T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3C_19_402_582
+DESCRIPTION:Terrain synthétique: non\nCode terrain: N04\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Rouge 
+ et blanc.\n\nContact équipe domicile: Bridoux J.F. (0455.12.12.65 - fci.s
+ ecretary.mens@outlook.com)\n\nAccès voiture : Chaussée de Louvain jusqu'
+ à Nossegem\, au premier croisement prendre à gauche la \nMechelsesteenwe
+ g. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxel
+ les-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la 
+ Mechelsesteenweg\, traverser la chaussée de Louvain\, et suivre comme ci-
+ avant.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.88776559999999;4.50894
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
+ORGANIZER;CN="Bridoux J.F.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@out
+ look.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3B J18: PATJES FC vs CHARLES-QUINT FC
-DTSTART:20230121T153000Z
-DTEND:20230121T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:04b54eb8-f5a5-4749-b467-fa534a3766c0
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge et blanc.\nCouleur principale équipe extérieur: Bleu marine\n\
- nContact équipe domicile: STOOP G. (0474.29.87.37)\n\nAccès voiture : En
-  venant de Bruxelles\, prendre l'autoroute E411 en direction de Namur\, pr
- endre la sortie  Wavre (n° 6)\, tenir la droite et au bout de la bretelle
- \, prendre la direction d'Ottignies par la N238. Au 1èr feu de signalisat
- ion continuer tout droit en passant devant Walibi (qui se trouve sur la ga
- uche) jusqu'à la sortie Limelette. Au bout de cette sortie\, en face du T
- ennis Club La Palestre\, prendre à droite la rue Charles Dubois\, jusqu'a
- u carrefour principal. Continuer tout droit en traversant l'avenue Albert 
- 1èr. Passer en dessous du 1èr pont du chemin de fer et prendre la rue de
-  l'Europe jusqu'à la place de l'Europe. Traverser cette place par la droi
- te. Au bout à gauche\, suivre l'avenue Jassans. Ensuite 1ère rue à gauc
- he\,  la rue Bustan (panneau F.C. Limelette). Continuer cette rue et passe
- r en dessous du 2ème pont du chemin de fer. Après ce pont\, prendre tout
-  de suite à gauche l'avenue Demolder (panneau F.C. Limelette)\, en face d
- e l'étang du Buston. Suivre cette avenue jusqu'à la 4ème rue à droite\
- , l'avenue des Mérisiers. Après 50 m. dans cette rue\, prendre à droite
-  l'avenue des Sorbiers (panneau du F.C. Limelette). L'entrée du terrain e
- st située 50 m. plus bas sur la gauche.
+SUMMARY:ABSSA D3C J26: GREEN DEVILS vs PATJES FC
+DTSTART;VALUE=DATE-TIME:20240224T130000Z
+DTEND;VALUE=DATE-TIME:20240224T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3C_26_90_582
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E08\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Rouge 
+ et blanc.\n\nContact équipe domicile: Vandenbroeck K. (0477.66.15.69 - kr
+ vandenbroeck@hotmail.be)\n\nAccès voiture : Le terrain se trouve derrièr
+ e l'église St. Vincent\n\nVérifiez toujours ces infos sur http://www.abs
+ sa.be/
+GEO:50.88086790000001;4.396579099999999
+LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue Stroobants 75\, 1140 Evere\,
+  Belgique
+ORGANIZER;CN="Vandenbroeck K.";ROLE=Secrétaire:MAILTO:krvandenbroeck@hotm
+ ail.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J23: VOGELPIK FC. vs PATJES FC
+DTSTART;VALUE=DATE-TIME:20240302T143000Z
+DTEND;VALUE=DATE-TIME:20240302T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3C_23_629_582
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L08\n\nCouleur princi
+ pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
+ e: Rouge et blanc.\n\nContact équipe domicile: Nolet P (0486.56.82.31 - p
+ ierrenolet91@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Namur E411
+ \, après Wavre prendre la sortie Louvain-la-Neuve\, continuer sur la N4 d
+ irection Namur\, au premier rond-point prendre à droite vers la N250 et s
+ uivre "Blocry/Hocaille". Après le second rond-point\, prendre à droite\,
+  au carrefour\, la rue de l'Invasion\, puis de nouveau à droite. L'entré
+ e du terrain ROS se trouve au bout de l'avenue.\n\nVérifiez toujours ces 
+ infos sur http://www.abssa.be/
+GEO:50.6706953;4.5975173
+LOCATION:Terrain Royal Ottignies Stimont (Ros)\, Avenue de Lauzelle\, 1348
+  Louvain-La-Neuve\, Belgique
+ORGANIZER;CN="Nolet P";ROLE=Secrétaire:MAILTO:pierrenolet91@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J20: PATJES FC vs SAINT GEORGES RCS
+DTSTART;VALUE=DATE-TIME:20240309T143000Z
+DTEND;VALUE=DATE-TIME:20240309T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3C_20_582_221
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc.\nCouleur principale équipe exterie
+ ure: Blanc\n\nContact équipe domicile: Waucquez J-B (0472.08.73.90 - fcpa
+ tjes@outlook.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'a
+ utoroute E411 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, t
+ enir la droite et au bout de la bretelle\, prendre la direction d'Ottignie
+ s par la N238. Au 1èr feu de signalisation continuer tout droit en passan
+ t devant Walibi (qui se trouve sur la gauche) jusqu'à la sortie Limelette
+ . Au bout de cette sortie\, en face du Tennis Club La Palestre\, prendre 
+ à droite la rue Charles Dubois\, jusqu'au carrefour principal. Continuer 
+ tout droit en traversant l'avenue Albert 1èr. Passer en dessous du 1èr p
+ ont du chemin de fer et prendre la rue de l'Europe jusqu'à la place de l'
+ Europe. Traverser cette place par la droite. Au bout à gauche\, suivre l'
+ avenue Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C.
+  Limelette). Continuer cette rue et passer en dessous du 2ème pont du che
+ min de fer. Après ce pont\, prendre tout de suite à gauche l'avenue Demo
+ lder (panneau F.C. Limelette)\, en face de l'étang du Buston. Suivre cett
+ e avenue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après
+  50 m. dans cette rue\, prendre à droite l'avenue des Sorbiers (panneau d
+ u F.C. Limelette). L'entrée du terrain est située 50 m. plus bas sur la 
+ gauche.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
 GEO:50.6762848;4.562820299999999
-LOCATION:Avenue des Sorbiers\, 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER:MAILTO:fcpatjes@outlook.com
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Waucquez J-B";ROLE=Secrétaire:MAILTO:fcpatjes@outlook.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3B J19: FOOT JOSAPHAT vs PATJES FC
-DTSTART:20230128T150000Z
-DTEND:20230128T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:fd65a398-00ed-44e4-8cbc-9288e5921c98
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Gris\nCouleur principale équipe extérieur: Rouge et blanc.\n\nContac
- t équipe domicile: EL YOUSSEFI J. (0488.30.74.66)\n\nAccès voiture : Pla
- ce Meiser\, descendre le boulevard Lambermont. Au 3ème feu de signalisati
- on prendre à gauche\, puis la première à droite.
-GEO:50.8666244;4.382361899999999
-LOCATION:STADE DU CROSSING\, Avenue du Suffrage Universel\, 22/24\, 1030 S
- chaerbeek\, Belgique
-ORGANIZER:MAILTO:jawad.ely@hotmail.com
+SUMMARY:ABSSA D3C J21: ETTEKIJS vs PATJES FC
+DTSTART;VALUE=DATE-TIME:20240316T113000Z
+DTEND;VALUE=DATE-TIME:20240316T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3C_21_343_582
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge 
+ et blanc.\n\nContact équipe domicile: Raes F. (0479.73.82.49 - freddy.rae
+ s@gmail.com)\n\nAccès voiture : A partir du square des Archiducs\, prendr
+ e la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez toujours
+  ces infos sur http://www.abssa.be/
+GEO:50.8059082;4.4137428
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3B J20: PATJES FC vs SAINT GEORGES RCS
-DTSTART:20230204T153000Z
-DTEND:20230204T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:874b3598-2453-4e9b-ac39-cd5632733730
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge et blanc.\nCouleur principale équipe extérieur: Blanc\n\nConta
- ct équipe domicile: STOOP G. (0474.29.87.37)\n\nAccès voiture : En venan
- t de Bruxelles\, prendre l'autoroute E411 en direction de Namur\, prendre 
- la sortie  Wavre (n° 6)\, tenir la droite et au bout de la bretelle\, pre
- ndre la direction d'Ottignies par la N238. Au 1èr feu de signalisation co
- ntinuer tout droit en passant devant Walibi (qui se trouve sur la gauche) 
- jusqu'à la sortie Limelette. Au bout de cette sortie\, en face du Tennis 
- Club La Palestre\, prendre à droite la rue Charles Dubois\, jusqu'au carr
- efour principal. Continuer tout droit en traversant l'avenue Albert 1èr. 
- Passer en dessous du 1èr pont du chemin de fer et prendre la rue de l'Eur
- ope jusqu'à la place de l'Europe. Traverser cette place par la droite. Au
-  bout à gauche\, suivre l'avenue Jassans. Ensuite 1ère rue à gauche\,  
- la rue Bustan (panneau F.C. Limelette). Continuer cette rue et passer en d
- essous du 2ème pont du chemin de fer. Après ce pont\, prendre tout de su
- ite à gauche l'avenue Demolder (panneau F.C. Limelette)\, en face de l'é
- tang du Buston. Suivre cette avenue jusqu'à la 4ème rue à droite\, l'av
- enue des Mérisiers. Après 50 m. dans cette rue\, prendre à droite l'ave
- nue des Sorbiers (panneau du F.C. Limelette). L'entrée du terrain est sit
- uée 50 m. plus bas sur la gauche.
+SUMMARY:ABSSA D3C J22: PATJES FC vs CHIEFS WSL (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240323T143000Z
+DTEND;VALUE=DATE-TIME:20240323T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3C_22_582_303
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc.\nCouleur principale équipe exterie
+ ure: Blanc\n\nContact équipe domicile: Waucquez J-B (0472.08.73.90 - fcpa
+ tjes@outlook.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'a
+ utoroute E411 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, t
+ enir la droite et au bout de la bretelle\, prendre la direction d'Ottignie
+ s par la N238. Au 1èr feu de signalisation continuer tout droit en passan
+ t devant Walibi (qui se trouve sur la gauche) jusqu'à la sortie Limelette
+ . Au bout de cette sortie\, en face du Tennis Club La Palestre\, prendre 
+ à droite la rue Charles Dubois\, jusqu'au carrefour principal. Continuer 
+ tout droit en traversant l'avenue Albert 1èr. Passer en dessous du 1èr p
+ ont du chemin de fer et prendre la rue de l'Europe jusqu'à la place de l'
+ Europe. Traverser cette place par la droite. Au bout à gauche\, suivre l'
+ avenue Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C.
+  Limelette). Continuer cette rue et passer en dessous du 2ème pont du che
+ min de fer. Après ce pont\, prendre tout de suite à gauche l'avenue Demo
+ lder (panneau F.C. Limelette)\, en face de l'étang du Buston. Suivre cett
+ e avenue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après
+  50 m. dans cette rue\, prendre à droite l'avenue des Sorbiers (panneau d
+ u F.C. Limelette). L'entrée du terrain est située 50 m. plus bas sur la 
+ gauche.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
 GEO:50.6762848;4.562820299999999
-LOCATION:Avenue des Sorbiers\, 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER:MAILTO:fcpatjes@outlook.com
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Waucquez J-B";ROLE=Secrétaire:MAILTO:fcpatjes@outlook.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3B J21: COPAINS REUNIS vs PATJES FC
-DTSTART:20230211T153000Z
-DTEND:20230211T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:547dd6ee-b2ef-4b5f-b32e-4e99b2f1c1b0
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune\nCouleur principale équipe extérieur: Rouge et blanc.\n\nConta
- ct équipe domicile: VANDERMEULEN J. (0477.50.45.95)\n\nAccès voiture : E
- n venant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea
- )\, prendre la direction du cimetière d'Anderlecht\, emprunter le Bouleva
- rd Josse Leemans\, au rond-point prendre la sortie pour la rue du Chant d'
- Oiseaux (Vogelenzang). L'entrée du complexe et des terrains se situe à +
- /- 500 m. sur la gauche.
-GEO:50.8114933;4.2763364
-LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:meulenj@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3B J22: PATJES FC vs GREEN DEVILS
-DTSTART:20230225T153000Z
-DTEND:20230225T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:60e510d3-5c60-4a51-9939-6c0c07c2316f
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge et blanc.\nCouleur principale équipe extérieur: Vert\n\nContac
- t équipe domicile: STOOP G. (0474.29.87.37)\n\nAccès voiture : En venant
-  de Bruxelles\, prendre l'autoroute E411 en direction de Namur\, prendre l
- a sortie  Wavre (n° 6)\, tenir la droite et au bout de la bretelle\, pren
- dre la direction d'Ottignies par la N238. Au 1èr feu de signalisation con
- tinuer tout droit en passant devant Walibi (qui se trouve sur la gauche) j
- usqu'à la sortie Limelette. Au bout de cette sortie\, en face du Tennis C
- lub La Palestre\, prendre à droite la rue Charles Dubois\, jusqu'au carre
- four principal. Continuer tout droit en traversant l'avenue Albert 1èr. P
- asser en dessous du 1èr pont du chemin de fer et prendre la rue de l'Euro
- pe jusqu'à la place de l'Europe. Traverser cette place par la droite. Au 
- bout à gauche\, suivre l'avenue Jassans. Ensuite 1ère rue à gauche\,  l
- a rue Bustan (panneau F.C. Limelette). Continuer cette rue et passer en de
- ssous du 2ème pont du chemin de fer. Après ce pont\, prendre tout de sui
- te à gauche l'avenue Demolder (panneau F.C. Limelette)\, en face de l'ét
- ang du Buston. Suivre cette avenue jusqu'à la 4ème rue à droite\, l'ave
- nue des Mérisiers. Après 50 m. dans cette rue\, prendre à droite l'aven
- ue des Sorbiers (panneau du F.C. Limelette). L'entrée du terrain est situ
- ée 50 m. plus bas sur la gauche.
+SUMMARY:ABSSA D3C J25: PATJES FC vs TAURO FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240406T133000Z
+DTEND;VALUE=DATE-TIME:20240406T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3C_25_582_574
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc.\nCouleur principale équipe exterie
+ ure: Noir\n\nContact équipe domicile: Waucquez J-B (0472.08.73.90 - fcpat
+ jes@outlook.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'au
+ toroute E411 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, te
+ nir la droite et au bout de la bretelle\, prendre la direction d'Ottignies
+  par la N238. Au 1èr feu de signalisation continuer tout droit en passant
+  devant Walibi (qui se trouve sur la gauche) jusqu'à la sortie Limelette.
+  Au bout de cette sortie\, en face du Tennis Club La Palestre\, prendre à
+  droite la rue Charles Dubois\, jusqu'au carrefour principal. Continuer to
+ ut droit en traversant l'avenue Albert 1èr. Passer en dessous du 1èr pon
+ t du chemin de fer et prendre la rue de l'Europe jusqu'à la place de l'Eu
+ rope. Traverser cette place par la droite. Au bout à gauche\, suivre l'av
+ enue Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. L
+ imelette). Continuer cette rue et passer en dessous du 2ème pont du chemi
+ n de fer. Après ce pont\, prendre tout de suite à gauche l'avenue Demold
+ er (panneau F.C. Limelette)\, en face de l'étang du Buston. Suivre cette 
+ avenue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 5
+ 0 m. dans cette rue\, prendre à droite l'avenue des Sorbiers (panneau du 
+ F.C. Limelette). L'entrée du terrain est située 50 m. plus bas sur la ga
+ uche.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
 GEO:50.6762848;4.562820299999999
-LOCATION:Avenue des Sorbiers\, 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER:MAILTO:fcpatjes@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3B J23: PATJES FC vs RAPID TAMTAM FC.
-DTSTART:20230304T153000Z
-DTEND:20230304T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:09cbd6b6-0103-4413-8ffc-d2559ebdfdbf
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge et blanc.\nCouleur principale équipe extérieur: Jaune et rose\
- n\nContact équipe domicile: STOOP G. (0474.29.87.37)\n\nAccès voiture : 
- En venant de Bruxelles\, prendre l'autoroute E411 en direction de Namur\, 
- prendre la sortie  Wavre (n° 6)\, tenir la droite et au bout de la bretel
- le\, prendre la direction d'Ottignies par la N238. Au 1èr feu de signalis
- ation continuer tout droit en passant devant Walibi (qui se trouve sur la 
- gauche) jusqu'à la sortie Limelette. Au bout de cette sortie\, en face du
-  Tennis Club La Palestre\, prendre à droite la rue Charles Dubois\, jusqu
- 'au carrefour principal. Continuer tout droit en traversant l'avenue Alber
- t 1èr. Passer en dessous du 1èr pont du chemin de fer et prendre la rue 
- de l'Europe jusqu'à la place de l'Europe. Traverser cette place par la dr
- oite. Au bout à gauche\, suivre l'avenue Jassans. Ensuite 1ère rue à ga
- uche\,  la rue Bustan (panneau F.C. Limelette). Continuer cette rue et pas
- ser en dessous du 2ème pont du chemin de fer. Après ce pont\, prendre to
- ut de suite à gauche l'avenue Demolder (panneau F.C. Limelette)\, en face
-  de l'étang du Buston. Suivre cette avenue jusqu'à la 4ème rue à droit
- e\, l'avenue des Mérisiers. Après 50 m. dans cette rue\, prendre à droi
- te l'avenue des Sorbiers (panneau du F.C. Limelette). L'entrée du terrain
-  est située 50 m. plus bas sur la gauche.
-GEO:50.6762848;4.562820299999999
-LOCATION:Avenue des Sorbiers\, 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER:MAILTO:fcpatjes@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3B J24: FORESTOISE E.J. vs PATJES FC
-DTSTART:20230311T153000Z
-DTEND:20230311T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:63aaef30-9594-4f7f-af6c-f8aab9991bde
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu Ciel\nCouleur principale équipe extérieur: Rouge et blanc.\n\nC
- ontact équipe domicile: EL YAMANI Y. (0474.75.75.02)\n\nAccès voiture : 
- Au départ de la Place St. Denis à Forest prendre la chaussée de Neersta
- lle jusqu'à la rue de la Soierie (4ème rue à droite) et dans la rue de 
- la Soierie rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armé
- e Britannique) pendant env. 500 m. L'entrée du Complexe se trouve à haut
- eur de City Cart\, à gauche de la route.
-GEO:50.8005447;4.3095283
-LOCATION:COMPLEXE SPORTIF DU BEMPT\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER:MAILTO:yahyaelyamani96@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3B J25: NEW INN FC (Eq. 2) vs PATJES FC
-DTSTART:20230318T153000Z
-DTEND:20230318T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:ab7f2059-9e54-4827-a53a-87f53e7e38a8
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rose\nCouleur principale équipe extérieur: Rouge et blanc.\n\nContac
- t équipe domicile: CORNIL B. (0494.16.15.11)\n\nAccès voiture : Au dépa
- rt de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la so
- rtie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anc
- iens Combattants. Juste après le carrefour avec des feux de signalisation
-  prendre à droite vers la Place de la Chapelle\, puis prendre la 4ème ru
- e à main droite (rue au Bois). Le terrain se trouve à 300 m. sur la droi
- te.
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:bencornil@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3B J26: PATJES FC vs BLEU-BLANC (ENT)R.
-DTSTART:20230325T153000Z
-DTEND:20230325T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:46ba34ce-28f9-467c-9375-2223cada49dc
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge et blanc.\nCouleur principale équipe extérieur: Bleu rayé de 
- Blanc\n\nContact équipe domicile: STOOP G. (0474.29.87.37)\n\nAccès voit
- ure : En venant de Bruxelles\, prendre l'autoroute E411 en direction de Na
- mur\, prendre la sortie  Wavre (n° 6)\, tenir la droite et au bout de la 
- bretelle\, prendre la direction d'Ottignies par la N238. Au 1èr feu de si
- gnalisation continuer tout droit en passant devant Walibi (qui se trouve s
- ur la gauche) jusqu'à la sortie Limelette. Au bout de cette sortie\, en f
- ace du Tennis Club La Palestre\, prendre à droite la rue Charles Dubois\,
-  jusqu'au carrefour principal. Continuer tout droit en traversant l'avenue
-  Albert 1èr. Passer en dessous du 1èr pont du chemin de fer et prendre l
- a rue de l'Europe jusqu'à la place de l'Europe. Traverser cette place par
-  la droite. Au bout à gauche\, suivre l'avenue Jassans. Ensuite 1ère rue
-  à gauche\,  la rue Bustan (panneau F.C. Limelette). Continuer cette rue 
- et passer en dessous du 2ème pont du chemin de fer. Après ce pont\, pren
- dre tout de suite à gauche l'avenue Demolder (panneau F.C. Limelette)\, e
- n face de l'étang du Buston. Suivre cette avenue jusqu'à la 4ème rue à
-  droite\, l'avenue des Mérisiers. Après 50 m. dans cette rue\, prendre 
- à droite l'avenue des Sorbiers (panneau du F.C. Limelette). L'entrée du 
- terrain est située 50 m. plus bas sur la gauche.
-GEO:50.6762848;4.562820299999999
-LOCATION:Avenue des Sorbiers\, 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER:MAILTO:fcpatjes@outlook.com
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Waucquez J-B";ROLE=Secrétaire:MAILTO:fcpatjes@outlook.com
 END:VEVENT
 END:VCALENDAR

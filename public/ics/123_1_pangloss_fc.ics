@@ -1,292 +1,477 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:a3c1cc52-565a-459f-af55-cad3382d6d1c
-X-WR-CALDESC:Les matches de PANGLOSS FC (eq. 1) en ABSSA.
-X-WR-CALNAME:ABSSA - PANGLOSS FC (eq. 1) - 123
-X-WR-TIMEZONE:Europe/Brussels
+PRODID:123_1_pangloss_fc
+X-WR-CALDESC:Les matches du club PANGLOSS FC (equipe 1) en ABSSA.
+X-WR-CALNAME:ABSSA: PANGLOSS FC (eq. 1)
 BEGIN:VEVENT
-SUMMARY:ABSSA D4C J2: PANGLOSS FC vs NEW ARQUOIS FC (Eq. 2)
-DTSTART:20220910T140000Z
-DTEND:20220910T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:c356ca4f-2620-4904-9a09-9a88f65ddc75
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Bleu\n\nContact équipe d
- omicile: DE PADUWA P. (0475.67.06.50)\n\nAccès voiture : Au départ de la
-  Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kra
- ainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anciens Com
- battants. Juste après le carrefour avec des feux de signalisation prendre
-  à droite vers la Place de la Chapelle\, puis prendre la 4ème rue à mai
- n droite (rue au Bois). Le terrain se trouve à 300 m. sur la droite.
+SUMMARY:ABSSA D4D J10: PANGLOSS FC vs BEETHOVEN FCS
+DTSTART;VALUE=DATE-TIME:20230902T120000Z
+DTEND;VALUE=DATE-TIME:20230902T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_4D_10_123_493
+DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu c
+ iel\n\nContact équipe domicile: De Paduwa P. (0475.67.06.50 - p.depaduwa@
+ gmail.com)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute
+  Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viad
+ uc prendre à droite\, l'avenue des Anciens Combattants. Juste après le c
+ arrefour avec des feux de signalisation prendre à droite vers la Place de
+  la Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le 
+ terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces infos
+  sur http://www.abssa.be/
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:p.depaduwa@gmail.com
+ORGANIZER;CN="De Paduwa P.";ROLE=Secrétaire:MAILTO:p.depaduwa@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4C J12: NEW INN FC (Eq. 4) vs PANGLOSS FC
-DTSTART:20221126T140000Z
-DTEND:20221126T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:161d2f33-7d18-4561-b60b-cb07be6d52e0
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bordeaux\, Blanc\nCouleur principale équipe extérieur: Bleu\n\nConta
- ct équipe domicile: CORNIL B. (0494.16.15.11)\n\nAccès voiture : Au dép
- art de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la s
- ortie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des An
- ciens Combattants. Juste après le carrefour avec des feux de signalisatio
- n prendre à droite vers la Place de la Chapelle\, puis prendre la 4ème r
- ue à main droite (rue au Bois). Le terrain se trouve à 300 m. sur la dro
- ite.
+SUMMARY:ABSSA D4D J1: PANGLOSS FC vs PHARMA SC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20230909T120000Z
+DTEND;VALUE=DATE-TIME:20230909T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_4D_1_123_268
+DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Jaune\
+ n\nContact équipe domicile: De Paduwa P. (0475.67.06.50 - p.depaduwa@gmai
+ l.com)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces infos sur
+  http://www.abssa.be/
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:bencornil@gmail.com
+ORGANIZER;CN="De Paduwa P.";ROLE=Secrétaire:MAILTO:p.depaduwa@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4C J13: NEW ARQUOIS FC (Eq. 2) vs PANGLOSS FC
-DTSTART:20221203T123000Z
-DTEND:20221203T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:711c2750-beb7-4e48-9e46-b66561f52537
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Bleu\n\nContact équipe d
- omicile: BEKA J-M. (0495.25.31.25)\n\nAccès voiture : Autoroute E 19 (Bru
- xelles-Charleroi)\, sortie Arquennes. Direction Seneffe-La-Louvière. A la
-  station d'essence Total\, prendre à droite pendant +/- 700 mètres.\nAu 
- rond point\, prendre à droite en direction du château de La Rocq\, passe
- z sous le pont\, le terrain se trouve à 100 mètres (à proximité du cim
- etière).
-GEO:50.5690988;4.2677281
-LOCATION:STADE COMMUNAL A. PLENNEVAUX\, Rue Omer Lion\, 7181 Arquennes\, B
- elgique
-ORGANIZER:MAILTO:jmbeka73@gmail.com
+SUMMARY:ABSSA D4D J2: LORGNETTE (LA)  FC vs PANGLOSS FC
+DTSTART;VALUE=DATE-TIME:20230916T120000Z
+DTEND;VALUE=DATE-TIME:20230916T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_4D_2_392_123
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E07\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bl
+ eu\n\nContact équipe domicile: Van Der Linden A. (0485.19.06.92 - alexvdl
+ 2000@yahoo.fr)\n\nAccès voiture : Boulevard Lambermont\, prendre le boule
+ vard Léopold III\, direction aéroport de Bruxelles-National\, au 3ème f
+ eu de signalisation prendre à droite. le terrain se trouve à 50 m.\n\nV
+ érifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8691994;4.406709999999999
+LOCATION:Complexe Sportif Evere\, Avenue des Anciens Combattants 300\, 114
+ 0 Evere\, Belgique
+ORGANIZER;CN="Van Der Linden A.";ROLE=Secrétaire:MAILTO:alexvdl2000@yahoo
+ .fr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4C J14: PANGLOSS FC vs LORGNETTE (LA)  FC
-DTSTART:20221210T140000Z
-DTEND:20221210T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:d5ef94b9-69d6-4d34-a2c3-a553b9d8168f
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Bordeaux\n\nContact équi
- pe domicile: DE PADUWA P. (0475.67.06.50)\n\nAccès voiture : Au départ d
- e la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie
-  Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anciens
-  Combattants. Juste après le carrefour avec des feux de signalisation pre
- ndre à droite vers la Place de la Chapelle\, puis prendre la 4ème rue à
-  main droite (rue au Bois). Le terrain se trouve à 300 m. sur la droite.
+SUMMARY:ABSSA D4D J3: PANGLOSS FC vs JODOIGNOISE FC
+DTSTART;VALUE=DATE-TIME:20230923T120000Z
+DTEND;VALUE=DATE-TIME:20230923T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_4D_3_123_664
+DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir e
+ t jaune\n\nContact équipe domicile: De Paduwa P. (0475.67.06.50 - p.depad
+ uwa@gmail.com)\n\nAccès voiture : Au départ de la Place Meiser\, l'autor
+ oute Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le 
+ viaduc prendre à droite\, l'avenue des Anciens Combattants. Juste après 
+ le carrefour avec des feux de signalisation prendre à droite vers la Plac
+ e de la Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois).
+  Le terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces i
+ nfos sur http://www.abssa.be/
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:p.depaduwa@gmail.com
+ORGANIZER;CN="De Paduwa P.";ROLE=Secrétaire:MAILTO:p.depaduwa@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4C J15: BOUSVAL GENAPPE (Eq. 2) vs PANGLOSS FC
-DTSTART:20221217T153000Z
-DTEND:20221217T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:09f78a54-23a0-4cc5-9656-855da0209ad8
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Orange et bleu\nCouleur principale équipe extérieur: Bleu\n\nContact
-  équipe domicile: GOSSIAUX S. (0473.44.25.52)\n\nAccès voiture : Venant 
- de Bruxelles prendre le Ring Ouest\, sortie Genappe (n°25)\, prendre à d
- roite sur la N 5 (Bruxelles-Charleroi) direction Charleroi pendant +/- 10 
- min. Prendre à gauche au carrefour entre la N 5 et la N 93 direction Nive
- lles. Dans le village\, prendre à gauche au carrefour en direction de la 
- rue des Ecoles. une centaine de mètres plus loin\, prendre immédiatement
-  à droite en direction de la rue du Béguinage et ensuite prendre imméei
- atement à gauche en direction de la rue du Pavillon. Suivre cette rue jus
- qu'au "T" formé par la rue du Pavillon et la rue de Ninove. Au "T" prendr
- e à gauche. Le terrain de football se situe à une centaine de mètres su
- r le côté droit.
-GEO:50.57463749999999;4.4089379
-LOCATION:Rue de Ninove\, 1\, 1476 Houtain-Le-Val\, Belgique
-ORGANIZER:MAILTO:gossiaux_sebastien@hotmail.com
+SUMMARY:ABSSA D4D J4: BIERGEOIS CS vs PANGLOSS FC
+DTSTART;VALUE=DATE-TIME:20230930T123000Z
+DTEND;VALUE=DATE-TIME:20230930T140000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_4D_4_70_123
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B01\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Stavart S (0496.95.16.64 - sebastienstavart@ya
+ hoo.fr)\n\nAccès voiture : Autoroute Bruxelles-Namur\, sortie Bierges\, p
+ rendre à droite\, le terrain se trouve à +/- 500 m. du côté droit.\n\n
+ Vérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.7113792;4.5897825
+LOCATION:Complexe Sportif J. Colette\, Rue des Combattants\, 1301 Bierges\
+ , Belgique
+ORGANIZER;CN="Stavart S";ROLE=Secrétaire:MAILTO:sebastienstavart@yahoo.fr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4C J16: MIREILLE WEMMEL vs PANGLOSS FC
-DTSTART:20230107T153000Z
-DTEND:20230107T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:5b88b4e5-b2f2-4b28-a89a-5a21c29fd018
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge et  Noir\nCouleur principale équipe extérieur: Bleu\n\nContact
-  équipe domicile: VERMEERBERGEN D. (0497.31.76.07)\n\nAccès voiture : Ri
- ng RO\, afrit Wemmel-Merchtem (n° 9)\, richting Merchtem volgen via de Is
- . Meyskensstraat tot aan de rotonde\, op de rotonde de 4de afslag nemen\, 
- Diepstraat deze vloeit over in de Steenweg op Brussel\, 50 m. voorbij het 
- eerste kruispunt met verkeerslichten\, links van de steenweg\, bevindt zic
- h het stadium (parking)
-GEO:50.900999;4.4855744
-LOCATION:STADIUM (STADE) VAN LANGENHOVE\, Steenweg naar Brussel\, 111\, 17
- 80 Wemmel\, Belgique
-ORGANIZER:MAILTO:daanvermeerbergen@hotmail.com
+SUMMARY:ABSSA D4D J5: SPARTA SCHEUT vs PANGLOSS FC
+DTSTART;VALUE=DATE-TIME:20231007T133000Z
+DTEND;VALUE=DATE-TIME:20231007T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_4D_5_340_123
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Rayé Bleu et Jaune\nCouleur principale équipe ext
+ erieure: Bleu\n\nContact équipe domicile: Vande Velde J. (0486.97.70.66 -
+  sparta.scheut@hotmail.com)\n\nAccès voiture : Ring\, sortie Hopital Eras
+ me\, après 300 m. en direction de Lennik\, prendre à droite.\nVenant de 
+ la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, pla
+ ce Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 
+ 400 m. en direction de Lennik.\n\nVérifiez toujours ces infos sur http://
+ www.abssa.be/
+GEO:50.8177358;4.2557195
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER;CN="Vande Velde J.";ROLE=Secrétaire:MAILTO:sparta.scheut@hotmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4C J18: PANGLOSS FC vs TRICOTEUSES FC.
-DTSTART:20230121T140000Z
-DTEND:20230121T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:f3228290-efac-4d3b-a0aa-e0ecde6e2c0c
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Bordeaux\n\nContact équi
- pe domicile: DE PADUWA P. (0475.67.06.50)\n\nAccès voiture : Au départ d
- e la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie
-  Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anciens
-  Combattants. Juste après le carrefour avec des feux de signalisation pre
- ndre à droite vers la Place de la Chapelle\, puis prendre la 4ème rue à
-  main droite (rue au Bois). Le terrain se trouve à 300 m. sur la droite.
+SUMMARY:ABSSA D4D J6: PANGLOSS FC vs NEPTUNE FC
+DTSTART;VALUE=DATE-TIME:20231014T120000Z
+DTEND;VALUE=DATE-TIME:20231014T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_4D_6_123_56
+DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: De Paduwa P. (0475.67.06.50 - p.depaduwa@gmail
+ .com)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute Brux
+ elles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc pr
+ endre à droite\, l'avenue des Anciens Combattants. Juste après le carref
+ our avec des feux de signalisation prendre à droite vers la Place de la C
+ hapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terra
+ in se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces infos sur 
+ http://www.abssa.be/
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:p.depaduwa@gmail.com
+ORGANIZER;CN="De Paduwa P.";ROLE=Secrétaire:MAILTO:p.depaduwa@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4C J19: GREZ AJ (Eq. 2) vs PANGLOSS FC
-DTSTART:20230128T153000Z
-DTEND:20230128T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:e494e8c4-8ef3-4e59-a1eb-08efd451db7e
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe extérieur: Bleu\n\nContact équipe d
- omicile: VANHAMME J. (0474.56.81.54)\n\nAccès voiture : Autoroute Bruxell
- es-Namur (E411) prendre la sortie Louvain/Grez-Doiceau (n° 8). Prendre la
-  RN25 en direction de Louvain/Grez-Doiceau. Passer tout droit les deux pre
- miers ronds-points à l'issue de la RN 25. Au troisième rond-point prendr
- e à droite. Le terrain se trouve 150 m. plus loin à gauche de la rue du 
- Stampia.
-GEO:50.744789;4.6969702
-LOCATION:Rue du Stampia\, 1390 Grez-Doiceau\, Belgique
-ORGANIZER:MAILTO:jerome.vanhamme@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4C J20: PANGLOSS FC vs BRITISH UNITED (Eq. 3)
-DTSTART:20230204T140000Z
-DTEND:20230204T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:0cd8509e-6d75-450b-962c-b251fb987282
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Bleu\n\nContact équipe d
- omicile: DE PADUWA P. (0475.67.06.50)\n\nAccès voiture : Au départ de la
-  Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kra
- ainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anciens Com
- battants. Juste après le carrefour avec des feux de signalisation prendre
-  à droite vers la Place de la Chapelle\, puis prendre la 4ème rue à mai
- n droite (rue au Bois). Le terrain se trouve à 300 m. sur la droite.
+SUMMARY:ABSSA D4D J8: PANGLOSS FC vs FORESTOIS SC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20231021T120000Z
+DTEND;VALUE=DATE-TIME:20231021T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_4D_8_123_152
+DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: De Paduwa P. (0475.67.06.50 - p.depaduwa@gmail
+ .com)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute Brux
+ elles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc pr
+ endre à droite\, l'avenue des Anciens Combattants. Juste après le carref
+ our avec des feux de signalisation prendre à droite vers la Place de la C
+ hapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terra
+ in se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces infos sur 
+ http://www.abssa.be/
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:p.depaduwa@gmail.com
+ORGANIZER;CN="De Paduwa P.";ROLE=Secrétaire:MAILTO:p.depaduwa@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4C J21: ZIJP FC vs PANGLOSS FC
-DTSTART:20230211T153000Z
-DTEND:20230211T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:3c8a907c-45ad-4f3f-901e-8daca0f2b057
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe extérieur: Bleu\n\nContact équipe d
- omicile: SALAMONE E. (0475.20.92.37)\n\nAccès voiture : De la Place Meise
- r\, remonter tous les boulevards. Au carrefour de la Chaussée de Wavre\, 
- prendre celle-ci à droite\, ensuite la 2ème rue à droite (Rue Général
-  Fivé)\, puis la 3ème à droite (rue Baron Dhanis).
-GEO:50.8287714;4.3975708
-LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
-ORGANIZER:MAILTO:elio.salamone46@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4C J22: PANGLOSS FC vs NEW INN FC (Eq. 4)
-DTSTART:20230225T140000Z
-DTEND:20230225T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:1aa93f9a-d487-4758-a851-1c15c0cbf929
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Bordeaux\, Blanc\n\nConta
- ct équipe domicile: DE PADUWA P. (0475.67.06.50)\n\nAccès voiture : Au d
- épart de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre l
- a sortie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des
-  Anciens Combattants. Juste après le carrefour avec des feux de signalisa
- tion prendre à droite vers la Place de la Chapelle\, puis prendre la 4èm
- e rue à main droite (rue au Bois). Le terrain se trouve à 300 m. sur la 
- droite.
+SUMMARY:ABSSA D4D J24: PANGLOSS FC vs BRUSSELS BRITISH R (Eq. 4)
+DTSTART;VALUE=DATE-TIME:20231028T120000Z
+DTEND;VALUE=DATE-TIME:20231028T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_4D_24_123_1
+DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: De Paduwa P. (0475.67.06.50 - p.depaduwa@gmai
+ l.com)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces infos sur
+  http://www.abssa.be/
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:p.depaduwa@gmail.com
+ORGANIZER;CN="De Paduwa P.";ROLE=Secrétaire:MAILTO:p.depaduwa@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4C J23: PANGLOSS FC vs BRUSSELS LTC (Eq. 4)
-DTSTART:20230304T140000Z
-DTEND:20230304T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:1a9a207c-6263-4b83-aaf1-85cb308d11ee
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Bordeaux\n\nContact équi
- pe domicile: DE PADUWA P. (0475.67.06.50)\n\nAccès voiture : Au départ d
- e la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie
-  Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anciens
-  Combattants. Juste après le carrefour avec des feux de signalisation pre
- ndre à droite vers la Place de la Chapelle\, puis prendre la 4ème rue à
-  main droite (rue au Bois). Le terrain se trouve à 300 m. sur la droite.
+SUMMARY:ABSSA D4D J7: REAL TRAPPISTE vs PANGLOSS FC
+DTSTART;VALUE=DATE-TIME:20231104T130000Z
+DTEND;VALUE=DATE-TIME:20231104T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_4D_7_605_123
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: M05\n\nCouleur princi
+ pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Buta  Kossi E (0490.67.45.92 - emmanuelbutako
+ ssi@gmail.com)\n\nAccès voiture : Chaussée de Gand\, avenue M. Ghandi\n\
+ nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.861905;4.3220645
+LOCATION:Sippelberg\, Avenue M. Ghandi\, 1080 Molenbeek\, Belgique
+ORGANIZER;CN="Buta  Kossi E";ROLE=Secrétaire:MAILTO:emmanuelbutakossi@gma
+ il.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J9: COMP. CINEMA R vs PANGLOSS FC
+DTSTART;VALUE=DATE-TIME:20231118T113000Z
+DTEND;VALUE=DATE-TIME:20231118T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_4D_9_16_123
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E07\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: El Maimouni F (0484.08.93.29 - compagnonscinem
+ a016@gmail.com)\n\nAccès voiture : Boulevard Lambermont\, prendre le boul
+ evard Léopold III\, direction aéroport de Bruxelles-National\, au 3ème 
+ feu de signalisation prendre à droite. le terrain se trouve à 50 m.\n\nV
+ érifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8691994;4.406709999999999
+LOCATION:Complexe Sportif Evere\, Avenue des Anciens Combattants 300\, 114
+ 0 Evere\, Belgique
+ORGANIZER;CN="El Maimouni F";ROLE=Secrétaire:MAILTO:compagnonscinema016@g
+ mail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J11: BRUSSELS BRITISH R (Eq. 4) vs PANGLOSS FC
+DTSTART;VALUE=DATE-TIME:20231202T113000Z
+DTEND;VALUE=DATE-TIME:20231202T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_4D_11_1_123
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Lachia S. (0484.27.72.64 - abssa-sec@rbbfc.or
+ g)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Passe
+ r devant l'église\, longer l'autoroute et tourner à droite au cimetière
+  des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur http:/
+ /www.abssa.be/
+GEO:50.7282426;4.5537189
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="Lachia S.";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J13: WAPPERS FC vs PANGLOSS FC
+DTSTART;VALUE=DATE-TIME:20231209T130000Z
+DTEND;VALUE=DATE-TIME:20231209T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_4D_13_67_123
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W19\n\nCouleur princi
+ pale équipe domicile: Rayé noir et blanc\nCouleur principale équipe ext
+ erieure: Bleu\n\nContact équipe domicile: Vinck B. (0475.92.57.30 - berna
+ rd.vinck@belgacom.net)\n\nAccès voiture : Ring de Bruxelles (RO)\, sortie
+  n° 2. Prendre la direction Wezembeek-Oppem. Ensuite première rue à dro
+ ite (Louis Marcelisstraat) puis la troisième à droite (Sportpleinstraat)
+ .\nL'entrée au terrain se trouve à gauche entre les n° 16 et 24.\nPar l
+ a ville : A partir du rond point Montgomery\, prendre l'Avenue de Broquevi
+ lle\, toujours tout droit. Passez devant le Shopping de Woluwé\, toujours
+  tout droit\, passez devant le magasin "Carrefour"\, puis au 2ème feu de 
+ signalisation prendre à droite et ensuite tout droit. Au bout de la rue p
+ rendre à droite\, le terrain se trouve à 100 mètres  sur la gauche.\n\n
+ Vérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8424578;4.486587999999999
+LOCATION:Sportpleinstraat 20\, 1970 Wezembeek - Oppem\, Belgique
+ORGANIZER;CN="Vinck B.";ROLE=Secrétaire:MAILTO:bernard.vinck@belgacom.net
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J14: PHARMA SC (Eq. 2) vs PANGLOSS FC
+DTSTART;VALUE=DATE-TIME:20240113T143000Z
+DTEND;VALUE=DATE-TIME:20240113T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_4D_14_268_123
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.dumidi@sc
+ arlet.be)\n\nAccès voiture : Au départ de la Place St. Denis à Forest p
+ rendre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue
+  à droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à 
+ gauche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée
+  du Complexe se trouve à hauteur de City Cart\, à gauche de la route.\n\
+ nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J15: PANGLOSS FC vs LORGNETTE (LA)  FC
+DTSTART;VALUE=DATE-TIME:20240120T130000Z
+DTEND;VALUE=DATE-TIME:20240120T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_4D_15_123_392
+DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bordea
+ ux\n\nContact équipe domicile: De Paduwa P. (0475.67.06.50 - p.depaduwa@g
+ mail.com)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute 
+ Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viadu
+ c prendre à droite\, l'avenue des Anciens Combattants. Juste après le ca
+ rrefour avec des feux de signalisation prendre à droite vers la Place de 
+ la Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le t
+ errain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces infos 
+ sur http://www.abssa.be/
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:p.depaduwa@gmail.com
+ORGANIZER;CN="De Paduwa P.";ROLE=Secrétaire:MAILTO:p.depaduwa@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4C J24: PETER PAN FC vs PANGLOSS FC
-DTSTART:20230311T140000Z
-DTEND:20230311T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:f8d40f94-66d9-4c2e-abe0-139a60ba1b90
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe extérieur: Bleu\n\nContact équipe d
- omicile: DRINE N. (0476.80.28.02)\n\nAccès voiture : R.O. Sortie Beersel 
- (n° 19)\, prendre direction Beersel\, ensuite direction Linkebeek En face
-  du Delhaize prendre la rue de la Brasserie et ensuite suivre les indicati
- ons LHC-KHVCL.\nR.E. Sortie Groenendael - Direction Uccle\, dans la forêt
-  prendre la première à gauche\, direction Rhode St. Genèse\, ensuite à
-  la chaussée de Waterloo prendre à gauche. Au premier feux (Espinette Ce
- ntrale) à droite\, ensuite le premier feux à droite\, puis tout droit\, 
- et après le chemin de fer suivre les indications LHC-KHVCL.\nItinéraire 
- d'accès au parking\, à la Ferme Holleken\, rue Hollebeek\, 212 (près du
-  parc à conteneurs)\nEntrée du parking: chemin à gauche de l'entrée du
-  cimetière.\nPour rejoindre le terrain à pied à partir du parking\, des
- cendre le chemin balisé en contournant le parc à conteneurs.
-GEO:50.7627439;4.345177
-LOCATION:WOUTERBOS\, Rue Schavei\, 31\, 1630 Linkebeek\, Belgique
-ORGANIZER:MAILTO:neildrine@gmail.com
+SUMMARY:ABSSA D4D J16: JODOIGNOISE FC vs PANGLOSS FC
+DTSTART;VALUE=DATE-TIME:20240127T143000Z
+DTEND;VALUE=DATE-TIME:20240127T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_4D_16_664_123
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: I03\n\nCouleur princi
+ pale équipe domicile: Noir et jaune\nCouleur principale équipe exterieur
+ e: Bleu\n\nContact équipe domicile: Severin S. (0470.55.74.46 - severinsi
+ mon00@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l’
+ E411 en direction de Namur et prendre la sortie 11 Perwez-Gembloux\, prend
+ re à droite vers Perwez sur la N29 jusqu’au rond-point de Glimes qui cr
+ oise la N91 (7km depuis l’E411). Sortir à la 3ème sortie sur la N91 en
+ \ndirection de Hamme-Mille. Prendre ensuite la 3ème rue à gauche et le t
+ errain se trouve directement sur la droite.\n\nVérifiez toujours ces info
+ s sur http://www.abssa.be/
+GEO:50.6849677;4.8070879
+LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
+ORGANIZER;CN="Severin S.";ROLE=Secrétaire:MAILTO:severinsimon00@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4C J25: LUNETTE (LA) FC vs PANGLOSS FC
-DTSTART:20230318T140000Z
-DTEND:20230318T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:c0f42300-caf0-4dd3-b75f-4511f1b24653
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Jaune et bleu\nCouleur principale équipe extérieur: Bleu\n\nContact 
- équipe domicile: BONIFAZIO R. (0488.31.38.10)\n\nAccès voiture : En vena
- nt de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, pr
- endre la direction du cimetière d'Anderlecht\, emprunter le Boulevard Jos
- se Leemans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseau
- x (Vogelenzang). L'entrée du complexe et des terrains se situe à +/- 500
-  m. sur la gauche.
-GEO:50.8114933;4.2763364
-LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+SUMMARY:ABSSA D4D J17: PANGLOSS FC vs BIERGEOIS CS
+DTSTART;VALUE=DATE-TIME:20240203T130000Z
+DTEND;VALUE=DATE-TIME:20240203T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_4D_17_123_70
+DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: De Paduwa P. (0475.67.06.50 - p.depaduwa@gmail
+ .com)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute Brux
+ elles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc pr
+ endre à droite\, l'avenue des Anciens Combattants. Juste après le carref
+ our avec des feux de signalisation prendre à droite vers la Place de la C
+ hapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terra
+ in se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces infos sur 
+ http://www.abssa.be/
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="De Paduwa P.";ROLE=Secrétaire:MAILTO:p.depaduwa@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J18: PANGLOSS FC vs SPARTA SCHEUT
+DTSTART;VALUE=DATE-TIME:20240210T130000Z
+DTEND;VALUE=DATE-TIME:20240210T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_4D_18_123_340
+DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rayé 
+ Bleu et Jaune\n\nContact équipe domicile: De Paduwa P. (0475.67.06.50 - p
+ .depaduwa@gmail.com)\n\nAccès voiture : Au départ de la Place Meiser\, l
+ 'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). So
+ us le viaduc prendre à droite\, l'avenue des Anciens Combattants. Juste a
+ près le carrefour avec des feux de signalisation prendre à droite vers l
+ a Place de la Chapelle\, puis prendre la 4ème rue à main droite (rue au 
+ Bois). Le terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujours
+  ces infos sur http://www.abssa.be/
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="De Paduwa P.";ROLE=Secrétaire:MAILTO:p.depaduwa@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J19: NEPTUNE FC vs PANGLOSS FC
+DTSTART;VALUE=DATE-TIME:20240217T143000Z
+DTEND;VALUE=DATE-TIME:20240217T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_4D_19_56_123
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Louies S. (0474.55.15.41 - louiesstephane@gmai
+ l.com)\n\nAccès voiture : Via la chaussée de Mons jusqu'à Veeweyde (car
+ refour Fr. Van Kalken). Prendre à droite le boulevard  A. Briand jusqu'à
+  la Place Verdi\, puis le Bld. Théo Lambert.\n\nVérifiez toujours ces in
+ fos sur http://www.abssa.be/
+GEO:50.827564;4.2952993
+LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
  \, Belgique
-ORGANIZER:MAILTO:bonifazio.raphael@gmail.com
+ORGANIZER;CN="Louies S.";ROLE=Secrétaire:MAILTO:louiesstephane@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4C J26: PANGLOSS FC vs BOUSVAL GENAPPE (Eq. 2)
-DTSTART:20230325T140000Z
-DTEND:20230325T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:c380adc4-2888-4a71-a4b4-c07c06908f78
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Orange et bleu\n\nContact
-  équipe domicile: DE PADUWA P. (0475.67.06.50)\n\nAccès voiture : Au dé
- part de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la 
- sortie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des A
- nciens Combattants. Juste après le carrefour avec des feux de signalisati
- on prendre à droite vers la Place de la Chapelle\, puis prendre la 4ème 
- rue à main droite (rue au Bois). Le terrain se trouve à 300 m. sur la dr
- oite.
+SUMMARY:ABSSA D4D J26: PANGLOSS FC vs WAPPERS FC
+DTSTART;VALUE=DATE-TIME:20240224T130000Z
+DTEND;VALUE=DATE-TIME:20240224T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_4D_26_123_67
+DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rayé 
+ noir et blanc\n\nContact équipe domicile: De Paduwa P. (0475.67.06.50 - p
+ .depaduwa@gmail.com)\n\nAccès voiture : Au départ de la Place Meiser\, l
+ 'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). So
+ us le viaduc prendre à droite\, l'avenue des Anciens Combattants. Juste a
+ près le carrefour avec des feux de signalisation prendre à droite vers l
+ a Place de la Chapelle\, puis prendre la 4ème rue à main droite (rue au 
+ Bois). Le terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujours
+  ces infos sur http://www.abssa.be/
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:p.depaduwa@gmail.com
+ORGANIZER;CN="De Paduwa P.";ROLE=Secrétaire:MAILTO:p.depaduwa@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J23: BEETHOVEN FCS vs PANGLOSS FC
+DTSTART;VALUE=DATE-TIME:20240302T120000Z
+DTEND;VALUE=DATE-TIME:20240302T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_4D_23_493_123
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: B
+ leu\n\nContact équipe domicile: Steenhaut F. (0477.37.74.47 - fsteenhaut@
+ hotmail.com)\n\nAccès voiture : En venant de la Route de Lennik (Citroën
+ ) ou de la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d
+ 'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre
+  la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du comp
+ lexe et des terrains se situe à +/- 500 m. sur la gauche.\n\nVérifiez to
+ ujours ces infos sur http://www.abssa.be/
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Steenhaut F.";ROLE=Secrétaire:MAILTO:fsteenhaut@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J20: PANGLOSS FC vs REAL TRAPPISTE
+DTSTART;VALUE=DATE-TIME:20240309T130000Z
+DTEND;VALUE=DATE-TIME:20240309T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_4D_20_123_605
+DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Jaune\
+ n\nContact équipe domicile: De Paduwa P. (0475.67.06.50 - p.depaduwa@gmai
+ l.com)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces infos sur
+  http://www.abssa.be/
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="De Paduwa P.";ROLE=Secrétaire:MAILTO:p.depaduwa@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J21: FORESTOIS SC (Eq. 3) vs PANGLOSS FC
+DTSTART;VALUE=DATE-TIME:20240316T130000Z
+DTEND;VALUE=DATE-TIME:20240316T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_4D_21_152_123
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Janssens P. (0479.95.08.14 - patj.scf@gmail.co
+ m)\n\nAccès voiture : Au départ de la Place St. Denis à Forest prendre 
+ la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à dro
+ ite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gauche 
+ (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du Com
+ plexe se trouve à hauteur de City Cart\, à gauche de la route.\n\nVérif
+ iez toujours ces infos sur http://www.abssa.be/
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J22: PANGLOSS FC vs COMP. CINEMA R
+DTSTART;VALUE=DATE-TIME:20240323T130000Z
+DTEND;VALUE=DATE-TIME:20240323T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_4D_22_123_16
+DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Vert\n
+ \nContact équipe domicile: De Paduwa P. (0475.67.06.50 - p.depaduwa@gmail
+ .com)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute Brux
+ elles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc pr
+ endre à droite\, l'avenue des Anciens Combattants. Juste après le carref
+ our avec des feux de signalisation prendre à droite vers la Place de la C
+ hapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terra
+ in se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces infos sur 
+ http://www.abssa.be/
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="De Paduwa P.";ROLE=Secrétaire:MAILTO:p.depaduwa@gmail.com
 END:VEVENT
 END:VCALENDAR

@@ -1,239 +1,472 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:37f752f3-9387-49c0-b3ef-18bee0207f32
-X-WR-CALDESC:Les matches de BEA WOLUWE (eq. 1) en ABSSA.
-X-WR-CALNAME:ABSSA - BEA WOLUWE (eq. 1) - 459
-X-WR-TIMEZONE:Europe/Brussels
+PRODID:459_1_bea_woluwe
+X-WR-CALDESC:Les matches du club BEA WOLUWE (equipe 1) en ABSSA.
+X-WR-CALNAME:ABSSA: BEA WOLUWE (eq. 1)
 BEGIN:VEVENT
-SUMMARY:ABSSA D5A J2: CENTRAL PARK FC (Eq. 2) vs BEA WOLUWE
-DTSTART:20220910T140000Z
-DTEND:20220910T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:20920dc3-5474-4d17-86c1-83210abe491a
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bordeaux\nCouleur principale équipe extérieur: Bleu clair\n\nContact
-  équipe domicile: GENOT F. (0473.57.28.61)\n\nAccès voiture : Boulevard 
- de la Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu'au
-  Petit Pont (terminus bus 28). Avant ce pont le terrain se trouve à gauch
- e.
-GEO:50.8423054;4.445628699999999
-LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
- é-Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:genotflorian@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J12: BEA WOLUWE vs WINCHESTER F.C.
-DTSTART:20221126T140000Z
-DTEND:20221126T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:d053963a-3865-4dc3-8c2c-b4fd2634c00b
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu clair\nCouleur principale équipe extérieur: Bleu et blanc\n\nCo
- ntact équipe domicile: MAQUESTIAU Ph. (0485.49.62.62)\n\nAccès voiture :
-  Avenue de Tervuren\, prendre l"avenue Parmentier\, puis 1ère rue à main
-  gauche.
+SUMMARY:ABSSA D5B J10: BEA WOLUWE vs EFFETA FC
+DTSTART;VALUE=DATE-TIME:20230902T120000Z
+DTEND;VALUE=DATE-TIME:20230902T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_5B_10_459_516
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge 
+ et noir\n\nContact équipe domicile: Maquestiau Ph. (0485.49.62.62 - phili
+ ppemaquestiau@yahoo.com)\n\nAccès voiture : Avenue de Tervuren\, prendre 
+ l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujours
+  ces infos sur http://www.abssa.be/
 GEO:50.8343279;4.4397562
-LOCATION:KELLE (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
  e\, Belgique
-ORGANIZER:MAILTO:philippemaquestiau@yahoo.com
+ORGANIZER;CN="Maquestiau Ph.";ROLE=Secrétaire:MAILTO:philippemaquestiau@y
+ ahoo.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5A J13: BEA WOLUWE vs CENTRAL PARK FC (Eq. 2)
-DTSTART:20221203T140000Z
-DTEND:20221203T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:de5cd0c9-3937-4756-814c-e9279563ac58
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu clair\nCouleur principale équipe extérieur: Bordeaux\n\nContact
-  équipe domicile: MAQUESTIAU Ph. (0485.49.62.62)\n\nAccès voiture : Aven
- ue de Tervuren\, prendre l"avenue Parmentier\, puis 1ère rue à main gauc
- he.
+SUMMARY:ABSSA D5B J1: BEA WOLUWE vs CHOULE AUDERGHEM (Eq. 4)
+DTSTART;VALUE=DATE-TIME:20230909T120000Z
+DTEND;VALUE=DATE-TIME:20230909T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_5B_1_459_517
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rayé 
+ Bleu et Blanc\n\nContact équipe domicile: Maquestiau Ph. (0485.49.62.62 -
+  philippemaquestiau@yahoo.com)\n\nAccès voiture : Avenue de Tervuren\, pr
+ endre l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez to
+ ujours ces infos sur http://www.abssa.be/
 GEO:50.8343279;4.4397562
-LOCATION:KELLE (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
  e\, Belgique
-ORGANIZER:MAILTO:philippemaquestiau@yahoo.com
+ORGANIZER;CN="Maquestiau Ph.";ROLE=Secrétaire:MAILTO:philippemaquestiau@y
+ ahoo.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5A J14: ELAN EVERE RAC vs BEA WOLUWE
-DTSTART:20221210T133000Z
-DTEND:20221210T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:385975e5-2aa8-411d-8289-88fd7e1fbc17
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe extérieur: Bleu clair\n\nContact éq
- uipe domicile: DUBOIS J-J. (0486.47.10.49)\n\nAccès voiture : Le terrain 
- se trouve derrière l'église St. Vincent
-GEO:50.8786351;4.3949376
-LOCATION:PARC ST. VINCENT (BON PASTEUR)\, Rue de Picardie\, 1140 Evere\, B
- elgique
-ORGANIZER:MAILTO:jjdubois58@gmail.com
+SUMMARY:ABSSA D5B J2: PECHEUR F.C. vs BEA WOLUWE
+DTSTART;VALUE=DATE-TIME:20230916T133000Z
+DTEND;VALUE=DATE-TIME:20230916T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_5B_2_677_459
+DESCRIPTION:Terrain synthétique: non\nCode terrain: N04\n\nCouleur princi
+ pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
+ e: Bleu\n\nContact équipe domicile: Delannoy I. (0471.59.00.22 - ignace.d
+ elannoyc@gmail.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à Noss
+ egem\, au premier croisement prendre à gauche la \nMechelsesteenweg. Le t
+ errain est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Li
+ ège\, prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechel
+ sesteenweg\, traverser la chaussée de Louvain\, et suivre comme ci-avant.
+ \n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.88776559999999;4.50894
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER;CN="Delannoy I.";ROLE=Secrétaire:MAILTO:ignace.delannoyc@gmail.
+ com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5A J16: BEA WOLUWE vs BRITISH UNITED (Eq. 4)
-DTSTART:20230107T140000Z
-DTEND:20230107T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:98e387b5-7d87-4904-9223-331c9060cb74
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu clair\nCouleur principale équipe extérieur: Bleu\n\nContact éq
- uipe domicile: MAQUESTIAU Ph. (0485.49.62.62)\n\nAccès voiture : Avenue d
- e Tervuren\, prendre l"avenue Parmentier\, puis 1ère rue à main gauche.
+SUMMARY:ABSSA D5B J3: SPIJTOIS FC vs BEA WOLUWE
+DTSTART;VALUE=DATE-TIME:20230923T120000Z
+DTEND;VALUE=DATE-TIME:20230923T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_5B_3_631_459
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: U02\n\nCouleur princi
+ pale équipe domicile: Blanc Bordeaux\nCouleur principale équipe exterieu
+ re: Bleu\n\nContact équipe domicile: Marchese G. (0496.53.66.37 - marches
+ e.gregoire21@yahoo.be)\n\nAccès voiture : L'entrée se fait par la rue du
+  Zwartebeek.\nPar le ring\, prendre la sortie Drogenbos-Ruisbroek\, direct
+ ion Uccle\, par la rue de Stalle prolongée.  Après le rond-point prendre
+  la 1ère rue à gauche\, la chaussée de Neerstalle.\nEnsuite la 2ème ru
+ e à gauche\, rue du Zwartebeek\, l'entrée du complexe est située à +/-
+  200 mètres sur la droite.\n\nVérifiez toujours ces infos sur http://www
+ .abssa.be/
+GEO:50.7970109;4.319077
+LOCATION:Leopold-Uccle\, Rue du Zwartebeek\, 1180 Uccle\, Belgique
+ORGANIZER;CN="Marchese G.";ROLE=Secrétaire:MAILTO:marchese.gregoire21@yah
+ oo.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J4: BEA WOLUWE vs WATERMAEL FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20230930T120000Z
+DTEND;VALUE=DATE-TIME:20230930T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_5B_4_459_611
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Maquestiau Ph. (0485.49.62.62 - philippemaques
+ tiau@yahoo.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"avenue 
+ Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujours ces info
+ s sur http://www.abssa.be/
 GEO:50.8343279;4.4397562
-LOCATION:KELLE (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
  e\, Belgique
-ORGANIZER:MAILTO:philippemaquestiau@yahoo.com
+ORGANIZER;CN="Maquestiau Ph.";ROLE=Secrétaire:MAILTO:philippemaquestiau@y
+ ahoo.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5A J17: EFFETA FC vs BEA WOLUWE
-DTSTART:20230114T123000Z
-DTEND:20230114T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:53960cbc-44b9-47a9-ad48-223df79243df
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge et noir\nCouleur principale équipe extérieur: Bleu clair\n\nCo
- ntact équipe domicile: ERYURUK K. (0487.34.08.40)\n\nAccès voiture : Aut
- oroute Bruxelles-Anvers (A12)\, au premier feu de signalisation\, prendre 
- à gauche\, direction Londerzeel. Suivre la plaque Stationstraat. Passée 
- la gare (après env. 1200 m.) prendre à gauche au " Monument aux Morts". 
- Le terrain se trouve à 50 m.
-GEO:51.0192214;4.2904455
-LOCATION:VERMA\, Blauwenhoek\, 76\, 1840 Londerzeel\, Belgique
-ORGANIZER:MAILTO:effetafc@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J18: BEA WOLUWE vs FORESTOIS SC (Eq. 3)
-DTSTART:20230121T140000Z
-DTEND:20230121T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:2a8f1066-75bf-4587-92b0-f500a2520c54
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu clair\nCouleur principale équipe extérieur: Vert\n\nContact éq
- uipe domicile: MAQUESTIAU Ph. (0485.49.62.62)\n\nAccès voiture : Avenue d
- e Tervuren\, prendre l"avenue Parmentier\, puis 1ère rue à main gauche.
-GEO:50.8343279;4.4397562
-LOCATION:KELLE (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
- e\, Belgique
-ORGANIZER:MAILTO:philippemaquestiau@yahoo.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J19: WATERMAEL FC (Eq. 2) vs BEA WOLUWE
-DTSTART:20230128T133000Z
-DTEND:20230128T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:8408339e-276f-49f3-ba86-58b8bbce6a2a
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Bleu clair\n\nContact éq
- uipe domicile: DESCHAMPS J. (0477.67.76.37)\n\nAccès voiture : L'accès a
- u terrain se fait à partir du n° 2057 de la chaussée de Wavre (en face 
- du stade communal d'Auderghem). L'accès au terrain se fait par l'arrière
-  du bâtiment principal (où sont situés les vestiaires) il faut parcouri
- r environ 300 mètres avant d'atteindre le terrain de football situé apr
- ès la piste d'athlétisme et le terrain de hockey.
-GEO:50.80890770000001;4.4427327
-LOCATION:COMPLEXE DE L'ADEPS\, Chaussée de Wavre\, 2057\, 1160 Auderghem\
- , Belgique
-ORGANIZER:MAILTO:jul_desch@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J20: BEA WOLUWE vs POSTBOYS FC
-DTSTART:20230204T140000Z
-DTEND:20230204T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:7ccbb8a1-e241-49cc-9799-730e6783e343
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu clair\nCouleur principale équipe extérieur: Rouge et noir\n\nCo
- ntact équipe domicile: MAQUESTIAU Ph. (0485.49.62.62)\n\nAccès voiture :
-  Avenue de Tervuren\, prendre l"avenue Parmentier\, puis 1ère rue à main
-  gauche.
-GEO:50.8343279;4.4397562
-LOCATION:KELLE (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
- e\, Belgique
-ORGANIZER:MAILTO:philippemaquestiau@yahoo.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J21: AZUR RCS (Eq. 4) vs BEA WOLUWE
-DTSTART:20230211T120000Z
-DTEND:20230211T132500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:ae9bd7c4-5794-477d-a46a-0a76fe9adadc
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe extérieur: Bleu clair\n\nContac
- t équipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Av
- enue de Tervuren\, direction Tervuren. Passé le boulevard du Souverain pr
- endre à gauche au premier feu de signalisation (Av. Madoux). Au feu de si
- gnalisation suivant prendre la 2ème rue à main droite (Av. J. Dujardin).
-  Ensuite 1ère rue à gauche (Av. Salomé).
-GEO:50.830818;4.455442
-LOCATION:CENTRE SPORTIF\, Avenue Salomé\, 2\, 1150 Woluwé-Saint-Pierre\,
-  Belgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J22: WINCHESTER F.C. vs BEA WOLUWE
-DTSTART:20230225T153000Z
-DTEND:20230225T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:e4d0ad67-c9e0-4462-b3f8-88ec90c6c081
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu et blanc\nCouleur principale équipe extérieur: Bleu clair\n\nCo
- ntact équipe domicile: DESCHEEMAEKER M. (0488.92.88.36)\n\nAccès voiture
-  : A partir de Bruxelles\, prendre la E 411 en direction de Namur. Prendre
-  la sortie N° 8 puis à droite la bretelle pour la N 25 vers Chaumont-Gis
- toux / Grez Doiceau / Louvain. Après +/- 6\,5 km\, au rond-point\, prendr
- e la sortie 1 vers la N 420 Chée. de la Libération\, puis à gauche dans
-  la rue de la Grande lecke.
-GEO:50.7540176;4.7835618
-LOCATION:Rue de la Grande Lecke\, 3\, 1320 Beauvechain\, Belgique
-ORGANIZER:MAILTO:winchesterfc@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J23: BEA WOLUWE vs RANGERS F.C.
-DTSTART:20230304T140000Z
-DTEND:20230304T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:ed41f80c-52c8-4378-8104-eb52ad651587
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu clair\nCouleur principale équipe extérieur: Rayé Bordeaux Blan
- c et Bleu\n\nContact équipe domicile: MAQUESTIAU Ph. (0485.49.62.62)\n\nA
- ccès voiture : Avenue de Tervuren\, prendre l"avenue Parmentier\, puis 1
- ère rue à main gauche.
-GEO:50.8343279;4.4397562
-LOCATION:KELLE (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
- e\, Belgique
-ORGANIZER:MAILTO:philippemaquestiau@yahoo.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J24: BEA WOLUWE vs GAMBRINUS F.C.
-DTSTART:20230311T140000Z
-DTEND:20230311T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:d2dc2659-34ac-45a6-891e-37a9d1c66488
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu clair\nCouleur principale équipe extérieur: Rose\n\nContact éq
- uipe domicile: MAQUESTIAU Ph. (0485.49.62.62)\n\nAccès voiture : Avenue d
- e Tervuren\, prendre l"avenue Parmentier\, puis 1ère rue à main gauche.
-GEO:50.8343279;4.4397562
-LOCATION:KELLE (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
- e\, Belgique
-ORGANIZER:MAILTO:philippemaquestiau@yahoo.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J25: WOLUWE FC vs BEA WOLUWE
-DTSTART:20230318T153000Z
-DTEND:20230318T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:47466949-8565-4af4-8be4-234e8a3b3e55
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Jaune et Bleu\nCouleur principale équipe extérieur: Bleu clair\n\nCo
- ntact équipe domicile: PURNELLE K. (0491.08.24.67)\n\nAccès voiture : Pa
- r la E411 Bruxelles-Namur\, prendre la sortie n° 5 (Wavre Nord\, Rixensar
- t\, Bierges).\nEnsuite prendre la N257 pendant 700 mètres jusqu'au rond-p
- oint\, prendre la rue de l'Etoile et ensuite la rue de Mérode jusqu'à Ri
- xensart. Après 900 mètres\, à la Place de la Perche\, prendre à droite
-  l'avenue de la Paix et encore à droite l'avenue Clermont Tonnerre.
+SUMMARY:ABSSA D5B J5: GALACTIC JUMPERTZ vs BEA WOLUWE
+DTSTART;VALUE=DATE-TIME:20231007T103000Z
+DTEND;VALUE=DATE-TIME:20231007T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_5B_5_659_459
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R03\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Bleu
+ \n\nContact équipe domicile: Eyletten J. (0470.31.54.56 - galactic.jumper
+ tz@gmail.com)\n\nAccès voiture : Par la E411 Bruxelles-Namur\, prendre la
+  sortie n° 5 (Wavre Nord\, Rixensart\, Bierges).\nEnsuite prendre la N257
+  pendant 700 mètres jusqu'au rond-point\, prendre la rue de l'Etoile et e
+ nsuite la rue de Mérode jusqu'à Rixensart. Après 900 mètres\, à la Pl
+ ace de la Perche\, prendre à droite l'avenue de la Paix et encore à droi
+ te l'avenue Clermont Tonnerre.\n\nVérifiez toujours ces infos sur http://
+ www.abssa.be/
 GEO:50.7128483;4.5376972
-LOCATION:COMPLEXE SPORTIF DE RIXENSART\, Avenue Clermont Tonnerre\, 26A\, 
- 1330 Rixensart\, Belgique
-ORGANIZER:MAILTO:kevin.purnelle@ing.com
+LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
+ 30 Rixensart\, Belgique
+ORGANIZER;CN="Eyletten J.";ROLE=Secrétaire:MAILTO:galactic.jumpertz@gmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J8: BEA WOLUWE vs L'EKIP
+DTSTART;VALUE=DATE-TIME:20231021T120000Z
+DTEND;VALUE=DATE-TIME:20231021T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_5B_8_459_662
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Maquestiau Ph. (0485.49.62.62 - philippemaque
+ stiau@yahoo.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"avenue
+  Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujours ces inf
+ os sur http://www.abssa.be/
+GEO:50.8343279;4.4397562
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Maquestiau Ph.";ROLE=Secrétaire:MAILTO:philippemaquestiau@y
+ ahoo.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J24: BEA WOLUWE vs RED STAR BRUSSELS
+DTSTART;VALUE=DATE-TIME:20231028T120000Z
+DTEND;VALUE=DATE-TIME:20231028T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_5B_24_459_663
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc 
+ et rouge\n\nContact équipe domicile: Maquestiau Ph. (0485.49.62.62 - phil
+ ippemaquestiau@yahoo.com)\n\nAccès voiture : Avenue de Tervuren\, prendre
+  l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujour
+ s ces infos sur http://www.abssa.be/
+GEO:50.8343279;4.4397562
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Maquestiau Ph.";ROLE=Secrétaire:MAILTO:philippemaquestiau@y
+ ahoo.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J7: MASIA CITY vs BEA WOLUWE
+DTSTART;VALUE=DATE-TIME:20231104T113000Z
+DTEND;VALUE=DATE-TIME:20231104T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_5B_7_661_459
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
+ pale équipe domicile: Rouge-Noir\nCouleur principale équipe exterieure: 
+ Bleu\n\nContact équipe domicile: Saoud T. (0460.97.04.65 - masiacity@gmai
+ l.com)\n\nAccès voiture : A partir de Bruxelles\, prendre la E 411 en dir
+ ection de Namur. Prendre la sortie N° 8 puis à droite la bretelle pour l
+ a N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 km\
+ , au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Libérati
+ on\, puis à gauche dans la rue de la Grande lecke.\n\nVérifiez toujours 
+ ces infos sur http://www.abssa.be/
+GEO:50.7540176;4.7835618
+LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
+ORGANIZER;CN="Saoud T.";ROLE=Secrétaire:MAILTO:masiacity@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J9: SPORTING BW vs BEA WOLUWE
+DTSTART;VALUE=DATE-TIME:20231118T130000Z
+DTEND;VALUE=DATE-TIME:20231118T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_5B_9_673_459
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: I03\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Thumas A. (0472.60.28.90 - sporting.bw.abssa@
+ gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l’E411 e
+ n direction de Namur et prendre la sortie 11 Perwez-Gembloux\, prendre à 
+ droite vers Perwez sur la N29 jusqu’au rond-point de Glimes qui croise l
+ a N91 (7km depuis l’E411). Sortir à la 3ème sortie sur la N91 en\ndire
+ ction de Hamme-Mille. Prendre ensuite la 3ème rue à gauche et le terrain
+  se trouve directement sur la droite.\n\nVérifiez toujours ces infos sur 
+ http://www.abssa.be/
+GEO:50.6849677;4.8070879
+LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
+ORGANIZER;CN="Thumas A.";ROLE=Secrétaire:MAILTO:sporting.bw.abssa@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J12: BEA WOLUWE vs UNION BRUXELLOISE
+DTSTART;VALUE=DATE-TIME:20231125T130000Z
+DTEND;VALUE=DATE-TIME:20231125T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_5B_12_459_655
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir/ 
+ Bleu\n\nContact équipe domicile: Maquestiau Ph. (0485.49.62.62 - philippe
+ maquestiau@yahoo.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"a
+ venue Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujours ce
+ s infos sur http://www.abssa.be/
+GEO:50.8343279;4.4397562
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Maquestiau Ph.";ROLE=Secrétaire:MAILTO:philippemaquestiau@y
+ ahoo.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J11: RED STAR BRUSSELS vs BEA WOLUWE
+DTSTART;VALUE=DATE-TIME:20231202T141500Z
+DTEND;VALUE=DATE-TIME:20231202T154500Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_5B_11_663_459
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
+ pale équipe domicile: Blanc et rouge\nCouleur principale équipe exterieu
+ re: Bleu\n\nContact équipe domicile: Helalouch A (0485.97.90.82 - redstar
+ brussels@gmail.com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette
+ .\nEn venant de Zaventem\, prendre à gauche à la sortie\, en venant de C
+ harleroi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au r
+ ond point. Le terrain se trouve en face de la pompe à essence Q8.\n\nVér
+ ifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.883299;4.316365
+LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
+ORGANIZER;CN="Helalouch A";ROLE=Secrétaire:MAILTO:redstarbrussels@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J13: FRAUDES (LES) vs BEA WOLUWE
+DTSTART;VALUE=DATE-TIME:20231209T123000Z
+DTEND;VALUE=DATE-TIME:20231209T140000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_5B_13_665_459
+DESCRIPTION:Terrain synthétique: non\nCode terrain: A10\n\nCouleur princi
+ pale équipe domicile: Noir et blanc\nCouleur principale équipe exterieur
+ e: Bleu\n\nContact équipe domicile: Struys L. (0491.84.27.37 - leo.struys
+ @telenet.be)\n\nAccès voiture : L'accès au terrain se fait à partir du 
+ n° 2057 de la chaussée de Wavre (en face du stade communal d'Auderghem).
+  L'accès au terrain se fait par l'arrière du bâtiment principal (où so
+ nt situés les vestiaires) il faut parcourir environ 300 mètres avant d'a
+ tteindre le terrain de football situé après la piste d'athlétisme et le
+  terrain de hockey.\n\nVérifiez toujours ces infos sur http://www.abssa.b
+ e/
+GEO:50.8093405;4.4437919
+LOCATION:Complexe de L'Adeps\, Chaussée de Wavre 2057\, 1160 Auderghem\, 
+ Belgique
+ORGANIZER;CN="Struys L.";ROLE=Secrétaire:MAILTO:leo.struys@telenet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J14: CHOULE AUDERGHEM (Eq. 4) vs BEA WOLUWE
+DTSTART;VALUE=DATE-TIME:20240113T143000Z
+DTEND;VALUE=DATE-TIME:20240113T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_5B_14_517_459
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W19\n\nCouleur princi
+ pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
+ erieure: Bleu\n\nContact équipe domicile: Vandenplas D. (0476.54.48.01 - 
+ dav_54@hotmail.com)\n\nAccès voiture : Ring de Bruxelles (RO)\, sortie n
+ ° 2. Prendre la direction Wezembeek-Oppem. Ensuite première rue à droit
+ e (Louis Marcelisstraat) puis la troisième à droite (Sportpleinstraat).\
+ nL'entrée au terrain se trouve à gauche entre les n° 16 et 24.\nPar la 
+ ville : A partir du rond point Montgomery\, prendre l'Avenue de Broquevill
+ e\, toujours tout droit. Passez devant le Shopping de Woluwé\, toujours t
+ out droit\, passez devant le magasin "Carrefour"\, puis au 2ème feu de si
+ gnalisation prendre à droite et ensuite tout droit. Au bout de la rue pre
+ ndre à droite\, le terrain se trouve à 100 mètres  sur la gauche.\n\nV
+ érifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8424578;4.486587999999999
+LOCATION:Sportpleinstraat 20\, 1970 Wezembeek - Oppem\, Belgique
+ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J15: BEA WOLUWE vs PECHEUR F.C.
+DTSTART;VALUE=DATE-TIME:20240120T130000Z
+DTEND;VALUE=DATE-TIME:20240120T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_5B_15_459_677
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Vert e
+ t blanc\n\nContact équipe domicile: Maquestiau Ph. (0485.49.62.62 - phili
+ ppemaquestiau@yahoo.com)\n\nAccès voiture : Avenue de Tervuren\, prendre 
+ l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujours
+  ces infos sur http://www.abssa.be/
+GEO:50.8343279;4.4397562
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Maquestiau Ph.";ROLE=Secrétaire:MAILTO:philippemaquestiau@y
+ ahoo.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J16: BEA WOLUWE vs SPIJTOIS FC
+DTSTART;VALUE=DATE-TIME:20240127T130000Z
+DTEND;VALUE=DATE-TIME:20240127T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_5B_16_459_631
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc 
+ Bordeaux\n\nContact équipe domicile: Maquestiau Ph. (0485.49.62.62 - phil
+ ippemaquestiau@yahoo.com)\n\nAccès voiture : Avenue de Tervuren\, prendre
+  l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujour
+ s ces infos sur http://www.abssa.be/
+GEO:50.8343279;4.4397562
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Maquestiau Ph.";ROLE=Secrétaire:MAILTO:philippemaquestiau@y
+ ahoo.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J17: WATERMAEL FC (Eq. 2) vs BEA WOLUWE
+DTSTART;VALUE=DATE-TIME:20240203T113000Z
+DTEND;VALUE=DATE-TIME:20240203T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_5B_17_611_459
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A10\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Deschamps J. (0477.67.76.37 - jul_desch@hotmai
+ l.com)\n\nAccès voiture : L'accès au terrain se fait à partir du n° 20
+ 57 de la chaussée de Wavre (en face du stade communal d'Auderghem). L'acc
+ ès au terrain se fait par l'arrière du bâtiment principal (où sont sit
+ ués les vestiaires) il faut parcourir environ 300 mètres avant d'atteind
+ re le terrain de football situé après la piste d'athlétisme et le terra
+ in de hockey.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8093405;4.4437919
+LOCATION:Complexe de L'Adeps\, Chaussée de Wavre 2057\, 1160 Auderghem\, 
+ Belgique
+ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J18: BEA WOLUWE vs GALACTIC JUMPERTZ
+DTSTART;VALUE=DATE-TIME:20240210T130000Z
+DTEND;VALUE=DATE-TIME:20240210T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_5B_18_459_659
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Orange
+ \n\nContact équipe domicile: Maquestiau Ph. (0485.49.62.62 - philippemaqu
+ estiau@yahoo.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"avenu
+ e Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujours ces in
+ fos sur http://www.abssa.be/
+GEO:50.8343279;4.4397562
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Maquestiau Ph.";ROLE=Secrétaire:MAILTO:philippemaquestiau@y
+ ahoo.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J26: BEA WOLUWE vs FRAUDES (LES)
+DTSTART;VALUE=DATE-TIME:20240224T130000Z
+DTEND;VALUE=DATE-TIME:20240224T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_5B_26_459_665
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir e
+ t blanc\n\nContact équipe domicile: Maquestiau Ph. (0485.49.62.62 - phili
+ ppemaquestiau@yahoo.com)\n\nAccès voiture : Avenue de Tervuren\, prendre 
+ l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujours
+  ces infos sur http://www.abssa.be/
+GEO:50.8343279;4.4397562
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Maquestiau Ph.";ROLE=Secrétaire:MAILTO:philippemaquestiau@y
+ ahoo.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J23: EFFETA FC vs BEA WOLUWE
+DTSTART;VALUE=DATE-TIME:20240302T113000Z
+DTEND;VALUE=DATE-TIME:20240302T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_5B_23_516_459
+DESCRIPTION:Terrain synthétique: non\nCode terrain: L05\n\nCouleur princi
+ pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
+ e: Bleu\n\nContact équipe domicile: Eryuruk K. (0487.34.08.40 - effetafc@
+ gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Anvers (A12)\, au premi
+ er feu de signalisation\, prendre à gauche\, direction Londerzeel. Suivre
+  la plaque Stationstraat. Passée la gare (après env. 1200 m.) prendre à
+  gauche au " Monument aux Morts". Le terrain se trouve à 50 m.\n\nVérifi
+ ez toujours ces infos sur http://www.abssa.be/
+GEO:51.0192214;4.2904455
+LOCATION:Verma\, Blauwenhoek 76\, 1840 Londerzeel\, Belgique
+ORGANIZER;CN="Eryuruk K.";ROLE=Secrétaire:MAILTO:effetafc@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J20: BEA WOLUWE vs MASIA CITY
+DTSTART;VALUE=DATE-TIME:20240309T130000Z
+DTEND;VALUE=DATE-TIME:20240309T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_5B_20_459_661
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge-
+ Noir\n\nContact équipe domicile: Maquestiau Ph. (0485.49.62.62 - philippe
+ maquestiau@yahoo.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"a
+ venue Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujours ce
+ s infos sur http://www.abssa.be/
+GEO:50.8343279;4.4397562
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Maquestiau Ph.";ROLE=Secrétaire:MAILTO:philippemaquestiau@y
+ ahoo.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J21: L'EKIP vs BEA WOLUWE
+DTSTART;VALUE=DATE-TIME:20240316T140000Z
+DTEND;VALUE=DATE-TIME:20240316T153000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_5B_21_662_459
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: P02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Maes A (0471.66.04.74 - lekipofficielle@gmail
+ .com)\n\nAccès voiture : a Partir de Bruxelles\, Prendre la E 411 en Dire
+ ction de Namur. Prendre la Sortie 11  Gembloux pour Rejoindre la N 29 en D
+ irection de Gembloux / Tirlement / Jodoigne / Perwez. suivre la N29 et Cha
+ ussée de Wavre (N243) en Direction de la Rue des Marronniers. au Rond-Poi
+ nt 1\, 2 et 3 Prendre chaque Fois la première Sortie.\nAu Rond-Point suiv
+ ant (4Ième) Prendre la deuxième Sortie et Continuer sur la Chaussée de 
+ Wavre / N 243. Prendre à Droite sur la Rue des Marronniers\, le Terrain s
+ e Trouve à Droite\n\nVérifiez toujours ces infos sur http://www.abssa.be
+ /
+GEO:50.6251834;4.8051205
+LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
+ORGANIZER;CN="Maes A";ROLE=Secrétaire:MAILTO:lekipofficielle@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J22: BEA WOLUWE vs SPORTING BW
+DTSTART;VALUE=DATE-TIME:20240323T130000Z
+DTEND;VALUE=DATE-TIME:20240323T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_5B_22_459_673
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Maquestiau Ph. (0485.49.62.62 - philippemaque
+ stiau@yahoo.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"avenue
+  Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujours ces inf
+ os sur http://www.abssa.be/
+GEO:50.8343279;4.4397562
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Maquestiau Ph.";ROLE=Secrétaire:MAILTO:philippemaquestiau@y
+ ahoo.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J25: UNION BRUXELLOISE vs BEA WOLUWE
+DTSTART;VALUE=DATE-TIME:20240406T103000Z
+DTEND;VALUE=DATE-TIME:20240406T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_5B_25_655_459
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: Noir/ Bleu\nCouleur principale équipe exterieure: 
+ Bleu\n\nContact équipe domicile: Herinckx C. (0472.83.06.56 - union.bruxe
+ lloise@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autor
+ oute Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer so
+ us le pont de l'autoroute et prendre la direction de Nivelles. A 200 m.\, 
+ au rond-point (Shopping Center)\, tourner à droite en direction de Wavre 
+ (petit ring de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-p
+ oint du Shopping Center)\, tourner à gauche \, rue de l'Industrie et pén
+ étrer dans le zoning. Au bout de la rue\, avant le feu de signalisation\,
+  tourner à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVé
+ rifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.5963436;4.3564187
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Herinckx C.";ROLE=Secrétaire:MAILTO:union.bruxelloise@gmail
+ .com
 END:VEVENT
 END:VCALENDAR

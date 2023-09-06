@@ -1,0 +1,131 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:abbsa_j_10_d_4c
+X-WR-CALDESC:Les matches de la journée 10 en divion 4C d'ABSSA.
+X-WR-CALNAME:D4C Journée 10
+BEGIN:VEVENT
+SUMMARY:ABSSA D4C J10: AZUR RCS (Eq. 4) vs SPARTAK SYNERGY
+DTSTART;VALUE=DATE-TIME:20230902T100000Z
+DTEND;VALUE=DATE-TIME:20230902T113000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_4C_10_109_637
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W12\n\nCouleur princi
+ pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: R
+ ouge et blanc\n\nContact équipe domicile: Mad. Decamps N. (0477.27.39.66 
+ - nathalie_decamps@hotmail.com)\n\nAccès voiture : Avenue de Tervuren\, d
+ irection Tervuren. Passé le boulevard du Souverain prendre à gauche au p
+ remier feu de signalisation (Av. Madoux). Au feu de signalisation suivant 
+ prendre la 2ème rue à main droite (Av. J. Dujardin). Ensuite 1ère rue 
+ à gauche (Av. Salomé).\n\nVérifiez toujours ces infos sur http://www.ab
+ ssa.be/
+GEO:50.830818;4.455442
+LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
+ elgique
+ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
+ tmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4C J10: SNEAKY BABOONS vs BRUSSELS LTC (Eq. 4)
+DTSTART;VALUE=DATE-TIME:20230902T103000Z
+DTEND;VALUE=DATE-TIME:20230902T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_4C_10_641_39
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bordea
+ ux\n\nContact équipe domicile: Stasse\, W (0473.95.76.80 - willstasse@gma
+ il.com)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. 
+ Passer devant l'église\, longer l'autoroute et tourner à droite au cimet
+ ière des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur h
+ ttp://www.abssa.be/
+GEO:50.7282426;4.5537189
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="Stasse, W";ROLE=Secrétaire:MAILTO:willstasse@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4C J10: WONG A.S. (Eq. 2) vs FORESTOIS SC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20230902T120000Z
+DTEND;VALUE=DATE-TIME:20230902T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_4C_10_523_152
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: T07\n\nCouleur princi
+ pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Noir\
+ n\nContact équipe domicile: Van Impe J. (0476.78.52.59 - vanimpe-julien@h
+ otmail.be)\n\nAccès voiture : Aux quatre-Bras\, prendre direction Tervure
+ n via l’avenue de Tervuren(N3) pendant 750M\nAu rond-point\, prendre la 
+ 1ère sortie et continuer sur l’avenue de Tervuren pendant 1\,2km puis p
+ rendre à droite sur la chaussée de Bruxelles pendant 500m. Ensuite Prend
+ re légèrement sur la droite dans la Wijngaardstraat pendant 400m et tour
+ ner à gauche dans la Pepperstraat pendant 400m. Ensuite tourner à droite
+  sur la chaussée de Duisburg et rouler pendant 1\,4 km... Continuer tout 
+ droit sur la chaussée de Tervuren pendant 1\,3 km et prendre à gauche da
+ ns la rue de destination ( Schonenboomstraat).\nLe terrain se situe sur la
+  droite de la route!\n\nVérifiez toujours ces infos sur http://www.abssa.
+ be/
+GEO:50.8107232;4.5492332
+LOCATION:Schonenboormstraat\, 3080 Tervuren\, Belgique
+ORGANIZER;CN="Van Impe J.";ROLE=Secrétaire:MAILTO:vanimpe-julien@hotmail.
+ be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4C J10: GOALOIS (Eq. 2) vs PICARDIE AS
+DTSTART;VALUE=DATE-TIME:20230902T130000Z
+DTEND;VALUE=DATE-TIME:20230902T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_4C_10_345_63
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
+ pale équipe domicile: Rouge et Blanc\nCouleur principale équipe exterieu
+ re: Bleu\n\nContact équipe domicile: Laruelle M. (0494.52.09.71 - martin.
+ laruelle@gmail.com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette
+ .\nEn venant de Zaventem\, prendre à gauche à la sortie\, en venant de C
+ harleroi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au r
+ ond point. Le terrain se trouve en face de la pompe à essence Q8.\n\nVér
+ ifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.883299;4.316365
+LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
+ORGANIZER;CN="Laruelle M.";ROLE=Secrétaire:MAILTO:martin.laruelle@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4C J10: NIVELLOIS-ACLOT BS vs PATRONS (LES)
+DTSTART;VALUE=DATE-TIME:20230902T130000Z
+DTEND;VALUE=DATE-TIME:20230902T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_4C_10_503_628
+DESCRIPTION:Terrain synthétique: non\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
+ e: Rouge\n\nContact équipe domicile: Draux N. (0472.40.01.22 - ni.draux@g
+ mail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoroute Bru
+ xelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le po
+ nt de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au rond-
+ point (Shopping Center)\, tourner à droite en direction de Wavre (petit r
+ ing de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point du 
+ Shopping Center)\, tourner à gauche \, rue de l'Industrie et pénétrer d
+ ans le zoning. Au bout de la rue\, avant le feu de signalisation\, tourner
+  à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérifiez t
+ oujours ces infos sur http://www.abssa.be/
+GEO:50.5963436;4.3564187
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Draux N.";ROLE=Secrétaire:MAILTO:ni.draux@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4C J10: BEEKINGS F.C. vs MACAPSULES (LES)
+DTSTART;VALUE=DATE-TIME:20230902T133000Z
+DTEND;VALUE=DATE-TIME:20230902T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_4C_10_648_627
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R03\n\nCouleur princi
+ pale équipe domicile: Jaune et noir\nCouleur principale équipe exterieur
+ e: Vert/blanc\n\nContact équipe domicile: Thonart W. (0475.96.36.63 - wil
+ liamthonart@gmail.com)\n\nAccès voiture : Par la E411 Bruxelles-Namur\, p
+ rendre la sortie n° 5 (Wavre Nord\, Rixensart\, Bierges).\nEnsuite prendr
+ e la N257 pendant 700 mètres jusqu'au rond-point\, prendre la rue de l'Et
+ oile et ensuite la rue de Mérode jusqu'à Rixensart. Après 900 mètres\,
+  à la Place de la Perche\, prendre à droite l'avenue de la Paix et encor
+ e à droite l'avenue Clermont Tonnerre.\n\nVérifiez toujours ces infos su
+ r http://www.abssa.be/
+GEO:50.7128483;4.5376972
+LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
+ 30 Rixensart\, Belgique
+ORGANIZER;CN="Thonart W.";ROLE=Secrétaire:MAILTO:williamthonart@gmail.com
+END:VEVENT
+END:VCALENDAR

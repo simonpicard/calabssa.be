@@ -1,0 +1,138 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:abbsa_j_18_d_2b
+X-WR-CALDESC:Les matches de la journée 18 en divion 2B d'ABSSA.
+X-WR-CALNAME:D2B Journée 18
+BEGIN:VEVENT
+SUMMARY:ABSSA D2B J18: BESACE RFC vs AZUR RCS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240210T123000Z
+DTEND;VALUE=DATE-TIME:20240210T140000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_2B_18_24_109
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu c
+ iel\n\nContact équipe domicile: Masset M. (0485.61.39.19 - rfcbesace.024@
+ gmail.com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nEn ven
+ ant de Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi 
+ prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point
+ . Le terrain se trouve en face de la pompe à essence Q8.\n\nVérifiez tou
+ jours ces infos sur http://www.abssa.be/
+GEO:50.883299;4.316365
+LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
+ORGANIZER;CN="Masset M.";ROLE=Secrétaire:MAILTO:rfcbesace.024@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2B J18: TOURINNOIS FC (Eq. 2) vs BRUSSELS BRITISH R (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20240210T123000Z
+DTEND;VALUE=DATE-TIME:20240210T140000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_2B_18_292_1
+DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Blanc
+ \n\nContact équipe domicile: Strade P. (010.65.83.02 - stradepaul@hotmail
+ .com)\n\nAccès voiture : A partir de l'autoroute Bruxelles-Namur (E411)\,
+  prendre la sortie  Walhain (n° 10). Au pied de la rampe d'accès\, suivr
+ e la direction Walhain vers la droite et après 200 m. prendre à droite e
+ t 400 m. plus loin\, prendre à nouveau à droite. Le terrain se trouve à
+  +/- 300 m. sur la gauche.\n\nVérifiez toujours ces infos sur http://www.
+ abssa.be/
+GEO:50.6414624;4.7191939
+LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
+ORGANIZER;CN="Strade P.";ROLE=Secrétaire:MAILTO:stradepaul@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2B J18: RAPID TAMTAM FC. vs GOALOIS
+DTSTART;VALUE=DATE-TIME:20240210T130000Z
+DTEND;VALUE=DATE-TIME:20240210T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_2B_18_600_345
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Jaune et rose\nCouleur principale équipe exterieur
+ e: Bordeaux-Bleu\n\nContact équipe domicile: Barbay T. (0477.57.99.43 - f
+ crapidtamtam@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prend
+ re la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminu
+ s bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez touj
+ ours ces infos sur http://www.abssa.be/
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Barbay T.";ROLE=Secrétaire:MAILTO:fcrapidtamtam@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2B J18: LA LORRAINE-MTM.R vs BRITISH UNITED (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240210T130000Z
+DTEND;VALUE=DATE-TIME:20240210T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_2B_18_44_132
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Bordeaux/bleu\nCouleur principale équipe exterieur
+ e: Bleu\n\nContact équipe domicile: Degimbe M. (0478.53.63.56 - lalorrain
+ efc@gmail.com)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosi
+ ères. Passer devant l'église\, longer l'autoroute et tourner à droite a
+ u cimetière des animaux. Terrain à 200 m.\n\nVérifiez toujours ces info
+ s sur http://www.abssa.be/
+GEO:50.7282426;4.5537189
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="Degimbe M.";ROLE=Secrétaire:MAILTO:lalorrainefc@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2B J18: SCHEUT FC vs BIG J - ASPS
+DTSTART;VALUE=DATE-TIME:20240210T133000Z
+DTEND;VALUE=DATE-TIME:20240210T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_2B_18_274_137
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Gris et Noir\nCouleur principale équipe exterieure
+ : Bleu\n\nContact équipe domicile: Huys R. (0477.59.24.22 - fcscheut@yaho
+ o.fr)\n\nAccès voiture : En venant de la Route de Lennik (Citroën) ou de
+  la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Anderl
+ echt\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la sor
+ tie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe et
+  des terrains se situe à +/- 500 m. sur la gauche.\n\nVérifiez toujours 
+ ces infos sur http://www.abssa.be/
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Huys R.";ROLE=Secrétaire:MAILTO:fcscheut@yahoo.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2B J18: ENGHIEN AMICAL vs FORESTOIS SC
+DTSTART;VALUE=DATE-TIME:20240210T140000Z
+DTEND;VALUE=DATE-TIME:20240210T153000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_2B_18_31_152
+DESCRIPTION:Terrain synthétique: non\nCode terrain: E02\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Vanderplasschen E. (0475.87.45.71 - e.vdps.ev@
+ gmail.com)\n\nAccès voiture : Prendre la E429 (Lille-Tournai-Ath) à haut
+ eur de Halle. Prendre la sortie Petit-Enghien-Hoves (25)\, prendre à droi
+ te\, direction  Petit-Enghien. Au bout de la route prendre à gauche\, dir
+ ection Enghien. Arrivé à Enghien\, prendre la 2ème rue à gauche\, suiv
+ re le panneau "Auberge du Vieux Cèdre".\n\nVérifiez toujours ces infos s
+ ur http://www.abssa.be/
+GEO:50.6970878;4.0470023
+LOCATION:R. Enghien Sport (Parc)\, Rue Saint Quentin\, 7850 Enghien\, Belg
+ ique
+ORGANIZER;CN="Vanderplasschen E.";ROLE=Secrétaire:MAILTO:e.vdps.ev@gmail.
+ com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2B J18: BOUSVAL GENAPPE vs ETINCELLE FC
+DTSTART;VALUE=DATE-TIME:20240210T143000Z
+DTEND;VALUE=DATE-TIME:20240210T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_2B_18_401_35
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Jaune 
+ et bleu\n\nContact équipe domicile: Gossiaux S. (0473.44.25.52 - gossiaux
+ _sebastien@hotmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le
+  Ring Ouest\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxe
+ lles-Charleroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne
+ \, traverser le carrefour\, tout droit direction route du sucre.\n\nVérif
+ iez toujours ces infos sur http://www.abssa.be/
+GEO:50.6007528;4.4472782
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER;CN="Gossiaux S.";ROLE=Secrétaire:MAILTO:gossiaux_sebastien@hotm
+ ail.com
+END:VEVENT
+END:VCALENDAR

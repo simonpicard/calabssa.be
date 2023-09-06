@@ -1,308 +1,553 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:4080fa61-ab20-4f4e-a410-436e2c7f8a5d
-X-WR-CALDESC:Les matches de BOUKS  FC (eq. 1) en ABSSA.
-X-WR-CALNAME:ABSSA - BOUKS  FC (eq. 1) - 579
-X-WR-TIMEZONE:Europe/Brussels
+PRODID:579_1_bouks_fc
+X-WR-CALDESC:Les matches du club BOUKS  FC (equipe 1) en ABSSA.
+X-WR-CALNAME:ABSSA: BOUKS  FC (eq. 1)
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J2: STER'S vs BOUKS  FC
-DTSTART:20220910T123000Z
-DTEND:20220910T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:8b310625-1d72-4f0c-a127-ed789f545561
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert et Blanc\nCouleur principale équipe extérieur: Bleu\n\nContact 
- équipe domicile: REGINSTER Th. (0475.52.11.27)\n\nAccès voiture : En ven
- ant de Bruxelles\, prendre l'autoroute E411 en direction de Namur\, prendr
- e la sortie  Wavre (n° 6)\, tenir la droite et au bout de la bretelle\, p
- rendre la direction d'Ottignies par la N238. Au 1èr feu de signalisation 
- continuer tout droit en passant devant Walibi (qui se trouve sur la gauche
- ) jusqu'à la sortie Limelette. Au bout de cette sortie\, en face du Tenni
- s Club La Palestre\, prendre à droite la rue Charles Dubois\, jusqu'au ca
- rrefour principal. Continuer tout droit en traversant l'avenue Albert 1èr
- . Passer en dessous du 1èr pont du chemin de fer et prendre la rue de l'E
- urope jusqu'à la place de l'Europe. Traverser cette place par la droite. 
- Au bout à gauche\, suivre l'avenue Jassans. Ensuite 1ère rue à gauche\,
-   la rue Bustan (panneau F.C. Limelette). Continuer cette rue et passer en
-  dessous du 2ème pont du chemin de fer. Après ce pont\, prendre tout de 
- suite à gauche l'avenue Demolder (panneau F.C. Limelette)\, en face de l'
- étang du Buston. Suivre cette avenue jusqu'à la 4ème rue à droite\, l'
- avenue des Mérisiers. Après 50 m. dans cette rue\, prendre à droite l'a
- venue des Sorbiers (panneau du F.C. Limelette). L'entrée du terrain est s
- ituée 50 m. plus bas sur la gauche.
-GEO:50.6762848;4.562820299999999
-LOCATION:Avenue des Sorbiers\, 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER:MAILTO:Thomas.reginster@live.be
+SUMMARY:ABSSA D3D J10: BOUKS  FC vs COPAINS REUNIS
+DTSTART;VALUE=DATE-TIME:20230902T133000Z
+DTEND;VALUE=DATE-TIME:20230902T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_3D_10_579_49
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu f
+ oncé\n\nContact équipe domicile: Schapira  F. (0485.60.96.01 - francois_
+ schapira5@hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre l
+ e Ring Est direction Waterloo. Sortir au pont de Groenendael\, direction L
+ a Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\,
+  toujours tout droit. Au feu de signalisation et le carrefour de La Hulpe\
+ , tout droit direction Genval. Au feu de signalisation prendre à gauche e
+ t ensuite directement à droite\, l'avenue Soyer\, derrière le G.B. Le te
+ rrain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.a
+ bssa.be/
+GEO:50.7309318;4.4945865
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Schapira  F.";ROLE=Secrétaire:MAILTO:francois_schapira5@hot
+ mail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J12: BOUKS  FC vs ETTEKIJS (Eq. 2)
-DTSTART:20221126T153000Z
-DTEND:20221126T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:20f7b364-b7f3-4acb-8f2c-17f852ffb226
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Noir rayé de blanc\n\nCo
- ntact équipe domicile: SCHAPIRA  F. (0485.60.96.01)\n\nAccès voiture : V
- enant de Bruxelles\, prendre le Ring Est direction Waterloo. Sortir au pon
- t de Groenendael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. A
- près le chateau de La Hulpe\, toujours tout droit. Au feu de signalisatio
- n et le carrefour de La Hulpe\, tout droit direction Genval. Au feu de sig
- nalisation prendre à gauche et ensuite directement à droite\, l'avenue S
- oyer\, derrière le G.B. Le terrain se trouve à 300 m.
-GEO:50.7309582;4.4952087
-LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:francois_schapira5@hotmail.com
+SUMMARY:ABSSA D3D J1: COLO-COLO UNITED vs BOUKS  FC
+DTSTART;VALUE=DATE-TIME:20230909T103000Z
+DTEND;VALUE=DATE-TIME:20230909T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_3D_1_625_579
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Bleu foncé et blanc\nCouleur principale équipe ex
+ terieure: Bleu\n\nContact équipe domicile: De Le Court Y. (0472.35.25.20 
+ - youdelecourt@gmail.com)\n\nAccès voiture : Au départ de la Place Meise
+ r\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2
+ ). Sous le viaduc prendre à droite\, l'avenue des Anciens Combattants. Ju
+ ste après le carrefour avec des feux de signalisation prendre à droite v
+ ers la Place de la Chapelle\, puis prendre la 4ème rue à main droite (ru
+ e au Bois). Le terrain se trouve à 300 m. sur la droite.\n\nVérifiez tou
+ jours ces infos sur http://www.abssa.be/
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="De Le Court Y.";ROLE=Secrétaire:MAILTO:youdelecourt@gmail.c
+ om
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J13: BOUKS  FC vs STER'S
-DTSTART:20221203T153000Z
-DTEND:20221203T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:b32ce22f-94df-494a-bc71-03759c66e903
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Vert et Blanc\n\nContact 
- équipe domicile: SCHAPIRA  F. (0485.60.96.01)\n\nAccès voiture : Venant 
- de Bruxelles\, prendre le Ring Est direction Waterloo. Sortir au pont de G
- roenendael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. Après 
- le chateau de La Hulpe\, toujours tout droit. Au feu de signalisation et l
- e carrefour de La Hulpe\, tout droit direction Genval. Au feu de signalisa
- tion prendre à gauche et ensuite directement à droite\, l'avenue Soyer\,
-  derrière le G.B. Le terrain se trouve à 300 m.
-GEO:50.7309582;4.4952087
-LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:francois_schapira5@hotmail.com
+SUMMARY:ABSSA D3D J2: BOUKS  FC vs SYB  RFC
+DTSTART;VALUE=DATE-TIME:20230916T133000Z
+DTEND;VALUE=DATE-TIME:20230916T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_3D_2_579_48
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rayé 
+ Vert et blanc\n\nContact équipe domicile: Schapira  F. (0485.60.96.01 - f
+ rancois_schapira5@hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, p
+ rendre le Ring Est direction Waterloo. Sortir au pont de Groenendael\, dir
+ ection La Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La
+  Hulpe\, toujours tout droit. Au feu de signalisation et le carrefour de L
+ a Hulpe\, tout droit direction Genval. Au feu de signalisation prendre à 
+ gauche et ensuite directement à droite\, l'avenue Soyer\, derrière le G.
+ B. Le terrain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http
+ ://www.abssa.be/
+GEO:50.7309318;4.4945865
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Schapira  F.";ROLE=Secrétaire:MAILTO:francois_schapira5@hot
+ mail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J14: CELTIC ROOSTERS vs BOUKS  FC
-DTSTART:20221210T153000Z
-DTEND:20221210T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:f82f39fc-ca18-4808-9130-26fe080026fd
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert et blanc\nCouleur principale équipe extérieur: Bleu\n\nContact 
- équipe domicile: DUBOIS S. (0479.04.13.70)\n\nAccès voiture : Autoroute 
- E 411 direction Namur / Luxembourg\, prendre la sortie n° 6 Wavre\, à ga
- uche N 238 direction Wavre. Au rond-	point 2ième sortie N238/Blvd. de l'E
- urope direction Wavre Centre. Entrer dans Wavre puis à gauche N 238\, à 
- gauche N 239. 	Au rond-point prendre la première sortie Rue Haute\, conti
- nuer sur rue de Bruxelles\, continuer sur rue Saint-Roch\, continuer 	sur 
- rue Joseph Joppart. Prendre à droite l'avenue du Centre Sportif.
-GEO:50.7216297;4.6192566
-LOCATION:Stade JUSTIN PEETERS\, Avenue du Centre Sportif\, 20\, 1300 Wavre
+SUMMARY:ABSSA D3D J3: RAPID MYMOL vs BOUKS  FC
+DTSTART;VALUE=DATE-TIME:20230923T120000Z
+DTEND;VALUE=DATE-TIME:20230923T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_3D_3_622_579
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W19\n\nCouleur princi
+ pale équipe domicile: Bleu et Jaune\nCouleur principale équipe exterieur
+ e: Bleu\n\nContact équipe domicile: Delanghe A. (0498.42.21.39 - rapidmym
+ olabssa@gmail.com)\n\nAccès voiture : Ring de Bruxelles (RO)\, sortie n°
+  2. Prendre la direction Wezembeek-Oppem. Ensuite première rue à droite 
+ (Louis Marcelisstraat) puis la troisième à droite (Sportpleinstraat).\nL
+ 'entrée au terrain se trouve à gauche entre les n° 16 et 24.\nPar la vi
+ lle : A partir du rond point Montgomery\, prendre l'Avenue de Broqueville\
+ , toujours tout droit. Passez devant le Shopping de Woluwé\, toujours tou
+ t droit\, passez devant le magasin "Carrefour"\, puis au 2ème feu de sign
+ alisation prendre à droite et ensuite tout droit. Au bout de la rue prend
+ re à droite\, le terrain se trouve à 100 mètres  sur la gauche.\n\nVér
+ ifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8424578;4.486587999999999
+LOCATION:Sportpleinstraat 20\, 1970 Wezembeek - Oppem\, Belgique
+ORGANIZER;CN="Delanghe A.";ROLE=Secrétaire:MAILTO:rapidmymolabssa@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J4: BOUKS  FC vs NEW ARQUOIS FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20230930T133000Z
+DTEND;VALUE=DATE-TIME:20230930T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_3D_4_579_263
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Schapira  F. (0485.60.96.01 - francois_schapir
+ a5@hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre le Ring 
+ Est direction Waterloo. Sortir au pont de Groenendael\, direction La Hulpe
+ \, Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujou
+ rs tout droit. Au feu de signalisation et le carrefour de La Hulpe\, tout 
+ droit direction Genval. Au feu de signalisation prendre à gauche et ensui
+ te directement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain s
+ e trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa.be
+ /
+GEO:50.7309318;4.4945865
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Schapira  F.";ROLE=Secrétaire:MAILTO:francois_schapira5@hot
+ mail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J5: IRLANDE FC (Eq. 4) vs BOUKS  FC
+DTSTART;VALUE=DATE-TIME:20231007T120000Z
+DTEND;VALUE=DATE-TIME:20231007T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_3D_5_402_579
+DESCRIPTION:Terrain synthétique: non\nCode terrain: N04\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Bridoux J.F. (0455.12.12.65 - fci.secretary.me
+ ns@outlook.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à Nossegem
+ \, au premier croisement prendre à gauche la \nMechelsesteenweg. Le terra
+ in est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\
+ , prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelseste
+ enweg\, traverser la chaussée de Louvain\, et suivre comme ci-avant.\n\nV
+ érifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.88776559999999;4.50894
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER;CN="Bridoux J.F.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@out
+ look.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J6: BOUKS  FC vs SAINT GEORGES RCS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20231014T133000Z
+DTEND;VALUE=DATE-TIME:20231014T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_3D_6_579_221
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Schapira  F. (0485.60.96.01 - francois_schapi
+ ra5@hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre le Ring
+  Est direction Waterloo. Sortir au pont de Groenendael\, direction La Hulp
+ e\, Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujo
+ urs tout droit. Au feu de signalisation et le carrefour de La Hulpe\, tout
+  droit direction Genval. Au feu de signalisation prendre à gauche et ensu
+ ite directement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain 
+ se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa.b
+ e/
+GEO:50.7309318;4.4945865
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Schapira  F.";ROLE=Secrétaire:MAILTO:francois_schapira5@hot
+ mail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J8: BOUKS  FC vs NEW INN FC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20231021T133000Z
+DTEND;VALUE=DATE-TIME:20231021T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_3D_8_579_359
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir e
+ t rouge\n\nContact équipe domicile: Schapira  F. (0485.60.96.01 - francoi
+ s_schapira5@hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre
+  le Ring Est direction Waterloo. Sortir au pont de Groenendael\, direction
+  La Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe
+ \, toujours tout droit. Au feu de signalisation et le carrefour de La Hulp
+ e\, tout droit direction Genval. Au feu de signalisation prendre à gauche
+  et ensuite directement à droite\, l'avenue Soyer\, derrière le G.B. Le 
+ terrain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www
+ .abssa.be/
+GEO:50.7309318;4.4945865
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Schapira  F.";ROLE=Secrétaire:MAILTO:francois_schapira5@hot
+ mail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J24: MACCABI BXL vs BOUKS  FC
+DTSTART;VALUE=DATE-TIME:20231028T120000Z
+DTEND;VALUE=DATE-TIME:20231028T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_3D_24_634_579
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Goudsmit G (0472.77.57.89 - maccabibxl@gmail.c
+ om)\n\nAccès voiture : Au départ de la Place St. Denis à Forest prendre
+  la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à dr
+ oite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gauche
+  (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du Co
+ mplexe se trouve à hauteur de City Cart\, à gauche de la route.\n\nVéri
+ fiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER;CN="Goudsmit G";ROLE=Secrétaire:MAILTO:maccabibxl@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J7: ETTEKIJS (Eq. 2) vs BOUKS  FC
+DTSTART;VALUE=DATE-TIME:20231104T113000Z
+DTEND;VALUE=DATE-TIME:20231104T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_3D_7_343_579
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Noir rayé de blanc\nCouleur principale équipe ext
+ erieure: Bleu\n\nContact équipe domicile: Raes F. (0479.73.82.49 - freddy
+ .raes@gmail.com)\n\nAccès voiture : A partir du square des Archiducs\, pr
+ endre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez touj
+ ours ces infos sur http://www.abssa.be/
+GEO:50.8059082;4.4137428
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J9: CHENOIS SC (Eq. 2) vs BOUKS  FC
+DTSTART;VALUE=DATE-TIME:20231118T123000Z
+DTEND;VALUE=DATE-TIME:20231118T140000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_3D_9_84_579
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W02\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Versmissen P. (0495.59.61.77 - sc.chenois@wat
+ erloo.eu)\n\nAccès voiture : Venant d'Uccle\, prendre la chaussée de Wat
+ erloo\, ensuite la chaussée de Bruxelles\, continuer jusqu'à la place E.
+  Vandevelde (intersection de la chaussée de Bruxelles avec la chaussée d
+ e Tervuren à Joli-Bois). Au feu de signalisation prendre à droite la cha
+ ussée Bara. Le terrain se trouve à droite à +/- 500 m.\n\nVérifiez tou
+ jours ces infos sur http://www.abssa.be/
+GEO:50.701676;4.397567
+LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
+ORGANIZER;CN="Versmissen P.";ROLE=Secrétaire:MAILTO:sc.chenois@waterloo.e
+ u
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J12: NO BOYS vs BOUKS  FC
+DTSTART;VALUE=DATE-TIME:20231125T113000Z
+DTEND;VALUE=DATE-TIME:20231125T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_3D_12_420_579
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Deby P. (0479.94.64.38 - pierredeby@gmail.com
+ )\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 300 m. en dire
+ ction de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\, car
+ refour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo Lamb
+ ert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en direction de Len
+ nik.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8177358;4.2557195
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER;CN="Deby P.";ROLE=Secrétaire:MAILTO:pierredeby@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J11: BOUKS  FC vs MACCABI BXL
+DTSTART;VALUE=DATE-TIME:20231202T143000Z
+DTEND;VALUE=DATE-TIME:20231202T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_3D_11_579_634
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Schapira  F. (0485.60.96.01 - francois_schapir
+ a5@hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre le Ring 
+ Est direction Waterloo. Sortir au pont de Groenendael\, direction La Hulpe
+ \, Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujou
+ rs tout droit. Au feu de signalisation et le carrefour de La Hulpe\, tout 
+ droit direction Genval. Au feu de signalisation prendre à gauche et ensui
+ te directement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain s
+ e trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa.be
+ /
+GEO:50.7309318;4.4945865
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Schapira  F.";ROLE=Secrétaire:MAILTO:francois_schapira5@hot
+ mail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J13: BOUKS  FC vs CELTIC ROOSTERS
+DTSTART;VALUE=DATE-TIME:20231209T143000Z
+DTEND;VALUE=DATE-TIME:20231209T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_3D_13_579_626
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Vert e
+ t blanc\n\nContact équipe domicile: Schapira  F. (0485.60.96.01 - francoi
+ s_schapira5@hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre
+  le Ring Est direction Waterloo. Sortir au pont de Groenendael\, direction
+  La Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe
+ \, toujours tout droit. Au feu de signalisation et le carrefour de La Hulp
+ e\, tout droit direction Genval. Au feu de signalisation prendre à gauche
+  et ensuite directement à droite\, l'avenue Soyer\, derrière le G.B. Le 
+ terrain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www
+ .abssa.be/
+GEO:50.7309318;4.4945865
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Schapira  F.";ROLE=Secrétaire:MAILTO:francois_schapira5@hot
+ mail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J14: BOUKS  FC vs COLO-COLO UNITED
+DTSTART;VALUE=DATE-TIME:20240113T143000Z
+DTEND;VALUE=DATE-TIME:20240113T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_3D_14_579_625
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu f
+ oncé et blanc\n\nContact équipe domicile: Schapira  F. (0485.60.96.01 - 
+ francois_schapira5@hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, 
+ prendre le Ring Est direction Waterloo. Sortir au pont de Groenendael\, di
+ rection La Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de L
+ a Hulpe\, toujours tout droit. Au feu de signalisation et le carrefour de 
+ La Hulpe\, tout droit direction Genval. Au feu de signalisation prendre à
+  gauche et ensuite directement à droite\, l'avenue Soyer\, derrière le G
+ .B. Le terrain se trouve à 300 m.\n\nVérifiez toujours ces infos sur htt
+ p://www.abssa.be/
+GEO:50.7309318;4.4945865
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Schapira  F.";ROLE=Secrétaire:MAILTO:francois_schapira5@hot
+ mail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J15: SYB  RFC vs BOUKS  FC
+DTSTART;VALUE=DATE-TIME:20240120T143000Z
+DTEND;VALUE=DATE-TIME:20240120T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_3D_15_48_579
+DESCRIPTION:Terrain synthétique: non\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Rayé Vert et blanc\nCouleur principale équipe ext
+ erieure: Bleu\n\nContact équipe domicile: Joie C (0496.87.21.50 - christo
+ phe.joie@hotmail.com)\n\nAccès voiture : En venant de la Route de Lennik 
+ (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre la direction du cim
+ etière d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-poin
+ t prendre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entré
+ e du complexe et des terrains se situe à +/- 500 m. sur la gauche.\n\nVé
+ rifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
  \, Belgique
-ORGANIZER:MAILTO:celticroosters@gmail.com
+ORGANIZER;CN="Joie C";ROLE=Secrétaire:MAILTO:christophe.joie@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J15: BOUKS  FC vs CENTRAL PARK FC
-DTSTART:20221217T153000Z
-DTEND:20221217T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:d9853c85-a612-4f02-b746-da5ba5de29c1
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Bleu et rouge\n\nContact 
- équipe domicile: SCHAPIRA  F. (0485.60.96.01)\n\nAccès voiture : Venant 
- de Bruxelles\, prendre le Ring Est direction Waterloo. Sortir au pont de G
- roenendael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. Après 
- le chateau de La Hulpe\, toujours tout droit. Au feu de signalisation et l
- e carrefour de La Hulpe\, tout droit direction Genval. Au feu de signalisa
- tion prendre à gauche et ensuite directement à droite\, l'avenue Soyer\,
-  derrière le G.B. Le terrain se trouve à 300 m.
-GEO:50.7309582;4.4952087
-LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:francois_schapira5@hotmail.com
+SUMMARY:ABSSA D3D J16: BOUKS  FC vs RAPID MYMOL
+DTSTART;VALUE=DATE-TIME:20240127T143000Z
+DTEND;VALUE=DATE-TIME:20240127T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_3D_16_579_622
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu e
+ t Jaune\n\nContact équipe domicile: Schapira  F. (0485.60.96.01 - francoi
+ s_schapira5@hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre
+  le Ring Est direction Waterloo. Sortir au pont de Groenendael\, direction
+  La Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe
+ \, toujours tout droit. Au feu de signalisation et le carrefour de La Hulp
+ e\, tout droit direction Genval. Au feu de signalisation prendre à gauche
+  et ensuite directement à droite\, l'avenue Soyer\, derrière le G.B. Le 
+ terrain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www
+ .abssa.be/
+GEO:50.7309318;4.4945865
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Schapira  F.";ROLE=Secrétaire:MAILTO:francois_schapira5@hot
+ mail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J16: BOUKS  FC vs SAINT GEORGES RCS (Eq. 2)
-DTSTART:20230107T153000Z
-DTEND:20230107T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:6e5296df-977a-43f1-b526-897e69f2a85f
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Blanc\n\nContact équipe 
- domicile: SCHAPIRA  F. (0485.60.96.01)\n\nAccès voiture : Venant de Bruxe
- lles\, prendre le Ring Est direction Waterloo. Sortir au pont de Groenenda
- el\, direction La Hulpe\, Genval. Tout droit pendant 2 km. Après le chate
- au de La Hulpe\, toujours tout droit. Au feu de signalisation et le carref
- our de La Hulpe\, tout droit direction Genval. Au feu de signalisation pre
- ndre à gauche et ensuite directement à droite\, l'avenue Soyer\, derriè
- re le G.B. Le terrain se trouve à 300 m.
-GEO:50.7309582;4.4952087
-LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:francois_schapira5@hotmail.com
+SUMMARY:ABSSA D3D J17: NEW ARQUOIS FC (Eq. 2) vs BOUKS  FC
+DTSTART;VALUE=DATE-TIME:20240203T113000Z
+DTEND;VALUE=DATE-TIME:20240203T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_3D_17_263_579
+DESCRIPTION:Terrain synthétique: non\nCode terrain: A12\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Beka J-M. (0495.25.31.25 - jmbeka73@gmail.com)
+ \n\nAccès voiture : Autoroute E 19 (Bruxelles-Charleroi)\, sortie Arquenn
+ es. Direction Seneffe-La-Louvière. A la station d'essence Total\, prendre
+  à droite pendant +/- 700 mètres.\nAu rond point\, prendre à droite en 
+ direction du château de La Rocq\, passez sous le pont\, le terrain se tro
+ uve à 100 mètres (à proximité du cimetière).\n\nVérifiez toujours ce
+ s infos sur http://www.abssa.be/
+GEO:50.5690988;4.2677281
+LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion\, 7181 Arquennes\, B
+ elgique
+ORGANIZER;CN="Beka J-M.";ROLE=Secrétaire:MAILTO:jmbeka73@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J17: WATERMAEL FC vs BOUKS  FC
-DTSTART:20230114T140000Z
-DTEND:20230114T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:fdb77dee-04a2-4949-86ee-27cfd4e13615
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Bleu\n\nContact équipe d
- omicile: DESCHAMPS J. (0477.67.76.37)\n\nAccès voiture : A partir du squa
- re des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymph
- es.
-GEO:50.8059064;4.4137412
-LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
- l-Boitsfort\, Belgique
-ORGANIZER:MAILTO:jul_desch@hotmail.com
+SUMMARY:ABSSA D3D J18: BOUKS  FC vs IRLANDE FC (Eq. 4)
+DTSTART;VALUE=DATE-TIME:20240210T143000Z
+DTEND;VALUE=DATE-TIME:20240210T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_3D_18_579_402
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Vert\n
+ \nContact équipe domicile: Schapira  F. (0485.60.96.01 - francois_schapir
+ a5@hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre le Ring 
+ Est direction Waterloo. Sortir au pont de Groenendael\, direction La Hulpe
+ \, Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujou
+ rs tout droit. Au feu de signalisation et le carrefour de La Hulpe\, tout 
+ droit direction Genval. Au feu de signalisation prendre à gauche et ensui
+ te directement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain s
+ e trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa.be
+ /
+GEO:50.7309318;4.4945865
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Schapira  F.";ROLE=Secrétaire:MAILTO:francois_schapira5@hot
+ mail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J18: BOUKS  FC vs BRUSSELS BRITISH R (Eq. 3)
-DTSTART:20230121T153000Z
-DTEND:20230121T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:b6dfb272-69d5-4d9b-80cf-5a229b919cc9
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Blanc\n\nContact équipe 
- domicile: SCHAPIRA  F. (0485.60.96.01)\n\nAccès voiture : Venant de Bruxe
- lles\, prendre le Ring Est direction Waterloo. Sortir au pont de Groenenda
- el\, direction La Hulpe\, Genval. Tout droit pendant 2 km. Après le chate
- au de La Hulpe\, toujours tout droit. Au feu de signalisation et le carref
- our de La Hulpe\, tout droit direction Genval. Au feu de signalisation pre
- ndre à gauche et ensuite directement à droite\, l'avenue Soyer\, derriè
- re le G.B. Le terrain se trouve à 300 m.
-GEO:50.7309582;4.4952087
-LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:francois_schapira5@hotmail.com
+SUMMARY:ABSSA D3D J19: SAINT GEORGES RCS (Eq. 2) vs BOUKS  FC
+DTSTART;VALUE=DATE-TIME:20240217T130000Z
+DTEND;VALUE=DATE-TIME:20240217T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_3D_19_221_579
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.destin@gmai
+ l.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"avenue Parmentie
+ r\, puis 1ère rue à main gauche.\n\nVérifiez toujours ces infos sur htt
+ p://www.abssa.be/
+GEO:50.8343279;4.4397562
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J19: CHIEFS WSL vs BOUKS  FC
-DTSTART:20230128T140000Z
-DTEND:20230128T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:91773d1c-3a3a-4b64-9dbd-710f6c44cc67
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe extérieur: Bleu\n\nContact équipe 
- domicile: DE SAN G. (0477.42.23.84)\n\nAccès voiture : Boulevard de la Wo
- luwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit P
- ont (terminus bus 28). Avant ce pont le terrain se trouve à gauche.
-GEO:50.8423054;4.445628699999999
-LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
- é-Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:guy@desan.be
+SUMMARY:ABSSA D3D J26: CELTIC ROOSTERS vs BOUKS  FC
+DTSTART;VALUE=DATE-TIME:20240224T143000Z
+DTEND;VALUE=DATE-TIME:20240224T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_3D_26_626_579
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
+ pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
+ e: Bleu\n\nContact équipe domicile: Dubois S. (0479.04.13.70 - celticroos
+ ters@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Namur / Luxe
+ mbourg\, prendre la sortie n° 6 Wavre\, à gauche N 238 direction Wavre. 
+ Au rond-	point 2ième sortie N238/Blvd. de l'Europe direction Wavre Centre
+ . Entrer dans Wavre puis à gauche N 238\, à gauche N 239. 	Au rond-point
+  prendre la première sortie Rue Haute\, continuer sur rue de Bruxelles\, 
+ continuer sur rue Saint-Roch\, continuer 	sur rue Joseph Joppart. Prendre 
+ à droite l'avenue du Centre Sportif.\n\nVérifiez toujours ces infos sur 
+ http://www.abssa.be/
+GEO:50.7216297;4.6192566
+LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
+  Belgique
+ORGANIZER;CN="Dubois S.";ROLE=Secrétaire:MAILTO:celticroosters@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J20: BOUKS  FC vs MACAPSULES (LES)
-DTSTART:20230204T153000Z
-DTEND:20230204T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:f796c275-7a90-4ed4-a7ae-83f81ec1feb8
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Vert/blanc\n\nContact éq
- uipe domicile: SCHAPIRA  F. (0485.60.96.01)\n\nAccès voiture : Venant de 
- Bruxelles\, prendre le Ring Est direction Waterloo. Sortir au pont de Groe
- nendael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. Après le 
- chateau de La Hulpe\, toujours tout droit. Au feu de signalisation et le c
- arrefour de La Hulpe\, tout droit direction Genval. Au feu de signalisatio
- n prendre à gauche et ensuite directement à droite\, l'avenue Soyer\, de
- rrière le G.B. Le terrain se trouve à 300 m.
-GEO:50.7309582;4.4952087
-LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:francois_schapira5@hotmail.com
+SUMMARY:ABSSA D3D J23: COPAINS REUNIS vs BOUKS  FC
+DTSTART;VALUE=DATE-TIME:20240302T143000Z
+DTEND;VALUE=DATE-TIME:20240302T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_3D_23_49_579
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
+  Bleu\n\nContact équipe domicile: Vandermeulen J. (0477.50.45.95 - meulen
+ j@hotmail.com)\n\nAccès voiture : En venant de la Route de Lennik (Citro
+ ën) ou de la Chaussée de Mons (Ikea)\, prendre la direction du cimetièr
+ e d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-point pren
+ dre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du c
+ omplexe et des terrains se situe à +/- 500 m. sur la gauche.\n\nVérifiez
+  toujours ces infos sur http://www.abssa.be/
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Vandermeulen J.";ROLE=Secrétaire:MAILTO:meulenj@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J21: WELL TEAM vs BOUKS  FC
-DTSTART:20230211T153000Z
-DTEND:20230211T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:42fe70c3-11dc-48ca-a9dc-240c40d5578d
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu marine\nCouleur principale équipe extérieur: Bleu\n\nContact é
- quipe domicile: DAYEZ M. (0472.61.95.08)\n\nAccès voiture : A partir du s
- quare des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des Ny
- mphes.
-GEO:50.8059064;4.4137412
-LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
- l-Boitsfort\, Belgique
-ORGANIZER:MAILTO:martindayez@hotmail.com
+SUMMARY:ABSSA D3D J20: BOUKS  FC vs ETTEKIJS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240309T143000Z
+DTEND;VALUE=DATE-TIME:20240309T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_3D_20_579_343
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir r
+ ayé de blanc\n\nContact équipe domicile: Schapira  F. (0485.60.96.01 - f
+ rancois_schapira5@hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, p
+ rendre le Ring Est direction Waterloo. Sortir au pont de Groenendael\, dir
+ ection La Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La
+  Hulpe\, toujours tout droit. Au feu de signalisation et le carrefour de L
+ a Hulpe\, tout droit direction Genval. Au feu de signalisation prendre à 
+ gauche et ensuite directement à droite\, l'avenue Soyer\, derrière le G.
+ B. Le terrain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http
+ ://www.abssa.be/
+GEO:50.7309318;4.4945865
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Schapira  F.";ROLE=Secrétaire:MAILTO:francois_schapira5@hot
+ mail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J22: ETTEKIJS (Eq. 2) vs BOUKS  FC
-DTSTART:20230225T123000Z
-DTEND:20230225T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:2ca32837-019d-4a2d-a947-72250efc6d42
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir rayé de blanc\nCouleur principale équipe extérieur: Bleu\n\nCo
- ntact équipe domicile: RAES F. (0479.73.82.49)\n\nAccès voiture : A part
- ir du square des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue
-  des Nymphes.
-GEO:50.8059064;4.4137412
-LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
- l-Boitsfort\, Belgique
-ORGANIZER:MAILTO:freddy.raes@gmail.com
+SUMMARY:ABSSA D3D J21: NEW INN FC (Eq. 3) vs BOUKS  FC
+DTSTART;VALUE=DATE-TIME:20240316T143000Z
+DTEND;VALUE=DATE-TIME:20240316T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_3D_21_359_579
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Noir et rouge\nCouleur principale équipe exterieur
+ e: Bleu\n\nContact équipe domicile: Cornil B. (0494.16.15.11 - bencornil@
+ gmail.com)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute
+  Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viad
+ uc prendre à droite\, l'avenue des Anciens Combattants. Juste après le c
+ arrefour avec des feux de signalisation prendre à droite vers la Place de
+  la Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le 
+ terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces infos
+  sur http://www.abssa.be/
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="Cornil B.";ROLE=Secrétaire:MAILTO:bencornil@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J23: CORNAC UNITED FC vs BOUKS  FC
-DTSTART:20230304T143000Z
-DTEND:20230304T155500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:1e5d5dff-d1f2-43ff-bdc3-9ebcfc4fa994
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe extérieur: Bleu\n\nContact équipe 
- domicile: DENAYER M. (0476.53.14.48)\n\nAccès voiture : Par le Ring Ouest
- \, direction Paris\, sortie Westland Shopping Center (n° 14) continuer to
- ut droit\, remonter vers le Ring et prendre à droite pour sortir vers Itt
- erbeek. Prendre l'avenue d'Itterbeek au parc d'Anderlecht\, passer le ring
- \, reste 2 km. Le terrain se trouve à gauche\, entre l'école Van Belle e
- t Veeweyde.
-GEO:50.8344692;4.2821012
-LOCATION:BON AIR\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:marcdenayermd@gmail.com
+SUMMARY:ABSSA D3D J22: BOUKS  FC vs CHENOIS SC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240323T143000Z
+DTEND;VALUE=DATE-TIME:20240323T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_3D_22_579_84
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge\
+ n\nContact équipe domicile: Schapira  F. (0485.60.96.01 - francois_schapi
+ ra5@hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre le Ring
+  Est direction Waterloo. Sortir au pont de Groenendael\, direction La Hulp
+ e\, Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujo
+ urs tout droit. Au feu de signalisation et le carrefour de La Hulpe\, tout
+  droit direction Genval. Au feu de signalisation prendre à gauche et ensu
+ ite directement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain 
+ se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa.b
+ e/
+GEO:50.7309318;4.4945865
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Schapira  F.";ROLE=Secrétaire:MAILTO:francois_schapira5@hot
+ mail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J24: BOUKS  FC vs SYB  RFC
-DTSTART:20230311T153000Z
-DTEND:20230311T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:aff72bbe-b688-4e14-aa1a-892128673a0c
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Rayé Vert et blanc\n\nCo
- ntact équipe domicile: SCHAPIRA  F. (0485.60.96.01)\n\nAccès voiture : V
- enant de Bruxelles\, prendre le Ring Est direction Waterloo. Sortir au pon
- t de Groenendael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. A
- près le chateau de La Hulpe\, toujours tout droit. Au feu de signalisatio
- n et le carrefour de La Hulpe\, tout droit direction Genval. Au feu de sig
- nalisation prendre à gauche et ensuite directement à droite\, l'avenue S
- oyer\, derrière le G.B. Le terrain se trouve à 300 m.
-GEO:50.7309582;4.4952087
-LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:francois_schapira5@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J25: BOUKS  FC vs BREU UNITED
-DTSTART:20230318T153000Z
-DTEND:20230318T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:ad9c5f36-f417-450d-8e93-a362df02aafa
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Orange et Mauve\n\nContac
- t équipe domicile: SCHAPIRA  F. (0485.60.96.01)\n\nAccès voiture : Venan
- t de Bruxelles\, prendre le Ring Est direction Waterloo. Sortir au pont de
-  Groenendael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. Aprè
- s le chateau de La Hulpe\, toujours tout droit. Au feu de signalisation et
-  le carrefour de La Hulpe\, tout droit direction Genval. Au feu de signali
- sation prendre à gauche et ensuite directement à droite\, l'avenue Soyer
- \, derrière le G.B. Le terrain se trouve à 300 m.
-GEO:50.7309582;4.4952087
-LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:francois_schapira5@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J26: CENTRAL PARK FC vs BOUKS  FC
-DTSTART:20230325T153000Z
-DTEND:20230325T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:4e14246b-35b6-4c30-aab3-002e13a77933
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu et rouge\nCouleur principale équipe extérieur: Bleu\n\nContact 
- équipe domicile: GENOT F. (0473.57.28.61)\n\nAccès voiture : Boulevard d
- e la Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu'au 
- Petit Pont (terminus bus 28). Avant ce pont le terrain se trouve à gauche
- .
-GEO:50.8423054;4.445628699999999
-LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
- é-Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:genotflorian@hotmail.com
+SUMMARY:ABSSA D3D J25: BOUKS  FC vs NO BOYS
+DTSTART;VALUE=DATE-TIME:20240406T133000Z
+DTEND;VALUE=DATE-TIME:20240406T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_3D_25_579_420
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Jaune\
+ n\nContact équipe domicile: Schapira  F. (0485.60.96.01 - francois_schapi
+ ra5@hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre le Ring
+  Est direction Waterloo. Sortir au pont de Groenendael\, direction La Hulp
+ e\, Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujo
+ urs tout droit. Au feu de signalisation et le carrefour de La Hulpe\, tout
+  droit direction Genval. Au feu de signalisation prendre à gauche et ensu
+ ite directement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain 
+ se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa.b
+ e/
+GEO:50.7309318;4.4945865
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Schapira  F.";ROLE=Secrétaire:MAILTO:francois_schapira5@hot
+ mail.com
 END:VEVENT
 END:VCALENDAR

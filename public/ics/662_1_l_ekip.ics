@@ -1,269 +1,516 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:dcaf99bd-03a1-4ffb-9217-06e16dd0d1d1
-X-WR-CALDESC:Les matches de L'EKIP (eq. 1) en ABSSA.
-X-WR-CALNAME:ABSSA - L'EKIP (eq. 1) - 662
-X-WR-TIMEZONE:Europe/Brussels
+PRODID:662_1_l_ekip
+X-WR-CALDESC:Les matches du club L'EKIP (equipe 1) en ABSSA.
+X-WR-CALNAME:ABSSA: L'EKIP (eq. 1)
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J2: L'EKIP vs CHEVERNY SCHAERB
-DTSTART:20220910T150000Z
-DTEND:20220910T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:8bce74b1-ac16-4fd8-8b9a-2659fe8ee621
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe extérieur: Jaune\n\nContact équipe
-  domicile: VERCRUIJSSE A. (0477.95.18.34)\n\nAccès voiture : 
-GEO:50.8128674;4.4233192
-LOCATION:A partir de Bruxelles\, prendre la E 411 en direction de Namur. P
- rendre la sortie 11  Gembloux pour rejoindre la N 29 en direction de Gembl
- oux / Tirlement / Jodoigne / Perwez. Suivre la N29 et chaussée de Wavre (
- N243) en direction de la rue des Marronniers. Au rond-point 1\, 2 et 3 pre
- ndre chaque fois la première sortie.\nAu rond-point suivant (4ième) pren
- dre la deuxième sortie et continuer sur la chaussée de Wavre / N 243. Pr
- endre à droite sur la rue des Marronniers\, le terrain se trouve à droit
- e\, Av. des Marronniers\, 17\, 1360 Perwez\, Belgique
-ORGANIZER:MAILTO:lekipofficielle@gmail.com
+SUMMARY:ABSSA D5B J10: GALACTIC JUMPERTZ vs L'EKIP
+DTSTART;VALUE=DATE-TIME:20230902T103000Z
+DTEND;VALUE=DATE-TIME:20230902T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5B_10_659_662
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R03\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Blan
+ c\n\nContact équipe domicile: Eyletten J. (0470.31.54.56 - galactic.jumpe
+ rtz@gmail.com)\n\nAccès voiture : Par la E411 Bruxelles-Namur\, prendre l
+ a sortie n° 5 (Wavre Nord\, Rixensart\, Bierges).\nEnsuite prendre la N25
+ 7 pendant 700 mètres jusqu'au rond-point\, prendre la rue de l'Etoile et 
+ ensuite la rue de Mérode jusqu'à Rixensart. Après 900 mètres\, à la P
+ lace de la Perche\, prendre à droite l'avenue de la Paix et encore à dro
+ ite l'avenue Clermont Tonnerre.\n\nVérifiez toujours ces infos sur http:/
+ /www.abssa.be/
+GEO:50.7128483;4.5376972
+LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
+ 30 Rixensart\, Belgique
+ORGANIZER;CN="Eyletten J.";ROLE=Secrétaire:MAILTO:galactic.jumpertz@gmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J12: RED STAR BRUSSELS vs L'EKIP
-DTSTART:20221126T153000Z
-DTEND:20221126T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:bd4ebad2-9f64-4fd3-968a-0a2dc5dada01
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir et rouge\nCouleur principale équipe extérieur: Blanc\n\nContact
-  équipe domicile: AMRANI B. (0489.66.36.24)\n\nAccès voiture : En venant
-  de Bruxelles\, par l'autoroute Bruxelles-Paris\, prendre la sortie Nivell
- es-Sud (n° 19)\, passer sous le pont de l'autoroute et prendre la directi
- on de Nivelles. A 200 m.\, au rond-point (Shopping Center)\, tourner à dr
- oite en direction de Wavre (petit ring de Nivelles).\nAu 4ème rond-point 
- (en tenant compte du rond-point du Shopping Center)\, tourner à gauche \,
-  rue de l'Industrie et pénétrer dans le zoning. Au bout de la rue\, avan
- t le feu de signalisation\, tourner à gauche et prendre la rue du Progrè
- s pendant +/- 400 m.
+SUMMARY:ABSSA D5B J1: L'EKIP vs SPORTING BW
+DTSTART;VALUE=DATE-TIME:20230909T130000Z
+DTEND;VALUE=DATE-TIME:20230909T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5B_1_662_673
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: P02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Blanc
+ \n\nContact équipe domicile: Maes A (0471.66.04.74 - lekipofficielle@gmai
+ l.com)\n\nAccès voiture : a Partir de Bruxelles\, Prendre la E 411 en Dir
+ ection de Namur. Prendre la Sortie 11  Gembloux pour Rejoindre la N 29 en 
+ Direction de Gembloux / Tirlement / Jodoigne / Perwez. suivre la N29 et Ch
+ aussée de Wavre (N243) en Direction de la Rue des Marronniers. au Rond-Po
+ int 1\, 2 et 3 Prendre chaque Fois la première Sortie.\nAu Rond-Point sui
+ vant (4Ième) Prendre la deuxième Sortie et Continuer sur la Chaussée de
+  Wavre / N 243. Prendre à Droite sur la Rue des Marronniers\, le Terrain 
+ se Trouve à Droite\n\nVérifiez toujours ces infos sur http://www.abssa.b
+ e/
+GEO:50.6251834;4.8051205
+LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
+ORGANIZER;CN="Maes A";ROLE=Secrétaire:MAILTO:lekipofficielle@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J2: EFFETA FC vs L'EKIP
+DTSTART;VALUE=DATE-TIME:20230916T103000Z
+DTEND;VALUE=DATE-TIME:20230916T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5B_2_516_662
+DESCRIPTION:Terrain synthétique: non\nCode terrain: L05\n\nCouleur princi
+ pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
+ e: Blanc\n\nContact équipe domicile: Eryuruk K. (0487.34.08.40 - effetafc
+ @gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Anvers (A12)\, au prem
+ ier feu de signalisation\, prendre à gauche\, direction Londerzeel. Suivr
+ e la plaque Stationstraat. Passée la gare (après env. 1200 m.) prendre 
+ à gauche au " Monument aux Morts". Le terrain se trouve à 50 m.\n\nVéri
+ fiez toujours ces infos sur http://www.abssa.be/
+GEO:51.0192214;4.2904455
+LOCATION:Verma\, Blauwenhoek 76\, 1840 Londerzeel\, Belgique
+ORGANIZER;CN="Eryuruk K.";ROLE=Secrétaire:MAILTO:effetafc@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J3: L'EKIP vs RED STAR BRUSSELS
+DTSTART;VALUE=DATE-TIME:20230923T130000Z
+DTEND;VALUE=DATE-TIME:20230923T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5B_3_662_663
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: P02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Blanc
+  et rouge\n\nContact équipe domicile: Maes A (0471.66.04.74 - lekipoffici
+ elle@gmail.com)\n\nAccès voiture : a Partir de Bruxelles\, Prendre la E 4
+ 11 en Direction de Namur. Prendre la Sortie 11  Gembloux pour Rejoindre la
+  N 29 en Direction de Gembloux / Tirlement / Jodoigne / Perwez. suivre la 
+ N29 et Chaussée de Wavre (N243) en Direction de la Rue des Marronniers. a
+ u Rond-Point 1\, 2 et 3 Prendre chaque Fois la première Sortie.\nAu Rond-
+ Point suivant (4Ième) Prendre la deuxième Sortie et Continuer sur la Cha
+ ussée de Wavre / N 243. Prendre à Droite sur la Rue des Marronniers\, le
+  Terrain se Trouve à Droite\n\nVérifiez toujours ces infos sur http://ww
+ w.abssa.be/
+GEO:50.6251834;4.8051205
+LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
+ORGANIZER;CN="Maes A";ROLE=Secrétaire:MAILTO:lekipofficielle@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J4: UNION BRUXELLOISE vs L'EKIP
+DTSTART;VALUE=DATE-TIME:20230930T103000Z
+DTEND;VALUE=DATE-TIME:20230930T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5B_4_655_662
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: Noir/ Bleu\nCouleur principale équipe exterieure: 
+ Blanc\n\nContact équipe domicile: Herinckx C. (0472.83.06.56 - union.brux
+ elloise@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'auto
+ route Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer s
+ ous le pont de l'autoroute et prendre la direction de Nivelles. A 200 m.\,
+  au rond-point (Shopping Center)\, tourner à droite en direction de Wavre
+  (petit ring de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-
+ point du Shopping Center)\, tourner à gauche \, rue de l'Industrie et pé
+ nétrer dans le zoning. Au bout de la rue\, avant le feu de signalisation\
+ , tourner à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nV
+ érifiez toujours ces infos sur http://www.abssa.be/
 GEO:50.5963436;4.3564187
-LOCATION:DOMAINE MILITAIRE\, Rue du Progrès\, 1A\, 1400 Nivelles\, Belgiq
- ue
-ORGANIZER:MAILTO:redstarbxl@outlook.com
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Herinckx C.";ROLE=Secrétaire:MAILTO:union.bruxelloise@gmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J13: CHEVERNY SCHAERB vs L'EKIP
-DTSTART:20221203T140000Z
-DTEND:20221203T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:fd506958-4cf0-474f-bf71-3d2b61bda76f
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Jaune\nCouleur principale équipe extérieur: Blanc\n\nContact équipe
-  domicile: LEFEBVRE C. (0478 71.95.87)\n\nAccès voiture : Place Meiser\, 
- descendre le boulevard Wahis et le boulevard Lambermont\, puis prendre à 
- droite\, la rue Kennis(avant la station Villo)\, Terrain à 200 m. à droi
- te.
-GEO:50.86563899999999;4.392299299999999
-LOCATION:TERDELT - PARC ALBERT\, Place Terdelt\, 1030 Schaerbeek\, Belgiqu
+SUMMARY:ABSSA D5B J5: L'EKIP vs FRAUDES (LES)
+DTSTART;VALUE=DATE-TIME:20231007T130000Z
+DTEND;VALUE=DATE-TIME:20231007T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5B_5_662_665
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: P02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir 
+ et blanc\n\nContact équipe domicile: Maes A (0471.66.04.74 - lekipofficie
+ lle@gmail.com)\n\nAccès voiture : a Partir de Bruxelles\, Prendre la E 41
+ 1 en Direction de Namur. Prendre la Sortie 11  Gembloux pour Rejoindre la 
+ N 29 en Direction de Gembloux / Tirlement / Jodoigne / Perwez. suivre la N
+ 29 et Chaussée de Wavre (N243) en Direction de la Rue des Marronniers. au
+  Rond-Point 1\, 2 et 3 Prendre chaque Fois la première Sortie.\nAu Rond-P
+ oint suivant (4Ième) Prendre la deuxième Sortie et Continuer sur la Chau
+ ssée de Wavre / N 243. Prendre à Droite sur la Rue des Marronniers\, le 
+ Terrain se Trouve à Droite\n\nVérifiez toujours ces infos sur http://www
+ .abssa.be/
+GEO:50.6251834;4.8051205
+LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
+ORGANIZER;CN="Maes A";ROLE=Secrétaire:MAILTO:lekipofficielle@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J6: CHOULE AUDERGHEM (Eq. 4) vs L'EKIP
+DTSTART;VALUE=DATE-TIME:20231014T133000Z
+DTEND;VALUE=DATE-TIME:20231014T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5B_6_517_662
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W19\n\nCouleur princi
+ pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
+ erieure: Blanc\n\nContact équipe domicile: Vandenplas D. (0476.54.48.01 -
+  dav_54@hotmail.com)\n\nAccès voiture : Ring de Bruxelles (RO)\, sortie n
+ ° 2. Prendre la direction Wezembeek-Oppem. Ensuite première rue à droit
+ e (Louis Marcelisstraat) puis la troisième à droite (Sportpleinstraat).\
+ nL'entrée au terrain se trouve à gauche entre les n° 16 et 24.\nPar la 
+ ville : A partir du rond point Montgomery\, prendre l'Avenue de Broquevill
+ e\, toujours tout droit. Passez devant le Shopping de Woluwé\, toujours t
+ out droit\, passez devant le magasin "Carrefour"\, puis au 2ème feu de si
+ gnalisation prendre à droite et ensuite tout droit. Au bout de la rue pre
+ ndre à droite\, le terrain se trouve à 100 mètres  sur la gauche.\n\nV
+ érifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8424578;4.486587999999999
+LOCATION:Sportpleinstraat 20\, 1970 Wezembeek - Oppem\, Belgique
+ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J8: BEA WOLUWE vs L'EKIP
+DTSTART;VALUE=DATE-TIME:20231021T120000Z
+DTEND;VALUE=DATE-TIME:20231021T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5B_8_459_662
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Maquestiau Ph. (0485.49.62.62 - philippemaque
+ stiau@yahoo.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"avenue
+  Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujours ces inf
+ os sur http://www.abssa.be/
+GEO:50.8343279;4.4397562
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Maquestiau Ph.";ROLE=Secrétaire:MAILTO:philippemaquestiau@y
+ ahoo.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J7: L'EKIP vs PECHEUR F.C.
+DTSTART;VALUE=DATE-TIME:20231104T140000Z
+DTEND;VALUE=DATE-TIME:20231104T153000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5B_7_662_677
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: P02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Vert 
+ et blanc\n\nContact équipe domicile: Maes A (0471.66.04.74 - lekipofficie
+ lle@gmail.com)\n\nAccès voiture : a Partir de Bruxelles\, Prendre la E 41
+ 1 en Direction de Namur. Prendre la Sortie 11  Gembloux pour Rejoindre la 
+ N 29 en Direction de Gembloux / Tirlement / Jodoigne / Perwez. suivre la N
+ 29 et Chaussée de Wavre (N243) en Direction de la Rue des Marronniers. au
+  Rond-Point 1\, 2 et 3 Prendre chaque Fois la première Sortie.\nAu Rond-P
+ oint suivant (4Ième) Prendre la deuxième Sortie et Continuer sur la Chau
+ ssée de Wavre / N 243. Prendre à Droite sur la Rue des Marronniers\, le 
+ Terrain se Trouve à Droite\n\nVérifiez toujours ces infos sur http://www
+ .abssa.be/
+GEO:50.6251834;4.8051205
+LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
+ORGANIZER;CN="Maes A";ROLE=Secrétaire:MAILTO:lekipofficielle@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J9: L'EKIP vs WATERMAEL FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20231118T140000Z
+DTEND;VALUE=DATE-TIME:20231118T153000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5B_9_662_611
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: P02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Maes A (0471.66.04.74 - lekipofficielle@gmail
+ .com)\n\nAccès voiture : a Partir de Bruxelles\, Prendre la E 411 en Dire
+ ction de Namur. Prendre la Sortie 11  Gembloux pour Rejoindre la N 29 en D
+ irection de Gembloux / Tirlement / Jodoigne / Perwez. suivre la N29 et Cha
+ ussée de Wavre (N243) en Direction de la Rue des Marronniers. au Rond-Poi
+ nt 1\, 2 et 3 Prendre chaque Fois la première Sortie.\nAu Rond-Point suiv
+ ant (4Ième) Prendre la deuxième Sortie et Continuer sur la Chaussée de 
+ Wavre / N 243. Prendre à Droite sur la Rue des Marronniers\, le Terrain s
+ e Trouve à Droite\n\nVérifiez toujours ces infos sur http://www.abssa.be
+ /
+GEO:50.6251834;4.8051205
+LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
+ORGANIZER;CN="Maes A";ROLE=Secrétaire:MAILTO:lekipofficielle@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J12: MASIA CITY vs L'EKIP
+DTSTART;VALUE=DATE-TIME:20231125T113000Z
+DTEND;VALUE=DATE-TIME:20231125T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5B_12_661_662
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
+ pale équipe domicile: Rouge-Noir\nCouleur principale équipe exterieure: 
+ Blanc\n\nContact équipe domicile: Saoud T. (0460.97.04.65 - masiacity@gma
+ il.com)\n\nAccès voiture : A partir de Bruxelles\, prendre la E 411 en di
+ rection de Namur. Prendre la sortie N° 8 puis à droite la bretelle pour 
+ la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 km
+ \, au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Libérat
+ ion\, puis à gauche dans la rue de la Grande lecke.\n\nVérifiez toujours
+  ces infos sur http://www.abssa.be/
+GEO:50.7540176;4.7835618
+LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
+ORGANIZER;CN="Saoud T.";ROLE=Secrétaire:MAILTO:masiacity@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J13: L'EKIP vs SPIJTOIS FC
+DTSTART;VALUE=DATE-TIME:20231209T140000Z
+DTEND;VALUE=DATE-TIME:20231209T153000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5B_13_662_631
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: P02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Blanc
+  Bordeaux\n\nContact équipe domicile: Maes A (0471.66.04.74 - lekipoffici
+ elle@gmail.com)\n\nAccès voiture : a Partir de Bruxelles\, Prendre la E 4
+ 11 en Direction de Namur. Prendre la Sortie 11  Gembloux pour Rejoindre la
+  N 29 en Direction de Gembloux / Tirlement / Jodoigne / Perwez. suivre la 
+ N29 et Chaussée de Wavre (N243) en Direction de la Rue des Marronniers. a
+ u Rond-Point 1\, 2 et 3 Prendre chaque Fois la première Sortie.\nAu Rond-
+ Point suivant (4Ième) Prendre la deuxième Sortie et Continuer sur la Cha
+ ussée de Wavre / N 243. Prendre à Droite sur la Rue des Marronniers\, le
+  Terrain se Trouve à Droite\n\nVérifiez toujours ces infos sur http://ww
+ w.abssa.be/
+GEO:50.6251834;4.8051205
+LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
+ORGANIZER;CN="Maes A";ROLE=Secrétaire:MAILTO:lekipofficielle@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J14: SPORTING BW vs L'EKIP
+DTSTART;VALUE=DATE-TIME:20240113T130000Z
+DTEND;VALUE=DATE-TIME:20240113T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5B_14_673_662
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: I03\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Blanc
+ \n\nContact équipe domicile: Thumas A. (0472.60.28.90 - sporting.bw.abssa
+ @gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l’E411 
+ en direction de Namur et prendre la sortie 11 Perwez-Gembloux\, prendre à
+  droite vers Perwez sur la N29 jusqu’au rond-point de Glimes qui croise 
+ la N91 (7km depuis l’E411). Sortir à la 3ème sortie sur la N91 en\ndir
+ ection de Hamme-Mille. Prendre ensuite la 3ème rue à gauche et le terrai
+ n se trouve directement sur la droite.\n\nVérifiez toujours ces infos sur
+  http://www.abssa.be/
+GEO:50.6849677;4.8070879
+LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
+ORGANIZER;CN="Thumas A.";ROLE=Secrétaire:MAILTO:sporting.bw.abssa@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J15: L'EKIP vs EFFETA FC
+DTSTART;VALUE=DATE-TIME:20240120T140000Z
+DTEND;VALUE=DATE-TIME:20240120T153000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5B_15_662_516
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: P02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
+  et noir\n\nContact équipe domicile: Maes A (0471.66.04.74 - lekipofficie
+ lle@gmail.com)\n\nAccès voiture : a Partir de Bruxelles\, Prendre la E 41
+ 1 en Direction de Namur. Prendre la Sortie 11  Gembloux pour Rejoindre la 
+ N 29 en Direction de Gembloux / Tirlement / Jodoigne / Perwez. suivre la N
+ 29 et Chaussée de Wavre (N243) en Direction de la Rue des Marronniers. au
+  Rond-Point 1\, 2 et 3 Prendre chaque Fois la première Sortie.\nAu Rond-P
+ oint suivant (4Ième) Prendre la deuxième Sortie et Continuer sur la Chau
+ ssée de Wavre / N 243. Prendre à Droite sur la Rue des Marronniers\, le 
+ Terrain se Trouve à Droite\n\nVérifiez toujours ces infos sur http://www
+ .abssa.be/
+GEO:50.6251834;4.8051205
+LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
+ORGANIZER;CN="Maes A";ROLE=Secrétaire:MAILTO:lekipofficielle@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J16: RED STAR BRUSSELS vs L'EKIP
+DTSTART;VALUE=DATE-TIME:20240127T141500Z
+DTEND;VALUE=DATE-TIME:20240127T154500Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5B_16_663_662
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
+ pale équipe domicile: Blanc et rouge\nCouleur principale équipe exterieu
+ re: Blanc\n\nContact équipe domicile: Helalouch A (0485.97.90.82 - redsta
+ rbrussels@gmail.com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jett
+ e.\nEn venant de Zaventem\, prendre à gauche à la sortie\, en venant de 
+ Charleroi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au 
+ rond point. Le terrain se trouve en face de la pompe à essence Q8.\n\nVé
+ rifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.883299;4.316365
+LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
+ORGANIZER;CN="Helalouch A";ROLE=Secrétaire:MAILTO:redstarbrussels@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J17: L'EKIP vs UNION BRUXELLOISE
+DTSTART;VALUE=DATE-TIME:20240203T140000Z
+DTEND;VALUE=DATE-TIME:20240203T153000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5B_17_662_655
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: P02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir/
+  Bleu\n\nContact équipe domicile: Maes A (0471.66.04.74 - lekipofficielle
+ @gmail.com)\n\nAccès voiture : a Partir de Bruxelles\, Prendre la E 411 e
+ n Direction de Namur. Prendre la Sortie 11  Gembloux pour Rejoindre la N 2
+ 9 en Direction de Gembloux / Tirlement / Jodoigne / Perwez. suivre la N29 
+ et Chaussée de Wavre (N243) en Direction de la Rue des Marronniers. au Ro
+ nd-Point 1\, 2 et 3 Prendre chaque Fois la première Sortie.\nAu Rond-Poin
+ t suivant (4Ième) Prendre la deuxième Sortie et Continuer sur la Chauss
+ ée de Wavre / N 243. Prendre à Droite sur la Rue des Marronniers\, le Te
+ rrain se Trouve à Droite\n\nVérifiez toujours ces infos sur http://www.a
+ bssa.be/
+GEO:50.6251834;4.8051205
+LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
+ORGANIZER;CN="Maes A";ROLE=Secrétaire:MAILTO:lekipofficielle@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J18: FRAUDES (LES) vs L'EKIP
+DTSTART;VALUE=DATE-TIME:20240210T123000Z
+DTEND;VALUE=DATE-TIME:20240210T140000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5B_18_665_662
+DESCRIPTION:Terrain synthétique: non\nCode terrain: A10\n\nCouleur princi
+ pale équipe domicile: Noir et blanc\nCouleur principale équipe exterieur
+ e: Blanc\n\nContact équipe domicile: Struys L. (0491.84.27.37 - leo.struy
+ s@telenet.be)\n\nAccès voiture : L'accès au terrain se fait à partir du
+  n° 2057 de la chaussée de Wavre (en face du stade communal d'Auderghem)
+ . L'accès au terrain se fait par l'arrière du bâtiment principal (où s
+ ont situés les vestiaires) il faut parcourir environ 300 mètres avant d'
+ atteindre le terrain de football situé après la piste d'athlétisme et l
+ e terrain de hockey.\n\nVérifiez toujours ces infos sur http://www.abssa.
+ be/
+GEO:50.8093405;4.4437919
+LOCATION:Complexe de L'Adeps\, Chaussée de Wavre 2057\, 1160 Auderghem\, 
+ Belgique
+ORGANIZER;CN="Struys L.";ROLE=Secrétaire:MAILTO:leo.struys@telenet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J19: L'EKIP vs CHOULE AUDERGHEM (Eq. 4)
+DTSTART;VALUE=DATE-TIME:20240217T140000Z
+DTEND;VALUE=DATE-TIME:20240217T153000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5B_19_662_517
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: P02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rayé
+  Bleu et Blanc\n\nContact équipe domicile: Maes A (0471.66.04.74 - lekipo
+ fficielle@gmail.com)\n\nAccès voiture : a Partir de Bruxelles\, Prendre l
+ a E 411 en Direction de Namur. Prendre la Sortie 11  Gembloux pour Rejoind
+ re la N 29 en Direction de Gembloux / Tirlement / Jodoigne / Perwez. suivr
+ e la N29 et Chaussée de Wavre (N243) en Direction de la Rue des Marronnie
+ rs. au Rond-Point 1\, 2 et 3 Prendre chaque Fois la première Sortie.\nAu 
+ Rond-Point suivant (4Ième) Prendre la deuxième Sortie et Continuer sur l
+ a Chaussée de Wavre / N 243. Prendre à Droite sur la Rue des Marronniers
+ \, le Terrain se Trouve à Droite\n\nVérifiez toujours ces infos sur http
+ ://www.abssa.be/
+GEO:50.6251834;4.8051205
+LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
+ORGANIZER;CN="Maes A";ROLE=Secrétaire:MAILTO:lekipofficielle@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J26: SPIJTOIS FC vs L'EKIP
+DTSTART;VALUE=DATE-TIME:20240224T130000Z
+DTEND;VALUE=DATE-TIME:20240224T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5B_26_631_662
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: U02\n\nCouleur princi
+ pale équipe domicile: Blanc Bordeaux\nCouleur principale équipe exterieu
+ re: Blanc\n\nContact équipe domicile: Marchese G. (0496.53.66.37 - marche
+ se.gregoire21@yahoo.be)\n\nAccès voiture : L'entrée se fait par la rue d
+ u Zwartebeek.\nPar le ring\, prendre la sortie Drogenbos-Ruisbroek\, direc
+ tion Uccle\, par la rue de Stalle prolongée.  Après le rond-point prendr
+ e la 1ère rue à gauche\, la chaussée de Neerstalle.\nEnsuite la 2ème r
+ ue à gauche\, rue du Zwartebeek\, l'entrée du complexe est située à +/
+ - 200 mètres sur la droite.\n\nVérifiez toujours ces infos sur http://ww
+ w.abssa.be/
+GEO:50.7970109;4.319077
+LOCATION:Leopold-Uccle\, Rue du Zwartebeek\, 1180 Uccle\, Belgique
+ORGANIZER;CN="Marchese G.";ROLE=Secrétaire:MAILTO:marchese.gregoire21@yah
+ oo.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J23: L'EKIP vs GALACTIC JUMPERTZ
+DTSTART;VALUE=DATE-TIME:20240302T140000Z
+DTEND;VALUE=DATE-TIME:20240302T153000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5B_23_662_659
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: P02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Orang
+ e\n\nContact équipe domicile: Maes A (0471.66.04.74 - lekipofficielle@gma
+ il.com)\n\nAccès voiture : a Partir de Bruxelles\, Prendre la E 411 en Di
+ rection de Namur. Prendre la Sortie 11  Gembloux pour Rejoindre la N 29 en
+  Direction de Gembloux / Tirlement / Jodoigne / Perwez. suivre la N29 et C
+ haussée de Wavre (N243) en Direction de la Rue des Marronniers. au Rond-P
+ oint 1\, 2 et 3 Prendre chaque Fois la première Sortie.\nAu Rond-Point su
+ ivant (4Ième) Prendre la deuxième Sortie et Continuer sur la Chaussée d
+ e Wavre / N 243. Prendre à Droite sur la Rue des Marronniers\, le Terrain
+  se Trouve à Droite\n\nVérifiez toujours ces infos sur http://www.abssa.
+ be/
+GEO:50.6251834;4.8051205
+LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
+ORGANIZER;CN="Maes A";ROLE=Secrétaire:MAILTO:lekipofficielle@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J20: PECHEUR F.C. vs L'EKIP
+DTSTART;VALUE=DATE-TIME:20240309T143000Z
+DTEND;VALUE=DATE-TIME:20240309T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5B_20_677_662
+DESCRIPTION:Terrain synthétique: non\nCode terrain: N04\n\nCouleur princi
+ pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
+ e: Blanc\n\nContact équipe domicile: Delannoy I. (0471.59.00.22 - ignace.
+ delannoyc@gmail.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à Nos
+ segem\, au premier croisement prendre à gauche la \nMechelsesteenweg. Le 
+ terrain est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Li
+ ège\, prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechel
+ sesteenweg\, traverser la chaussée de Louvain\, et suivre comme ci-avant.
+ \n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.88776559999999;4.50894
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
-ORGANIZER:MAILTO:c.lefebvre@linklaw.be
+ORGANIZER;CN="Delannoy I.";ROLE=Secrétaire:MAILTO:ignace.delannoyc@gmail.
+ com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J14: L'EKIP vs SAINT-JOSSE 95 FC
-DTSTART:20221210T150000Z
-DTEND:20221210T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:8fba666a-570d-4d8f-8cd4-2f5872ea173f
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe extérieur: Noir et bleu\n\nContact 
- équipe domicile: VERCRUIJSSE A. (0477.95.18.34)\n\nAccès voiture : 
-GEO:50.8128674;4.4233192
-LOCATION:A partir de Bruxelles\, prendre la E 411 en direction de Namur. P
- rendre la sortie 11  Gembloux pour rejoindre la N 29 en direction de Gembl
- oux / Tirlement / Jodoigne / Perwez. Suivre la N29 et chaussée de Wavre (
- N243) en direction de la rue des Marronniers. Au rond-point 1\, 2 et 3 pre
- ndre chaque fois la première sortie.\nAu rond-point suivant (4ième) pren
- dre la deuxième sortie et continuer sur la chaussée de Wavre / N 243. Pr
- endre à droite sur la rue des Marronniers\, le terrain se trouve à droit
- e\, Av. des Marronniers\, 17\, 1360 Perwez\, Belgique
-ORGANIZER:MAILTO:lekipofficielle@gmail.com
+SUMMARY:ABSSA D5B J21: L'EKIP vs BEA WOLUWE
+DTSTART;VALUE=DATE-TIME:20240316T140000Z
+DTEND;VALUE=DATE-TIME:20240316T153000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5B_21_662_459
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: P02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Maes A (0471.66.04.74 - lekipofficielle@gmail
+ .com)\n\nAccès voiture : a Partir de Bruxelles\, Prendre la E 411 en Dire
+ ction de Namur. Prendre la Sortie 11  Gembloux pour Rejoindre la N 29 en D
+ irection de Gembloux / Tirlement / Jodoigne / Perwez. suivre la N29 et Cha
+ ussée de Wavre (N243) en Direction de la Rue des Marronniers. au Rond-Poi
+ nt 1\, 2 et 3 Prendre chaque Fois la première Sortie.\nAu Rond-Point suiv
+ ant (4Ième) Prendre la deuxième Sortie et Continuer sur la Chaussée de 
+ Wavre / N 243. Prendre à Droite sur la Rue des Marronniers\, le Terrain s
+ e Trouve à Droite\n\nVérifiez toujours ces infos sur http://www.abssa.be
+ /
+GEO:50.6251834;4.8051205
+LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
+ORGANIZER;CN="Maes A";ROLE=Secrétaire:MAILTO:lekipofficielle@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J16: BLOOD SPIKES vs L'EKIP
-DTSTART:20230107T153000Z
-DTEND:20230107T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:e168513a-ee5a-4bdf-b3b6-47067586ce2e
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe extérieur: Blanc\n\nContact équipe
-  domicile: OTTE J. (0486.41.87.42)\n\nAccès voiture : Autoroute Bruxelles
- -Namur (E411) prendre la sortie Louvain/Grez-Doiceau (n° 8). Prendre la R
- N25 en direction de Louvain/Grez-Doiceau. Passer tout droit les deux premi
- ers ronds-points à l'issue de la RN 25. Au troisième rond-point prendre 
- à droite. Le terrain se trouve 150 m. plus loin à gauche de la rue du St
- ampia.
-GEO:50.744789;4.6969702
-LOCATION:Rue du Stampia\, 1390 Grez-Doiceau\, Belgique
-ORGANIZER:MAILTO:bloodspikes9@gmail.com
+SUMMARY:ABSSA D5B J22: WATERMAEL FC (Eq. 2) vs L'EKIP
+DTSTART;VALUE=DATE-TIME:20240323T113000Z
+DTEND;VALUE=DATE-TIME:20240323T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5B_22_611_662
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A10\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Deschamps J. (0477.67.76.37 - jul_desch@hotma
+ il.com)\n\nAccès voiture : L'accès au terrain se fait à partir du n° 2
+ 057 de la chaussée de Wavre (en face du stade communal d'Auderghem). L'ac
+ cès au terrain se fait par l'arrière du bâtiment principal (où sont si
+ tués les vestiaires) il faut parcourir environ 300 mètres avant d'attein
+ dre le terrain de football situé après la piste d'athlétisme et le terr
+ ain de hockey.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8093405;4.4437919
+LOCATION:Complexe de L'Adeps\, Chaussée de Wavre 2057\, 1160 Auderghem\, 
+ Belgique
+ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J17: L'EKIP vs WOKRASSE F.C.
-DTSTART:20230114T150000Z
-DTEND:20230114T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:ea2e7f54-a216-4ecd-8a09-38d9ca0c3787
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe extérieur: Blanc\n\nContact équipe
-  domicile: VERCRUIJSSE A. (0477.95.18.34)\n\nAccès voiture : 
-GEO:50.8128674;4.4233192
-LOCATION:A partir de Bruxelles\, prendre la E 411 en direction de Namur. P
- rendre la sortie 11  Gembloux pour rejoindre la N 29 en direction de Gembl
- oux / Tirlement / Jodoigne / Perwez. Suivre la N29 et chaussée de Wavre (
- N243) en direction de la rue des Marronniers. Au rond-point 1\, 2 et 3 pre
- ndre chaque fois la première sortie.\nAu rond-point suivant (4ième) pren
- dre la deuxième sortie et continuer sur la chaussée de Wavre / N 243. Pr
- endre à droite sur la rue des Marronniers\, le terrain se trouve à droit
- e\, Av. des Marronniers\, 17\, 1360 Perwez\, Belgique
-ORGANIZER:MAILTO:lekipofficielle@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J18: PANTOUFLES FC vs L'EKIP
-DTSTART:20230121T153000Z
-DTEND:20230121T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:6f2fb527-17d0-4e49-abe8-ec35dd236823
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Blanc\n\nContact équipe 
- domicile: LAURENT F (0478.68.80.02)\n\nAccès voiture : Autoroute E411\, p
- rendre la sortie Rosières. Passer devant l'église\, longer l'autoroute e
- t tourner à droite au cimetière des animaux. Terrain à 200 m.
-GEO:50.728425;4.5537381
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:florimond.laurent@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J19: L'EKIP vs SANSERIF FC
-DTSTART:20230128T150000Z
-DTEND:20230128T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:c0ef2b67-98fb-459b-8d15-dccb0eaa9c45
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe extérieur: Bleu marine\n\nContact 
- équipe domicile: VERCRUIJSSE A. (0477.95.18.34)\n\nAccès voiture : 
-GEO:50.8128674;4.4233192
-LOCATION:A partir de Bruxelles\, prendre la E 411 en direction de Namur. P
- rendre la sortie 11  Gembloux pour rejoindre la N 29 en direction de Gembl
- oux / Tirlement / Jodoigne / Perwez. Suivre la N29 et chaussée de Wavre (
- N243) en direction de la rue des Marronniers. Au rond-point 1\, 2 et 3 pre
- ndre chaque fois la première sortie.\nAu rond-point suivant (4ième) pren
- dre la deuxième sortie et continuer sur la chaussée de Wavre / N 243. Pr
- endre à droite sur la rue des Marronniers\, le terrain se trouve à droit
- e\, Av. des Marronniers\, 17\, 1360 Perwez\, Belgique
-ORGANIZER:MAILTO:lekipofficielle@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J20: L'EKIP vs JODOIGNOISE FC
-DTSTART:20230204T150000Z
-DTEND:20230204T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:2e777206-9f3e-4bd4-a2a0-0241115ef57c
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe extérieur: Noir et jaune\n\nContact
-  équipe domicile: VERCRUIJSSE A. (0477.95.18.34)\n\nAccès voiture : 
-GEO:50.8128674;4.4233192
-LOCATION:A partir de Bruxelles\, prendre la E 411 en direction de Namur. P
- rendre la sortie 11  Gembloux pour rejoindre la N 29 en direction de Gembl
- oux / Tirlement / Jodoigne / Perwez. Suivre la N29 et chaussée de Wavre (
- N243) en direction de la rue des Marronniers. Au rond-point 1\, 2 et 3 pre
- ndre chaque fois la première sortie.\nAu rond-point suivant (4ième) pren
- dre la deuxième sortie et continuer sur la chaussée de Wavre / N 243. Pr
- endre à droite sur la rue des Marronniers\, le terrain se trouve à droit
- e\, Av. des Marronniers\, 17\, 1360 Perwez\, Belgique
-ORGANIZER:MAILTO:lekipofficielle@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J21: FAUBOURG-BRAINOISE vs L'EKIP
-DTSTART:20230211T140000Z
-DTEND:20230211T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:948cd366-7e11-4f0e-8fe8-491ede99dad9
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe extérieur: Blanc\n\nContact équipe
-  domicile: HERPAIN D. (0474.79.02.18)\n\nAccès voiture : En venant de Bru
- xelles\, emprunter la chaussée de Bruxelles ou de Waterloo jusqu'au magas
- in "Carrefour". Au dit carrefour (Mont-St.-Jean) prendre la direction Nive
- lles. Sur cette chaussée\, au deuxième feu de signalisation\, prendre à
-  droite\, le terrain se trouve à 500 m. et est fléché.
-GEO:50.6827211;4.3844421
-LOCATION:STADE GASTON REIFF\, Boulevard de l'Europe\, 1420 Braine - l'Alle
- ud\, Belgique
-ORGANIZER:MAILTO:daniel.herpain@skynet.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J22: L'EKIP vs RED STAR BRUSSELS
-DTSTART:20230225T150000Z
-DTEND:20230225T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:4a5b8350-7cb8-41d3-a4a8-e9a6c9afde53
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe extérieur: Noir et rouge\n\nContact
-  équipe domicile: VERCRUIJSSE A. (0477.95.18.34)\n\nAccès voiture : 
-GEO:50.8128674;4.4233192
-LOCATION:A partir de Bruxelles\, prendre la E 411 en direction de Namur. P
- rendre la sortie 11  Gembloux pour rejoindre la N 29 en direction de Gembl
- oux / Tirlement / Jodoigne / Perwez. Suivre la N29 et chaussée de Wavre (
- N243) en direction de la rue des Marronniers. Au rond-point 1\, 2 et 3 pre
- ndre chaque fois la première sortie.\nAu rond-point suivant (4ième) pren
- dre la deuxième sortie et continuer sur la chaussée de Wavre / N 243. Pr
- endre à droite sur la rue des Marronniers\, le terrain se trouve à droit
- e\, Av. des Marronniers\, 17\, 1360 Perwez\, Belgique
-ORGANIZER:MAILTO:lekipofficielle@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J23: L'EKIP vs PICARDIE AS
-DTSTART:20230304T150000Z
-DTEND:20230304T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:118c6e9b-d4e8-4b55-92db-da8385cd13bd
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe extérieur: Bleu\n\nContact équipe 
- domicile: VERCRUIJSSE A. (0477.95.18.34)\n\nAccès voiture : 
-GEO:50.8128674;4.4233192
-LOCATION:A partir de Bruxelles\, prendre la E 411 en direction de Namur. P
- rendre la sortie 11  Gembloux pour rejoindre la N 29 en direction de Gembl
- oux / Tirlement / Jodoigne / Perwez. Suivre la N29 et chaussée de Wavre (
- N243) en direction de la rue des Marronniers. Au rond-point 1\, 2 et 3 pre
- ndre chaque fois la première sortie.\nAu rond-point suivant (4ième) pren
- dre la deuxième sortie et continuer sur la chaussée de Wavre / N 243. Pr
- endre à droite sur la rue des Marronniers\, le terrain se trouve à droit
- e\, Av. des Marronniers\, 17\, 1360 Perwez\, Belgique
-ORGANIZER:MAILTO:lekipofficielle@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J24: CHIEFS WSL (Eq. 3) vs L'EKIP
-DTSTART:20230311T123000Z
-DTEND:20230311T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:d60c0a86-086c-4ab3-9d31-36bcecf62daa
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe extérieur: Blanc\n\nContact équipe
-  domicile: DE SAN G. (0477.42.23.84)\n\nAccès voiture : Boulevard de la W
- oluwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit 
- Pont (terminus bus 28). Avant ce pont le terrain se trouve à gauche.
-GEO:50.8423054;4.445628699999999
-LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
- é-Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:guy@desan.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J25: CHOULE AUDERGHEM (Eq. 2) vs L'EKIP
-DTSTART:20230318T123000Z
-DTEND:20230318T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:d04277d6-f553-4867-90c0-7a7153ba0149
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe extérieur: Blanc\n\nContact équipe 
- domicile: VANDENPLAS D. (0476.54.48.01)\n\nAccès voiture : A partir du sq
- uare des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des Nym
- phes.
-GEO:50.8059064;4.4137412
-LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
- l-Boitsfort\, Belgique
-ORGANIZER:MAILTO:dav_54@hotmail.com
+SUMMARY:ABSSA D5B J25: L'EKIP vs MASIA CITY
+DTSTART;VALUE=DATE-TIME:20240406T130000Z
+DTEND;VALUE=DATE-TIME:20240406T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5B_25_662_661
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: P02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
+ -Noir\n\nContact équipe domicile: Maes A (0471.66.04.74 - lekipofficielle
+ @gmail.com)\n\nAccès voiture : a Partir de Bruxelles\, Prendre la E 411 e
+ n Direction de Namur. Prendre la Sortie 11  Gembloux pour Rejoindre la N 2
+ 9 en Direction de Gembloux / Tirlement / Jodoigne / Perwez. suivre la N29 
+ et Chaussée de Wavre (N243) en Direction de la Rue des Marronniers. au Ro
+ nd-Point 1\, 2 et 3 Prendre chaque Fois la première Sortie.\nAu Rond-Poin
+ t suivant (4Ième) Prendre la deuxième Sortie et Continuer sur la Chauss
+ ée de Wavre / N 243. Prendre à Droite sur la Rue des Marronniers\, le Te
+ rrain se Trouve à Droite\n\nVérifiez toujours ces infos sur http://www.a
+ bssa.be/
+GEO:50.6251834;4.8051205
+LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
+ORGANIZER;CN="Maes A";ROLE=Secrétaire:MAILTO:lekipofficielle@gmail.com
 END:VEVENT
 END:VCALENDAR

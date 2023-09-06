@@ -1,0 +1,120 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:abbsa_j_21_d_6c
+X-WR-CALDESC:Les matches de la journée 21 en divion 6C d'ABSSA.
+X-WR-CALNAME:D6C Journée 21
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J21: ETINCELLE FC (Eq. 2) vs AZUR RCS (Eq. 6)
+DTSTART;VALUE=DATE-TIME:20240316T113000Z
+DTEND;VALUE=DATE-TIME:20240316T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_6C_21_35_109
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Jaune et bleu\nCouleur principale équipe exterieur
+ e: Bleu ciel\n\nContact équipe domicile: Kremer N (0471.37.59.81 - nicola
+ s.kremer@gmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, apr
+ ès 300 m. en direction de Lennik\, prendre à droite.\nVenant de la chaus
+ sée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi
+ \, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. e
+ n direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.abss
+ a.be/
+GEO:50.8177358;4.2557195
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER;CN="Kremer N";ROLE=Secrétaire:MAILTO:nicolas.kremer@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J21: CHOULE AUDERGHEM (Eq. 5) vs PHARMA SC (Eq. 4)
+DTSTART;VALUE=DATE-TIME:20240316T113000Z
+DTEND;VALUE=DATE-TIME:20240316T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_6C_21_517_268
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Vandenplas D. (0476.54.48.01 - dav_54@hotmail
+ .com)\n\nAccès voiture : En venant de Bruxelles par la chaussée de Wavre
+ \, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ban
+ de de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADEP
+ S\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le te
+ rrain se trouve à 200 m. Le stade est fléché.\n\nVérifiez toujours ces
+  infos sur http://www.abssa.be/
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J21: BRUSSELS LTC (Eq. 5) vs ALIZE VETERANS FC
+DTSTART;VALUE=DATE-TIME:20240316T130000Z
+DTEND;VALUE=DATE-TIME:20240316T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_6C_21_39_395
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Ja
+ une\n\nContact équipe domicile: Van Hacht O. (0475.96.43.03 - brusselsltc
+ @hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre le Ring Es
+ t direction Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\,
+  Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours
+  tout droit. Au feu de signalisation et le carrefour de La Hulpe\, tout dr
+ oit direction Genval. Au feu de signalisation prendre à gauche et ensuite
+  directement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se 
+ trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.7309318;4.4945865
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J21: SAINT GEORGES RCS (Eq. 4) vs ITT - GECKO FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240316T130000Z
+DTEND;VALUE=DATE-TIME:20240316T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_6C_21_221_92
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W13\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir\
+ n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.destin@gmai
+ l.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel. Passer en dessous du petit pont et continuer
+  la chaussée de Stockel pendant env. 500 m. Le terrain est situé sur la 
+ droite de la chaussée.\n\nVérifiez toujours ces infos sur http://www.abs
+ sa.be/
+GEO:50.8416694;4.4547837
+LOCATION:Chaussée de Stockel 376\, 1150 Woluwé-Saint-Pierre\, Belgique
+ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J21: BRUSSELS BRITISH R (Eq. 6) vs CHENOIS SC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20240316T130000Z
+DTEND;VALUE=DATE-TIME:20240316T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_6C_21_1_84
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir 
+ et Rouge\n\nContact équipe domicile: Lachia S. (0484.27.72.64 - abssa-sec
+ @rbbfc.org)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosièr
+ es. Passer devant l'église\, longer l'autoroute et tourner à droite au c
+ imetière des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos s
+ ur http://www.abssa.be/
+GEO:50.7282426;4.5537189
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="Lachia S.";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J21: CAMPOMAIORENSE SC vs TOURINNOIS FC (Eq. 4)
+DTSTART;VALUE=DATE-TIME:20240316T143000Z
+DTEND;VALUE=DATE-TIME:20240316T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_6C_21_467_292
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
+ e: Rouge\n\nContact équipe domicile: Cesar Paixao I. (0496.37.12.76 - ivo
+ cp1@hotmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la r
+ ue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 2
+ 8). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ce
+ s infos sur http://www.abssa.be/
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Cesar Paixao I.";ROLE=Secrétaire:MAILTO:ivocp1@hotmail.com
+END:VEVENT
+END:VCALENDAR

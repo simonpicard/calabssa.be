@@ -1,314 +1,551 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:f05ed39e-7409-4e2e-89a0-c3025540fe9d
-X-WR-CALDESC:Les matches de FRANGINOS (LOS) (eq. 1) en ABSSA.
-X-WR-CALNAME:ABSSA - FRANGINOS (LOS) (eq. 1) - 647
-X-WR-TIMEZONE:Europe/Brussels
+PRODID:647_1_franginos_los
+X-WR-CALDESC:Les matches du club FRANGINOS (LOS) (equipe 1) en ABSSA.
+X-WR-CALNAME:ABSSA: FRANGINOS (LOS) (eq. 1)
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J2: BXL ALLIANCE JETTE vs FRANGINOS (LOS)
-DTSTART:20220910T140000Z
-DTEND:20220910T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:ef687803-d856-4d69-9d37-769b3718d1f2
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe extérieur: Blanc\n\nContact équipe 
- domicile: ZALESKI S. (0473.34.57.81)\n\nAccès voiture : Direction cimeti
- ère de Jette\, ensuite prendre la rue du "Sacré-Coeur" jusqu'au bout\, p
- uis tout droit\, avenue J.J. Crocq. Le terrain se trouve à gauche.
-GEO:50.8868564;4.3286963
-LOCATION:COMPLEXE SPORTIF DU HEYMBOSCH\, Avenue J.J. Crocq\, 1090 Jette\, 
+SUMMARY:ABSSA D3A J10: FRANGINOS (LOS) vs CHIEFS WSL
+DTSTART;VALUE=DATE-TIME:20230902T130000Z
+DTEND;VALUE=DATE-TIME:20230902T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3A_10_647_303
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: P02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Blanc
+ \n\nContact équipe domicile: Gerard S. (0487.22.81.20 - simongerard@hotma
+ il.be)\n\nAccès voiture : a Partir de Bruxelles\, Prendre la E 411 en Dir
+ ection de Namur. Prendre la Sortie 11  Gembloux pour Rejoindre la N 29 en 
+ Direction de Gembloux / Tirlement / Jodoigne / Perwez. suivre la N29 et Ch
+ aussée de Wavre (N243) en Direction de la Rue des Marronniers. au Rond-Po
+ int 1\, 2 et 3 Prendre chaque Fois la première Sortie.\nAu Rond-Point sui
+ vant (4Ième) Prendre la deuxième Sortie et Continuer sur la Chaussée de
+  Wavre / N 243. Prendre à Droite sur la Rue des Marronniers\, le Terrain 
+ se Trouve à Droite\n\nVérifiez toujours ces infos sur http://www.abssa.b
+ e/
+GEO:50.6251834;4.8051205
+LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
+ORGANIZER;CN="Gerard S.";ROLE=Secrétaire:MAILTO:simongerard@hotmail.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J1: BXL ALLIANCE JETTE vs FRANGINOS (LOS)
+DTSTART;VALUE=DATE-TIME:20230909T120000Z
+DTEND;VALUE=DATE-TIME:20230909T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3A_1_566_647
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Zaleski S. (0473.34.57.81 - zal.stan@hotmail.
+ com)\n\nAccès voiture : Direction cimetière de Jette\, ensuite prendre l
+ a rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Croc
+ q. Le terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur htt
+ p://www.abssa.be/
+GEO:50.8907643;4.3211209
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
  Belgique
-ORGANIZER:MAILTO:zal.stan@hotmail.com
+ORGANIZER;CN="Zaleski S.";ROLE=Secrétaire:MAILTO:zal.stan@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J12: FRANGINOS (LOS) vs BOUSVAL GENAPPE
-DTSTART:20221126T150000Z
-DTEND:20221126T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:e8b6d062-fecd-4eff-8692-aa3cdfa958fe
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe extérieur: Blanc\n\nContact équipe
-  domicile: GERARD S. (0487.22.81.20)\n\nAccès voiture : 
-GEO:50.8128674;4.4233192
-LOCATION:A partir de Bruxelles\, prendre la E 411 en direction de Namur. P
- rendre la sortie 11  Gembloux pour rejoindre la N 29 en direction de Gembl
- oux / Tirlement / Jodoigne / Perwez. Suivre la N29 et chaussée de Wavre (
- N243) en direction de la rue des Marronniers. Au rond-point 1\, 2 et 3 pre
- ndre chaque fois la première sortie.\nAu rond-point suivant (4ième) pren
- dre la deuxième sortie et continuer sur la chaussée de Wavre / N 243. Pr
- endre à droite sur la rue des Marronniers\, le terrain se trouve à droit
- e\, Av. des Marronniers\, 17\, 1360 Perwez\, Belgique
-ORGANIZER:MAILTO:simongerard@hotmail.be
+SUMMARY:ABSSA D3A J2: FRANGINOS (LOS) vs CURTIS L'AUSELE
+DTSTART;VALUE=DATE-TIME:20230916T130000Z
+DTEND;VALUE=DATE-TIME:20230916T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3A_2_647_599
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: P02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
+ marine\n\nContact équipe domicile: Gerard S. (0487.22.81.20 - simongerard
+ @hotmail.be)\n\nAccès voiture : a Partir de Bruxelles\, Prendre la E 411 
+ en Direction de Namur. Prendre la Sortie 11  Gembloux pour Rejoindre la N 
+ 29 en Direction de Gembloux / Tirlement / Jodoigne / Perwez. suivre la N29
+  et Chaussée de Wavre (N243) en Direction de la Rue des Marronniers. au R
+ ond-Point 1\, 2 et 3 Prendre chaque Fois la première Sortie.\nAu Rond-Poi
+ nt suivant (4Ième) Prendre la deuxième Sortie et Continuer sur la Chauss
+ ée de Wavre / N 243. Prendre à Droite sur la Rue des Marronniers\, le Te
+ rrain se Trouve à Droite\n\nVérifiez toujours ces infos sur http://www.a
+ bssa.be/
+GEO:50.6251834;4.8051205
+LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
+ORGANIZER;CN="Gerard S.";ROLE=Secrétaire:MAILTO:simongerard@hotmail.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J13: FRANGINOS (LOS) vs BXL ALLIANCE JETTE
-DTSTART:20221203T150000Z
-DTEND:20221203T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:d785d16c-e6d1-4a73-90a2-75de67454f8b
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe extérieur: Vert\n\nContact équipe 
- domicile: GERARD S. (0487.22.81.20)\n\nAccès voiture : 
-GEO:50.8128674;4.4233192
-LOCATION:A partir de Bruxelles\, prendre la E 411 en direction de Namur. P
- rendre la sortie 11  Gembloux pour rejoindre la N 29 en direction de Gembl
- oux / Tirlement / Jodoigne / Perwez. Suivre la N29 et chaussée de Wavre (
- N243) en direction de la rue des Marronniers. Au rond-point 1\, 2 et 3 pre
- ndre chaque fois la première sortie.\nAu rond-point suivant (4ième) pren
- dre la deuxième sortie et continuer sur la chaussée de Wavre / N 243. Pr
- endre à droite sur la rue des Marronniers\, le terrain se trouve à droit
- e\, Av. des Marronniers\, 17\, 1360 Perwez\, Belgique
-ORGANIZER:MAILTO:simongerard@hotmail.be
+SUMMARY:ABSSA D3A J3: LA LORRAINE-MTM.R (Eq. 2) vs FRANGINOS (LOS)
+DTSTART;VALUE=DATE-TIME:20230923T103000Z
+DTEND;VALUE=DATE-TIME:20230923T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3A_3_44_647
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Degimbe M. (0478.53.63.56 - lalorrainefc@gmai
+ l.com)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur ht
+ tp://www.abssa.be/
+GEO:50.7282426;4.5537189
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="Degimbe M.";ROLE=Secrétaire:MAILTO:lalorrainefc@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J14: SPARTAK SYNERGY vs FRANGINOS (LOS)
-DTSTART:20221210T153000Z
-DTEND:20221210T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:6577e5bb-9303-4102-a4dc-ae54d1a72ead
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge et blanc\nCouleur principale équipe extérieur: Blanc\n\nContac
- t équipe domicile: BAILLY N. (0491.16.78.27)\n\nAccès voiture : Ring de 
- Bruxelles (RO)\, sortie Jette-Wemmel (n° 9)\, direction Merchtem. A Bruss
- egem au carrefour Asse-Wolvertem\, prendre direction Asse. Après l'églis
- e\, prendre la 1ère à main droite (direction Mollem). Après 2 km. prend
- re la Kouterstraat qui se trouve juste en face de l'église.
-GEO:50.9278393;4.2227906
-LOCATION:Kouter\, 29\, 1730 Mollem\, Belgique
-ORGANIZER:MAILTO:nm.bailly@gmail.com
+SUMMARY:ABSSA D3A J4: FRANGINOS (LOS) vs CENTRAL PARK FC
+DTSTART;VALUE=DATE-TIME:20230930T130000Z
+DTEND;VALUE=DATE-TIME:20230930T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3A_4_647_562
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: P02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
+ et Blanc\n\nContact équipe domicile: Gerard S. (0487.22.81.20 - simongera
+ rd@hotmail.be)\n\nAccès voiture : a Partir de Bruxelles\, Prendre la E 41
+ 1 en Direction de Namur. Prendre la Sortie 11  Gembloux pour Rejoindre la 
+ N 29 en Direction de Gembloux / Tirlement / Jodoigne / Perwez. suivre la N
+ 29 et Chaussée de Wavre (N243) en Direction de la Rue des Marronniers. au
+  Rond-Point 1\, 2 et 3 Prendre chaque Fois la première Sortie.\nAu Rond-P
+ oint suivant (4Ième) Prendre la deuxième Sortie et Continuer sur la Chau
+ ssée de Wavre / N 243. Prendre à Droite sur la Rue des Marronniers\, le 
+ Terrain se Trouve à Droite\n\nVérifiez toujours ces infos sur http://www
+ .abssa.be/
+GEO:50.6251834;4.8051205
+LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
+ORGANIZER;CN="Gerard S.";ROLE=Secrétaire:MAILTO:simongerard@hotmail.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J15: FRANGINOS (LOS) vs HIGGINS (Eq. 2)
-DTSTART:20221217T150000Z
-DTEND:20221217T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:1372f39c-9f85-4425-b66e-0f86653ba6b5
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe extérieur: Rayé Bleu et Blanc\n\nC
- ontact équipe domicile: GERARD S. (0487.22.81.20)\n\nAccès voiture : 
-GEO:50.8128674;4.4233192
-LOCATION:A partir de Bruxelles\, prendre la E 411 en direction de Namur. P
- rendre la sortie 11  Gembloux pour rejoindre la N 29 en direction de Gembl
- oux / Tirlement / Jodoigne / Perwez. Suivre la N29 et chaussée de Wavre (
- N243) en direction de la rue des Marronniers. Au rond-point 1\, 2 et 3 pre
- ndre chaque fois la première sortie.\nAu rond-point suivant (4ième) pren
- dre la deuxième sortie et continuer sur la chaussée de Wavre / N 243. Pr
- endre à droite sur la rue des Marronniers\, le terrain se trouve à droit
- e\, Av. des Marronniers\, 17\, 1360 Perwez\, Belgique
-ORGANIZER:MAILTO:simongerard@hotmail.be
+SUMMARY:ABSSA D3A J5: CHARLES-QUINT FC vs FRANGINOS (LOS)
+DTSTART;VALUE=DATE-TIME:20231007T133000Z
+DTEND;VALUE=DATE-TIME:20231007T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3A_5_499_647
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: G03\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Blanc\n\nContact équipe domicile: Denies G (0479.57.39.23 - denies.gaeta
+ n@gmail.com)\n\nAccès voiture : Par la ville. A partir de la Basilique de
+  Koekelberg\, prendre l'Avenue Charles Quint\, prendre 3ème rue à droite
+ \, Avenue de Villegas. Arrivé au rond point prendre la 3ème sortie et  c
+ ontinuer sur l'avenue Marie de Hongrie. Prendre ensuite la première à dr
+ oite\, l'avenue des Neuf Provinces. Au 2ème rond point\, prendre la premi
+ ère sortie\, rue Vanderveken. Un parking est accessible dans la première
+  rue à gauche. (Indication Hall des Sports).\nPar le ring. En sortant du 
+ ring à Koekelberg\, prendre l'avenue Charles Quint. Au 3ème feu\, prendr
+ e à gauche sur la place Marguerite d'Autriche. Prendre la 1ère rue à dr
+ oite et rester sur l'avenue Marie de Hongrie. Ensuite suivre comme ci-dess
+ us.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.876279;4.3026291
+LOCATION:Rue A. Roobaert\, 1083 Ganshoren\, Belgique
+ORGANIZER;CN="Denies G";ROLE=Secrétaire:MAILTO:denies.gaetan@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J16: FRANGINOS (LOS) vs COLO-COLO UNITED
-DTSTART:20230107T150000Z
-DTEND:20230107T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:ea13d646-11d9-42bc-a867-7cb5ff24be08
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe extérieur: Bleu foncé et blanc\n\n
- Contact équipe domicile: GERARD S. (0487.22.81.20)\n\nAccès voiture : 
-GEO:50.8128674;4.4233192
-LOCATION:A partir de Bruxelles\, prendre la E 411 en direction de Namur. P
- rendre la sortie 11  Gembloux pour rejoindre la N 29 en direction de Gembl
- oux / Tirlement / Jodoigne / Perwez. Suivre la N29 et chaussée de Wavre (
- N243) en direction de la rue des Marronniers. Au rond-point 1\, 2 et 3 pre
- ndre chaque fois la première sortie.\nAu rond-point suivant (4ième) pren
- dre la deuxième sortie et continuer sur la chaussée de Wavre / N 243. Pr
- endre à droite sur la rue des Marronniers\, le terrain se trouve à droit
- e\, Av. des Marronniers\, 17\, 1360 Perwez\, Belgique
-ORGANIZER:MAILTO:simongerard@hotmail.be
+SUMMARY:ABSSA D3A J6: FRANGINOS (LOS) vs UNION TIGERS
+DTSTART;VALUE=DATE-TIME:20231014T130000Z
+DTEND;VALUE=DATE-TIME:20231014T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3A_6_647_649
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: P02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
+ ciel et Blanc\n\nContact équipe domicile: Gerard S. (0487.22.81.20 - simo
+ ngerard@hotmail.be)\n\nAccès voiture : a Partir de Bruxelles\, Prendre la
+  E 411 en Direction de Namur. Prendre la Sortie 11  Gembloux pour Rejoindr
+ e la N 29 en Direction de Gembloux / Tirlement / Jodoigne / Perwez. suivre
+  la N29 et Chaussée de Wavre (N243) en Direction de la Rue des Marronnier
+ s. au Rond-Point 1\, 2 et 3 Prendre chaque Fois la première Sortie.\nAu R
+ ond-Point suivant (4Ième) Prendre la deuxième Sortie et Continuer sur la
+  Chaussée de Wavre / N 243. Prendre à Droite sur la Rue des Marronniers\
+ , le Terrain se Trouve à Droite\n\nVérifiez toujours ces infos sur http:
+ //www.abssa.be/
+GEO:50.6251834;4.8051205
+LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
+ORGANIZER;CN="Gerard S.";ROLE=Secrétaire:MAILTO:simongerard@hotmail.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J17: MOUSSES TACHENT vs FRANGINOS (LOS)
-DTSTART:20230114T153000Z
-DTEND:20230114T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:d84c9207-c94e-4e54-8a25-5becb89b305e
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bordeaux\nCouleur principale équipe extérieur: Blanc\n\nContact équ
- ipe domicile: STEVENS F. (0472.09.43.58)\n\nAccès voiture : Ring ouest: D
- irection Waterloo\, prendre la sortie "butte du lion" \, prendre à droite
- \, puis au feu rouge prendre à droite\, rouler jusque Genappe et prendre 
- la RN 25 en direction de Wavre\, prendre la deuxième sortie (Court St. Et
- ienne) et prendre à gauche\, le terrain se trouve à 1 km. a main droite.
- \nPar la E411: Prendre la E411 direction Namur\, ensuite sortir a Wavre\, 
- prendre ensuite la sortie Villers-La-Ville\, ensuite à droite puis direct
- ement à gauche a l'arbre et descendre jusque dans le fond\, prendre a dro
- ite et le terrain se trouve à 500 m. a main gauche.
-GEO:50.6343528;4.5383633
-LOCATION:Avenue des Combattants\, 1490 Court St. Etienne\, Belgique
-ORGANIZER:MAILTO:les.mousses.tachent@gmail.com
+SUMMARY:ABSSA D3A J8: FRANGINOS (LOS) vs MOON SHOOTERS
+DTSTART;VALUE=DATE-TIME:20231021T130000Z
+DTEND;VALUE=DATE-TIME:20231021T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3A_8_647_606
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: P02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Jaune
+ \n\nContact équipe domicile: Gerard S. (0487.22.81.20 - simongerard@hotma
+ il.be)\n\nAccès voiture : a Partir de Bruxelles\, Prendre la E 411 en Dir
+ ection de Namur. Prendre la Sortie 11  Gembloux pour Rejoindre la N 29 en 
+ Direction de Gembloux / Tirlement / Jodoigne / Perwez. suivre la N29 et Ch
+ aussée de Wavre (N243) en Direction de la Rue des Marronniers. au Rond-Po
+ int 1\, 2 et 3 Prendre chaque Fois la première Sortie.\nAu Rond-Point sui
+ vant (4Ième) Prendre la deuxième Sortie et Continuer sur la Chaussée de
+  Wavre / N 243. Prendre à Droite sur la Rue des Marronniers\, le Terrain 
+ se Trouve à Droite\n\nVérifiez toujours ces infos sur http://www.abssa.b
+ e/
+GEO:50.6251834;4.8051205
+LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
+ORGANIZER;CN="Gerard S.";ROLE=Secrétaire:MAILTO:simongerard@hotmail.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J18: FRANGINOS (LOS) vs CHIEFS WSL (Eq. 2)
-DTSTART:20230121T150000Z
-DTEND:20230121T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:e1c505f3-3026-4441-9e25-a60da32b3b7b
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe extérieur: Blanc\n\nContact équipe
-  domicile: GERARD S. (0487.22.81.20)\n\nAccès voiture : 
-GEO:50.8128674;4.4233192
-LOCATION:A partir de Bruxelles\, prendre la E 411 en direction de Namur. P
- rendre la sortie 11  Gembloux pour rejoindre la N 29 en direction de Gembl
- oux / Tirlement / Jodoigne / Perwez. Suivre la N29 et chaussée de Wavre (
- N243) en direction de la rue des Marronniers. Au rond-point 1\, 2 et 3 pre
- ndre chaque fois la première sortie.\nAu rond-point suivant (4ième) pren
- dre la deuxième sortie et continuer sur la chaussée de Wavre / N 243. Pr
- endre à droite sur la rue des Marronniers\, le terrain se trouve à droit
- e\, Av. des Marronniers\, 17\, 1360 Perwez\, Belgique
-ORGANIZER:MAILTO:simongerard@hotmail.be
+SUMMARY:ABSSA D3A J24: FRANGINOS (LOS) vs NEW INN FC
+DTSTART;VALUE=DATE-TIME:20231028T130000Z
+DTEND;VALUE=DATE-TIME:20231028T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3A_24_647_359
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: P02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Blanc
+ \n\nContact équipe domicile: Gerard S. (0487.22.81.20 - simongerard@hotma
+ il.be)\n\nAccès voiture : a Partir de Bruxelles\, Prendre la E 411 en Dir
+ ection de Namur. Prendre la Sortie 11  Gembloux pour Rejoindre la N 29 en 
+ Direction de Gembloux / Tirlement / Jodoigne / Perwez. suivre la N29 et Ch
+ aussée de Wavre (N243) en Direction de la Rue des Marronniers. au Rond-Po
+ int 1\, 2 et 3 Prendre chaque Fois la première Sortie.\nAu Rond-Point sui
+ vant (4Ième) Prendre la deuxième Sortie et Continuer sur la Chaussée de
+  Wavre / N 243. Prendre à Droite sur la Rue des Marronniers\, le Terrain 
+ se Trouve à Droite\n\nVérifiez toujours ces infos sur http://www.abssa.b
+ e/
+GEO:50.6251834;4.8051205
+LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
+ORGANIZER;CN="Gerard S.";ROLE=Secrétaire:MAILTO:simongerard@hotmail.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J19: GERMINAL CSA vs FRANGINOS (LOS)
-DTSTART:20230128T140000Z
-DTEND:20230128T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:b08c895d-5425-4689-ad0b-9f3bcaedfcf7
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe extérieur: Blanc\n\nContact équipe 
- domicile: NANIOT M. (0477.47.14.56)\n\nAccès voiture : Boulevard Lambermo
- nt\, prendre le boulevard Léopold III\, direction aéroport de Bruxelles-
- National\, au 3ème feu de signalisation prendre à droite. le terrain se 
- trouve à 50 m.
-GEO:50.8691981;4.4067073
-LOCATION:COMPLEXE SPORTIF EVERE\, Avenue des Anciens Combattants\, 300\, 1
- 140 Evere\, Belgique
-ORGANIZER:MAILTO:m.naniot@skynet.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J20: WONG A.S. (Eq. 2) vs FRANGINOS (LOS)
-DTSTART:20230204T144500Z
-DTEND:20230204T161000Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:0966a5b3-3e49-4948-82c3-1623fda81d2d
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune\nCouleur principale équipe extérieur: Blanc\n\nContact équipe
-  domicile: VAN IMPE J. (0476.78.52.59)\n\nAccès voiture : Aux quatre-Bras
- \, prendre direction Tervuren via l’avenue de Tervuren(N3) pendant 750M\
- nAu rond-point\, prendre la 1ère sortie et continuer sur l’avenue de Te
- rvuren pendant 1\,2km puis prendre à droite sur la chaussée de Bruxelles
-  pendant 500m. Ensuite Prendre légèrement sur la droite dans la Wijngaar
- dstraat pendant 400m et tourner à gauche dans la Pepperstraat pendant 400
- m. Ensuite tourner à droite sur la chaussée de Duisburg et rouler pendan
- t 1\,4 km... Continuer tout droit sur la chaussée de Tervuren pendant 1\,
- 3 km et prendre à gauche dans la rue de destination ( Schonenboomstraat).
- \nLe terrain se situe sur la droite de la route!
-GEO:50.8107232;4.5492332
-LOCATION:Schonenboormstraat\, 3080 Tervuren\, Belgique
-ORGANIZER:MAILTO:vanimpe-julien@hotmail.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J21: FRANGINOS (LOS) vs CHENOIS SC (Eq. 2)
-DTSTART:20230211T150000Z
-DTEND:20230211T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:c9363150-75a1-42cf-b908-3a7ea49c042c
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe extérieur: Rouge\n\nContact équipe
-  domicile: GERARD S. (0487.22.81.20)\n\nAccès voiture : 
-GEO:50.8128674;4.4233192
-LOCATION:A partir de Bruxelles\, prendre la E 411 en direction de Namur. P
- rendre la sortie 11  Gembloux pour rejoindre la N 29 en direction de Gembl
- oux / Tirlement / Jodoigne / Perwez. Suivre la N29 et chaussée de Wavre (
- N243) en direction de la rue des Marronniers. Au rond-point 1\, 2 et 3 pre
- ndre chaque fois la première sortie.\nAu rond-point suivant (4ième) pren
- dre la deuxième sortie et continuer sur la chaussée de Wavre / N 243. Pr
- endre à droite sur la rue des Marronniers\, le terrain se trouve à droit
- e\, Av. des Marronniers\, 17\, 1360 Perwez\, Belgique
-ORGANIZER:MAILTO:simongerard@hotmail.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J22: BOUSVAL GENAPPE vs FRANGINOS (LOS)
-DTSTART:20230225T153000Z
-DTEND:20230225T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:08ce0645-197f-4744-8425-69f10e48842f
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe extérieur: Blanc\n\nContact équipe
-  domicile: GOSSIAUX S. (0473.44.25.52)\n\nAccès voiture : Venant de Bruxe
- lles prendre le Ring Ouest\, sortie Genappe (n° 25)\, prendre à droite s
- ur la N5 (Bruxelles-Charleroi) direction Charleroi pendant +/- 10 min.\, s
- ortie Loupoigne\, traverser le carrefour\, tout droit direction route du s
- ucre.
-GEO:50.6007528;4.4472782
-LOCATION:Stade J.C. FLAMEND\, Route du sucre\, 1\, 1471 Loupoigne\, Belgiq
+SUMMARY:ABSSA D3A J7: TAURO FC vs FRANGINOS (LOS)
+DTSTART;VALUE=DATE-TIME:20231104T123000Z
+DTEND;VALUE=DATE-TIME:20231104T140000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3A_7_574_647
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S09\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Lietaer Y. (0484.16.30.31 - ylietaer@gmail.co
+ m)\n\nAccès voiture : Place Meiser\, descendre Bd. Général Wahis\, Bd L
+ ambermont\, au deuxième carrefour prendre à gauche\, puis encore la prem
+ ière à gauche\nOu :  Place Meiser prendre Av Ernest Cambier. - Tram n° 
+ 7  - Bus 65 arrêt Chazal\n\nVérifiez toujours ces infos sur http://www.a
+ bssa.be/
+GEO:50.8592013;4.3921032
+LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
  ue
-ORGANIZER:MAILTO:gossiaux_sebastien@hotmail.com
+ORGANIZER;CN="Lietaer Y.";ROLE=Secrétaire:MAILTO:ylietaer@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J23: VETUSO FC. vs FRANGINOS (LOS)
-DTSTART:20230304T140000Z
-DTEND:20230304T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:506e344c-bc11-4093-87fc-7f782cac78bb
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Blanc\n\nContact équipe 
- domicile: DAY N. (0494.57.83.26)\n\nAccès voiture : Venant de Bruxelles p
- rendre le Ring Ouest\, sortie Genappe (n° 25)\, prendre à droite sur la 
- N5 (Bruxelles-Charleroi) direction Charleroi pendant +/- 10 min.\, sortie 
- Loupoigne\, traverser le carrefour\, tout droit direction route du sucre.
-GEO:50.6007528;4.4472782
-LOCATION:Stade J.C. FLAMEND\, Route du sucre\, 1\, 1471 Loupoigne\, Belgiq
- ue
-ORGANIZER:MAILTO:nicolas.day@ucb.com
+SUMMARY:ABSSA D3A J9: FOSSIS (LES) CS vs FRANGINOS (LOS)
+DTSTART;VALUE=DATE-TIME:20231118T140000Z
+DTEND;VALUE=DATE-TIME:20231118T153000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3A_9_217_647
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: M08\n\nCouleur princi
+ pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Blanc
+ \n\nContact équipe domicile: Desmedt O. (0495.27.08.87 - oli.desmedt@gmai
+ l.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'autoroute E4
+ 11 en direction de Namur. Prendre la sortie 9 Corroy-le-Grand vers Louvain
+ -la-Neuve  Sud / Nivelles / E 19. Rejoindre Chemin de Grez. Au rond-point\
+ , prendre la 2ième sortie sur Grand'Route / N 4. Après 1\,8 km.et au pro
+ chain feu\, tourner à droite Rue de Corbais. Continuer tout droit pendant
+  2 km. et prendre à droite Avenue du Cérisier. 70 m. plus loin\, vous tr
+ ouverez le parking sur la droite.\n\nVérifiez toujours ces infos sur http
+ ://www.abssa.be/
+GEO:50.6415297;4.6219204
+LOCATION:Guibert Sports Arena\, Avenue des Cérisiers 3\, 1435 Mont-Saint-
+ Guibert\, Belgique
+ORGANIZER;CN="Desmedt O.";ROLE=Secrétaire:MAILTO:oli.desmedt@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J24: FRANGINOS (LOS) vs IRLANDE FC (Eq. 4)
-DTSTART:20230311T150000Z
-DTEND:20230311T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:de6d9e82-8af0-46db-ad8a-b7d449e09232
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe extérieur: Vert\n\nContact équipe 
- domicile: GERARD S. (0487.22.81.20)\n\nAccès voiture : 
-GEO:50.8128674;4.4233192
-LOCATION:A partir de Bruxelles\, prendre la E 411 en direction de Namur. P
- rendre la sortie 11  Gembloux pour rejoindre la N 29 en direction de Gembl
- oux / Tirlement / Jodoigne / Perwez. Suivre la N29 et chaussée de Wavre (
- N243) en direction de la rue des Marronniers. Au rond-point 1\, 2 et 3 pre
- ndre chaque fois la première sortie.\nAu rond-point suivant (4ième) pren
- dre la deuxième sortie et continuer sur la chaussée de Wavre / N 243. Pr
- endre à droite sur la rue des Marronniers\, le terrain se trouve à droit
- e\, Av. des Marronniers\, 17\, 1360 Perwez\, Belgique
-ORGANIZER:MAILTO:simongerard@hotmail.be
+SUMMARY:ABSSA D3A J12: FRANGINOS (LOS) vs TRINQUANT
+DTSTART;VALUE=DATE-TIME:20231125T140000Z
+DTEND;VALUE=DATE-TIME:20231125T153000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3A_12_647_445
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: P02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
+ marine\n\nContact équipe domicile: Gerard S. (0487.22.81.20 - simongerard
+ @hotmail.be)\n\nAccès voiture : a Partir de Bruxelles\, Prendre la E 411 
+ en Direction de Namur. Prendre la Sortie 11  Gembloux pour Rejoindre la N 
+ 29 en Direction de Gembloux / Tirlement / Jodoigne / Perwez. suivre la N29
+  et Chaussée de Wavre (N243) en Direction de la Rue des Marronniers. au R
+ ond-Point 1\, 2 et 3 Prendre chaque Fois la première Sortie.\nAu Rond-Poi
+ nt suivant (4Ième) Prendre la deuxième Sortie et Continuer sur la Chauss
+ ée de Wavre / N 243. Prendre à Droite sur la Rue des Marronniers\, le Te
+ rrain se Trouve à Droite\n\nVérifiez toujours ces infos sur http://www.a
+ bssa.be/
+GEO:50.6251834;4.8051205
+LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
+ORGANIZER;CN="Gerard S.";ROLE=Secrétaire:MAILTO:simongerard@hotmail.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J25: FRANGINOS (LOS) vs MACCABI BXL
-DTSTART:20230318T150000Z
-DTEND:20230318T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:ec108576-56d3-4766-a8e2-00324760cb69
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe extérieur: Bleu\n\nContact équipe 
- domicile: GERARD S. (0487.22.81.20)\n\nAccès voiture : 
-GEO:50.8128674;4.4233192
-LOCATION:A partir de Bruxelles\, prendre la E 411 en direction de Namur. P
- rendre la sortie 11  Gembloux pour rejoindre la N 29 en direction de Gembl
- oux / Tirlement / Jodoigne / Perwez. Suivre la N29 et chaussée de Wavre (
- N243) en direction de la rue des Marronniers. Au rond-point 1\, 2 et 3 pre
- ndre chaque fois la première sortie.\nAu rond-point suivant (4ième) pren
- dre la deuxième sortie et continuer sur la chaussée de Wavre / N 243. Pr
- endre à droite sur la rue des Marronniers\, le terrain se trouve à droit
- e\, Av. des Marronniers\, 17\, 1360 Perwez\, Belgique
-ORGANIZER:MAILTO:simongerard@hotmail.be
+SUMMARY:ABSSA D3A J11: NEW INN FC vs FRANGINOS (LOS)
+DTSTART;VALUE=DATE-TIME:20231202T143000Z
+DTEND;VALUE=DATE-TIME:20231202T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3A_11_359_647
+DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Blanc
+ \n\nContact équipe domicile: Cornil B. (0494.16.15.11 - bencornil@gmail.c
+ om)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute Bruxel
+ les-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc pren
+ dre à droite\, l'avenue des Anciens Combattants. Juste après le carrefou
+ r avec des feux de signalisation prendre à droite vers la Place de la Cha
+ pelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terrain
+  se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces infos sur ht
+ tp://www.abssa.be/
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="Cornil B.";ROLE=Secrétaire:MAILTO:bencornil@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J26: HIGGINS (Eq. 2) vs FRANGINOS (LOS)
-DTSTART:20230325T123000Z
-DTEND:20230325T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:8a554855-918d-468b-8666-1080e694d209
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rayé Bleu et Blanc\nCouleur principale équipe extérieur: Blanc\n\nC
- ontact équipe domicile: DE BIOLLEY PH. (0477.23.31.25)\n\nAccès voiture 
- : En venant de Bruxelles par la chaussée de Wavre\, rejoindre le du débu
- t de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pendant +/-
-  200 m. et descendre devant le bâtiment de l'ADEPS\, puis passer par le t
- unnel à gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m
- . Le stade est fléché.
+SUMMARY:ABSSA D3A J13: VOLLENBACK FC vs FRANGINOS (LOS)
+DTSTART;VALUE=DATE-TIME:20231209T134500Z
+DTEND;VALUE=DATE-TIME:20231209T151500Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3A_13_589_647
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W16\n\nCouleur princi
+ pale équipe domicile: Rose et noir\nCouleur principale équipe exterieure
+ : Blanc\n\nContact équipe domicile: Haimburger G. (0485.84.91.47 - Gregor
+ y.haimburger@gmail.com)\n\nAccès voiture : Ring RO\, afrit Wemmel-Merchte
+ m (n° 9)\, richting Merchtem volgen via de Is. Meyskensstraat tot aan de 
+ rotonde\, op de rotonde de 4de afslag nemen\, Diepstraat deze vloeit over 
+ in de Steenweg op Brussel\, 50 m. voorbij het eerste kruispunt met verkeer
+ slichten\, links van de steenweg\, bevindt zich het stadium (parking)\n\nV
+ érifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.9077704;4.3065753
+LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
+  Wemmel\, Belgique
+ORGANIZER;CN="Haimburger G.";ROLE=Secrétaire:MAILTO:Gregory.haimburger@gm
+ ail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J14: FRANGINOS (LOS) vs BXL ALLIANCE JETTE
+DTSTART;VALUE=DATE-TIME:20240113T140000Z
+DTEND;VALUE=DATE-TIME:20240113T153000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3A_14_647_566
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: P02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Vert\
+ n\nContact équipe domicile: Gerard S. (0487.22.81.20 - simongerard@hotmai
+ l.be)\n\nAccès voiture : a Partir de Bruxelles\, Prendre la E 411 en Dire
+ ction de Namur. Prendre la Sortie 11  Gembloux pour Rejoindre la N 29 en D
+ irection de Gembloux / Tirlement / Jodoigne / Perwez. suivre la N29 et Cha
+ ussée de Wavre (N243) en Direction de la Rue des Marronniers. au Rond-Poi
+ nt 1\, 2 et 3 Prendre chaque Fois la première Sortie.\nAu Rond-Point suiv
+ ant (4Ième) Prendre la deuxième Sortie et Continuer sur la Chaussée de 
+ Wavre / N 243. Prendre à Droite sur la Rue des Marronniers\, le Terrain s
+ e Trouve à Droite\n\nVérifiez toujours ces infos sur http://www.abssa.be
+ /
+GEO:50.6251834;4.8051205
+LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
+ORGANIZER;CN="Gerard S.";ROLE=Secrétaire:MAILTO:simongerard@hotmail.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J15: CURTIS L'AUSELE vs FRANGINOS (LOS)
+DTSTART;VALUE=DATE-TIME:20240120T130000Z
+DTEND;VALUE=DATE-TIME:20240120T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3A_15_599_647
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: I03\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Blanc\n\nContact équipe domicile: Lambricht T. (0474.20.64.38 - thomas.l
+ ambricht@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l
+ ’E411 en direction de Namur et prendre la sortie 11 Perwez-Gembloux\, pr
+ endre à droite vers Perwez sur la N29 jusqu’au rond-point de Glimes qui
+  croise la N91 (7km depuis l’E411). Sortir à la 3ème sortie sur la N91
+  en\ndirection de Hamme-Mille. Prendre ensuite la 3ème rue à gauche et l
+ e terrain se trouve directement sur la droite.\n\nVérifiez toujours ces i
+ nfos sur http://www.abssa.be/
+GEO:50.6849677;4.8070879
+LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
+ORGANIZER;CN="Lambricht T.";ROLE=Secrétaire:MAILTO:thomas.lambricht@gmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J16: FRANGINOS (LOS) vs LA LORRAINE-MTM.R (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240127T140000Z
+DTEND;VALUE=DATE-TIME:20240127T153000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3A_16_647_44
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: P02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Gerard S. (0487.22.81.20 - simongerard@hotmai
+ l.be)\n\nAccès voiture : a Partir de Bruxelles\, Prendre la E 411 en Dire
+ ction de Namur. Prendre la Sortie 11  Gembloux pour Rejoindre la N 29 en D
+ irection de Gembloux / Tirlement / Jodoigne / Perwez. suivre la N29 et Cha
+ ussée de Wavre (N243) en Direction de la Rue des Marronniers. au Rond-Poi
+ nt 1\, 2 et 3 Prendre chaque Fois la première Sortie.\nAu Rond-Point suiv
+ ant (4Ième) Prendre la deuxième Sortie et Continuer sur la Chaussée de 
+ Wavre / N 243. Prendre à Droite sur la Rue des Marronniers\, le Terrain s
+ e Trouve à Droite\n\nVérifiez toujours ces infos sur http://www.abssa.be
+ /
+GEO:50.6251834;4.8051205
+LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
+ORGANIZER;CN="Gerard S.";ROLE=Secrétaire:MAILTO:simongerard@hotmail.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J17: CENTRAL PARK FC vs FRANGINOS (LOS)
+DTSTART;VALUE=DATE-TIME:20240203T143000Z
+DTEND;VALUE=DATE-TIME:20240203T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3A_17_562_647
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Bleu et Blanc\nCouleur principale équipe exterieur
+ e: Blanc\n\nContact équipe domicile: Genot F. (0473.57.28.61 - genotflori
+ an@hotmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la ru
+ e Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28
+ ). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ces
+  infos sur http://www.abssa.be/
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J18: FRANGINOS (LOS) vs CHARLES-QUINT FC
+DTSTART;VALUE=DATE-TIME:20240210T140000Z
+DTEND;VALUE=DATE-TIME:20240210T153000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3A_18_647_499
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: P02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
+ marine\n\nContact équipe domicile: Gerard S. (0487.22.81.20 - simongerard
+ @hotmail.be)\n\nAccès voiture : a Partir de Bruxelles\, Prendre la E 411 
+ en Direction de Namur. Prendre la Sortie 11  Gembloux pour Rejoindre la N 
+ 29 en Direction de Gembloux / Tirlement / Jodoigne / Perwez. suivre la N29
+  et Chaussée de Wavre (N243) en Direction de la Rue des Marronniers. au R
+ ond-Point 1\, 2 et 3 Prendre chaque Fois la première Sortie.\nAu Rond-Poi
+ nt suivant (4Ième) Prendre la deuxième Sortie et Continuer sur la Chauss
+ ée de Wavre / N 243. Prendre à Droite sur la Rue des Marronniers\, le Te
+ rrain se Trouve à Droite\n\nVérifiez toujours ces infos sur http://www.a
+ bssa.be/
+GEO:50.6251834;4.8051205
+LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
+ORGANIZER;CN="Gerard S.";ROLE=Secrétaire:MAILTO:simongerard@hotmail.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J19: UNION TIGERS vs FRANGINOS (LOS)
+DTSTART;VALUE=DATE-TIME:20240217T113000Z
+DTEND;VALUE=DATE-TIME:20240217T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3A_19_649_647
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A01\n\nCouleur princi
+ pale équipe domicile: Bleu ciel et Blanc\nCouleur principale équipe exte
+ rieure: Blanc\n\nContact équipe domicile: Thibaut L (0472.52.93.45 - unio
+ n.tigers@hotmail.com)\n\nAccès voiture : Par le Ring Ouest\, direction Pa
+ ris\, sortie Westland Shopping Center (n° 14) continuer tout droit\, remo
+ nter vers le Ring et prendre à droite pour sortir vers Itterbeek. Prendre
+  l'avenue d'Itterbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. 
+ Le terrain se trouve à gauche\, entre l'école Van Belle et Veeweyde.\n\n
+ Vérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8354396;4.2768611
+LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
+ORGANIZER;CN="Thibaut L";ROLE=Secrétaire:MAILTO:union.tigers@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J26: FRANGINOS (LOS) vs VOLLENBACK FC
+DTSTART;VALUE=DATE-TIME:20240224T140000Z
+DTEND;VALUE=DATE-TIME:20240224T153000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3A_26_647_589
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: P02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rose 
+ et noir\n\nContact équipe domicile: Gerard S. (0487.22.81.20 - simongerar
+ d@hotmail.be)\n\nAccès voiture : a Partir de Bruxelles\, Prendre la E 411
+  en Direction de Namur. Prendre la Sortie 11  Gembloux pour Rejoindre la N
+  29 en Direction de Gembloux / Tirlement / Jodoigne / Perwez. suivre la N2
+ 9 et Chaussée de Wavre (N243) en Direction de la Rue des Marronniers. au 
+ Rond-Point 1\, 2 et 3 Prendre chaque Fois la première Sortie.\nAu Rond-Po
+ int suivant (4Ième) Prendre la deuxième Sortie et Continuer sur la Chaus
+ sée de Wavre / N 243. Prendre à Droite sur la Rue des Marronniers\, le T
+ errain se Trouve à Droite\n\nVérifiez toujours ces infos sur http://www.
+ abssa.be/
+GEO:50.6251834;4.8051205
+LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
+ORGANIZER;CN="Gerard S.";ROLE=Secrétaire:MAILTO:simongerard@hotmail.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J23: CHIEFS WSL vs FRANGINOS (LOS)
+DTSTART;VALUE=DATE-TIME:20240302T130000Z
+DTEND;VALUE=DATE-TIME:20240302T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3A_23_303_647
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Blanc
+ \n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan.be)\n\n
+ Accès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, puis la ch
+ aussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce pont le
+  terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur http://w
+ ww.abssa.be/
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J20: FRANGINOS (LOS) vs TAURO FC
+DTSTART;VALUE=DATE-TIME:20240309T140000Z
+DTEND;VALUE=DATE-TIME:20240309T153000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3A_20_647_574
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: P02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir\
+ n\nContact équipe domicile: Gerard S. (0487.22.81.20 - simongerard@hotmai
+ l.be)\n\nAccès voiture : a Partir de Bruxelles\, Prendre la E 411 en Dire
+ ction de Namur. Prendre la Sortie 11  Gembloux pour Rejoindre la N 29 en D
+ irection de Gembloux / Tirlement / Jodoigne / Perwez. suivre la N29 et Cha
+ ussée de Wavre (N243) en Direction de la Rue des Marronniers. au Rond-Poi
+ nt 1\, 2 et 3 Prendre chaque Fois la première Sortie.\nAu Rond-Point suiv
+ ant (4Ième) Prendre la deuxième Sortie et Continuer sur la Chaussée de 
+ Wavre / N 243. Prendre à Droite sur la Rue des Marronniers\, le Terrain s
+ e Trouve à Droite\n\nVérifiez toujours ces infos sur http://www.abssa.be
+ /
+GEO:50.6251834;4.8051205
+LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
+ORGANIZER;CN="Gerard S.";ROLE=Secrétaire:MAILTO:simongerard@hotmail.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J21: MOON SHOOTERS vs FRANGINOS (LOS)
+DTSTART;VALUE=DATE-TIME:20240316T143000Z
+DTEND;VALUE=DATE-TIME:20240316T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3A_21_606_647
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Blanc
+ \n\nContact équipe domicile: Morelle M. (0478.68.42.14 - max.morelle@gmai
+ l.com)\n\nAccès voiture : En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.\n\nVérifiez toujours ce
+ s infos sur http://www.abssa.be/
 GEO:50.8103473;4.443252699999999
-LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem\, 
- Belgique
-ORGANIZER:MAILTO:philippe.debiolley@gmail.com
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="Morelle M.";ROLE=Secrétaire:MAILTO:max.morelle@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J22: FRANGINOS (LOS) vs FOSSIS (LES) CS
+DTSTART;VALUE=DATE-TIME:20240323T140000Z
+DTEND;VALUE=DATE-TIME:20240323T153000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3A_22_647_217
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: P02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Jaune
+ \n\nContact équipe domicile: Gerard S. (0487.22.81.20 - simongerard@hotma
+ il.be)\n\nAccès voiture : a Partir de Bruxelles\, Prendre la E 411 en Dir
+ ection de Namur. Prendre la Sortie 11  Gembloux pour Rejoindre la N 29 en 
+ Direction de Gembloux / Tirlement / Jodoigne / Perwez. suivre la N29 et Ch
+ aussée de Wavre (N243) en Direction de la Rue des Marronniers. au Rond-Po
+ int 1\, 2 et 3 Prendre chaque Fois la première Sortie.\nAu Rond-Point sui
+ vant (4Ième) Prendre la deuxième Sortie et Continuer sur la Chaussée de
+  Wavre / N 243. Prendre à Droite sur la Rue des Marronniers\, le Terrain 
+ se Trouve à Droite\n\nVérifiez toujours ces infos sur http://www.abssa.b
+ e/
+GEO:50.6251834;4.8051205
+LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
+ORGANIZER;CN="Gerard S.";ROLE=Secrétaire:MAILTO:simongerard@hotmail.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J25: TRINQUANT vs FRANGINOS (LOS)
+DTSTART;VALUE=DATE-TIME:20240406T103000Z
+DTEND;VALUE=DATE-TIME:20240406T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3A_25_445_647
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Blanc\n\nContact équipe domicile: Bernard J-M. (0476.66.08.14 - jmbernar
+ d.trinquant@yahoo.fr)\n\nAccès voiture : Venant de Bruxelles\, prendre le
+  Ring Est direction Waterloo. Sortir au pont de Groenendael\, direction La
+  Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, 
+ toujours tout droit. Au feu de signalisation et le carrefour de La Hulpe\,
+  tout droit direction Genval. Au feu de signalisation prendre à gauche et
+  ensuite directement à droite\, l'avenue Soyer\, derrière le G.B. Le ter
+ rain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.ab
+ ssa.be/
+GEO:50.7309318;4.4945865
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Bernard J-M.";ROLE=Secrétaire:MAILTO:jmbernard.trinquant@ya
+ hoo.fr
 END:VEVENT
 END:VCALENDAR

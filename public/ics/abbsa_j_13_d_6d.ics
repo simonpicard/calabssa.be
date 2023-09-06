@@ -1,0 +1,122 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:abbsa_j_13_d_6d
+X-WR-CALDESC:Les matches de la journée 13 en divion 6D d'ABSSA.
+X-WR-CALNAME:D6D Journée 13
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J13: AEMA VETERANS vs STRING PENELOPE (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20231209T123000Z
+DTEND;VALUE=DATE-TIME:20231209T140000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_6D_13_427_181
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
+ pale équipe domicile: Jaune et bleu\nCouleur principale équipe exterieur
+ e: Orange\n\nContact équipe domicile: Van Ingelgom J. (0475.36.44.88 - va
+ ningelgom_w_j@hotmail.com)\n\nAccès voiture : Via la chaussée de Mons ju
+ squ'à Veeweyde (carrefour Fr. Van Kalken). Prendre à droite le boulevard
+   A. Briand jusqu'à la Place Verdi\, puis le Bld. Théo Lambert.\n\nVéri
+ fiez toujours ces infos sur http://www.abssa.be/
+GEO:50.827564;4.2952993
+LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Van Ingelgom J.";ROLE=Secrétaire:MAILTO:vaningelgom_w_j@hot
+ mail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J13: CHOULE AUDERGHEM (Eq. 6) vs HIGGINS-PUMAS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20231209T130000Z
+DTEND;VALUE=DATE-TIME:20231209T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_6D_13_517_416
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rayé
+  Bleu et Blanc\n\nContact équipe domicile: Vandenplas D. (0476.54.48.01 -
+  dav_54@hotmail.com)\n\nAccès voiture : En venant de Bruxelles par la cha
+ ussée de Wavre\, rejoindre le du début de l'autoroute Bruxelles-Namur\, 
+ utiliser la bande de droite pendant +/- 200 m. et descendre devant le bât
+ iment de l'ADEPS\, puis passer par le tunnel à gauche (en dessous de l'au
+ toroute). Le terrain se trouve à 200 m. Le stade est fléché.\n\nVérifi
+ ez toujours ces infos sur http://www.abssa.be/
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J13: ENTENTE  RACB (Eq. 2) vs LA LORRAINE-MTM.R (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20231209T130000Z
+DTEND;VALUE=DATE-TIME:20231209T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_6D_13_2_44
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Dath D. (0473.47.15.41 - daniel.dath@hotmail.
+ com)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\, vers Ned
+ er-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-poi
+ nt\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Vert
+ \, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa.
+ be/
+GEO:50.89983369999999;4.3936101
+LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
+ORGANIZER;CN="Dath D.";ROLE=Secrétaire:MAILTO:daniel.dath@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J13: MIREILLE WEMMEL (Eq. 2) vs PANGLOSS FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20231209T130000Z
+DTEND;VALUE=DATE-TIME:20231209T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_6D_13_93_123
+DESCRIPTION:Terrain synthétique: non\nCode terrain: W16\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Vermeerbergen D. (0497.31.76.07 - daanvermeerb
+ ergen@hotmail.com)\n\nAccès voiture : Ring RO\, afrit Wemmel-Merchtem (n
+ ° 9)\, richting Merchtem volgen via de Is. Meyskensstraat tot aan de roto
+ nde\, op de rotonde de 4de afslag nemen\, Diepstraat deze vloeit over in d
+ e Steenweg op Brussel\, 50 m. voorbij het eerste kruispunt met verkeerslic
+ hten\, links van de steenweg\, bevindt zich het stadium (parking)\n\nVéri
+ fiez toujours ces infos sur http://www.abssa.be/
+GEO:50.9077704;4.3065753
+LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
+  Wemmel\, Belgique
+ORGANIZER;CN="Vermeerbergen D.";ROLE=Secrétaire:MAILTO:daanvermeerbergen@
+ hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J13: ANDERLECHT US vs BRITISH UNITED (Eq. 6)
+DTSTART;VALUE=DATE-TIME:20231209T130000Z
+DTEND;VALUE=DATE-TIME:20231209T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_6D_13_280_132
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Mauve\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Sadin D. (0477.76.34.69 - usanderlecht@sadinf
+ oot.net)\n\nAccès voiture : En venant de la Route de Lennik (Citroën) ou
+  de la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'And
+ erlecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la 
+ sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe
+  et des terrains se situe à +/- 500 m. sur la gauche.\n\nVérifiez toujou
+ rs ces infos sur http://www.abssa.be/
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Sadin D.";ROLE=Secrétaire:MAILTO:usanderlecht@sadinfoot.net
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J13: JETTOISE (AMICALE) vs NIVELLOIS-ACLOT BS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20231209T143000Z
+DTEND;VALUE=DATE-TIME:20231209T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_6D_13_347_503
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Bleu et blanc\nCouleur principale équipe exterieur
+ e: Rouge et noir\n\nContact équipe domicile: Pogradja  A. (0478.37.94.22 
+ - avnipogradja@gmail.com)\n\nAccès voiture : Direction cimetière de Jett
+ e\, ensuite prendre la rue du "Sacré-Coeur" jusqu'au bout\, puis tout dro
+ it\, avenue J.J. Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujo
+ urs ces infos sur http://www.abssa.be/
+GEO:50.8907643;4.3211209
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
+ Belgique
+ORGANIZER;CN="Pogradja  A.";ROLE=Secrétaire:MAILTO:avnipogradja@gmail.com
+END:VEVENT
+END:VCALENDAR

@@ -1,301 +1,527 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:c808b47c-b04c-447c-a8cf-be144929fa08
-X-WR-CALDESC:Les matches de NEW ARQUOIS FC (eq. 1) en ABSSA.
-X-WR-CALNAME:ABSSA - NEW ARQUOIS FC (eq. 1) - 263
-X-WR-TIMEZONE:Europe/Brussels
+PRODID:263_1_new_arquois_fc
+X-WR-CALDESC:Les matches du club NEW ARQUOIS FC (equipe 1) en ABSSA.
+X-WR-CALNAME:ABSSA: NEW ARQUOIS FC (eq. 1)
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J2: IRLANDE FC (Eq. 2) vs NEW ARQUOIS FC
-DTSTART:20220910T123000Z
-DTEND:20220910T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:fd789999-b115-488d-892e-1905322cad66
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe extérieur: Bleu\n\nContact équipe d
- omicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lou
- vain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMech
- elsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autor
- oute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à
-  gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et suivr
- e comme ci-avant.
-GEO:50.8877772;4.5090761
-LOCATION:RADAR VLIEGHAVEN\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
+SUMMARY:ABSSA D1 J10: COIN DU BALAI FC vs NEW ARQUOIS FC
+DTSTART;VALUE=DATE-TIME:20230902T120000Z
+DTEND;VALUE=DATE-TIME:20230902T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_1_10_229_263
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
+  Bleu\n\nContact équipe domicile: Rosenfeld J. (0485.05.40.06 - rosenfeld
+ jean@hotmail.com)\n\nAccès voiture : A partir du square des Archiducs\, p
+ rendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez tou
+ jours ces infos sur http://www.abssa.be/
+GEO:50.8059082;4.4137428
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Rosenfeld J.";ROLE=Secrétaire:MAILTO:rosenfeldjean@hotmail.
+ com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J12: NEW ARQUOIS FC vs SCHEUT FC
-DTSTART:20221126T140000Z
-DTEND:20221126T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:9965d889-03de-4e44-ae21-492296abd59c
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Gris et Noir\n\nContact 
- équipe domicile: BEKA J-M. (0495.25.31.25)\n\nAccès voiture : Autoroute 
- E 19 (Bruxelles-Charleroi)\, sortie Arquennes. Direction Seneffe-La-Louvi
- ère. A la station d'essence Total\, prendre à droite pendant +/- 700 mè
- tres.\nAu rond point\, prendre à droite en direction du château de La Ro
- cq\, passez sous le pont\, le terrain se trouve à 100 mètres (à proximi
- té du cimetière).
+SUMMARY:ABSSA D1 J1: NEW ARQUOIS FC vs LXG CINQUANTENAIRE
+DTSTART;VALUE=DATE-TIME:20230909T120000Z
+DTEND;VALUE=DATE-TIME:20230909T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_1_1_263_542
+DESCRIPTION:Terrain synthétique: non\nCode terrain: A12\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Jaune 
+ et Bleu.\n\nContact équipe domicile: Beka J-M. (0495.25.31.25 - jmbeka73@
+ gmail.com)\n\nAccès voiture : Autoroute E 19 (Bruxelles-Charleroi)\, sort
+ ie Arquennes. Direction Seneffe-La-Louvière. A la station d'essence Total
+ \, prendre à droite pendant +/- 700 mètres.\nAu rond point\, prendre à 
+ droite en direction du château de La Rocq\, passez sous le pont\, le terr
+ ain se trouve à 100 mètres (à proximité du cimetière).\n\nVérifiez t
+ oujours ces infos sur http://www.abssa.be/
 GEO:50.5690988;4.2677281
-LOCATION:STADE COMMUNAL A. PLENNEVAUX\, Rue Omer Lion\, 7181 Arquennes\, B
+LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion\, 7181 Arquennes\, B
  elgique
-ORGANIZER:MAILTO:jmbeka73@gmail.com
+ORGANIZER;CN="Beka J-M.";ROLE=Secrétaire:MAILTO:jmbeka73@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J13: NEW ARQUOIS FC vs IRLANDE FC (Eq. 2)
-DTSTART:20221203T140000Z
-DTEND:20221203T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:61d40728-490d-4082-add9-02658efe5d87
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Vert\n\nContact équipe d
- omicile: BEKA J-M. (0495.25.31.25)\n\nAccès voiture : Autoroute E 19 (Bru
- xelles-Charleroi)\, sortie Arquennes. Direction Seneffe-La-Louvière. A la
-  station d'essence Total\, prendre à droite pendant +/- 700 mètres.\nAu 
- rond point\, prendre à droite en direction du château de La Rocq\, passe
- z sous le pont\, le terrain se trouve à 100 mètres (à proximité du cim
- etière).
+SUMMARY:ABSSA D1 J2: BRUSSELS LTC vs NEW ARQUOIS FC
+DTSTART;VALUE=DATE-TIME:20230916T120000Z
+DTEND;VALUE=DATE-TIME:20230916T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_1_2_39_263
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O01\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bl
+ eu\n\nContact équipe domicile: Van Hacht O. (0475.96.43.03 - brusselsltc@
+ hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre ring Est di
+ rection Waterloo. Sortir à la sortie n°27 Waterloo Centre.\n	Prendre ens
+ uite à gauche La Drève de Richelle jusqu'au 3ème rond-point et prendre 
+ à gauche la 	Chaussée de Louvain sur environ 2km et prendre à droite la
+  Rue des Saules toujours tout droit et 	qui devient ensuite la Route des M
+ arnières. Continuer ensuite tout droit\, passer un premier rond-point pui
+ s continuer tout droit jusqu'au rond-point du Messager où il faut prendre
+  la 2ème sortie. Vous êtes alors sur la Route de Genval et l'entrée du 
+ Complexe se trouve à environ 200m sur la gauche.\n\nVérifiez toujours ce
+ s infos sur http://www.abssa.be/
+GEO:50.7035641;4.469720199999999
+LOCATION:Route de Genval 20A\, 1380 Ohain\, Belgique
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J3: NEW ARQUOIS FC vs GREZ AJ
+DTSTART;VALUE=DATE-TIME:20230923T120000Z
+DTEND;VALUE=DATE-TIME:20230923T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_1_3_263_514
+DESCRIPTION:Terrain synthétique: non\nCode terrain: A12\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Beka J-M. (0495.25.31.25 - jmbeka73@gmail.com)
+ \n\nAccès voiture : Autoroute E 19 (Bruxelles-Charleroi)\, sortie Arquenn
+ es. Direction Seneffe-La-Louvière. A la station d'essence Total\, prendre
+  à droite pendant +/- 700 mètres.\nAu rond point\, prendre à droite en 
+ direction du château de La Rocq\, passez sous le pont\, le terrain se tro
+ uve à 100 mètres (à proximité du cimetière).\n\nVérifiez toujours ce
+ s infos sur http://www.abssa.be/
 GEO:50.5690988;4.2677281
-LOCATION:STADE COMMUNAL A. PLENNEVAUX\, Rue Omer Lion\, 7181 Arquennes\, B
+LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion\, 7181 Arquennes\, B
  elgique
-ORGANIZER:MAILTO:jmbeka73@gmail.com
+ORGANIZER;CN="Beka J-M.";ROLE=Secrétaire:MAILTO:jmbeka73@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J14: AZUR RCS vs NEW ARQUOIS FC
-DTSTART:20221210T150000Z
-DTEND:20221210T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:c325e239-c8be-4de6-a740-e85064e4a765
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe extérieur: Bleu\n\nContact équ
- ipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue d
- e Tervuren\, direction Tervuren. Passé le boulevard du Souverain prendre 
- à gauche au premier feu de signalisation (Av. Madoux). Au feu de signalis
- ation suivant prendre la 2ème rue à main droite (Av. J. Dujardin). Ensui
- te 1ère rue à gauche (Av. Salomé).
-GEO:50.830818;4.455442
-LOCATION:CENTRE SPORTIF\, Avenue Salomé\, 2\, 1150 Woluwé-Saint-Pierre\,
-  Belgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J15: NEW ARQUOIS FC vs LORRAINE (LA) RFC
-DTSTART:20221217T140000Z
-DTEND:20221217T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:2ca395ab-6bb7-49f9-9583-39dd662cfb4a
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Bleu\n\nContact équipe d
- omicile: BEKA J-M. (0495.25.31.25)\n\nAccès voiture : Autoroute E 19 (Bru
- xelles-Charleroi)\, sortie Arquennes. Direction Seneffe-La-Louvière. A la
-  station d'essence Total\, prendre à droite pendant +/- 700 mètres.\nAu 
- rond point\, prendre à droite en direction du château de La Rocq\, passe
- z sous le pont\, le terrain se trouve à 100 mètres (à proximité du cim
- etière).
-GEO:50.5690988;4.2677281
-LOCATION:STADE COMMUNAL A. PLENNEVAUX\, Rue Omer Lion\, 7181 Arquennes\, B
- elgique
-ORGANIZER:MAILTO:jmbeka73@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J16: NEW ARQUOIS FC vs BRITISH UNITED
-DTSTART:20230107T140000Z
-DTEND:20230107T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:40b3c026-3deb-4876-8e08-8ab013a4d83c
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Bleu\n\nContact équipe d
- omicile: BEKA J-M. (0495.25.31.25)\n\nAccès voiture : Autoroute E 19 (Bru
- xelles-Charleroi)\, sortie Arquennes. Direction Seneffe-La-Louvière. A la
-  station d'essence Total\, prendre à droite pendant +/- 700 mètres.\nAu 
- rond point\, prendre à droite en direction du château de La Rocq\, passe
- z sous le pont\, le terrain se trouve à 100 mètres (à proximité du cim
- etière).
-GEO:50.5690988;4.2677281
-LOCATION:STADE COMMUNAL A. PLENNEVAUX\, Rue Omer Lion\, 7181 Arquennes\, B
- elgique
-ORGANIZER:MAILTO:jmbeka73@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J17: ETINCELLE FC vs NEW ARQUOIS FC
-DTSTART:20230114T140000Z
-DTEND:20230114T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:03355573-da7b-48fa-82c1-7172b4f2b8ca
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune et bleu\nCouleur principale équipe extérieur: Bleu\n\nContact 
- équipe domicile: KREMER N (0471.37.59.81)\n\nAccès voiture : Ring\, sort
- ie Hopital Erasme\, après 300 m. en direction de Lennik\, prendre à droi
- te.\nVenant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. 
- A. Briand\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'
- hopital Erasme 400 m. en direction de Lennik.
-GEO:50.8177195;4.2558158
-LOCATION:COMPLEXE SPORTIF DE SAINT GILLES (BARKA)\, Route de Lennik\, 1015
- \, 1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:nicolas.kremer@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J18: NEW ARQUOIS FC vs ENGHIEN AMICAL
-DTSTART:20230121T140000Z
-DTEND:20230121T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:7eaecae4-6eeb-44f7-a0c7-57c1891d6525
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Blanc\n\nContact équipe 
- domicile: BEKA J-M. (0495.25.31.25)\n\nAccès voiture : Autoroute E 19 (Br
- uxelles-Charleroi)\, sortie Arquennes. Direction Seneffe-La-Louvière. A l
- a station d'essence Total\, prendre à droite pendant +/- 700 mètres.\nAu
-  rond point\, prendre à droite en direction du château de La Rocq\, pass
- ez sous le pont\, le terrain se trouve à 100 mètres (à proximité du ci
- metière).
-GEO:50.5690988;4.2677281
-LOCATION:STADE COMMUNAL A. PLENNEVAUX\, Rue Omer Lion\, 7181 Arquennes\, B
- elgique
-ORGANIZER:MAILTO:jmbeka73@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J19: BRAINE STORMING vs NEW ARQUOIS FC
-DTSTART:20230128T153000Z
-DTEND:20230128T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:717f807e-af18-4057-8e73-b702360f845c
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Bleu\n\nContact équipe d
- omicile: GOETHALS E. (0492.43.68.79)\n\nAccès voiture : Venant de Bruxell
- es prendre le Ring Ouest\, sortie Genappe (n° 25)\, prendre à droite sur
-  la N5 (Bruxelles-Charleroi) direction Charleroi pendant +/- 10 min.\, sor
- tie Loupoigne\, traverser le carrefour\, tout droit direction route du suc
- re.
-GEO:50.6007528;4.4472782
-LOCATION:Stade J.C. FLAMEND\, Route du sucre\, 1\, 1471 Loupoigne\, Belgiq
- ue
-ORGANIZER:MAILTO:manu.goethals@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J20: NEW ARQUOIS FC vs UNION JP
-DTSTART:20230204T140000Z
-DTEND:20230204T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:bdd058da-b300-4eb2-bec7-81c8da0354db
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Bleu et jaune\n\nContact 
- équipe domicile: BEKA J-M. (0495.25.31.25)\n\nAccès voiture : Autoroute 
- E 19 (Bruxelles-Charleroi)\, sortie Arquennes. Direction Seneffe-La-Louvi
- ère. A la station d'essence Total\, prendre à droite pendant +/- 700 mè
- tres.\nAu rond point\, prendre à droite en direction du château de La Ro
- cq\, passez sous le pont\, le terrain se trouve à 100 mètres (à proximi
- té du cimetière).
-GEO:50.5690988;4.2677281
-LOCATION:STADE COMMUNAL A. PLENNEVAUX\, Rue Omer Lion\, 7181 Arquennes\, B
- elgique
-ORGANIZER:MAILTO:jmbeka73@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J21: TOURINNOIS FC vs NEW ARQUOIS FC
-DTSTART:20230211T133000Z
-DTEND:20230211T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:b2547d3d-db7b-4eff-a6dc-0a8bb0d757c1
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe extérieur: Bleu\n\nContact équipe 
- domicile: STRADE P. (010.65.83.02)\n\nAccès voiture : A partir de l'autor
- oute Bruxelles-Namur (E411)\, prendre la sortie  Walhain (n° 10). Au pied
-  de la rampe d'accès\, suivre la direction Walhain vers la droite et apr
- ès 200 m. prendre à droite et 400 m. plus loin\, prendre à nouveau à d
- roite. Le terrain se trouve à +/- 300 m. sur la gauche.
-GEO:50.6414624;4.7191939
-LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
-ORGANIZER:MAILTO:stradepaul@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J22: SCHEUT FC vs NEW ARQUOIS FC
-DTSTART:20230225T140000Z
-DTEND:20230225T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:d357da32-b6d2-48f8-96ad-58813e309061
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Gris et Noir\nCouleur principale équipe extérieur: Bleu\n\nContact 
- équipe domicile: HUYS R. (0477.59.24.22)\n\nAccès voiture : En venant de
-  la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre
-  la direction du cimetière d'Anderlecht\, emprunter le Boulevard Josse Le
- emans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (Vo
- gelenzang). L'entrée du complexe et des terrains se situe à +/- 500 m. s
- ur la gauche.
-GEO:50.8114933;4.2763364
-LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:fcscheut@yahoo.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J23: NEW ARQUOIS FC vs COBRA TEAM
-DTSTART:20230304T140000Z
-DTEND:20230304T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:17e62099-f9ed-42cf-96b3-0a09209b6c30
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Noir et bordeaux\n\nConta
- ct équipe domicile: BEKA J-M. (0495.25.31.25)\n\nAccès voiture : Autorou
- te E 19 (Bruxelles-Charleroi)\, sortie Arquennes. Direction Seneffe-La-Lou
- vière. A la station d'essence Total\, prendre à droite pendant +/- 700 m
- ètres.\nAu rond point\, prendre à droite en direction du château de La 
- Rocq\, passez sous le pont\, le terrain se trouve à 100 mètres (à proxi
- mité du cimetière).
-GEO:50.5690988;4.2677281
-LOCATION:STADE COMMUNAL A. PLENNEVAUX\, Rue Omer Lion\, 7181 Arquennes\, B
- elgique
-ORGANIZER:MAILTO:jmbeka73@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J24: NEW ARQUOIS FC vs BESACE RFC
-DTSTART:20230311T140000Z
-DTEND:20230311T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:31c1efc3-6c6a-44b0-acb7-7c9503d05c12
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Bleu\n\nContact équipe d
- omicile: BEKA J-M. (0495.25.31.25)\n\nAccès voiture : Autoroute E 19 (Bru
- xelles-Charleroi)\, sortie Arquennes. Direction Seneffe-La-Louvière. A la
-  station d'essence Total\, prendre à droite pendant +/- 700 mètres.\nAu 
- rond point\, prendre à droite en direction du château de La Rocq\, passe
- z sous le pont\, le terrain se trouve à 100 mètres (à proximité du cim
- etière).
-GEO:50.5690988;4.2677281
-LOCATION:STADE COMMUNAL A. PLENNEVAUX\, Rue Omer Lion\, 7181 Arquennes\, B
- elgique
-ORGANIZER:MAILTO:jmbeka73@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J25: CURTIS L'AUSELE vs NEW ARQUOIS FC
-DTSTART:20230318T140000Z
-DTEND:20230318T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:d1d765e5-c7bf-4d0b-b12a-012e48138ded
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu marine\nCouleur principale équipe extérieur: Bleu\n\nContact é
- quipe domicile: LAMBRICHT T. (0474.20.64.38)\n\nAccès voiture : En venant
-  de Bruxelles\, prendre l’E411 en direction de Namur et prendre la sorti
- e 11 Perwez-Gembloux\, prendre à droite vers Perwez sur la N29 jusqu’au
-  rond-point de Glimes qui croise la N91 (7km depuis l’E411). Sortir à l
- a 3ème sortie sur la N91 en\ndirection de Hamme-Mille. Prendre ensuite la
-  3ème rue à gauche et le terrain se trouve directement sur la droite.
-GEO:50.6849677;4.8070879
-LOCATION:INCOURT\, Rue de la Bruyère\, 1315 Incourt\, Belgique
-ORGANIZER:MAILTO:thomas.lambricht@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J26: LORRAINE (LA) RFC vs NEW ARQUOIS FC
-DTSTART:20230325T123000Z
-DTEND:20230325T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:d055c515-c529-4ec6-a9ec-540041a6d6bd
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Bleu\n\nContact équipe d
- omicile: DEGIMBE M. (0478.53.63.56)\n\nAccès voiture : Autoroute E411\, p
- rendre la sortie Rosières. Passer devant l'église\, longer l'autoroute e
- t tourner à droite au cimetière des animaux. Terrain à 200 m.
-GEO:50.728425;4.5537381
+SUMMARY:ABSSA D1 J4: BRUSSELS BRITISH R vs NEW ARQUOIS FC
+DTSTART;VALUE=DATE-TIME:20230930T120000Z
+DTEND;VALUE=DATE-TIME:20230930T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_1_4_1_263
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Lachia S. (0484.27.72.64 - abssa-sec@rbbfc.or
+ g)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Passe
+ r devant l'église\, longer l'autoroute et tourner à droite au cimetière
+  des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur http:/
+ /www.abssa.be/
+GEO:50.7282426;4.5537189
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:lalorrainefc@gmail.com
+ORGANIZER;CN="Lachia S.";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J5: NEW ARQUOIS FC vs PRESS (AMICALE)
+DTSTART;VALUE=DATE-TIME:20231007T120000Z
+DTEND;VALUE=DATE-TIME:20231007T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_1_5_263_30
+DESCRIPTION:Terrain synthétique: non\nCode terrain: A12\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Beka J-M. (0495.25.31.25 - jmbeka73@gmail.com)
+ \n\nAccès voiture : Autoroute E 19 (Bruxelles-Charleroi)\, sortie Arquenn
+ es. Direction Seneffe-La-Louvière. A la station d'essence Total\, prendre
+  à droite pendant +/- 700 mètres.\nAu rond point\, prendre à droite en 
+ direction du château de La Rocq\, passez sous le pont\, le terrain se tro
+ uve à 100 mètres (à proximité du cimetière).\n\nVérifiez toujours ce
+ s infos sur http://www.abssa.be/
+GEO:50.5690988;4.2677281
+LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion\, 7181 Arquennes\, B
+ elgique
+ORGANIZER;CN="Beka J-M.";ROLE=Secrétaire:MAILTO:jmbeka73@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J6: CHOULE AUDERGHEM vs NEW ARQUOIS FC
+DTSTART;VALUE=DATE-TIME:20231014T103000Z
+DTEND;VALUE=DATE-TIME:20231014T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_1_6_517_263
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
+ erieure: Bleu\n\nContact équipe domicile: Vandenplas D. (0476.54.48.01 - 
+ dav_54@hotmail.com)\n\nAccès voiture : En venant de Bruxelles par la chau
+ ssée de Wavre\, rejoindre le du début de l'autoroute Bruxelles-Namur\, u
+ tiliser la bande de droite pendant +/- 200 m. et descendre devant le bâti
+ ment de l'ADEPS\, puis passer par le tunnel à gauche (en dessous de l'aut
+ oroute). Le terrain se trouve à 200 m. Le stade est fléché.\n\nVérifie
+ z toujours ces infos sur http://www.abssa.be/
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J8: CHENOIS SC vs NEW ARQUOIS FC
+DTSTART;VALUE=DATE-TIME:20231021T130000Z
+DTEND;VALUE=DATE-TIME:20231021T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_1_8_84_263
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W02\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Versmissen P. (0495.59.61.77 - sc.chenois@wat
+ erloo.eu)\n\nAccès voiture : Venant d'Uccle\, prendre la chaussée de Wat
+ erloo\, ensuite la chaussée de Bruxelles\, continuer jusqu'à la place E.
+  Vandevelde (intersection de la chaussée de Bruxelles avec la chaussée d
+ e Tervuren à Joli-Bois). Au feu de signalisation prendre à droite la cha
+ ussée Bara. Le terrain se trouve à droite à +/- 500 m.\n\nVérifiez tou
+ jours ces infos sur http://www.abssa.be/
+GEO:50.701676;4.397567
+LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
+ORGANIZER;CN="Versmissen P.";ROLE=Secrétaire:MAILTO:sc.chenois@waterloo.e
+ u
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J24: BRAINE STORMING vs NEW ARQUOIS FC
+DTSTART;VALUE=DATE-TIME:20231028T133000Z
+DTEND;VALUE=DATE-TIME:20231028T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_1_24_630_263
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Goethals E. (0492.43.68.79 - manu.goethals@gma
+ il.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring Ouest\, so
+ rtie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi) 
+ direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le 
+ carrefour\, tout droit direction route du sucre.\n\nVérifiez toujours ces
+  infos sur http://www.abssa.be/
+GEO:50.6007528;4.4472782
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER;CN="Goethals E.";ROLE=Secrétaire:MAILTO:manu.goethals@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J7: NEW ARQUOIS FC vs PORTUGAL FC
+DTSTART;VALUE=DATE-TIME:20231104T130000Z
+DTEND;VALUE=DATE-TIME:20231104T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_1_7_263_403
+DESCRIPTION:Terrain synthétique: non\nCode terrain: A12\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge\
+ n\nContact équipe domicile: Beka J-M. (0495.25.31.25 - jmbeka73@gmail.com
+ )\n\nAccès voiture : Autoroute E 19 (Bruxelles-Charleroi)\, sortie Arquen
+ nes. Direction Seneffe-La-Louvière. A la station d'essence Total\, prendr
+ e à droite pendant +/- 700 mètres.\nAu rond point\, prendre à droite en
+  direction du château de La Rocq\, passez sous le pont\, le terrain se tr
+ ouve à 100 mètres (à proximité du cimetière).\n\nVérifiez toujours c
+ es infos sur http://www.abssa.be/
+GEO:50.5690988;4.2677281
+LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion\, 7181 Arquennes\, B
+ elgique
+ORGANIZER;CN="Beka J-M.";ROLE=Secrétaire:MAILTO:jmbeka73@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J9: NEW ARQUOIS FC vs WONG A.S.
+DTSTART;VALUE=DATE-TIME:20231118T130000Z
+DTEND;VALUE=DATE-TIME:20231118T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_1_9_263_523
+DESCRIPTION:Terrain synthétique: non\nCode terrain: A12\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Jaune\
+ n\nContact équipe domicile: Beka J-M. (0495.25.31.25 - jmbeka73@gmail.com
+ )\n\nAccès voiture : Autoroute E 19 (Bruxelles-Charleroi)\, sortie Arquen
+ nes. Direction Seneffe-La-Louvière. A la station d'essence Total\, prendr
+ e à droite pendant +/- 700 mètres.\nAu rond point\, prendre à droite en
+  direction du château de La Rocq\, passez sous le pont\, le terrain se tr
+ ouve à 100 mètres (à proximité du cimetière).\n\nVérifiez toujours c
+ es infos sur http://www.abssa.be/
+GEO:50.5690988;4.2677281
+LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion\, 7181 Arquennes\, B
+ elgique
+ORGANIZER;CN="Beka J-M.";ROLE=Secrétaire:MAILTO:jmbeka73@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J12: NEW ARQUOIS FC vs EURO UNION
+DTSTART;VALUE=DATE-TIME:20231125T130000Z
+DTEND;VALUE=DATE-TIME:20231125T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_1_12_263_567
+DESCRIPTION:Terrain synthétique: non\nCode terrain: A12\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Beka J-M. (0495.25.31.25 - jmbeka73@gmail.com
+ )\n\nAccès voiture : Autoroute E 19 (Bruxelles-Charleroi)\, sortie Arquen
+ nes. Direction Seneffe-La-Louvière. A la station d'essence Total\, prendr
+ e à droite pendant +/- 700 mètres.\nAu rond point\, prendre à droite en
+  direction du château de La Rocq\, passez sous le pont\, le terrain se tr
+ ouve à 100 mètres (à proximité du cimetière).\n\nVérifiez toujours c
+ es infos sur http://www.abssa.be/
+GEO:50.5690988;4.2677281
+LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion\, 7181 Arquennes\, B
+ elgique
+ORGANIZER;CN="Beka J-M.";ROLE=Secrétaire:MAILTO:jmbeka73@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J11: NEW ARQUOIS FC vs BRAINE STORMING
+DTSTART;VALUE=DATE-TIME:20231202T130000Z
+DTEND;VALUE=DATE-TIME:20231202T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_1_11_263_630
+DESCRIPTION:Terrain synthétique: non\nCode terrain: A12\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Beka J-M. (0495.25.31.25 - jmbeka73@gmail.com)
+ \n\nAccès voiture : Autoroute E 19 (Bruxelles-Charleroi)\, sortie Arquenn
+ es. Direction Seneffe-La-Louvière. A la station d'essence Total\, prendre
+  à droite pendant +/- 700 mètres.\nAu rond point\, prendre à droite en 
+ direction du château de La Rocq\, passez sous le pont\, le terrain se tro
+ uve à 100 mètres (à proximité du cimetière).\n\nVérifiez toujours ce
+ s infos sur http://www.abssa.be/
+GEO:50.5690988;4.2677281
+LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion\, 7181 Arquennes\, B
+ elgique
+ORGANIZER;CN="Beka J-M.";ROLE=Secrétaire:MAILTO:jmbeka73@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J13: IRLANDE FC vs NEW ARQUOIS FC
+DTSTART;VALUE=DATE-TIME:20231209T130000Z
+DTEND;VALUE=DATE-TIME:20231209T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_1_13_402_263
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: N04\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Bridoux J.F. (0455.12.12.65 - fci.secretary.me
+ ns@outlook.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à Nossegem
+ \, au premier croisement prendre à gauche la \nMechelsesteenweg. Le terra
+ in est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\
+ , prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelseste
+ enweg\, traverser la chaussée de Louvain\, et suivre comme ci-avant.\n\nV
+ érifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.88776559999999;4.50894
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER;CN="Bridoux J.F.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@out
+ look.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J14: LXG CINQUANTENAIRE vs NEW ARQUOIS FC
+DTSTART;VALUE=DATE-TIME:20240113T123000Z
+DTEND;VALUE=DATE-TIME:20240113T140000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_1_14_542_263
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S09\n\nCouleur princi
+ pale équipe domicile: Jaune et Bleu.\nCouleur principale équipe exterieu
+ re: Bleu\n\nContact équipe domicile: Gimenez Villahoz M (0487.79.91.95 - 
+ lxgfc50@gmail.com)\n\nAccès voiture : Place Meiser\, descendre Bd. Géné
+ ral Wahis\, Bd Lambermont\, au deuxième carrefour prendre à gauche\, pui
+ s encore la première à gauche\nOu :  Place Meiser prendre Av Ernest Camb
+ ier. - Tram n° 7  - Bus 65 arrêt Chazal\n\nVérifiez toujours ces infos 
+ sur http://www.abssa.be/
+GEO:50.8592013;4.3921032
+LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
+ ue
+ORGANIZER;CN="Gimenez Villahoz M";ROLE=Secrétaire:MAILTO:lxgfc50@gmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J15: NEW ARQUOIS FC vs BRUSSELS LTC
+DTSTART;VALUE=DATE-TIME:20240120T130000Z
+DTEND;VALUE=DATE-TIME:20240120T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_1_15_263_39
+DESCRIPTION:Terrain synthétique: non\nCode terrain: A12\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bordea
+ ux\n\nContact équipe domicile: Beka J-M. (0495.25.31.25 - jmbeka73@gmail.
+ com)\n\nAccès voiture : Autoroute E 19 (Bruxelles-Charleroi)\, sortie Arq
+ uennes. Direction Seneffe-La-Louvière. A la station d'essence Total\, pre
+ ndre à droite pendant +/- 700 mètres.\nAu rond point\, prendre à droite
+  en direction du château de La Rocq\, passez sous le pont\, le terrain se
+  trouve à 100 mètres (à proximité du cimetière).\n\nVérifiez toujour
+ s ces infos sur http://www.abssa.be/
+GEO:50.5690988;4.2677281
+LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion\, 7181 Arquennes\, B
+ elgique
+ORGANIZER;CN="Beka J-M.";ROLE=Secrétaire:MAILTO:jmbeka73@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J16: GREZ AJ vs NEW ARQUOIS FC
+DTSTART;VALUE=DATE-TIME:20240127T143000Z
+DTEND;VALUE=DATE-TIME:20240127T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_1_16_514_263
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Vanhamme J. (0474.56.81.54 - jerome.vanhamme@h
+ otmail.com)\n\nAccès voiture : A partir de Bruxelles\, prendre la E 411 e
+ n direction de Namur. Prendre la sortie N° 8 puis à droite la bretelle p
+ our la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,
+ 5 km\, au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Lib
+ ération\, puis à gauche dans la rue de la Grande lecke.\n\nVérifiez tou
+ jours ces infos sur http://www.abssa.be/
+GEO:50.7540176;4.7835618
+LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
+ORGANIZER;CN="Vanhamme J.";ROLE=Secrétaire:MAILTO:jerome.vanhamme@hotmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J17: NEW ARQUOIS FC vs BRUSSELS BRITISH R
+DTSTART;VALUE=DATE-TIME:20240203T130000Z
+DTEND;VALUE=DATE-TIME:20240203T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_1_17_263_1
+DESCRIPTION:Terrain synthétique: non\nCode terrain: A12\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Beka J-M. (0495.25.31.25 - jmbeka73@gmail.com
+ )\n\nAccès voiture : Autoroute E 19 (Bruxelles-Charleroi)\, sortie Arquen
+ nes. Direction Seneffe-La-Louvière. A la station d'essence Total\, prendr
+ e à droite pendant +/- 700 mètres.\nAu rond point\, prendre à droite en
+  direction du château de La Rocq\, passez sous le pont\, le terrain se tr
+ ouve à 100 mètres (à proximité du cimetière).\n\nVérifiez toujours c
+ es infos sur http://www.abssa.be/
+GEO:50.5690988;4.2677281
+LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion\, 7181 Arquennes\, B
+ elgique
+ORGANIZER;CN="Beka J-M.";ROLE=Secrétaire:MAILTO:jmbeka73@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J18: PRESS (AMICALE) vs NEW ARQUOIS FC
+DTSTART;VALUE=DATE-TIME:20240210T143000Z
+DTEND;VALUE=DATE-TIME:20240210T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_1_18_30_263
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: M07\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Timperman E. (0468.41.16.68 - eric.timperman@s
+ kynet.be)\n\nAccès voiture : Ring de Bruxelles (RO)\, sortie Jette-Wemmel
+  (n° 9)\, direction Merchtem. A Brussegem au carrefour Asse-Wolvertem\, p
+ rendre direction Asse. Après l'église\, prendre la 1ère à main droite 
+ (direction Mollem). Après 2 km. prendre la Kouterstraat qui se trouve jus
+ te en face de l'église.\n\nVérifiez toujours ces infos sur http://www.ab
+ ssa.be/
+GEO:50.9278393;4.2227906
+LOCATION:Kouter 29\, 1730 Mollem\, Belgique
+ORGANIZER;CN="Timperman E.";ROLE=Secrétaire:MAILTO:eric.timperman@skynet.
+ be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J19: NEW ARQUOIS FC vs CHOULE AUDERGHEM
+DTSTART;VALUE=DATE-TIME:20240217T130000Z
+DTEND;VALUE=DATE-TIME:20240217T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_1_19_263_517
+DESCRIPTION:Terrain synthétique: non\nCode terrain: A12\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rayé 
+ Bleu et Blanc\n\nContact équipe domicile: Beka J-M. (0495.25.31.25 - jmbe
+ ka73@gmail.com)\n\nAccès voiture : Autoroute E 19 (Bruxelles-Charleroi)\,
+  sortie Arquennes. Direction Seneffe-La-Louvière. A la station d'essence 
+ Total\, prendre à droite pendant +/- 700 mètres.\nAu rond point\, prendr
+ e à droite en direction du château de La Rocq\, passez sous le pont\, le
+  terrain se trouve à 100 mètres (à proximité du cimetière).\n\nVérif
+ iez toujours ces infos sur http://www.abssa.be/
+GEO:50.5690988;4.2677281
+LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion\, 7181 Arquennes\, B
+ elgique
+ORGANIZER;CN="Beka J-M.";ROLE=Secrétaire:MAILTO:jmbeka73@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J26: NEW ARQUOIS FC vs IRLANDE FC
+DTSTART;VALUE=DATE-TIME:20240224T130000Z
+DTEND;VALUE=DATE-TIME:20240224T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_1_26_263_402
+DESCRIPTION:Terrain synthétique: non\nCode terrain: A12\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Vert\n
+ \nContact équipe domicile: Beka J-M. (0495.25.31.25 - jmbeka73@gmail.com)
+ \n\nAccès voiture : Autoroute E 19 (Bruxelles-Charleroi)\, sortie Arquenn
+ es. Direction Seneffe-La-Louvière. A la station d'essence Total\, prendre
+  à droite pendant +/- 700 mètres.\nAu rond point\, prendre à droite en 
+ direction du château de La Rocq\, passez sous le pont\, le terrain se tro
+ uve à 100 mètres (à proximité du cimetière).\n\nVérifiez toujours ce
+ s infos sur http://www.abssa.be/
+GEO:50.5690988;4.2677281
+LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion\, 7181 Arquennes\, B
+ elgique
+ORGANIZER;CN="Beka J-M.";ROLE=Secrétaire:MAILTO:jmbeka73@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J23: NEW ARQUOIS FC vs COIN DU BALAI FC
+DTSTART;VALUE=DATE-TIME:20240302T130000Z
+DTEND;VALUE=DATE-TIME:20240302T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_1_23_263_229
+DESCRIPTION:Terrain synthétique: non\nCode terrain: A12\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu M
+ arine\n\nContact équipe domicile: Beka J-M. (0495.25.31.25 - jmbeka73@gma
+ il.com)\n\nAccès voiture : Autoroute E 19 (Bruxelles-Charleroi)\, sortie 
+ Arquennes. Direction Seneffe-La-Louvière. A la station d'essence Total\, 
+ prendre à droite pendant +/- 700 mètres.\nAu rond point\, prendre à dro
+ ite en direction du château de La Rocq\, passez sous le pont\, le terrain
+  se trouve à 100 mètres (à proximité du cimetière).\n\nVérifiez touj
+ ours ces infos sur http://www.abssa.be/
+GEO:50.5690988;4.2677281
+LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion\, 7181 Arquennes\, B
+ elgique
+ORGANIZER;CN="Beka J-M.";ROLE=Secrétaire:MAILTO:jmbeka73@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J20: PORTUGAL FC vs NEW ARQUOIS FC
+DTSTART;VALUE=DATE-TIME:20240309T143000Z
+DTEND;VALUE=DATE-TIME:20240309T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_1_20_403_263
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Figueira De Carvalho M. (0476.40.68.33 - manu
+ el.figueira@mne.pt)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, apr
+ ès 300 m. en direction de Lennik\, prendre à droite.\nVenant de la chaus
+ sée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi
+ \, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. e
+ n direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.abss
+ a.be/
+GEO:50.8177358;4.2557195
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER;CN="Figueira De Carvalho M.";ROLE=Secrétaire:MAILTO:manuel.figu
+ eira@mne.pt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J21: NEW ARQUOIS FC vs CHENOIS SC
+DTSTART;VALUE=DATE-TIME:20240316T130000Z
+DTEND;VALUE=DATE-TIME:20240316T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_1_21_263_84
+DESCRIPTION:Terrain synthétique: non\nCode terrain: A12\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge\
+ n\nContact équipe domicile: Beka J-M. (0495.25.31.25 - jmbeka73@gmail.com
+ )\n\nAccès voiture : Autoroute E 19 (Bruxelles-Charleroi)\, sortie Arquen
+ nes. Direction Seneffe-La-Louvière. A la station d'essence Total\, prendr
+ e à droite pendant +/- 700 mètres.\nAu rond point\, prendre à droite en
+  direction du château de La Rocq\, passez sous le pont\, le terrain se tr
+ ouve à 100 mètres (à proximité du cimetière).\n\nVérifiez toujours c
+ es infos sur http://www.abssa.be/
+GEO:50.5690988;4.2677281
+LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion\, 7181 Arquennes\, B
+ elgique
+ORGANIZER;CN="Beka J-M.";ROLE=Secrétaire:MAILTO:jmbeka73@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J22: WONG A.S. vs NEW ARQUOIS FC
+DTSTART;VALUE=DATE-TIME:20240323T113000Z
+DTEND;VALUE=DATE-TIME:20240323T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_1_22_523_263
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: T07\n\nCouleur princi
+ pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Van Impe J. (0476.78.52.59 - vanimpe-julien@h
+ otmail.be)\n\nAccès voiture : Aux quatre-Bras\, prendre direction Tervure
+ n via l’avenue de Tervuren(N3) pendant 750M\nAu rond-point\, prendre la 
+ 1ère sortie et continuer sur l’avenue de Tervuren pendant 1\,2km puis p
+ rendre à droite sur la chaussée de Bruxelles pendant 500m. Ensuite Prend
+ re légèrement sur la droite dans la Wijngaardstraat pendant 400m et tour
+ ner à gauche dans la Pepperstraat pendant 400m. Ensuite tourner à droite
+  sur la chaussée de Duisburg et rouler pendant 1\,4 km... Continuer tout 
+ droit sur la chaussée de Tervuren pendant 1\,3 km et prendre à gauche da
+ ns la rue de destination ( Schonenboomstraat).\nLe terrain se situe sur la
+  droite de la route!\n\nVérifiez toujours ces infos sur http://www.abssa.
+ be/
+GEO:50.8107232;4.5492332
+LOCATION:Schonenboormstraat\, 3080 Tervuren\, Belgique
+ORGANIZER;CN="Van Impe J.";ROLE=Secrétaire:MAILTO:vanimpe-julien@hotmail.
+ be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J25: EURO UNION vs NEW ARQUOIS FC
+DTSTART;VALUE=DATE-TIME:20240406T113000Z
+DTEND;VALUE=DATE-TIME:20240406T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_1_25_567_263
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: I02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Mad. De Becker S (0473.54.89.74 - euro.union5
+ 67@gmail.com)\n\nAccès voiture : Avenue de la Couronne jusqu'au cimetièr
+ e d'Ixelles\, suivre les plaques "Stade A. Demuyter".\n\nVérifiez toujour
+ s ces infos sur http://www.abssa.be/
+GEO:50.8134101;4.3956383
+LOCATION:Stade A. Demuyter\, Rue Volta 18\, 1050 Ixelles\, Belgique
+ORGANIZER;CN="Mad. De Becker S";ROLE=Secrétaire:MAILTO:euro.union567@gmai
+ l.com
 END:VEVENT
 END:VCALENDAR

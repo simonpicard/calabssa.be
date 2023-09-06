@@ -1,297 +1,469 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:5a5568b0-749b-4407-bdd0-d82fcba75d50
-X-WR-CALDESC:Les matches de JETTOISE (AMICALE) (eq. 1) en ABSSA.
-X-WR-CALNAME:ABSSA - JETTOISE (AMICALE) (eq. 1) - 347
-X-WR-TIMEZONE:Europe/Brussels
+PRODID:347_1_jettoise_amicale
+X-WR-CALDESC:Les matches du club JETTOISE (AMICALE) (equipe 1) en ABSSA.
+X-WR-CALNAME:ABSSA: JETTOISE (AMICALE) (eq. 1)
 BEGIN:VEVENT
-SUMMARY:ABSSA D6D J2: HIGGINS (Eq. 3) vs JETTOISE (AMICALE)
-DTSTART:20220910T140000Z
-DTEND:20220910T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:521237cc-6f2d-436c-9848-48f7b8d12c09
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rayé Bleu et Blanc\nCouleur principale équipe extérieur: Bleu et bl
- anc\n\nContact équipe domicile: DE BIOLLEY PH. (0477.23.31.25)\n\nAccès 
- voiture : En venant de Bruxelles par la chaussée de Wavre\, rejoindre le 
- du début de l'autoroute Bruxelles-Namur\, utiliser la bande de droite pen
- dant +/- 200 m. et descendre devant le bâtiment de l'ADEPS\, puis passer 
- par le tunnel à gauche (en dessous de l'autoroute). Le terrain se trouve 
- à 200 m. Le stade est fléché.
+SUMMARY:ABSSA D6D J10: JETTOISE (AMICALE) vs ENTENTE  RACB (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20230902T133000Z
+DTEND;VALUE=DATE-TIME:20230902T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6D_10_347_2
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Bleu et blanc\nCouleur principale équipe exterieur
+ e: Rouge\n\nContact équipe domicile: Pogradja  A. (0478.37.94.22 - avnipo
+ gradja@gmail.com)\n\nAccès voiture : Direction cimetière de Jette\, ensu
+ ite prendre la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, ave
+ nue J.J. Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces 
+ infos sur http://www.abssa.be/
+GEO:50.8907643;4.3211209
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
+ Belgique
+ORGANIZER;CN="Pogradja  A.";ROLE=Secrétaire:MAILTO:avnipogradja@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J2: JETTOISE (AMICALE) vs LA LORRAINE-MTM.R (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20230916T133000Z
+DTEND;VALUE=DATE-TIME:20230916T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6D_2_347_44
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Bleu et blanc\nCouleur principale équipe exterieur
+ e: Bleu\n\nContact équipe domicile: Pogradja  A. (0478.37.94.22 - avnipog
+ radja@gmail.com)\n\nAccès voiture : Direction cimetière de Jette\, ensui
+ te prendre la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, aven
+ ue J.J. Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces i
+ nfos sur http://www.abssa.be/
+GEO:50.8907643;4.3211209
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
+ Belgique
+ORGANIZER;CN="Pogradja  A.";ROLE=Secrétaire:MAILTO:avnipogradja@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J3: HIGGINS-PUMAS (Eq. 3) vs JETTOISE (AMICALE)
+DTSTART;VALUE=DATE-TIME:20230923T120000Z
+DTEND;VALUE=DATE-TIME:20230923T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6D_3_416_347
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
+ erieure: Bleu et blanc\n\nContact équipe domicile: De Biolley Ph. (0477.2
+ 3.31.25 - philippe.debiolley@gmail.com)\n\nAccès voiture : En venant de B
+ ruxelles par la chaussée de Wavre\, rejoindre le du début de l'autoroute
+  Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et desce
+ ndre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche 
+ (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le stade est f
+ léché.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
 GEO:50.8103473;4.443252699999999
-LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem\, 
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="De Biolley Ph.";ROLE=Secrétaire:MAILTO:philippe.debiolley@g
+ mail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J4: JETTOISE (AMICALE) vs PANGLOSS FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20230930T133000Z
+DTEND;VALUE=DATE-TIME:20230930T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6D_4_347_123
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Bleu et blanc\nCouleur principale équipe exterieur
+ e: Bleu\n\nContact équipe domicile: Pogradja  A. (0478.37.94.22 - avnipog
+ radja@gmail.com)\n\nAccès voiture : Direction cimetière de Jette\, ensui
+ te prendre la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, aven
+ ue J.J. Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces i
+ nfos sur http://www.abssa.be/
+GEO:50.8907643;4.3211209
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
  Belgique
-ORGANIZER:MAILTO:philippe.debiolley@gmail.com
+ORGANIZER;CN="Pogradja  A.";ROLE=Secrétaire:MAILTO:avnipogradja@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6D J12: JETTOISE (AMICALE) vs MIREILLE WEMMEL (Eq. 2)
-DTSTART:20221126T153000Z
-DTEND:20221126T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:a043f646-14c8-489d-8832-1cf3d84f987c
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu et blanc\nCouleur principale équipe extérieur: Noir\n\nContact 
- équipe domicile: POGRADJA  A. (0478.37.94.22)\n\nAccès voiture : Directi
- on cimetière de Jette\, ensuite prendre la rue du "Sacré-Coeur" jusqu'au
-  bout\, puis tout droit\, avenue J.J. Crocq. Le terrain se trouve à gauch
- e.
-GEO:50.8868564;4.3286963
-LOCATION:COMPLEXE SPORTIF DU HEYMBOSCH\, Avenue J.J. Crocq\, 1090 Jette\, 
- Belgique
-ORGANIZER:MAILTO:avnipogradja@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6D J13: JETTOISE (AMICALE) vs HIGGINS (Eq. 3)
-DTSTART:20221203T153000Z
-DTEND:20221203T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:00b4135d-84c7-4e3b-b6bd-980a36b934ed
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu et blanc\nCouleur principale équipe extérieur: Rayé Bleu et Bl
- anc\n\nContact équipe domicile: POGRADJA  A. (0478.37.94.22)\n\nAccès vo
- iture : Direction cimetière de Jette\, ensuite prendre la rue du "Sacré-
- Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Crocq. Le terrain se 
- trouve à gauche.
-GEO:50.8868564;4.3286963
-LOCATION:COMPLEXE SPORTIF DU HEYMBOSCH\, Avenue J.J. Crocq\, 1090 Jette\, 
- Belgique
-ORGANIZER:MAILTO:avnipogradja@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6D J14: BRITISH UNITED (Eq. 6) vs JETTOISE (AMICALE)
-DTSTART:20221210T130000Z
-DTEND:20221210T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:e749c3bf-dc79-44c9-a09b-fd7ec509f6f6
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Bleu et blanc\n\nContact 
- équipe domicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Auto
- route Bruxelles-Anvers (E19) sortie Mechelen-Noord (n° 9) En arrivant dan
- s le centre\, suivre la direction "Heist-op-den-Berg" Aller tout droit et 
- passer le viaduc du chemin de fer. Après 1 km. suivre les flèches "De Ne
- kker". Garer les voitures à l'extérieur du complexe. IL FAUT COMPTER ENV
- . 10 min. à pied jusqu'au terrain.
-GEO:51.0216563;4.5020273
-LOCATION:SPORTPARK DE NEKKER\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
- ue
-ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6D J15: JETTOISE (AMICALE) vs IRLANDE FC (Eq. 6)
-DTSTART:20221217T153000Z
-DTEND:20221217T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:04aa8f36-c79e-4012-8f9f-5509ca12ed89
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu et blanc\nCouleur principale équipe extérieur: Vert\n\nContact 
- équipe domicile: POGRADJA  A. (0478.37.94.22)\n\nAccès voiture : Directi
- on cimetière de Jette\, ensuite prendre la rue du "Sacré-Coeur" jusqu'au
-  bout\, puis tout droit\, avenue J.J. Crocq. Le terrain se trouve à gauch
- e.
-GEO:50.8868564;4.3286963
-LOCATION:COMPLEXE SPORTIF DU HEYMBOSCH\, Avenue J.J. Crocq\, 1090 Jette\, 
- Belgique
-ORGANIZER:MAILTO:avnipogradja@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6D J16: JETTOISE (AMICALE) vs CHENOIS (ESPER) (Eq. 2)
-DTSTART:20230107T153000Z
-DTEND:20230107T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:ecf07325-c804-4103-b045-1298b1fcc24e
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu et blanc\nCouleur principale équipe extérieur: Blanc et rouge\n
- \nContact équipe domicile: POGRADJA  A. (0478.37.94.22)\n\nAccès voiture
-  : Direction cimetière de Jette\, ensuite prendre la rue du "Sacré-Coeur
- " jusqu'au bout\, puis tout droit\, avenue J.J. Crocq. Le terrain se trouv
- e à gauche.
-GEO:50.8868564;4.3286963
-LOCATION:COMPLEXE SPORTIF DU HEYMBOSCH\, Avenue J.J. Crocq\, 1090 Jette\, 
- Belgique
-ORGANIZER:MAILTO:avnipogradja@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6D J17: STRING PENELOPE (Eq. 4) vs JETTOISE (AMICALE)
-DTSTART:20230114T150000Z
-DTEND:20230114T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:5a163d08-2b59-475b-8db3-6d79cda020e1
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Orange\nCouleur principale équipe extérieur: Bleu et blanc\n\nContac
- t équipe domicile: COLLIGNON T. (0474.89.84.20)\n\nAccès voiture : Au d
- épart de Bruxelles\, prendre l'autoroute E411 en direction de Namur. Pren
- dre la sortie  Wavre ( n° 6) ensuite à droite la N238 en direction d'Ott
- ignies. Prendre la sortie Ottignies/Louvain-La-Neuve (N237) et suivre la d
- irection Ottignies. Passer sous les 2 ponts du chemin de fer et\, au feu d
- e signalisation\, continuer tout droit. Au feu suivant\, toujours tout dro
- it par l'avenue des Combattants. Franchir le passage protégé pour piéto
- ns (feu clignotant) et au feu de signalisation suivant\, prendre à droite
-  direction Ceroux-Mousty par la rue des Coquerées. Le terrain se trouve s
- ur la droite à env. 400 m. Au n° 50A \, panneau "Coca-Cola" l'entrée du
-  centre sportif.
+SUMMARY:ABSSA D6D J5: STRING PENELOPE (Eq. 3) vs JETTOISE (AMICALE)
+DTSTART;VALUE=DATE-TIME:20231007T130000Z
+DTEND;VALUE=DATE-TIME:20231007T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6D_5_181_347
+DESCRIPTION:Terrain synthétique: non\nCode terrain: O04\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Bleu
+  et blanc\n\nContact équipe domicile: Collignon T. (0474.89.84.20 - thom.
+ collignon@gmail.com)\n\nAccès voiture : Au départ de Bruxelles\, prendre
+  l'autoroute E411 en direction de Namur. Prendre la sortie  Wavre ( n° 6)
+  ensuite à droite la N238 en direction d'Ottignies. Prendre la sortie Ott
+ ignies/Louvain-La-Neuve (N237) et suivre la direction Ottignies. Passer so
+ us les 2 ponts du chemin de fer et\, au feu de signalisation\, continuer t
+ out droit. Au feu suivant\, toujours tout droit par l'avenue des Combattan
+ ts. Franchir le passage protégé pour piétons (feu clignotant) et au feu
+  de signalisation suivant\, prendre à droite direction Ceroux-Mousty par 
+ la rue des Coquerées. Le terrain se trouve sur la droite à env. 400 m. A
+ u n° 50A \, panneau "Coca-Cola" l'entrée du centre sportif.\n\nVérifiez
+  toujours ces infos sur http://www.abssa.be/
 GEO:50.6630401;4.5569959
-LOCATION:CENTRE SPORTIF DES COQUEREES\, Rue des Coquerées\, 50A\, 1341 Ot
- tignies-Ceroux-Mousty\, Belgique
-ORGANIZER:MAILTO:thom.collignon@gmail.com
+LOCATION:Centre Sportif des Coquerees\, Rue des Coquerées 50A\, 1341 Otti
+ gnies-Ceroux-Mousty\, Belgique
+ORGANIZER;CN="Collignon T.";ROLE=Secrétaire:MAILTO:thom.collignon@gmail.c
+ om
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6D J18: JETTOISE (AMICALE) vs POSTBOYS FC (Eq. 2)
-DTSTART:20230121T153000Z
-DTEND:20230121T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:32dc9d83-bf9a-4983-9210-55f2c1f236e1
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu et blanc\nCouleur principale équipe extérieur: Rouge et noir\n\
- nContact équipe domicile: POGRADJA  A. (0478.37.94.22)\n\nAccès voiture 
- : Direction cimetière de Jette\, ensuite prendre la rue du "Sacré-Coeur"
-  jusqu'au bout\, puis tout droit\, avenue J.J. Crocq. Le terrain se trouve
-  à gauche.
-GEO:50.8868564;4.3286963
-LOCATION:COMPLEXE SPORTIF DU HEYMBOSCH\, Avenue J.J. Crocq\, 1090 Jette\, 
+SUMMARY:ABSSA D6D J6: JETTOISE (AMICALE) vs ANDERLECHT US
+DTSTART;VALUE=DATE-TIME:20231014T133000Z
+DTEND;VALUE=DATE-TIME:20231014T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6D_6_347_280
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Bleu et blanc\nCouleur principale équipe exterieur
+ e: Mauve\n\nContact équipe domicile: Pogradja  A. (0478.37.94.22 - avnipo
+ gradja@gmail.com)\n\nAccès voiture : Direction cimetière de Jette\, ensu
+ ite prendre la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, ave
+ nue J.J. Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces 
+ infos sur http://www.abssa.be/
+GEO:50.8907643;4.3211209
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
  Belgique
-ORGANIZER:MAILTO:avnipogradja@gmail.com
+ORGANIZER;CN="Pogradja  A.";ROLE=Secrétaire:MAILTO:avnipogradja@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6D J19: CHIEFS WSL (Eq. 4) vs JETTOISE (AMICALE)
-DTSTART:20230128T110000Z
-DTEND:20230128T122500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:019a6123-4488-4a4a-bb4d-43e7640d7f8f
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe extérieur: Bleu et blanc\n\nContact
-  équipe domicile: DE SAN G. (0477.42.23.84)\n\nAccès voiture : Boulevard
-  de la Woluwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu'a
- u Petit Pont (terminus bus 28). Avant ce pont le terrain se trouve à gauc
- he.
-GEO:50.8423054;4.445628699999999
-LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
- é-Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:guy@desan.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6D J20: JETTOISE (AMICALE) vs CHENOIS SC (Eq. 3)
-DTSTART:20230204T153000Z
-DTEND:20230204T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:4f411b17-0f7b-4497-a2ea-d0552ce4cbd4
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu et blanc\nCouleur principale équipe extérieur: Rouge et noir\n\
- nContact équipe domicile: POGRADJA  A. (0478.37.94.22)\n\nAccès voiture 
- : Direction cimetière de Jette\, ensuite prendre la rue du "Sacré-Coeur"
-  jusqu'au bout\, puis tout droit\, avenue J.J. Crocq. Le terrain se trouve
-  à gauche.
-GEO:50.8868564;4.3286963
-LOCATION:COMPLEXE SPORTIF DU HEYMBOSCH\, Avenue J.J. Crocq\, 1090 Jette\, 
+SUMMARY:ABSSA D6D J8: JETTOISE (AMICALE) vs MIREILLE WEMMEL (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20231021T133000Z
+DTEND;VALUE=DATE-TIME:20231021T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6D_8_347_93
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Bleu et blanc\nCouleur principale équipe exterieur
+ e: Noir\n\nContact équipe domicile: Pogradja  A. (0478.37.94.22 - avnipog
+ radja@gmail.com)\n\nAccès voiture : Direction cimetière de Jette\, ensui
+ te prendre la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, aven
+ ue J.J. Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces i
+ nfos sur http://www.abssa.be/
+GEO:50.8907643;4.3211209
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
  Belgique
-ORGANIZER:MAILTO:avnipogradja@gmail.com
+ORGANIZER;CN="Pogradja  A.";ROLE=Secrétaire:MAILTO:avnipogradja@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6D J21: OMNISPORT BIERGHES (Eq. 2) vs JETTOISE (AMICALE)
-DTSTART:20230211T153000Z
-DTEND:20230211T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:61c68b76-c876-46c8-82e2-99689efcd788
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe extérieur: Bleu et blanc\n\nContact 
- équipe domicile: BARBE L. (0495.21.74.14)\n\nAccès voiture : Autoroute B
- ruxelles-Charleroi (E19)\, prendre la sortie Halle-Tournai-Lille (n° 21) 
- pour rejoindre l'autoroute Tournai-Lille\, ancienne route A8 (E429). Prend
- re la sortie Rebecq-Quenast (n° 24). En bas de la sortie\, prendre à dro
- ite\, direction Bierghes. Rouler tout droit jusqu'au premier feu rouge. To
- urner à droite en direction de Halle\, ensuite la deuxième rue à droite
-  (rue du Sartiau)\, ensuite à gauche. Le terrain se trouve à 300 m.
+SUMMARY:ABSSA D6D J24: JETTOISE (AMICALE) vs OMNISPORT BIERGHES (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20231028T133000Z
+DTEND;VALUE=DATE-TIME:20231028T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6D_24_347_455
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Bleu et blanc\nCouleur principale équipe exterieur
+ e: Bordeaux\n\nContact équipe domicile: Pogradja  A. (0478.37.94.22 - avn
+ ipogradja@gmail.com)\n\nAccès voiture : Direction cimetière de Jette\, e
+ nsuite prendre la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, 
+ avenue J.J. Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujours c
+ es infos sur http://www.abssa.be/
+GEO:50.8907643;4.3211209
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
+ Belgique
+ORGANIZER;CN="Pogradja  A.";ROLE=Secrétaire:MAILTO:avnipogradja@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J7: AEMA VETERANS vs JETTOISE (AMICALE)
+DTSTART;VALUE=DATE-TIME:20231104T123000Z
+DTEND;VALUE=DATE-TIME:20231104T140000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6D_7_427_347
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
+ pale équipe domicile: Jaune et bleu\nCouleur principale équipe exterieur
+ e: Bleu et blanc\n\nContact équipe domicile: Van Ingelgom J. (0475.36.44.
+ 88 - vaningelgom_w_j@hotmail.com)\n\nAccès voiture : Via la chaussée de 
+ Mons jusqu'à Veeweyde (carrefour Fr. Van Kalken). Prendre à droite le bo
+ ulevard  A. Briand jusqu'à la Place Verdi\, puis le Bld. Théo Lambert.\n
+ \nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.827564;4.2952993
+LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Van Ingelgom J.";ROLE=Secrétaire:MAILTO:vaningelgom_w_j@hot
+ mail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J9: CHOULE AUDERGHEM (Eq. 6) vs JETTOISE (AMICALE)
+DTSTART;VALUE=DATE-TIME:20231118T130000Z
+DTEND;VALUE=DATE-TIME:20231118T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6D_9_517_347
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
+ et blanc\n\nContact équipe domicile: Vandenplas D. (0476.54.48.01 - dav_5
+ 4@hotmail.com)\n\nAccès voiture : En venant de Bruxelles par la chaussée
+  de Wavre\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utilis
+ er la bande de droite pendant +/- 200 m. et descendre devant le bâtiment 
+ de l'ADEPS\, puis passer par le tunnel à gauche (en dessous de l'autorout
+ e). Le terrain se trouve à 200 m. Le stade est fléché.\n\nVérifiez tou
+ jours ces infos sur http://www.abssa.be/
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J12: BRITISH UNITED (Eq. 6) vs JETTOISE (AMICALE)
+DTSTART;VALUE=DATE-TIME:20231125T130000Z
+DTEND;VALUE=DATE-TIME:20231125T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6D_12_132_347
+DESCRIPTION:Terrain synthétique: non\nCode terrain: M02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu e
+ t blanc\n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gill
+ esvanderseypen@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Anvers (
+ E19) sortie Mechelen-Noord (n° 9) En arrivant dans le centre\, suivre la 
+ direction "Heist-op-den-Berg" Aller tout droit et passer le viaduc du chem
+ in de fer. Après 1 km. suivre les flèches "De Nekker". Garer les voiture
+ s à l'extérieur du complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'
+ au terrain.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:51.0254354;4.503786799999999
+LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
+ ue
+ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
+ gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J11: OMNISPORT BIERGHES (Eq. 2) vs JETTOISE (AMICALE)
+DTSTART;VALUE=DATE-TIME:20231202T143000Z
+DTEND;VALUE=DATE-TIME:20231202T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6D_11_455_347
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B02\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bl
+ eu et blanc\n\nContact équipe domicile: Barbe L. (0495.21.74.14 - omnispo
+ rtbierghes1995@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Charlero
+ i (E19)\, prendre la sortie Halle-Tournai-Lille (n° 21) pour rejoindre l'
+ autoroute Tournai-Lille\, ancienne route A8 (E429). Prendre la sortie Rebe
+ cq-Quenast (n° 24). En bas de la sortie\, prendre à droite\, direction B
+ ierghes. Rouler tout droit jusqu'au premier feu rouge. Tourner à droite e
+ n direction de Halle\, ensuite la deuxième rue à droite (rue du Sartiau)
+ \, ensuite à gauche. Le terrain se trouve à 300 m.\n\nVérifiez toujours
+  ces infos sur http://www.abssa.be/
 GEO:50.6957846;4.129257
-LOCATION:Rue du Sartiau\, 3B\, 1430 Bierghes-Rebecq\, Belgique
-ORGANIZER:MAILTO:omnisportbierghes1995@gmail.com
+LOCATION:Rue du Sartiau 3B\, 1430 Bierghes-Rebecq\, Belgique
+ORGANIZER;CN="Barbe L.";ROLE=Secrétaire:MAILTO:omnisportbierghes1995@gmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6D J22: MIREILLE WEMMEL (Eq. 2) vs JETTOISE (AMICALE)
-DTSTART:20230225T140000Z
-DTEND:20230225T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:f0998ef2-6fe8-403b-8615-9d011f665304
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe extérieur: Bleu et blanc\n\nContact 
- équipe domicile: VERMEERBERGEN D. (0497.31.76.07)\n\nAccès voiture : Rin
- g RO\, afrit Wemmel-Merchtem (n° 9)\, richting Merchtem volgen via de Is.
-  Meyskensstraat tot aan de rotonde\, op de rotonde de 4de afslag nemen\, D
- iepstraat deze vloeit over in de Steenweg op Brussel\, 50 m. voorbij het e
- erste kruispunt met verkeerslichten\, links van de steenweg\, bevindt zich
-  het stadium (parking)
-GEO:50.900999;4.4855744
-LOCATION:STADIUM (STADE) VAN LANGENHOVE\, Steenweg naar Brussel\, 111\, 17
- 80 Wemmel\, Belgique
-ORGANIZER:MAILTO:daanvermeerbergen@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6D J23: CORNAC UNITED FC (Eq. 2) vs JETTOISE (AMICALE)
-DTSTART:20230304T123000Z
-DTEND:20230304T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:91fc88ac-8461-45ab-bfdc-d3748770733c
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe extérieur: Bleu et blanc\n\nContact
-  équipe domicile: DENAYER M. (0476.53.14.48)\n\nAccès voiture : Par le R
- ing Ouest\, direction Paris\, sortie Westland Shopping Center (n° 14) con
- tinuer tout droit\, remonter vers le Ring et prendre à droite pour sortir
-  vers Itterbeek. Prendre l'avenue d'Itterbeek au parc d'Anderlecht\, passe
- r le ring\, reste 2 km. Le terrain se trouve à gauche\, entre l'école Va
- n Belle et Veeweyde.
-GEO:50.8344692;4.2821012
-LOCATION:BON AIR\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:marcdenayermd@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6D J24: JETTOISE (AMICALE) vs LORRAINE (LA) RFC (Eq. 3)
-DTSTART:20230311T153000Z
-DTEND:20230311T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:c4d267ae-4910-4b16-a381-e095920549b6
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu et blanc\nCouleur principale équipe extérieur: Bleu\n\nContact 
- équipe domicile: POGRADJA  A. (0478.37.94.22)\n\nAccès voiture : Directi
- on cimetière de Jette\, ensuite prendre la rue du "Sacré-Coeur" jusqu'au
-  bout\, puis tout droit\, avenue J.J. Crocq. Le terrain se trouve à gauch
- e.
-GEO:50.8868564;4.3286963
-LOCATION:COMPLEXE SPORTIF DU HEYMBOSCH\, Avenue J.J. Crocq\, 1090 Jette\, 
+SUMMARY:ABSSA D6D J13: JETTOISE (AMICALE) vs NIVELLOIS-ACLOT BS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20231209T143000Z
+DTEND;VALUE=DATE-TIME:20231209T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6D_13_347_503
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Bleu et blanc\nCouleur principale équipe exterieur
+ e: Rouge et noir\n\nContact équipe domicile: Pogradja  A. (0478.37.94.22 
+ - avnipogradja@gmail.com)\n\nAccès voiture : Direction cimetière de Jett
+ e\, ensuite prendre la rue du "Sacré-Coeur" jusqu'au bout\, puis tout dro
+ it\, avenue J.J. Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujo
+ urs ces infos sur http://www.abssa.be/
+GEO:50.8907643;4.3211209
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
  Belgique
-ORGANIZER:MAILTO:avnipogradja@gmail.com
+ORGANIZER;CN="Pogradja  A.";ROLE=Secrétaire:MAILTO:avnipogradja@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6D J25: JETTOISE (AMICALE) vs ENTENTE  RACB (Eq. 2)
-DTSTART:20230318T153000Z
-DTEND:20230318T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:2a78d54c-c4de-4f5a-b188-9d6338c282d7
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu et blanc\nCouleur principale équipe extérieur: Rouge\n\nContact
-  équipe domicile: POGRADJA  A. (0478.37.94.22)\n\nAccès voiture : Direct
- ion cimetière de Jette\, ensuite prendre la rue du "Sacré-Coeur" jusqu'a
- u bout\, puis tout droit\, avenue J.J. Crocq. Le terrain se trouve à gauc
- he.
-GEO:50.8868564;4.3286963
-LOCATION:COMPLEXE SPORTIF DU HEYMBOSCH\, Avenue J.J. Crocq\, 1090 Jette\, 
+SUMMARY:ABSSA D6D J15: LA LORRAINE-MTM.R (Eq. 3) vs JETTOISE (AMICALE)
+DTSTART;VALUE=DATE-TIME:20240120T130000Z
+DTEND;VALUE=DATE-TIME:20240120T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6D_15_44_347
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu e
+ t blanc\n\nContact équipe domicile: Degimbe M. (0478.53.63.56 - lalorrain
+ efc@gmail.com)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosi
+ ères. Passer devant l'église\, longer l'autoroute et tourner à droite a
+ u cimetière des animaux. Terrain à 200 m.\n\nVérifiez toujours ces info
+ s sur http://www.abssa.be/
+GEO:50.7282426;4.5537189
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="Degimbe M.";ROLE=Secrétaire:MAILTO:lalorrainefc@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J16: JETTOISE (AMICALE) vs HIGGINS-PUMAS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20240127T143000Z
+DTEND;VALUE=DATE-TIME:20240127T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6D_16_347_416
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Bleu et blanc\nCouleur principale équipe exterieur
+ e: Rayé Bleu et Blanc\n\nContact équipe domicile: Pogradja  A. (0478.37.
+ 94.22 - avnipogradja@gmail.com)\n\nAccès voiture : Direction cimetière d
+ e Jette\, ensuite prendre la rue du "Sacré-Coeur" jusqu'au bout\, puis to
+ ut droit\, avenue J.J. Crocq. Le terrain se trouve à gauche.\n\nVérifiez
+  toujours ces infos sur http://www.abssa.be/
+GEO:50.8907643;4.3211209
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
  Belgique
-ORGANIZER:MAILTO:avnipogradja@gmail.com
+ORGANIZER;CN="Pogradja  A.";ROLE=Secrétaire:MAILTO:avnipogradja@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6D J26: IRLANDE FC (Eq. 6) vs JETTOISE (AMICALE)
-DTSTART:20230325T153000Z
-DTEND:20230325T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:8c80fd35-ba77-45de-bad8-2b470e9dcb18
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe extérieur: Bleu et blanc\n\nContact 
- équipe domicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chauss
- ée de Louvain jusqu'à Nossegem\, au premier croisement prendre à gauche
-  la \nMechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nP
- ar l'autoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, 
- prendre à gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\
- , et suivre comme ci-avant.
-GEO:50.8877772;4.5090761
-LOCATION:RADAR VLIEGHAVEN\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
+SUMMARY:ABSSA D6D J17: PANGLOSS FC (Eq. 2) vs JETTOISE (AMICALE)
+DTSTART;VALUE=DATE-TIME:20240203T143000Z
+DTEND;VALUE=DATE-TIME:20240203T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6D_17_123_347
+DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu e
+ t blanc\n\nContact équipe domicile: De Paduwa P. (0475.67.06.50 - p.depad
+ uwa@gmail.com)\n\nAccès voiture : Au départ de la Place Meiser\, l'autor
+ oute Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le 
+ viaduc prendre à droite\, l'avenue des Anciens Combattants. Juste après 
+ le carrefour avec des feux de signalisation prendre à droite vers la Plac
+ e de la Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois).
+  Le terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces i
+ nfos sur http://www.abssa.be/
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="De Paduwa P.";ROLE=Secrétaire:MAILTO:p.depaduwa@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J18: JETTOISE (AMICALE) vs STRING PENELOPE (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20240210T143000Z
+DTEND;VALUE=DATE-TIME:20240210T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6D_18_347_181
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Bleu et blanc\nCouleur principale équipe exterieur
+ e: Orange\n\nContact équipe domicile: Pogradja  A. (0478.37.94.22 - avnip
+ ogradja@gmail.com)\n\nAccès voiture : Direction cimetière de Jette\, ens
+ uite prendre la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, av
+ enue J.J. Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces
+  infos sur http://www.abssa.be/
+GEO:50.8907643;4.3211209
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
+ Belgique
+ORGANIZER;CN="Pogradja  A.";ROLE=Secrétaire:MAILTO:avnipogradja@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J19: ANDERLECHT US vs JETTOISE (AMICALE)
+DTSTART;VALUE=DATE-TIME:20240217T130000Z
+DTEND;VALUE=DATE-TIME:20240217T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6D_19_280_347
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Mauve\nCouleur principale équipe exterieure: Bleu 
+ et blanc\n\nContact équipe domicile: Sadin D. (0477.76.34.69 - usanderlec
+ ht@sadinfoot.net)\n\nAccès voiture : En venant de la Route de Lennik (Cit
+ roën) ou de la Chaussée de Mons (Ikea)\, prendre la direction du cimeti
+ ère d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-point p
+ rendre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée d
+ u complexe et des terrains se situe à +/- 500 m. sur la gauche.\n\nVérif
+ iez toujours ces infos sur http://www.abssa.be/
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Sadin D.";ROLE=Secrétaire:MAILTO:usanderlecht@sadinfoot.net
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J26: NIVELLOIS-ACLOT BS (Eq. 2) vs JETTOISE (AMICALE)
+DTSTART;VALUE=DATE-TIME:20240224T120000Z
+DTEND;VALUE=DATE-TIME:20240224T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6D_26_503_347
+DESCRIPTION:Terrain synthétique: non\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
+ e: Bleu et blanc\n\nContact équipe domicile: Draux N. (0472.40.01.22 - ni
+ .draux@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autor
+ oute Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer so
+ us le pont de l'autoroute et prendre la direction de Nivelles. A 200 m.\, 
+ au rond-point (Shopping Center)\, tourner à droite en direction de Wavre 
+ (petit ring de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-p
+ oint du Shopping Center)\, tourner à gauche \, rue de l'Industrie et pén
+ étrer dans le zoning. Au bout de la rue\, avant le feu de signalisation\,
+  tourner à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVé
+ rifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.5963436;4.3564187
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Draux N.";ROLE=Secrétaire:MAILTO:ni.draux@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J23: ENTENTE  RACB (Eq. 2) vs JETTOISE (AMICALE)
+DTSTART;VALUE=DATE-TIME:20240302T130000Z
+DTEND;VALUE=DATE-TIME:20240302T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6D_23_2_347
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu 
+ et blanc\n\nContact équipe domicile: Dath D. (0473.47.15.41 - daniel.dath
+ @hotmail.com)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\,
+  vers Neder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au
+  rond-point\, tout droit Chemin Vert\, puis première à gauche\, Petit Ch
+ emin Vert\, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://w
+ ww.abssa.be/
+GEO:50.89983369999999;4.3936101
+LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
+ORGANIZER;CN="Dath D.";ROLE=Secrétaire:MAILTO:daniel.dath@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J20: JETTOISE (AMICALE) vs AEMA VETERANS
+DTSTART;VALUE=DATE-TIME:20240309T143000Z
+DTEND;VALUE=DATE-TIME:20240309T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6D_20_347_427
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Bleu et blanc\nCouleur principale équipe exterieur
+ e: Jaune et bleu\n\nContact équipe domicile: Pogradja  A. (0478.37.94.22 
+ - avnipogradja@gmail.com)\n\nAccès voiture : Direction cimetière de Jett
+ e\, ensuite prendre la rue du "Sacré-Coeur" jusqu'au bout\, puis tout dro
+ it\, avenue J.J. Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujo
+ urs ces infos sur http://www.abssa.be/
+GEO:50.8907643;4.3211209
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
+ Belgique
+ORGANIZER;CN="Pogradja  A.";ROLE=Secrétaire:MAILTO:avnipogradja@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J21: MIREILLE WEMMEL (Eq. 2) vs JETTOISE (AMICALE)
+DTSTART;VALUE=DATE-TIME:20240316T130000Z
+DTEND;VALUE=DATE-TIME:20240316T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6D_21_93_347
+DESCRIPTION:Terrain synthétique: non\nCode terrain: W16\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu e
+ t blanc\n\nContact équipe domicile: Vermeerbergen D. (0497.31.76.07 - daa
+ nvermeerbergen@hotmail.com)\n\nAccès voiture : Ring RO\, afrit Wemmel-Mer
+ chtem (n° 9)\, richting Merchtem volgen via de Is. Meyskensstraat tot aan
+  de rotonde\, op de rotonde de 4de afslag nemen\, Diepstraat deze vloeit o
+ ver in de Steenweg op Brussel\, 50 m. voorbij het eerste kruispunt met ver
+ keerslichten\, links van de steenweg\, bevindt zich het stadium (parking)\
+ n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.9077704;4.3065753
+LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
+  Wemmel\, Belgique
+ORGANIZER;CN="Vermeerbergen D.";ROLE=Secrétaire:MAILTO:daanvermeerbergen@
+ hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J22: JETTOISE (AMICALE) vs CHOULE AUDERGHEM (Eq. 6)
+DTSTART;VALUE=DATE-TIME:20240323T143000Z
+DTEND;VALUE=DATE-TIME:20240323T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6D_22_347_517
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Bleu et blanc\nCouleur principale équipe exterieur
+ e: Blanc\n\nContact équipe domicile: Pogradja  A. (0478.37.94.22 - avnipo
+ gradja@gmail.com)\n\nAccès voiture : Direction cimetière de Jette\, ensu
+ ite prendre la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, ave
+ nue J.J. Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces 
+ infos sur http://www.abssa.be/
+GEO:50.8907643;4.3211209
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
+ Belgique
+ORGANIZER;CN="Pogradja  A.";ROLE=Secrétaire:MAILTO:avnipogradja@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J25: JETTOISE (AMICALE) vs BRITISH UNITED (Eq. 6)
+DTSTART;VALUE=DATE-TIME:20240406T133000Z
+DTEND;VALUE=DATE-TIME:20240406T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6D_25_347_132
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Bleu et blanc\nCouleur principale équipe exterieur
+ e: Bleu\n\nContact équipe domicile: Pogradja  A. (0478.37.94.22 - avnipog
+ radja@gmail.com)\n\nAccès voiture : Direction cimetière de Jette\, ensui
+ te prendre la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, aven
+ ue J.J. Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces i
+ nfos sur http://www.abssa.be/
+GEO:50.8907643;4.3211209
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
+ Belgique
+ORGANIZER;CN="Pogradja  A.";ROLE=Secrétaire:MAILTO:avnipogradja@gmail.com
 END:VEVENT
 END:VCALENDAR

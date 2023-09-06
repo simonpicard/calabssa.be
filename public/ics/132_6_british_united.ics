@@ -1,309 +1,505 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:fd372640-6698-4982-b8df-a48f5e15a357
-X-WR-CALDESC:Les matches de BRITISH UNITED (eq. 6) en ABSSA.
-X-WR-CALNAME:ABSSA - BRITISH UNITED (eq. 6) - 132
-X-WR-TIMEZONE:Europe/Brussels
+PRODID:132_6_british_united
+X-WR-CALDESC:Les matches du club BRITISH UNITED (equipe 6) en ABSSA.
+X-WR-CALNAME:ABSSA: BRITISH UNITED (eq. 6)
 BEGIN:VEVENT
-SUMMARY:ABSSA D6D J2: BRITISH UNITED (Eq. 6) vs CHENOIS SC (Eq. 3)
-DTSTART:20220910T130000Z
-DTEND:20220910T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:4b3eedc2-56c1-4dff-8853-e8407ce86a20
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Rouge et noir\n\nContact 
- équipe domicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Auto
- route Bruxelles-Anvers (E19) sortie Mechelen-Noord (n° 9) En arrivant dan
- s le centre\, suivre la direction "Heist-op-den-Berg" Aller tout droit et 
- passer le viaduc du chemin de fer. Après 1 km. suivre les flèches "De Ne
- kker". Garer les voitures à l'extérieur du complexe. IL FAUT COMPTER ENV
- . 10 min. à pied jusqu'au terrain.
-GEO:51.0216563;4.5020273
-LOCATION:SPORTPARK DE NEKKER\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
- ue
-ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
+SUMMARY:ABSSA D6D J10: OMNISPORT BIERGHES (Eq. 2) vs BRITISH UNITED (Eq. 6
+ )
+DTSTART;VALUE=DATE-TIME:20230902T133000Z
+DTEND;VALUE=DATE-TIME:20230902T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_6D_10_455_132
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B02\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bl
+ eu\n\nContact équipe domicile: Barbe L. (0495.21.74.14 - omnisportbierghe
+ s1995@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Charleroi (E19)\,
+  prendre la sortie Halle-Tournai-Lille (n° 21) pour rejoindre l'autoroute
+  Tournai-Lille\, ancienne route A8 (E429). Prendre la sortie Rebecq-Quenas
+ t (n° 24). En bas de la sortie\, prendre à droite\, direction Bierghes. 
+ Rouler tout droit jusqu'au premier feu rouge. Tourner à droite en directi
+ on de Halle\, ensuite la deuxième rue à droite (rue du Sartiau)\, ensuit
+ e à gauche. Le terrain se trouve à 300 m.\n\nVérifiez toujours ces info
+ s sur http://www.abssa.be/
+GEO:50.6957846;4.129257
+LOCATION:Rue du Sartiau 3B\, 1430 Bierghes-Rebecq\, Belgique
+ORGANIZER;CN="Barbe L.";ROLE=Secrétaire:MAILTO:omnisportbierghes1995@gmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6D J12: STRING PENELOPE (Eq. 4) vs BRITISH UNITED (Eq. 6)
-DTSTART:20221126T150000Z
-DTEND:20221126T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:27d2c835-0dcc-496d-9903-6b63fdc3ca29
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Orange\nCouleur principale équipe extérieur: Bleu\n\nContact équipe
-  domicile: COLLIGNON T. (0474.89.84.20)\n\nAccès voiture : Au départ de 
- Bruxelles\, prendre l'autoroute E411 en direction de Namur. Prendre la sor
- tie  Wavre ( n° 6) ensuite à droite la N238 en direction d'Ottignies. Pr
- endre la sortie Ottignies/Louvain-La-Neuve (N237) et suivre la direction O
- ttignies. Passer sous les 2 ponts du chemin de fer et\, au feu de signalis
- ation\, continuer tout droit. Au feu suivant\, toujours tout droit par l'a
- venue des Combattants. Franchir le passage protégé pour piétons (feu cl
- ignotant) et au feu de signalisation suivant\, prendre à droite direction
-  Ceroux-Mousty par la rue des Coquerées. Le terrain se trouve sur la droi
- te à env. 400 m. Au n° 50A \, panneau "Coca-Cola" l'entrée du centre sp
- ortif.
+SUMMARY:ABSSA D6D J1: BRITISH UNITED (Eq. 6) vs NIVELLOIS-ACLOT BS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20230909T120000Z
+DTEND;VALUE=DATE-TIME:20230909T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_6D_1_132_503
+DESCRIPTION:Terrain synthétique: non\nCode terrain: M02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge 
+ et noir\n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gill
+ esvanderseypen@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Anvers (
+ E19) sortie Mechelen-Noord (n° 9) En arrivant dans le centre\, suivre la 
+ direction "Heist-op-den-Berg" Aller tout droit et passer le viaduc du chem
+ in de fer. Après 1 km. suivre les flèches "De Nekker". Garer les voiture
+ s à l'extérieur du complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'
+ au terrain.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:51.0254354;4.503786799999999
+LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
+ ue
+ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
+ gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J2: AEMA VETERANS vs BRITISH UNITED (Eq. 6)
+DTSTART;VALUE=DATE-TIME:20230916T113000Z
+DTEND;VALUE=DATE-TIME:20230916T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_6D_2_427_132
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
+ pale équipe domicile: Jaune et bleu\nCouleur principale équipe exterieur
+ e: Bleu\n\nContact équipe domicile: Van Ingelgom J. (0475.36.44.88 - vani
+ ngelgom_w_j@hotmail.com)\n\nAccès voiture : Via la chaussée de Mons jusq
+ u'à Veeweyde (carrefour Fr. Van Kalken). Prendre à droite le boulevard  
+ A. Briand jusqu'à la Place Verdi\, puis le Bld. Théo Lambert.\n\nVérifi
+ ez toujours ces infos sur http://www.abssa.be/
+GEO:50.827564;4.2952993
+LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Van Ingelgom J.";ROLE=Secrétaire:MAILTO:vaningelgom_w_j@hot
+ mail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J4: MIREILLE WEMMEL (Eq. 2) vs BRITISH UNITED (Eq. 6)
+DTSTART;VALUE=DATE-TIME:20230930T120000Z
+DTEND;VALUE=DATE-TIME:20230930T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_6D_4_93_132
+DESCRIPTION:Terrain synthétique: non\nCode terrain: W16\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Vermeerbergen D. (0497.31.76.07 - daanvermeerb
+ ergen@hotmail.com)\n\nAccès voiture : Ring RO\, afrit Wemmel-Merchtem (n
+ ° 9)\, richting Merchtem volgen via de Is. Meyskensstraat tot aan de roto
+ nde\, op de rotonde de 4de afslag nemen\, Diepstraat deze vloeit over in d
+ e Steenweg op Brussel\, 50 m. voorbij het eerste kruispunt met verkeerslic
+ hten\, links van de steenweg\, bevindt zich het stadium (parking)\n\nVéri
+ fiez toujours ces infos sur http://www.abssa.be/
+GEO:50.9077704;4.3065753
+LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
+  Wemmel\, Belgique
+ORGANIZER;CN="Vermeerbergen D.";ROLE=Secrétaire:MAILTO:daanvermeerbergen@
+ hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J5: BRITISH UNITED (Eq. 6) vs LA LORRAINE-MTM.R (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20231007T120000Z
+DTEND;VALUE=DATE-TIME:20231007T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_6D_5_132_44
+DESCRIPTION:Terrain synthétique: non\nCode terrain: M02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gillesvanders
+ eypen@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Anvers (E19) sort
+ ie Mechelen-Noord (n° 9) En arrivant dans le centre\, suivre la direction
+  "Heist-op-den-Berg" Aller tout droit et passer le viaduc du chemin de fer
+ . Après 1 km. suivre les flèches "De Nekker". Garer les voitures à l'ex
+ térieur du complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terrai
+ n.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:51.0254354;4.503786799999999
+LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
+ ue
+ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
+ gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J6: CHOULE AUDERGHEM (Eq. 6) vs BRITISH UNITED (Eq. 6)
+DTSTART;VALUE=DATE-TIME:20231014T120000Z
+DTEND;VALUE=DATE-TIME:20231014T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_6D_6_517_132
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Vandenplas D. (0476.54.48.01 - dav_54@hotmail
+ .com)\n\nAccès voiture : En venant de Bruxelles par la chaussée de Wavre
+ \, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ban
+ de de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADEP
+ S\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le te
+ rrain se trouve à 200 m. Le stade est fléché.\n\nVérifiez toujours ces
+  infos sur http://www.abssa.be/
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J8: ENTENTE  RACB (Eq. 2) vs BRITISH UNITED (Eq. 6)
+DTSTART;VALUE=DATE-TIME:20231021T120000Z
+DTEND;VALUE=DATE-TIME:20231021T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_6D_8_2_132
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Dath D. (0473.47.15.41 - daniel.dath@hotmail.
+ com)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\, vers Ned
+ er-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-poi
+ nt\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Vert
+ \, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa.
+ be/
+GEO:50.89983369999999;4.3936101
+LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
+ORGANIZER;CN="Dath D.";ROLE=Secrétaire:MAILTO:daniel.dath@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J24: STRING PENELOPE (Eq. 3) vs BRITISH UNITED (Eq. 6)
+DTSTART;VALUE=DATE-TIME:20231028T130000Z
+DTEND;VALUE=DATE-TIME:20231028T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_6D_24_181_132
+DESCRIPTION:Terrain synthétique: non\nCode terrain: O04\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Bleu
+ \n\nContact équipe domicile: Collignon T. (0474.89.84.20 - thom.collignon
+ @gmail.com)\n\nAccès voiture : Au départ de Bruxelles\, prendre l'autoro
+ ute E411 en direction de Namur. Prendre la sortie  Wavre ( n° 6) ensuite 
+ à droite la N238 en direction d'Ottignies. Prendre la sortie Ottignies/Lo
+ uvain-La-Neuve (N237) et suivre la direction Ottignies. Passer sous les 2 
+ ponts du chemin de fer et\, au feu de signalisation\, continuer tout droit
+ . Au feu suivant\, toujours tout droit par l'avenue des Combattants. Franc
+ hir le passage protégé pour piétons (feu clignotant) et au feu de signa
+ lisation suivant\, prendre à droite direction Ceroux-Mousty par la rue de
+ s Coquerées. Le terrain se trouve sur la droite à env. 400 m. Au n° 50A
+  \, panneau "Coca-Cola" l'entrée du centre sportif.\n\nVérifiez toujours
+  ces infos sur http://www.abssa.be/
 GEO:50.6630401;4.5569959
-LOCATION:CENTRE SPORTIF DES COQUEREES\, Rue des Coquerées\, 50A\, 1341 Ot
- tignies-Ceroux-Mousty\, Belgique
-ORGANIZER:MAILTO:thom.collignon@gmail.com
+LOCATION:Centre Sportif des Coquerees\, Rue des Coquerées 50A\, 1341 Otti
+ gnies-Ceroux-Mousty\, Belgique
+ORGANIZER;CN="Collignon T.";ROLE=Secrétaire:MAILTO:thom.collignon@gmail.c
+ om
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6D J13: CHENOIS SC (Eq. 3) vs BRITISH UNITED (Eq. 6)
-DTSTART:20221203T150000Z
-DTEND:20221203T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:375c8a13-2890-4310-9351-a1d997fee931
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge et noir\nCouleur principale équipe extérieur: Bleu\n\nContact 
- équipe domicile: VERSMISSEN P. (0495.59.61.77)\n\nAccès voiture : Venant
-  d'Uccle\, prendre la chaussée de Waterloo\, ensuite la chaussée de Brux
- elles\, continuer jusqu'à la place E. Vandevelde (intersection de la chau
- ssée de Bruxelles avec la chaussée de Tervuren à Joli-Bois). Au feu de 
- signalisation prendre à droite la chaussée Bara. Le terrain se trouve à
-  droite à +/- 500 m.
-GEO:50.701676;4.397567
-LOCATION:JOLI-BOIS\, Chemin des Noces\, 87\, 1410 Waterloo\, Belgique
-ORGANIZER:MAILTO:sc.chenois@waterloo.eu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6D J14: BRITISH UNITED (Eq. 6) vs JETTOISE (AMICALE)
-DTSTART:20221210T130000Z
-DTEND:20221210T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:ab406adb-f01c-4d17-a8a9-2fce69e393cd
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Bleu et blanc\n\nContact 
- équipe domicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Auto
- route Bruxelles-Anvers (E19) sortie Mechelen-Noord (n° 9) En arrivant dan
- s le centre\, suivre la direction "Heist-op-den-Berg" Aller tout droit et 
- passer le viaduc du chemin de fer. Après 1 km. suivre les flèches "De Ne
- kker". Garer les voitures à l'extérieur du complexe. IL FAUT COMPTER ENV
- . 10 min. à pied jusqu'au terrain.
-GEO:51.0216563;4.5020273
-LOCATION:SPORTPARK DE NEKKER\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
+SUMMARY:ABSSA D6D J7: BRITISH UNITED (Eq. 6) vs HIGGINS-PUMAS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20231104T130000Z
+DTEND;VALUE=DATE-TIME:20231104T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_6D_7_132_416
+DESCRIPTION:Terrain synthétique: non\nCode terrain: M02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rayé 
+ Bleu et Blanc\n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 
+ - gillesvanderseypen@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-An
+ vers (E19) sortie Mechelen-Noord (n° 9) En arrivant dans le centre\, suiv
+ re la direction "Heist-op-den-Berg" Aller tout droit et passer le viaduc d
+ u chemin de fer. Après 1 km. suivre les flèches "De Nekker". Garer les v
+ oitures à l'extérieur du complexe. IL FAUT COMPTER ENV. 10 min. à pied 
+ jusqu'au terrain.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:51.0254354;4.503786799999999
+LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
  ue
-ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
+ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
+ gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6D J15: CHIEFS WSL (Eq. 4) vs BRITISH UNITED (Eq. 6)
-DTSTART:20221217T110000Z
-DTEND:20221217T122500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:eac65ea1-5cdf-4783-9e40-0c5e75d79adb
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe extérieur: Bleu\n\nContact équipe 
- domicile: DE SAN G. (0477.42.23.84)\n\nAccès voiture : Boulevard de la Wo
- luwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit P
- ont (terminus bus 28). Avant ce pont le terrain se trouve à gauche.
-GEO:50.8423054;4.445628699999999
-LOCATION:STADE COMMUNAL - FALLON\, Avenue J.F. De Becker\, 60\, 1200 Woluw
- é-Saint-Lambert\, Belgique
-ORGANIZER:MAILTO:guy@desan.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6D J16: CORNAC UNITED FC (Eq. 2) vs BRITISH UNITED (Eq. 6)
-DTSTART:20230107T123000Z
-DTEND:20230107T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:fa23fa9f-9506-450f-9966-af2264fa4f64
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe extérieur: Bleu\n\nContact équipe 
- domicile: DENAYER M. (0476.53.14.48)\n\nAccès voiture : Par le Ring Ouest
- \, direction Paris\, sortie Westland Shopping Center (n° 14) continuer to
- ut droit\, remonter vers le Ring et prendre à droite pour sortir vers Itt
- erbeek. Prendre l'avenue d'Itterbeek au parc d'Anderlecht\, passer le ring
- \, reste 2 km. Le terrain se trouve à gauche\, entre l'école Van Belle e
- t Veeweyde.
-GEO:50.8344692;4.2821012
-LOCATION:BON AIR\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:marcdenayermd@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6D J17: BRITISH UNITED (Eq. 6) vs ENTENTE  RACB (Eq. 2)
-DTSTART:20230114T130000Z
-DTEND:20230114T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:0b1f92bd-3cac-47f9-b91a-1b298ed6c1a4
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Rouge\n\nContact équipe 
- domicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Autoroute Br
- uxelles-Anvers (E19) sortie Mechelen-Noord (n° 9) En arrivant dans le cen
- tre\, suivre la direction "Heist-op-den-Berg" Aller tout droit et passer l
- e viaduc du chemin de fer. Après 1 km. suivre les flèches "De Nekker". G
- arer les voitures à l'extérieur du complexe. IL FAUT COMPTER ENV. 10 min
- . à pied jusqu'au terrain.
-GEO:51.0216563;4.5020273
-LOCATION:SPORTPARK DE NEKKER\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
+SUMMARY:ABSSA D6D J9: BRITISH UNITED (Eq. 6) vs PANGLOSS FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20231118T130000Z
+DTEND;VALUE=DATE-TIME:20231118T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_6D_9_132_123
+DESCRIPTION:Terrain synthétique: non\nCode terrain: M02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gillesvanders
+ eypen@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Anvers (E19) sort
+ ie Mechelen-Noord (n° 9) En arrivant dans le centre\, suivre la direction
+  "Heist-op-den-Berg" Aller tout droit et passer le viaduc du chemin de fer
+ . Après 1 km. suivre les flèches "De Nekker". Garer les voitures à l'ex
+ térieur du complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terrai
+ n.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:51.0254354;4.503786799999999
+LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
  ue
-ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
+ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
+ gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6D J18: MIREILLE WEMMEL (Eq. 2) vs BRITISH UNITED (Eq. 6)
-DTSTART:20230121T140000Z
-DTEND:20230121T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:a3acf850-ad63-4e32-afbc-46d7b24e4bd6
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe extérieur: Bleu\n\nContact équipe d
- omicile: VERMEERBERGEN D. (0497.31.76.07)\n\nAccès voiture : Ring RO\, af
- rit Wemmel-Merchtem (n° 9)\, richting Merchtem volgen via de Is. Meyskens
- straat tot aan de rotonde\, op de rotonde de 4de afslag nemen\, Diepstraat
-  deze vloeit over in de Steenweg op Brussel\, 50 m. voorbij het eerste kru
- ispunt met verkeerslichten\, links van de steenweg\, bevindt zich het stad
- ium (parking)
-GEO:50.900999;4.4855744
-LOCATION:STADIUM (STADE) VAN LANGENHOVE\, Steenweg naar Brussel\, 111\, 17
- 80 Wemmel\, Belgique
-ORGANIZER:MAILTO:daanvermeerbergen@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6D J19: BRITISH UNITED (Eq. 6) vs LORRAINE (LA) RFC (Eq. 3)
-DTSTART:20230128T130000Z
-DTEND:20230128T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:80196ee0-af12-4950-b899-cf9623cc05c2
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Bleu\n\nContact équipe d
- omicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Autoroute Bru
- xelles-Anvers (E19) sortie Mechelen-Noord (n° 9) En arrivant dans le cent
- re\, suivre la direction "Heist-op-den-Berg" Aller tout droit et passer le
-  viaduc du chemin de fer. Après 1 km. suivre les flèches "De Nekker". Ga
- rer les voitures à l'extérieur du complexe. IL FAUT COMPTER ENV. 10 min.
-  à pied jusqu'au terrain.
-GEO:51.0216563;4.5020273
-LOCATION:SPORTPARK DE NEKKER\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
+SUMMARY:ABSSA D6D J12: BRITISH UNITED (Eq. 6) vs JETTOISE (AMICALE)
+DTSTART;VALUE=DATE-TIME:20231125T130000Z
+DTEND;VALUE=DATE-TIME:20231125T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_6D_12_132_347
+DESCRIPTION:Terrain synthétique: non\nCode terrain: M02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu e
+ t blanc\n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gill
+ esvanderseypen@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Anvers (
+ E19) sortie Mechelen-Noord (n° 9) En arrivant dans le centre\, suivre la 
+ direction "Heist-op-den-Berg" Aller tout droit et passer le viaduc du chem
+ in de fer. Après 1 km. suivre les flèches "De Nekker". Garer les voiture
+ s à l'extérieur du complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'
+ au terrain.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:51.0254354;4.503786799999999
+LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
  ue
-ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
+ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
+ gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6D J20: IRLANDE FC (Eq. 6) vs BRITISH UNITED (Eq. 6)
-DTSTART:20230204T153000Z
-DTEND:20230204T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:fcc48a10-45bd-47e7-a9f6-31c33640fc25
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe extérieur: Bleu\n\nContact équipe d
- omicile: BRIDOUX J.F. (0455.12.12.65)\n\nAccès voiture : Chaussée de Lou
- vain jusqu'à Nossegem\, au premier croisement prendre à gauche la \nMech
- elsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autor
- oute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à
-  gauche la Mechelsesteenweg\, traverser la chaussée de Louvain\, et suivr
- e comme ci-avant.
-GEO:50.8877772;4.5090761
-LOCATION:RADAR VLIEGHAVEN\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER:MAILTO:fci.secretary.mens@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6D J21: BRITISH UNITED (Eq. 6) vs HIGGINS (Eq. 3)
-DTSTART:20230211T130000Z
-DTEND:20230211T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:b285c498-7d56-4cea-a75c-52869e47a72d
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Rayé Bleu et Blanc\n\nCo
- ntact équipe domicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture 
- : Autoroute Bruxelles-Anvers (E19) sortie Mechelen-Noord (n° 9) En arriva
- nt dans le centre\, suivre la direction "Heist-op-den-Berg" Aller tout dro
- it et passer le viaduc du chemin de fer. Après 1 km. suivre les flèches 
- "De Nekker". Garer les voitures à l'extérieur du complexe. IL FAUT COMPT
- ER ENV. 10 min. à pied jusqu'au terrain.
-GEO:51.0216563;4.5020273
-LOCATION:SPORTPARK DE NEKKER\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
+SUMMARY:ABSSA D6D J11: BRITISH UNITED (Eq. 6) vs STRING PENELOPE (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20231202T130000Z
+DTEND;VALUE=DATE-TIME:20231202T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_6D_11_132_181
+DESCRIPTION:Terrain synthétique: non\nCode terrain: M02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Orange
+ \n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gillesvande
+ rseypen@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Anvers (E19) so
+ rtie Mechelen-Noord (n° 9) En arrivant dans le centre\, suivre la directi
+ on "Heist-op-den-Berg" Aller tout droit et passer le viaduc du chemin de f
+ er. Après 1 km. suivre les flèches "De Nekker". Garer les voitures à l'
+ extérieur du complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terr
+ ain.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:51.0254354;4.503786799999999
+LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
  ue
-ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
+ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
+ gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6D J22: BRITISH UNITED (Eq. 6) vs STRING PENELOPE (Eq. 4)
-DTSTART:20230225T130000Z
-DTEND:20230225T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:55fad70d-c489-48d0-a318-7d4573f8c4a9
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Orange\n\nContact équipe
-  domicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Autoroute B
- ruxelles-Anvers (E19) sortie Mechelen-Noord (n° 9) En arrivant dans le ce
- ntre\, suivre la direction "Heist-op-den-Berg" Aller tout droit et passer 
- le viaduc du chemin de fer. Après 1 km. suivre les flèches "De Nekker". 
- Garer les voitures à l'extérieur du complexe. IL FAUT COMPTER ENV. 10 mi
- n. à pied jusqu'au terrain.
-GEO:51.0216563;4.5020273
-LOCATION:SPORTPARK DE NEKKER\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
+SUMMARY:ABSSA D6D J13: ANDERLECHT US vs BRITISH UNITED (Eq. 6)
+DTSTART;VALUE=DATE-TIME:20231209T130000Z
+DTEND;VALUE=DATE-TIME:20231209T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_6D_13_280_132
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Mauve\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Sadin D. (0477.76.34.69 - usanderlecht@sadinf
+ oot.net)\n\nAccès voiture : En venant de la Route de Lennik (Citroën) ou
+  de la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'And
+ erlecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la 
+ sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe
+  et des terrains se situe à +/- 500 m. sur la gauche.\n\nVérifiez toujou
+ rs ces infos sur http://www.abssa.be/
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Sadin D.";ROLE=Secrétaire:MAILTO:usanderlecht@sadinfoot.net
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J14: NIVELLOIS-ACLOT BS (Eq. 2) vs BRITISH UNITED (Eq. 6
+ )
+DTSTART;VALUE=DATE-TIME:20240113T120000Z
+DTEND;VALUE=DATE-TIME:20240113T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_6D_14_503_132
+DESCRIPTION:Terrain synthétique: non\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
+ e: Bleu\n\nContact équipe domicile: Draux N. (0472.40.01.22 - ni.draux@gm
+ ail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoroute Brux
+ elles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le pon
+ t de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au rond-p
+ oint (Shopping Center)\, tourner à droite en direction de Wavre (petit ri
+ ng de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point du S
+ hopping Center)\, tourner à gauche \, rue de l'Industrie et pénétrer da
+ ns le zoning. Au bout de la rue\, avant le feu de signalisation\, tourner 
+ à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérifiez to
+ ujours ces infos sur http://www.abssa.be/
+GEO:50.5963436;4.3564187
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Draux N.";ROLE=Secrétaire:MAILTO:ni.draux@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J15: BRITISH UNITED (Eq. 6) vs AEMA VETERANS
+DTSTART;VALUE=DATE-TIME:20240120T130000Z
+DTEND;VALUE=DATE-TIME:20240120T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_6D_15_132_427
+DESCRIPTION:Terrain synthétique: non\nCode terrain: M02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Jaune 
+ et bleu\n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gill
+ esvanderseypen@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Anvers (
+ E19) sortie Mechelen-Noord (n° 9) En arrivant dans le centre\, suivre la 
+ direction "Heist-op-den-Berg" Aller tout droit et passer le viaduc du chem
+ in de fer. Après 1 km. suivre les flèches "De Nekker". Garer les voiture
+ s à l'extérieur du complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'
+ au terrain.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:51.0254354;4.503786799999999
+LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
  ue
-ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
+ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
+ gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J17: BRITISH UNITED (Eq. 6) vs MIREILLE WEMMEL (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240203T130000Z
+DTEND;VALUE=DATE-TIME:20240203T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_6D_17_132_93
+DESCRIPTION:Terrain synthétique: non\nCode terrain: M02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gillesvanders
+ eypen@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Anvers (E19) sort
+ ie Mechelen-Noord (n° 9) En arrivant dans le centre\, suivre la direction
+  "Heist-op-den-Berg" Aller tout droit et passer le viaduc du chemin de fer
+ . Après 1 km. suivre les flèches "De Nekker". Garer les voitures à l'ex
+ térieur du complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terrai
+ n.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:51.0254354;4.503786799999999
+LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
+ ue
+ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
+ gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J18: LA LORRAINE-MTM.R (Eq. 3) vs BRITISH UNITED (Eq. 6)
+DTSTART;VALUE=DATE-TIME:20240210T130000Z
+DTEND;VALUE=DATE-TIME:20240210T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_6D_18_44_132
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Degimbe M. (0478.53.63.56 - lalorrainefc@gmail
+ .com)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Pa
+ sser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur ht
+ tp://www.abssa.be/
+GEO:50.7282426;4.5537189
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="Degimbe M.";ROLE=Secrétaire:MAILTO:lalorrainefc@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J19: BRITISH UNITED (Eq. 6) vs CHOULE AUDERGHEM (Eq. 6)
+DTSTART;VALUE=DATE-TIME:20240217T130000Z
+DTEND;VALUE=DATE-TIME:20240217T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_6D_19_132_517
+DESCRIPTION:Terrain synthétique: non\nCode terrain: M02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gillesvander
+ seypen@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Anvers (E19) sor
+ tie Mechelen-Noord (n° 9) En arrivant dans le centre\, suivre la directio
+ n "Heist-op-den-Berg" Aller tout droit et passer le viaduc du chemin de fe
+ r. Après 1 km. suivre les flèches "De Nekker". Garer les voitures à l'e
+ xtérieur du complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terra
+ in.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:51.0254354;4.503786799999999
+LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
+ ue
+ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
+ gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J26: BRITISH UNITED (Eq. 6) vs ANDERLECHT US
+DTSTART;VALUE=DATE-TIME:20240224T130000Z
+DTEND;VALUE=DATE-TIME:20240224T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_6D_26_132_280
+DESCRIPTION:Terrain synthétique: non\nCode terrain: M02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Mauve\
+ n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gillesvander
+ seypen@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Anvers (E19) sor
+ tie Mechelen-Noord (n° 9) En arrivant dans le centre\, suivre la directio
+ n "Heist-op-den-Berg" Aller tout droit et passer le viaduc du chemin de fe
+ r. Après 1 km. suivre les flèches "De Nekker". Garer les voitures à l'e
+ xtérieur du complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terra
+ in.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:51.0254354;4.503786799999999
+LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
+ ue
+ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
+ gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6D J23: BRITISH UNITED (Eq. 6) vs OMNISPORT BIERGHES (Eq. 2
  )
-DTSTART:20230304T130000Z
-DTEND:20230304T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:2a17b61c-d5de-41fd-bd9c-5890a98695be
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Noir\n\nContact équipe d
- omicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Autoroute Bru
- xelles-Anvers (E19) sortie Mechelen-Noord (n° 9) En arrivant dans le cent
- re\, suivre la direction "Heist-op-den-Berg" Aller tout droit et passer le
-  viaduc du chemin de fer. Après 1 km. suivre les flèches "De Nekker". Ga
- rer les voitures à l'extérieur du complexe. IL FAUT COMPTER ENV. 10 min.
-  à pied jusqu'au terrain.
-GEO:51.0216563;4.5020273
-LOCATION:SPORTPARK DE NEKKER\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
+DTSTART;VALUE=DATE-TIME:20240302T130000Z
+DTEND;VALUE=DATE-TIME:20240302T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_6D_23_132_455
+DESCRIPTION:Terrain synthétique: non\nCode terrain: M02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bordea
+ ux\n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gillesvan
+ derseypen@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Anvers (E19) 
+ sortie Mechelen-Noord (n° 9) En arrivant dans le centre\, suivre la direc
+ tion "Heist-op-den-Berg" Aller tout droit et passer le viaduc du chemin de
+  fer. Après 1 km. suivre les flèches "De Nekker". Garer les voitures à 
+ l'extérieur du complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au te
+ rrain.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:51.0254354;4.503786799999999
+LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
  ue
-ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
+ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
+ gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6D J24: POSTBOYS FC (Eq. 2) vs BRITISH UNITED (Eq. 6)
-DTSTART:20230311T153000Z
-DTEND:20230311T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:d7fea856-d48b-4c76-9d66-e6d17d65faba
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge et noir\nCouleur principale équipe extérieur: Bleu\n\nContact 
- équipe domicile: BURQUEL J-M. (0498.05.90.57)\n\nAccès voiture : Directi
- on cimetière de Jette\, ensuite prendre la rue du "Sacré-Coeur" jusqu'au
-  bout\, puis tout droit\, avenue J.J. Crocq. Le terrain se trouve à gauch
- e.
-GEO:50.8868564;4.3286963
-LOCATION:COMPLEXE SPORTIF DU HEYMBOSCH\, Avenue J.J. Crocq\, 1090 Jette\, 
+SUMMARY:ABSSA D6D J20: HIGGINS-PUMAS (Eq. 3) vs BRITISH UNITED (Eq. 6)
+DTSTART;VALUE=DATE-TIME:20240309T130000Z
+DTEND;VALUE=DATE-TIME:20240309T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_6D_20_416_132
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
+ erieure: Bleu\n\nContact équipe domicile: De Biolley Ph. (0477.23.31.25 -
+  philippe.debiolley@gmail.com)\n\nAccès voiture : En venant de Bruxelles 
+ par la chaussée de Wavre\, rejoindre le du début de l'autoroute Bruxelle
+ s-Namur\, utiliser la bande de droite pendant +/- 200 m. et descendre deva
+ nt le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (en desso
+ us de l'autoroute). Le terrain se trouve à 200 m. Le stade est fléché.\
+ n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="De Biolley Ph.";ROLE=Secrétaire:MAILTO:philippe.debiolley@g
+ mail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J21: BRITISH UNITED (Eq. 6) vs ENTENTE  RACB (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240316T130000Z
+DTEND;VALUE=DATE-TIME:20240316T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_6D_21_132_2
+DESCRIPTION:Terrain synthétique: non\nCode terrain: M02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge\
+ n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gillesvander
+ seypen@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Anvers (E19) sor
+ tie Mechelen-Noord (n° 9) En arrivant dans le centre\, suivre la directio
+ n "Heist-op-den-Berg" Aller tout droit et passer le viaduc du chemin de fe
+ r. Après 1 km. suivre les flèches "De Nekker". Garer les voitures à l'e
+ xtérieur du complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terra
+ in.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:51.0254354;4.503786799999999
+LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
+ ue
+ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
+ gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J22: PANGLOSS FC (Eq. 2) vs BRITISH UNITED (Eq. 6)
+DTSTART;VALUE=DATE-TIME:20240323T143000Z
+DTEND;VALUE=DATE-TIME:20240323T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_6D_22_123_132
+DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: De Paduwa P. (0475.67.06.50 - p.depaduwa@gmail
+ .com)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute Brux
+ elles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc pr
+ endre à droite\, l'avenue des Anciens Combattants. Juste après le carref
+ our avec des feux de signalisation prendre à droite vers la Place de la C
+ hapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terra
+ in se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces infos sur 
+ http://www.abssa.be/
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="De Paduwa P.";ROLE=Secrétaire:MAILTO:p.depaduwa@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J25: JETTOISE (AMICALE) vs BRITISH UNITED (Eq. 6)
+DTSTART;VALUE=DATE-TIME:20240406T133000Z
+DTEND;VALUE=DATE-TIME:20240406T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_6D_25_347_132
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Bleu et blanc\nCouleur principale équipe exterieur
+ e: Bleu\n\nContact équipe domicile: Pogradja  A. (0478.37.94.22 - avnipog
+ radja@gmail.com)\n\nAccès voiture : Direction cimetière de Jette\, ensui
+ te prendre la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, aven
+ ue J.J. Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces i
+ nfos sur http://www.abssa.be/
+GEO:50.8907643;4.3211209
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
  Belgique
-ORGANIZER:MAILTO:secretariat@postboys.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6D J25: CHENOIS (ESPER) (Eq. 2) vs BRITISH UNITED (Eq. 6)
-DTSTART:20230318T150000Z
-DTEND:20230318T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:77b17296-be74-4d6b-acb1-09af509f4c24
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc et rouge\nCouleur principale équipe extérieur: Bleu\n\nContact
-  équipe domicile: GIOFFREDI G. (0474.24.92.27)\n\nAccès voiture : Venant
-  d'Uccle\, prendre la chaussée de Waterloo\, ensuite la chaussée de Brux
- elles\, continuer jusqu'à la place E. Vandevelde (intersection de la chau
- ssée de Bruxelles avec la chaussée de Tervuren à Joli-Bois). Au feu de 
- signalisation prendre à droite la chaussée Bara. Le terrain se trouve à
-  droite à +/- 500 m.
-GEO:50.701676;4.397567
-LOCATION:JOLI-BOIS\, Chemin des Noces\, 87\, 1410 Waterloo\, Belgique
-ORGANIZER:MAILTO:412fcec@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6D J26: BRITISH UNITED (Eq. 6) vs CHIEFS WSL (Eq. 4)
-DTSTART:20230325T130000Z
-DTEND:20230325T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:2ac3855d-540e-4250-9f1c-8a7481c7011e
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Blanc\n\nContact équipe 
- domicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Autoroute Br
- uxelles-Anvers (E19) sortie Mechelen-Noord (n° 9) En arrivant dans le cen
- tre\, suivre la direction "Heist-op-den-Berg" Aller tout droit et passer l
- e viaduc du chemin de fer. Après 1 km. suivre les flèches "De Nekker". G
- arer les voitures à l'extérieur du complexe. IL FAUT COMPTER ENV. 10 min
- . à pied jusqu'au terrain.
-GEO:51.0216563;4.5020273
-LOCATION:SPORTPARK DE NEKKER\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
- ue
-ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
+ORGANIZER;CN="Pogradja  A.";ROLE=Secrétaire:MAILTO:avnipogradja@gmail.com
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,122 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:abbsa_j_25_d_6c
+X-WR-CALDESC:Les matches de la journée 25 en divion 6C d'ABSSA.
+X-WR-CALNAME:D6C Journée 25
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J25: ETINCELLE FC (Eq. 2) vs BRUSSELS LTC (Eq. 5)
+DTSTART;VALUE=DATE-TIME:20240406T103000Z
+DTEND;VALUE=DATE-TIME:20240406T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_6C_25_35_39
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Jaune et bleu\nCouleur principale équipe exterieur
+ e: Bordeaux\n\nContact équipe domicile: Kremer N (0471.37.59.81 - nicolas
+ .kremer@gmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, apr
+ ès 300 m. en direction de Lennik\, prendre à droite.\nVenant de la chaus
+ sée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi
+ \, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. e
+ n direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.abss
+ a.be/
+GEO:50.8177358;4.2557195
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER;CN="Kremer N";ROLE=Secrétaire:MAILTO:nicolas.kremer@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J25: CHOULE AUDERGHEM (Eq. 5) vs ALIZE VETERANS FC
+DTSTART;VALUE=DATE-TIME:20240406T103000Z
+DTEND;VALUE=DATE-TIME:20240406T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_6C_25_517_395
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Jaune
+ \n\nContact équipe domicile: Vandenplas D. (0476.54.48.01 - dav_54@hotmai
+ l.com)\n\nAccès voiture : En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.\n\nVérifiez toujours ce
+ s infos sur http://www.abssa.be/
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J25: PHARMA SC (Eq. 4) vs ITT - GECKO FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240406T120000Z
+DTEND;VALUE=DATE-TIME:20240406T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_6C_25_268_92
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.dumidi@sca
+ rlet.be)\n\nAccès voiture : Au départ de la Place St. Denis à Forest pr
+ endre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue 
+ à droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à g
+ auche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée 
+ du Complexe se trouve à hauteur de City Cart\, à gauche de la route.\n\n
+ Vérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J25: BRUSSELS BRITISH R (Eq. 6) vs TOURINNOIS FC (Eq. 4)
+DTSTART;VALUE=DATE-TIME:20240406T120000Z
+DTEND;VALUE=DATE-TIME:20240406T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_6C_25_1_292
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
+ \n\nContact équipe domicile: Lachia S. (0484.27.72.64 - abssa-sec@rbbfc.o
+ rg)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Pass
+ er devant l'église\, longer l'autoroute et tourner à droite au cimetièr
+ e des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur http:
+ //www.abssa.be/
+GEO:50.7282426;4.5537189
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="Lachia S.";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J25: SAINT GEORGES RCS (Eq. 4) vs CAMPOMAIORENSE SC
+DTSTART;VALUE=DATE-TIME:20240406T120000Z
+DTEND;VALUE=DATE-TIME:20240406T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_6C_25_221_467
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W13\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Vert 
+ et blanc\n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.de
+ stin@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la ru
+ e Voot\, puis la chaussée de Stockel. Passer en dessous du petit pont et 
+ continuer la chaussée de Stockel pendant env. 500 m. Le terrain est situ
+ é sur la droite de la chaussée.\n\nVérifiez toujours ces infos sur http
+ ://www.abssa.be/
+GEO:50.8416694;4.4547837
+LOCATION:Chaussée de Stockel 376\, 1150 Woluwé-Saint-Pierre\, Belgique
+ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J25: CHENOIS SC (Eq. 3) vs IDEAL RANGERS R
+DTSTART;VALUE=DATE-TIME:20240406T130000Z
+DTEND;VALUE=DATE-TIME:20240406T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_6C_25_84_47
+DESCRIPTION:Terrain synthétique: non\nCode terrain: W02\n\nCouleur princi
+ pale équipe domicile: Noir et Rouge\nCouleur principale équipe exterieur
+ e: Orange et Noir\n\nContact équipe domicile: Versmissen P. (0495.59.61.7
+ 7 - sc.chenois@waterloo.eu)\n\nAccès voiture : Venant d'Uccle\, prendre l
+ a chaussée de Waterloo\, ensuite la chaussée de Bruxelles\, continuer ju
+ squ'à la place E. Vandevelde (intersection de la chaussée de Bruxelles a
+ vec la chaussée de Tervuren à Joli-Bois). Au feu de signalisation prendr
+ e à droite la chaussée Bara. Le terrain se trouve à droite à +/- 500 m
+ .\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.701676;4.397567
+LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
+ORGANIZER;CN="Versmissen P.";ROLE=Secrétaire:MAILTO:sc.chenois@waterloo.e
+ u
+END:VEVENT
+END:VCALENDAR

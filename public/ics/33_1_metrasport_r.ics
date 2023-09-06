@@ -1,0 +1,467 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:33_1_metrasport_r
+X-WR-CALDESC:Les matches du club METRASPORT R. (equipe 1) en ABSSA.
+X-WR-CALNAME:ABSSA: METRASPORT R. (eq. 1)
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J10: TUBIFOOT AS vs METRASPORT R.
+DTSTART;VALUE=DATE-TIME:20230902T133000Z
+DTEND;VALUE=DATE-TIME:20230902T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6A_10_451_33
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: T06\n\nCouleur princi
+ pale équipe domicile: Jaune et Rouge\nCouleur principale équipe exterieu
+ re: Rouge et Bleu\n\nContact équipe domicile: Girardo. M (0491.35.69.81 -
+  astubifoot@gmail.com)\n\nAccès voiture : •En venant de Bruxelles : Pre
+ ndre le RO en direction Mons-Bergen / Charleroi - prendre la sortie 21 et 
+ continuer sur la E429 direction Lille/Rijsel. Prendre la sortie 23 Tubize 
+ / Tubeke et continuer sur la chaussée d’Hondzocht . Passer 2  ronds poi
+ nt jusqu’à la chaussée de Bruxelles (N6)\, prendre à droite Rue de Br
+ uxelles et traverser le centre de Tubize en direction de Braine-le-Comte :
+  rue de Bruxelles et Chaussée de Mons. Aprè IPES\, prendre la première 
+ rue à gauche (rue d’Atina) suivre le panneau cimetière-parc à contain
+ er-ferme Massart.  Continuer 10 m. jusqu’au parking du cimetière\, l’
+ entrée du stade se trouve en face du parking.\n\nVérifiez toujours ces i
+ nfos sur http://www.abssa.be/
+GEO:50.683352;4.1953276
+LOCATION:Rue d'Atina \, 1480  Tubize\, Belgique
+ORGANIZER;CN="Girardo. M";ROLE=Secrétaire:MAILTO:astubifoot@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J1: IRLANDE FC (Eq. 5) vs METRASPORT R.
+DTSTART;VALUE=DATE-TIME:20230909T133000Z
+DTEND;VALUE=DATE-TIME:20230909T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6A_1_402_33
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: N04\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Rouge 
+ et Bleu\n\nContact équipe domicile: Bridoux J.F. (0455.12.12.65 - fci.sec
+ retary.mens@outlook.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à
+  Nossegem\, au premier croisement prendre à gauche la \nMechelsesteenweg.
+  Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelle
+ s-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Me
+ chelsesteenweg\, traverser la chaussée de Louvain\, et suivre comme ci-av
+ ant.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.88776559999999;4.50894
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER;CN="Bridoux J.F.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@out
+ look.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J2: METRASPORT R. vs BRITISH UNITED (Eq. 5)
+DTSTART;VALUE=DATE-TIME:20230916T120000Z
+DTEND;VALUE=DATE-TIME:20230916T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6A_2_33_132
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B07\n\nCouleur princi
+ pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
+ e: Bleu\n\nContact équipe domicile: Pirlot E. (0474.90.52.25 - emilepirlo
+ t@outlook.be)\n\nAccès voiture : Ring de Bruxelles\, Sortie Wemmel\, pren
+ dre l'Avenue Houba de Strooper\, puis la rue à gauche\, avant le bâtimen
+ t de l'URBSFA\, direction Atomium.\n\nVérifiez toujours ces infos sur htt
+ p://www.abssa.be/
+GEO:50.8933845;4.3399807
+LOCATION:Heysel - Annexe 3\, Avenue de Bouchout (Atomium)\, 1020 Bruxelles
+ \, Belgique
+ORGANIZER;CN="Pirlot E.";ROLE=Secrétaire:MAILTO:emilepirlot@outlook.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J3: METRASPORT R. vs BRUSSELS BRITISH R (Eq. 5)
+DTSTART;VALUE=DATE-TIME:20230923T120000Z
+DTEND;VALUE=DATE-TIME:20230923T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6A_3_33_1
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B07\n\nCouleur princi
+ pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
+ e: Blanc\n\nContact équipe domicile: Pirlot E. (0474.90.52.25 - emilepirl
+ ot@outlook.be)\n\nAccès voiture : Ring de Bruxelles\, Sortie Wemmel\, pre
+ ndre l'Avenue Houba de Strooper\, puis la rue à gauche\, avant le bâtime
+ nt de l'URBSFA\, direction Atomium.\n\nVérifiez toujours ces infos sur ht
+ tp://www.abssa.be/
+GEO:50.8933845;4.3399807
+LOCATION:Heysel - Annexe 3\, Avenue de Bouchout (Atomium)\, 1020 Bruxelles
+ \, Belgique
+ORGANIZER;CN="Pirlot E.";ROLE=Secrétaire:MAILTO:emilepirlot@outlook.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J4: AUDERGHEM RU vs METRASPORT R.
+DTSTART;VALUE=DATE-TIME:20230930T133000Z
+DTEND;VALUE=DATE-TIME:20230930T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6A_4_376_33
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Rouge
+  et Bleu\n\nContact équipe domicile: Van Eycke R. (0479.27.27.46 - rvaney
+ cke@biac.skynet.be)\n\nAccès voiture : En venant de Bruxelles par la chau
+ ssée de Wavre\, rejoindre le du début de l'autoroute Bruxelles-Namur\, u
+ tiliser la bande de droite pendant +/- 200 m. et descendre devant le bâti
+ ment de l'ADEPS\, puis passer par le tunnel à gauche (en dessous de l'aut
+ oroute). Le terrain se trouve à 200 m. Le stade est fléché.\n\nVérifie
+ z toujours ces infos sur http://www.abssa.be/
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="Van Eycke R.";ROLE=Secrétaire:MAILTO:rvaneycke@biac.skynet.
+ be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J5: METRASPORT R. vs JEFKE COUNTRY (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20231007T120000Z
+DTEND;VALUE=DATE-TIME:20231007T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6A_5_33_423
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B07\n\nCouleur princi
+ pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
+ e: Noir et blanc\n\nContact équipe domicile: Pirlot E. (0474.90.52.25 - e
+ milepirlot@outlook.be)\n\nAccès voiture : Ring de Bruxelles\, Sortie Wemm
+ el\, prendre l'Avenue Houba de Strooper\, puis la rue à gauche\, avant le
+  bâtiment de l'URBSFA\, direction Atomium.\n\nVérifiez toujours ces info
+ s sur http://www.abssa.be/
+GEO:50.8933845;4.3399807
+LOCATION:Heysel - Annexe 3\, Avenue de Bouchout (Atomium)\, 1020 Bruxelles
+ \, Belgique
+ORGANIZER;CN="Pirlot E.";ROLE=Secrétaire:MAILTO:emilepirlot@outlook.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J6: COIN DU BALAI FC (Eq. 2) vs METRASPORT R.
+DTSTART;VALUE=DATE-TIME:20231014T133000Z
+DTEND;VALUE=DATE-TIME:20231014T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6A_6_229_33
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
+  Rouge et Bleu\n\nContact équipe domicile: Rosenfeld J. (0485.05.40.06 - 
+ rosenfeldjean@hotmail.com)\n\nAccès voiture : A partir du square des Arch
+ iducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVér
+ ifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8059082;4.4137428
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Rosenfeld J.";ROLE=Secrétaire:MAILTO:rosenfeldjean@hotmail.
+ com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J8: J.ST-GILLOISE R. vs METRASPORT R.
+DTSTART;VALUE=DATE-TIME:20231021T120000Z
+DTEND;VALUE=DATE-TIME:20231021T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6A_8_38_33
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
+  Rouge et Bleu\n\nContact équipe domicile: Honore K. (0475.53.32.84 - ken
+ ny.honore9@gmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, a
+ près 300 m. en direction de Lennik\, prendre à droite.\nVenant de la cha
+ ussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Ver
+ di\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m.
+  en direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.ab
+ ssa.be/
+GEO:50.8177358;4.2557195
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER;CN="Honore K.";ROLE=Secrétaire:MAILTO:kenny.honore9@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J24: TOURINNOIS FC (Eq. 3) vs METRASPORT R.
+DTSTART;VALUE=DATE-TIME:20231028T113000Z
+DTEND;VALUE=DATE-TIME:20231028T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6A_24_292_33
+DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rouge
+  et Bleu\n\nContact équipe domicile: Strade P. (010.65.83.02 - stradepaul
+ @hotmail.com)\n\nAccès voiture : A partir de l'autoroute Bruxelles-Namur 
+ (E411)\, prendre la sortie  Walhain (n° 10). Au pied de la rampe d'accès
+ \, suivre la direction Walhain vers la droite et après 200 m. prendre à 
+ droite et 400 m. plus loin\, prendre à nouveau à droite. Le terrain se t
+ rouve à +/- 300 m. sur la gauche.\n\nVérifiez toujours ces infos sur htt
+ p://www.abssa.be/
+GEO:50.6414624;4.7191939
+LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
+ORGANIZER;CN="Strade P.";ROLE=Secrétaire:MAILTO:stradepaul@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J9: METRASPORT R. vs AMB. AUDERGHEM (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20231118T130000Z
+DTEND;VALUE=DATE-TIME:20231118T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6A_9_33_249
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B07\n\nCouleur princi
+ pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
+ e: Blanc rayé de Gris\n\nContact équipe domicile: Pirlot E. (0474.90.52.
+ 25 - emilepirlot@outlook.be)\n\nAccès voiture : Ring de Bruxelles\, Sorti
+ e Wemmel\, prendre l'Avenue Houba de Strooper\, puis la rue à gauche\, av
+ ant le bâtiment de l'URBSFA\, direction Atomium.\n\nVérifiez toujours ce
+ s infos sur http://www.abssa.be/
+GEO:50.8933845;4.3399807
+LOCATION:Heysel - Annexe 3\, Avenue de Bouchout (Atomium)\, 1020 Bruxelles
+ \, Belgique
+ORGANIZER;CN="Pirlot E.";ROLE=Secrétaire:MAILTO:emilepirlot@outlook.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J12: GAST FC (Eq. 2) vs METRASPORT R.
+DTSTART;VALUE=DATE-TIME:20231125T143000Z
+DTEND;VALUE=DATE-TIME:20231125T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6A_12_388_33
+DESCRIPTION:Terrain synthétique: non\nCode terrain: D01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge 
+ et Bleu\n\nContact équipe domicile: Clais D. (0476.99.88.10 - davidclais@
+ hotmail.com)\n\nAccès voiture : Prendre l'Autoroute ou le ring Bruxelles-
+ Mons-Paris\, sortie Drogenbos. Prendre direction Drogenbos-Centre\, passer
+  devant la Maison Communale et le terminus du tram\, ensuite à la 3ème r
+ ue tourner à main droite (Le terrain se trouve au bout de la rue au Bois)
+ .\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.7815028;4.3192053
+LOCATION:Stade Communal de Drogenbos\, Rue au Bois\, 1620 Drogenbos\, Belg
+ ique
+ORGANIZER;CN="Clais D.";ROLE=Secrétaire:MAILTO:davidclais@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J11: METRASPORT R. vs TOURINNOIS FC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20231202T130000Z
+DTEND;VALUE=DATE-TIME:20231202T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6A_11_33_292
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B07\n\nCouleur princi
+ pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
+ e: Rouge\n\nContact équipe domicile: Pirlot E. (0474.90.52.25 - emilepirl
+ ot@outlook.be)\n\nAccès voiture : Ring de Bruxelles\, Sortie Wemmel\, pre
+ ndre l'Avenue Houba de Strooper\, puis la rue à gauche\, avant le bâtime
+ nt de l'URBSFA\, direction Atomium.\n\nVérifiez toujours ces infos sur ht
+ tp://www.abssa.be/
+GEO:50.8933845;4.3399807
+LOCATION:Heysel - Annexe 3\, Avenue de Bouchout (Atomium)\, 1020 Bruxelles
+ \, Belgique
+ORGANIZER;CN="Pirlot E.";ROLE=Secrétaire:MAILTO:emilepirlot@outlook.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J13: METRASPORT R. vs FORESTOIS SC (Eq. 4)
+DTSTART;VALUE=DATE-TIME:20231209T130000Z
+DTEND;VALUE=DATE-TIME:20231209T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6A_13_33_152
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B07\n\nCouleur princi
+ pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
+ e: Noir\n\nContact équipe domicile: Pirlot E. (0474.90.52.25 - emilepirlo
+ t@outlook.be)\n\nAccès voiture : Ring de Bruxelles\, Sortie Wemmel\, pren
+ dre l'Avenue Houba de Strooper\, puis la rue à gauche\, avant le bâtimen
+ t de l'URBSFA\, direction Atomium.\n\nVérifiez toujours ces infos sur htt
+ p://www.abssa.be/
+GEO:50.8933845;4.3399807
+LOCATION:Heysel - Annexe 3\, Avenue de Bouchout (Atomium)\, 1020 Bruxelles
+ \, Belgique
+ORGANIZER;CN="Pirlot E.";ROLE=Secrétaire:MAILTO:emilepirlot@outlook.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J14: METRASPORT R. vs IRLANDE FC (Eq. 5)
+DTSTART;VALUE=DATE-TIME:20240113T130000Z
+DTEND;VALUE=DATE-TIME:20240113T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6A_14_33_402
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B07\n\nCouleur princi
+ pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
+ e: Vert\n\nContact équipe domicile: Pirlot E. (0474.90.52.25 - emilepirlo
+ t@outlook.be)\n\nAccès voiture : Ring de Bruxelles\, Sortie Wemmel\, pren
+ dre l'Avenue Houba de Strooper\, puis la rue à gauche\, avant le bâtimen
+ t de l'URBSFA\, direction Atomium.\n\nVérifiez toujours ces infos sur htt
+ p://www.abssa.be/
+GEO:50.8933845;4.3399807
+LOCATION:Heysel - Annexe 3\, Avenue de Bouchout (Atomium)\, 1020 Bruxelles
+ \, Belgique
+ORGANIZER;CN="Pirlot E.";ROLE=Secrétaire:MAILTO:emilepirlot@outlook.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J15: BRITISH UNITED (Eq. 5) vs METRASPORT R.
+DTSTART;VALUE=DATE-TIME:20240120T113000Z
+DTEND;VALUE=DATE-TIME:20240120T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6A_15_132_33
+DESCRIPTION:Terrain synthétique: non\nCode terrain: M02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge 
+ et Bleu\n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gill
+ esvanderseypen@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Anvers (
+ E19) sortie Mechelen-Noord (n° 9) En arrivant dans le centre\, suivre la 
+ direction "Heist-op-den-Berg" Aller tout droit et passer le viaduc du chem
+ in de fer. Après 1 km. suivre les flèches "De Nekker". Garer les voiture
+ s à l'extérieur du complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'
+ au terrain.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:51.0254354;4.503786799999999
+LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
+ ue
+ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
+ gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J16: BRUSSELS BRITISH R (Eq. 5) vs METRASPORT R.
+DTSTART;VALUE=DATE-TIME:20240127T143000Z
+DTEND;VALUE=DATE-TIME:20240127T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6A_16_1_33
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
+  et Bleu\n\nContact équipe domicile: Lachia S. (0484.27.72.64 - abssa-sec
+ @rbbfc.org)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosièr
+ es. Passer devant l'église\, longer l'autoroute et tourner à droite au c
+ imetière des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos s
+ ur http://www.abssa.be/
+GEO:50.7282426;4.5537189
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="Lachia S.";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J17: METRASPORT R. vs AUDERGHEM RU
+DTSTART;VALUE=DATE-TIME:20240203T130000Z
+DTEND;VALUE=DATE-TIME:20240203T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6A_17_33_376
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B07\n\nCouleur princi
+ pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
+ e: Jaune\n\nContact équipe domicile: Pirlot E. (0474.90.52.25 - emilepirl
+ ot@outlook.be)\n\nAccès voiture : Ring de Bruxelles\, Sortie Wemmel\, pre
+ ndre l'Avenue Houba de Strooper\, puis la rue à gauche\, avant le bâtime
+ nt de l'URBSFA\, direction Atomium.\n\nVérifiez toujours ces infos sur ht
+ tp://www.abssa.be/
+GEO:50.8933845;4.3399807
+LOCATION:Heysel - Annexe 3\, Avenue de Bouchout (Atomium)\, 1020 Bruxelles
+ \, Belgique
+ORGANIZER;CN="Pirlot E.";ROLE=Secrétaire:MAILTO:emilepirlot@outlook.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J18: JEFKE COUNTRY (Eq. 2) vs METRASPORT R.
+DTSTART;VALUE=DATE-TIME:20240210T143000Z
+DTEND;VALUE=DATE-TIME:20240210T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6A_18_423_33
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: T07\n\nCouleur princi
+ pale équipe domicile: Noir et blanc\nCouleur principale équipe exterieur
+ e: Rouge et Bleu\n\nContact équipe domicile: Mad. Kadycz C. (0477.67.18.8
+ 0 - carolejefke@gmail.com)\n\nAccès voiture : Aux quatre-Bras\, prendre d
+ irection Tervuren via l’avenue de Tervuren(N3) pendant 750M\nAu rond-poi
+ nt\, prendre la 1ère sortie et continuer sur l’avenue de Tervuren penda
+ nt 1\,2km puis prendre à droite sur la chaussée de Bruxelles pendant 500
+ m. Ensuite Prendre légèrement sur la droite dans la Wijngaardstraat pend
+ ant 400m et tourner à gauche dans la Pepperstraat pendant 400m. Ensuite t
+ ourner à droite sur la chaussée de Duisburg et rouler pendant 1\,4 km...
+  Continuer tout droit sur la chaussée de Tervuren pendant 1\,3 km et pren
+ dre à gauche dans la rue de destination ( Schonenboomstraat).\nLe terrain
+  se situe sur la droite de la route!\n\nVérifiez toujours ces infos sur h
+ ttp://www.abssa.be/
+GEO:50.8107232;4.5492332
+LOCATION:Schonenboormstraat\, 3080 Tervuren\, Belgique
+ORGANIZER;CN="Mad. Kadycz C.";ROLE=Secrétaire:MAILTO:carolejefke@gmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J19: METRASPORT R. vs COIN DU BALAI FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240217T130000Z
+DTEND;VALUE=DATE-TIME:20240217T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6A_19_33_229
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B07\n\nCouleur princi
+ pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
+ e: Bleu Marine\n\nContact équipe domicile: Pirlot E. (0474.90.52.25 - emi
+ lepirlot@outlook.be)\n\nAccès voiture : Ring de Bruxelles\, Sortie Wemmel
+ \, prendre l'Avenue Houba de Strooper\, puis la rue à gauche\, avant le b
+ âtiment de l'URBSFA\, direction Atomium.\n\nVérifiez toujours ces infos 
+ sur http://www.abssa.be/
+GEO:50.8933845;4.3399807
+LOCATION:Heysel - Annexe 3\, Avenue de Bouchout (Atomium)\, 1020 Bruxelles
+ \, Belgique
+ORGANIZER;CN="Pirlot E.";ROLE=Secrétaire:MAILTO:emilepirlot@outlook.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J26: FORESTOIS SC (Eq. 4) vs METRASPORT R.
+DTSTART;VALUE=DATE-TIME:20240224T143000Z
+DTEND;VALUE=DATE-TIME:20240224T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6A_26_152_33
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge 
+ et Bleu\n\nContact équipe domicile: Janssens P. (0479.95.08.14 - patj.scf
+ @gmail.com)\n\nAccès voiture : Au départ de la Place St. Denis à Forest
+  prendre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème r
+ ue à droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère 
+ à gauche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entr
+ ée du Complexe se trouve à hauteur de City Cart\, à gauche de la route.
+ \n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J23: METRASPORT R. vs TUBIFOOT AS
+DTSTART;VALUE=DATE-TIME:20240302T130000Z
+DTEND;VALUE=DATE-TIME:20240302T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6A_23_33_451
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B07\n\nCouleur princi
+ pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
+ e: Jaune et Rouge\n\nContact équipe domicile: Pirlot E. (0474.90.52.25 - 
+ emilepirlot@outlook.be)\n\nAccès voiture : Ring de Bruxelles\, Sortie Wem
+ mel\, prendre l'Avenue Houba de Strooper\, puis la rue à gauche\, avant l
+ e bâtiment de l'URBSFA\, direction Atomium.\n\nVérifiez toujours ces inf
+ os sur http://www.abssa.be/
+GEO:50.8933845;4.3399807
+LOCATION:Heysel - Annexe 3\, Avenue de Bouchout (Atomium)\, 1020 Bruxelles
+ \, Belgique
+ORGANIZER;CN="Pirlot E.";ROLE=Secrétaire:MAILTO:emilepirlot@outlook.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J21: METRASPORT R. vs J.ST-GILLOISE R.
+DTSTART;VALUE=DATE-TIME:20240316T130000Z
+DTEND;VALUE=DATE-TIME:20240316T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6A_21_33_38
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B07\n\nCouleur princi
+ pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
+ e: Bleu foncé\n\nContact équipe domicile: Pirlot E. (0474.90.52.25 - emi
+ lepirlot@outlook.be)\n\nAccès voiture : Ring de Bruxelles\, Sortie Wemmel
+ \, prendre l'Avenue Houba de Strooper\, puis la rue à gauche\, avant le b
+ âtiment de l'URBSFA\, direction Atomium.\n\nVérifiez toujours ces infos 
+ sur http://www.abssa.be/
+GEO:50.8933845;4.3399807
+LOCATION:Heysel - Annexe 3\, Avenue de Bouchout (Atomium)\, 1020 Bruxelles
+ \, Belgique
+ORGANIZER;CN="Pirlot E.";ROLE=Secrétaire:MAILTO:emilepirlot@outlook.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J22: AMB. AUDERGHEM (Eq. 2) vs METRASPORT R.
+DTSTART;VALUE=DATE-TIME:20240323T130000Z
+DTEND;VALUE=DATE-TIME:20240323T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6A_22_249_33
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Blanc rayé de Gris\nCouleur principale équipe ext
+ erieure: Rouge et Bleu\n\nContact équipe domicile: Leclef R. (0473.13.76.
+ 27 - renaudleclef@hotmail.fr)\n\nAccès voiture : En venant de Bruxelles p
+ ar la chaussée de Wavre\, rejoindre le du début de l'autoroute Bruxelles
+ -Namur\, utiliser la bande de droite pendant +/- 200 m. et descendre devan
+ t le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (en dessou
+ s de l'autoroute). Le terrain se trouve à 200 m. Le stade est fléché.\n
+ \nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="Leclef R.";ROLE=Secrétaire:MAILTO:renaudleclef@hotmail.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J25: METRASPORT R. vs GAST FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240406T120000Z
+DTEND;VALUE=DATE-TIME:20240406T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6A_25_33_388
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B07\n\nCouleur princi
+ pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
+ e: Noir\n\nContact équipe domicile: Pirlot E. (0474.90.52.25 - emilepirlo
+ t@outlook.be)\n\nAccès voiture : Ring de Bruxelles\, Sortie Wemmel\, pren
+ dre l'Avenue Houba de Strooper\, puis la rue à gauche\, avant le bâtimen
+ t de l'URBSFA\, direction Atomium.\n\nVérifiez toujours ces infos sur htt
+ p://www.abssa.be/
+GEO:50.8933845;4.3399807
+LOCATION:Heysel - Annexe 3\, Avenue de Bouchout (Atomium)\, 1020 Bruxelles
+ \, Belgique
+ORGANIZER;CN="Pirlot E.";ROLE=Secrétaire:MAILTO:emilepirlot@outlook.be
+END:VEVENT
+END:VCALENDAR

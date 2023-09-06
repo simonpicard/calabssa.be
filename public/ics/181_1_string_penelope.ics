@@ -1,402 +1,687 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:2258ccdc-3bf3-4833-bed0-00b063e8218e
-X-WR-CALDESC:Les matches de STRING PENELOPE (eq. 1) en ABSSA.
-X-WR-CALNAME:ABSSA - STRING PENELOPE (eq. 1) - 181
-X-WR-TIMEZONE:Europe/Brussels
+PRODID:181_1_string_penelope
+X-WR-CALDESC:Les matches du club STRING PENELOPE (equipe 1) en ABSSA.
+X-WR-CALNAME:ABSSA: STRING PENELOPE (eq. 1)
 BEGIN:VEVENT
-SUMMARY:ABSSA D3A J2: HERMES FC vs STRING PENELOPE
-DTSTART:20220910T140000Z
-DTEND:20220910T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:a5d85d32-2151-4903-abd5-11ef72df8269
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rayé bleu jaune\nCouleur principale équipe extérieur: Orange\n\nCon
- tact équipe domicile: AVDOULOS S. (0479.61.63.24)\n\nAccès voiture : A p
- artir du square des Archiducs\, prendre la rue Berensheide\, ensuite l'ave
- nue des Nymphes.
-GEO:50.8059064;4.4137412
-LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
- l-Boitsfort\, Belgique
-ORGANIZER:MAILTO:hermesfc1984@gmail.com
+SUMMARY:ABSSA D3B J10: MOUSSES TACHENT vs STRING PENELOPE
+DTSTART;VALUE=DATE-TIME:20230902T133000Z
+DTEND;VALUE=DATE-TIME:20230902T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3B_10_643_181
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: C02\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Or
+ ange\n\nContact équipe domicile: Stevens F. (0472.09.43.58 - les.mousses.
+ tachent@gmail.com)\n\nAccès voiture : Ring ouest: Direction Waterloo\, pr
+ endre la sortie "butte du lion" \, prendre à droite\, puis au feu rouge p
+ rendre à droite\, rouler jusque Genappe et prendre la RN 25 en direction 
+ de Wavre\, prendre la deuxième sortie (Court St. Etienne) et prendre à g
+ auche\, le terrain se trouve à 1 km. a main droite.\nPar la E411: Prendre
+  la E411 direction Namur\, ensuite sortir a Wavre\, prendre ensuite la sor
+ tie Villers-La-Ville\, ensuite à droite puis directement à gauche a l'ar
+ bre et descendre jusque dans le fond\, prendre a droite et le terrain se t
+ rouve à 500 m. a main gauche.\n\nVérifiez toujours ces infos sur http://
+ www.abssa.be/
+GEO:50.6417231;4.5547061
+LOCATION:Avenue des Combattants\, 1490 Court St. Etienne\, Belgique
+ORGANIZER;CN="Stevens F.";ROLE=Secrétaire:MAILTO:les.mousses.tachent@gmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3A J12: STRING PENELOPE vs AZUR RCS (Eq. 3)
-DTSTART:20221126T140000Z
-DTEND:20221126T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:e9a3c590-6225-4341-a66f-ce9fe2baa83e
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Orange\nCouleur principale équipe extérieur: Bleu ciel\n\nContact é
- quipe domicile: COLLIGNON T. (0474.89.84.20)\n\nAccès voiture : En venant
-  de Bruxelles\, prendre l'autoroute E411 en direction de Namur\, prendre l
- a sortie  Wavre (n° 6)\, tenir la droite et au bout de la bretelle\, pren
- dre la direction d'Ottignies par la N238. Au 1èr feu de signalisation con
- tinuer tout droit en passant devant Walibi (qui se trouve sur la gauche) j
- usqu'à la sortie Limelette. Au bout de cette sortie\, en face du Tennis C
- lub La Palestre\, prendre à droite la rue Charles Dubois\, jusqu'au carre
- four principal. Continuer tout droit en traversant l'avenue Albert 1èr. P
- asser en dessous du 1èr pont du chemin de fer et prendre la rue de l'Euro
- pe jusqu'à la place de l'Europe. Traverser cette place par la droite. Au 
- bout à gauche\, suivre l'avenue Jassans. Ensuite 1ère rue à gauche\,  l
- a rue Bustan (panneau F.C. Limelette). Continuer cette rue et passer en de
- ssous du 2ème pont du chemin de fer. Après ce pont\, prendre tout de sui
- te à gauche l'avenue Demolder (panneau F.C. Limelette)\, en face de l'ét
- ang du Buston. Suivre cette avenue jusqu'à la 4ème rue à droite\, l'ave
- nue des Mérisiers. Après 50 m. dans cette rue\, prendre à droite l'aven
- ue des Sorbiers (panneau du F.C. Limelette). L'entrée du terrain est situ
- ée 50 m. plus bas sur la gauche.
+SUMMARY:ABSSA D3B J1: STRING PENELOPE vs NEW INN FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20230909T120000Z
+DTEND;VALUE=DATE-TIME:20230909T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3B_1_181_359
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Rose
+ \n\nContact équipe domicile: Collignon T. (0474.89.84.20 - thom.collignon
+ @gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'autorou
+ te E411 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir l
+ a droite et au bout de la bretelle\, prendre la direction d'Ottignies par 
+ la N238. Au 1èr feu de signalisation continuer tout droit en passant deva
+ nt Walibi (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au b
+ out de cette sortie\, en face du Tennis Club La Palestre\, prendre à droi
+ te la rue Charles Dubois\, jusqu'au carrefour principal. Continuer tout dr
+ oit en traversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du 
+ chemin de fer et prendre la rue de l'Europe jusqu'à la place de l'Europe.
+  Traverser cette place par la droite. Au bout à gauche\, suivre l'avenue 
+ Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limele
+ tte). Continuer cette rue et passer en dessous du 2ème pont du chemin de 
+ fer. Après ce pont\, prendre tout de suite à gauche l'avenue Demolder (p
+ anneau F.C. Limelette)\, en face de l'étang du Buston. Suivre cette avenu
+ e jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m. 
+ dans cette rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C. 
+ Limelette). L'entrée du terrain est située 50 m. plus bas sur la gauche.
+ \n\nVérifiez toujours ces infos sur http://www.abssa.be/
 GEO:50.6762848;4.562820299999999
-LOCATION:Avenue des Sorbiers\, 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER:MAILTO:thom.collignon@gmail.com
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Collignon T.";ROLE=Secrétaire:MAILTO:thom.collignon@gmail.c
+ om
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3A J13: STRING PENELOPE vs HERMES FC
-DTSTART:20221203T140000Z
-DTEND:20221203T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:c825cf20-d9df-4c70-934e-9a04490f724c
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Orange\nCouleur principale équipe extérieur: Rayé bleu jaune\n\nCon
- tact équipe domicile: COLLIGNON T. (0474.89.84.20)\n\nAccès voiture : En
-  venant de Bruxelles\, prendre l'autoroute E411 en direction de Namur\, pr
- endre la sortie  Wavre (n° 6)\, tenir la droite et au bout de la bretelle
- \, prendre la direction d'Ottignies par la N238. Au 1èr feu de signalisat
- ion continuer tout droit en passant devant Walibi (qui se trouve sur la ga
- uche) jusqu'à la sortie Limelette. Au bout de cette sortie\, en face du T
- ennis Club La Palestre\, prendre à droite la rue Charles Dubois\, jusqu'a
- u carrefour principal. Continuer tout droit en traversant l'avenue Albert 
- 1èr. Passer en dessous du 1èr pont du chemin de fer et prendre la rue de
-  l'Europe jusqu'à la place de l'Europe. Traverser cette place par la droi
- te. Au bout à gauche\, suivre l'avenue Jassans. Ensuite 1ère rue à gauc
- he\,  la rue Bustan (panneau F.C. Limelette). Continuer cette rue et passe
- r en dessous du 2ème pont du chemin de fer. Après ce pont\, prendre tout
-  de suite à gauche l'avenue Demolder (panneau F.C. Limelette)\, en face d
- e l'étang du Buston. Suivre cette avenue jusqu'à la 4ème rue à droite\
- , l'avenue des Mérisiers. Après 50 m. dans cette rue\, prendre à droite
-  l'avenue des Sorbiers (panneau du F.C. Limelette). L'entrée du terrain e
- st située 50 m. plus bas sur la gauche.
+SUMMARY:ABSSA D3B J2: PHARMA SC vs STRING PENELOPE
+DTSTART;VALUE=DATE-TIME:20230916T133000Z
+DTEND;VALUE=DATE-TIME:20230916T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3B_2_268_181
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Orang
+ e\n\nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.dumidi@
+ scarlet.be)\n\nAccès voiture : A partir du square des Archiducs\, prendre
+  la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez toujours 
+ ces infos sur http://www.abssa.be/
+GEO:50.8059082;4.4137428
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J3: STRING PENELOPE vs JEFKE COUNTRY
+DTSTART;VALUE=DATE-TIME:20230923T120000Z
+DTEND;VALUE=DATE-TIME:20230923T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3B_3_181_423
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Noir
+  et blanc\n\nContact équipe domicile: Collignon T. (0474.89.84.20 - thom.
+ collignon@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre 
+ l'autoroute E411 en direction de Namur\, prendre la sortie  Wavre (n° 6)\
+ , tenir la droite et au bout de la bretelle\, prendre la direction d'Ottig
+ nies par la N238. Au 1èr feu de signalisation continuer tout droit en pas
+ sant devant Walibi (qui se trouve sur la gauche) jusqu'à la sortie Limele
+ tte. Au bout de cette sortie\, en face du Tennis Club La Palestre\, prendr
+ e à droite la rue Charles Dubois\, jusqu'au carrefour principal. Continue
+ r tout droit en traversant l'avenue Albert 1èr. Passer en dessous du 1èr
+  pont du chemin de fer et prendre la rue de l'Europe jusqu'à la place de 
+ l'Europe. Traverser cette place par la droite. Au bout à gauche\, suivre 
+ l'avenue Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.
+ C. Limelette). Continuer cette rue et passer en dessous du 2ème pont du c
+ hemin de fer. Après ce pont\, prendre tout de suite à gauche l'avenue De
+ molder (panneau F.C. Limelette)\, en face de l'étang du Buston. Suivre ce
+ tte avenue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. Apr
+ ès 50 m. dans cette rue\, prendre à droite l'avenue des Sorbiers (pannea
+ u du F.C. Limelette). L'entrée du terrain est située 50 m. plus bas sur 
+ la gauche.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
 GEO:50.6762848;4.562820299999999
-LOCATION:Avenue des Sorbiers\, 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER:MAILTO:thom.collignon@gmail.com
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Collignon T.";ROLE=Secrétaire:MAILTO:thom.collignon@gmail.c
+ om
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3A J14: REAL TRAPPISTE vs STRING PENELOPE
-DTSTART:20221210T140000Z
-DTEND:20221210T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:a345aa38-3333-4fc5-87d4-606cdf7ffad3
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune\nCouleur principale équipe extérieur: Orange\n\nContact équip
- e domicile: BENSI L. (0478.49.90.80)\n\nAccès voiture : Ring O\, sortie N
- inove-Dilbeek (n° 13) direction Molenbeek\, par la chaussée de Ninove \n
- (+/- 3 km.). Au feu de signalisation qui se trouve juste après le "BRICO"
-  prendre à gauche l'Avenue J. Baeck. Le terrain se trouve à main droite\
- , juste au début de cette avenue.
-GEO:50.8511158;4.3192467
-LOCATION:STADE VERBIST - PARC MARIE-JOSE\, Avenue J. Baeck\, 1080 Molenbee
- k\, Belgique
-ORGANIZER:MAILTO:realtrappiste2013abssa@gmail.com
+SUMMARY:ABSSA D3B J4: CORNAC UNITED FC vs STRING PENELOPE
+DTSTART;VALUE=DATE-TIME:20230930T123000Z
+DTEND;VALUE=DATE-TIME:20230930T140000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3B_4_151_181
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A01\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Orang
+ e\n\nContact équipe domicile: Denayer M. (0476.53.14.48 - marcdenayermd@g
+ mail.com)\n\nAccès voiture : Par le Ring Ouest\, direction Paris\, sortie
+  Westland Shopping Center (n° 14) continuer tout droit\, remonter vers le
+  Ring et prendre à droite pour sortir vers Itterbeek. Prendre l'avenue d'
+ Itterbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. Le terrain s
+ e trouve à gauche\, entre l'école Van Belle et Veeweyde.\n\nVérifiez to
+ ujours ces infos sur http://www.abssa.be/
+GEO:50.8354396;4.2768611
+LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
+ORGANIZER;CN="Denayer M.";ROLE=Secrétaire:MAILTO:marcdenayermd@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3A J15: STRING PENELOPE vs MIDI AS
-DTSTART:20221217T140000Z
-DTEND:20221217T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:cdf9d624-1e1b-47f0-a5f7-508c08c0a476
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Orange\nCouleur principale équipe extérieur: Rouge\n\nContact équip
- e domicile: COLLIGNON T. (0474.89.84.20)\n\nAccès voiture : En venant de 
- Bruxelles\, prendre l'autoroute E411 en direction de Namur\, prendre la so
- rtie  Wavre (n° 6)\, tenir la droite et au bout de la bretelle\, prendre 
- la direction d'Ottignies par la N238. Au 1èr feu de signalisation continu
- er tout droit en passant devant Walibi (qui se trouve sur la gauche) jusqu
- 'à la sortie Limelette. Au bout de cette sortie\, en face du Tennis Club 
- La Palestre\, prendre à droite la rue Charles Dubois\, jusqu'au carrefour
-  principal. Continuer tout droit en traversant l'avenue Albert 1èr. Passe
- r en dessous du 1èr pont du chemin de fer et prendre la rue de l'Europe j
- usqu'à la place de l'Europe. Traverser cette place par la droite. Au bout
-  à gauche\, suivre l'avenue Jassans. Ensuite 1ère rue à gauche\,  la ru
- e Bustan (panneau F.C. Limelette). Continuer cette rue et passer en dessou
- s du 2ème pont du chemin de fer. Après ce pont\, prendre tout de suite 
- à gauche l'avenue Demolder (panneau F.C. Limelette)\, en face de l'étang
-  du Buston. Suivre cette avenue jusqu'à la 4ème rue à droite\, l'avenue
-  des Mérisiers. Après 50 m. dans cette rue\, prendre à droite l'avenue 
- des Sorbiers (panneau du F.C. Limelette). L'entrée du terrain est située
-  50 m. plus bas sur la gauche.
+SUMMARY:ABSSA D3B J5: STRING PENELOPE vs FORESTOISE E.J.
+DTSTART;VALUE=DATE-TIME:20231007T120000Z
+DTEND;VALUE=DATE-TIME:20231007T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3B_5_181_623
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Bleu
+  Ciel\n\nContact équipe domicile: Collignon T. (0474.89.84.20 - thom.coll
+ ignon@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'au
+ toroute E411 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, te
+ nir la droite et au bout de la bretelle\, prendre la direction d'Ottignies
+  par la N238. Au 1èr feu de signalisation continuer tout droit en passant
+  devant Walibi (qui se trouve sur la gauche) jusqu'à la sortie Limelette.
+  Au bout de cette sortie\, en face du Tennis Club La Palestre\, prendre à
+  droite la rue Charles Dubois\, jusqu'au carrefour principal. Continuer to
+ ut droit en traversant l'avenue Albert 1èr. Passer en dessous du 1èr pon
+ t du chemin de fer et prendre la rue de l'Europe jusqu'à la place de l'Eu
+ rope. Traverser cette place par la droite. Au bout à gauche\, suivre l'av
+ enue Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. L
+ imelette). Continuer cette rue et passer en dessous du 2ème pont du chemi
+ n de fer. Après ce pont\, prendre tout de suite à gauche l'avenue Demold
+ er (panneau F.C. Limelette)\, en face de l'étang du Buston. Suivre cette 
+ avenue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 5
+ 0 m. dans cette rue\, prendre à droite l'avenue des Sorbiers (panneau du 
+ F.C. Limelette). L'entrée du terrain est située 50 m. plus bas sur la ga
+ uche.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
 GEO:50.6762848;4.562820299999999
-LOCATION:Avenue des Sorbiers\, 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER:MAILTO:thom.collignon@gmail.com
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Collignon T.";ROLE=Secrétaire:MAILTO:thom.collignon@gmail.c
+ om
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3A J16: NEW INN FC vs STRING PENELOPE
-DTSTART:20230107T153000Z
-DTEND:20230107T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:24ad95fb-2cad-4fc2-9c7c-0fb8bd70dd02
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge foncé\nCouleur principale équipe extérieur: Orange\n\nContact
-  équipe domicile: CORNIL B. (0494.16.15.11)\n\nAccès voiture : Au dépar
- t de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sor
- tie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anci
- ens Combattants. Juste après le carrefour avec des feux de signalisation 
- prendre à droite vers la Place de la Chapelle\, puis prendre la 4ème rue
-  à main droite (rue au Bois). Le terrain se trouve à 300 m. sur la droit
- e.
+SUMMARY:ABSSA D3B J6: FOOT JOSAPHAT vs STRING PENELOPE
+DTSTART;VALUE=DATE-TIME:20231014T130000Z
+DTEND;VALUE=DATE-TIME:20231014T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3B_6_597_181
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
+ pale équipe domicile: Gris\nCouleur principale équipe exterieure: Orange
+ \n\nContact équipe domicile: El Youssefi J. (0488.30.74.66 - jawad.ely@ho
+ tmail.com)\n\nAccès voiture : Place Meiser\, descendre le boulevard Lambe
+ rmont. Au 3ème feu de signalisation prendre à gauche\, puis la première
+  à droite.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8666341;4.3823667
+LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
+ aerbeek\, Belgique
+ORGANIZER;CN="El Youssefi J.";ROLE=Secrétaire:MAILTO:jawad.ely@hotmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J8: WATERMAEL FC vs STRING PENELOPE
+DTSTART;VALUE=DATE-TIME:20231021T120000Z
+DTEND;VALUE=DATE-TIME:20231021T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3B_8_611_181
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Orange
+ \n\nContact équipe domicile: Deschamps J. (0477.67.76.37 - jul_desch@hotm
+ ail.com)\n\nAccès voiture : A partir du square des Archiducs\, prendre la
+  rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez toujours ces
+  infos sur http://www.abssa.be/
+GEO:50.8059082;4.4137428
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J24: STRING PENELOPE vs MIDI AS
+DTSTART;VALUE=DATE-TIME:20231028T120000Z
+DTEND;VALUE=DATE-TIME:20231028T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3B_24_181_169
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Roug
+ e\n\nContact équipe domicile: Collignon T. (0474.89.84.20 - thom.colligno
+ n@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'autoro
+ ute E411 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir 
+ la droite et au bout de la bretelle\, prendre la direction d'Ottignies par
+  la N238. Au 1èr feu de signalisation continuer tout droit en passant dev
+ ant Walibi (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au 
+ bout de cette sortie\, en face du Tennis Club La Palestre\, prendre à dro
+ ite la rue Charles Dubois\, jusqu'au carrefour principal. Continuer tout d
+ roit en traversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du
+  chemin de fer et prendre la rue de l'Europe jusqu'à la place de l'Europe
+ . Traverser cette place par la droite. Au bout à gauche\, suivre l'avenue
+  Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limel
+ ette). Continuer cette rue et passer en dessous du 2ème pont du chemin de
+  fer. Après ce pont\, prendre tout de suite à gauche l'avenue Demolder (
+ panneau F.C. Limelette)\, en face de l'étang du Buston. Suivre cette aven
+ ue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m.
+  dans cette rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C.
+  Limelette). L'entrée du terrain est située 50 m. plus bas sur la gauche
+ .\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.6762848;4.562820299999999
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Collignon T.";ROLE=Secrétaire:MAILTO:thom.collignon@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J7: STRING PENELOPE vs NIVELLES AS
+DTSTART;VALUE=DATE-TIME:20231104T130000Z
+DTEND;VALUE=DATE-TIME:20231104T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3B_7_181_306
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Bleu
+  et jaune\n\nContact équipe domicile: Collignon T. (0474.89.84.20 - thom.
+ collignon@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre 
+ l'autoroute E411 en direction de Namur\, prendre la sortie  Wavre (n° 6)\
+ , tenir la droite et au bout de la bretelle\, prendre la direction d'Ottig
+ nies par la N238. Au 1èr feu de signalisation continuer tout droit en pas
+ sant devant Walibi (qui se trouve sur la gauche) jusqu'à la sortie Limele
+ tte. Au bout de cette sortie\, en face du Tennis Club La Palestre\, prendr
+ e à droite la rue Charles Dubois\, jusqu'au carrefour principal. Continue
+ r tout droit en traversant l'avenue Albert 1èr. Passer en dessous du 1èr
+  pont du chemin de fer et prendre la rue de l'Europe jusqu'à la place de 
+ l'Europe. Traverser cette place par la droite. Au bout à gauche\, suivre 
+ l'avenue Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.
+ C. Limelette). Continuer cette rue et passer en dessous du 2ème pont du c
+ hemin de fer. Après ce pont\, prendre tout de suite à gauche l'avenue De
+ molder (panneau F.C. Limelette)\, en face de l'étang du Buston. Suivre ce
+ tte avenue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. Apr
+ ès 50 m. dans cette rue\, prendre à droite l'avenue des Sorbiers (pannea
+ u du F.C. Limelette). L'entrée du terrain est située 50 m. plus bas sur 
+ la gauche.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.6762848;4.562820299999999
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Collignon T.";ROLE=Secrétaire:MAILTO:thom.collignon@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J9: STRING PENELOPE vs HIGGINS-PUMAS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20231118T130000Z
+DTEND;VALUE=DATE-TIME:20231118T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3B_9_181_416
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Ray
+ é Bleu et Blanc\n\nContact équipe domicile: Collignon T. (0474.89.84.20 
+ - thom.collignon@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, p
+ rendre l'autoroute E411 en direction de Namur\, prendre la sortie  Wavre (
+ n° 6)\, tenir la droite et au bout de la bretelle\, prendre la direction 
+ d'Ottignies par la N238. Au 1èr feu de signalisation continuer tout droit
+  en passant devant Walibi (qui se trouve sur la gauche) jusqu'à la sortie
+  Limelette. Au bout de cette sortie\, en face du Tennis Club La Palestre\,
+  prendre à droite la rue Charles Dubois\, jusqu'au carrefour principal. C
+ ontinuer tout droit en traversant l'avenue Albert 1èr. Passer en dessous 
+ du 1èr pont du chemin de fer et prendre la rue de l'Europe jusqu'à la pl
+ ace de l'Europe. Traverser cette place par la droite. Au bout à gauche\, 
+ suivre l'avenue Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (pan
+ neau F.C. Limelette). Continuer cette rue et passer en dessous du 2ème po
+ nt du chemin de fer. Après ce pont\, prendre tout de suite à gauche l'av
+ enue Demolder (panneau F.C. Limelette)\, en face de l'étang du Buston. Su
+ ivre cette avenue jusqu'à la 4ème rue à droite\, l'avenue des Mérisier
+ s. Après 50 m. dans cette rue\, prendre à droite l'avenue des Sorbiers (
+ panneau du F.C. Limelette). L'entrée du terrain est située 50 m. plus ba
+ s sur la gauche.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.6762848;4.562820299999999
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Collignon T.";ROLE=Secrétaire:MAILTO:thom.collignon@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J12: STRING PENELOPE vs GERMINAL CSA
+DTSTART;VALUE=DATE-TIME:20231125T130000Z
+DTEND;VALUE=DATE-TIME:20231125T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3B_12_181_235
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Vert
+ \n\nContact équipe domicile: Collignon T. (0474.89.84.20 - thom.collignon
+ @gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'autorou
+ te E411 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir l
+ a droite et au bout de la bretelle\, prendre la direction d'Ottignies par 
+ la N238. Au 1èr feu de signalisation continuer tout droit en passant deva
+ nt Walibi (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au b
+ out de cette sortie\, en face du Tennis Club La Palestre\, prendre à droi
+ te la rue Charles Dubois\, jusqu'au carrefour principal. Continuer tout dr
+ oit en traversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du 
+ chemin de fer et prendre la rue de l'Europe jusqu'à la place de l'Europe.
+  Traverser cette place par la droite. Au bout à gauche\, suivre l'avenue 
+ Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limele
+ tte). Continuer cette rue et passer en dessous du 2ème pont du chemin de 
+ fer. Après ce pont\, prendre tout de suite à gauche l'avenue Demolder (p
+ anneau F.C. Limelette)\, en face de l'étang du Buston. Suivre cette avenu
+ e jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m. 
+ dans cette rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C. 
+ Limelette). L'entrée du terrain est située 50 m. plus bas sur la gauche.
+ \n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.6762848;4.562820299999999
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Collignon T.";ROLE=Secrétaire:MAILTO:thom.collignon@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J11: MIDI AS vs STRING PENELOPE
+DTSTART;VALUE=DATE-TIME:20231202T143000Z
+DTEND;VALUE=DATE-TIME:20231202T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3B_11_169_181
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Orang
+ e\n\nContact équipe domicile: Cantiniau J-C. (0479.84.17.35 - standardmid
+ i@hotmail.com)\n\nAccès voiture : En venant de Bruxelles\, emprunter la c
+ haussée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit 
+ carrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chauss
+ ée\, au deuxième feu de signalisation\, prendre à droite\, le terrain s
+ e trouve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur ht
+ tp://www.abssa.be/
+GEO:50.6827211;4.3844421
+LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud\, Belgique
+ORGANIZER;CN="Cantiniau J-C.";ROLE=Secrétaire:MAILTO:standardmidi@hotmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J13: AZUR RCS (Eq. 3) vs STRING PENELOPE
+DTSTART;VALUE=DATE-TIME:20231209T110000Z
+DTEND;VALUE=DATE-TIME:20231209T123000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3B_13_109_181
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W12\n\nCouleur princi
+ pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: O
+ range\n\nContact équipe domicile: Mad. Decamps N. (0477.27.39.66 - nathal
+ ie_decamps@hotmail.com)\n\nAccès voiture : Avenue de Tervuren\, direction
+  Tervuren. Passé le boulevard du Souverain prendre à gauche au premier f
+ eu de signalisation (Av. Madoux). Au feu de signalisation suivant prendre 
+ la 2ème rue à main droite (Av. J. Dujardin). Ensuite 1ère rue à gauche
+  (Av. Salomé).\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.830818;4.455442
+LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
+ elgique
+ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
+ tmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J14: NEW INN FC (Eq. 2) vs STRING PENELOPE
+DTSTART;VALUE=DATE-TIME:20240113T130000Z
+DTEND;VALUE=DATE-TIME:20240113T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3B_14_359_181
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Rose\nCouleur principale équipe exterieure: Orange
+ \n\nContact équipe domicile: Cornil B. (0494.16.15.11 - bencornil@gmail.c
+ om)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute Bruxel
+ les-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc pren
+ dre à droite\, l'avenue des Anciens Combattants. Juste après le carrefou
+ r avec des feux de signalisation prendre à droite vers la Place de la Cha
+ pelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terrain
+  se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces infos sur ht
+ tp://www.abssa.be/
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:bencornil@gmail.com
+ORGANIZER;CN="Cornil B.";ROLE=Secrétaire:MAILTO:bencornil@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3A J17: STRING PENELOPE vs BRAINE-TERMINUS FC
-DTSTART:20230114T140000Z
-DTEND:20230114T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:03ccd64b-61c9-4b6e-b4cb-3054fb24684f
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Orange\nCouleur principale équipe extérieur: Jaune et rouge\n\nConta
- ct équipe domicile: COLLIGNON T. (0474.89.84.20)\n\nAccès voiture : En v
- enant de Bruxelles\, prendre l'autoroute E411 en direction de Namur\, pren
- dre la sortie  Wavre (n° 6)\, tenir la droite et au bout de la bretelle\,
-  prendre la direction d'Ottignies par la N238. Au 1èr feu de signalisatio
- n continuer tout droit en passant devant Walibi (qui se trouve sur la gauc
- he) jusqu'à la sortie Limelette. Au bout de cette sortie\, en face du Ten
- nis Club La Palestre\, prendre à droite la rue Charles Dubois\, jusqu'au 
- carrefour principal. Continuer tout droit en traversant l'avenue Albert 1
- èr. Passer en dessous du 1èr pont du chemin de fer et prendre la rue de 
- l'Europe jusqu'à la place de l'Europe. Traverser cette place par la droit
- e. Au bout à gauche\, suivre l'avenue Jassans. Ensuite 1ère rue à gauch
- e\,  la rue Bustan (panneau F.C. Limelette). Continuer cette rue et passer
-  en dessous du 2ème pont du chemin de fer. Après ce pont\, prendre tout 
- de suite à gauche l'avenue Demolder (panneau F.C. Limelette)\, en face de
-  l'étang du Buston. Suivre cette avenue jusqu'à la 4ème rue à droite\,
-  l'avenue des Mérisiers. Après 50 m. dans cette rue\, prendre à droite 
- l'avenue des Sorbiers (panneau du F.C. Limelette). L'entrée du terrain es
- t située 50 m. plus bas sur la gauche.
+SUMMARY:ABSSA D3B J15: STRING PENELOPE vs PHARMA SC
+DTSTART;VALUE=DATE-TIME:20240120T130000Z
+DTEND;VALUE=DATE-TIME:20240120T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3B_15_181_268
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Blan
+ c\n\nContact équipe domicile: Collignon T. (0474.89.84.20 - thom.colligno
+ n@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'autoro
+ ute E411 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir 
+ la droite et au bout de la bretelle\, prendre la direction d'Ottignies par
+  la N238. Au 1èr feu de signalisation continuer tout droit en passant dev
+ ant Walibi (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au 
+ bout de cette sortie\, en face du Tennis Club La Palestre\, prendre à dro
+ ite la rue Charles Dubois\, jusqu'au carrefour principal. Continuer tout d
+ roit en traversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du
+  chemin de fer et prendre la rue de l'Europe jusqu'à la place de l'Europe
+ . Traverser cette place par la droite. Au bout à gauche\, suivre l'avenue
+  Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limel
+ ette). Continuer cette rue et passer en dessous du 2ème pont du chemin de
+  fer. Après ce pont\, prendre tout de suite à gauche l'avenue Demolder (
+ panneau F.C. Limelette)\, en face de l'étang du Buston. Suivre cette aven
+ ue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m.
+  dans cette rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C.
+  Limelette). L'entrée du terrain est située 50 m. plus bas sur la gauche
+ .\n\nVérifiez toujours ces infos sur http://www.abssa.be/
 GEO:50.6762848;4.562820299999999
-LOCATION:Avenue des Sorbiers\, 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER:MAILTO:thom.collignon@gmail.com
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Collignon T.";ROLE=Secrétaire:MAILTO:thom.collignon@gmail.c
+ om
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3A J18: FOSSIS (LES) CS vs STRING PENELOPE
-DTSTART:20230121T150000Z
-DTEND:20230121T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:1f23c473-1fd0-4f69-88ab-207a2399243b
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune fluo\nCouleur principale équipe extérieur: Orange\n\nContact 
- équipe domicile: DESMEDT O. (0495.27.08.87)\n\nAccès voiture : En venant
-  de Bruxelles\, prendre l'autoroute E411 en direction de Namur. Prendre la
-  sortie 9 Corroy-le-Grand vers Louvain-la-Neuve  Sud / Nivelles / E 19. Re
- joindre Chemin de Grez. Au rond-point\, prendre la 2ième sortie sur Grand
- 'Route / N 4. Après 1\,8 km.et au prochain feu\, tourner à droite Rue de
-  Corbais. Continuer tout droit pendant 2 km. et prendre à droite Avenue d
- u Cérisier. 70 m. plus loin\, vous trouverez le parking sur la droite.
-GEO:50.6415297;4.6219204
-LOCATION:GUIBERT SPORTS ARENA\, Avenue des Cérisiers\, 3\, 1435 Mont-Sain
- t-Guibert\, Belgique
-ORGANIZER:MAILTO:oli.desmedt@gmail.com
+SUMMARY:ABSSA D3B J16: JEFKE COUNTRY vs STRING PENELOPE
+DTSTART;VALUE=DATE-TIME:20240127T130000Z
+DTEND;VALUE=DATE-TIME:20240127T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3B_16_423_181
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: T07\n\nCouleur princi
+ pale équipe domicile: Noir et blanc\nCouleur principale équipe exterieur
+ e: Orange\n\nContact équipe domicile: Mad. Kadycz C. (0477.67.18.80 - car
+ olejefke@gmail.com)\n\nAccès voiture : Aux quatre-Bras\, prendre directio
+ n Tervuren via l’avenue de Tervuren(N3) pendant 750M\nAu rond-point\, pr
+ endre la 1ère sortie et continuer sur l’avenue de Tervuren pendant 1\,2
+ km puis prendre à droite sur la chaussée de Bruxelles pendant 500m. Ensu
+ ite Prendre légèrement sur la droite dans la Wijngaardstraat pendant 400
+ m et tourner à gauche dans la Pepperstraat pendant 400m. Ensuite tourner 
+ à droite sur la chaussée de Duisburg et rouler pendant 1\,4 km... Contin
+ uer tout droit sur la chaussée de Tervuren pendant 1\,3 km et prendre à 
+ gauche dans la rue de destination ( Schonenboomstraat).\nLe terrain se sit
+ ue sur la droite de la route!\n\nVérifiez toujours ces infos sur http://w
+ ww.abssa.be/
+GEO:50.8107232;4.5492332
+LOCATION:Schonenboormstraat\, 3080 Tervuren\, Belgique
+ORGANIZER;CN="Mad. Kadycz C.";ROLE=Secrétaire:MAILTO:carolejefke@gmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3A J19: STRING PENELOPE vs NO BOYS
-DTSTART:20230128T140000Z
-DTEND:20230128T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:0ee8772f-f4dc-4934-9545-b1acd50c7fd8
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Orange\nCouleur principale équipe extérieur: Bleu\n\nContact équipe
-  domicile: COLLIGNON T. (0474.89.84.20)\n\nAccès voiture : En venant de B
- ruxelles\, prendre l'autoroute E411 en direction de Namur\, prendre la sor
- tie  Wavre (n° 6)\, tenir la droite et au bout de la bretelle\, prendre l
- a direction d'Ottignies par la N238. Au 1èr feu de signalisation continue
- r tout droit en passant devant Walibi (qui se trouve sur la gauche) jusqu'
- à la sortie Limelette. Au bout de cette sortie\, en face du Tennis Club L
- a Palestre\, prendre à droite la rue Charles Dubois\, jusqu'au carrefour 
- principal. Continuer tout droit en traversant l'avenue Albert 1èr. Passer
-  en dessous du 1èr pont du chemin de fer et prendre la rue de l'Europe ju
- squ'à la place de l'Europe. Traverser cette place par la droite. Au bout 
- à gauche\, suivre l'avenue Jassans. Ensuite 1ère rue à gauche\,  la rue
-  Bustan (panneau F.C. Limelette). Continuer cette rue et passer en dessous
-  du 2ème pont du chemin de fer. Après ce pont\, prendre tout de suite à
-  gauche l'avenue Demolder (panneau F.C. Limelette)\, en face de l'étang d
- u Buston. Suivre cette avenue jusqu'à la 4ème rue à droite\, l'avenue d
- es Mérisiers. Après 50 m. dans cette rue\, prendre à droite l'avenue de
- s Sorbiers (panneau du F.C. Limelette). L'entrée du terrain est située 5
- 0 m. plus bas sur la gauche.
+SUMMARY:ABSSA D3B J17: STRING PENELOPE vs CORNAC UNITED FC
+DTSTART;VALUE=DATE-TIME:20240203T130000Z
+DTEND;VALUE=DATE-TIME:20240203T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3B_17_181_151
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Roug
+ e\n\nContact équipe domicile: Collignon T. (0474.89.84.20 - thom.colligno
+ n@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'autoro
+ ute E411 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir 
+ la droite et au bout de la bretelle\, prendre la direction d'Ottignies par
+  la N238. Au 1èr feu de signalisation continuer tout droit en passant dev
+ ant Walibi (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au 
+ bout de cette sortie\, en face du Tennis Club La Palestre\, prendre à dro
+ ite la rue Charles Dubois\, jusqu'au carrefour principal. Continuer tout d
+ roit en traversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du
+  chemin de fer et prendre la rue de l'Europe jusqu'à la place de l'Europe
+ . Traverser cette place par la droite. Au bout à gauche\, suivre l'avenue
+  Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limel
+ ette). Continuer cette rue et passer en dessous du 2ème pont du chemin de
+  fer. Après ce pont\, prendre tout de suite à gauche l'avenue Demolder (
+ panneau F.C. Limelette)\, en face de l'étang du Buston. Suivre cette aven
+ ue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m.
+  dans cette rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C.
+  Limelette). L'entrée du terrain est située 50 m. plus bas sur la gauche
+ .\n\nVérifiez toujours ces infos sur http://www.abssa.be/
 GEO:50.6762848;4.562820299999999
-LOCATION:Avenue des Sorbiers\, 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER:MAILTO:thom.collignon@gmail.com
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Collignon T.";ROLE=Secrétaire:MAILTO:thom.collignon@gmail.c
+ om
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3A J20: PHARMA SC vs STRING PENELOPE
-DTSTART:20230204T153000Z
-DTEND:20230204T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:6f2f86c2-ee6a-45e1-91d7-b81e5e9d9d3b
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe extérieur: Orange\n\nContact équip
- e domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : A partir du 
- square des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des N
- ymphes.
-GEO:50.8059064;4.4137412
-LOCATION:STADE DES TROIS TILLEULS\, Avenue des Nymphes\, 1\, 1170 Watermae
- l-Boitsfort\, Belgique
-ORGANIZER:MAILTO:phie.dumidi@scarlet.be
+SUMMARY:ABSSA D3B J18: FORESTOISE E.J. vs STRING PENELOPE
+DTSTART;VALUE=DATE-TIME:20240210T143000Z
+DTEND;VALUE=DATE-TIME:20240210T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3B_18_623_181
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Bleu Ciel\nCouleur principale équipe exterieure: O
+ range\n\nContact équipe domicile: El Yamani Y. (0474.75.75.02 - yahyaelya
+ mani96@gmail.com)\n\nAccès voiture : Au départ de la Place St. Denis à 
+ Forest prendre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4
+ ème rue à droite) et dans la rue de la Soierie rouler env. 100 m. puis 1
+ ère à gauche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L
+ 'entrée du Complexe se trouve à hauteur de City Cart\, à gauche de la r
+ oute.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER;CN="El Yamani Y.";ROLE=Secrétaire:MAILTO:yahyaelyamani96@gmail.
+ com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3A J21: STRING PENELOPE vs ETTEKIJS
-DTSTART:20230211T140000Z
-DTEND:20230211T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:d7daa3f7-bc0e-4dff-bffd-97662c480e9d
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Orange\nCouleur principale équipe extérieur: Noir\n\nContact équipe
-  domicile: COLLIGNON T. (0474.89.84.20)\n\nAccès voiture : En venant de B
- ruxelles\, prendre l'autoroute E411 en direction de Namur\, prendre la sor
- tie  Wavre (n° 6)\, tenir la droite et au bout de la bretelle\, prendre l
- a direction d'Ottignies par la N238. Au 1èr feu de signalisation continue
- r tout droit en passant devant Walibi (qui se trouve sur la gauche) jusqu'
- à la sortie Limelette. Au bout de cette sortie\, en face du Tennis Club L
- a Palestre\, prendre à droite la rue Charles Dubois\, jusqu'au carrefour 
- principal. Continuer tout droit en traversant l'avenue Albert 1èr. Passer
-  en dessous du 1èr pont du chemin de fer et prendre la rue de l'Europe ju
- squ'à la place de l'Europe. Traverser cette place par la droite. Au bout 
- à gauche\, suivre l'avenue Jassans. Ensuite 1ère rue à gauche\,  la rue
-  Bustan (panneau F.C. Limelette). Continuer cette rue et passer en dessous
-  du 2ème pont du chemin de fer. Après ce pont\, prendre tout de suite à
-  gauche l'avenue Demolder (panneau F.C. Limelette)\, en face de l'étang d
- u Buston. Suivre cette avenue jusqu'à la 4ème rue à droite\, l'avenue d
- es Mérisiers. Après 50 m. dans cette rue\, prendre à droite l'avenue de
- s Sorbiers (panneau du F.C. Limelette). L'entrée du terrain est située 5
- 0 m. plus bas sur la gauche.
+SUMMARY:ABSSA D3B J19: STRING PENELOPE vs FOOT JOSAPHAT
+DTSTART;VALUE=DATE-TIME:20240217T130000Z
+DTEND;VALUE=DATE-TIME:20240217T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3B_19_181_597
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Gris
+ \n\nContact équipe domicile: Collignon T. (0474.89.84.20 - thom.collignon
+ @gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'autorou
+ te E411 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir l
+ a droite et au bout de la bretelle\, prendre la direction d'Ottignies par 
+ la N238. Au 1èr feu de signalisation continuer tout droit en passant deva
+ nt Walibi (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au b
+ out de cette sortie\, en face du Tennis Club La Palestre\, prendre à droi
+ te la rue Charles Dubois\, jusqu'au carrefour principal. Continuer tout dr
+ oit en traversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du 
+ chemin de fer et prendre la rue de l'Europe jusqu'à la place de l'Europe.
+  Traverser cette place par la droite. Au bout à gauche\, suivre l'avenue 
+ Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limele
+ tte). Continuer cette rue et passer en dessous du 2ème pont du chemin de 
+ fer. Après ce pont\, prendre tout de suite à gauche l'avenue Demolder (p
+ anneau F.C. Limelette)\, en face de l'étang du Buston. Suivre cette avenu
+ e jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m. 
+ dans cette rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C. 
+ Limelette). L'entrée du terrain est située 50 m. plus bas sur la gauche.
+ \n\nVérifiez toujours ces infos sur http://www.abssa.be/
 GEO:50.6762848;4.562820299999999
-LOCATION:Avenue des Sorbiers\, 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER:MAILTO:thom.collignon@gmail.com
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Collignon T.";ROLE=Secrétaire:MAILTO:thom.collignon@gmail.c
+ om
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3A J22: AZUR RCS (Eq. 3) vs STRING PENELOPE
-DTSTART:20230225T120000Z
-DTEND:20230225T132500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:ea6fbb17-bf64-4642-a412-7f58012a333a
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe extérieur: Orange\n\nContact é
- quipe domicile: Mad. DECAMPS N. (0477.27.39.66)\n\nAccès voiture : Avenue
-  de Tervuren\, direction Tervuren. Passé le boulevard du Souverain prendr
- e à gauche au premier feu de signalisation (Av. Madoux). Au feu de signal
- isation suivant prendre la 2ème rue à main droite (Av. J. Dujardin). Ens
- uite 1ère rue à gauche (Av. Salomé).
-GEO:50.830818;4.455442
-LOCATION:CENTRE SPORTIF\, Avenue Salomé\, 2\, 1150 Woluwé-Saint-Pierre\,
-  Belgique
-ORGANIZER:MAILTO:nathalie_decamps@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J23: REQUINS (LES) vs STRING PENELOPE
-DTSTART:20230304T140000Z
-DTEND:20230304T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:df2f45b3-db95-46ed-b7d8-5d744f803d78
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe extérieur: Orange\n\nContact équipe
-  domicile: BARBE L. (0476.04.93.45)\n\nAccès voiture : En venant de Bruxe
- lles\, prendre l'autoroute E411 en direction de Namur\, prendre la sortie 
-  Wavre (n° 6)\, tenir la droite et au bout de la bretelle\, prendre la di
- rection d'Ottignies par la N238. Au 1èr feu de signalisation continuer to
- ut droit en passant devant Walibi (qui se trouve sur la gauche) jusqu'à l
- a sortie Limelette. Au bout de cette sortie\, en face du Tennis Club La Pa
- lestre\, prendre à droite la rue Charles Dubois\, jusqu'au carrefour prin
- cipal. Continuer tout droit en traversant l'avenue Albert 1èr. Passer en 
- dessous du 1èr pont du chemin de fer et prendre la rue de l'Europe jusqu'
- à la place de l'Europe. Traverser cette place par la droite. Au bout à g
- auche\, suivre l'avenue Jassans. Ensuite 1ère rue à gauche\,  la rue Bus
- tan (panneau F.C. Limelette). Continuer cette rue et passer en dessous du 
- 2ème pont du chemin de fer. Après ce pont\, prendre tout de suite à gau
- che l'avenue Demolder (panneau F.C. Limelette)\, en face de l'étang du Bu
- ston. Suivre cette avenue jusqu'à la 4ème rue à droite\, l'avenue des M
- érisiers. Après 50 m. dans cette rue\, prendre à droite l'avenue des So
- rbiers (panneau du F.C. Limelette). L'entrée du terrain est située 50 m.
-  plus bas sur la gauche.
+SUMMARY:ABSSA D3B J26: STRING PENELOPE vs AZUR RCS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20240224T130000Z
+DTEND;VALUE=DATE-TIME:20240224T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3B_26_181_109
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Bleu
+  ciel\n\nContact équipe domicile: Collignon T. (0474.89.84.20 - thom.coll
+ ignon@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'au
+ toroute E411 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, te
+ nir la droite et au bout de la bretelle\, prendre la direction d'Ottignies
+  par la N238. Au 1èr feu de signalisation continuer tout droit en passant
+  devant Walibi (qui se trouve sur la gauche) jusqu'à la sortie Limelette.
+  Au bout de cette sortie\, en face du Tennis Club La Palestre\, prendre à
+  droite la rue Charles Dubois\, jusqu'au carrefour principal. Continuer to
+ ut droit en traversant l'avenue Albert 1èr. Passer en dessous du 1èr pon
+ t du chemin de fer et prendre la rue de l'Europe jusqu'à la place de l'Eu
+ rope. Traverser cette place par la droite. Au bout à gauche\, suivre l'av
+ enue Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. L
+ imelette). Continuer cette rue et passer en dessous du 2ème pont du chemi
+ n de fer. Après ce pont\, prendre tout de suite à gauche l'avenue Demold
+ er (panneau F.C. Limelette)\, en face de l'étang du Buston. Suivre cette 
+ avenue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 5
+ 0 m. dans cette rue\, prendre à droite l'avenue des Sorbiers (panneau du 
+ F.C. Limelette). L'entrée du terrain est située 50 m. plus bas sur la ga
+ uche.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
 GEO:50.6762848;4.562820299999999
-LOCATION:Avenue des Sorbiers\, 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER:MAILTO:louis.barbe1@gmail.com
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Collignon T.";ROLE=Secrétaire:MAILTO:thom.collignon@gmail.c
+ om
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3A J24: STRING PENELOPE vs UNION SCHAERBEEK
-DTSTART:20230311T140000Z
-DTEND:20230311T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:88b7721c-d560-4988-905c-3b1d770ca26c
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Orange\nCouleur principale équipe extérieur: Rouge et noir\n\nContac
- t équipe domicile: COLLIGNON T. (0474.89.84.20)\n\nAccès voiture : En ve
- nant de Bruxelles\, prendre l'autoroute E411 en direction de Namur\, prend
- re la sortie  Wavre (n° 6)\, tenir la droite et au bout de la bretelle\, 
- prendre la direction d'Ottignies par la N238. Au 1èr feu de signalisation
-  continuer tout droit en passant devant Walibi (qui se trouve sur la gauch
- e) jusqu'à la sortie Limelette. Au bout de cette sortie\, en face du Tenn
- is Club La Palestre\, prendre à droite la rue Charles Dubois\, jusqu'au c
- arrefour principal. Continuer tout droit en traversant l'avenue Albert 1è
- r. Passer en dessous du 1èr pont du chemin de fer et prendre la rue de l'
- Europe jusqu'à la place de l'Europe. Traverser cette place par la droite.
-  Au bout à gauche\, suivre l'avenue Jassans. Ensuite 1ère rue à gauche\
- ,  la rue Bustan (panneau F.C. Limelette). Continuer cette rue et passer e
- n dessous du 2ème pont du chemin de fer. Après ce pont\, prendre tout de
-  suite à gauche l'avenue Demolder (panneau F.C. Limelette)\, en face de l
- 'étang du Buston. Suivre cette avenue jusqu'à la 4ème rue à droite\, l
- 'avenue des Mérisiers. Après 50 m. dans cette rue\, prendre à droite l'
- avenue des Sorbiers (panneau du F.C. Limelette). L'entrée du terrain est 
- située 50 m. plus bas sur la gauche.
+SUMMARY:ABSSA D3B J23: STRING PENELOPE vs MOUSSES TACHENT
+DTSTART;VALUE=DATE-TIME:20240302T130000Z
+DTEND;VALUE=DATE-TIME:20240302T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3B_23_181_643
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Bord
+ eaux\n\nContact équipe domicile: Collignon T. (0474.89.84.20 - thom.colli
+ gnon@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'aut
+ oroute E411 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, ten
+ ir la droite et au bout de la bretelle\, prendre la direction d'Ottignies 
+ par la N238. Au 1èr feu de signalisation continuer tout droit en passant 
+ devant Walibi (qui se trouve sur la gauche) jusqu'à la sortie Limelette. 
+ Au bout de cette sortie\, en face du Tennis Club La Palestre\, prendre à 
+ droite la rue Charles Dubois\, jusqu'au carrefour principal. Continuer tou
+ t droit en traversant l'avenue Albert 1èr. Passer en dessous du 1èr pont
+  du chemin de fer et prendre la rue de l'Europe jusqu'à la place de l'Eur
+ ope. Traverser cette place par la droite. Au bout à gauche\, suivre l'ave
+ nue Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Li
+ melette). Continuer cette rue et passer en dessous du 2ème pont du chemin
+  de fer. Après ce pont\, prendre tout de suite à gauche l'avenue Demolde
+ r (panneau F.C. Limelette)\, en face de l'étang du Buston. Suivre cette a
+ venue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50
+  m. dans cette rue\, prendre à droite l'avenue des Sorbiers (panneau du F
+ .C. Limelette). L'entrée du terrain est située 50 m. plus bas sur la gau
+ che.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
 GEO:50.6762848;4.562820299999999
-LOCATION:Avenue des Sorbiers\, 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER:MAILTO:thom.collignon@gmail.com
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Collignon T.";ROLE=Secrétaire:MAILTO:thom.collignon@gmail.c
+ om
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3A J25: STRING PENELOPE vs SPARTA SCHEUT
-DTSTART:20230318T140000Z
-DTEND:20230318T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:dc297252-4b0d-4971-bf55-dd070f7d0adf
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Orange\nCouleur principale équipe extérieur: Rayé Bleu et Jaune\n\n
- Contact équipe domicile: COLLIGNON T. (0474.89.84.20)\n\nAccès voiture :
-  En venant de Bruxelles\, prendre l'autoroute E411 en direction de Namur\,
-  prendre la sortie  Wavre (n° 6)\, tenir la droite et au bout de la brete
- lle\, prendre la direction d'Ottignies par la N238. Au 1èr feu de signali
- sation continuer tout droit en passant devant Walibi (qui se trouve sur la
-  gauche) jusqu'à la sortie Limelette. Au bout de cette sortie\, en face d
- u Tennis Club La Palestre\, prendre à droite la rue Charles Dubois\, jusq
- u'au carrefour principal. Continuer tout droit en traversant l'avenue Albe
- rt 1èr. Passer en dessous du 1èr pont du chemin de fer et prendre la rue
-  de l'Europe jusqu'à la place de l'Europe. Traverser cette place par la d
- roite. Au bout à gauche\, suivre l'avenue Jassans. Ensuite 1ère rue à g
- auche\,  la rue Bustan (panneau F.C. Limelette). Continuer cette rue et pa
- sser en dessous du 2ème pont du chemin de fer. Après ce pont\, prendre t
- out de suite à gauche l'avenue Demolder (panneau F.C. Limelette)\, en fac
- e de l'étang du Buston. Suivre cette avenue jusqu'à la 4ème rue à droi
- te\, l'avenue des Mérisiers. Après 50 m. dans cette rue\, prendre à dro
- ite l'avenue des Sorbiers (panneau du F.C. Limelette). L'entrée du terrai
- n est située 50 m. plus bas sur la gauche.
+SUMMARY:ABSSA D3B J20: NIVELLES AS vs STRING PENELOPE
+DTSTART;VALUE=DATE-TIME:20240309T130000Z
+DTEND;VALUE=DATE-TIME:20240309T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3B_20_306_181
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: Bleu et jaune\nCouleur principale équipe exterieur
+ e: Orange\n\nContact équipe domicile: Couteau A (0497.63.11.19 - couteau.
+ arnold.00@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'au
+ toroute Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer
+  sous le pont de l'autoroute et prendre la direction de Nivelles. A 200 m.
+ \, au rond-point (Shopping Center)\, tourner à droite en direction de Wav
+ re (petit ring de Nivelles).\nAu 4ème rond-point (en tenant compte du ron
+ d-point du Shopping Center)\, tourner à gauche \, rue de l'Industrie et p
+ énétrer dans le zoning. Au bout de la rue\, avant le feu de signalisatio
+ n\, tourner à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\n
+ Vérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.5963436;4.3564187
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Couteau A";ROLE=Secrétaire:MAILTO:couteau.arnold.00@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J21: STRING PENELOPE vs WATERMAEL FC
+DTSTART;VALUE=DATE-TIME:20240316T130000Z
+DTEND;VALUE=DATE-TIME:20240316T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3B_21_181_611
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Bleu
+ \n\nContact équipe domicile: Collignon T. (0474.89.84.20 - thom.collignon
+ @gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'autorou
+ te E411 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir l
+ a droite et au bout de la bretelle\, prendre la direction d'Ottignies par 
+ la N238. Au 1èr feu de signalisation continuer tout droit en passant deva
+ nt Walibi (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au b
+ out de cette sortie\, en face du Tennis Club La Palestre\, prendre à droi
+ te la rue Charles Dubois\, jusqu'au carrefour principal. Continuer tout dr
+ oit en traversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du 
+ chemin de fer et prendre la rue de l'Europe jusqu'à la place de l'Europe.
+  Traverser cette place par la droite. Au bout à gauche\, suivre l'avenue 
+ Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limele
+ tte). Continuer cette rue et passer en dessous du 2ème pont du chemin de 
+ fer. Après ce pont\, prendre tout de suite à gauche l'avenue Demolder (p
+ anneau F.C. Limelette)\, en face de l'étang du Buston. Suivre cette avenu
+ e jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m. 
+ dans cette rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C. 
+ Limelette). L'entrée du terrain est située 50 m. plus bas sur la gauche.
+ \n\nVérifiez toujours ces infos sur http://www.abssa.be/
 GEO:50.6762848;4.562820299999999
-LOCATION:Avenue des Sorbiers\, 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER:MAILTO:thom.collignon@gmail.com
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Collignon T.";ROLE=Secrétaire:MAILTO:thom.collignon@gmail.c
+ om
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3A J26: MIDI AS vs STRING PENELOPE
-DTSTART:20230325T153000Z
-DTEND:20230325T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:534847af-aea2-48d4-a7d2-f5360a91be22
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe extérieur: Orange\n\nContact équip
- e domicile: CANTINIAU J-C. (0479.84.17.35)\n\nAccès voiture : En venant d
- e Bruxelles\, emprunter la chaussée de Bruxelles ou de Waterloo jusqu'au 
- magasin "Carrefour". Au dit carrefour (Mont-St.-Jean) prendre la direction
-  Nivelles. Sur cette chaussée\, au deuxième feu de signalisation\, prend
- re à droite\, le terrain se trouve à 500 m. et est fléché.
-GEO:50.6827211;4.3844421
-LOCATION:STADE GASTON REIFF\, Boulevard de l'Europe\, 1420 Braine - l'Alle
- ud\, Belgique
-ORGANIZER:MAILTO:standardmidi@hotmail.com
+SUMMARY:ABSSA D3B J22: HIGGINS-PUMAS (Eq. 2) vs STRING PENELOPE
+DTSTART;VALUE=DATE-TIME:20240323T113000Z
+DTEND;VALUE=DATE-TIME:20240323T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3B_22_416_181
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
+ erieure: Orange\n\nContact équipe domicile: De Biolley Ph. (0477.23.31.25
+  - philippe.debiolley@gmail.com)\n\nAccès voiture : En venant de Bruxelle
+ s par la chaussée de Wavre\, rejoindre le du début de l'autoroute Bruxel
+ les-Namur\, utiliser la bande de droite pendant +/- 200 m. et descendre de
+ vant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (en des
+ sous de l'autoroute). Le terrain se trouve à 200 m. Le stade est fléché
+ .\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="De Biolley Ph.";ROLE=Secrétaire:MAILTO:philippe.debiolley@g
+ mail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J25: GERMINAL CSA vs STRING PENELOPE
+DTSTART;VALUE=DATE-TIME:20240406T120000Z
+DTEND;VALUE=DATE-TIME:20240406T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3B_25_235_181
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E07\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Orange
+ \n\nContact équipe domicile: Naniot M. (0477.47.14.56 - m.naniot@skynet.b
+ e)\n\nAccès voiture : Boulevard Lambermont\, prendre le boulevard Léopol
+ d III\, direction aéroport de Bruxelles-National\, au 3ème feu de signal
+ isation prendre à droite. le terrain se trouve à 50 m.\n\nVérifiez touj
+ ours ces infos sur http://www.abssa.be/
+GEO:50.8691994;4.406709999999999
+LOCATION:Complexe Sportif Evere\, Avenue des Anciens Combattants 300\, 114
+ 0 Evere\, Belgique
+ORGANIZER;CN="Naniot M.";ROLE=Secrétaire:MAILTO:m.naniot@skynet.be
 END:VEVENT
 END:VCALENDAR

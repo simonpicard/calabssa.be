@@ -1,0 +1,123 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:abbsa_j_3_d_6e
+X-WR-CALDESC:Les matches de la journée 3 en divion 6E d'ABSSA.
+X-WR-CALNAME:D6E Journée 3
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J3: TIGRE (LE) FC vs BOUSVAL GENAPPE (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20230923T103000Z
+DTEND;VALUE=DATE-TIME:20230923T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_6E_3_237_401
+DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Bleu
+ \n\nContact équipe domicile: Goetghebuer G. (0494.46.63.32 - sportetvie@s
+ kynet.be)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute 
+ Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viadu
+ c prendre à droite\, l'avenue des Anciens Combattants. Juste après le ca
+ rrefour avec des feux de signalisation prendre à droite vers la Place de 
+ la Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le t
+ errain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces infos 
+ sur http://www.abssa.be/
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="Goetghebuer G.";ROLE=Secrétaire:MAILTO:sportetvie@skynet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J3: CHENOIS (ESPER) (Eq. 2) vs CORNAC UNITED FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20230923T130000Z
+DTEND;VALUE=DATE-TIME:20230923T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_6E_3_412_151
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W02\n\nCouleur princi
+ pale équipe domicile: Blanc et rouge\nCouleur principale équipe exterieu
+ re: Rouge\n\nContact équipe domicile: Gioffredi G. (0474.24.92.27 - 412fc
+ ec@gmail.com)\n\nAccès voiture : Venant d'Uccle\, prendre la chaussée de
+  Waterloo\, ensuite la chaussée de Bruxelles\, continuer jusqu'à la plac
+ e E. Vandevelde (intersection de la chaussée de Bruxelles avec la chauss
+ ée de Tervuren à Joli-Bois). Au feu de signalisation prendre à droite l
+ a chaussée Bara. Le terrain se trouve à droite à +/- 500 m.\n\nVérifie
+ z toujours ces infos sur http://www.abssa.be/
+GEO:50.701676;4.397567
+LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
+ORGANIZER;CN="Gioffredi G.";ROLE=Secrétaire:MAILTO:412fcec@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J3: BRUSSELS LTC (Eq. 6) vs KARIA FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20230923T133000Z
+DTEND;VALUE=DATE-TIME:20230923T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_6E_3_39_498
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: No
+ ir\n\nContact équipe domicile: Van Hacht O. (0475.96.43.03 - brusselsltc@
+ hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre le Ring Est
+  direction Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, 
+ Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours 
+ tout droit. Au feu de signalisation et le carrefour de La Hulpe\, tout dro
+ it direction Genval. Au feu de signalisation prendre à gauche et ensuite 
+ directement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se t
+ rouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.7309318;4.4945865
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J3: BRUSSELS BRITISH R (Eq. 7) vs FAUBOURG-BRAINOISE (Eq
+ . 2)
+DTSTART;VALUE=DATE-TIME:20230923T133000Z
+DTEND;VALUE=DATE-TIME:20230923T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_6E_3_1_100
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
+ \n\nContact équipe domicile: Lachia S. (0484.27.72.64 - abssa-sec@rbbfc.o
+ rg)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Pass
+ er devant l'église\, longer l'autoroute et tourner à droite au cimetièr
+ e des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur http:
+ //www.abssa.be/
+GEO:50.7282426;4.5537189
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="Lachia S.";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J3: BRITISH UNITED (Eq. 7) vs NIVELLES AS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20230923T133000Z
+DTEND;VALUE=DATE-TIME:20230923T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_6E_3_132_306
+DESCRIPTION:Terrain synthétique: non\nCode terrain: M02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Orange
+  fluo\n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gilles
+ vanderseypen@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Anvers (E1
+ 9) sortie Mechelen-Noord (n° 9) En arrivant dans le centre\, suivre la di
+ rection "Heist-op-den-Berg" Aller tout droit et passer le viaduc du chemin
+  de fer. Après 1 km. suivre les flèches "De Nekker". Garer les voitures 
+ à l'extérieur du complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au
+  terrain.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:51.0254354;4.503786799999999
+LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
+ ue
+ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
+ gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J3: WATERMAEL CS vs CHEVERNY SCHAERB (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20230923T133000Z
+DTEND;VALUE=DATE-TIME:20230923T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_6E_3_375_128
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Jaune
+ \n\nContact équipe domicile: De Greve M. (0495.22.83.19 - micheldegreve08
+ @gmail.com)\n\nAccès voiture : A partir du square des Archiducs\, prendre
+  la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez toujours 
+ ces infos sur http://www.abssa.be/
+GEO:50.8059082;4.4137428
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="De Greve M.";ROLE=Secrétaire:MAILTO:micheldegreve08@gmail.c
+ om
+END:VEVENT
+END:VCALENDAR

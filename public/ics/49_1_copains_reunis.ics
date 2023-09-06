@@ -1,0 +1,529 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:49_1_copains_reunis
+X-WR-CALDESC:Les matches du club COPAINS REUNIS (equipe 1) en ABSSA.
+X-WR-CALNAME:ABSSA: COPAINS REUNIS (eq. 1)
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J10: BOUKS  FC vs COPAINS REUNIS
+DTSTART;VALUE=DATE-TIME:20230902T133000Z
+DTEND;VALUE=DATE-TIME:20230902T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3D_10_579_49
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu f
+ oncé\n\nContact équipe domicile: Schapira  F. (0485.60.96.01 - francois_
+ schapira5@hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre l
+ e Ring Est direction Waterloo. Sortir au pont de Groenendael\, direction L
+ a Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\,
+  toujours tout droit. Au feu de signalisation et le carrefour de La Hulpe\
+ , tout droit direction Genval. Au feu de signalisation prendre à gauche e
+ t ensuite directement à droite\, l'avenue Soyer\, derrière le G.B. Le te
+ rrain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.a
+ bssa.be/
+GEO:50.7309318;4.4945865
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Schapira  F.";ROLE=Secrétaire:MAILTO:francois_schapira5@hot
+ mail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J1: COPAINS REUNIS vs NO BOYS
+DTSTART;VALUE=DATE-TIME:20230909T133000Z
+DTEND;VALUE=DATE-TIME:20230909T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3D_1_49_420
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
+  Jaune\n\nContact équipe domicile: Vandermeulen J. (0477.50.45.95 - meule
+ nj@hotmail.com)\n\nAccès voiture : En venant de la Route de Lennik (Citro
+ ën) ou de la Chaussée de Mons (Ikea)\, prendre la direction du cimetièr
+ e d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-point pren
+ dre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du c
+ omplexe et des terrains se situe à +/- 500 m. sur la gauche.\n\nVérifiez
+  toujours ces infos sur http://www.abssa.be/
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Vandermeulen J.";ROLE=Secrétaire:MAILTO:meulenj@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J2: SAINT GEORGES RCS (Eq. 2) vs COPAINS REUNIS
+DTSTART;VALUE=DATE-TIME:20230916T120000Z
+DTEND;VALUE=DATE-TIME:20230916T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3D_2_221_49
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
+ foncé\n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.dest
+ in@gmail.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"avenue Pa
+ rmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujours ces infos 
+ sur http://www.abssa.be/
+GEO:50.8343279;4.4397562
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J3: COPAINS REUNIS vs CELTIC ROOSTERS
+DTSTART;VALUE=DATE-TIME:20230923T133000Z
+DTEND;VALUE=DATE-TIME:20230923T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3D_3_49_626
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
+  Vert et blanc\n\nContact équipe domicile: Vandermeulen J. (0477.50.45.95
+  - meulenj@hotmail.com)\n\nAccès voiture : En venant de la Route de Lenni
+ k (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre la direction du c
+ imetière d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-po
+ int prendre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entr
+ ée du complexe et des terrains se situe à +/- 500 m. sur la gauche.\n\nV
+ érifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Vandermeulen J.";ROLE=Secrétaire:MAILTO:meulenj@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J4: ETTEKIJS (Eq. 2) vs COPAINS REUNIS
+DTSTART;VALUE=DATE-TIME:20230930T103000Z
+DTEND;VALUE=DATE-TIME:20230930T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3D_4_343_49
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Noir rayé de blanc\nCouleur principale équipe ext
+ erieure: Bleu foncé\n\nContact équipe domicile: Raes F. (0479.73.82.49 -
+  freddy.raes@gmail.com)\n\nAccès voiture : A partir du square des Archidu
+ cs\, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifi
+ ez toujours ces infos sur http://www.abssa.be/
+GEO:50.8059082;4.4137428
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J5: COPAINS REUNIS vs COLO-COLO UNITED
+DTSTART;VALUE=DATE-TIME:20231007T133000Z
+DTEND;VALUE=DATE-TIME:20231007T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3D_5_49_625
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
+  Bleu foncé et blanc\n\nContact équipe domicile: Vandermeulen J. (0477.5
+ 0.45.95 - meulenj@hotmail.com)\n\nAccès voiture : En venant de la Route d
+ e Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre la directi
+ on du cimetière d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au 
+ rond-point prendre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang).
+  L'entrée du complexe et des terrains se situe à +/- 500 m. sur la gauch
+ e.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Vandermeulen J.";ROLE=Secrétaire:MAILTO:meulenj@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J6: NEW INN FC (Eq. 3) vs COPAINS REUNIS
+DTSTART;VALUE=DATE-TIME:20231014T133000Z
+DTEND;VALUE=DATE-TIME:20231014T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3D_6_359_49
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Noir et rouge\nCouleur principale équipe exterieur
+ e: Bleu foncé\n\nContact équipe domicile: Cornil B. (0494.16.15.11 - ben
+ cornil@gmail.com)\n\nAccès voiture : Au départ de la Place Meiser\, l'au
+ toroute Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous 
+ le viaduc prendre à droite\, l'avenue des Anciens Combattants. Juste apr
+ ès le carrefour avec des feux de signalisation prendre à droite vers la 
+ Place de la Chapelle\, puis prendre la 4ème rue à main droite (rue au Bo
+ is). Le terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujours c
+ es infos sur http://www.abssa.be/
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="Cornil B.";ROLE=Secrétaire:MAILTO:bencornil@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J8: CHENOIS SC (Eq. 2) vs COPAINS REUNIS
+DTSTART;VALUE=DATE-TIME:20231021T113000Z
+DTEND;VALUE=DATE-TIME:20231021T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3D_8_84_49
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W02\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu 
+ foncé\n\nContact équipe domicile: Versmissen P. (0495.59.61.77 - sc.chen
+ ois@waterloo.eu)\n\nAccès voiture : Venant d'Uccle\, prendre la chaussée
+  de Waterloo\, ensuite la chaussée de Bruxelles\, continuer jusqu'à la p
+ lace E. Vandevelde (intersection de la chaussée de Bruxelles avec la chau
+ ssée de Tervuren à Joli-Bois). Au feu de signalisation prendre à droite
+  la chaussée Bara. Le terrain se trouve à droite à +/- 500 m.\n\nVérif
+ iez toujours ces infos sur http://www.abssa.be/
+GEO:50.701676;4.397567
+LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
+ORGANIZER;CN="Versmissen P.";ROLE=Secrétaire:MAILTO:sc.chenois@waterloo.e
+ u
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J24: NEW ARQUOIS FC (Eq. 2) vs COPAINS REUNIS
+DTSTART;VALUE=DATE-TIME:20231028T103000Z
+DTEND;VALUE=DATE-TIME:20231028T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3D_24_263_49
+DESCRIPTION:Terrain synthétique: non\nCode terrain: A12\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu f
+ oncé\n\nContact équipe domicile: Beka J-M. (0495.25.31.25 - jmbeka73@gma
+ il.com)\n\nAccès voiture : Autoroute E 19 (Bruxelles-Charleroi)\, sortie 
+ Arquennes. Direction Seneffe-La-Louvière. A la station d'essence Total\, 
+ prendre à droite pendant +/- 700 mètres.\nAu rond point\, prendre à dro
+ ite en direction du château de La Rocq\, passez sous le pont\, le terrain
+  se trouve à 100 mètres (à proximité du cimetière).\n\nVérifiez touj
+ ours ces infos sur http://www.abssa.be/
+GEO:50.5690988;4.2677281
+LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion\, 7181 Arquennes\, B
+ elgique
+ORGANIZER;CN="Beka J-M.";ROLE=Secrétaire:MAILTO:jmbeka73@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J7: COPAINS REUNIS vs SYB  RFC
+DTSTART;VALUE=DATE-TIME:20231104T143000Z
+DTEND;VALUE=DATE-TIME:20231104T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3D_7_49_48
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
+  Rayé Vert et blanc\n\nContact équipe domicile: Vandermeulen J. (0477.50
+ .45.95 - meulenj@hotmail.com)\n\nAccès voiture : En venant de la Route de
+  Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre la directio
+ n du cimetière d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au r
+ ond-point prendre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). 
+ L'entrée du complexe et des terrains se situe à +/- 500 m. sur la gauche
+ .\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Vandermeulen J.";ROLE=Secrétaire:MAILTO:meulenj@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J9: COPAINS REUNIS vs RAPID MYMOL
+DTSTART;VALUE=DATE-TIME:20231118T143000Z
+DTEND;VALUE=DATE-TIME:20231118T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3D_9_49_622
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
+  Bleu et Jaune\n\nContact équipe domicile: Vandermeulen J. (0477.50.45.95
+  - meulenj@hotmail.com)\n\nAccès voiture : En venant de la Route de Lenni
+ k (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre la direction du c
+ imetière d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-po
+ int prendre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entr
+ ée du complexe et des terrains se situe à +/- 500 m. sur la gauche.\n\nV
+ érifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Vandermeulen J.";ROLE=Secrétaire:MAILTO:meulenj@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J12: COPAINS REUNIS vs MACCABI BXL
+DTSTART;VALUE=DATE-TIME:20231125T143000Z
+DTEND;VALUE=DATE-TIME:20231125T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3D_12_49_634
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
+  Bleu\n\nContact équipe domicile: Vandermeulen J. (0477.50.45.95 - meulen
+ j@hotmail.com)\n\nAccès voiture : En venant de la Route de Lennik (Citro
+ ën) ou de la Chaussée de Mons (Ikea)\, prendre la direction du cimetièr
+ e d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-point pren
+ dre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du c
+ omplexe et des terrains se situe à +/- 500 m. sur la gauche.\n\nVérifiez
+  toujours ces infos sur http://www.abssa.be/
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Vandermeulen J.";ROLE=Secrétaire:MAILTO:meulenj@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J11: COPAINS REUNIS vs NEW ARQUOIS FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20231202T143000Z
+DTEND;VALUE=DATE-TIME:20231202T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3D_11_49_263
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
+  Bleu\n\nContact équipe domicile: Vandermeulen J. (0477.50.45.95 - meulen
+ j@hotmail.com)\n\nAccès voiture : En venant de la Route de Lennik (Citro
+ ën) ou de la Chaussée de Mons (Ikea)\, prendre la direction du cimetièr
+ e d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-point pren
+ dre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du c
+ omplexe et des terrains se situe à +/- 500 m. sur la gauche.\n\nVérifiez
+  toujours ces infos sur http://www.abssa.be/
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Vandermeulen J.";ROLE=Secrétaire:MAILTO:meulenj@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J13: IRLANDE FC (Eq. 4) vs COPAINS REUNIS
+DTSTART;VALUE=DATE-TIME:20231209T130000Z
+DTEND;VALUE=DATE-TIME:20231209T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3D_13_402_49
+DESCRIPTION:Terrain synthétique: non\nCode terrain: N04\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Bleu f
+ oncé\n\nContact équipe domicile: Bridoux J.F. (0455.12.12.65 - fci.secre
+ tary.mens@outlook.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à N
+ ossegem\, au premier croisement prendre à gauche la \nMechelsesteenweg. L
+ e terrain est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-
+ Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mech
+ elsesteenweg\, traverser la chaussée de Louvain\, et suivre comme ci-avan
+ t.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.88776559999999;4.50894
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER;CN="Bridoux J.F.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@out
+ look.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J14: NO BOYS vs COPAINS REUNIS
+DTSTART;VALUE=DATE-TIME:20240113T113000Z
+DTEND;VALUE=DATE-TIME:20240113T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3D_14_420_49
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Bleu 
+ foncé\n\nContact équipe domicile: Deby P. (0479.94.64.38 - pierredeby@gm
+ ail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 300 m. 
+ en direction de Lennik\, prendre à droite.\nVenant de la chaussée de Mon
+ s\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Th
+ éo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en directio
+ n de Lennik.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8177358;4.2557195
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER;CN="Deby P.";ROLE=Secrétaire:MAILTO:pierredeby@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J15: COPAINS REUNIS vs SAINT GEORGES RCS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240120T143000Z
+DTEND;VALUE=DATE-TIME:20240120T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3D_15_49_221
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
+  Blanc\n\nContact équipe domicile: Vandermeulen J. (0477.50.45.95 - meule
+ nj@hotmail.com)\n\nAccès voiture : En venant de la Route de Lennik (Citro
+ ën) ou de la Chaussée de Mons (Ikea)\, prendre la direction du cimetièr
+ e d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-point pren
+ dre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du c
+ omplexe et des terrains se situe à +/- 500 m. sur la gauche.\n\nVérifiez
+  toujours ces infos sur http://www.abssa.be/
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Vandermeulen J.";ROLE=Secrétaire:MAILTO:meulenj@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J16: CELTIC ROOSTERS vs COPAINS REUNIS
+DTSTART;VALUE=DATE-TIME:20240127T143000Z
+DTEND;VALUE=DATE-TIME:20240127T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3D_16_626_49
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
+ pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
+ e: Bleu foncé\n\nContact équipe domicile: Dubois S. (0479.04.13.70 - cel
+ ticroosters@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Namur
+  / Luxembourg\, prendre la sortie n° 6 Wavre\, à gauche N 238 direction 
+ Wavre. Au rond-	point 2ième sortie N238/Blvd. de l'Europe direction Wavre
+  Centre. Entrer dans Wavre puis à gauche N 238\, à gauche N 239. 	Au ron
+ d-point prendre la première sortie Rue Haute\, continuer sur rue de Bruxe
+ lles\, continuer sur rue Saint-Roch\, continuer 	sur rue Joseph Joppart. P
+ rendre à droite l'avenue du Centre Sportif.\n\nVérifiez toujours ces inf
+ os sur http://www.abssa.be/
+GEO:50.7216297;4.6192566
+LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
+  Belgique
+ORGANIZER;CN="Dubois S.";ROLE=Secrétaire:MAILTO:celticroosters@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J17: COPAINS REUNIS vs ETTEKIJS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240203T143000Z
+DTEND;VALUE=DATE-TIME:20240203T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3D_17_49_343
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
+  Noir rayé de blanc\n\nContact équipe domicile: Vandermeulen J. (0477.50
+ .45.95 - meulenj@hotmail.com)\n\nAccès voiture : En venant de la Route de
+  Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre la directio
+ n du cimetière d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au r
+ ond-point prendre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). 
+ L'entrée du complexe et des terrains se situe à +/- 500 m. sur la gauche
+ .\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Vandermeulen J.";ROLE=Secrétaire:MAILTO:meulenj@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J18: COLO-COLO UNITED vs COPAINS REUNIS
+DTSTART;VALUE=DATE-TIME:20240210T113000Z
+DTEND;VALUE=DATE-TIME:20240210T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3D_18_625_49
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Bleu foncé et blanc\nCouleur principale équipe ex
+ terieure: Bleu foncé\n\nContact équipe domicile: De Le Court Y. (0472.35
+ .25.20 - youdelecourt@gmail.com)\n\nAccès voiture : Au départ de la Plac
+ e Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraainem
+  (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anciens Combatta
+ nts. Juste après le carrefour avec des feux de signalisation prendre à d
+ roite vers la Place de la Chapelle\, puis prendre la 4ème rue à main dro
+ ite (rue au Bois). Le terrain se trouve à 300 m. sur la droite.\n\nVérif
+ iez toujours ces infos sur http://www.abssa.be/
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="De Le Court Y.";ROLE=Secrétaire:MAILTO:youdelecourt@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J19: COPAINS REUNIS vs NEW INN FC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20240217T143000Z
+DTEND;VALUE=DATE-TIME:20240217T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3D_19_49_359
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
+  Noir et rouge\n\nContact équipe domicile: Vandermeulen J. (0477.50.45.95
+  - meulenj@hotmail.com)\n\nAccès voiture : En venant de la Route de Lenni
+ k (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre la direction du c
+ imetière d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-po
+ int prendre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entr
+ ée du complexe et des terrains se situe à +/- 500 m. sur la gauche.\n\nV
+ érifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Vandermeulen J.";ROLE=Secrétaire:MAILTO:meulenj@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J26: COPAINS REUNIS vs IRLANDE FC (Eq. 4)
+DTSTART;VALUE=DATE-TIME:20240224T143000Z
+DTEND;VALUE=DATE-TIME:20240224T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3D_26_49_402
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
+  Vert\n\nContact équipe domicile: Vandermeulen J. (0477.50.45.95 - meulen
+ j@hotmail.com)\n\nAccès voiture : En venant de la Route de Lennik (Citro
+ ën) ou de la Chaussée de Mons (Ikea)\, prendre la direction du cimetièr
+ e d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-point pren
+ dre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du c
+ omplexe et des terrains se situe à +/- 500 m. sur la gauche.\n\nVérifiez
+  toujours ces infos sur http://www.abssa.be/
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Vandermeulen J.";ROLE=Secrétaire:MAILTO:meulenj@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J23: COPAINS REUNIS vs BOUKS  FC
+DTSTART;VALUE=DATE-TIME:20240302T143000Z
+DTEND;VALUE=DATE-TIME:20240302T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3D_23_49_579
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
+  Bleu\n\nContact équipe domicile: Vandermeulen J. (0477.50.45.95 - meulen
+ j@hotmail.com)\n\nAccès voiture : En venant de la Route de Lennik (Citro
+ ën) ou de la Chaussée de Mons (Ikea)\, prendre la direction du cimetièr
+ e d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-point pren
+ dre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du c
+ omplexe et des terrains se situe à +/- 500 m. sur la gauche.\n\nVérifiez
+  toujours ces infos sur http://www.abssa.be/
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Vandermeulen J.";ROLE=Secrétaire:MAILTO:meulenj@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J20: SYB  RFC vs COPAINS REUNIS
+DTSTART;VALUE=DATE-TIME:20240309T143000Z
+DTEND;VALUE=DATE-TIME:20240309T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3D_20_48_49
+DESCRIPTION:Terrain synthétique: non\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Rayé Vert et blanc\nCouleur principale équipe ext
+ erieure: Bleu foncé\n\nContact équipe domicile: Joie C (0496.87.21.50 - 
+ christophe.joie@hotmail.com)\n\nAccès voiture : En venant de la Route de 
+ Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre la direction
+  du cimetière d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au ro
+ nd-point prendre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L
+ 'entrée du complexe et des terrains se situe à +/- 500 m. sur la gauche.
+ \n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Joie C";ROLE=Secrétaire:MAILTO:christophe.joie@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J21: COPAINS REUNIS vs CHENOIS SC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240316T143000Z
+DTEND;VALUE=DATE-TIME:20240316T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3D_21_49_84
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
+  Rouge\n\nContact équipe domicile: Vandermeulen J. (0477.50.45.95 - meule
+ nj@hotmail.com)\n\nAccès voiture : En venant de la Route de Lennik (Citro
+ ën) ou de la Chaussée de Mons (Ikea)\, prendre la direction du cimetièr
+ e d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-point pren
+ dre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du c
+ omplexe et des terrains se situe à +/- 500 m. sur la gauche.\n\nVérifiez
+  toujours ces infos sur http://www.abssa.be/
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Vandermeulen J.";ROLE=Secrétaire:MAILTO:meulenj@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J22: RAPID MYMOL vs COPAINS REUNIS
+DTSTART;VALUE=DATE-TIME:20240323T130000Z
+DTEND;VALUE=DATE-TIME:20240323T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3D_22_622_49
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W19\n\nCouleur princi
+ pale équipe domicile: Bleu et Jaune\nCouleur principale équipe exterieur
+ e: Bleu foncé\n\nContact équipe domicile: Delanghe A. (0498.42.21.39 - r
+ apidmymolabssa@gmail.com)\n\nAccès voiture : Ring de Bruxelles (RO)\, sor
+ tie n° 2. Prendre la direction Wezembeek-Oppem. Ensuite première rue à 
+ droite (Louis Marcelisstraat) puis la troisième à droite (Sportpleinstra
+ at).\nL'entrée au terrain se trouve à gauche entre les n° 16 et 24.\nPa
+ r la ville : A partir du rond point Montgomery\, prendre l'Avenue de Broqu
+ eville\, toujours tout droit. Passez devant le Shopping de Woluwé\, toujo
+ urs tout droit\, passez devant le magasin "Carrefour"\, puis au 2ème feu 
+ de signalisation prendre à droite et ensuite tout droit. Au bout de la ru
+ e prendre à droite\, le terrain se trouve à 100 mètres  sur la gauche.\
+ n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8424578;4.486587999999999
+LOCATION:Sportpleinstraat 20\, 1970 Wezembeek - Oppem\, Belgique
+ORGANIZER;CN="Delanghe A.";ROLE=Secrétaire:MAILTO:rapidmymolabssa@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J25: MACCABI BXL vs COPAINS REUNIS
+DTSTART;VALUE=DATE-TIME:20240406T120000Z
+DTEND;VALUE=DATE-TIME:20240406T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3D_25_634_49
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu f
+ oncé\n\nContact équipe domicile: Goudsmit G (0472.77.57.89 - maccabibxl@
+ gmail.com)\n\nAccès voiture : Au départ de la Place St. Denis à Forest 
+ prendre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème ru
+ e à droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à
+  gauche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entré
+ e du Complexe se trouve à hauteur de City Cart\, à gauche de la route.\n
+ \nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER;CN="Goudsmit G";ROLE=Secrétaire:MAILTO:maccabibxl@gmail.com
+END:VEVENT
+END:VCALENDAR

@@ -11,8 +11,19 @@ import { useLoaderData } from "react-router-dom";
 const ical = require("cal-parser");
 
 async function loadAndParseCal(fileName) {
-  const baseUri = `raw.githubusercontent.com/simonpicard/abssa-ical/main/data/07_model_output/ics/${fileName}.ics`;
-  const icalPath = `https://${baseUri}`;
+  var hostname, httpProtocol;
+  if (process.env.NODE_ENV === "development") {
+    hostname = "localhost:3000";
+    httpProtocol = "http";
+  }
+
+  if (process.env.NODE_ENV === "production") {
+    hostname = "calabssa.be";
+    httpProtocol = "https";
+  }
+
+  const baseUri = `${hostname}/ics/${fileName}.ics`;
+  const icalPath = `${httpProtocol}://${baseUri}`;
   const icalWebcal = `webcal://${baseUri}`;
 
   const icalCall = await fetch(icalPath);

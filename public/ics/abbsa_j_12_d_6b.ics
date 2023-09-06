@@ -1,0 +1,126 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:abbsa_j_12_d_6b
+X-WR-CALDESC:Les matches de la journée 12 en divion 6B d'ABSSA.
+X-WR-CALNAME:D6B Journée 12
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J12: PHARMA SC (Eq. 3) vs AUDERGHEM R.CF
+DTSTART;VALUE=DATE-TIME:20231125T123000Z
+DTEND;VALUE=DATE-TIME:20231125T140000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_6B_12_268_72
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.dumidi@sca
+ rlet.be)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nEn venan
+ t de Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi pr
+ endre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point. 
+ Le terrain se trouve en face de la pompe à essence Q8.\n\nVérifiez toujo
+ urs ces infos sur http://www.abssa.be/
+GEO:50.883299;4.316365
+LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
+ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J12: BRAINE-TERMINUS FC (Eq. 2) vs CHIEFS WSL (Eq. 4)
+DTSTART;VALUE=DATE-TIME:20231125T123000Z
+DTEND;VALUE=DATE-TIME:20231125T140000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_6B_12_537_303
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
+ pale équipe domicile: Jaune et rouge\nCouleur principale équipe exterieu
+ re: Blanc\n\nContact équipe domicile: Dero G. (0479.81.83.27 - fcbrainete
+ rminus@gmail.com)\n\nAccès voiture : En venant de Bruxelles : Autoroute T
+ ournai - Lille (A8)\, prendre la sortie n° 24\, direction Rebecq\, puis l
+ a N 6 Bruxelles-Mons en direction de Mons. Entrer dans l'agglomération de
+  Braine-Le-Comte et prendre la 1ère rue à droite\, le terrain se situe a
+ u bout de la rue.\nEn venant de Nivelles : Prendre la N533\, Nivelles/Brai
+ ne-Le-Comte. Entrer dans l'agglomération de Braine-Le-Comte et suivre la 
+ direction de Bruxelles (N 6 Mons-Bruxelles)\, prendre la 1ère rue à gauc
+ he\, le terrain se situe au bout de la rue.\n\nVérifiez toujours ces info
+ s sur http://www.abssa.be/
+GEO:50.6193857;4.1352085
+LOCATION:Rue du Poseur 39\, 7090 Braine-Le-Comte\, Belgique
+ORGANIZER;CN="Dero G.";ROLE=Secrétaire:MAILTO:fcbraineterminus@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J12: GOALOIS (Eq. 3) vs ETTEKIJS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20231125T130000Z
+DTEND;VALUE=DATE-TIME:20231125T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_6B_12_345_343
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Blanc-Noir\nCouleur principale équipe exterieure: 
+ Noir rayé de blanc\n\nContact équipe domicile: Laruelle M. (0494.52.09.7
+ 1 - martin.laruelle@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\
+ , prendre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (
+ terminus bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifi
+ ez toujours ces infos sur http://www.abssa.be/
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Laruelle M.";ROLE=Secrétaire:MAILTO:martin.laruelle@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J12: ECUSSON FC vs TRINQUANT (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20231125T143000Z
+DTEND;VALUE=DATE-TIME:20231125T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_6B_12_404_445
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Jaune et Bleu\nCouleur principale équipe exterieur
+ e: Bleu marine\n\nContact équipe domicile: Santoro M (0471.68.67.25 - dom
+ isie@hotmail.be)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après
+  300 m. en direction de Lennik\, prendre à droite.\nVenant de la chaussé
+ e de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, 
+ Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en d
+ irection de Lennik.\n\nVérifiez toujours ces infos sur http://www.abssa.b
+ e/
+GEO:50.8177358;4.2557195
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER;CN="Santoro M";ROLE=Secrétaire:MAILTO:domisie@hotmail.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J12: COPAINS REUNIS (Eq. 2) vs FORESTOIS SC (Eq. 5)
+DTSTART;VALUE=DATE-TIME:20231125T143000Z
+DTEND;VALUE=DATE-TIME:20231125T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_6B_12_49_152
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
+  Noir\n\nContact équipe domicile: Vandermeulen J. (0477.50.45.95 - meulen
+ j@hotmail.com)\n\nAccès voiture : En venant de la Route de Lennik (Citro
+ ën) ou de la Chaussée de Mons (Ikea)\, prendre la direction du cimetièr
+ e d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-point pren
+ dre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du c
+ omplexe et des terrains se situe à +/- 500 m. sur la gauche.\n\nVérifiez
+  toujours ces infos sur http://www.abssa.be/
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Vandermeulen J.";ROLE=Secrétaire:MAILTO:meulenj@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J12: NEW ARQUOIS FC (Eq. 3) vs COSMOS BRUWOLF MJ (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20231125T143000Z
+DTEND;VALUE=DATE-TIME:20231125T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_6B_12_263_338
+DESCRIPTION:Terrain synthétique: non\nCode terrain: A12\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Orange
+  et noir\n\nContact équipe domicile: Beka J-M. (0495.25.31.25 - jmbeka73@
+ gmail.com)\n\nAccès voiture : Autoroute E 19 (Bruxelles-Charleroi)\, sort
+ ie Arquennes. Direction Seneffe-La-Louvière. A la station d'essence Total
+ \, prendre à droite pendant +/- 700 mètres.\nAu rond point\, prendre à 
+ droite en direction du château de La Rocq\, passez sous le pont\, le terr
+ ain se trouve à 100 mètres (à proximité du cimetière).\n\nVérifiez t
+ oujours ces infos sur http://www.abssa.be/
+GEO:50.5690988;4.2677281
+LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion\, 7181 Arquennes\, B
+ elgique
+ORGANIZER;CN="Beka J-M.";ROLE=Secrétaire:MAILTO:jmbeka73@gmail.com
+END:VEVENT
+END:VCALENDAR

@@ -1,269 +1,460 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:f1259560-6b34-47af-9079-f6fe83d54ccc
-X-WR-CALDESC:Les matches de BLUE THRILLS (eq. 1) en ABSSA.
-X-WR-CALNAME:ABSSA - BLUE THRILLS (eq. 1) - 619
-X-WR-TIMEZONE:Europe/Brussels
+PRODID:619_1_blue_thrills
+X-WR-CALDESC:Les matches du club BLUE THRILLS (equipe 1) en ABSSA.
+X-WR-CALNAME:ABSSA: BLUE THRILLS (eq. 1)
 BEGIN:VEVENT
-SUMMARY:ABSSA D5B J2: BLUE THRILLS vs RAYO LATINO
-DTSTART:20220910T150000Z
-DTEND:20220910T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:687584da-708f-415d-93e2-0567fde4099b
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu Marine\nCouleur principale équipe extérieur: Rouge et noir\n\nC
- ontact équipe domicile: DE BRIEY A. (0479.858.374)\n\nAccès voiture : L'
- accès au terrain se fait à partir du n° 2057 de la chaussée de Wavre (
- en face du stade communal d'Auderghem). L'accès au terrain se fait par l'
- arrière du bâtiment principal (où sont situés les vestiaires) il faut 
- parcourir environ 300 mètres avant d'atteindre le terrain de football sit
- ué après la piste d'athlétisme et le terrain de hockey.
-GEO:50.80890770000001;4.4427327
-LOCATION:COMPLEXE DE L'ADEPS\, Chaussée de Wavre\, 2057\, 1160 Auderghem\
- , Belgique
-ORGANIZER:MAILTO:alexdebriey@hotmail.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5B J13: RAYO LATINO vs BLUE THRILLS
-DTSTART:20221203T140000Z
-DTEND:20221203T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:60c35d10-17ee-4b8c-a5d7-bbdc5f8de1c7
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge et noir\nCouleur principale équipe extérieur: Bleu Marine\n\nC
- ontact équipe domicile: LEPORCQ N (0485.64.31.86)\n\nAccès voiture : Cha
- ussée de Louvain jusqu'à Nossegem\, au premier croisement prendre à gau
- che la \nMechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.
- \nPar l'autoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek
- \, prendre à gauche la Mechelsesteenweg\, traverser la chaussée de Louva
- in\, et suivre comme ci-avant.
-GEO:50.8877772;4.5090761
-LOCATION:RADAR VLIEGHAVEN\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER:MAILTO:rayolatino@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5B J14: BLUE THRILLS vs GREZ AJ (Eq. 3)
-DTSTART:20221210T150000Z
-DTEND:20221210T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:3f67c7ac-5843-460d-9145-ef57a1498928
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu Marine\nCouleur principale équipe extérieur: Vert\n\nContact é
- quipe domicile: DE BRIEY A. (0479.858.374)\n\nAccès voiture : L'accès au
-  terrain se fait à partir du n° 2057 de la chaussée de Wavre (en face d
- u stade communal d'Auderghem). L'accès au terrain se fait par l'arrière 
- du bâtiment principal (où sont situés les vestiaires) il faut parcourir
-  environ 300 mètres avant d'atteindre le terrain de football situé aprè
- s la piste d'athlétisme et le terrain de hockey.
-GEO:50.80890770000001;4.4427327
-LOCATION:COMPLEXE DE L'ADEPS\, Chaussée de Wavre\, 2057\, 1160 Auderghem\
- , Belgique
-ORGANIZER:MAILTO:alexdebriey@hotmail.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5B J15: PIRATERIE (LA) vs BLUE THRILLS
-DTSTART:20221217T140000Z
-DTEND:20221217T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:46c904d0-e5db-4dc9-8bf4-40c93dbbed78
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe extérieur: Bleu Marine\n\nContact é
- quipe domicile: COOK Z (0497.25.56.22)\n\nAccès voiture : En venant de Br
- uxelles\, par l'autoroute Bruxelles-Paris\, prendre la sortie Nivelles-Sud
-  (n° 19)\, passer sous le pont de l'autoroute et prendre la direction de 
- Nivelles. A 200 m.\, au rond-point (Shopping Center)\, tourner à droite e
- n direction de Wavre (petit ring de Nivelles).\nAu 4ème rond-point (en te
- nant compte du rond-point du Shopping Center)\, tourner à gauche \, rue d
- e l'Industrie et pénétrer dans le zoning. Au bout de la rue\, avant le f
- eu de signalisation\, tourner à gauche et prendre la rue du Progrès pend
- ant +/- 400 m.
-GEO:50.5963436;4.3564187
-LOCATION:DOMAINE MILITAIRE\, Rue du Progrès\, 1A\, 1400 Nivelles\, Belgiq
- ue
-ORGANIZER:MAILTO:lapirateriefc@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5B J16: PINK PANTHERS vs BLUE THRILLS
-DTSTART:20230107T153000Z
-DTEND:20230107T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:6c29093e-a76e-4937-857e-2dffb32a054e
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Noir/ rose\nCouleur principale équipe extérieur: Bleu Marine\n\nCont
- act équipe domicile: ARGYRAKIS J. (0492.88.69.79)\n\nAccès voiture : Aut
- oroute Bruxelles-Namur (E411) prendre la sortie Louvain/Grez-Doiceau (n° 
- 8). Prendre la RN25 en direction de Louvain/Grez-Doiceau. Passer tout droi
- t les deux premiers ronds-points à l'issue de la RN 25. Au troisième ron
- d-point prendre à droite. Le terrain se trouve 150 m. plus loin à gauche
-  de la rue du Stampia.
-GEO:50.744789;4.6969702
-LOCATION:Rue du Stampia\, 1390 Grez-Doiceau\, Belgique
-ORGANIZER:MAILTO:jeremy_a@hotmail.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5B J17: BLUE THRILLS vs COSMOS BRUWOLF MJ
-DTSTART:20230114T150000Z
-DTEND:20230114T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:fb54242d-1caf-409b-9a90-d4e0649be930
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu Marine\nCouleur principale équipe extérieur: Orange/Noir\n\nCon
- tact équipe domicile: DE BRIEY A. (0479.858.374)\n\nAccès voiture : L'ac
- cès au terrain se fait à partir du n° 2057 de la chaussée de Wavre (en
-  face du stade communal d'Auderghem). L'accès au terrain se fait par l'ar
- rière du bâtiment principal (où sont situés les vestiaires) il faut pa
- rcourir environ 300 mètres avant d'atteindre le terrain de football situ
- é après la piste d'athlétisme et le terrain de hockey.
-GEO:50.80890770000001;4.4427327
-LOCATION:COMPLEXE DE L'ADEPS\, Chaussée de Wavre\, 2057\, 1160 Auderghem\
- , Belgique
-ORGANIZER:MAILTO:alexdebriey@hotmail.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5B J18: KARIA FC vs BLUE THRILLS
-DTSTART:20230121T153000Z
-DTEND:20230121T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:f122613c-2746-4e2d-8ec6-47296812c5bd
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Orange\nCouleur principale équipe extérieur: Bleu Marine\n\nContact 
- équipe domicile: BERCHA  M (0477.69.27.28)\n\nAccès voiture : Pont de La
- eken\, Chaussée de Vilvorde\, vers Neder-Over-Heembeek\, prendre l' Avenu
- e des Croix de Guerre jusqu'au rond-point\, tout droit Chemin Vert\, puis 
- première à gauche\, Petit Chemin Vert\, terrain à 300 m.
-GEO:50.8998295;4.3935952
-LOCATION:PETIT CHEMIN VERT\, Petit Chemin Vert\, 99\, 1120 Neder-Over-Heem
- beek\, Belgique
-ORGANIZER:MAILTO:mohamedbercha@hotmail.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5B J19: BLUE THRILLS vs CELTIC FORESTOIS
-DTSTART:20230128T150000Z
-DTEND:20230128T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:160b7172-e967-4f60-8c3f-b0579454e806
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu Marine\nCouleur principale équipe extérieur: Vert et  blanc\n\n
- Contact équipe domicile: DE BRIEY A. (0479.858.374)\n\nAccès voiture : L
- 'accès au terrain se fait à partir du n° 2057 de la chaussée de Wavre 
- (en face du stade communal d'Auderghem). L'accès au terrain se fait par l
- 'arrière du bâtiment principal (où sont situés les vestiaires) il faut
-  parcourir environ 300 mètres avant d'atteindre le terrain de football si
- tué après la piste d'athlétisme et le terrain de hockey.
-GEO:50.80890770000001;4.4427327
-LOCATION:COMPLEXE DE L'ADEPS\, Chaussée de Wavre\, 2057\, 1160 Auderghem\
- , Belgique
-ORGANIZER:MAILTO:alexdebriey@hotmail.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5B J20: MASIA CITY vs BLUE THRILLS
-DTSTART:20230204T133000Z
-DTEND:20230204T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:f6d696ba-de86-4f2f-9e5e-fc54802530fa
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Beige et bordeaux\nCouleur principale équipe extérieur: Bleu Marine\
- n\nContact équipe domicile: SAOUD T. (0460.97.04.65)\n\nAccès voiture : 
- A partir de Bruxelles\, prendre la E 411 en direction de Namur. Prendre la
-  sortie N° 8 puis à droite la bretelle pour la N 25 vers Chaumont-Gistou
- x / Grez Doiceau / Louvain. Après +/- 6\,5 km\, au rond-point\, prendre l
- a sortie 1 vers la N 420 Chée. de la Libération\, puis à gauche dans la
-  rue de la Grande lecke.
-GEO:50.7540176;4.7835618
-LOCATION:Rue de la Grande Lecke\, 3\, 1320 Beauvechain\, Belgique
-ORGANIZER:MAILTO:masiacity@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5B J21: BLUE THRILLS vs UNION BRUXELLOISE
-DTSTART:20230211T150000Z
-DTEND:20230211T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:ba56d037-50bc-4daf-8beb-056f4272d0e4
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu Marine\nCouleur principale équipe extérieur: Bleu\n\nContact é
- quipe domicile: DE BRIEY A. (0479.858.374)\n\nAccès voiture : L'accès au
-  terrain se fait à partir du n° 2057 de la chaussée de Wavre (en face d
- u stade communal d'Auderghem). L'accès au terrain se fait par l'arrière 
- du bâtiment principal (où sont situés les vestiaires) il faut parcourir
-  environ 300 mètres avant d'atteindre le terrain de football situé aprè
- s la piste d'athlétisme et le terrain de hockey.
-GEO:50.80890770000001;4.4427327
-LOCATION:COMPLEXE DE L'ADEPS\, Chaussée de Wavre\, 2057\, 1160 Auderghem\
- , Belgique
-ORGANIZER:MAILTO:alexdebriey@hotmail.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5B J23: CORNOI AS vs BLUE THRILLS
-DTSTART:20230304T150000Z
-DTEND:20230304T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:8d3d619c-7150-4045-8a18-a530bc02ed76
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge et blanc\nCouleur principale équipe extérieur: Bleu Marine\n\n
- Contact équipe domicile: DEVILLE A (0492. 67.96.76)\n\nAccès voiture : E
- n venant de Bruxelles\, emprunter la chaussée de Bruxelles ou de Waterloo
-  jusqu'au magasin "Carrefour". Au dit carrefour (Mont-St.-Jean) prendre la
-  direction Nivelles. Sur cette chaussée\, au deuxième feu de signalisati
- on\, prendre à droite\, le terrain se trouve à 500 m. et est fléché.
-GEO:50.6827211;4.3844421
-LOCATION:STADE GASTON REIFF\, Boulevard de l'Europe\, 1420 Braine - l'Alle
- ud\, Belgique
-ORGANIZER:MAILTO:ascornoi@live.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5B J24: DEAF BRUSSELS FC vs BLUE THRILLS
-DTSTART:20230311T153000Z
-DTEND:20230311T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:14058171-a401-4aca-83af-c97ca06c29e4
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert et noir\nCouleur principale équipe extérieur: Bleu Marine\n\nCo
- ntact équipe domicile: VAN BRANDT S. (0494.24.34.05 (SMS))\n\nAccès voit
- ure : Chaussée de Haecht\, vers Diegem. Prendre la rue Harenheyde à gauc
- he\, juste au feu de signalisation\, après la station "JET"\, situé à g
- auche. Entrée du stade par la rue Harenheyde\, 100 m. au-delà du pont du
-  chemin de fer.
+SUMMARY:ABSSA D4B J10: BLUE THRILLS vs BRITISH UNITED (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20230902T133000Z
+DTEND;VALUE=DATE-TIME:20230902T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_4B_10_619_132
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
+ pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
+  Bleu\n\nContact équipe domicile: De Briey A. (0479.858.374 - alexdebriey
+ @hotmail.fr)\n\nAccès voiture : Chaussée de Haecht\, vers Diegem. Prendr
+ e la rue Harenheyde à gauche\, juste au feu de signalisation\, après la 
+ station "JET"\, situé à gauche. Entrée du stade par la rue Harenheyde\,
+  100 m. au-delà du pont du chemin de fer.\n\nVérifiez toujours ces infos
+  sur http://www.abssa.be/
 GEO:50.8929668;4.4236193
 LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
-ORGANIZER:MAILTO:fc_deaf_brussels@live.be
+ORGANIZER;CN="De Briey A.";ROLE=Secrétaire:MAILTO:alexdebriey@hotmail.fr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5B J25: BLUE THRILLS vs GALACTIC JUMPERTZ
-DTSTART:20230318T150000Z
-DTEND:20230318T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:8c898b89-4ecb-495d-9b1a-ca1c220ddca1
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu Marine\nCouleur principale équipe extérieur: Orange\n\nContact 
- équipe domicile: DE BRIEY A. (0479.858.374)\n\nAccès voiture : L'accès 
- au terrain se fait à partir du n° 2057 de la chaussée de Wavre (en face
-  du stade communal d'Auderghem). L'accès au terrain se fait par l'arrièr
- e du bâtiment principal (où sont situés les vestiaires) il faut parcour
- ir environ 300 mètres avant d'atteindre le terrain de football situé apr
- ès la piste d'athlétisme et le terrain de hockey.
-GEO:50.80890770000001;4.4427327
-LOCATION:COMPLEXE DE L'ADEPS\, Chaussée de Wavre\, 2057\, 1160 Auderghem\
- , Belgique
-ORGANIZER:MAILTO:alexdebriey@hotmail.fr
+SUMMARY:ABSSA D4B J1: CHOULE AUDERGHEM (Eq. 2) vs BLUE THRILLS
+DTSTART;VALUE=DATE-TIME:20230909T103000Z
+DTEND;VALUE=DATE-TIME:20230909T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_4B_1_517_619
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu M
+ arine\n\nContact équipe domicile: Vandenplas D. (0476.54.48.01 - dav_54@h
+ otmail.com)\n\nAccès voiture : A partir du square des Archiducs\, prendre
+  la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez toujours 
+ ces infos sur http://www.abssa.be/
+GEO:50.8059082;4.4137428
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5B J26: BLUE THRILLS vs PIRATERIE (LA)
-DTSTART:20230325T150000Z
-DTEND:20230325T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:dd85d6fa-69e4-4ae3-8475-141ee0ff02e3
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu Marine\nCouleur principale équipe extérieur: Noir\n\nContact é
- quipe domicile: DE BRIEY A. (0479.858.374)\n\nAccès voiture : L'accès au
-  terrain se fait à partir du n° 2057 de la chaussée de Wavre (en face d
- u stade communal d'Auderghem). L'accès au terrain se fait par l'arrière 
- du bâtiment principal (où sont situés les vestiaires) il faut parcourir
-  environ 300 mètres avant d'atteindre le terrain de football situé aprè
- s la piste d'athlétisme et le terrain de hockey.
-GEO:50.80890770000001;4.4427327
-LOCATION:COMPLEXE DE L'ADEPS\, Chaussée de Wavre\, 2057\, 1160 Auderghem\
- , Belgique
-ORGANIZER:MAILTO:alexdebriey@hotmail.fr
+SUMMARY:ABSSA D4B J3: CHENOIS (ESPER) vs BLUE THRILLS
+DTSTART;VALUE=DATE-TIME:20230923T113000Z
+DTEND;VALUE=DATE-TIME:20230923T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_4B_3_412_619
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W02\n\nCouleur princi
+ pale équipe domicile: Blanc et rouge\nCouleur principale équipe exterieu
+ re: Bleu Marine\n\nContact équipe domicile: Gioffredi G. (0474.24.92.27 -
+  412fcec@gmail.com)\n\nAccès voiture : Venant d'Uccle\, prendre la chauss
+ ée de Waterloo\, ensuite la chaussée de Bruxelles\, continuer jusqu'à l
+ a place E. Vandevelde (intersection de la chaussée de Bruxelles avec la c
+ haussée de Tervuren à Joli-Bois). Au feu de signalisation prendre à dro
+ ite la chaussée Bara. Le terrain se trouve à droite à +/- 500 m.\n\nVé
+ rifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.701676;4.397567
+LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
+ORGANIZER;CN="Gioffredi G.";ROLE=Secrétaire:MAILTO:412fcec@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J4: BLUE THRILLS vs BRUSSELS LTC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20230930T133000Z
+DTEND;VALUE=DATE-TIME:20230930T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_4B_4_619_39
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
+ pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
+  Bordeaux\n\nContact équipe domicile: De Briey A. (0479.858.374 - alexdeb
+ riey@hotmail.fr)\n\nAccès voiture : Chaussée de Haecht\, vers Diegem. Pr
+ endre la rue Harenheyde à gauche\, juste au feu de signalisation\, après
+  la station "JET"\, situé à gauche. Entrée du stade par la rue Harenhey
+ de\, 100 m. au-delà du pont du chemin de fer.\n\nVérifiez toujours ces i
+ nfos sur http://www.abssa.be/
+GEO:50.8929668;4.4236193
+LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
+ORGANIZER;CN="De Briey A.";ROLE=Secrétaire:MAILTO:alexdebriey@hotmail.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J5: DUDEN SPORT R vs BLUE THRILLS
+DTSTART;VALUE=DATE-TIME:20231007T133000Z
+DTEND;VALUE=DATE-TIME:20231007T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_4B_5_22_619
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
+ re: Bleu Marine\n\nContact équipe domicile: Isabeaux A (0472.34.00.24 - a
+ rnaud8684@hotmail.be)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, a
+ près 300 m. en direction de Lennik\, prendre à droite.\nVenant de la cha
+ ussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Ver
+ di\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m.
+  en direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.ab
+ ssa.be/
+GEO:50.8177358;4.2557195
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER;CN="Isabeaux A";ROLE=Secrétaire:MAILTO:arnaud8684@hotmail.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J6: BLUE THRILLS vs SAINT GEORGES RCS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20231014T133000Z
+DTEND;VALUE=DATE-TIME:20231014T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_4B_6_619_221
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
+ pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
+  Blanc\n\nContact équipe domicile: De Briey A. (0479.858.374 - alexdebrie
+ y@hotmail.fr)\n\nAccès voiture : Chaussée de Haecht\, vers Diegem. Prend
+ re la rue Harenheyde à gauche\, juste au feu de signalisation\, après la
+  station "JET"\, situé à gauche. Entrée du stade par la rue Harenheyde\
+ , 100 m. au-delà du pont du chemin de fer.\n\nVérifiez toujours ces info
+ s sur http://www.abssa.be/
+GEO:50.8929668;4.4236193
+LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
+ORGANIZER;CN="De Briey A.";ROLE=Secrétaire:MAILTO:alexdebriey@hotmail.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J8: BLUE THRILLS vs ASTURIAS SPORTING
+DTSTART;VALUE=DATE-TIME:20231021T133000Z
+DTEND;VALUE=DATE-TIME:20231021T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_4B_8_619_602
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
+ pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
+  Bleu ciel\n\nContact équipe domicile: De Briey A. (0479.858.374 - alexde
+ briey@hotmail.fr)\n\nAccès voiture : Chaussée de Haecht\, vers Diegem. P
+ rendre la rue Harenheyde à gauche\, juste au feu de signalisation\, aprè
+ s la station "JET"\, situé à gauche. Entrée du stade par la rue Harenhe
+ yde\, 100 m. au-delà du pont du chemin de fer.\n\nVérifiez toujours ces 
+ infos sur http://www.abssa.be/
+GEO:50.8929668;4.4236193
+LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
+ORGANIZER;CN="De Briey A.";ROLE=Secrétaire:MAILTO:alexdebriey@hotmail.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J24: BREU UNITED vs BLUE THRILLS
+DTSTART;VALUE=DATE-TIME:20231028T120000Z
+DTEND;VALUE=DATE-TIME:20231028T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_4B_24_603_619
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Orange et Mauve\nCouleur principale équipe exterie
+ ure: Bleu Marine\n\nContact équipe domicile: Benabdelkader Y (0486.47.02.
+ 24 - comptayounes1@hotmail.com)\n\nAccès voiture : En venant de la Route 
+ de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre la direct
+ ion du cimetière d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au
+  rond-point prendre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang)
+ . L'entrée du complexe et des terrains se situe à +/- 500 m. sur la gauc
+ he.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Benabdelkader Y";ROLE=Secrétaire:MAILTO:comptayounes1@hotma
+ il.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J7: MIREILLE WEMMEL vs BLUE THRILLS
+DTSTART;VALUE=DATE-TIME:20231104T143000Z
+DTEND;VALUE=DATE-TIME:20231104T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_4B_7_93_619
+DESCRIPTION:Terrain synthétique: non\nCode terrain: W16\n\nCouleur princi
+ pale équipe domicile: Rouge et  Noir\nCouleur principale équipe exterieu
+ re: Bleu Marine\n\nContact équipe domicile: Vermeerbergen D. (0497.31.76.
+ 07 - daanvermeerbergen@hotmail.com)\n\nAccès voiture : Ring RO\, afrit We
+ mmel-Merchtem (n° 9)\, richting Merchtem volgen via de Is. Meyskensstraat
+  tot aan de rotonde\, op de rotonde de 4de afslag nemen\, Diepstraat deze 
+ vloeit over in de Steenweg op Brussel\, 50 m. voorbij het eerste kruispunt
+  met verkeerslichten\, links van de steenweg\, bevindt zich het stadium (p
+ arking)\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.9077704;4.3065753
+LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
+  Wemmel\, Belgique
+ORGANIZER;CN="Vermeerbergen D.";ROLE=Secrétaire:MAILTO:daanvermeerbergen@
+ hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J9: GAMBRINUS F.C. vs BLUE THRILLS
+DTSTART;VALUE=DATE-TIME:20231118T123000Z
+DTEND;VALUE=DATE-TIME:20231118T140000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_4B_9_645_619
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E10\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu M
+ arine\n\nContact équipe domicile: Brismee M (0474.68.53.85 - fcgambrinusf
+ c@gmail.com)\n\nAccès voiture : Prendre la chaussée de Louvain\, Place M
+ eiser\, Place de Paduwa\, prendre ensuite la 2ème rue à droite\, l' Aven
+ ue des Communautés\, l'entrée au terrain est situé à 100 m.\n\nVérifi
+ ez toujours ces infos sur http://www.abssa.be/
+GEO:50.8582632;4.4251766
+LOCATION:Stade Communal G. Petre\, Avenue des Communautés\, 1140 Evere\, 
+ Belgique
+ORGANIZER;CN="Brismee M";ROLE=Secrétaire:MAILTO:fcgambrinusfc@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J12: ZIJP FC vs BLUE THRILLS
+DTSTART;VALUE=DATE-TIME:20231125T143000Z
+DTEND;VALUE=DATE-TIME:20231125T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_4B_12_646_619
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E04\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu M
+ arine\n\nContact équipe domicile: Salamone E. (0475.20.92.37 - fczijp@out
+ look.com)\n\nAccès voiture : De la Place Meiser\, remonter tous les boule
+ vards. Au carrefour de la Chaussée de Wavre\, prendre celle-ci à droite\
+ , ensuite la 2ème rue à droite (Rue Général Fivé)\, puis la 3ème à 
+ droite (rue Baron Dhanis).\n\nVérifiez toujours ces infos sur http://www.
+ abssa.be/
+GEO:50.8287714;4.3975708
+LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
+ORGANIZER;CN="Salamone E.";ROLE=Secrétaire:MAILTO:fczijp@outlook.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J11: BLUE THRILLS vs BREU UNITED
+DTSTART;VALUE=DATE-TIME:20231202T143000Z
+DTEND;VALUE=DATE-TIME:20231202T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_4B_11_619_603
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
+ pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
+  Orange et Mauve\n\nContact équipe domicile: De Briey A. (0479.858.374 - 
+ alexdebriey@hotmail.fr)\n\nAccès voiture : Chaussée de Haecht\, vers Die
+ gem. Prendre la rue Harenheyde à gauche\, juste au feu de signalisation\,
+  après la station "JET"\, situé à gauche. Entrée du stade par la rue H
+ arenheyde\, 100 m. au-delà du pont du chemin de fer.\n\nVérifiez toujour
+ s ces infos sur http://www.abssa.be/
+GEO:50.8929668;4.4236193
+LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
+ORGANIZER;CN="De Briey A.";ROLE=Secrétaire:MAILTO:alexdebriey@hotmail.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J13: BLUE THRILLS vs VIRGINAL ASF
+DTSTART;VALUE=DATE-TIME:20231209T143000Z
+DTEND;VALUE=DATE-TIME:20231209T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2023_4B_13_619_497
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
+ pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
+  Vert\n\nContact équipe domicile: De Briey A. (0479.858.374 - alexdebriey
+ @hotmail.fr)\n\nAccès voiture : Chaussée de Haecht\, vers Diegem. Prendr
+ e la rue Harenheyde à gauche\, juste au feu de signalisation\, après la 
+ station "JET"\, situé à gauche. Entrée du stade par la rue Harenheyde\,
+  100 m. au-delà du pont du chemin de fer.\n\nVérifiez toujours ces infos
+  sur http://www.abssa.be/
+GEO:50.8929668;4.4236193
+LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
+ORGANIZER;CN="De Briey A.";ROLE=Secrétaire:MAILTO:alexdebriey@hotmail.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J14: BLUE THRILLS vs CHOULE AUDERGHEM (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240113T143000Z
+DTEND;VALUE=DATE-TIME:20240113T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_4B_14_619_517
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
+ pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
+  Noir\n\nContact équipe domicile: De Briey A. (0479.858.374 - alexdebriey
+ @hotmail.fr)\n\nAccès voiture : Chaussée de Haecht\, vers Diegem. Prendr
+ e la rue Harenheyde à gauche\, juste au feu de signalisation\, après la 
+ station "JET"\, situé à gauche. Entrée du stade par la rue Harenheyde\,
+  100 m. au-delà du pont du chemin de fer.\n\nVérifiez toujours ces infos
+  sur http://www.abssa.be/
+GEO:50.8929668;4.4236193
+LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
+ORGANIZER;CN="De Briey A.";ROLE=Secrétaire:MAILTO:alexdebriey@hotmail.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J16: BLUE THRILLS vs CHENOIS (ESPER)
+DTSTART;VALUE=DATE-TIME:20240127T143000Z
+DTEND;VALUE=DATE-TIME:20240127T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_4B_16_619_412
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
+ pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
+  Blanc et rouge\n\nContact équipe domicile: De Briey A. (0479.858.374 - a
+ lexdebriey@hotmail.fr)\n\nAccès voiture : Chaussée de Haecht\, vers Dieg
+ em. Prendre la rue Harenheyde à gauche\, juste au feu de signalisation\, 
+ après la station "JET"\, situé à gauche. Entrée du stade par la rue Ha
+ renheyde\, 100 m. au-delà du pont du chemin de fer.\n\nVérifiez toujours
+  ces infos sur http://www.abssa.be/
+GEO:50.8929668;4.4236193
+LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
+ORGANIZER;CN="De Briey A.";ROLE=Secrétaire:MAILTO:alexdebriey@hotmail.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J17: BRUSSELS LTC (Eq. 3) vs BLUE THRILLS
+DTSTART;VALUE=DATE-TIME:20240203T143000Z
+DTEND;VALUE=DATE-TIME:20240203T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_4B_17_39_619
+DESCRIPTION:Terrain synthétique: non\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bl
+ eu Marine\n\nContact équipe domicile: Van Hacht O. (0475.96.43.03 - bruss
+ elsltc@hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre le R
+ ing Est direction Waterloo. Sortir au pont de Groenendael\, direction La H
+ ulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, to
+ ujours tout droit. Au feu de signalisation et le carrefour de La Hulpe\, t
+ out droit direction Genval. Au feu de signalisation prendre à gauche et e
+ nsuite directement à droite\, l'avenue Soyer\, derrière le G.B. Le terra
+ in se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.abss
+ a.be/
+GEO:50.7309318;4.4945865
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J18: BLUE THRILLS vs DUDEN SPORT R
+DTSTART;VALUE=DATE-TIME:20240210T143000Z
+DTEND;VALUE=DATE-TIME:20240210T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_4B_18_619_22
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
+ pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
+  Rouge et blanc\n\nContact équipe domicile: De Briey A. (0479.858.374 - a
+ lexdebriey@hotmail.fr)\n\nAccès voiture : Chaussée de Haecht\, vers Dieg
+ em. Prendre la rue Harenheyde à gauche\, juste au feu de signalisation\, 
+ après la station "JET"\, situé à gauche. Entrée du stade par la rue Ha
+ renheyde\, 100 m. au-delà du pont du chemin de fer.\n\nVérifiez toujours
+  ces infos sur http://www.abssa.be/
+GEO:50.8929668;4.4236193
+LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
+ORGANIZER;CN="De Briey A.";ROLE=Secrétaire:MAILTO:alexdebriey@hotmail.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J19: SAINT GEORGES RCS (Eq. 3) vs BLUE THRILLS
+DTSTART;VALUE=DATE-TIME:20240217T143000Z
+DTEND;VALUE=DATE-TIME:20240217T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_4B_19_221_619
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W13\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
+ Marine\n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.dest
+ in@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue 
+ Voot\, puis la chaussée de Stockel. Passer en dessous du petit pont et co
+ ntinuer la chaussée de Stockel pendant env. 500 m. Le terrain est situé 
+ sur la droite de la chaussée.\n\nVérifiez toujours ces infos sur http://
+ www.abssa.be/
+GEO:50.8416694;4.4547837
+LOCATION:Chaussée de Stockel 376\, 1150 Woluwé-Saint-Pierre\, Belgique
+ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J26: VIRGINAL ASF vs BLUE THRILLS
+DTSTART;VALUE=DATE-TIME:20240224T140000Z
+DTEND;VALUE=DATE-TIME:20240224T153000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_4B_26_497_619
+DESCRIPTION:Terrain synthétique: non\nCode terrain: V02\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Bleu M
+ arine\n\nContact équipe domicile: Sempot A (0471.76.31.68 - sempot.antoin
+ e@gmail.com)\n\nAccès voiture : Au départ de Bruxelles\, l'autoroute E19
+  ou par le Ring RO\, sortir à Ittre. Suivre la direction Ittre-Virginal. 
+ Traverser Haut-Ittre et Ittre et suivre la direction Virginal-Samme. Franc
+ hir le pont surplombant le canal Bruxelles-Charleroi. Poursuivre tout droi
+ t par la rue de Catala\, ne pas suivre la direction Virginal Centre\, mais
+  poursuivre la route et prendre la 2ème rue à main droite (rue de Tubize
+ ). Passer devant le château d'eau et un peu plus loin\, à l'incinérateu
+ r\, prendre à droite en direction de Oisquercq. Le terrain se trouve à d
+ roite dans la descente (panneau ASF Virginal).\n\nVérifiez toujours ces i
+ nfos sur http://www.abssa.be/
+GEO:50.6528899;4.2178077
+LOCATION:Rue de Tubize\, 1460 Virginal\, Belgique
+ORGANIZER;CN="Sempot A";ROLE=Secrétaire:MAILTO:sempot.antoine@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J23: BRITISH UNITED (Eq. 3) vs BLUE THRILLS
+DTSTART;VALUE=DATE-TIME:20240302T143000Z
+DTEND;VALUE=DATE-TIME:20240302T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_4B_23_132_619
+DESCRIPTION:Terrain synthétique: non\nCode terrain: M02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu M
+ arine\n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gilles
+ vanderseypen@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Anvers (E1
+ 9) sortie Mechelen-Noord (n° 9) En arrivant dans le centre\, suivre la di
+ rection "Heist-op-den-Berg" Aller tout droit et passer le viaduc du chemin
+  de fer. Après 1 km. suivre les flèches "De Nekker". Garer les voitures 
+ à l'extérieur du complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au
+  terrain.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:51.0254354;4.503786799999999
+LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
+ ue
+ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
+ gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J20: BLUE THRILLS vs MIREILLE WEMMEL
+DTSTART;VALUE=DATE-TIME:20240309T143000Z
+DTEND;VALUE=DATE-TIME:20240309T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_4B_20_619_93
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
+ pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
+  Rouge et  Noir\n\nContact équipe domicile: De Briey A. (0479.858.374 - a
+ lexdebriey@hotmail.fr)\n\nAccès voiture : Chaussée de Haecht\, vers Dieg
+ em. Prendre la rue Harenheyde à gauche\, juste au feu de signalisation\, 
+ après la station "JET"\, situé à gauche. Entrée du stade par la rue Ha
+ renheyde\, 100 m. au-delà du pont du chemin de fer.\n\nVérifiez toujours
+  ces infos sur http://www.abssa.be/
+GEO:50.8929668;4.4236193
+LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
+ORGANIZER;CN="De Briey A.";ROLE=Secrétaire:MAILTO:alexdebriey@hotmail.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J21: ASTURIAS SPORTING vs BLUE THRILLS
+DTSTART;VALUE=DATE-TIME:20240316T143000Z
+DTEND;VALUE=DATE-TIME:20240316T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_4B_21_602_619
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: B
+ leu Marine\n\nContact équipe domicile: Stulens K. (0474.62.61.41 - kevin.
+ stulens@live.be)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après
+  300 m. en direction de Lennik\, prendre à droite.\nVenant de la chaussé
+ e de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, 
+ Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en d
+ irection de Lennik.\n\nVérifiez toujours ces infos sur http://www.abssa.b
+ e/
+GEO:50.8177358;4.2557195
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER;CN="Stulens K.";ROLE=Secrétaire:MAILTO:kevin.stulens@live.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J22: BLUE THRILLS vs GAMBRINUS F.C.
+DTSTART;VALUE=DATE-TIME:20240323T143000Z
+DTEND;VALUE=DATE-TIME:20240323T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_4B_22_619_645
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
+ pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
+  Noir\n\nContact équipe domicile: De Briey A. (0479.858.374 - alexdebriey
+ @hotmail.fr)\n\nAccès voiture : Chaussée de Haecht\, vers Diegem. Prendr
+ e la rue Harenheyde à gauche\, juste au feu de signalisation\, après la 
+ station "JET"\, situé à gauche. Entrée du stade par la rue Harenheyde\,
+  100 m. au-delà du pont du chemin de fer.\n\nVérifiez toujours ces infos
+  sur http://www.abssa.be/
+GEO:50.8929668;4.4236193
+LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
+ORGANIZER;CN="De Briey A.";ROLE=Secrétaire:MAILTO:alexdebriey@hotmail.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J25: BLUE THRILLS vs ZIJP FC
+DTSTART;VALUE=DATE-TIME:20240406T133000Z
+DTEND;VALUE=DATE-TIME:20240406T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+UID:2024_4B_25_619_646
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
+ pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
+  Noir\n\nContact équipe domicile: De Briey A. (0479.858.374 - alexdebriey
+ @hotmail.fr)\n\nAccès voiture : Chaussée de Haecht\, vers Diegem. Prendr
+ e la rue Harenheyde à gauche\, juste au feu de signalisation\, après la 
+ station "JET"\, situé à gauche. Entrée du stade par la rue Harenheyde\,
+  100 m. au-delà du pont du chemin de fer.\n\nVérifiez toujours ces infos
+  sur http://www.abssa.be/
+GEO:50.8929668;4.4236193
+LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
+ORGANIZER;CN="De Briey A.";ROLE=Secrétaire:MAILTO:alexdebriey@hotmail.fr
 END:VEVENT
 END:VCALENDAR

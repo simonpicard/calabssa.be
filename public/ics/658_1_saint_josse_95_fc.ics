@@ -1,277 +1,481 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:2c09360f-f551-486a-aa21-28f96e070a37
-X-WR-CALDESC:Les matches de SAINT-JOSSE 95 FC (eq. 1) en ABSSA.
-X-WR-CALNAME:ABSSA - SAINT-JOSSE 95 FC (eq. 1) - 658
-X-WR-TIMEZONE:Europe/Brussels
+PRODID:658_1_saint_josse_95_fc
+X-WR-CALDESC:Les matches du club SAINT-JOSSE 95 FC (equipe 1) en ABSSA.
+X-WR-CALNAME:ABSSA: SAINT-JOSSE 95 FC (eq. 1)
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J2: SANSERIF FC vs SAINT-JOSSE 95 FC
-DTSTART:20220910T113000Z
-DTEND:20220910T125500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:ec257907-1944-456f-8cd3-36210183c01b
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu marine\nCouleur principale équipe extérieur: Noir et bleu\n\nCo
- ntact équipe domicile: KARPOWICZ A. (0493.16.46.10)\n\nAccès voiture : E
- n venant de Bruxelles : Prendre le RO en direction Mons-Bergen / Charleroi
-  - prendre la sortie 21 et continuer sur la E429 direction Lille/Rijsel su
- r 7\,2 km. Ensuite prendre la sortie 23 et continuer sur le Hondzochtseste
- enweg pendant 1\,7km. Au rond point continuer tout droit Chaussée d'Hondz
- ocht sur 857 m\, \, prendre à droite Rue de Bruxelles sur 141 m.\, au ron
- d- point continuer tour droit et à nouveau au rond-point continuer tout d
- roite sur 537 m.\,\npasser devant l'Eglise de Tubize et après le 2ème fe
- u rouge\, prendre la 2ème rue à gauche\,\nRue des Ponts et continuer sur
-  470 m. (suivre les panneaux AFC. Tubize) puis prendre la 2ème à droite 
- (à côté des terrains de tennis) chemin menant au parking du Stade de Tu
- bize.\nPrendre le chemin à pied sur +/- 50 m. à gauche du stade jusqu'à
-  l'arrière de la tribune T3.
-GEO:50.684014;4.1993301
-LOCATION:Allée des Sports\, 7\, 1480  Tubize\, Belgique
-ORGANIZER:MAILTO:itsadonis0@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J12: SAINT-JOSSE 95 FC vs BLOOD SPIKES
-DTSTART:20221126T133000Z
-DTEND:20221126T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:574c120e-62c0-46b3-bb35-58835a268476
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir et bleu\nCouleur principale équipe extérieur: Rouge\n\nContact 
- équipe domicile: YAHYA JDIDI A. (0498.41.74.34)\n\nAccès voiture : Prend
- re la chaussée de Louvain\, Place Meiser\, Place de Paduwa\, prendre ensu
- ite la 2ème rue à droite\, l' Avenue des Communautés\, l'entrée au ter
- rain est situé à 100 m.
-GEO:50.8582632;4.4251766
-LOCATION:STADE COMMUNAL G. PETRE\, Avenue des Communautés\, 1140 Evere\, 
+SUMMARY:ABSSA D5A J10: COSMOS BRUWOLF MJ vs SAINT-JOSSE 95 FC
+DTSTART;VALUE=DATE-TIME:20230902T133000Z
+DTEND;VALUE=DATE-TIME:20230902T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5A_10_338_658
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Noir
+  et rouge\n\nContact équipe domicile: Dehaut A. (0476.26.26.87 - alain.de
+ haut@skynet.be)\n\nAccès voiture : Direction cimetière de Jette\, ensuit
+ e prendre la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenu
+ e J.J. Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces in
+ fos sur http://www.abssa.be/
+GEO:50.8907643;4.3211209
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
  Belgique
-ORGANIZER:MAILTO:adil.yahyajdidi@gmail.com
+ORGANIZER;CN="Dehaut A.";ROLE=Secrétaire:MAILTO:alain.dehaut@skynet.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J13: SAINT-JOSSE 95 FC vs SANSERIF FC
-DTSTART:20221203T133000Z
-DTEND:20221203T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:e4dac140-50ff-480a-a81e-97105467c8d4
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir et bleu\nCouleur principale équipe extérieur: Bleu marine\n\nCo
- ntact équipe domicile: YAHYA JDIDI A. (0498.41.74.34)\n\nAccès voiture :
-  Prendre la chaussée de Louvain\, Place Meiser\, Place de Paduwa\, prendr
- e ensuite la 2ème rue à droite\, l' Avenue des Communautés\, l'entrée 
- au terrain est situé à 100 m.
+SUMMARY:ABSSA D5A J1: CENTRAL PARK FC (Eq. 2) vs SAINT-JOSSE 95 FC
+DTSTART;VALUE=DATE-TIME:20230909T120000Z
+DTEND;VALUE=DATE-TIME:20230909T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5A_1_562_658
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: No
+ ir et rouge\n\nContact équipe domicile: Genot F. (0473.57.28.61 - genotfl
+ orian@hotmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la
+  rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus
+  28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours 
+ ces infos sur http://www.abssa.be/
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J2: SAINT-JOSSE 95 FC vs ABSOLUT FC
+DTSTART;VALUE=DATE-TIME:20230916T130000Z
+DTEND;VALUE=DATE-TIME:20230916T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5A_2_658_672
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E10\n\nCouleur princi
+ pale équipe domicile: Noir et rouge\nCouleur principale équipe exterieur
+ e: Noir\n\nContact équipe domicile: Yahya Jdidi A. (0498.41.74.34 - adil.
+ yahyajdidi@gmail.com)\n\nAccès voiture : Prendre la chaussée de Louvain\
+ , Place Meiser\, Place de Paduwa\, prendre ensuite la 2ème rue à droite\
+ , l' Avenue des Communautés\, l'entrée au terrain est situé à 100 m.\n
+ \nVérifiez toujours ces infos sur http://www.abssa.be/
 GEO:50.8582632;4.4251766
-LOCATION:STADE COMMUNAL G. PETRE\, Avenue des Communautés\, 1140 Evere\, 
+LOCATION:Stade Communal G. Petre\, Avenue des Communautés\, 1140 Evere\, 
  Belgique
-ORGANIZER:MAILTO:adil.yahyajdidi@gmail.com
+ORGANIZER;CN="Yahya Jdidi A.";ROLE=Secrétaire:MAILTO:adil.yahyajdidi@gmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J14: L'EKIP vs SAINT-JOSSE 95 FC
-DTSTART:20221210T150000Z
-DTEND:20221210T162500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:f02e6403-6190-47ba-afb6-b482430b093e
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe extérieur: Noir et bleu\n\nContact 
- équipe domicile: VERCRUIJSSE A. (0477.95.18.34)\n\nAccès voiture : 
-GEO:50.8128674;4.4233192
-LOCATION:A partir de Bruxelles\, prendre la E 411 en direction de Namur. P
- rendre la sortie 11  Gembloux pour rejoindre la N 29 en direction de Gembl
- oux / Tirlement / Jodoigne / Perwez. Suivre la N29 et chaussée de Wavre (
- N243) en direction de la rue des Marronniers. Au rond-point 1\, 2 et 3 pre
- ndre chaque fois la première sortie.\nAu rond-point suivant (4ième) pren
- dre la deuxième sortie et continuer sur la chaussée de Wavre / N 243. Pr
- endre à droite sur la rue des Marronniers\, le terrain se trouve à droit
- e\, Av. des Marronniers\, 17\, 1360 Perwez\, Belgique
-ORGANIZER:MAILTO:lekipofficielle@gmail.com
+SUMMARY:ABSSA D5A J3: STRING PENELOPE (Eq. 2) vs SAINT-JOSSE 95 FC
+DTSTART;VALUE=DATE-TIME:20230923T103000Z
+DTEND;VALUE=DATE-TIME:20230923T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5A_3_181_658
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Noir
+  et rouge\n\nContact équipe domicile: Collignon T. (0474.89.84.20 - thom.
+ collignon@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre 
+ l'autoroute E411 en direction de Namur\, prendre la sortie  Wavre (n° 6)\
+ , tenir la droite et au bout de la bretelle\, prendre la direction d'Ottig
+ nies par la N238. Au 1èr feu de signalisation continuer tout droit en pas
+ sant devant Walibi (qui se trouve sur la gauche) jusqu'à la sortie Limele
+ tte. Au bout de cette sortie\, en face du Tennis Club La Palestre\, prendr
+ e à droite la rue Charles Dubois\, jusqu'au carrefour principal. Continue
+ r tout droit en traversant l'avenue Albert 1èr. Passer en dessous du 1èr
+  pont du chemin de fer et prendre la rue de l'Europe jusqu'à la place de 
+ l'Europe. Traverser cette place par la droite. Au bout à gauche\, suivre 
+ l'avenue Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.
+ C. Limelette). Continuer cette rue et passer en dessous du 2ème pont du c
+ hemin de fer. Après ce pont\, prendre tout de suite à gauche l'avenue De
+ molder (panneau F.C. Limelette)\, en face de l'étang du Buston. Suivre ce
+ tte avenue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. Apr
+ ès 50 m. dans cette rue\, prendre à droite l'avenue des Sorbiers (pannea
+ u du F.C. Limelette). L'entrée du terrain est située 50 m. plus bas sur 
+ la gauche.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.6762848;4.562820299999999
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Collignon T.";ROLE=Secrétaire:MAILTO:thom.collignon@gmail.c
+ om
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J15: SAINT-JOSSE 95 FC vs PANTOUFLES FC
-DTSTART:20221217T133000Z
-DTEND:20221217T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:b86650a6-6269-479e-a510-b3dda0db971e
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir et bleu\nCouleur principale équipe extérieur: Bleu\n\nContact 
- équipe domicile: YAHYA JDIDI A. (0498.41.74.34)\n\nAccès voiture : Prend
- re la chaussée de Louvain\, Place Meiser\, Place de Paduwa\, prendre ensu
- ite la 2ème rue à droite\, l' Avenue des Communautés\, l'entrée au ter
- rain est situé à 100 m.
+SUMMARY:ABSSA D5A J4: SAINT-JOSSE 95 FC vs RAYO LATINO
+DTSTART;VALUE=DATE-TIME:20230930T130000Z
+DTEND;VALUE=DATE-TIME:20230930T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5A_4_658_572
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E10\n\nCouleur princi
+ pale équipe domicile: Noir et rouge\nCouleur principale équipe exterieur
+ e: Rouge et noir\n\nContact équipe domicile: Yahya Jdidi A. (0498.41.74.3
+ 4 - adil.yahyajdidi@gmail.com)\n\nAccès voiture : Prendre la chaussée de
+  Louvain\, Place Meiser\, Place de Paduwa\, prendre ensuite la 2ème rue 
+ à droite\, l' Avenue des Communautés\, l'entrée au terrain est situé 
+ à 100 m.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
 GEO:50.8582632;4.4251766
-LOCATION:STADE COMMUNAL G. PETRE\, Avenue des Communautés\, 1140 Evere\, 
+LOCATION:Stade Communal G. Petre\, Avenue des Communautés\, 1140 Evere\, 
  Belgique
-ORGANIZER:MAILTO:adil.yahyajdidi@gmail.com
+ORGANIZER;CN="Yahya Jdidi A.";ROLE=Secrétaire:MAILTO:adil.yahyajdidi@gmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J16: SAINT-JOSSE 95 FC vs FAUBOURG-BRAINOISE
-DTSTART:20230107T133000Z
-DTEND:20230107T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:cb6cef22-a441-4c47-b881-93f52ae59c9f
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir et bleu\nCouleur principale équipe extérieur: Rouge\n\nContact 
- équipe domicile: YAHYA JDIDI A. (0498.41.74.34)\n\nAccès voiture : Prend
- re la chaussée de Louvain\, Place Meiser\, Place de Paduwa\, prendre ensu
- ite la 2ème rue à droite\, l' Avenue des Communautés\, l'entrée au ter
- rain est situé à 100 m.
+SUMMARY:ABSSA D5A J5: MOYEN RFC vs SAINT-JOSSE 95 FC
+DTSTART;VALUE=DATE-TIME:20231007T133000Z
+DTEND;VALUE=DATE-TIME:20231007T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5A_5_675_658
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Noir 
+ et rouge\n\nContact équipe domicile: Callant A. (0475.40.42.28 - rfcmoyen
+ @gmail.com)\n\nAccès voiture : Autoroute E 411 direction Namur / Luxembou
+ rg\, prendre la sortie n° 6 Wavre\, à gauche N 238 direction Wavre. Au r
+ ond-	point 2ième sortie N238/Blvd. de l'Europe direction Wavre Centre. En
+ trer dans Wavre puis à gauche N 238\, à gauche N 239. 	Au rond-point pre
+ ndre la première sortie Rue Haute\, continuer sur rue de Bruxelles\, cont
+ inuer sur rue Saint-Roch\, continuer 	sur rue Joseph Joppart. Prendre à d
+ roite l'avenue du Centre Sportif.\n\nVérifiez toujours ces infos sur http
+ ://www.abssa.be/
+GEO:50.7216297;4.6192566
+LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
+  Belgique
+ORGANIZER;CN="Callant A.";ROLE=Secrétaire:MAILTO:rfcmoyen@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J6: SAINT-JOSSE 95 FC vs WOKRASSE F.C.
+DTSTART;VALUE=DATE-TIME:20231014T130000Z
+DTEND;VALUE=DATE-TIME:20231014T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5A_6_658_656
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E10\n\nCouleur princi
+ pale équipe domicile: Noir et rouge\nCouleur principale équipe exterieur
+ e: Bleu et Noir\n\nContact équipe domicile: Yahya Jdidi A. (0498.41.74.34
+  - adil.yahyajdidi@gmail.com)\n\nAccès voiture : Prendre la chaussée de 
+ Louvain\, Place Meiser\, Place de Paduwa\, prendre ensuite la 2ème rue à
+  droite\, l' Avenue des Communautés\, l'entrée au terrain est situé à 
+ 100 m.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
 GEO:50.8582632;4.4251766
-LOCATION:STADE COMMUNAL G. PETRE\, Avenue des Communautés\, 1140 Evere\, 
+LOCATION:Stade Communal G. Petre\, Avenue des Communautés\, 1140 Evere\, 
  Belgique
-ORGANIZER:MAILTO:adil.yahyajdidi@gmail.com
+ORGANIZER;CN="Yahya Jdidi A.";ROLE=Secrétaire:MAILTO:adil.yahyajdidi@gmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J17: PICARDIE AS vs SAINT-JOSSE 95 FC
-DTSTART:20230114T133000Z
-DTEND:20230114T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:d68881e2-53ce-42b4-8600-6a73ab742e5f
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Noir et bleu\n\nContact 
- équipe domicile: COOPMANS R. (0474.42.47.29)\n\nAccès voiture : Ring RO\
- , sortie Ophain\, prendre la direction de Ophain Village\, jusqu'à l'égl
- ise. Ensuite à droite. Le terrain se trouve à 200 m. à gauche.
-GEO:50.6643844;4.351335199999999
-LOCATION:Rue de Lillois\, 19\, 1421 Ophain/Braine-l'Alleud\, Belgique
-ORGANIZER:MAILTO:coopmans_roland@yahoo.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J18: SAINT-JOSSE 95 FC vs CHOULE AUDERGHEM (Eq. 2)
-DTSTART:20230121T133000Z
-DTEND:20230121T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:b9a458ea-4e44-4253-9312-5bded6fec631
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir et bleu\nCouleur principale équipe extérieur: Noir\n\nContact 
- équipe domicile: YAHYA JDIDI A. (0498.41.74.34)\n\nAccès voiture : Prend
- re la chaussée de Louvain\, Place Meiser\, Place de Paduwa\, prendre ensu
- ite la 2ème rue à droite\, l' Avenue des Communautés\, l'entrée au ter
- rain est situé à 100 m.
+SUMMARY:ABSSA D5A J8: SAINT-JOSSE 95 FC vs PINK PANTHERS
+DTSTART;VALUE=DATE-TIME:20231021T130000Z
+DTEND;VALUE=DATE-TIME:20231021T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5A_8_658_635
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E10\n\nCouleur princi
+ pale équipe domicile: Noir et rouge\nCouleur principale équipe exterieur
+ e: Noir/ rose\n\nContact équipe domicile: Yahya Jdidi A. (0498.41.74.34 -
+  adil.yahyajdidi@gmail.com)\n\nAccès voiture : Prendre la chaussée de Lo
+ uvain\, Place Meiser\, Place de Paduwa\, prendre ensuite la 2ème rue à d
+ roite\, l' Avenue des Communautés\, l'entrée au terrain est situé à 10
+ 0 m.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
 GEO:50.8582632;4.4251766
-LOCATION:STADE COMMUNAL G. PETRE\, Avenue des Communautés\, 1140 Evere\, 
+LOCATION:Stade Communal G. Petre\, Avenue des Communautés\, 1140 Evere\, 
  Belgique
-ORGANIZER:MAILTO:adil.yahyajdidi@gmail.com
+ORGANIZER;CN="Yahya Jdidi A.";ROLE=Secrétaire:MAILTO:adil.yahyajdidi@gmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J19: RED STAR BRUSSELS vs SAINT-JOSSE 95 FC
-DTSTART:20230128T153000Z
-DTEND:20230128T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:ba08ded3-2314-4f83-bcc2-4cb1abe9a4fd
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir et rouge\nCouleur principale équipe extérieur: Noir et bleu\n\n
- Contact équipe domicile: AMRANI B. (0489.66.36.24)\n\nAccès voiture : En
-  venant de Bruxelles\, par l'autoroute Bruxelles-Paris\, prendre la sortie
-  Nivelles-Sud (n° 19)\, passer sous le pont de l'autoroute et prendre la 
- direction de Nivelles. A 200 m.\, au rond-point (Shopping Center)\, tourne
- r à droite en direction de Wavre (petit ring de Nivelles).\nAu 4ème rond
- -point (en tenant compte du rond-point du Shopping Center)\, tourner à ga
- uche \, rue de l'Industrie et pénétrer dans le zoning. Au bout de la rue
- \, avant le feu de signalisation\, tourner à gauche et prendre la rue du 
- Progrès pendant +/- 400 m.
-GEO:50.5963436;4.3564187
-LOCATION:DOMAINE MILITAIRE\, Rue du Progrès\, 1A\, 1400 Nivelles\, Belgiq
- ue
-ORGANIZER:MAILTO:redstarbxl@outlook.com
+SUMMARY:ABSSA D5A J24: BLACK BEARS UNITED vs SAINT-JOSSE 95 FC
+DTSTART;VALUE=DATE-TIME:20231028T120000Z
+DTEND;VALUE=DATE-TIME:20231028T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5A_24_676_658
+DESCRIPTION:Terrain synthétique: non\nCode terrain: N04\n\nCouleur princi
+ pale équipe domicile: Rose et noir\nCouleur principale équipe exterieure
+ : Noir et rouge\n\nContact équipe domicile: Demesmaecker J. (0483.53.94.2
+ 0 - bbu.abssa@gmail.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à
+  Nossegem\, au premier croisement prendre à gauche la \nMechelsesteenweg.
+  Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelle
+ s-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Me
+ chelsesteenweg\, traverser la chaussée de Louvain\, et suivre comme ci-av
+ ant.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.88776559999999;4.50894
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER;CN="Demesmaecker J.";ROLE=Secrétaire:MAILTO:bbu.abssa@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J20: SAINT-JOSSE 95 FC vs CHIEFS WSL (Eq. 3)
-DTSTART:20230204T133000Z
-DTEND:20230204T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:9c41c225-ca04-43c8-a246-7db9d8530674
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir et bleu\nCouleur principale équipe extérieur: Blanc\n\nContact 
- équipe domicile: YAHYA JDIDI A. (0498.41.74.34)\n\nAccès voiture : Prend
- re la chaussée de Louvain\, Place Meiser\, Place de Paduwa\, prendre ensu
- ite la 2ème rue à droite\, l' Avenue des Communautés\, l'entrée au ter
- rain est situé à 100 m.
+SUMMARY:ABSSA D5A J7: CHOULE AUDERGHEM (Eq. 3) vs SAINT-JOSSE 95 FC
+DTSTART;VALUE=DATE-TIME:20231104T113000Z
+DTEND;VALUE=DATE-TIME:20231104T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5A_7_517_658
+DESCRIPTION:Terrain synthétique: non\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Rose\nCouleur principale équipe exterieure: Noir e
+ t rouge\n\nContact équipe domicile: Vandenplas D. (0476.54.48.01 - dav_54
+ @hotmail.com)\n\nAccès voiture : En venant de Bruxelles par la chaussée 
+ de Wavre\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utilise
+ r la bande de droite pendant +/- 200 m. et descendre devant le bâtiment d
+ e l'ADEPS\, puis passer par le tunnel à gauche (en dessous de l'autoroute
+ ). Le terrain se trouve à 200 m. Le stade est fléché.\n\nVérifiez touj
+ ours ces infos sur http://www.abssa.be/
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J9: SAINT-JOSSE 95 FC vs BLOOD SPIKES
+DTSTART;VALUE=DATE-TIME:20231118T140000Z
+DTEND;VALUE=DATE-TIME:20231118T153000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5A_9_658_660
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E10\n\nCouleur princi
+ pale équipe domicile: Noir et rouge\nCouleur principale équipe exterieur
+ e: Noir\n\nContact équipe domicile: Yahya Jdidi A. (0498.41.74.34 - adil.
+ yahyajdidi@gmail.com)\n\nAccès voiture : Prendre la chaussée de Louvain\
+ , Place Meiser\, Place de Paduwa\, prendre ensuite la 2ème rue à droite\
+ , l' Avenue des Communautés\, l'entrée au terrain est situé à 100 m.\n
+ \nVérifiez toujours ces infos sur http://www.abssa.be/
 GEO:50.8582632;4.4251766
-LOCATION:STADE COMMUNAL G. PETRE\, Avenue des Communautés\, 1140 Evere\, 
+LOCATION:Stade Communal G. Petre\, Avenue des Communautés\, 1140 Evere\, 
  Belgique
-ORGANIZER:MAILTO:adil.yahyajdidi@gmail.com
+ORGANIZER;CN="Yahya Jdidi A.";ROLE=Secrétaire:MAILTO:adil.yahyajdidi@gmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J22: BLOOD SPIKES vs SAINT-JOSSE 95 FC
-DTSTART:20230225T153000Z
-DTEND:20230225T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:dd2e92b4-7dfe-4bd5-bdd0-cc7caa1caf35
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe extérieur: Noir et bleu\n\nContact 
- équipe domicile: OTTE J. (0486.41.87.42)\n\nAccès voiture : Autoroute Br
- uxelles-Namur (E411) prendre la sortie Louvain/Grez-Doiceau (n° 8). Prend
- re la RN25 en direction de Louvain/Grez-Doiceau. Passer tout droit les deu
- x premiers ronds-points à l'issue de la RN 25. Au troisième rond-point p
- rendre à droite. Le terrain se trouve 150 m. plus loin à gauche de la ru
- e du Stampia.
-GEO:50.744789;4.6969702
-LOCATION:Rue du Stampia\, 1390 Grez-Doiceau\, Belgique
-ORGANIZER:MAILTO:bloodspikes9@gmail.com
+SUMMARY:ABSSA D5A J12: BLUE OTTERS F.C. vs SAINT-JOSSE 95 FC
+DTSTART;VALUE=DATE-TIME:20231125T113000Z
+DTEND;VALUE=DATE-TIME:20231125T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5A_12_668_658
+DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir e
+ t rouge\n\nContact équipe domicile: De Crombrugghe A. (0491.63.38.39 - am
+ aurydecrom@yahoo.com)\n\nAccès voiture : Au départ de la Place Meiser\, 
+ l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). S
+ ous le viaduc prendre à droite\, l'avenue des Anciens Combattants. Juste 
+ après le carrefour avec des feux de signalisation prendre à droite vers 
+ la Place de la Chapelle\, puis prendre la 4ème rue à main droite (rue au
+  Bois). Le terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujour
+ s ces infos sur http://www.abssa.be/
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="De Crombrugghe A.";ROLE=Secrétaire:MAILTO:amaurydecrom@yaho
+ o.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J23: SAINT-JOSSE 95 FC vs CHEVERNY SCHAERB
-DTSTART:20230304T133000Z
-DTEND:20230304T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:015700a9-3636-4b0b-ba1f-f5db04a9f1ef
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir et bleu\nCouleur principale équipe extérieur: Jaune\n\nContact 
- équipe domicile: YAHYA JDIDI A. (0498.41.74.34)\n\nAccès voiture : Prend
- re la chaussée de Louvain\, Place Meiser\, Place de Paduwa\, prendre ensu
- ite la 2ème rue à droite\, l' Avenue des Communautés\, l'entrée au ter
- rain est situé à 100 m.
+SUMMARY:ABSSA D5A J11: SAINT-JOSSE 95 FC vs BLACK BEARS UNITED
+DTSTART;VALUE=DATE-TIME:20231202T140000Z
+DTEND;VALUE=DATE-TIME:20231202T153000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_5A_11_658_676
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E10\n\nCouleur princi
+ pale équipe domicile: Noir et rouge\nCouleur principale équipe exterieur
+ e: Rose et noir\n\nContact équipe domicile: Yahya Jdidi A. (0498.41.74.34
+  - adil.yahyajdidi@gmail.com)\n\nAccès voiture : Prendre la chaussée de 
+ Louvain\, Place Meiser\, Place de Paduwa\, prendre ensuite la 2ème rue à
+  droite\, l' Avenue des Communautés\, l'entrée au terrain est situé à 
+ 100 m.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
 GEO:50.8582632;4.4251766
-LOCATION:STADE COMMUNAL G. PETRE\, Avenue des Communautés\, 1140 Evere\, 
+LOCATION:Stade Communal G. Petre\, Avenue des Communautés\, 1140 Evere\, 
  Belgique
-ORGANIZER:MAILTO:adil.yahyajdidi@gmail.com
+ORGANIZER;CN="Yahya Jdidi A.";ROLE=Secrétaire:MAILTO:adil.yahyajdidi@gmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J24: SAINT-JOSSE 95 FC vs WOKRASSE F.C.
-DTSTART:20230311T133000Z
-DTEND:20230311T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:77f570bb-e634-432e-959e-b53135e0cc6c
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir et bleu\nCouleur principale équipe extérieur: Blanc\n\nContact 
- équipe domicile: YAHYA JDIDI A. (0498.41.74.34)\n\nAccès voiture : Prend
- re la chaussée de Louvain\, Place Meiser\, Place de Paduwa\, prendre ensu
- ite la 2ème rue à droite\, l' Avenue des Communautés\, l'entrée au ter
- rain est situé à 100 m.
+SUMMARY:ABSSA D5A J14: SAINT-JOSSE 95 FC vs CENTRAL PARK FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240113T140000Z
+DTEND;VALUE=DATE-TIME:20240113T153000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5A_14_658_562
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E10\n\nCouleur princi
+ pale équipe domicile: Noir et rouge\nCouleur principale équipe exterieur
+ e: Bordeaux\n\nContact équipe domicile: Yahya Jdidi A. (0498.41.74.34 - a
+ dil.yahyajdidi@gmail.com)\n\nAccès voiture : Prendre la chaussée de Louv
+ ain\, Place Meiser\, Place de Paduwa\, prendre ensuite la 2ème rue à dro
+ ite\, l' Avenue des Communautés\, l'entrée au terrain est situé à 100 
+ m.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
 GEO:50.8582632;4.4251766
-LOCATION:STADE COMMUNAL G. PETRE\, Avenue des Communautés\, 1140 Evere\, 
+LOCATION:Stade Communal G. Petre\, Avenue des Communautés\, 1140 Evere\, 
  Belgique
-ORGANIZER:MAILTO:adil.yahyajdidi@gmail.com
+ORGANIZER;CN="Yahya Jdidi A.";ROLE=Secrétaire:MAILTO:adil.yahyajdidi@gmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J25: JODOIGNOISE FC vs SAINT-JOSSE 95 FC
-DTSTART:20230318T153000Z
-DTEND:20230318T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:9951272a-16f5-445e-8577-a5d2ec39944b
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir et jaune\nCouleur principale équipe extérieur: Noir et bleu\n\n
- Contact équipe domicile: SEVERIN S. (0470.55.74.46)\n\nAccès voiture : E
- n venant de Bruxelles\, prendre l’E411 en direction de Namur et prendre 
- la sortie 11 Perwez-Gembloux\, prendre à droite vers Perwez sur la N29 ju
- squ’au rond-point de Glimes qui croise la N91 (7km depuis l’E411). Sor
- tir à la 3ème sortie sur la N91 en\ndirection de Hamme-Mille. Prendre en
- suite la 3ème rue à gauche et le terrain se trouve directement sur la dr
- oite.
-GEO:50.6849677;4.8070879
-LOCATION:INCOURT\, Rue de la Bruyère\, 1315 Incourt\, Belgique
-ORGANIZER:MAILTO:severinsimon00@gmail.com
+SUMMARY:ABSSA D5A J15: ABSOLUT FC vs SAINT-JOSSE 95 FC
+DTSTART;VALUE=DATE-TIME:20240120T130000Z
+DTEND;VALUE=DATE-TIME:20240120T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5A_15_672_658
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R03\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir e
+ t rouge\n\nContact équipe domicile: De Conti E. (0499.16.52.97 - ed@victe
+ do.com)\n\nAccès voiture : Par la E411 Bruxelles-Namur\, prendre la sorti
+ e n° 5 (Wavre Nord\, Rixensart\, Bierges).\nEnsuite prendre la N257 penda
+ nt 700 mètres jusqu'au rond-point\, prendre la rue de l'Etoile et ensuite
+  la rue de Mérode jusqu'à Rixensart. Après 900 mètres\, à la Place de
+  la Perche\, prendre à droite l'avenue de la Paix et encore à droite l'a
+ venue Clermont Tonnerre.\n\nVérifiez toujours ces infos sur http://www.ab
+ ssa.be/
+GEO:50.7128483;4.5376972
+LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
+ 30 Rixensart\, Belgique
+ORGANIZER;CN="De Conti E.";ROLE=Secrétaire:MAILTO:ed@victedo.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J26: PANTOUFLES FC vs SAINT-JOSSE 95 FC
-DTSTART:20230325T153000Z
-DTEND:20230325T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:995ed3d5-cf7b-4977-b45f-dc243b6b7065
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Noir et bleu\n\nContact 
- équipe domicile: LAURENT F (0478.68.80.02)\n\nAccès voiture : Autoroute 
- E411\, prendre la sortie Rosières. Passer devant l'église\, longer l'aut
- oroute et tourner à droite au cimetière des animaux. Terrain à 200 m.
-GEO:50.728425;4.5537381
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:florimond.laurent@outlook.com
+SUMMARY:ABSSA D5A J16: SAINT-JOSSE 95 FC vs STRING PENELOPE (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240127T140000Z
+DTEND;VALUE=DATE-TIME:20240127T153000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5A_16_658_181
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E10\n\nCouleur princi
+ pale équipe domicile: Noir et rouge\nCouleur principale équipe exterieur
+ e: Orange\n\nContact équipe domicile: Yahya Jdidi A. (0498.41.74.34 - adi
+ l.yahyajdidi@gmail.com)\n\nAccès voiture : Prendre la chaussée de Louvai
+ n\, Place Meiser\, Place de Paduwa\, prendre ensuite la 2ème rue à droit
+ e\, l' Avenue des Communautés\, l'entrée au terrain est situé à 100 m.
+ \n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8582632;4.4251766
+LOCATION:Stade Communal G. Petre\, Avenue des Communautés\, 1140 Evere\, 
+ Belgique
+ORGANIZER;CN="Yahya Jdidi A.";ROLE=Secrétaire:MAILTO:adil.yahyajdidi@gmai
+ l.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J17: RAYO LATINO vs SAINT-JOSSE 95 FC
+DTSTART;VALUE=DATE-TIME:20240203T120000Z
+DTEND;VALUE=DATE-TIME:20240203T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5A_17_572_658
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
+ pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
+ e: Noir et rouge\n\nContact équipe domicile: Leporcq N (0485.64.31.86 - r
+ ayolatino@gmail.com)\n\nAccès voiture : Place Meiser\, descendre le boule
+ vard Lambermont. Au 3ème feu de signalisation prendre à gauche\, puis la
+  première à droite.\n\nVérifiez toujours ces infos sur http://www.abssa
+ .be/
+GEO:50.8666341;4.3823667
+LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
+ aerbeek\, Belgique
+ORGANIZER;CN="Leporcq N";ROLE=Secrétaire:MAILTO:rayolatino@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J18: SAINT-JOSSE 95 FC vs MOYEN RFC
+DTSTART;VALUE=DATE-TIME:20240210T140000Z
+DTEND;VALUE=DATE-TIME:20240210T153000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5A_18_658_675
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E10\n\nCouleur princi
+ pale équipe domicile: Noir et rouge\nCouleur principale équipe exterieur
+ e: Rouge\n\nContact équipe domicile: Yahya Jdidi A. (0498.41.74.34 - adil
+ .yahyajdidi@gmail.com)\n\nAccès voiture : Prendre la chaussée de Louvain
+ \, Place Meiser\, Place de Paduwa\, prendre ensuite la 2ème rue à droite
+ \, l' Avenue des Communautés\, l'entrée au terrain est situé à 100 m.\
+ n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8582632;4.4251766
+LOCATION:Stade Communal G. Petre\, Avenue des Communautés\, 1140 Evere\, 
+ Belgique
+ORGANIZER;CN="Yahya Jdidi A.";ROLE=Secrétaire:MAILTO:adil.yahyajdidi@gmai
+ l.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J19: WOKRASSE F.C. vs SAINT-JOSSE 95 FC
+DTSTART;VALUE=DATE-TIME:20240217T113000Z
+DTEND;VALUE=DATE-TIME:20240217T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5A_19_656_658
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Bleu et Noir\nCouleur principale équipe exterieure
+ : Noir et rouge\n\nContact équipe domicile: Thisse F (0476.35.49.20 - fel
+ ix.thisse@gmail.com)\n\nAccès voiture : Au départ de la Place Meiser\, l
+ 'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). So
+ us le viaduc prendre à droite\, l'avenue des Anciens Combattants. Juste a
+ près le carrefour avec des feux de signalisation prendre à droite vers l
+ a Place de la Chapelle\, puis prendre la 4ème rue à main droite (rue au 
+ Bois). Le terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujours
+  ces infos sur http://www.abssa.be/
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="Thisse F";ROLE=Secrétaire:MAILTO:felix.thisse@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J23: SAINT-JOSSE 95 FC vs COSMOS BRUWOLF MJ
+DTSTART;VALUE=DATE-TIME:20240302T140000Z
+DTEND;VALUE=DATE-TIME:20240302T153000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5A_23_658_338
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E10\n\nCouleur princi
+ pale équipe domicile: Noir et rouge\nCouleur principale équipe exterieur
+ e: Orange\n\nContact équipe domicile: Yahya Jdidi A. (0498.41.74.34 - adi
+ l.yahyajdidi@gmail.com)\n\nAccès voiture : Prendre la chaussée de Louvai
+ n\, Place Meiser\, Place de Paduwa\, prendre ensuite la 2ème rue à droit
+ e\, l' Avenue des Communautés\, l'entrée au terrain est situé à 100 m.
+ \n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8582632;4.4251766
+LOCATION:Stade Communal G. Petre\, Avenue des Communautés\, 1140 Evere\, 
+ Belgique
+ORGANIZER;CN="Yahya Jdidi A.";ROLE=Secrétaire:MAILTO:adil.yahyajdidi@gmai
+ l.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J20: SAINT-JOSSE 95 FC vs CHOULE AUDERGHEM (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20240309T140000Z
+DTEND;VALUE=DATE-TIME:20240309T153000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5A_20_658_517
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E10\n\nCouleur princi
+ pale équipe domicile: Noir et rouge\nCouleur principale équipe exterieur
+ e: Rose\n\nContact équipe domicile: Yahya Jdidi A. (0498.41.74.34 - adil.
+ yahyajdidi@gmail.com)\n\nAccès voiture : Prendre la chaussée de Louvain\
+ , Place Meiser\, Place de Paduwa\, prendre ensuite la 2ème rue à droite\
+ , l' Avenue des Communautés\, l'entrée au terrain est situé à 100 m.\n
+ \nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8582632;4.4251766
+LOCATION:Stade Communal G. Petre\, Avenue des Communautés\, 1140 Evere\, 
+ Belgique
+ORGANIZER;CN="Yahya Jdidi A.";ROLE=Secrétaire:MAILTO:adil.yahyajdidi@gmai
+ l.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J21: PINK PANTHERS vs SAINT-JOSSE 95 FC
+DTSTART;VALUE=DATE-TIME:20240316T113000Z
+DTEND;VALUE=DATE-TIME:20240316T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5A_21_635_658
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
+ pale équipe domicile: Noir/ rose\nCouleur principale équipe exterieure: 
+ Noir et rouge\n\nContact équipe domicile: Argyrakis J. (0492.88.69.79 - j
+ eremy_a@hotmail.fr)\n\nAccès voiture : Venant de Bruxelles prendre le Rin
+ g Ouest\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles
+ -Charleroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, t
+ raverser le carrefour\, tout droit direction route du sucre.\n\nVérifiez 
+ toujours ces infos sur http://www.abssa.be/
+GEO:50.6007528;4.4472782
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER;CN="Argyrakis J.";ROLE=Secrétaire:MAILTO:jeremy_a@hotmail.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J22: BLOOD SPIKES vs SAINT-JOSSE 95 FC
+DTSTART;VALUE=DATE-TIME:20240323T130000Z
+DTEND;VALUE=DATE-TIME:20240323T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5A_22_660_658
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir e
+ t rouge\n\nContact équipe domicile: Otte J. (0486.41.87.42 - bloodspikes9
+ @gmail.com)\n\nAccès voiture : A partir de Bruxelles\, prendre la E 411 e
+ n direction de Namur. Prendre la sortie N° 8 puis à droite la bretelle p
+ our la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,
+ 5 km\, au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Lib
+ ération\, puis à gauche dans la rue de la Grande lecke.\n\nVérifiez tou
+ jours ces infos sur http://www.abssa.be/
+GEO:50.7540176;4.7835618
+LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
+ORGANIZER;CN="Otte J.";ROLE=Secrétaire:MAILTO:bloodspikes9@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J25: SAINT-JOSSE 95 FC vs BLUE OTTERS F.C.
+DTSTART;VALUE=DATE-TIME:20240406T130000Z
+DTEND;VALUE=DATE-TIME:20240406T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_5A_25_658_668
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E10\n\nCouleur princi
+ pale équipe domicile: Noir et rouge\nCouleur principale équipe exterieur
+ e: Bleu\n\nContact équipe domicile: Yahya Jdidi A. (0498.41.74.34 - adil.
+ yahyajdidi@gmail.com)\n\nAccès voiture : Prendre la chaussée de Louvain\
+ , Place Meiser\, Place de Paduwa\, prendre ensuite la 2ème rue à droite\
+ , l' Avenue des Communautés\, l'entrée au terrain est situé à 100 m.\n
+ \nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8582632;4.4251766
+LOCATION:Stade Communal G. Petre\, Avenue des Communautés\, 1140 Evere\, 
+ Belgique
+ORGANIZER;CN="Yahya Jdidi A.";ROLE=Secrétaire:MAILTO:adil.yahyajdidi@gmai
+ l.com
 END:VEVENT
 END:VCALENDAR

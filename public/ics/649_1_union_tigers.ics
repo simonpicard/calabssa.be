@@ -1,297 +1,515 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:bb1fa9b7-be83-464f-a049-284c72518f20
-X-WR-CALDESC:Les matches de UNION TIGERS (eq. 1) en ABSSA.
-X-WR-CALNAME:ABSSA - UNION TIGERS (eq. 1) - 649
-X-WR-TIMEZONE:Europe/Brussels
+PRODID:649_1_union_tigers
+X-WR-CALDESC:Les matches du club UNION TIGERS (equipe 1) en ABSSA.
+X-WR-CALNAME:ABSSA: UNION TIGERS (eq. 1)
 BEGIN:VEVENT
-SUMMARY:ABSSA D4D J2: UNION TIGERS vs ITT - GECKO FC (Eq. 2)
-DTSTART:20220910T123000Z
-DTEND:20220910T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:37d8c881-dc30-4b07-bb65-9b6baba10be2
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu ciel et Blanc\nCouleur principale équipe extérieur: Noir\n\nCon
- tact équipe domicile: THIBAUT L (0472.52.93.45)\n\nAccès voiture : Par l
- e Ring Ouest\, direction Paris\, sortie Westland Shopping Center (n° 14) 
- continuer tout droit\, remonter vers le Ring et prendre à droite pour sor
- tir vers Itterbeek. Prendre l'avenue d'Itterbeek au parc d'Anderlecht\, pa
- sser le ring\, reste 2 km. Le terrain se trouve à gauche\, entre l'école
-  Van Belle et Veeweyde.
-GEO:50.8344692;4.2821012
-LOCATION:BON AIR\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:union.tigers@hotmail.com
+SUMMARY:ABSSA D3A J10: CHARLES-QUINT FC vs UNION TIGERS
+DTSTART;VALUE=DATE-TIME:20230902T133000Z
+DTEND;VALUE=DATE-TIME:20230902T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_3A_10_499_649
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: G03\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Bleu ciel et Blanc\n\nContact équipe domicile: Denies G (0479.57.39.23 -
+  denies.gaetan@gmail.com)\n\nAccès voiture : Par la ville. A partir de la
+  Basilique de Koekelberg\, prendre l'Avenue Charles Quint\, prendre 3ème 
+ rue à droite\, Avenue de Villegas. Arrivé au rond point prendre la 3ème
+  sortie et  continuer sur l'avenue Marie de Hongrie. Prendre ensuite la pr
+ emière à droite\, l'avenue des Neuf Provinces. Au 2ème rond point\, pre
+ ndre la première sortie\, rue Vanderveken. Un parking est accessible dans
+  la première rue à gauche. (Indication Hall des Sports).\nPar le ring. E
+ n sortant du ring à Koekelberg\, prendre l'avenue Charles Quint. Au 3ème
+  feu\, prendre à gauche sur la place Marguerite d'Autriche. Prendre la 1
+ ère rue à droite et rester sur l'avenue Marie de Hongrie. Ensuite suivre
+  comme ci-dessus.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.876279;4.3026291
+LOCATION:Rue A. Roobaert\, 1083 Ganshoren\, Belgique
+ORGANIZER;CN="Denies G";ROLE=Secrétaire:MAILTO:denies.gaetan@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4D J12: COMP. CINEMA R vs UNION TIGERS
-DTSTART:20221126T123000Z
-DTEND:20221126T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:4b4442e4-dfa8-4a48-9a76-9e581f3ae1ac
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe extérieur: Bleu ciel et Blanc\n\nCon
- tact équipe domicile: SARTORI B. (0479.15.31.09)\n\nAccès voiture : Boul
- evard Lambermont\, prendre le boulevard Léopold III\, direction aéroport
-  de Bruxelles-National\, au 3ème feu de signalisation prendre à droite. 
- le terrain se trouve à 50 m.
-GEO:50.8691981;4.4067073
-LOCATION:COMPLEXE SPORTIF EVERE\, Avenue des Anciens Combattants\, 300\, 1
- 140 Evere\, Belgique
-ORGANIZER:MAILTO:compagnonscinema016@gmail.com
+SUMMARY:ABSSA D3A J1: UNION TIGERS vs FOSSIS (LES) CS
+DTSTART;VALUE=DATE-TIME:20230909T103000Z
+DTEND;VALUE=DATE-TIME:20230909T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_3A_1_649_217
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A01\n\nCouleur princi
+ pale équipe domicile: Bleu ciel et Blanc\nCouleur principale équipe exte
+ rieure: Jaune\n\nContact équipe domicile: Thibaut L (0472.52.93.45 - unio
+ n.tigers@hotmail.com)\n\nAccès voiture : Par le Ring Ouest\, direction Pa
+ ris\, sortie Westland Shopping Center (n° 14) continuer tout droit\, remo
+ nter vers le Ring et prendre à droite pour sortir vers Itterbeek. Prendre
+  l'avenue d'Itterbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. 
+ Le terrain se trouve à gauche\, entre l'école Van Belle et Veeweyde.\n\n
+ Vérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8354396;4.2768611
+LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
+ORGANIZER;CN="Thibaut L";ROLE=Secrétaire:MAILTO:union.tigers@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4D J13: ITT - GECKO FC (Eq. 2) vs UNION TIGERS
-DTSTART:20221203T123000Z
-DTEND:20221203T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:5155e986-9a64-4692-b6c2-2d79f458822e
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe extérieur: Bleu ciel et Blanc\n\nCon
- tact équipe domicile: SCHMIDT Ch. (0475.61.97.33)\n\nAccès voiture : Cha
- ussée de Louvain jusqu'à Nossegem\, au premier croisement prendre à gau
- che la \nMechelsesteenweg. Le terrain est indiqué à +/- 1 km. à gauche.
- \nPar l'autoroute Bruxelles-Liège\, prendre la sortie Nossegem-Sterrebeek
- \, prendre à gauche la Mechelsesteenweg\, traverser la chaussée de Louva
- in\, et suivre comme ci-avant.
-GEO:50.8877772;4.5090761
-LOCATION:RADAR VLIEGHAVEN\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER:MAILTO:christian@schmidt1.be
+SUMMARY:ABSSA D3A J2: CHIEFS WSL vs UNION TIGERS
+DTSTART;VALUE=DATE-TIME:20230916T120000Z
+DTEND;VALUE=DATE-TIME:20230916T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_3A_2_303_649
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
+ ciel et Blanc\n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@
+ desan.be)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot
+ \, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Ava
+ nt ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ces infos
+  sur http://www.abssa.be/
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4D J14: UNION TIGERS vs BIERGEOIS CS
-DTSTART:20221210T123000Z
-DTEND:20221210T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:bca363f9-1486-47dc-aafb-dc83dc144625
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu ciel et Blanc\nCouleur principale équipe extérieur: Bleu\n\nCon
- tact équipe domicile: THIBAUT L (0472.52.93.45)\n\nAccès voiture : Par l
- e Ring Ouest\, direction Paris\, sortie Westland Shopping Center (n° 14) 
- continuer tout droit\, remonter vers le Ring et prendre à droite pour sor
- tir vers Itterbeek. Prendre l'avenue d'Itterbeek au parc d'Anderlecht\, pa
- sser le ring\, reste 2 km. Le terrain se trouve à gauche\, entre l'école
-  Van Belle et Veeweyde.
-GEO:50.8344692;4.2821012
-LOCATION:BON AIR\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:union.tigers@hotmail.com
+SUMMARY:ABSSA D3A J3: UNION TIGERS vs NEW INN FC
+DTSTART;VALUE=DATE-TIME:20230923T103000Z
+DTEND;VALUE=DATE-TIME:20230923T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_3A_3_649_359
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A01\n\nCouleur princi
+ pale équipe domicile: Bleu ciel et Blanc\nCouleur principale équipe exte
+ rieure: Blanc\n\nContact équipe domicile: Thibaut L (0472.52.93.45 - unio
+ n.tigers@hotmail.com)\n\nAccès voiture : Par le Ring Ouest\, direction Pa
+ ris\, sortie Westland Shopping Center (n° 14) continuer tout droit\, remo
+ nter vers le Ring et prendre à droite pour sortir vers Itterbeek. Prendre
+  l'avenue d'Itterbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. 
+ Le terrain se trouve à gauche\, entre l'école Van Belle et Veeweyde.\n\n
+ Vérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8354396;4.2768611
+LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
+ORGANIZER;CN="Thibaut L";ROLE=Secrétaire:MAILTO:union.tigers@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4D J15: STRING PENELOPE (Eq. 3) vs UNION TIGERS
-DTSTART:20221217T153000Z
-DTEND:20221217T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:a963d3f8-bde2-4242-9004-f80869400b68
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Orange\nCouleur principale équipe extérieur: Bleu ciel et Blanc\n\nC
- ontact équipe domicile: COLLIGNON T. (0474.89.84.20)\n\nAccès voiture : 
- En venant de Bruxelles\, prendre l'autoroute E411 en direction de Namur\, 
- prendre la sortie  Wavre (n° 6)\, tenir la droite et au bout de la bretel
- le\, prendre la direction d'Ottignies par la N238. Au 1èr feu de signalis
- ation continuer tout droit en passant devant Walibi (qui se trouve sur la 
- gauche) jusqu'à la sortie Limelette. Au bout de cette sortie\, en face du
-  Tennis Club La Palestre\, prendre à droite la rue Charles Dubois\, jusqu
- 'au carrefour principal. Continuer tout droit en traversant l'avenue Alber
- t 1èr. Passer en dessous du 1èr pont du chemin de fer et prendre la rue 
- de l'Europe jusqu'à la place de l'Europe. Traverser cette place par la dr
- oite. Au bout à gauche\, suivre l'avenue Jassans. Ensuite 1ère rue à ga
- uche\,  la rue Bustan (panneau F.C. Limelette). Continuer cette rue et pas
- ser en dessous du 2ème pont du chemin de fer. Après ce pont\, prendre to
- ut de suite à gauche l'avenue Demolder (panneau F.C. Limelette)\, en face
-  de l'étang du Buston. Suivre cette avenue jusqu'à la 4ème rue à droit
- e\, l'avenue des Mérisiers. Après 50 m. dans cette rue\, prendre à droi
- te l'avenue des Sorbiers (panneau du F.C. Limelette). L'entrée du terrain
-  est située 50 m. plus bas sur la gauche.
-GEO:50.6762848;4.562820299999999
-LOCATION:Avenue des Sorbiers\, 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER:MAILTO:thom.collignon@gmail.com
+SUMMARY:ABSSA D3A J4: TRINQUANT vs UNION TIGERS
+DTSTART;VALUE=DATE-TIME:20230930T103000Z
+DTEND;VALUE=DATE-TIME:20230930T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_3A_4_445_649
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Bleu ciel et Blanc\n\nContact équipe domicile: Bernard J-M. (0476.66.08.
+ 14 - jmbernard.trinquant@yahoo.fr)\n\nAccès voiture : Venant de Bruxelles
+ \, prendre le Ring Est direction Waterloo. Sortir au pont de Groenendael\,
+  direction La Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau d
+ e La Hulpe\, toujours tout droit. Au feu de signalisation et le carrefour 
+ de La Hulpe\, tout droit direction Genval. Au feu de signalisation prendre
+  à gauche et ensuite directement à droite\, l'avenue Soyer\, derrière l
+ e G.B. Le terrain se trouve à 300 m.\n\nVérifiez toujours ces infos sur 
+ http://www.abssa.be/
+GEO:50.7309318;4.4945865
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Bernard J-M.";ROLE=Secrétaire:MAILTO:jmbernard.trinquant@ya
+ hoo.fr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4D J16: TAURO FC (Eq. 2) vs UNION TIGERS
-DTSTART:20230107T130000Z
-DTEND:20230107T142500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:8d476d3a-fb72-4443-bcae-da1f4cd52988
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe extérieur: Bleu ciel et Blanc\n\nCon
- tact équipe domicile: LIETAER Y. (0484.16.30.31)\n\nAccès voiture : Plac
- e Meiser\, descendre le boulevard Lambermont. Au 3ème feu de signalisatio
- n prendre à gauche\, puis la première à droite.
-GEO:50.8666244;4.382361899999999
-LOCATION:STADE DU CROSSING\, Avenue du Suffrage Universel\, 22/24\, 1030 S
- chaerbeek\, Belgique
-ORGANIZER:MAILTO:ylietaer@gmail.com
+SUMMARY:ABSSA D3A J5: UNION TIGERS vs VOLLENBACK FC
+DTSTART;VALUE=DATE-TIME:20231007T103000Z
+DTEND;VALUE=DATE-TIME:20231007T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_3A_5_649_589
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A01\n\nCouleur princi
+ pale équipe domicile: Bleu ciel et Blanc\nCouleur principale équipe exte
+ rieure: Rose et noir\n\nContact équipe domicile: Thibaut L (0472.52.93.45
+  - union.tigers@hotmail.com)\n\nAccès voiture : Par le Ring Ouest\, direc
+ tion Paris\, sortie Westland Shopping Center (n° 14) continuer tout droit
+ \, remonter vers le Ring et prendre à droite pour sortir vers Itterbeek. 
+ Prendre l'avenue d'Itterbeek au parc d'Anderlecht\, passer le ring\, reste
+  2 km. Le terrain se trouve à gauche\, entre l'école Van Belle et Veewey
+ de.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8354396;4.2768611
+LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
+ORGANIZER;CN="Thibaut L";ROLE=Secrétaire:MAILTO:union.tigers@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4D J17: UNION TIGERS vs EXTRANOS (LOS)
-DTSTART:20230114T123000Z
-DTEND:20230114T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:4057c64d-8324-4226-b7b6-bad4d9707e04
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu ciel et Blanc\nCouleur principale équipe extérieur: Rouge et Bl
- eu\n\nContact équipe domicile: THIBAUT L (0472.52.93.45)\n\nAccès voitur
- e : Par le Ring Ouest\, direction Paris\, sortie Westland Shopping Center 
- (n° 14) continuer tout droit\, remonter vers le Ring et prendre à droite
-  pour sortir vers Itterbeek. Prendre l'avenue d'Itterbeek au parc d'Anderl
- echt\, passer le ring\, reste 2 km. Le terrain se trouve à gauche\, entre
-  l'école Van Belle et Veeweyde.
-GEO:50.8344692;4.2821012
-LOCATION:BON AIR\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:union.tigers@hotmail.com
+SUMMARY:ABSSA D3A J6: FRANGINOS (LOS) vs UNION TIGERS
+DTSTART;VALUE=DATE-TIME:20231014T130000Z
+DTEND;VALUE=DATE-TIME:20231014T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_3A_6_647_649
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: P02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
+ ciel et Blanc\n\nContact équipe domicile: Gerard S. (0487.22.81.20 - simo
+ ngerard@hotmail.be)\n\nAccès voiture : a Partir de Bruxelles\, Prendre la
+  E 411 en Direction de Namur. Prendre la Sortie 11  Gembloux pour Rejoindr
+ e la N 29 en Direction de Gembloux / Tirlement / Jodoigne / Perwez. suivre
+  la N29 et Chaussée de Wavre (N243) en Direction de la Rue des Marronnier
+ s. au Rond-Point 1\, 2 et 3 Prendre chaque Fois la première Sortie.\nAu R
+ ond-Point suivant (4Ième) Prendre la deuxième Sortie et Continuer sur la
+  Chaussée de Wavre / N 243. Prendre à Droite sur la Rue des Marronniers\
+ , le Terrain se Trouve à Droite\n\nVérifiez toujours ces infos sur http:
+ //www.abssa.be/
+GEO:50.6251834;4.8051205
+LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
+ORGANIZER;CN="Gerard S.";ROLE=Secrétaire:MAILTO:simongerard@hotmail.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4D J18: BEETHOVEN FCS vs UNION TIGERS
-DTSTART:20230121T123000Z
-DTEND:20230121T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:fae2ed2f-b058-409b-b49f-74d1cbe5b297
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu ciel\nCouleur principale équipe extérieur: Bleu ciel et Blanc\n
- \nContact équipe domicile: STEENHAUT F. (0477.37.74.47)\n\nAccès voiture
-  : En venant de la Route de Lennik (Citroën) ou de la Chaussée de Mons (
- Ikea)\, prendre la direction du cimetière d'Anderlecht\, emprunter le Bou
- levard Josse Leemans\, au rond-point prendre la sortie pour la rue du Chan
- t d'Oiseaux (Vogelenzang). L'entrée du complexe et des terrains se situe 
- à +/- 500 m. sur la gauche.
-GEO:50.8114933;4.2763364
-LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:fsteenhaut@hotmail.com
+SUMMARY:ABSSA D3A J8: LA LORRAINE-MTM.R (Eq. 2) vs UNION TIGERS
+DTSTART;VALUE=DATE-TIME:20231021T103000Z
+DTEND;VALUE=DATE-TIME:20231021T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_3A_8_44_649
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu c
+ iel et Blanc\n\nContact équipe domicile: Degimbe M. (0478.53.63.56 - lalo
+ rrainefc@gmail.com)\n\nAccès voiture : Autoroute E411\, prendre la sortie
+  Rosières. Passer devant l'église\, longer l'autoroute et tourner à dro
+ ite au cimetière des animaux. Terrain à 200 m.\n\nVérifiez toujours ces
+  infos sur http://www.abssa.be/
+GEO:50.7282426;4.5537189
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="Degimbe M.";ROLE=Secrétaire:MAILTO:lalorrainefc@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4D J19: UNION TIGERS vs UCCLE STENDHAL
-DTSTART:20230128T123000Z
-DTEND:20230128T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:f7a3eaea-3a1b-43d0-b827-2d0bab6e6f47
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu ciel et Blanc\nCouleur principale équipe extérieur: Equipe 1 : 
- Rouge rayé de noir\n\nContact équipe domicile: THIBAUT L (0472.52.93.45)
- \n\nAccès voiture : Par le Ring Ouest\, direction Paris\, sortie Westland
-  Shopping Center (n° 14) continuer tout droit\, remonter vers le Ring et 
- prendre à droite pour sortir vers Itterbeek. Prendre l'avenue d'Itterbeek
-  au parc d'Anderlecht\, passer le ring\, reste 2 km. Le terrain se trouve 
- à gauche\, entre l'école Van Belle et Veeweyde.
-GEO:50.8344692;4.2821012
-LOCATION:BON AIR\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:union.tigers@hotmail.com
+SUMMARY:ABSSA D3A J24: UNION TIGERS vs BXL ALLIANCE JETTE
+DTSTART;VALUE=DATE-TIME:20231028T103000Z
+DTEND;VALUE=DATE-TIME:20231028T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_3A_24_649_566
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A01\n\nCouleur princi
+ pale équipe domicile: Bleu ciel et Blanc\nCouleur principale équipe exte
+ rieure: Vert\n\nContact équipe domicile: Thibaut L (0472.52.93.45 - union
+ .tigers@hotmail.com)\n\nAccès voiture : Par le Ring Ouest\, direction Par
+ is\, sortie Westland Shopping Center (n° 14) continuer tout droit\, remon
+ ter vers le Ring et prendre à droite pour sortir vers Itterbeek. Prendre 
+ l'avenue d'Itterbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. L
+ e terrain se trouve à gauche\, entre l'école Van Belle et Veeweyde.\n\nV
+ érifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8354396;4.2768611
+LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
+ORGANIZER;CN="Thibaut L";ROLE=Secrétaire:MAILTO:union.tigers@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4D J21: UNION TIGERS vs TIEKSS WEMMEL
-DTSTART:20230211T123000Z
-DTEND:20230211T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:87879808-61d0-4353-85a2-6607ec6064ef
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu ciel et Blanc\nCouleur principale équipe extérieur: Rouge et no
- ir\n\nContact équipe domicile: THIBAUT L (0472.52.93.45)\n\nAccès voitur
- e : Par le Ring Ouest\, direction Paris\, sortie Westland Shopping Center 
- (n° 14) continuer tout droit\, remonter vers le Ring et prendre à droite
-  pour sortir vers Itterbeek. Prendre l'avenue d'Itterbeek au parc d'Anderl
- echt\, passer le ring\, reste 2 km. Le terrain se trouve à gauche\, entre
-  l'école Van Belle et Veeweyde.
-GEO:50.8344692;4.2821012
-LOCATION:BON AIR\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:union.tigers@hotmail.com
+SUMMARY:ABSSA D3A J7: UNION TIGERS vs CURTIS L'AUSELE
+DTSTART;VALUE=DATE-TIME:20231104T113000Z
+DTEND;VALUE=DATE-TIME:20231104T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_3A_7_649_599
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A01\n\nCouleur princi
+ pale équipe domicile: Bleu ciel et Blanc\nCouleur principale équipe exte
+ rieure: Bleu marine\n\nContact équipe domicile: Thibaut L (0472.52.93.45 
+ - union.tigers@hotmail.com)\n\nAccès voiture : Par le Ring Ouest\, direct
+ ion Paris\, sortie Westland Shopping Center (n° 14) continuer tout droit\
+ , remonter vers le Ring et prendre à droite pour sortir vers Itterbeek. P
+ rendre l'avenue d'Itterbeek au parc d'Anderlecht\, passer le ring\, reste 
+ 2 km. Le terrain se trouve à gauche\, entre l'école Van Belle et Veeweyd
+ e.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8354396;4.2768611
+LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
+ORGANIZER;CN="Thibaut L";ROLE=Secrétaire:MAILTO:union.tigers@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4D J22: UNION TIGERS vs COMP. CINEMA R
-DTSTART:20230225T123000Z
-DTEND:20230225T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:43c63153-7004-4885-8f5a-14dd30518e1a
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu ciel et Blanc\nCouleur principale équipe extérieur: Vert\n\nCon
- tact équipe domicile: THIBAUT L (0472.52.93.45)\n\nAccès voiture : Par l
- e Ring Ouest\, direction Paris\, sortie Westland Shopping Center (n° 14) 
- continuer tout droit\, remonter vers le Ring et prendre à droite pour sor
- tir vers Itterbeek. Prendre l'avenue d'Itterbeek au parc d'Anderlecht\, pa
- sser le ring\, reste 2 km. Le terrain se trouve à gauche\, entre l'école
-  Van Belle et Veeweyde.
-GEO:50.8344692;4.2821012
-LOCATION:BON AIR\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:union.tigers@hotmail.com
+SUMMARY:ABSSA D3A J9: UNION TIGERS vs CENTRAL PARK FC
+DTSTART;VALUE=DATE-TIME:20231118T113000Z
+DTEND;VALUE=DATE-TIME:20231118T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_3A_9_649_562
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A01\n\nCouleur princi
+ pale équipe domicile: Bleu ciel et Blanc\nCouleur principale équipe exte
+ rieure: Bleu et Blanc\n\nContact équipe domicile: Thibaut L (0472.52.93.4
+ 5 - union.tigers@hotmail.com)\n\nAccès voiture : Par le Ring Ouest\, dire
+ ction Paris\, sortie Westland Shopping Center (n° 14) continuer tout droi
+ t\, remonter vers le Ring et prendre à droite pour sortir vers Itterbeek.
+  Prendre l'avenue d'Itterbeek au parc d'Anderlecht\, passer le ring\, rest
+ e 2 km. Le terrain se trouve à gauche\, entre l'école Van Belle et Veewe
+ yde.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8354396;4.2768611
+LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
+ORGANIZER;CN="Thibaut L";ROLE=Secrétaire:MAILTO:union.tigers@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4D J23: BLACK STAR GENVAL vs UNION TIGERS
-DTSTART:20230304T153000Z
-DTEND:20230304T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:d390210a-f3e8-4147-8784-1ddb465e1308
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe extérieur: Bleu ciel et Blanc\n\nCon
- tact équipe domicile: VAN BAEL J. (0479.36.69.79)\n\nAccès voiture : Pre
- ndre l'autoroute de Namur (E411)\, sortie n° 4 - (Genval-Rosières). En b
- as de la sortie prendre la deuxième rue à droite (rue de La Hulpe) direc
- tion "Genval - Maubroux". Au premier rond point continuez à suivre la dir
- ection "Genval - Maubroux" (continuation de la rue de La Hulpe). Au rond p
- oint suivant\, suivre toujours la direction "Genval-Maubroux". Au troisiè
- me rond point (Café du Lac sur la gauche) suivre toujours la direction "G
- enval-Maubroux" (3ème sortie - rue de Genval). Continuez tout droit jusqu
- 'au feu de signalisation (Eglise de Genval) et tourner à droite (Avenue A
- lbert 1èr). Après +/- 800 mètres\, à l'ancienne station service\, pren
- dre à gauche et suivre la route (rue Joseph Desmet) sur +/- 700 mètres\,
-  puis tourner à droite\, rue du Tilleul (panneau : Les Charmettes). Le te
- rrain se trouve à environ 200 mètres sur la droite.
-GEO:50.724554;4.496792999999999
-LOCATION:COMPLEXE DU TILLEUL\, Rue du Tilleul\, 50\, 1332 Genval (Rixensar
- t)\, Belgique
-ORGANIZER:MAILTO:blackstargenval@gmail.com
+SUMMARY:ABSSA D3A J12: UNION TIGERS vs TAURO FC
+DTSTART;VALUE=DATE-TIME:20231125T113000Z
+DTEND;VALUE=DATE-TIME:20231125T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_3A_12_649_574
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A01\n\nCouleur princi
+ pale équipe domicile: Bleu ciel et Blanc\nCouleur principale équipe exte
+ rieure: Noir\n\nContact équipe domicile: Thibaut L (0472.52.93.45 - union
+ .tigers@hotmail.com)\n\nAccès voiture : Par le Ring Ouest\, direction Par
+ is\, sortie Westland Shopping Center (n° 14) continuer tout droit\, remon
+ ter vers le Ring et prendre à droite pour sortir vers Itterbeek. Prendre 
+ l'avenue d'Itterbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. L
+ e terrain se trouve à gauche\, entre l'école Van Belle et Veeweyde.\n\nV
+ érifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8354396;4.2768611
+LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
+ORGANIZER;CN="Thibaut L";ROLE=Secrétaire:MAILTO:union.tigers@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4D J24: FORESTOIS SC (Eq. 2) vs UNION TIGERS
-DTSTART:20230311T140000Z
-DTEND:20230311T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:e3308f01-8197-4b6e-8b55-81ee80cc91ac
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe extérieur: Bleu ciel et Blanc\n\nCon
- tact équipe domicile: JANSSENS P. (0479.95.08.14)\n\nAccès voiture : Au 
- départ de la Place St. Denis à Forest prendre la chaussée de Neerstalle
-  jusqu'à la rue de la Soierie (4ème rue à droite) et dans la rue de la 
- Soierie rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée B
- ritannique) pendant env. 500 m. L'entrée du Complexe se trouve à hauteur
-  de City Cart\, à gauche de la route.
-GEO:50.8005447;4.3095283
-LOCATION:COMPLEXE SPORTIF DU BEMPT\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER:MAILTO:patj.scf@gmail.com
+SUMMARY:ABSSA D3A J11: BXL ALLIANCE JETTE vs UNION TIGERS
+DTSTART;VALUE=DATE-TIME:20231202T130000Z
+DTEND;VALUE=DATE-TIME:20231202T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_3A_11_566_649
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Bleu c
+ iel et Blanc\n\nContact équipe domicile: Zaleski S. (0473.34.57.81 - zal.
+ stan@hotmail.com)\n\nAccès voiture : Direction cimetière de Jette\, ensu
+ ite prendre la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, ave
+ nue J.J. Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces 
+ infos sur http://www.abssa.be/
+GEO:50.8907643;4.3211209
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
+ Belgique
+ORGANIZER;CN="Zaleski S.";ROLE=Secrétaire:MAILTO:zal.stan@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4D J25: UNION TIGERS vs SNEAKY BABOONS
-DTSTART:20230318T123000Z
-DTEND:20230318T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:754c5809-cd27-4d8f-9f2c-7d6d78c83666
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu ciel et Blanc\nCouleur principale équipe extérieur: Noir\n\nCon
- tact équipe domicile: THIBAUT L (0472.52.93.45)\n\nAccès voiture : Par l
- e Ring Ouest\, direction Paris\, sortie Westland Shopping Center (n° 14) 
- continuer tout droit\, remonter vers le Ring et prendre à droite pour sor
- tir vers Itterbeek. Prendre l'avenue d'Itterbeek au parc d'Anderlecht\, pa
- sser le ring\, reste 2 km. Le terrain se trouve à gauche\, entre l'école
-  Van Belle et Veeweyde.
-GEO:50.8344692;4.2821012
-LOCATION:BON AIR\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:union.tigers@hotmail.com
+SUMMARY:ABSSA D3A J13: MOON SHOOTERS vs UNION TIGERS
+DTSTART;VALUE=DATE-TIME:20231209T143000Z
+DTEND;VALUE=DATE-TIME:20231209T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_3A_13_606_649
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Bleu 
+ ciel et Blanc\n\nContact équipe domicile: Morelle M. (0478.68.42.14 - max
+ .morelle@gmail.com)\n\nAccès voiture : En venant de Bruxelles par la chau
+ ssée de Wavre\, rejoindre le du début de l'autoroute Bruxelles-Namur\, u
+ tiliser la bande de droite pendant +/- 200 m. et descendre devant le bâti
+ ment de l'ADEPS\, puis passer par le tunnel à gauche (en dessous de l'aut
+ oroute). Le terrain se trouve à 200 m. Le stade est fléché.\n\nVérifie
+ z toujours ces infos sur http://www.abssa.be/
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="Morelle M.";ROLE=Secrétaire:MAILTO:max.morelle@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4D J26: UNION TIGERS vs STRING PENELOPE (Eq. 3)
-DTSTART:20230325T123000Z
-DTEND:20230325T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:39337ddb-22df-4b55-8168-cef8d1b6fe1d
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu ciel et Blanc\nCouleur principale équipe extérieur: Orange\n\nC
- ontact équipe domicile: THIBAUT L (0472.52.93.45)\n\nAccès voiture : Par
-  le Ring Ouest\, direction Paris\, sortie Westland Shopping Center (n° 14
- ) continuer tout droit\, remonter vers le Ring et prendre à droite pour s
- ortir vers Itterbeek. Prendre l'avenue d'Itterbeek au parc d'Anderlecht\, 
- passer le ring\, reste 2 km. Le terrain se trouve à gauche\, entre l'éco
- le Van Belle et Veeweyde.
-GEO:50.8344692;4.2821012
-LOCATION:BON AIR\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
-ORGANIZER:MAILTO:union.tigers@hotmail.com
+SUMMARY:ABSSA D3A J14: FOSSIS (LES) CS vs UNION TIGERS
+DTSTART;VALUE=DATE-TIME:20240113T140000Z
+DTEND;VALUE=DATE-TIME:20240113T153000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_3A_14_217_649
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: M08\n\nCouleur princi
+ pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Bleu 
+ ciel et Blanc\n\nContact équipe domicile: Desmedt O. (0495.27.08.87 - oli
+ .desmedt@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l
+ 'autoroute E411 en direction de Namur. Prendre la sortie 9 Corroy-le-Grand
+  vers Louvain-la-Neuve  Sud / Nivelles / E 19. Rejoindre Chemin de Grez. A
+ u rond-point\, prendre la 2ième sortie sur Grand'Route / N 4. Après 1\,8
+  km.et au prochain feu\, tourner à droite Rue de Corbais. Continuer tout 
+ droit pendant 2 km. et prendre à droite Avenue du Cérisier. 70 m. plus l
+ oin\, vous trouverez le parking sur la droite.\n\nVérifiez toujours ces i
+ nfos sur http://www.abssa.be/
+GEO:50.6415297;4.6219204
+LOCATION:Guibert Sports Arena\, Avenue des Cérisiers 3\, 1435 Mont-Saint-
+ Guibert\, Belgique
+ORGANIZER;CN="Desmedt O.";ROLE=Secrétaire:MAILTO:oli.desmedt@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J15: UNION TIGERS vs CHIEFS WSL
+DTSTART;VALUE=DATE-TIME:20240120T113000Z
+DTEND;VALUE=DATE-TIME:20240120T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_3A_15_649_303
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A01\n\nCouleur princi
+ pale équipe domicile: Bleu ciel et Blanc\nCouleur principale équipe exte
+ rieure: Blanc\n\nContact équipe domicile: Thibaut L (0472.52.93.45 - unio
+ n.tigers@hotmail.com)\n\nAccès voiture : Par le Ring Ouest\, direction Pa
+ ris\, sortie Westland Shopping Center (n° 14) continuer tout droit\, remo
+ nter vers le Ring et prendre à droite pour sortir vers Itterbeek. Prendre
+  l'avenue d'Itterbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. 
+ Le terrain se trouve à gauche\, entre l'école Van Belle et Veeweyde.\n\n
+ Vérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8354396;4.2768611
+LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
+ORGANIZER;CN="Thibaut L";ROLE=Secrétaire:MAILTO:union.tigers@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J16: NEW INN FC vs UNION TIGERS
+DTSTART;VALUE=DATE-TIME:20240127T143000Z
+DTEND;VALUE=DATE-TIME:20240127T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_3A_16_359_649
+DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
+ ciel et Blanc\n\nContact équipe domicile: Cornil B. (0494.16.15.11 - benc
+ ornil@gmail.com)\n\nAccès voiture : Au départ de la Place Meiser\, l'aut
+ oroute Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous l
+ e viaduc prendre à droite\, l'avenue des Anciens Combattants. Juste aprè
+ s le carrefour avec des feux de signalisation prendre à droite vers la Pl
+ ace de la Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois
+ ). Le terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces
+  infos sur http://www.abssa.be/
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="Cornil B.";ROLE=Secrétaire:MAILTO:bencornil@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J17: UNION TIGERS vs TRINQUANT
+DTSTART;VALUE=DATE-TIME:20240203T113000Z
+DTEND;VALUE=DATE-TIME:20240203T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_3A_17_649_445
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A01\n\nCouleur princi
+ pale équipe domicile: Bleu ciel et Blanc\nCouleur principale équipe exte
+ rieure: Bleu marine\n\nContact équipe domicile: Thibaut L (0472.52.93.45 
+ - union.tigers@hotmail.com)\n\nAccès voiture : Par le Ring Ouest\, direct
+ ion Paris\, sortie Westland Shopping Center (n° 14) continuer tout droit\
+ , remonter vers le Ring et prendre à droite pour sortir vers Itterbeek. P
+ rendre l'avenue d'Itterbeek au parc d'Anderlecht\, passer le ring\, reste 
+ 2 km. Le terrain se trouve à gauche\, entre l'école Van Belle et Veeweyd
+ e.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8354396;4.2768611
+LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
+ORGANIZER;CN="Thibaut L";ROLE=Secrétaire:MAILTO:union.tigers@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J18: VOLLENBACK FC vs UNION TIGERS
+DTSTART;VALUE=DATE-TIME:20240210T134500Z
+DTEND;VALUE=DATE-TIME:20240210T151500Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_3A_18_589_649
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W16\n\nCouleur princi
+ pale équipe domicile: Rose et noir\nCouleur principale équipe exterieure
+ : Bleu ciel et Blanc\n\nContact équipe domicile: Haimburger G. (0485.84.9
+ 1.47 - Gregory.haimburger@gmail.com)\n\nAccès voiture : Ring RO\, afrit W
+ emmel-Merchtem (n° 9)\, richting Merchtem volgen via de Is. Meyskensstraa
+ t tot aan de rotonde\, op de rotonde de 4de afslag nemen\, Diepstraat deze
+  vloeit over in de Steenweg op Brussel\, 50 m. voorbij het eerste kruispun
+ t met verkeerslichten\, links van de steenweg\, bevindt zich het stadium (
+ parking)\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.9077704;4.3065753
+LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
+  Wemmel\, Belgique
+ORGANIZER;CN="Haimburger G.";ROLE=Secrétaire:MAILTO:Gregory.haimburger@gm
+ ail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J19: UNION TIGERS vs FRANGINOS (LOS)
+DTSTART;VALUE=DATE-TIME:20240217T113000Z
+DTEND;VALUE=DATE-TIME:20240217T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_3A_19_649_647
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A01\n\nCouleur princi
+ pale équipe domicile: Bleu ciel et Blanc\nCouleur principale équipe exte
+ rieure: Blanc\n\nContact équipe domicile: Thibaut L (0472.52.93.45 - unio
+ n.tigers@hotmail.com)\n\nAccès voiture : Par le Ring Ouest\, direction Pa
+ ris\, sortie Westland Shopping Center (n° 14) continuer tout droit\, remo
+ nter vers le Ring et prendre à droite pour sortir vers Itterbeek. Prendre
+  l'avenue d'Itterbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. 
+ Le terrain se trouve à gauche\, entre l'école Van Belle et Veeweyde.\n\n
+ Vérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8354396;4.2768611
+LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
+ORGANIZER;CN="Thibaut L";ROLE=Secrétaire:MAILTO:union.tigers@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J26: UNION TIGERS vs MOON SHOOTERS
+DTSTART;VALUE=DATE-TIME:20240224T113000Z
+DTEND;VALUE=DATE-TIME:20240224T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_3A_26_649_606
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A01\n\nCouleur princi
+ pale équipe domicile: Bleu ciel et Blanc\nCouleur principale équipe exte
+ rieure: Jaune\n\nContact équipe domicile: Thibaut L (0472.52.93.45 - unio
+ n.tigers@hotmail.com)\n\nAccès voiture : Par le Ring Ouest\, direction Pa
+ ris\, sortie Westland Shopping Center (n° 14) continuer tout droit\, remo
+ nter vers le Ring et prendre à droite pour sortir vers Itterbeek. Prendre
+  l'avenue d'Itterbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. 
+ Le terrain se trouve à gauche\, entre l'école Van Belle et Veeweyde.\n\n
+ Vérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8354396;4.2768611
+LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
+ORGANIZER;CN="Thibaut L";ROLE=Secrétaire:MAILTO:union.tigers@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J23: UNION TIGERS vs CHARLES-QUINT FC
+DTSTART;VALUE=DATE-TIME:20240302T113000Z
+DTEND;VALUE=DATE-TIME:20240302T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_3A_23_649_499
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A01\n\nCouleur princi
+ pale équipe domicile: Bleu ciel et Blanc\nCouleur principale équipe exte
+ rieure: Bleu marine\n\nContact équipe domicile: Thibaut L (0472.52.93.45 
+ - union.tigers@hotmail.com)\n\nAccès voiture : Par le Ring Ouest\, direct
+ ion Paris\, sortie Westland Shopping Center (n° 14) continuer tout droit\
+ , remonter vers le Ring et prendre à droite pour sortir vers Itterbeek. P
+ rendre l'avenue d'Itterbeek au parc d'Anderlecht\, passer le ring\, reste 
+ 2 km. Le terrain se trouve à gauche\, entre l'école Van Belle et Veeweyd
+ e.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8354396;4.2768611
+LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
+ORGANIZER;CN="Thibaut L";ROLE=Secrétaire:MAILTO:union.tigers@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J20: CURTIS L'AUSELE vs UNION TIGERS
+DTSTART;VALUE=DATE-TIME:20240309T130000Z
+DTEND;VALUE=DATE-TIME:20240309T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_3A_20_599_649
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: I03\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Bleu ciel et Blanc\n\nContact équipe domicile: Lambricht T. (0474.20.64.
+ 38 - thomas.lambricht@gmail.com)\n\nAccès voiture : En venant de Bruxelle
+ s\, prendre l’E411 en direction de Namur et prendre la sortie 11 Perwez-
+ Gembloux\, prendre à droite vers Perwez sur la N29 jusqu’au rond-point 
+ de Glimes qui croise la N91 (7km depuis l’E411). Sortir à la 3ème sort
+ ie sur la N91 en\ndirection de Hamme-Mille. Prendre ensuite la 3ème rue 
+ à gauche et le terrain se trouve directement sur la droite.\n\nVérifiez 
+ toujours ces infos sur http://www.abssa.be/
+GEO:50.6849677;4.8070879
+LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
+ORGANIZER;CN="Lambricht T.";ROLE=Secrétaire:MAILTO:thomas.lambricht@gmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J21: UNION TIGERS vs LA LORRAINE-MTM.R (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240316T113000Z
+DTEND;VALUE=DATE-TIME:20240316T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_3A_21_649_44
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A01\n\nCouleur princi
+ pale équipe domicile: Bleu ciel et Blanc\nCouleur principale équipe exte
+ rieure: Bleu\n\nContact équipe domicile: Thibaut L (0472.52.93.45 - union
+ .tigers@hotmail.com)\n\nAccès voiture : Par le Ring Ouest\, direction Par
+ is\, sortie Westland Shopping Center (n° 14) continuer tout droit\, remon
+ ter vers le Ring et prendre à droite pour sortir vers Itterbeek. Prendre 
+ l'avenue d'Itterbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. L
+ e terrain se trouve à gauche\, entre l'école Van Belle et Veeweyde.\n\nV
+ érifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8354396;4.2768611
+LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
+ORGANIZER;CN="Thibaut L";ROLE=Secrétaire:MAILTO:union.tigers@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J22: CENTRAL PARK FC vs UNION TIGERS
+DTSTART;VALUE=DATE-TIME:20240323T143000Z
+DTEND;VALUE=DATE-TIME:20240323T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_3A_22_562_649
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Bleu et Blanc\nCouleur principale équipe exterieur
+ e: Bleu ciel et Blanc\n\nContact équipe domicile: Genot F. (0473.57.28.61
+  - genotflorian@hotmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, 
+ prendre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (te
+ rminus bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez
+  toujours ces infos sur http://www.abssa.be/
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J25: TAURO FC vs UNION TIGERS
+DTSTART;VALUE=DATE-TIME:20240406T113000Z
+DTEND;VALUE=DATE-TIME:20240406T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_3A_25_574_649
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S09\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu c
+ iel et Blanc\n\nContact équipe domicile: Lietaer Y. (0484.16.30.31 - ylie
+ taer@gmail.com)\n\nAccès voiture : Place Meiser\, descendre Bd. Général
+  Wahis\, Bd Lambermont\, au deuxième carrefour prendre à gauche\, puis e
+ ncore la première à gauche\nOu :  Place Meiser prendre Av Ernest Cambier
+ . - Tram n° 7  - Bus 65 arrêt Chazal\n\nVérifiez toujours ces infos sur
+  http://www.abssa.be/
+GEO:50.8592013;4.3921032
+LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
+ ue
+ORGANIZER;CN="Lietaer Y.";ROLE=Secrétaire:MAILTO:ylietaer@gmail.com
 END:VEVENT
 END:VCALENDAR

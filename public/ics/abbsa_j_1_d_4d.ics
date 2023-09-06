@@ -1,0 +1,121 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:abbsa_j_1_d_4d
+X-WR-CALDESC:Les matches de la journée 1 en divion 4D d'ABSSA.
+X-WR-CALNAME:D4D Journée 1
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J1: COMP. CINEMA R vs BEETHOVEN FCS
+DTSTART;VALUE=DATE-TIME:20230909T103000Z
+DTEND;VALUE=DATE-TIME:20230909T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_4D_1_16_493
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E07\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Bleu c
+ iel\n\nContact équipe domicile: El Maimouni F (0484.08.93.29 - compagnons
+ cinema016@gmail.com)\n\nAccès voiture : Boulevard Lambermont\, prendre le
+  boulevard Léopold III\, direction aéroport de Bruxelles-National\, au 3
+ ème feu de signalisation prendre à droite. le terrain se trouve à 50 m.
+ \n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8691994;4.406709999999999
+LOCATION:Complexe Sportif Evere\, Avenue des Anciens Combattants 300\, 114
+ 0 Evere\, Belgique
+ORGANIZER;CN="El Maimouni F";ROLE=Secrétaire:MAILTO:compagnonscinema016@g
+ mail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J1: PANGLOSS FC vs PHARMA SC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20230909T120000Z
+DTEND;VALUE=DATE-TIME:20230909T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_4D_1_123_268
+DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Jaune\
+ n\nContact équipe domicile: De Paduwa P. (0475.67.06.50 - p.depaduwa@gmai
+ l.com)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces infos sur
+  http://www.abssa.be/
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="De Paduwa P.";ROLE=Secrétaire:MAILTO:p.depaduwa@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J1: FORESTOIS SC (Eq. 3) vs BRUSSELS BRITISH R (Eq. 4)
+DTSTART;VALUE=DATE-TIME:20230909T120000Z
+DTEND;VALUE=DATE-TIME:20230909T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_4D_1_152_1
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Janssens P. (0479.95.08.14 - patj.scf@gmail.c
+ om)\n\nAccès voiture : Au départ de la Place St. Denis à Forest prendre
+  la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à dr
+ oite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gauche
+  (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du Co
+ mplexe se trouve à hauteur de City Cart\, à gauche de la route.\n\nVéri
+ fiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J1: BIERGEOIS CS vs LORGNETTE (LA)  FC
+DTSTART;VALUE=DATE-TIME:20230909T123000Z
+DTEND;VALUE=DATE-TIME:20230909T140000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_4D_1_70_392
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B01\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bordea
+ ux\n\nContact équipe domicile: Stavart S (0496.95.16.64 - sebastienstavar
+ t@yahoo.fr)\n\nAccès voiture : Autoroute Bruxelles-Namur\, sortie Bierges
+ \, prendre à droite\, le terrain se trouve à +/- 500 m. du côté droit.
+ \n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.7113792;4.5897825
+LOCATION:Complexe Sportif J. Colette\, Rue des Combattants\, 1301 Bierges\
+ , Belgique
+ORGANIZER;CN="Stavart S";ROLE=Secrétaire:MAILTO:sebastienstavart@yahoo.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J1: SPARTA SCHEUT vs JODOIGNOISE FC
+DTSTART;VALUE=DATE-TIME:20230909T133000Z
+DTEND;VALUE=DATE-TIME:20230909T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_4D_1_340_664
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Rayé Bleu et Jaune\nCouleur principale équipe ext
+ erieure: Noir et jaune\n\nContact équipe domicile: Vande Velde J. (0486.9
+ 7.70.66 - sparta.scheut@hotmail.com)\n\nAccès voiture : Ring\, sortie Hop
+ ital Erasme\, après 300 m. en direction de Lennik\, prendre à droite.\nV
+ enant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Bri
+ and\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopita
+ l Erasme 400 m. en direction de Lennik.\n\nVérifiez toujours ces infos su
+ r http://www.abssa.be/
+GEO:50.8177358;4.2557195
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER;CN="Vande Velde J.";ROLE=Secrétaire:MAILTO:sparta.scheut@hotmai
+ l.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J1: NEPTUNE FC vs WAPPERS FC
+DTSTART;VALUE=DATE-TIME:20230909T133000Z
+DTEND;VALUE=DATE-TIME:20230909T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_4D_1_56_67
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rayé 
+ noir et blanc\n\nContact équipe domicile: Louies S. (0474.55.15.41 - loui
+ esstephane@gmail.com)\n\nAccès voiture : Via la chaussée de Mons jusqu'
+ à Veeweyde (carrefour Fr. Van Kalken). Prendre à droite le boulevard  A.
+  Briand jusqu'à la Place Verdi\, puis le Bld. Théo Lambert.\n\nVérifiez
+  toujours ces infos sur http://www.abssa.be/
+GEO:50.827564;4.2952993
+LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Louies S.";ROLE=Secrétaire:MAILTO:louiesstephane@gmail.com
+END:VEVENT
+END:VCALENDAR

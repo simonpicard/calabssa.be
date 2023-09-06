@@ -1,280 +1,502 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:539316f0-53d7-4727-bb7c-c94ac9a1efdc
-X-WR-CALDESC:Les matches de WATERMAEL FC (eq. 2) en ABSSA.
-X-WR-CALNAME:ABSSA - WATERMAEL FC (eq. 2) - 611
-X-WR-TIMEZONE:Europe/Brussels
+PRODID:611_2_watermael_fc
+X-WR-CALDESC:Les matches du club WATERMAEL FC (equipe 2) en ABSSA.
+X-WR-CALNAME:ABSSA: WATERMAEL FC (eq. 2)
 BEGIN:VEVENT
-SUMMARY:ABSSA D5A J2: FORESTOIS SC (Eq. 3) vs WATERMAEL FC (Eq. 2)
-DTSTART:20220910T153000Z
-DTEND:20220910T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:02658589-bc78-4578-9d75-a8b19fc08804
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe extérieur: Bleu\n\nContact équipe d
- omicile: JANSSENS P. (0479.95.08.14)\n\nAccès voiture : Au départ de la 
- Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à la r
- ue de la Soierie (4ème rue à droite) et dans la rue de la Soierie rouler
-  env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique) pe
- ndant env. 500 m. L'entrée du Complexe se trouve à hauteur de City Cart\
- , à gauche de la route.
-GEO:50.8005447;4.3095283
-LOCATION:COMPLEXE SPORTIF DU BEMPT\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER:MAILTO:patj.scf@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J12: WATERMAEL FC (Eq. 2) vs ELAN EVERE RAC
-DTSTART:20221126T133000Z
-DTEND:20221126T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:013bd412-aebf-416a-98da-41790b07a83b
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Vert\n\nContact équipe d
- omicile: DESCHAMPS J. (0477.67.76.37)\n\nAccès voiture : L'accès au terr
- ain se fait à partir du n° 2057 de la chaussée de Wavre (en face du sta
- de communal d'Auderghem). L'accès au terrain se fait par l'arrière du b
- âtiment principal (où sont situés les vestiaires) il faut parcourir env
- iron 300 mètres avant d'atteindre le terrain de football situé après la
-  piste d'athlétisme et le terrain de hockey.
-GEO:50.80890770000001;4.4427327
-LOCATION:COMPLEXE DE L'ADEPS\, Chaussée de Wavre\, 2057\, 1160 Auderghem\
- , Belgique
-ORGANIZER:MAILTO:jul_desch@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J13: WATERMAEL FC (Eq. 2) vs FORESTOIS SC (Eq. 3)
-DTSTART:20221203T133000Z
-DTEND:20221203T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:0fb74a90-bd64-40d3-975d-3ce3cc1f859d
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Vert\n\nContact équipe d
- omicile: DESCHAMPS J. (0477.67.76.37)\n\nAccès voiture : L'accès au terr
- ain se fait à partir du n° 2057 de la chaussée de Wavre (en face du sta
- de communal d'Auderghem). L'accès au terrain se fait par l'arrière du b
- âtiment principal (où sont situés les vestiaires) il faut parcourir env
- iron 300 mètres avant d'atteindre le terrain de football situé après la
-  piste d'athlétisme et le terrain de hockey.
-GEO:50.80890770000001;4.4427327
-LOCATION:COMPLEXE DE L'ADEPS\, Chaussée de Wavre\, 2057\, 1160 Auderghem\
- , Belgique
-ORGANIZER:MAILTO:jul_desch@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J14: WOLUWE FC vs WATERMAEL FC (Eq. 2)
-DTSTART:20221210T153000Z
-DTEND:20221210T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:a7edc51e-629a-4c6c-b274-5488d03fddfd
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Jaune et Bleu\nCouleur principale équipe extérieur: Bleu\n\nContact 
- équipe domicile: PURNELLE K. (0491.08.24.67)\n\nAccès voiture : Par la E
- 411 Bruxelles-Namur\, prendre la sortie n° 5 (Wavre Nord\, Rixensart\, Bi
- erges).\nEnsuite prendre la N257 pendant 700 mètres jusqu'au rond-point\,
-  prendre la rue de l'Etoile et ensuite la rue de Mérode jusqu'à Rixensar
- t. Après 900 mètres\, à la Place de la Perche\, prendre à droite l'ave
- nue de la Paix et encore à droite l'avenue Clermont Tonnerre.
-GEO:50.7128483;4.5376972
-LOCATION:COMPLEXE SPORTIF DE RIXENSART\, Avenue Clermont Tonnerre\, 26A\, 
- 1330 Rixensart\, Belgique
-ORGANIZER:MAILTO:kevin.purnelle@ing.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J15: WATERMAEL FC (Eq. 2) vs EFFETA FC
-DTSTART:20221217T133000Z
-DTEND:20221217T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:5384fb73-6f85-4054-af86-409d429d64ec
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Rouge et noir\n\nContact 
- équipe domicile: DESCHAMPS J. (0477.67.76.37)\n\nAccès voiture : L'accè
- s au terrain se fait à partir du n° 2057 de la chaussée de Wavre (en fa
- ce du stade communal d'Auderghem). L'accès au terrain se fait par l'arri
- ère du bâtiment principal (où sont situés les vestiaires) il faut parc
- ourir environ 300 mètres avant d'atteindre le terrain de football situé 
- après la piste d'athlétisme et le terrain de hockey.
-GEO:50.80890770000001;4.4427327
-LOCATION:COMPLEXE DE L'ADEPS\, Chaussée de Wavre\, 2057\, 1160 Auderghem\
- , Belgique
-ORGANIZER:MAILTO:jul_desch@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J16: POSTBOYS FC vs WATERMAEL FC (Eq. 2)
-DTSTART:20230107T140000Z
-DTEND:20230107T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:443dce96-9e3b-4d0f-9f5d-12290e937edb
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge et noir\nCouleur principale équipe extérieur: Bleu\n\nContact 
- équipe domicile: BURQUEL J-M. (0498.05.90.57)\n\nAccès voiture : Directi
- on cimetière de Jette\, ensuite prendre la rue du "Sacré-Coeur" jusqu'au
-  bout\, puis tout droit\, avenue J.J. Crocq. Le terrain se trouve à gauch
- e.
-GEO:50.8868564;4.3286963
-LOCATION:COMPLEXE SPORTIF DU HEYMBOSCH\, Avenue J.J. Crocq\, 1090 Jette\, 
+SUMMARY:ABSSA D5B J10: WATERMAEL FC (Eq. 2) vs SPORTING BW
+DTSTART;VALUE=DATE-TIME:20230902T103000Z
+DTEND;VALUE=DATE-TIME:20230902T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_5B_10_611_673
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A10\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Deschamps J. (0477.67.76.37 - jul_desch@hotma
+ il.com)\n\nAccès voiture : L'accès au terrain se fait à partir du n° 2
+ 057 de la chaussée de Wavre (en face du stade communal d'Auderghem). L'ac
+ cès au terrain se fait par l'arrière du bâtiment principal (où sont si
+ tués les vestiaires) il faut parcourir environ 300 mètres avant d'attein
+ dre le terrain de football situé après la piste d'athlétisme et le terr
+ ain de hockey.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8093405;4.4437919
+LOCATION:Complexe de L'Adeps\, Chaussée de Wavre 2057\, 1160 Auderghem\, 
  Belgique
-ORGANIZER:MAILTO:secretariat@postboys.be
+ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5A J17: WATERMAEL FC (Eq. 2) vs AZUR RCS (Eq. 4)
-DTSTART:20230114T133000Z
-DTEND:20230114T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:fb9fc010-a68f-412f-9ba5-466b9dbfe12a
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Bleu ciel\n\nContact équ
- ipe domicile: DESCHAMPS J. (0477.67.76.37)\n\nAccès voiture : L'accès au
-  terrain se fait à partir du n° 2057 de la chaussée de Wavre (en face d
- u stade communal d'Auderghem). L'accès au terrain se fait par l'arrière 
- du bâtiment principal (où sont situés les vestiaires) il faut parcourir
-  environ 300 mètres avant d'atteindre le terrain de football situé aprè
- s la piste d'athlétisme et le terrain de hockey.
-GEO:50.80890770000001;4.4427327
-LOCATION:COMPLEXE DE L'ADEPS\, Chaussée de Wavre\, 2057\, 1160 Auderghem\
- , Belgique
-ORGANIZER:MAILTO:jul_desch@hotmail.com
+SUMMARY:ABSSA D5B J1: WATERMAEL FC (Eq. 2) vs FRAUDES (LES)
+DTSTART;VALUE=DATE-TIME:20230909T103000Z
+DTEND;VALUE=DATE-TIME:20230909T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_5B_1_611_665
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A10\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir e
+ t blanc\n\nContact équipe domicile: Deschamps J. (0477.67.76.37 - jul_des
+ ch@hotmail.com)\n\nAccès voiture : L'accès au terrain se fait à partir 
+ du n° 2057 de la chaussée de Wavre (en face du stade communal d'Auderghe
+ m). L'accès au terrain se fait par l'arrière du bâtiment principal (où
+  sont situés les vestiaires) il faut parcourir environ 300 mètres avant 
+ d'atteindre le terrain de football situé après la piste d'athlétisme et
+  le terrain de hockey.\n\nVérifiez toujours ces infos sur http://www.abss
+ a.be/
+GEO:50.8093405;4.4437919
+LOCATION:Complexe de L'Adeps\, Chaussée de Wavre 2057\, 1160 Auderghem\, 
+ Belgique
+ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5A J18: RANGERS F.C. vs WATERMAEL FC (Eq. 2)
-DTSTART:20230121T140000Z
-DTEND:20230121T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:615d36cb-6c65-4a31-8b4f-fb1922379d49
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Rayé Bordeaux Blanc et Bleu\nCouleur principale équipe extérieur: B
- leu\n\nContact équipe domicile: THUNS S (0474.62.02.22)\n\nAccès voiture
-  : De la Place Meiser\, remonter tous les boulevards. Au carrefour de la C
- haussée de Wavre\, prendre celle-ci à droite\, ensuite la 2ème rue à d
- roite (Rue Général Fivé)\, puis la 3ème à droite (rue Baron Dhanis).
-GEO:50.8287714;4.3975708
-LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
-ORGANIZER:MAILTO:samuel.thuns@gmail.com
+SUMMARY:ABSSA D5B J2: CHOULE AUDERGHEM (Eq. 4) vs WATERMAEL FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20230916T133000Z
+DTEND;VALUE=DATE-TIME:20230916T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_5B_2_517_611
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W19\n\nCouleur princi
+ pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
+ erieure: Bleu\n\nContact équipe domicile: Vandenplas D. (0476.54.48.01 - 
+ dav_54@hotmail.com)\n\nAccès voiture : Ring de Bruxelles (RO)\, sortie n
+ ° 2. Prendre la direction Wezembeek-Oppem. Ensuite première rue à droit
+ e (Louis Marcelisstraat) puis la troisième à droite (Sportpleinstraat).\
+ nL'entrée au terrain se trouve à gauche entre les n° 16 et 24.\nPar la 
+ ville : A partir du rond point Montgomery\, prendre l'Avenue de Broquevill
+ e\, toujours tout droit. Passez devant le Shopping de Woluwé\, toujours t
+ out droit\, passez devant le magasin "Carrefour"\, puis au 2ème feu de si
+ gnalisation prendre à droite et ensuite tout droit. Au bout de la rue pre
+ ndre à droite\, le terrain se trouve à 100 mètres  sur la gauche.\n\nV
+ érifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8424578;4.486587999999999
+LOCATION:Sportpleinstraat 20\, 1970 Wezembeek - Oppem\, Belgique
+ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5A J19: WATERMAEL FC (Eq. 2) vs BEA WOLUWE
-DTSTART:20230128T133000Z
-DTEND:20230128T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:de1051ef-ea7b-44b4-b92f-440e6de94fd4
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Bleu clair\n\nContact éq
- uipe domicile: DESCHAMPS J. (0477.67.76.37)\n\nAccès voiture : L'accès a
- u terrain se fait à partir du n° 2057 de la chaussée de Wavre (en face 
- du stade communal d'Auderghem). L'accès au terrain se fait par l'arrière
-  du bâtiment principal (où sont situés les vestiaires) il faut parcouri
- r environ 300 mètres avant d'atteindre le terrain de football situé apr
- ès la piste d'athlétisme et le terrain de hockey.
-GEO:50.80890770000001;4.4427327
-LOCATION:COMPLEXE DE L'ADEPS\, Chaussée de Wavre\, 2057\, 1160 Auderghem\
- , Belgique
-ORGANIZER:MAILTO:jul_desch@hotmail.com
+SUMMARY:ABSSA D5B J3: WATERMAEL FC (Eq. 2) vs PECHEUR F.C.
+DTSTART;VALUE=DATE-TIME:20230923T103000Z
+DTEND;VALUE=DATE-TIME:20230923T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_5B_3_611_677
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A10\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Vert e
+ t blanc\n\nContact équipe domicile: Deschamps J. (0477.67.76.37 - jul_des
+ ch@hotmail.com)\n\nAccès voiture : L'accès au terrain se fait à partir 
+ du n° 2057 de la chaussée de Wavre (en face du stade communal d'Auderghe
+ m). L'accès au terrain se fait par l'arrière du bâtiment principal (où
+  sont situés les vestiaires) il faut parcourir environ 300 mètres avant 
+ d'atteindre le terrain de football situé après la piste d'athlétisme et
+  le terrain de hockey.\n\nVérifiez toujours ces infos sur http://www.abss
+ a.be/
+GEO:50.8093405;4.4437919
+LOCATION:Complexe de L'Adeps\, Chaussée de Wavre 2057\, 1160 Auderghem\, 
+ Belgique
+ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5A J20: WINCHESTER F.C. vs WATERMAEL FC (Eq. 2)
-DTSTART:20230204T153000Z
-DTEND:20230204T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:8f68b4c8-37d4-4753-bef4-e2c49cb43b0a
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu et blanc\nCouleur principale équipe extérieur: Bleu\n\nContact 
- équipe domicile: DESCHEEMAEKER M. (0488.92.88.36)\n\nAccès voiture : A p
- artir de Bruxelles\, prendre la E 411 en direction de Namur. Prendre la so
- rtie N° 8 puis à droite la bretelle pour la N 25 vers Chaumont-Gistoux /
-  Grez Doiceau / Louvain. Après +/- 6\,5 km\, au rond-point\, prendre la s
- ortie 1 vers la N 420 Chée. de la Libération\, puis à gauche dans la ru
- e de la Grande lecke.
-GEO:50.7540176;4.7835618
-LOCATION:Rue de la Grande Lecke\, 3\, 1320 Beauvechain\, Belgique
-ORGANIZER:MAILTO:winchesterfc@outlook.com
+SUMMARY:ABSSA D5B J4: BEA WOLUWE vs WATERMAEL FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20230930T120000Z
+DTEND;VALUE=DATE-TIME:20230930T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_5B_4_459_611
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Maquestiau Ph. (0485.49.62.62 - philippemaques
+ tiau@yahoo.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"avenue 
+ Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujours ces info
+ s sur http://www.abssa.be/
+GEO:50.8343279;4.4397562
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Maquestiau Ph.";ROLE=Secrétaire:MAILTO:philippemaquestiau@y
+ ahoo.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5A J21: WATERMAEL FC (Eq. 2) vs GAMBRINUS F.C.
-DTSTART:20230211T133000Z
-DTEND:20230211T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:bbcf6832-0bc7-422f-84d5-5d69eb1f14ca
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Rose\n\nContact équipe d
- omicile: DESCHAMPS J. (0477.67.76.37)\n\nAccès voiture : L'accès au terr
- ain se fait à partir du n° 2057 de la chaussée de Wavre (en face du sta
- de communal d'Auderghem). L'accès au terrain se fait par l'arrière du b
- âtiment principal (où sont situés les vestiaires) il faut parcourir env
- iron 300 mètres avant d'atteindre le terrain de football situé après la
-  piste d'athlétisme et le terrain de hockey.
-GEO:50.80890770000001;4.4427327
-LOCATION:COMPLEXE DE L'ADEPS\, Chaussée de Wavre\, 2057\, 1160 Auderghem\
- , Belgique
-ORGANIZER:MAILTO:jul_desch@hotmail.com
+SUMMARY:ABSSA D5B J5: SPIJTOIS FC vs WATERMAEL FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20231007T120000Z
+DTEND;VALUE=DATE-TIME:20231007T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_5B_5_631_611
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: U02\n\nCouleur princi
+ pale équipe domicile: Blanc Bordeaux\nCouleur principale équipe exterieu
+ re: Bleu\n\nContact équipe domicile: Marchese G. (0496.53.66.37 - marches
+ e.gregoire21@yahoo.be)\n\nAccès voiture : L'entrée se fait par la rue du
+  Zwartebeek.\nPar le ring\, prendre la sortie Drogenbos-Ruisbroek\, direct
+ ion Uccle\, par la rue de Stalle prolongée.  Après le rond-point prendre
+  la 1ère rue à gauche\, la chaussée de Neerstalle.\nEnsuite la 2ème ru
+ e à gauche\, rue du Zwartebeek\, l'entrée du complexe est située à +/-
+  200 mètres sur la droite.\n\nVérifiez toujours ces infos sur http://www
+ .abssa.be/
+GEO:50.7970109;4.319077
+LOCATION:Leopold-Uccle\, Rue du Zwartebeek\, 1180 Uccle\, Belgique
+ORGANIZER;CN="Marchese G.";ROLE=Secrétaire:MAILTO:marchese.gregoire21@yah
+ oo.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5A J22: ELAN EVERE RAC vs WATERMAEL FC (Eq. 2)
-DTSTART:20230225T133000Z
-DTEND:20230225T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:aa6abe92-e40a-4f22-a9e1-b6dd6b12e605
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe extérieur: Bleu\n\nContact équipe d
- omicile: DUBOIS J-J. (0486.47.10.49)\n\nAccès voiture : Le terrain se tro
- uve derrière l'église St. Vincent
-GEO:50.8786351;4.3949376
-LOCATION:PARC ST. VINCENT (BON PASTEUR)\, Rue de Picardie\, 1140 Evere\, B
- elgique
-ORGANIZER:MAILTO:jjdubois58@gmail.com
+SUMMARY:ABSSA D5B J6: WATERMAEL FC (Eq. 2) vs GALACTIC JUMPERTZ
+DTSTART;VALUE=DATE-TIME:20231014T103000Z
+DTEND;VALUE=DATE-TIME:20231014T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_5B_6_611_659
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A10\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Orange
+ \n\nContact équipe domicile: Deschamps J. (0477.67.76.37 - jul_desch@hotm
+ ail.com)\n\nAccès voiture : L'accès au terrain se fait à partir du n° 
+ 2057 de la chaussée de Wavre (en face du stade communal d'Auderghem). L'a
+ ccès au terrain se fait par l'arrière du bâtiment principal (où sont s
+ itués les vestiaires) il faut parcourir environ 300 mètres avant d'attei
+ ndre le terrain de football situé après la piste d'athlétisme et le ter
+ rain de hockey.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8093405;4.4437919
+LOCATION:Complexe de L'Adeps\, Chaussée de Wavre 2057\, 1160 Auderghem\, 
+ Belgique
+ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5A J24: WATERMAEL FC (Eq. 2) vs BRITISH UNITED (Eq. 4)
-DTSTART:20230311T133000Z
-DTEND:20230311T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:ce99333f-8c9e-4e4d-bfb0-2cee146540c6
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Bleu\n\nContact équipe d
- omicile: DESCHAMPS J. (0477.67.76.37)\n\nAccès voiture : L'accès au terr
- ain se fait à partir du n° 2057 de la chaussée de Wavre (en face du sta
- de communal d'Auderghem). L'accès au terrain se fait par l'arrière du b
- âtiment principal (où sont situés les vestiaires) il faut parcourir env
- iron 300 mètres avant d'atteindre le terrain de football situé après la
-  piste d'athlétisme et le terrain de hockey.
-GEO:50.80890770000001;4.4427327
-LOCATION:COMPLEXE DE L'ADEPS\, Chaussée de Wavre\, 2057\, 1160 Auderghem\
- , Belgique
-ORGANIZER:MAILTO:jul_desch@hotmail.com
+SUMMARY:ABSSA D5B J8: WATERMAEL FC (Eq. 2) vs MASIA CITY
+DTSTART;VALUE=DATE-TIME:20231021T103000Z
+DTEND;VALUE=DATE-TIME:20231021T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_5B_8_611_661
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A10\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge-
+ Noir\n\nContact équipe domicile: Deschamps J. (0477.67.76.37 - jul_desch@
+ hotmail.com)\n\nAccès voiture : L'accès au terrain se fait à partir du 
+ n° 2057 de la chaussée de Wavre (en face du stade communal d'Auderghem).
+  L'accès au terrain se fait par l'arrière du bâtiment principal (où so
+ nt situés les vestiaires) il faut parcourir environ 300 mètres avant d'a
+ tteindre le terrain de football situé après la piste d'athlétisme et le
+  terrain de hockey.\n\nVérifiez toujours ces infos sur http://www.abssa.b
+ e/
+GEO:50.8093405;4.4437919
+LOCATION:Complexe de L'Adeps\, Chaussée de Wavre 2057\, 1160 Auderghem\, 
+ Belgique
+ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5A J25: WATERMAEL FC (Eq. 2) vs CENTRAL PARK FC (Eq. 2)
-DTSTART:20230318T133000Z
-DTEND:20230318T145500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:01e8a42f-9268-4189-91df-56b48741f1bb
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Bordeaux\n\nContact équi
- pe domicile: DESCHAMPS J. (0477.67.76.37)\n\nAccès voiture : L'accès au 
- terrain se fait à partir du n° 2057 de la chaussée de Wavre (en face du
-  stade communal d'Auderghem). L'accès au terrain se fait par l'arrière d
- u bâtiment principal (où sont situés les vestiaires) il faut parcourir 
- environ 300 mètres avant d'atteindre le terrain de football situé après
-  la piste d'athlétisme et le terrain de hockey.
-GEO:50.80890770000001;4.4427327
-LOCATION:COMPLEXE DE L'ADEPS\, Chaussée de Wavre\, 2057\, 1160 Auderghem\
- , Belgique
-ORGANIZER:MAILTO:jul_desch@hotmail.com
+SUMMARY:ABSSA D5B J24: WATERMAEL FC (Eq. 2) vs EFFETA FC
+DTSTART;VALUE=DATE-TIME:20231028T103000Z
+DTEND;VALUE=DATE-TIME:20231028T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_5B_24_611_516
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A10\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge 
+ et noir\n\nContact équipe domicile: Deschamps J. (0477.67.76.37 - jul_des
+ ch@hotmail.com)\n\nAccès voiture : L'accès au terrain se fait à partir 
+ du n° 2057 de la chaussée de Wavre (en face du stade communal d'Auderghe
+ m). L'accès au terrain se fait par l'arrière du bâtiment principal (où
+  sont situés les vestiaires) il faut parcourir environ 300 mètres avant 
+ d'atteindre le terrain de football situé après la piste d'athlétisme et
+  le terrain de hockey.\n\nVérifiez toujours ces infos sur http://www.abss
+ a.be/
+GEO:50.8093405;4.4437919
+LOCATION:Complexe de L'Adeps\, Chaussée de Wavre 2057\, 1160 Auderghem\, 
+ Belgique
+ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5A J26: EFFETA FC vs WATERMAEL FC (Eq. 2)
-DTSTART:20230325T123000Z
-DTEND:20230325T135500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:20fddd48-3637-4fd9-af32-da07e73a2b0a
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge et noir\nCouleur principale équipe extérieur: Bleu\n\nContact 
- équipe domicile: ERYURUK K. (0487.34.08.40)\n\nAccès voiture : Autoroute
-  Bruxelles-Anvers (A12)\, au premier feu de signalisation\, prendre à gau
- che\, direction Londerzeel. Suivre la plaque Stationstraat. Passée la gar
- e (après env. 1200 m.) prendre à gauche au " Monument aux Morts". Le ter
- rain se trouve à 50 m.
+SUMMARY:ABSSA D5B J9: L'EKIP vs WATERMAEL FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20231118T140000Z
+DTEND;VALUE=DATE-TIME:20231118T153000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_5B_9_662_611
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: P02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Maes A (0471.66.04.74 - lekipofficielle@gmail
+ .com)\n\nAccès voiture : a Partir de Bruxelles\, Prendre la E 411 en Dire
+ ction de Namur. Prendre la Sortie 11  Gembloux pour Rejoindre la N 29 en D
+ irection de Gembloux / Tirlement / Jodoigne / Perwez. suivre la N29 et Cha
+ ussée de Wavre (N243) en Direction de la Rue des Marronniers. au Rond-Poi
+ nt 1\, 2 et 3 Prendre chaque Fois la première Sortie.\nAu Rond-Point suiv
+ ant (4Ième) Prendre la deuxième Sortie et Continuer sur la Chaussée de 
+ Wavre / N 243. Prendre à Droite sur la Rue des Marronniers\, le Terrain s
+ e Trouve à Droite\n\nVérifiez toujours ces infos sur http://www.abssa.be
+ /
+GEO:50.6251834;4.8051205
+LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
+ORGANIZER;CN="Maes A";ROLE=Secrétaire:MAILTO:lekipofficielle@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J12: WATERMAEL FC (Eq. 2) vs RED STAR BRUSSELS
+DTSTART;VALUE=DATE-TIME:20231125T113000Z
+DTEND;VALUE=DATE-TIME:20231125T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_5B_12_611_663
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A10\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc 
+ et rouge\n\nContact équipe domicile: Deschamps J. (0477.67.76.37 - jul_de
+ sch@hotmail.com)\n\nAccès voiture : L'accès au terrain se fait à partir
+  du n° 2057 de la chaussée de Wavre (en face du stade communal d'Audergh
+ em). L'accès au terrain se fait par l'arrière du bâtiment principal (o
+ ù sont situés les vestiaires) il faut parcourir environ 300 mètres avan
+ t d'atteindre le terrain de football situé après la piste d'athlétisme 
+ et le terrain de hockey.\n\nVérifiez toujours ces infos sur http://www.ab
+ ssa.be/
+GEO:50.8093405;4.4437919
+LOCATION:Complexe de L'Adeps\, Chaussée de Wavre 2057\, 1160 Auderghem\, 
+ Belgique
+ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J11: EFFETA FC vs WATERMAEL FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20231202T113000Z
+DTEND;VALUE=DATE-TIME:20231202T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_5B_11_516_611
+DESCRIPTION:Terrain synthétique: non\nCode terrain: L05\n\nCouleur princi
+ pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
+ e: Bleu\n\nContact équipe domicile: Eryuruk K. (0487.34.08.40 - effetafc@
+ gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Anvers (A12)\, au premi
+ er feu de signalisation\, prendre à gauche\, direction Londerzeel. Suivre
+  la plaque Stationstraat. Passée la gare (après env. 1200 m.) prendre à
+  gauche au " Monument aux Morts". Le terrain se trouve à 50 m.\n\nVérifi
+ ez toujours ces infos sur http://www.abssa.be/
 GEO:51.0192214;4.2904455
-LOCATION:VERMA\, Blauwenhoek\, 76\, 1840 Londerzeel\, Belgique
-ORGANIZER:MAILTO:effetafc@gmail.com
+LOCATION:Verma\, Blauwenhoek 76\, 1840 Londerzeel\, Belgique
+ORGANIZER;CN="Eryuruk K.";ROLE=Secrétaire:MAILTO:effetafc@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J13: UNION BRUXELLOISE vs WATERMAEL FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20231209T113000Z
+DTEND;VALUE=DATE-TIME:20231209T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_5B_13_655_611
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: Noir/ Bleu\nCouleur principale équipe exterieure: 
+ Bleu\n\nContact équipe domicile: Herinckx C. (0472.83.06.56 - union.bruxe
+ lloise@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autor
+ oute Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer so
+ us le pont de l'autoroute et prendre la direction de Nivelles. A 200 m.\, 
+ au rond-point (Shopping Center)\, tourner à droite en direction de Wavre 
+ (petit ring de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-p
+ oint du Shopping Center)\, tourner à gauche \, rue de l'Industrie et pén
+ étrer dans le zoning. Au bout de la rue\, avant le feu de signalisation\,
+  tourner à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVé
+ rifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.5963436;4.3564187
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Herinckx C.";ROLE=Secrétaire:MAILTO:union.bruxelloise@gmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J14: FRAUDES (LES) vs WATERMAEL FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240113T123000Z
+DTEND;VALUE=DATE-TIME:20240113T140000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_5B_14_665_611
+DESCRIPTION:Terrain synthétique: non\nCode terrain: A10\n\nCouleur princi
+ pale équipe domicile: Noir et blanc\nCouleur principale équipe exterieur
+ e: Bleu\n\nContact équipe domicile: Struys L. (0491.84.27.37 - leo.struys
+ @telenet.be)\n\nAccès voiture : L'accès au terrain se fait à partir du 
+ n° 2057 de la chaussée de Wavre (en face du stade communal d'Auderghem).
+  L'accès au terrain se fait par l'arrière du bâtiment principal (où so
+ nt situés les vestiaires) il faut parcourir environ 300 mètres avant d'a
+ tteindre le terrain de football situé après la piste d'athlétisme et le
+  terrain de hockey.\n\nVérifiez toujours ces infos sur http://www.abssa.b
+ e/
+GEO:50.8093405;4.4437919
+LOCATION:Complexe de L'Adeps\, Chaussée de Wavre 2057\, 1160 Auderghem\, 
+ Belgique
+ORGANIZER;CN="Struys L.";ROLE=Secrétaire:MAILTO:leo.struys@telenet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J15: WATERMAEL FC (Eq. 2) vs CHOULE AUDERGHEM (Eq. 4)
+DTSTART;VALUE=DATE-TIME:20240120T113000Z
+DTEND;VALUE=DATE-TIME:20240120T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_5B_15_611_517
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A10\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rayé 
+ Bleu et Blanc\n\nContact équipe domicile: Deschamps J. (0477.67.76.37 - j
+ ul_desch@hotmail.com)\n\nAccès voiture : L'accès au terrain se fait à p
+ artir du n° 2057 de la chaussée de Wavre (en face du stade communal d'Au
+ derghem). L'accès au terrain se fait par l'arrière du bâtiment principa
+ l (où sont situés les vestiaires) il faut parcourir environ 300 mètres 
+ avant d'atteindre le terrain de football situé après la piste d'athléti
+ sme et le terrain de hockey.\n\nVérifiez toujours ces infos sur http://ww
+ w.abssa.be/
+GEO:50.8093405;4.4437919
+LOCATION:Complexe de L'Adeps\, Chaussée de Wavre 2057\, 1160 Auderghem\, 
+ Belgique
+ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J16: PECHEUR F.C. vs WATERMAEL FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240127T143000Z
+DTEND;VALUE=DATE-TIME:20240127T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_5B_16_677_611
+DESCRIPTION:Terrain synthétique: non\nCode terrain: N04\n\nCouleur princi
+ pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
+ e: Bleu\n\nContact équipe domicile: Delannoy I. (0471.59.00.22 - ignace.d
+ elannoyc@gmail.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à Noss
+ egem\, au premier croisement prendre à gauche la \nMechelsesteenweg. Le t
+ errain est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Li
+ ège\, prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechel
+ sesteenweg\, traverser la chaussée de Louvain\, et suivre comme ci-avant.
+ \n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.88776559999999;4.50894
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER;CN="Delannoy I.";ROLE=Secrétaire:MAILTO:ignace.delannoyc@gmail.
+ com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J17: WATERMAEL FC (Eq. 2) vs BEA WOLUWE
+DTSTART;VALUE=DATE-TIME:20240203T113000Z
+DTEND;VALUE=DATE-TIME:20240203T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_5B_17_611_459
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A10\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Deschamps J. (0477.67.76.37 - jul_desch@hotmai
+ l.com)\n\nAccès voiture : L'accès au terrain se fait à partir du n° 20
+ 57 de la chaussée de Wavre (en face du stade communal d'Auderghem). L'acc
+ ès au terrain se fait par l'arrière du bâtiment principal (où sont sit
+ ués les vestiaires) il faut parcourir environ 300 mètres avant d'atteind
+ re le terrain de football situé après la piste d'athlétisme et le terra
+ in de hockey.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8093405;4.4437919
+LOCATION:Complexe de L'Adeps\, Chaussée de Wavre 2057\, 1160 Auderghem\, 
+ Belgique
+ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J18: WATERMAEL FC (Eq. 2) vs SPIJTOIS FC
+DTSTART;VALUE=DATE-TIME:20240210T113000Z
+DTEND;VALUE=DATE-TIME:20240210T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_5B_18_611_631
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A10\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc 
+ Bordeaux\n\nContact équipe domicile: Deschamps J. (0477.67.76.37 - jul_de
+ sch@hotmail.com)\n\nAccès voiture : L'accès au terrain se fait à partir
+  du n° 2057 de la chaussée de Wavre (en face du stade communal d'Audergh
+ em). L'accès au terrain se fait par l'arrière du bâtiment principal (o
+ ù sont situés les vestiaires) il faut parcourir environ 300 mètres avan
+ t d'atteindre le terrain de football situé après la piste d'athlétisme 
+ et le terrain de hockey.\n\nVérifiez toujours ces infos sur http://www.ab
+ ssa.be/
+GEO:50.8093405;4.4437919
+LOCATION:Complexe de L'Adeps\, Chaussée de Wavre 2057\, 1160 Auderghem\, 
+ Belgique
+ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J19: GALACTIC JUMPERTZ vs WATERMAEL FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240217T113000Z
+DTEND;VALUE=DATE-TIME:20240217T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_5B_19_659_611
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R03\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Bleu
+ \n\nContact équipe domicile: Eyletten J. (0470.31.54.56 - galactic.jumper
+ tz@gmail.com)\n\nAccès voiture : Par la E411 Bruxelles-Namur\, prendre la
+  sortie n° 5 (Wavre Nord\, Rixensart\, Bierges).\nEnsuite prendre la N257
+  pendant 700 mètres jusqu'au rond-point\, prendre la rue de l'Etoile et e
+ nsuite la rue de Mérode jusqu'à Rixensart. Après 900 mètres\, à la Pl
+ ace de la Perche\, prendre à droite l'avenue de la Paix et encore à droi
+ te l'avenue Clermont Tonnerre.\n\nVérifiez toujours ces infos sur http://
+ www.abssa.be/
+GEO:50.7128483;4.5376972
+LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
+ 30 Rixensart\, Belgique
+ORGANIZER;CN="Eyletten J.";ROLE=Secrétaire:MAILTO:galactic.jumpertz@gmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J26: WATERMAEL FC (Eq. 2) vs UNION BRUXELLOISE
+DTSTART;VALUE=DATE-TIME:20240224T113000Z
+DTEND;VALUE=DATE-TIME:20240224T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_5B_26_611_655
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A10\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir/ 
+ Bleu\n\nContact équipe domicile: Deschamps J. (0477.67.76.37 - jul_desch@
+ hotmail.com)\n\nAccès voiture : L'accès au terrain se fait à partir du 
+ n° 2057 de la chaussée de Wavre (en face du stade communal d'Auderghem).
+  L'accès au terrain se fait par l'arrière du bâtiment principal (où so
+ nt situés les vestiaires) il faut parcourir environ 300 mètres avant d'a
+ tteindre le terrain de football situé après la piste d'athlétisme et le
+  terrain de hockey.\n\nVérifiez toujours ces infos sur http://www.abssa.b
+ e/
+GEO:50.8093405;4.4437919
+LOCATION:Complexe de L'Adeps\, Chaussée de Wavre 2057\, 1160 Auderghem\, 
+ Belgique
+ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J23: SPORTING BW vs WATERMAEL FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240302T130000Z
+DTEND;VALUE=DATE-TIME:20240302T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_5B_23_673_611
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: I03\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Thumas A. (0472.60.28.90 - sporting.bw.abssa@
+ gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l’E411 e
+ n direction de Namur et prendre la sortie 11 Perwez-Gembloux\, prendre à 
+ droite vers Perwez sur la N29 jusqu’au rond-point de Glimes qui croise l
+ a N91 (7km depuis l’E411). Sortir à la 3ème sortie sur la N91 en\ndire
+ ction de Hamme-Mille. Prendre ensuite la 3ème rue à gauche et le terrain
+  se trouve directement sur la droite.\n\nVérifiez toujours ces infos sur 
+ http://www.abssa.be/
+GEO:50.6849677;4.8070879
+LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
+ORGANIZER;CN="Thumas A.";ROLE=Secrétaire:MAILTO:sporting.bw.abssa@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J21: MASIA CITY vs WATERMAEL FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240316T113000Z
+DTEND;VALUE=DATE-TIME:20240316T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_5B_21_661_611
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
+ pale équipe domicile: Rouge-Noir\nCouleur principale équipe exterieure: 
+ Bleu\n\nContact équipe domicile: Saoud T. (0460.97.04.65 - masiacity@gmai
+ l.com)\n\nAccès voiture : A partir de Bruxelles\, prendre la E 411 en dir
+ ection de Namur. Prendre la sortie N° 8 puis à droite la bretelle pour l
+ a N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 km\
+ , au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Libérati
+ on\, puis à gauche dans la rue de la Grande lecke.\n\nVérifiez toujours 
+ ces infos sur http://www.abssa.be/
+GEO:50.7540176;4.7835618
+LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
+ORGANIZER;CN="Saoud T.";ROLE=Secrétaire:MAILTO:masiacity@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J22: WATERMAEL FC (Eq. 2) vs L'EKIP
+DTSTART;VALUE=DATE-TIME:20240323T113000Z
+DTEND;VALUE=DATE-TIME:20240323T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_5B_22_611_662
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A10\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Deschamps J. (0477.67.76.37 - jul_desch@hotma
+ il.com)\n\nAccès voiture : L'accès au terrain se fait à partir du n° 2
+ 057 de la chaussée de Wavre (en face du stade communal d'Auderghem). L'ac
+ cès au terrain se fait par l'arrière du bâtiment principal (où sont si
+ tués les vestiaires) il faut parcourir environ 300 mètres avant d'attein
+ dre le terrain de football situé après la piste d'athlétisme et le terr
+ ain de hockey.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8093405;4.4437919
+LOCATION:Complexe de L'Adeps\, Chaussée de Wavre 2057\, 1160 Auderghem\, 
+ Belgique
+ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J25: RED STAR BRUSSELS vs WATERMAEL FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240406T131500Z
+DTEND;VALUE=DATE-TIME:20240406T144500Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_5B_25_663_611
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
+ pale équipe domicile: Blanc et rouge\nCouleur principale équipe exterieu
+ re: Bleu\n\nContact équipe domicile: Helalouch A (0485.97.90.82 - redstar
+ brussels@gmail.com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette
+ .\nEn venant de Zaventem\, prendre à gauche à la sortie\, en venant de C
+ harleroi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au r
+ ond point. Le terrain se trouve en face de la pompe à essence Q8.\n\nVér
+ ifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.883299;4.316365
+LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
+ORGANIZER;CN="Helalouch A";ROLE=Secrétaire:MAILTO:redstarbrussels@gmail.c
+ om
 END:VEVENT
 END:VCALENDAR

@@ -1,305 +1,426 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:7b0450d7-9201-46df-a4ae-1824ed385646
-X-WR-CALDESC:Les matches de COSMOS BRUWOLF MJ (eq. 2) en ABSSA.
-X-WR-CALNAME:ABSSA - COSMOS BRUWOLF MJ (eq. 2) - 338
-X-WR-TIMEZONE:Europe/Brussels
+PRODID:338_2_cosmos_bruwolf_mj
+X-WR-CALDESC:Les matches du club COSMOS BRUWOLF MJ (equipe 2) en ABSSA.
+X-WR-CALNAME:ABSSA: COSMOS BRUWOLF MJ (eq. 2)
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J2: ALIZE VETERANS FC vs COSMOS BRUWOLF MJ (Eq. 2)
-DTSTART:20220910T140000Z
-DTEND:20220910T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:21c30d44-9c93-4fbc-9508-7f6417f79bb8
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Jaune\nCouleur principale équipe extérieur: Orange/Noir\n\nContact 
- équipe domicile: HAENTJENS J-L. (0473.88.82.20)\n\nAccès voiture : Via l
- a chaussée de Mons jusqu'à Veeweyde (carrefour Fr. Van Kalken). Prendre 
- à droite le boulevard  A. Briand jusqu'à la Place Verdi\, puis le Bld. T
- héo Lambert.
-GEO:50.827564;4.2952993
-LOCATION:STADE VERDI (STADIUM)\, Boulevard Théo Lambert\, 1070 Anderlecht
+SUMMARY:ABSSA D6B J1: AZUR RCS (Eq. 5) vs COSMOS BRUWOLF MJ (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20230909T130000Z
+DTEND;VALUE=DATE-TIME:20230909T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6B_1_109_338
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W12\n\nCouleur princi
+ pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: O
+ range et noir\n\nContact équipe domicile: Mad. Decamps N. (0477.27.39.66 
+ - nathalie_decamps@hotmail.com)\n\nAccès voiture : Avenue de Tervuren\, d
+ irection Tervuren. Passé le boulevard du Souverain prendre à gauche au p
+ remier feu de signalisation (Av. Madoux). Au feu de signalisation suivant 
+ prendre la 2ème rue à main droite (Av. J. Dujardin). Ensuite 1ère rue 
+ à gauche (Av. Salomé).\n\nVérifiez toujours ces infos sur http://www.ab
+ ssa.be/
+GEO:50.830818;4.455442
+LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
+ elgique
+ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
+ tmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J2: COSMOS BRUWOLF MJ (Eq. 2) vs BRAINE-TERMINUS FC (Eq.
+  2)
+DTSTART;VALUE=DATE-TIME:20230916T120000Z
+DTEND;VALUE=DATE-TIME:20230916T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6B_2_338_537
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: M05\n\nCouleur princi
+ pale équipe domicile: Orange et noir\nCouleur principale équipe exterieu
+ re: Jaune et rouge\n\nContact équipe domicile: Dehaut A. (0476.26.26.87 -
+  alain.dehaut@skynet.be)\n\nAccès voiture : Chaussée de Gand\, avenue M.
+  Ghandi\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.861905;4.3220645
+LOCATION:Sippelberg\, Avenue M. Ghandi\, 1080 Molenbeek\, Belgique
+ORGANIZER;CN="Dehaut A.";ROLE=Secrétaire:MAILTO:alain.dehaut@skynet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J3: GOALOIS (Eq. 3) vs COSMOS BRUWOLF MJ (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20230923T120000Z
+DTEND;VALUE=DATE-TIME:20230923T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6B_3_345_338
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Blanc-Noir\nCouleur principale équipe exterieure: 
+ Orange et noir\n\nContact équipe domicile: Laruelle M. (0494.52.09.71 - m
+ artin.laruelle@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, pre
+ ndre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (termi
+ nus bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez to
+ ujours ces infos sur http://www.abssa.be/
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Laruelle M.";ROLE=Secrétaire:MAILTO:martin.laruelle@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J4: COSMOS BRUWOLF MJ (Eq. 2) vs PHARMA SC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20230930T120000Z
+DTEND;VALUE=DATE-TIME:20230930T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6B_4_338_268
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: M05\n\nCouleur princi
+ pale équipe domicile: Orange et noir\nCouleur principale équipe exterieu
+ re: Vert\n\nContact équipe domicile: Dehaut A. (0476.26.26.87 - alain.deh
+ aut@skynet.be)\n\nAccès voiture : Chaussée de Gand\, avenue M. Ghandi\n\
+ nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.861905;4.3220645
+LOCATION:Sippelberg\, Avenue M. Ghandi\, 1080 Molenbeek\, Belgique
+ORGANIZER;CN="Dehaut A.";ROLE=Secrétaire:MAILTO:alain.dehaut@skynet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J5: COPAINS REUNIS (Eq. 2) vs COSMOS BRUWOLF MJ (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20231007T133000Z
+DTEND;VALUE=DATE-TIME:20231007T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6B_5_49_338
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
+  Orange et noir\n\nContact équipe domicile: Vandermeulen J. (0477.50.45.9
+ 5 - meulenj@hotmail.com)\n\nAccès voiture : En venant de la Route de Lenn
+ ik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre la direction du 
+ cimetière d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-p
+ oint prendre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'ent
+ rée du complexe et des terrains se situe à +/- 500 m. sur la gauche.\n\n
+ Vérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
  \, Belgique
-ORGANIZER:MAILTO:jean-luc.haentjens@police.belgium.eu
+ORGANIZER;CN="Vandermeulen J.";ROLE=Secrétaire:MAILTO:meulenj@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J12: AUDERGHEM R.CF vs COSMOS BRUWOLF MJ (Eq. 2)
-DTSTART:20221126T140000Z
-DTEND:20221126T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:6f527236-f3fd-4845-8c45-ffd43a1a52c6
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Orange/Noir\n\nContact é
- quipe domicile: PLECK P. (0475.82.01.41)\n\nAccès voiture : En venant de 
- Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'autorout
- e Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et desc
- endre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche
-  (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le stade est 
- fléché.
+SUMMARY:ABSSA D6B J6: COSMOS BRUWOLF MJ (Eq. 2) vs FORESTOIS SC (Eq. 5)
+DTSTART;VALUE=DATE-TIME:20231014T120000Z
+DTEND;VALUE=DATE-TIME:20231014T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6B_6_338_152
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: M05\n\nCouleur princi
+ pale équipe domicile: Orange et noir\nCouleur principale équipe exterieu
+ re: Noir\n\nContact équipe domicile: Dehaut A. (0476.26.26.87 - alain.deh
+ aut@skynet.be)\n\nAccès voiture : Chaussée de Gand\, avenue M. Ghandi\n\
+ nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.861905;4.3220645
+LOCATION:Sippelberg\, Avenue M. Ghandi\, 1080 Molenbeek\, Belgique
+ORGANIZER;CN="Dehaut A.";ROLE=Secrétaire:MAILTO:alain.dehaut@skynet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J8: COSMOS BRUWOLF MJ (Eq. 2) vs ETTEKIJS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20231021T120000Z
+DTEND;VALUE=DATE-TIME:20231021T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6B_8_338_343
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: M05\n\nCouleur princi
+ pale équipe domicile: Orange et noir\nCouleur principale équipe exterieu
+ re: Noir rayé de blanc\n\nContact équipe domicile: Dehaut A. (0476.26.26
+ .87 - alain.dehaut@skynet.be)\n\nAccès voiture : Chaussée de Gand\, aven
+ ue M. Ghandi\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.861905;4.3220645
+LOCATION:Sippelberg\, Avenue M. Ghandi\, 1080 Molenbeek\, Belgique
+ORGANIZER;CN="Dehaut A.";ROLE=Secrétaire:MAILTO:alain.dehaut@skynet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J24: COSMOS BRUWOLF MJ (Eq. 2) vs TRINQUANT (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20231028T120000Z
+DTEND;VALUE=DATE-TIME:20231028T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6B_24_338_445
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: M05\n\nCouleur princi
+ pale équipe domicile: Orange et noir\nCouleur principale équipe exterieu
+ re: Bleu marine\n\nContact équipe domicile: Dehaut A. (0476.26.26.87 - al
+ ain.dehaut@skynet.be)\n\nAccès voiture : Chaussée de Gand\, avenue M. Gh
+ andi\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.861905;4.3220645
+LOCATION:Sippelberg\, Avenue M. Ghandi\, 1080 Molenbeek\, Belgique
+ORGANIZER;CN="Dehaut A.";ROLE=Secrétaire:MAILTO:alain.dehaut@skynet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J7: AUDERGHEM R.CF vs COSMOS BRUWOLF MJ (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20231104T130000Z
+DTEND;VALUE=DATE-TIME:20231104T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6B_7_72_338
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Orange
+  et noir\n\nContact équipe domicile: Pleck P. (0475.82.01.41 - ppleckson@
+ hotmail.com)\n\nAccès voiture : En venant de Bruxelles par la chaussée d
+ e Wavre\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser
+  la bande de droite pendant +/- 200 m. et descendre devant le bâtiment de
+  l'ADEPS\, puis passer par le tunnel à gauche (en dessous de l'autoroute)
+ . Le terrain se trouve à 200 m. Le stade est fléché.\n\nVérifiez toujo
+ urs ces infos sur http://www.abssa.be/
 GEO:50.8103473;4.443252699999999
-LOCATION:COMPLEXE COMMUNAL\, Chaussée de Wavre\, 1854\, 1160 Auderghem\, 
- Belgique
-ORGANIZER:MAILTO:ppleckson@hotmail.com
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="Pleck P.";ROLE=Secrétaire:MAILTO:ppleckson@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J13: COSMOS BRUWOLF MJ (Eq. 2) vs ALIZE VETERANS FC
-DTSTART:20221203T140000Z
-DTEND:20221203T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:e55800a2-0c79-4d7e-bb75-f5739f375f00
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Orange/Noir\nCouleur principale équipe extérieur: Jaune\n\nContact 
- équipe domicile: DEHAUT A. (0476.26.26.87)\n\nAccès voiture : Ring O\, s
- ortie Ninove-Dilbeek (n° 13) direction Molenbeek\, par la chaussée de Ni
- nove \n(+/- 3 km.). Au feu de signalisation qui se trouve juste après le 
- "BRICO" prendre à gauche l'Avenue J. Baeck. Le terrain se trouve à main 
- droite\, juste au début de cette avenue.
-GEO:50.8511158;4.3192467
-LOCATION:STADE VERBIST - PARC MARIE-JOSE\, Avenue J. Baeck\, 1080 Molenbee
- k\, Belgique
-ORGANIZER:MAILTO:alain.dehaut@skynet.be
+SUMMARY:ABSSA D6B J9: CHIEFS WSL (Eq. 4) vs COSMOS BRUWOLF MJ (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20231118T100000Z
+DTEND;VALUE=DATE-TIME:20231118T113000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6B_9_303_338
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Orang
+ e et noir\n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desa
+ n.be)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, p
+ uis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant c
+ e pont le terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur
+  http://www.abssa.be/
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J14: TUBIFOOT AS vs COSMOS BRUWOLF MJ (Eq. 2)
-DTSTART:20221210T153000Z
-DTEND:20221210T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:f86d7778-bdf1-4116-b464-8af48bd2c396
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Jaune et Rouge\nCouleur principale équipe extérieur: Orange/Noir\n\n
- Contact équipe domicile: GIRARDO. M (0491.35.69.81)\n\nAccès voiture : E
- n venant de Bruxelles : Prendre le RO en direction Mons-Bergen / Charleroi
-  - prendre la sortie 21 et continuer sur la E429 direction Lille/Rijsel su
- r 7\,2 km. Ensuite prendre la sortie 23 et continuer sur le Hondzochtseste
- enweg pendant 1\,7km. Au rond point continuer tout droit Chaussée d'Hondz
- ocht sur 857 m\, \, prendre à droite Rue de Bruxelles sur 141 m.\, au ron
- d- point continuer tour droit et à nouveau au rond-point continuer tout d
- roite sur 537 m.\,\npasser devant l'Eglise de Tubize et après le 2ème fe
- u rouge\, prendre la 2ème rue à gauche\,\nRue des Ponts et continuer sur
-  470 m. (suivre les panneaux AFC. Tubize) puis prendre la 2ème à droite 
- (à côté des terrains de tennis) chemin menant au parking du Stade de Tu
- bize.\nPrendre le chemin à pied sur +/- 50 m. à gauche du stade jusqu'à
-  l'arrière de la tribune T3.
-GEO:50.684014;4.1993301
-LOCATION:Allée des Sports\, 7\, 1480  Tubize\, Belgique
-ORGANIZER:MAILTO:astubifoot@gmail.com
+SUMMARY:ABSSA D6B J12: NEW ARQUOIS FC (Eq. 3) vs COSMOS BRUWOLF MJ (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20231125T143000Z
+DTEND;VALUE=DATE-TIME:20231125T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6B_12_263_338
+DESCRIPTION:Terrain synthétique: non\nCode terrain: A12\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Orange
+  et noir\n\nContact équipe domicile: Beka J-M. (0495.25.31.25 - jmbeka73@
+ gmail.com)\n\nAccès voiture : Autoroute E 19 (Bruxelles-Charleroi)\, sort
+ ie Arquennes. Direction Seneffe-La-Louvière. A la station d'essence Total
+ \, prendre à droite pendant +/- 700 mètres.\nAu rond point\, prendre à 
+ droite en direction du château de La Rocq\, passez sous le pont\, le terr
+ ain se trouve à 100 mètres (à proximité du cimetière).\n\nVérifiez t
+ oujours ces infos sur http://www.abssa.be/
+GEO:50.5690988;4.2677281
+LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion\, 7181 Arquennes\, B
+ elgique
+ORGANIZER;CN="Beka J-M.";ROLE=Secrétaire:MAILTO:jmbeka73@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J15: COSMOS BRUWOLF MJ (Eq. 2) vs PHARMA SC (Eq. 4)
-DTSTART:20221217T140000Z
-DTEND:20221217T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:85feb0f3-1617-4579-aa7c-669afc3fb83f
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Orange/Noir\nCouleur principale équipe extérieur: Bleu\n\nContact é
- quipe domicile: DEHAUT A. (0476.26.26.87)\n\nAccès voiture : Ring O\, sor
- tie Ninove-Dilbeek (n° 13) direction Molenbeek\, par la chaussée de Nino
- ve \n(+/- 3 km.). Au feu de signalisation qui se trouve juste après le "B
- RICO" prendre à gauche l'Avenue J. Baeck. Le terrain se trouve à main dr
- oite\, juste au début de cette avenue.
-GEO:50.8511158;4.3192467
-LOCATION:STADE VERBIST - PARC MARIE-JOSE\, Avenue J. Baeck\, 1080 Molenbee
- k\, Belgique
-ORGANIZER:MAILTO:alain.dehaut@skynet.be
+SUMMARY:ABSSA D6B J11: TRINQUANT (Eq. 2) vs COSMOS BRUWOLF MJ (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20231202T130000Z
+DTEND;VALUE=DATE-TIME:20231202T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6B_11_445_338
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Orange et noir\n\nContact équipe domicile: Bernard J-M. (0476.66.08.14 -
+  jmbernard.trinquant@yahoo.fr)\n\nAccès voiture : Venant de Bruxelles\, p
+ rendre le Ring Est direction Waterloo. Sortir au pont de Groenendael\, dir
+ ection La Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La
+  Hulpe\, toujours tout droit. Au feu de signalisation et le carrefour de L
+ a Hulpe\, tout droit direction Genval. Au feu de signalisation prendre à 
+ gauche et ensuite directement à droite\, l'avenue Soyer\, derrière le G.
+ B. Le terrain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http
+ ://www.abssa.be/
+GEO:50.7309318;4.4945865
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Bernard J-M.";ROLE=Secrétaire:MAILTO:jmbernard.trinquant@ya
+ hoo.fr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J16: COSMOS BRUWOLF MJ (Eq. 2) vs ELAN EVERE RAC (Eq. 2)
-DTSTART:20230107T140000Z
-DTEND:20230107T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:a58caf75-5da4-4088-96f8-6c1cc9f6c000
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Orange/Noir\nCouleur principale équipe extérieur: Rouge et blanc ray
- é\n\nContact équipe domicile: DEHAUT A. (0476.26.26.87)\n\nAccès voitur
- e : Ring O\, sortie Ninove-Dilbeek (n° 13) direction Molenbeek\, par la c
- haussée de Ninove \n(+/- 3 km.). Au feu de signalisation qui se trouve ju
- ste après le "BRICO" prendre à gauche l'Avenue J. Baeck. Le terrain se t
- rouve à main droite\, juste au début de cette avenue.
-GEO:50.8511158;4.3192467
-LOCATION:STADE VERBIST - PARC MARIE-JOSE\, Avenue J. Baeck\, 1080 Molenbee
- k\, Belgique
-ORGANIZER:MAILTO:alain.dehaut@skynet.be
+SUMMARY:ABSSA D6B J13: COSMOS BRUWOLF MJ (Eq. 2) vs ECUSSON FC
+DTSTART;VALUE=DATE-TIME:20231209T130000Z
+DTEND;VALUE=DATE-TIME:20231209T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_6B_13_338_404
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: M05\n\nCouleur princi
+ pale équipe domicile: Orange et noir\nCouleur principale équipe exterieu
+ re: Jaune et Bleu\n\nContact équipe domicile: Dehaut A. (0476.26.26.87 - 
+ alain.dehaut@skynet.be)\n\nAccès voiture : Chaussée de Gand\, avenue M. 
+ Ghandi\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.861905;4.3220645
+LOCATION:Sippelberg\, Avenue M. Ghandi\, 1080 Molenbeek\, Belgique
+ORGANIZER;CN="Dehaut A.";ROLE=Secrétaire:MAILTO:alain.dehaut@skynet.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J17: BRUSSELS LTC (Eq. 6) vs COSMOS BRUWOLF MJ (Eq. 2)
-DTSTART:20230114T140000Z
-DTEND:20230114T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:1775eab9-f433-4ea7-9460-aa3b588315df
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bordeaux\nCouleur principale équipe extérieur: Orange/Noir\n\nContac
- t équipe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Venan
- t de Bruxelles\, prendre le Ring Est direction Waterloo. Sortir au pont de
-  Groenendael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. Aprè
- s le chateau de La Hulpe\, toujours tout droit. Au feu de signalisation et
-  le carrefour de La Hulpe\, tout droit direction Genval. Au feu de signali
- sation prendre à gauche et ensuite directement à droite\, l'avenue Soyer
- \, derrière le G.B. Le terrain se trouve à 300 m.
-GEO:50.7309582;4.4952087
-LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
+SUMMARY:ABSSA D6B J14: COSMOS BRUWOLF MJ (Eq. 2) vs AZUR RCS (Eq. 5)
+DTSTART;VALUE=DATE-TIME:20240113T130000Z
+DTEND;VALUE=DATE-TIME:20240113T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6B_14_338_109
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: M05\n\nCouleur princi
+ pale équipe domicile: Orange et noir\nCouleur principale équipe exterieu
+ re: Bleu ciel\n\nContact équipe domicile: Dehaut A. (0476.26.26.87 - alai
+ n.dehaut@skynet.be)\n\nAccès voiture : Chaussée de Gand\, avenue M. Ghan
+ di\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.861905;4.3220645
+LOCATION:Sippelberg\, Avenue M. Ghandi\, 1080 Molenbeek\, Belgique
+ORGANIZER;CN="Dehaut A.";ROLE=Secrétaire:MAILTO:alain.dehaut@skynet.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J18: COSMOS BRUWOLF MJ (Eq. 2) vs SAINT GEORGES RCS (Eq.
-  4)
-DTSTART:20230121T140000Z
-DTEND:20230121T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:58d3a18a-f309-4cf5-9359-6329aab879bc
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Orange/Noir\nCouleur principale équipe extérieur: Blanc\n\nContact 
- équipe domicile: DEHAUT A. (0476.26.26.87)\n\nAccès voiture : Ring O\, s
- ortie Ninove-Dilbeek (n° 13) direction Molenbeek\, par la chaussée de Ni
- nove \n(+/- 3 km.). Au feu de signalisation qui se trouve juste après le 
- "BRICO" prendre à gauche l'Avenue J. Baeck. Le terrain se trouve à main 
- droite\, juste au début de cette avenue.
-GEO:50.8511158;4.3192467
-LOCATION:STADE VERBIST - PARC MARIE-JOSE\, Avenue J. Baeck\, 1080 Molenbee
- k\, Belgique
-ORGANIZER:MAILTO:alain.dehaut@skynet.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J19: FORESTOIS SC (Eq. 5) vs COSMOS BRUWOLF MJ (Eq. 2)
-DTSTART:20230128T140000Z
-DTEND:20230128T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:f11b9af5-270b-4993-a2fa-1054a8e4aab6
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Vert\nCouleur principale équipe extérieur: Orange/Noir\n\nContact é
- quipe domicile: JANSSENS P. (0479.95.08.14)\n\nAccès voiture : Au départ
-  de la Place St. Denis à Forest prendre la chaussée de Neerstalle jusqu'
- à la rue de la Soierie (4ème rue à droite) et dans la rue de la Soierie
-  rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britanni
- que) pendant env. 500 m. L'entrée du Complexe se trouve à hauteur de Cit
- y Cart\, à gauche de la route.
-GEO:50.8005447;4.3095283
-LOCATION:COMPLEXE SPORTIF DU BEMPT\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER:MAILTO:patj.scf@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J20: COSMOS BRUWOLF MJ (Eq. 2) vs CAMPOMAIORENSE SC
-DTSTART:20230204T140000Z
-DTEND:20230204T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:206f413d-b69c-4062-bdaa-317df209159d
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Orange/Noir\nCouleur principale équipe extérieur: Vert rayé de blan
- c\n\nContact équipe domicile: DEHAUT A. (0476.26.26.87)\n\nAccès voiture
-  : Ring O\, sortie Ninove-Dilbeek (n° 13) direction Molenbeek\, par la ch
- aussée de Ninove \n(+/- 3 km.). Au feu de signalisation qui se trouve jus
- te après le "BRICO" prendre à gauche l'Avenue J. Baeck. Le terrain se tr
- ouve à main droite\, juste au début de cette avenue.
-GEO:50.8511158;4.3192467
-LOCATION:STADE VERBIST - PARC MARIE-JOSE\, Avenue J. Baeck\, 1080 Molenbee
- k\, Belgique
-ORGANIZER:MAILTO:alain.dehaut@skynet.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J21: BRUSSELS BRITISH R (Eq. 6) vs COSMOS BRUWOLF MJ (Eq
+SUMMARY:ABSSA D6B J15: BRAINE-TERMINUS FC (Eq. 2) vs COSMOS BRUWOLF MJ (Eq
  . 2)
-DTSTART:20230211T140000Z
-DTEND:20230211T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:b190da6e-da6f-45b2-a7bb-3532b7f21545
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Blanc\nCouleur principale équipe extérieur: Orange/Noir\n\nContact 
- équipe domicile: LACHIA S. (0484.27.72.64)\n\nAccès voiture : Autoroute 
- E411\, prendre la sortie Rosières. Passer devant l'église\, longer l'aut
- oroute et tourner à droite au cimetière des animaux. Terrain à 200 m.
-GEO:50.728425;4.5537381
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER:MAILTO:abssa-sec@rbbfc.org
+DTSTART;VALUE=DATE-TIME:20240120T123000Z
+DTEND;VALUE=DATE-TIME:20240120T140000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6B_15_537_338
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
+ pale équipe domicile: Jaune et rouge\nCouleur principale équipe exterieu
+ re: Orange et noir\n\nContact équipe domicile: Dero G. (0479.81.83.27 - f
+ cbraineterminus@gmail.com)\n\nAccès voiture : En venant de Bruxelles : Au
+ toroute Tournai - Lille (A8)\, prendre la sortie n° 24\, direction Rebecq
+ \, puis la N 6 Bruxelles-Mons en direction de Mons. Entrer dans l'agglomé
+ ration de Braine-Le-Comte et prendre la 1ère rue à droite\, le terrain s
+ e situe au bout de la rue.\nEn venant de Nivelles : Prendre la N533\, Nive
+ lles/Braine-Le-Comte. Entrer dans l'agglomération de Braine-Le-Comte et s
+ uivre la direction de Bruxelles (N 6 Mons-Bruxelles)\, prendre la 1ère ru
+ e à gauche\, le terrain se situe au bout de la rue.\n\nVérifiez toujours
+  ces infos sur http://www.abssa.be/
+GEO:50.6193857;4.1352085
+LOCATION:Rue du Poseur 39\, 7090 Braine-Le-Comte\, Belgique
+ORGANIZER;CN="Dero G.";ROLE=Secrétaire:MAILTO:fcbraineterminus@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J22: COSMOS BRUWOLF MJ (Eq. 2) vs AUDERGHEM R.CF
-DTSTART:20230225T140000Z
-DTEND:20230225T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:0b763cdc-1cc1-4c7e-a226-55bc465173c4
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Orange/Noir\nCouleur principale équipe extérieur: Bleu\n\nContact é
- quipe domicile: DEHAUT A. (0476.26.26.87)\n\nAccès voiture : Ring O\, sor
- tie Ninove-Dilbeek (n° 13) direction Molenbeek\, par la chaussée de Nino
- ve \n(+/- 3 km.). Au feu de signalisation qui se trouve juste après le "B
- RICO" prendre à gauche l'Avenue J. Baeck. Le terrain se trouve à main dr
- oite\, juste au début de cette avenue.
-GEO:50.8511158;4.3192467
-LOCATION:STADE VERBIST - PARC MARIE-JOSE\, Avenue J. Baeck\, 1080 Molenbee
- k\, Belgique
-ORGANIZER:MAILTO:alain.dehaut@skynet.be
+SUMMARY:ABSSA D6B J16: COSMOS BRUWOLF MJ (Eq. 2) vs GOALOIS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20240127T130000Z
+DTEND;VALUE=DATE-TIME:20240127T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6B_16_338_345
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: M05\n\nCouleur princi
+ pale équipe domicile: Orange et noir\nCouleur principale équipe exterieu
+ re: Blanc-Noir\n\nContact équipe domicile: Dehaut A. (0476.26.26.87 - ala
+ in.dehaut@skynet.be)\n\nAccès voiture : Chaussée de Gand\, avenue M. Gha
+ ndi\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.861905;4.3220645
+LOCATION:Sippelberg\, Avenue M. Ghandi\, 1080 Molenbeek\, Belgique
+ORGANIZER;CN="Dehaut A.";ROLE=Secrétaire:MAILTO:alain.dehaut@skynet.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J23: COSMOS BRUWOLF MJ (Eq. 2) vs AZUR RCS (Eq. 6)
-DTSTART:20230304T140000Z
-DTEND:20230304T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:22934467-b3d1-40b3-80ff-712b085477b7
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Orange/Noir\nCouleur principale équipe extérieur: Bleu ciel\n\nConta
- ct équipe domicile: DEHAUT A. (0476.26.26.87)\n\nAccès voiture : Ring O\
- , sortie Ninove-Dilbeek (n° 13) direction Molenbeek\, par la chaussée de
-  Ninove \n(+/- 3 km.). Au feu de signalisation qui se trouve juste après 
- le "BRICO" prendre à gauche l'Avenue J. Baeck. Le terrain se trouve à ma
- in droite\, juste au début de cette avenue.
-GEO:50.8511158;4.3192467
-LOCATION:STADE VERBIST - PARC MARIE-JOSE\, Avenue J. Baeck\, 1080 Molenbee
- k\, Belgique
-ORGANIZER:MAILTO:alain.dehaut@skynet.be
+SUMMARY:ABSSA D6B J17: PHARMA SC (Eq. 3) vs COSMOS BRUWOLF MJ (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240203T123000Z
+DTEND;VALUE=DATE-TIME:20240203T140000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6B_17_268_338
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Orange
+  et noir\n\nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.
+ dumidi@scarlet.be)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.
+ \nEn venant de Zaventem\, prendre à gauche à la sortie\, en venant de Ch
+ arleroi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au ro
+ nd point. Le terrain se trouve en face de la pompe à essence Q8.\n\nVéri
+ fiez toujours ces infos sur http://www.abssa.be/
+GEO:50.883299;4.316365
+LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
+ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
+ e
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J24: COSMOS BRUWOLF MJ (Eq. 2) vs ANDERLECHT US
-DTSTART:20230311T140000Z
-DTEND:20230311T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:b8cff0b0-6a1b-4760-8c22-d99ace633e7b
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Orange/Noir\nCouleur principale équipe extérieur: Mauve\n\nContact 
- équipe domicile: DEHAUT A. (0476.26.26.87)\n\nAccès voiture : Ring O\, s
- ortie Ninove-Dilbeek (n° 13) direction Molenbeek\, par la chaussée de Ni
- nove \n(+/- 3 km.). Au feu de signalisation qui se trouve juste après le 
- "BRICO" prendre à gauche l'Avenue J. Baeck. Le terrain se trouve à main 
- droite\, juste au début de cette avenue.
-GEO:50.8511158;4.3192467
-LOCATION:STADE VERBIST - PARC MARIE-JOSE\, Avenue J. Baeck\, 1080 Molenbee
- k\, Belgique
-ORGANIZER:MAILTO:alain.dehaut@skynet.be
+SUMMARY:ABSSA D6B J18: COSMOS BRUWOLF MJ (Eq. 2) vs COPAINS REUNIS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240210T130000Z
+DTEND;VALUE=DATE-TIME:20240210T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6B_18_338_49
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: M05\n\nCouleur princi
+ pale équipe domicile: Orange et noir\nCouleur principale équipe exterieu
+ re: Bleu foncé\n\nContact équipe domicile: Dehaut A. (0476.26.26.87 - al
+ ain.dehaut@skynet.be)\n\nAccès voiture : Chaussée de Gand\, avenue M. Gh
+ andi\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.861905;4.3220645
+LOCATION:Sippelberg\, Avenue M. Ghandi\, 1080 Molenbeek\, Belgique
+ORGANIZER;CN="Dehaut A.";ROLE=Secrétaire:MAILTO:alain.dehaut@skynet.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J25: FAUBOURG-BRAINOISE (Eq. 2) vs COSMOS BRUWOLF MJ (Eq
- . 2)
-DTSTART:20230318T140000Z
-DTEND:20230318T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:ba2885ce-3df4-402d-bc98-4690a69a7652
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Rouge\nCouleur principale équipe extérieur: Orange/Noir\n\nContact 
- équipe domicile: HERPAIN D. (0474.79.02.18)\n\nAccès voiture : En venant
-  de Bruxelles\, emprunter la chaussée de Bruxelles ou de Waterloo jusqu'a
- u magasin "Carrefour". Au dit carrefour (Mont-St.-Jean) prendre la directi
- on Nivelles. Sur cette chaussée\, au deuxième feu de signalisation\, pre
- ndre à droite\, le terrain se trouve à 500 m. et est fléché.
-GEO:50.6827211;4.3844421
-LOCATION:STADE GASTON REIFF\, Boulevard de l'Europe\, 1420 Braine - l'Alle
- ud\, Belgique
-ORGANIZER:MAILTO:daniel.herpain@skynet.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J26: PHARMA SC (Eq. 4) vs COSMOS BRUWOLF MJ (Eq. 2)
-DTSTART:20230325T140000Z
-DTEND:20230325T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:26c4a5c1-4117-491b-a134-0066f8d9cd8a
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Orange/Noir\n\nContact é
- quipe domicile: VAN DURME TH. (0477.71.89.93)\n\nAccès voiture : Au dépa
- rt de la Place St. Denis à Forest prendre la chaussée de Neerstalle jusq
- u'à la rue de la Soierie (4ème rue à droite) et dans la rue de la Soier
- ie rouler env. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britan
- nique) pendant env. 500 m. L'entrée du Complexe se trouve à hauteur de C
- ity Cart\, à gauche de la route.
+SUMMARY:ABSSA D6B J19: FORESTOIS SC (Eq. 5) vs COSMOS BRUWOLF MJ (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240217T130000Z
+DTEND;VALUE=DATE-TIME:20240217T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6B_19_152_338
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Orange
+  et noir\n\nContact équipe domicile: Janssens P. (0479.95.08.14 - patj.sc
+ f@gmail.com)\n\nAccès voiture : Au départ de la Place St. Denis à Fores
+ t prendre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème 
+ rue à droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère 
+ à gauche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entr
+ ée du Complexe se trouve à hauteur de City Cart\, à gauche de la route.
+ \n\nVérifiez toujours ces infos sur http://www.abssa.be/
 GEO:50.8005447;4.3095283
-LOCATION:COMPLEXE SPORTIF DU BEMPT\, Av. de la 2ème Armée Britannique\, 
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
-ORGANIZER:MAILTO:phie.dumidi@scarlet.be
+ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J26: ECUSSON FC vs COSMOS BRUWOLF MJ (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240224T143000Z
+DTEND;VALUE=DATE-TIME:20240224T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6B_26_404_338
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Jaune et Bleu\nCouleur principale équipe exterieur
+ e: Orange et noir\n\nContact équipe domicile: Santoro M (0471.68.67.25 - 
+ domisie@hotmail.be)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, apr
+ ès 300 m. en direction de Lennik\, prendre à droite.\nVenant de la chaus
+ sée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi
+ \, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. e
+ n direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.abss
+ a.be/
+GEO:50.8177358;4.2557195
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER;CN="Santoro M";ROLE=Secrétaire:MAILTO:domisie@hotmail.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J20: COSMOS BRUWOLF MJ (Eq. 2) vs AUDERGHEM R.CF
+DTSTART;VALUE=DATE-TIME:20240309T130000Z
+DTEND;VALUE=DATE-TIME:20240309T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6B_20_338_72
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: M05\n\nCouleur princi
+ pale équipe domicile: Orange et noir\nCouleur principale équipe exterieu
+ re: Bleu\n\nContact équipe domicile: Dehaut A. (0476.26.26.87 - alain.deh
+ aut@skynet.be)\n\nAccès voiture : Chaussée de Gand\, avenue M. Ghandi\n\
+ nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.861905;4.3220645
+LOCATION:Sippelberg\, Avenue M. Ghandi\, 1080 Molenbeek\, Belgique
+ORGANIZER;CN="Dehaut A.";ROLE=Secrétaire:MAILTO:alain.dehaut@skynet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J21: ETTEKIJS (Eq. 3) vs COSMOS BRUWOLF MJ (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240316T130000Z
+DTEND;VALUE=DATE-TIME:20240316T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6B_21_343_338
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Noir rayé de blanc\nCouleur principale équipe ext
+ erieure: Orange et noir\n\nContact équipe domicile: Raes F. (0479.73.82.4
+ 9 - freddy.raes@gmail.com)\n\nAccès voiture : A partir du square des Arch
+ iducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVér
+ ifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8059082;4.4137428
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J22: COSMOS BRUWOLF MJ (Eq. 2) vs CHIEFS WSL (Eq. 4)
+DTSTART;VALUE=DATE-TIME:20240323T130000Z
+DTEND;VALUE=DATE-TIME:20240323T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6B_22_338_303
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: M05\n\nCouleur princi
+ pale équipe domicile: Orange et noir\nCouleur principale équipe exterieu
+ re: Blanc\n\nContact équipe domicile: Dehaut A. (0476.26.26.87 - alain.de
+ haut@skynet.be)\n\nAccès voiture : Chaussée de Gand\, avenue M. Ghandi\n
+ \nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.861905;4.3220645
+LOCATION:Sippelberg\, Avenue M. Ghandi\, 1080 Molenbeek\, Belgique
+ORGANIZER;CN="Dehaut A.";ROLE=Secrétaire:MAILTO:alain.dehaut@skynet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J25: COSMOS BRUWOLF MJ (Eq. 2) vs NEW ARQUOIS FC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20240406T120000Z
+DTEND;VALUE=DATE-TIME:20240406T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_6B_25_338_263
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: M05\n\nCouleur princi
+ pale équipe domicile: Orange et noir\nCouleur principale équipe exterieu
+ re: Bleu\n\nContact équipe domicile: Dehaut A. (0476.26.26.87 - alain.deh
+ aut@skynet.be)\n\nAccès voiture : Chaussée de Gand\, avenue M. Ghandi\n\
+ nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.861905;4.3220645
+LOCATION:Sippelberg\, Avenue M. Ghandi\, 1080 Molenbeek\, Belgique
+ORGANIZER;CN="Dehaut A.";ROLE=Secrétaire:MAILTO:alain.dehaut@skynet.be
 END:VEVENT
 END:VCALENDAR

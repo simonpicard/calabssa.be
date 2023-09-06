@@ -1,291 +1,534 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:7b41b575-89cf-4ac6-bdd3-4f43b0f2d4ba
-X-WR-CALDESC:Les matches de GREZ AJ (eq. 2) en ABSSA.
-X-WR-CALNAME:ABSSA - GREZ AJ (eq. 2) - 514
-X-WR-TIMEZONE:Europe/Brussels
+PRODID:514_2_grez_aj
+X-WR-CALDESC:Les matches du club GREZ AJ (equipe 2) en ABSSA.
+X-WR-CALNAME:ABSSA: GREZ AJ (eq. 2)
 BEGIN:VEVENT
-SUMMARY:ABSSA D4C J2: GREZ AJ (Eq. 2) vs BOUSVAL GENAPPE (Eq. 2)
-DTSTART:20220910T153000Z
-DTEND:20220910T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:b9d761b7-6e5f-4729-b30e-c6e573532aa8
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe extérieur: Orange et bleu\n\nContact
-  équipe domicile: VANHAMME J. (0474.56.81.54)\n\nAccès voiture : Autorou
- te Bruxelles-Namur (E411) prendre la sortie Louvain/Grez-Doiceau (n° 8). 
- Prendre la RN25 en direction de Louvain/Grez-Doiceau. Passer tout droit le
- s deux premiers ronds-points à l'issue de la RN 25. Au troisième rond-po
- int prendre à droite. Le terrain se trouve 150 m. plus loin à gauche de 
- la rue du Stampia.
+SUMMARY:ABSSA D3C J10: GREZ AJ (Eq. 2) vs IRLANDE FC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20230902T133000Z
+DTEND;VALUE=DATE-TIME:20230902T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3C_10_514_402
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: G04\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Vert\n
+ \nContact équipe domicile: Vanhamme J. (0474.56.81.54 - jerome.vanhamme@h
+ otmail.com)\n\nAccès voiture : Autoroute Bruxelles-Namur (E411) prendre l
+ a sortie Louvain/Grez-Doiceau (n° 8). Prendre la RN25 en direction de Lou
+ vain/Grez-Doiceau. Passer tout droit les deux premiers ronds-points à l'i
+ ssue de la RN 25. Au troisième rond-point prendre à droite. Le terrain s
+ e trouve 150 m. plus loin à gauche de la rue du Stampia.\n\nVérifiez tou
+ jours ces infos sur http://www.abssa.be/
 GEO:50.744789;4.6969702
 LOCATION:Rue du Stampia\, 1390 Grez-Doiceau\, Belgique
-ORGANIZER:MAILTO:jerome.vanhamme@hotmail.com
+ORGANIZER;CN="Vanhamme J.";ROLE=Secrétaire:MAILTO:jerome.vanhamme@hotmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4C J12: LUNETTE (LA) FC vs GREZ AJ (Eq. 2)
-DTSTART:20221126T140000Z
-DTEND:20221126T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:d7a02cd7-3ec0-4491-8140-99a5ac9f4eaf
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Jaune et bleu\nCouleur principale équipe extérieur: Noir\n\nContact 
- équipe domicile: BONIFAZIO R. (0488.31.38.10)\n\nAccès voiture : En vena
- nt de la Route de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, pr
- endre la direction du cimetière d'Anderlecht\, emprunter le Boulevard Jos
- se Leemans\, au rond-point prendre la sortie pour la rue du Chant d'Oiseau
- x (Vogelenzang). L'entrée du complexe et des terrains se situe à +/- 500
-  m. sur la gauche.
-GEO:50.8114933;4.2763364
-LOCATION:COMPLEXE DU VOGELENZANG\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER:MAILTO:bonifazio.raphael@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4C J13: BOUSVAL GENAPPE (Eq. 2) vs GREZ AJ (Eq. 2)
-DTSTART:20221203T153000Z
-DTEND:20221203T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:c3d9c82a-1225-4621-a72a-324ab2fb7435
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Orange et bleu\nCouleur principale équipe extérieur: Noir\n\nContact
-  équipe domicile: GOSSIAUX S. (0473.44.25.52)\n\nAccès voiture : Venant 
- de Bruxelles prendre le Ring Ouest\, sortie Genappe (n°25)\, prendre à d
- roite sur la N 5 (Bruxelles-Charleroi) direction Charleroi pendant +/- 10 
- min. Prendre à gauche au carrefour entre la N 5 et la N 93 direction Nive
- lles. Dans le village\, prendre à gauche au carrefour en direction de la 
- rue des Ecoles. une centaine de mètres plus loin\, prendre immédiatement
-  à droite en direction de la rue du Béguinage et ensuite prendre imméei
- atement à gauche en direction de la rue du Pavillon. Suivre cette rue jus
- qu'au "T" formé par la rue du Pavillon et la rue de Ninove. Au "T" prendr
- e à gauche. Le terrain de football se situe à une centaine de mètres su
- r le côté droit.
-GEO:50.57463749999999;4.4089379
-LOCATION:Rue de Ninove\, 1\, 1476 Houtain-Le-Val\, Belgique
-ORGANIZER:MAILTO:gossiaux_sebastien@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4C J14: GREZ AJ (Eq. 2) vs NEW ARQUOIS FC (Eq. 2)
-DTSTART:20221210T153000Z
-DTEND:20221210T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:28f6639c-8d9e-4807-9d91-7501cfc29980
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe extérieur: Bleu\n\nContact équipe d
- omicile: VANHAMME J. (0474.56.81.54)\n\nAccès voiture : Autoroute Bruxell
- es-Namur (E411) prendre la sortie Louvain/Grez-Doiceau (n° 8). Prendre la
-  RN25 en direction de Louvain/Grez-Doiceau. Passer tout droit les deux pre
- miers ronds-points à l'issue de la RN 25. Au troisième rond-point prendr
- e à droite. Le terrain se trouve 150 m. plus loin à gauche de la rue du 
- Stampia.
+SUMMARY:ABSSA D3C J1: GREZ AJ (Eq. 2) vs VOGELPIK FC.
+DTSTART;VALUE=DATE-TIME:20230909T133000Z
+DTEND;VALUE=DATE-TIME:20230909T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3C_1_514_629
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: G04\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge 
+ et noir\n\nContact équipe domicile: Vanhamme J. (0474.56.81.54 - jerome.v
+ anhamme@hotmail.com)\n\nAccès voiture : Autoroute Bruxelles-Namur (E411) 
+ prendre la sortie Louvain/Grez-Doiceau (n° 8). Prendre la RN25 en directi
+ on de Louvain/Grez-Doiceau. Passer tout droit les deux premiers ronds-poin
+ ts à l'issue de la RN 25. Au troisième rond-point prendre à droite. Le 
+ terrain se trouve 150 m. plus loin à gauche de la rue du Stampia.\n\nVér
+ ifiez toujours ces infos sur http://www.abssa.be/
 GEO:50.744789;4.6969702
 LOCATION:Rue du Stampia\, 1390 Grez-Doiceau\, Belgique
-ORGANIZER:MAILTO:jerome.vanhamme@hotmail.com
+ORGANIZER;CN="Vanhamme J.";ROLE=Secrétaire:MAILTO:jerome.vanhamme@hotmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4C J15: PETER PAN FC vs GREZ AJ (Eq. 2)
-DTSTART:20221217T140000Z
-DTEND:20221217T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:ec2d0747-5cd6-4c88-9f6f-5cea66cb56c5
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe extérieur: Noir\n\nContact équipe d
- omicile: DRINE N. (0476.80.28.02)\n\nAccès voiture : R.O. Sortie Beersel 
- (n° 19)\, prendre direction Beersel\, ensuite direction Linkebeek En face
-  du Delhaize prendre la rue de la Brasserie et ensuite suivre les indicati
- ons LHC-KHVCL.\nR.E. Sortie Groenendael - Direction Uccle\, dans la forêt
-  prendre la première à gauche\, direction Rhode St. Genèse\, ensuite à
-  la chaussée de Waterloo prendre à gauche. Au premier feux (Espinette Ce
- ntrale) à droite\, ensuite le premier feux à droite\, puis tout droit\, 
- et après le chemin de fer suivre les indications LHC-KHVCL.\nItinéraire 
- d'accès au parking\, à la Ferme Holleken\, rue Hollebeek\, 212 (près du
-  parc à conteneurs)\nEntrée du parking: chemin à gauche de l'entrée du
-  cimetière.\nPour rejoindre le terrain à pied à partir du parking\, des
- cendre le chemin balisé en contournant le parc à conteneurs.
-GEO:50.7627439;4.345177
-LOCATION:WOUTERBOS\, Rue Schavei\, 31\, 1630 Linkebeek\, Belgique
-ORGANIZER:MAILTO:neildrine@gmail.com
+SUMMARY:ABSSA D3C J2: REQUINS (LES) vs GREZ AJ (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20230916T120000Z
+DTEND;VALUE=DATE-TIME:20230916T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3C_2_556_514
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Barbe L. (0476.04.93.45 - louis.barbe1@gmail.c
+ om)\n\nAccès voiture : En venant de Bruxelles\, prendre l'autoroute E411 
+ en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir la droite
+  et au bout de la bretelle\, prendre la direction d'Ottignies par la N238.
+  Au 1èr feu de signalisation continuer tout droit en passant devant Walib
+ i (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au bout de c
+ ette sortie\, en face du Tennis Club La Palestre\, prendre à droite la ru
+ e Charles Dubois\, jusqu'au carrefour principal. Continuer tout droit en t
+ raversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du chemin d
+ e fer et prendre la rue de l'Europe jusqu'à la place de l'Europe. Travers
+ er cette place par la droite. Au bout à gauche\, suivre l'avenue Jassans.
+  Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limelette). Co
+ ntinuer cette rue et passer en dessous du 2ème pont du chemin de fer. Apr
+ ès ce pont\, prendre tout de suite à gauche l'avenue Demolder (panneau F
+ .C. Limelette)\, en face de l'étang du Buston. Suivre cette avenue jusqu'
+ à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m. dans cet
+ te rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C. Limelett
+ e). L'entrée du terrain est située 50 m. plus bas sur la gauche.\n\nVér
+ ifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.6762848;4.562820299999999
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Barbe L.";ROLE=Secrétaire:MAILTO:louis.barbe1@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4C J16: LORGNETTE (LA)  FC vs GREZ AJ (Eq. 2)
-DTSTART:20230107T140000Z
-DTEND:20230107T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:e1b977f9-fb0f-4996-a50d-76120666870e
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bordeaux\nCouleur principale équipe extérieur: Noir\n\nContact équi
- pe domicile: VAN DER LINDEN A. (0485.19.06.92)\n\nAccès voiture : Bouleva
- rd Lambermont\, prendre le boulevard Léopold III\, direction aéroport de
-  Bruxelles-National\, au 3ème feu de signalisation prendre à droite. le 
- terrain se trouve à 50 m.
-GEO:50.8691981;4.4067073
-LOCATION:COMPLEXE SPORTIF EVERE\, Avenue des Anciens Combattants\, 300\, 1
- 140 Evere\, Belgique
-ORGANIZER:MAILTO:alexvdl2000@yahoo.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4C J17: GREZ AJ (Eq. 2) vs MIREILLE WEMMEL
-DTSTART:20230114T153000Z
-DTEND:20230114T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:8ec4b999-7869-46c0-9bf1-e9c8db82f937
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe extérieur: Rouge et  Noir\n\nContact
-  équipe domicile: VANHAMME J. (0474.56.81.54)\n\nAccès voiture : Autorou
- te Bruxelles-Namur (E411) prendre la sortie Louvain/Grez-Doiceau (n° 8). 
- Prendre la RN25 en direction de Louvain/Grez-Doiceau. Passer tout droit le
- s deux premiers ronds-points à l'issue de la RN 25. Au troisième rond-po
- int prendre à droite. Le terrain se trouve 150 m. plus loin à gauche de 
- la rue du Stampia.
+SUMMARY:ABSSA D3C J3: GREZ AJ (Eq. 2) vs PATJES FC
+DTSTART;VALUE=DATE-TIME:20230923T133000Z
+DTEND;VALUE=DATE-TIME:20230923T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3C_3_514_582
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: G04\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge 
+ et blanc.\n\nContact équipe domicile: Vanhamme J. (0474.56.81.54 - jerome
+ .vanhamme@hotmail.com)\n\nAccès voiture : Autoroute Bruxelles-Namur (E411
+ ) prendre la sortie Louvain/Grez-Doiceau (n° 8). Prendre la RN25 en direc
+ tion de Louvain/Grez-Doiceau. Passer tout droit les deux premiers ronds-po
+ ints à l'issue de la RN 25. Au troisième rond-point prendre à droite. L
+ e terrain se trouve 150 m. plus loin à gauche de la rue du Stampia.\n\nV
+ érifiez toujours ces infos sur http://www.abssa.be/
 GEO:50.744789;4.6969702
 LOCATION:Rue du Stampia\, 1390 Grez-Doiceau\, Belgique
-ORGANIZER:MAILTO:jerome.vanhamme@hotmail.com
+ORGANIZER;CN="Vanhamme J.";ROLE=Secrétaire:MAILTO:jerome.vanhamme@hotmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4C J19: GREZ AJ (Eq. 2) vs PANGLOSS FC
-DTSTART:20230128T153000Z
-DTEND:20230128T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:3c22191c-833c-4b0c-a99d-3d6be517a9c7
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe extérieur: Bleu\n\nContact équipe d
- omicile: VANHAMME J. (0474.56.81.54)\n\nAccès voiture : Autoroute Bruxell
- es-Namur (E411) prendre la sortie Louvain/Grez-Doiceau (n° 8). Prendre la
-  RN25 en direction de Louvain/Grez-Doiceau. Passer tout droit les deux pre
- miers ronds-points à l'issue de la RN 25. Au troisième rond-point prendr
- e à droite. Le terrain se trouve 150 m. plus loin à gauche de la rue du 
- Stampia.
+SUMMARY:ABSSA D3C J4: GREEN DEVILS vs GREZ AJ (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20230930T120000Z
+DTEND;VALUE=DATE-TIME:20230930T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3C_4_90_514
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E08\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Vandenbroeck K. (0477.66.15.69 - krvandenbroec
+ k@hotmail.be)\n\nAccès voiture : Le terrain se trouve derrière l'église
+  St. Vincent\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.88086790000001;4.396579099999999
+LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue Stroobants 75\, 1140 Evere\,
+  Belgique
+ORGANIZER;CN="Vandenbroeck K.";ROLE=Secrétaire:MAILTO:krvandenbroeck@hotm
+ ail.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J5: GREZ AJ (Eq. 2) vs BLEU-BLANC (ENT)R.
+DTSTART;VALUE=DATE-TIME:20231007T133000Z
+DTEND;VALUE=DATE-TIME:20231007T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3C_5_514_53
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: G04\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu r
+ ayé de Blanc\n\nContact équipe domicile: Vanhamme J. (0474.56.81.54 - je
+ rome.vanhamme@hotmail.com)\n\nAccès voiture : Autoroute Bruxelles-Namur (
+ E411) prendre la sortie Louvain/Grez-Doiceau (n° 8). Prendre la RN25 en d
+ irection de Louvain/Grez-Doiceau. Passer tout droit les deux premiers rond
+ s-points à l'issue de la RN 25. Au troisième rond-point prendre à droit
+ e. Le terrain se trouve 150 m. plus loin à gauche de la rue du Stampia.\n
+ \nVérifiez toujours ces infos sur http://www.abssa.be/
 GEO:50.744789;4.6969702
 LOCATION:Rue du Stampia\, 1390 Grez-Doiceau\, Belgique
-ORGANIZER:MAILTO:jerome.vanhamme@hotmail.com
+ORGANIZER;CN="Vanhamme J.";ROLE=Secrétaire:MAILTO:jerome.vanhamme@hotmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4C J20: GREZ AJ (Eq. 2) vs TRICOTEUSES FC.
-DTSTART:20230204T153000Z
-DTEND:20230204T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:ca1c4a32-e4ab-48ff-9596-28a348ab2583
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe extérieur: Bordeaux\n\nContact équi
- pe domicile: VANHAMME J. (0474.56.81.54)\n\nAccès voiture : Autoroute Bru
- xelles-Namur (E411) prendre la sortie Louvain/Grez-Doiceau (n° 8). Prendr
- e la RN25 en direction de Louvain/Grez-Doiceau. Passer tout droit les deux
-  premiers ronds-points à l'issue de la RN 25. Au troisième rond-point pr
- endre à droite. Le terrain se trouve 150 m. plus loin à gauche de la rue
-  du Stampia.
+SUMMARY:ABSSA D3C J6: BRAINE-TERMINUS FC vs GREZ AJ (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20231014T133000Z
+DTEND;VALUE=DATE-TIME:20231014T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3C_6_537_514
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
+ pale équipe domicile: Jaune et rouge\nCouleur principale équipe exterieu
+ re: Noir\n\nContact équipe domicile: Dero G. (0479.81.83.27 - fcbraineter
+ minus@gmail.com)\n\nAccès voiture : En venant de Bruxelles : Autoroute To
+ urnai - Lille (A8)\, prendre la sortie n° 24\, direction Rebecq\, puis la
+  N 6 Bruxelles-Mons en direction de Mons. Entrer dans l'agglomération de 
+ Braine-Le-Comte et prendre la 1ère rue à droite\, le terrain se situe au
+  bout de la rue.\nEn venant de Nivelles : Prendre la N533\, Nivelles/Brain
+ e-Le-Comte. Entrer dans l'agglomération de Braine-Le-Comte et suivre la d
+ irection de Bruxelles (N 6 Mons-Bruxelles)\, prendre la 1ère rue à gauch
+ e\, le terrain se situe au bout de la rue.\n\nVérifiez toujours ces infos
+  sur http://www.abssa.be/
+GEO:50.6193857;4.1352085
+LOCATION:Rue du Poseur 39\, 7090 Braine-Le-Comte\, Belgique
+ORGANIZER;CN="Dero G.";ROLE=Secrétaire:MAILTO:fcbraineterminus@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J8: GREZ AJ (Eq. 2) vs RHINOCEROS
+DTSTART;VALUE=DATE-TIME:20231021T133000Z
+DTEND;VALUE=DATE-TIME:20231021T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3C_8_514_654
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: G04\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Jaune\
+ n\nContact équipe domicile: Vanhamme J. (0474.56.81.54 - jerome.vanhamme@
+ hotmail.com)\n\nAccès voiture : Autoroute Bruxelles-Namur (E411) prendre 
+ la sortie Louvain/Grez-Doiceau (n° 8). Prendre la RN25 en direction de Lo
+ uvain/Grez-Doiceau. Passer tout droit les deux premiers ronds-points à l'
+ issue de la RN 25. Au troisième rond-point prendre à droite. Le terrain 
+ se trouve 150 m. plus loin à gauche de la rue du Stampia.\n\nVérifiez to
+ ujours ces infos sur http://www.abssa.be/
 GEO:50.744789;4.6969702
 LOCATION:Rue du Stampia\, 1390 Grez-Doiceau\, Belgique
-ORGANIZER:MAILTO:jerome.vanhamme@hotmail.com
+ORGANIZER;CN="Vanhamme J.";ROLE=Secrétaire:MAILTO:jerome.vanhamme@hotmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4C J21: BRITISH UNITED (Eq. 3) vs GREZ AJ (Eq. 2)
-DTSTART:20230211T153000Z
-DTEND:20230211T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:37903e71-dec0-4871-a73c-fc30b02baab3
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bleu\nCouleur principale équipe extérieur: Noir\n\nContact équipe d
- omicile: VANDERSEYPEN G. (0476.58.89.77)\n\nAccès voiture : Autoroute Bru
- xelles-Anvers (E19) sortie Mechelen-Noord (n° 9) En arrivant dans le cent
- re\, suivre la direction "Heist-op-den-Berg" Aller tout droit et passer le
-  viaduc du chemin de fer. Après 1 km. suivre les flèches "De Nekker". Ga
- rer les voitures à l'extérieur du complexe. IL FAUT COMPTER ENV. 10 min.
-  à pied jusqu'au terrain.
-GEO:51.0216563;4.5020273
-LOCATION:SPORTPARK DE NEKKER\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
- ue
-ORGANIZER:MAILTO:gillesvanderseypen@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4C J22: GREZ AJ (Eq. 2) vs LUNETTE (LA) FC
-DTSTART:20230225T153000Z
-DTEND:20230225T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:bb722af0-0ee8-4c62-9cec-a75ff02aa0a9
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe extérieur: Jaune et bleu\n\nContact 
- équipe domicile: VANHAMME J. (0474.56.81.54)\n\nAccès voiture : Autorout
- e Bruxelles-Namur (E411) prendre la sortie Louvain/Grez-Doiceau (n° 8). P
- rendre la RN25 en direction de Louvain/Grez-Doiceau. Passer tout droit les
-  deux premiers ronds-points à l'issue de la RN 25. Au troisième rond-poi
- nt prendre à droite. Le terrain se trouve 150 m. plus loin à gauche de l
- a rue du Stampia.
+SUMMARY:ABSSA D3C J24: GREZ AJ (Eq. 2) vs SAINT GEORGES RCS
+DTSTART;VALUE=DATE-TIME:20231028T133000Z
+DTEND;VALUE=DATE-TIME:20231028T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3C_24_514_221
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: G04\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Vanhamme J. (0474.56.81.54 - jerome.vanhamme@
+ hotmail.com)\n\nAccès voiture : Autoroute Bruxelles-Namur (E411) prendre 
+ la sortie Louvain/Grez-Doiceau (n° 8). Prendre la RN25 en direction de Lo
+ uvain/Grez-Doiceau. Passer tout droit les deux premiers ronds-points à l'
+ issue de la RN 25. Au troisième rond-point prendre à droite. Le terrain 
+ se trouve 150 m. plus loin à gauche de la rue du Stampia.\n\nVérifiez to
+ ujours ces infos sur http://www.abssa.be/
 GEO:50.744789;4.6969702
 LOCATION:Rue du Stampia\, 1390 Grez-Doiceau\, Belgique
-ORGANIZER:MAILTO:jerome.vanhamme@hotmail.com
+ORGANIZER;CN="Vanhamme J.";ROLE=Secrétaire:MAILTO:jerome.vanhamme@hotmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4C J23: GREZ AJ (Eq. 2) vs ZIJP FC
-DTSTART:20230304T153000Z
-DTEND:20230304T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:d13e24d2-a0c6-41b2-92a4-13a3bcbcf03c
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe extérieur: Noir\n\nContact équipe d
- omicile: VANHAMME J. (0474.56.81.54)\n\nAccès voiture : Autoroute Bruxell
- es-Namur (E411) prendre la sortie Louvain/Grez-Doiceau (n° 8). Prendre la
-  RN25 en direction de Louvain/Grez-Doiceau. Passer tout droit les deux pre
- miers ronds-points à l'issue de la RN 25. Au troisième rond-point prendr
- e à droite. Le terrain se trouve 150 m. plus loin à gauche de la rue du 
- Stampia.
+SUMMARY:ABSSA D3C J7: TAURO FC (Eq. 2) vs GREZ AJ (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20231104T134500Z
+DTEND;VALUE=DATE-TIME:20231104T151500Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3C_7_574_514
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Lietaer Y. (0484.16.30.31 - ylietaer@gmail.com
+ )\n\nAccès voiture : Place Meiser\, descendre le boulevard Lambermont. Au
+  3ème feu de signalisation prendre à gauche\, puis la première à droit
+ e.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8666341;4.3823667
+LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
+ aerbeek\, Belgique
+ORGANIZER;CN="Lietaer Y.";ROLE=Secrétaire:MAILTO:ylietaer@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J9: WELL TEAM vs GREZ AJ (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20231118T143000Z
+DTEND;VALUE=DATE-TIME:20231118T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3C_9_544_514
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Noir\n\nContact équipe domicile: Dayez M. (0472.61.95.08 - martindayez@h
+ otmail.com)\n\nAccès voiture : A partir du square des Archiducs\, prendre
+  la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez toujours 
+ ces infos sur http://www.abssa.be/
+GEO:50.8059082;4.4137428
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Dayez M.";ROLE=Secrétaire:MAILTO:martindayez@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J12: GREZ AJ (Eq. 2) vs ETTEKIJS
+DTSTART;VALUE=DATE-TIME:20231125T143000Z
+DTEND;VALUE=DATE-TIME:20231125T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3C_12_514_343
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: G04\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Vanhamme J. (0474.56.81.54 - jerome.vanhamme@h
+ otmail.com)\n\nAccès voiture : Autoroute Bruxelles-Namur (E411) prendre l
+ a sortie Louvain/Grez-Doiceau (n° 8). Prendre la RN25 en direction de Lou
+ vain/Grez-Doiceau. Passer tout droit les deux premiers ronds-points à l'i
+ ssue de la RN 25. Au troisième rond-point prendre à droite. Le terrain s
+ e trouve 150 m. plus loin à gauche de la rue du Stampia.\n\nVérifiez tou
+ jours ces infos sur http://www.abssa.be/
 GEO:50.744789;4.6969702
 LOCATION:Rue du Stampia\, 1390 Grez-Doiceau\, Belgique
-ORGANIZER:MAILTO:jerome.vanhamme@hotmail.com
+ORGANIZER;CN="Vanhamme J.";ROLE=Secrétaire:MAILTO:jerome.vanhamme@hotmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4C J24: NEW INN FC (Eq. 4) vs GREZ AJ (Eq. 2)
-DTSTART:20230311T140000Z
-DTEND:20230311T152500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:69232f20-8a0c-42e1-b3ca-0a5b46ba9f1f
-DESCRIPTION:Terrain synthétique: non\n\nCouleur principale équipe domici
- le: Bordeaux\, Blanc\nCouleur principale équipe extérieur: Noir\n\nConta
- ct équipe domicile: CORNIL B. (0494.16.15.11)\n\nAccès voiture : Au dép
- art de la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la s
- ortie Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des An
- ciens Combattants. Juste après le carrefour avec des feux de signalisatio
- n prendre à droite vers la Place de la Chapelle\, puis prendre la 4ème r
- ue à main droite (rue au Bois). Le terrain se trouve à 300 m. sur la dro
- ite.
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER:MAILTO:bencornil@gmail.com
+SUMMARY:ABSSA D3C J11: SAINT GEORGES RCS vs GREZ AJ (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20231202T143000Z
+DTEND;VALUE=DATE-TIME:20231202T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3C_11_221_514
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir\
+ n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.destin@gmai
+ l.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"avenue Parmentie
+ r\, puis 1ère rue à main gauche.\n\nVérifiez toujours ces infos sur htt
+ p://www.abssa.be/
+GEO:50.8343279;4.4397562
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4C J25: BRUSSELS LTC (Eq. 4) vs GREZ AJ (Eq. 2)
-DTSTART:20230318T153000Z
-DTEND:20230318T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:105ef14d-62b6-4576-82d2-ab449222f2c4
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Bordeaux\nCouleur principale équipe extérieur: Noir\n\nContact équi
- pe domicile: VAN HACHT O. (0475.96.43.03)\n\nAccès voiture : Venant de Br
- uxelles\, prendre le Ring Est direction Waterloo. Sortir au pont de Groene
- ndael\, direction La Hulpe\, Genval. Tout droit pendant 2 km. Après le ch
- ateau de La Hulpe\, toujours tout droit. Au feu de signalisation et le car
- refour de La Hulpe\, tout droit direction Genval. Au feu de signalisation 
- prendre à gauche et ensuite directement à droite\, l'avenue Soyer\, derr
- ière le G.B. Le terrain se trouve à 300 m.
-GEO:50.7309582;4.4952087
-LOCATION:STADE SOYER\, Avenue Soyer\, 4\, 1310  La Hulpe\, Belgique
-ORGANIZER:MAILTO:brusselsltc@hotmail.com
+SUMMARY:ABSSA D3C J13: CHIEFS WSL (Eq. 2) vs GREZ AJ (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20231209T143000Z
+DTEND;VALUE=DATE-TIME:20231209T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2023_3C_13_303_514
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir\
+ n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan.be)\n\nA
+ ccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, puis la cha
+ ussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce pont le 
+ terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur http://ww
+ w.abssa.be/
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4C J26: GREZ AJ (Eq. 2) vs PETER PAN FC
-DTSTART:20230325T153000Z
-DTEND:20230325T165500Z
-DTSTAMP;VALUE=DATE-TIME:20221125T213422Z
-UID:705b82de-b311-4f40-9aa9-306ea40f7270
-DESCRIPTION:Terrain synthétique: oui\n\nCouleur principale équipe domici
- le: Noir\nCouleur principale équipe extérieur: Noir\n\nContact équipe d
- omicile: VANHAMME J. (0474.56.81.54)\n\nAccès voiture : Autoroute Bruxell
- es-Namur (E411) prendre la sortie Louvain/Grez-Doiceau (n° 8). Prendre la
-  RN25 en direction de Louvain/Grez-Doiceau. Passer tout droit les deux pre
- miers ronds-points à l'issue de la RN 25. Au troisième rond-point prendr
- e à droite. Le terrain se trouve 150 m. plus loin à gauche de la rue du 
- Stampia.
+SUMMARY:ABSSA D3C J14: VOGELPIK FC. vs GREZ AJ (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240113T143000Z
+DTEND;VALUE=DATE-TIME:20240113T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3C_14_629_514
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L08\n\nCouleur princi
+ pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
+ e: Noir\n\nContact équipe domicile: Nolet P (0486.56.82.31 - pierrenolet9
+ 1@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Namur E411\, après W
+ avre prendre la sortie Louvain-la-Neuve\, continuer sur la N4 direction Na
+ mur\, au premier rond-point prendre à droite vers la N250 et suivre "Bloc
+ ry/Hocaille". Après le second rond-point\, prendre à droite\, au carrefo
+ ur\, la rue de l'Invasion\, puis de nouveau à droite. L'entrée du terrai
+ n ROS se trouve au bout de l'avenue.\n\nVérifiez toujours ces infos sur h
+ ttp://www.abssa.be/
+GEO:50.6706953;4.5975173
+LOCATION:Terrain Royal Ottignies Stimont (Ros)\, Avenue de Lauzelle\, 1348
+  Louvain-La-Neuve\, Belgique
+ORGANIZER;CN="Nolet P";ROLE=Secrétaire:MAILTO:pierrenolet91@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J15: GREZ AJ (Eq. 2) vs REQUINS (LES)
+DTSTART;VALUE=DATE-TIME:20240120T143000Z
+DTEND;VALUE=DATE-TIME:20240120T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3C_15_514_556
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: G04\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Vanhamme J. (0474.56.81.54 - jerome.vanhamme@h
+ otmail.com)\n\nAccès voiture : Autoroute Bruxelles-Namur (E411) prendre l
+ a sortie Louvain/Grez-Doiceau (n° 8). Prendre la RN25 en direction de Lou
+ vain/Grez-Doiceau. Passer tout droit les deux premiers ronds-points à l'i
+ ssue de la RN 25. Au troisième rond-point prendre à droite. Le terrain s
+ e trouve 150 m. plus loin à gauche de la rue du Stampia.\n\nVérifiez tou
+ jours ces infos sur http://www.abssa.be/
 GEO:50.744789;4.6969702
 LOCATION:Rue du Stampia\, 1390 Grez-Doiceau\, Belgique
-ORGANIZER:MAILTO:jerome.vanhamme@hotmail.com
+ORGANIZER;CN="Vanhamme J.";ROLE=Secrétaire:MAILTO:jerome.vanhamme@hotmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J16: PATJES FC vs GREZ AJ (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240127T143000Z
+DTEND;VALUE=DATE-TIME:20240127T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3C_16_582_514
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc.\nCouleur principale équipe exterie
+ ure: Noir\n\nContact équipe domicile: Waucquez J-B (0472.08.73.90 - fcpat
+ jes@outlook.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'au
+ toroute E411 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, te
+ nir la droite et au bout de la bretelle\, prendre la direction d'Ottignies
+  par la N238. Au 1èr feu de signalisation continuer tout droit en passant
+  devant Walibi (qui se trouve sur la gauche) jusqu'à la sortie Limelette.
+  Au bout de cette sortie\, en face du Tennis Club La Palestre\, prendre à
+  droite la rue Charles Dubois\, jusqu'au carrefour principal. Continuer to
+ ut droit en traversant l'avenue Albert 1èr. Passer en dessous du 1èr pon
+ t du chemin de fer et prendre la rue de l'Europe jusqu'à la place de l'Eu
+ rope. Traverser cette place par la droite. Au bout à gauche\, suivre l'av
+ enue Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. L
+ imelette). Continuer cette rue et passer en dessous du 2ème pont du chemi
+ n de fer. Après ce pont\, prendre tout de suite à gauche l'avenue Demold
+ er (panneau F.C. Limelette)\, en face de l'étang du Buston. Suivre cette 
+ avenue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 5
+ 0 m. dans cette rue\, prendre à droite l'avenue des Sorbiers (panneau du 
+ F.C. Limelette). L'entrée du terrain est située 50 m. plus bas sur la ga
+ uche.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.6762848;4.562820299999999
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Waucquez J-B";ROLE=Secrétaire:MAILTO:fcpatjes@outlook.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J17: GREZ AJ (Eq. 2) vs GREEN DEVILS
+DTSTART;VALUE=DATE-TIME:20240203T143000Z
+DTEND;VALUE=DATE-TIME:20240203T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3C_17_514_90
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: G04\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Vert\n
+ \nContact équipe domicile: Vanhamme J. (0474.56.81.54 - jerome.vanhamme@h
+ otmail.com)\n\nAccès voiture : Autoroute Bruxelles-Namur (E411) prendre l
+ a sortie Louvain/Grez-Doiceau (n° 8). Prendre la RN25 en direction de Lou
+ vain/Grez-Doiceau. Passer tout droit les deux premiers ronds-points à l'i
+ ssue de la RN 25. Au troisième rond-point prendre à droite. Le terrain s
+ e trouve 150 m. plus loin à gauche de la rue du Stampia.\n\nVérifiez tou
+ jours ces infos sur http://www.abssa.be/
+GEO:50.744789;4.6969702
+LOCATION:Rue du Stampia\, 1390 Grez-Doiceau\, Belgique
+ORGANIZER;CN="Vanhamme J.";ROLE=Secrétaire:MAILTO:jerome.vanhamme@hotmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J18: BLEU-BLANC (ENT)R. vs GREZ AJ (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240210T143000Z
+DTEND;VALUE=DATE-TIME:20240210T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3C_18_53_514
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Bleu rayé de Blanc\nCouleur principale équipe ext
+ erieure: Noir\n\nContact équipe domicile: Mineur X. (0471.56.08.07 - jose
+ xavier.mineur@gmail.com)\n\nAccès voiture : Avenue de Tervuren\, prendre 
+ l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujours
+  ces infos sur http://www.abssa.be/
+GEO:50.8343279;4.4397562
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Mineur X.";ROLE=Secrétaire:MAILTO:josexavier.mineur@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J19: GREZ AJ (Eq. 2) vs BRAINE-TERMINUS FC
+DTSTART;VALUE=DATE-TIME:20240217T143000Z
+DTEND;VALUE=DATE-TIME:20240217T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3C_19_514_537
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: G04\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Jaune 
+ et rouge\n\nContact équipe domicile: Vanhamme J. (0474.56.81.54 - jerome.
+ vanhamme@hotmail.com)\n\nAccès voiture : Autoroute Bruxelles-Namur (E411)
+  prendre la sortie Louvain/Grez-Doiceau (n° 8). Prendre la RN25 en direct
+ ion de Louvain/Grez-Doiceau. Passer tout droit les deux premiers ronds-poi
+ nts à l'issue de la RN 25. Au troisième rond-point prendre à droite. Le
+  terrain se trouve 150 m. plus loin à gauche de la rue du Stampia.\n\nVé
+ rifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.744789;4.6969702
+LOCATION:Rue du Stampia\, 1390 Grez-Doiceau\, Belgique
+ORGANIZER;CN="Vanhamme J.";ROLE=Secrétaire:MAILTO:jerome.vanhamme@hotmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J26: GREZ AJ (Eq. 2) vs CHIEFS WSL (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240224T143000Z
+DTEND;VALUE=DATE-TIME:20240224T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3C_26_514_303
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: G04\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Vanhamme J. (0474.56.81.54 - jerome.vanhamme@
+ hotmail.com)\n\nAccès voiture : Autoroute Bruxelles-Namur (E411) prendre 
+ la sortie Louvain/Grez-Doiceau (n° 8). Prendre la RN25 en direction de Lo
+ uvain/Grez-Doiceau. Passer tout droit les deux premiers ronds-points à l'
+ issue de la RN 25. Au troisième rond-point prendre à droite. Le terrain 
+ se trouve 150 m. plus loin à gauche de la rue du Stampia.\n\nVérifiez to
+ ujours ces infos sur http://www.abssa.be/
+GEO:50.744789;4.6969702
+LOCATION:Rue du Stampia\, 1390 Grez-Doiceau\, Belgique
+ORGANIZER;CN="Vanhamme J.";ROLE=Secrétaire:MAILTO:jerome.vanhamme@hotmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J23: IRLANDE FC (Eq. 3) vs GREZ AJ (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240302T113000Z
+DTEND;VALUE=DATE-TIME:20240302T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3C_23_402_514
+DESCRIPTION:Terrain synthétique: non\nCode terrain: N04\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Bridoux J.F. (0455.12.12.65 - fci.secretary.me
+ ns@outlook.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à Nossegem
+ \, au premier croisement prendre à gauche la \nMechelsesteenweg. Le terra
+ in est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\
+ , prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelseste
+ enweg\, traverser la chaussée de Louvain\, et suivre comme ci-avant.\n\nV
+ érifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.88776559999999;4.50894
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER;CN="Bridoux J.F.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@out
+ look.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J20: GREZ AJ (Eq. 2) vs TAURO FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240309T143000Z
+DTEND;VALUE=DATE-TIME:20240309T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3C_20_514_574
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: G04\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Vanhamme J. (0474.56.81.54 - jerome.vanhamme@h
+ otmail.com)\n\nAccès voiture : Autoroute Bruxelles-Namur (E411) prendre l
+ a sortie Louvain/Grez-Doiceau (n° 8). Prendre la RN25 en direction de Lou
+ vain/Grez-Doiceau. Passer tout droit les deux premiers ronds-points à l'i
+ ssue de la RN 25. Au troisième rond-point prendre à droite. Le terrain s
+ e trouve 150 m. plus loin à gauche de la rue du Stampia.\n\nVérifiez tou
+ jours ces infos sur http://www.abssa.be/
+GEO:50.744789;4.6969702
+LOCATION:Rue du Stampia\, 1390 Grez-Doiceau\, Belgique
+ORGANIZER;CN="Vanhamme J.";ROLE=Secrétaire:MAILTO:jerome.vanhamme@hotmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J21: RHINOCEROS vs GREZ AJ (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240316T143000Z
+DTEND;VALUE=DATE-TIME:20240316T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3C_21_654_514
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L08\n\nCouleur princi
+ pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Noir\
+ n\nContact équipe domicile: Watteyne R. (0498.16.13.01 - robin@watteyne.c
+ om)\n\nAccès voiture : Autoroute Bruxelles-Namur E411\, après Wavre pren
+ dre la sortie Louvain-la-Neuve\, continuer sur la N4 direction Namur\, au 
+ premier rond-point prendre à droite vers la N250 et suivre "Blocry/Hocail
+ le". Après le second rond-point\, prendre à droite\, au carrefour\, la r
+ ue de l'Invasion\, puis de nouveau à droite. L'entrée du terrain ROS se 
+ trouve au bout de l'avenue.\n\nVérifiez toujours ces infos sur http://www
+ .abssa.be/
+GEO:50.6706953;4.5975173
+LOCATION:Terrain Royal Ottignies Stimont (Ros)\, Avenue de Lauzelle\, 1348
+  Louvain-La-Neuve\, Belgique
+ORGANIZER;CN="Watteyne R.";ROLE=Secrétaire:MAILTO:robin@watteyne.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J22: GREZ AJ (Eq. 2) vs WELL TEAM
+DTSTART;VALUE=DATE-TIME:20240323T143000Z
+DTEND;VALUE=DATE-TIME:20240323T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3C_22_514_544
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: G04\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu m
+ arine\n\nContact équipe domicile: Vanhamme J. (0474.56.81.54 - jerome.van
+ hamme@hotmail.com)\n\nAccès voiture : Autoroute Bruxelles-Namur (E411) pr
+ endre la sortie Louvain/Grez-Doiceau (n° 8). Prendre la RN25 en direction
+  de Louvain/Grez-Doiceau. Passer tout droit les deux premiers ronds-points
+  à l'issue de la RN 25. Au troisième rond-point prendre à droite. Le te
+ rrain se trouve 150 m. plus loin à gauche de la rue du Stampia.\n\nVérif
+ iez toujours ces infos sur http://www.abssa.be/
+GEO:50.744789;4.6969702
+LOCATION:Rue du Stampia\, 1390 Grez-Doiceau\, Belgique
+ORGANIZER;CN="Vanhamme J.";ROLE=Secrétaire:MAILTO:jerome.vanhamme@hotmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J25: ETTEKIJS vs GREZ AJ (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240406T103000Z
+DTEND;VALUE=DATE-TIME:20240406T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+UID:2024_3C_25_343_514
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Raes F. (0479.73.82.49 - freddy.raes@gmail.com
+ )\n\nAccès voiture : A partir du square des Archiducs\, prendre la rue Be
+ rensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez toujours ces infos 
+ sur http://www.abssa.be/
+GEO:50.8059082;4.4137428
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
 END:VEVENT
 END:VCALENDAR

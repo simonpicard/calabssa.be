@@ -1,0 +1,131 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:abbsa_j_1_d_6c
+X-WR-CALDESC:Les matches de la journée 1 en divion 6C d'ABSSA.
+X-WR-CALNAME:D6C Journée 1
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J1: ETINCELLE FC (Eq. 2) vs SAINT GEORGES RCS (Eq. 4)
+DTSTART;VALUE=DATE-TIME:20230909T103000Z
+DTEND;VALUE=DATE-TIME:20230909T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_6C_1_35_221
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Jaune et bleu\nCouleur principale équipe exterieur
+ e: Blanc\n\nContact équipe domicile: Kremer N (0471.37.59.81 - nicolas.kr
+ emer@gmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 
+ 300 m. en direction de Lennik\, prendre à droite.\nVenant de la chaussée
+  de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, B
+ ld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en di
+ rection de Lennik.\n\nVérifiez toujours ces infos sur http://www.abssa.be
+ /
+GEO:50.8177358;4.2557195
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER;CN="Kremer N";ROLE=Secrétaire:MAILTO:nicolas.kremer@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J1: AZUR RCS (Eq. 6) vs CHENOIS SC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20230909T113000Z
+DTEND;VALUE=DATE-TIME:20230909T130000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_6C_1_109_84
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W12\n\nCouleur princi
+ pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: N
+ oir et Rouge\n\nContact équipe domicile: Mad. Decamps N. (0477.27.39.66 -
+  nathalie_decamps@hotmail.com)\n\nAccès voiture : Avenue de Tervuren\, di
+ rection Tervuren. Passé le boulevard du Souverain prendre à gauche au pr
+ emier feu de signalisation (Av. Madoux). Au feu de signalisation suivant p
+ rendre la 2ème rue à main droite (Av. J. Dujardin). Ensuite 1ère rue à
+  gauche (Av. Salomé).\n\nVérifiez toujours ces infos sur http://www.abss
+ a.be/
+GEO:50.830818;4.455442
+LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
+ elgique
+ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
+ tmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J1: BRUSSELS LTC (Eq. 5) vs BRUSSELS BRITISH R (Eq. 6)
+DTSTART;VALUE=DATE-TIME:20230909T120000Z
+DTEND;VALUE=DATE-TIME:20230909T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_6C_1_39_1
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bl
+ anc\n\nContact équipe domicile: Van Hacht O. (0475.96.43.03 - brusselsltc
+ @hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre le Ring Es
+ t direction Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\,
+  Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours
+  tout droit. Au feu de signalisation et le carrefour de La Hulpe\, tout dr
+ oit direction Genval. Au feu de signalisation prendre à gauche et ensuite
+  directement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se 
+ trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.7309318;4.4945865
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J1: ALIZE VETERANS FC vs PHARMA SC (Eq. 4)
+DTSTART;VALUE=DATE-TIME:20230909T120000Z
+DTEND;VALUE=DATE-TIME:20230909T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_6C_1_395_268
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
+ pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Haentjens J-L. (0473.88.82.20 - jean-luc.haen
+ tjens@police.belgium.eu)\n\nAccès voiture : Via la chaussée de Mons jusq
+ u'à Veeweyde (carrefour Fr. Van Kalken). Prendre à droite le boulevard  
+ A. Briand jusqu'à la Place Verdi\, puis le Bld. Théo Lambert.\n\nVérifi
+ ez toujours ces infos sur http://www.abssa.be/
+GEO:50.827564;4.2952993
+LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Haentjens J-L.";ROLE=Secrétaire:MAILTO:jean-luc.haentjens@p
+ olice.belgium.eu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J1: CAMPOMAIORENSE SC vs CHOULE AUDERGHEM (Eq. 5)
+DTSTART;VALUE=DATE-TIME:20230909T133000Z
+DTEND;VALUE=DATE-TIME:20230909T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_6C_1_467_517
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
+ e: Blanc\n\nContact équipe domicile: Cesar Paixao I. (0496.37.12.76 - ivo
+ cp1@hotmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la r
+ ue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 2
+ 8). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ce
+ s infos sur http://www.abssa.be/
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Cesar Paixao I.";ROLE=Secrétaire:MAILTO:ivocp1@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J1: IDEAL RANGERS R vs ITT - GECKO FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20230909T133000Z
+DTEND;VALUE=DATE-TIME:20230909T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_6C_1_47_92
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: U04\n\nCouleur princi
+ pale équipe domicile: Orange et Noir\nCouleur principale équipe exterieu
+ re: Noir\n\nContact équipe domicile: Simon A. (0477.87.83.33 - alain.si@s
+ kynet.be)\n\nAccès voiture : Par le Centre\, prendre la chaussée d'Alsem
+ berg\, direction Alsemberg\, jusqu'à la gare d'Uccle-Calevoet. Suivre les
+  rails du tram\, passer en dessous du pont du chemin de fer et au premier 
+ feu de signalisation prendre à gauche\, la rue du Bourdon\, puis la 1ère
+  rue à main gauche (rue des Bigarreaux)\, passer sous le pont du chemin d
+ e fer et puis 1ère rue à main gauche (le complexe est fléché).\nPar le
+  ring\, sortie Drogenbos-Ruisbroek\, prendre la direction Drogenbos Centre
+  (Grote Baan)\, au premier feu de signalisation\, passée l'église\, pren
+ dre à gauche\, la chaussée de Drogenbos\, jusqu'au bout\, puis traverser
+  la chaussée d'Alsemberg et prendre immédiatement à droite\, la rue du 
+ Bourdon\, pour continuer comme renseigné ci-dessus.\n\nVérifiez toujours
+  ces infos sur http://www.abssa.be/
+GEO:50.7833427;4.3345203
+LOCATION:Complexe Sportif de Ridder\, Rue des Griottes\, 1180 Uccle\, Belg
+ ique
+ORGANIZER;CN="Simon A.";ROLE=Secrétaire:MAILTO:alain.si@skynet.be
+END:VEVENT
+END:VCALENDAR

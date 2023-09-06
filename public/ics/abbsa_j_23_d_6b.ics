@@ -1,0 +1,121 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:abbsa_j_23_d_6b
+X-WR-CALDESC:Les matches de la journée 23 en divion 6B d'ABSSA.
+X-WR-CALNAME:D6B Journée 23
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J23: CHIEFS WSL (Eq. 4) vs ECUSSON FC
+DTSTART;VALUE=DATE-TIME:20240302T100000Z
+DTEND;VALUE=DATE-TIME:20240302T113000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_6B_23_303_404
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Jaune
+  et Bleu\n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan
+ .be)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, pu
+ is la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce
+  pont le terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur 
+ http://www.abssa.be/
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J23: ETTEKIJS (Eq. 3) vs AZUR RCS (Eq. 5)
+DTSTART;VALUE=DATE-TIME:20240302T130000Z
+DTEND;VALUE=DATE-TIME:20240302T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_6B_23_343_109
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Noir rayé de blanc\nCouleur principale équipe ext
+ erieure: Bleu ciel\n\nContact équipe domicile: Raes F. (0479.73.82.49 - f
+ reddy.raes@gmail.com)\n\nAccès voiture : A partir du square des Archiducs
+ \, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez
+  toujours ces infos sur http://www.abssa.be/
+GEO:50.8059082;4.4137428
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J23: FORESTOIS SC (Eq. 5) vs GOALOIS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20240302T130000Z
+DTEND;VALUE=DATE-TIME:20240302T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_6B_23_152_345
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Blanc-
+ Noir\n\nContact équipe domicile: Janssens P. (0479.95.08.14 - patj.scf@gm
+ ail.com)\n\nAccès voiture : Au départ de la Place St. Denis à Forest pr
+ endre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue 
+ à droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à g
+ auche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée 
+ du Complexe se trouve à hauteur de City Cart\, à gauche de la route.\n\n
+ Vérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J23: AUDERGHEM R.CF vs BRAINE-TERMINUS FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240302T130000Z
+DTEND;VALUE=DATE-TIME:20240302T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_6B_23_72_537
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Jaune 
+ et rouge\n\nContact équipe domicile: Pleck P. (0475.82.01.41 - ppleckson@
+ hotmail.com)\n\nAccès voiture : En venant de Bruxelles par la chaussée d
+ e Wavre\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser
+  la bande de droite pendant +/- 200 m. et descendre devant le bâtiment de
+  l'ADEPS\, puis passer par le tunnel à gauche (en dessous de l'autoroute)
+ . Le terrain se trouve à 200 m. Le stade est fléché.\n\nVérifiez toujo
+ urs ces infos sur http://www.abssa.be/
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="Pleck P.";ROLE=Secrétaire:MAILTO:ppleckson@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J23: NEW ARQUOIS FC (Eq. 3) vs TRINQUANT (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240302T143000Z
+DTEND;VALUE=DATE-TIME:20240302T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_6B_23_263_445
+DESCRIPTION:Terrain synthétique: non\nCode terrain: A12\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu m
+ arine\n\nContact équipe domicile: Beka J-M. (0495.25.31.25 - jmbeka73@gma
+ il.com)\n\nAccès voiture : Autoroute E 19 (Bruxelles-Charleroi)\, sortie 
+ Arquennes. Direction Seneffe-La-Louvière. A la station d'essence Total\, 
+ prendre à droite pendant +/- 700 mètres.\nAu rond point\, prendre à dro
+ ite en direction du château de La Rocq\, passez sous le pont\, le terrain
+  se trouve à 100 mètres (à proximité du cimetière).\n\nVérifiez touj
+ ours ces infos sur http://www.abssa.be/
+GEO:50.5690988;4.2677281
+LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion\, 7181 Arquennes\, B
+ elgique
+ORGANIZER;CN="Beka J-M.";ROLE=Secrétaire:MAILTO:jmbeka73@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J23: COPAINS REUNIS (Eq. 2) vs PHARMA SC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20240302T143000Z
+DTEND;VALUE=DATE-TIME:20240302T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2024_6B_23_49_268
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
+  Vert\n\nContact équipe domicile: Vandermeulen J. (0477.50.45.95 - meulen
+ j@hotmail.com)\n\nAccès voiture : En venant de la Route de Lennik (Citro
+ ën) ou de la Chaussée de Mons (Ikea)\, prendre la direction du cimetièr
+ e d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-point pren
+ dre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du c
+ omplexe et des terrains se situe à +/- 500 m. sur la gauche.\n\nVérifiez
+  toujours ces infos sur http://www.abssa.be/
+GEO:50.8114933;4.2763364
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Vandermeulen J.";ROLE=Secrétaire:MAILTO:meulenj@hotmail.com
+END:VEVENT
+END:VCALENDAR

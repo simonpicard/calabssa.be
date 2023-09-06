@@ -1,0 +1,130 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:abbsa_j_24_d_5b
+X-WR-CALDESC:Les matches de la journée 24 en divion 5B d'ABSSA.
+X-WR-CALNAME:D5B Journée 24
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J24: GALACTIC JUMPERTZ vs SPORTING BW
+DTSTART;VALUE=DATE-TIME:20231028T103000Z
+DTEND;VALUE=DATE-TIME:20231028T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_5B_24_659_673
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R03\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Blan
+ c\n\nContact équipe domicile: Eyletten J. (0470.31.54.56 - galactic.jumpe
+ rtz@gmail.com)\n\nAccès voiture : Par la E411 Bruxelles-Namur\, prendre l
+ a sortie n° 5 (Wavre Nord\, Rixensart\, Bierges).\nEnsuite prendre la N25
+ 7 pendant 700 mètres jusqu'au rond-point\, prendre la rue de l'Etoile et 
+ ensuite la rue de Mérode jusqu'à Rixensart. Après 900 mètres\, à la P
+ lace de la Perche\, prendre à droite l'avenue de la Paix et encore à dro
+ ite l'avenue Clermont Tonnerre.\n\nVérifiez toujours ces infos sur http:/
+ /www.abssa.be/
+GEO:50.7128483;4.5376972
+LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
+ 30 Rixensart\, Belgique
+ORGANIZER;CN="Eyletten J.";ROLE=Secrétaire:MAILTO:galactic.jumpertz@gmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J24: WATERMAEL FC (Eq. 2) vs EFFETA FC
+DTSTART;VALUE=DATE-TIME:20231028T103000Z
+DTEND;VALUE=DATE-TIME:20231028T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_5B_24_611_516
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A10\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge 
+ et noir\n\nContact équipe domicile: Deschamps J. (0477.67.76.37 - jul_des
+ ch@hotmail.com)\n\nAccès voiture : L'accès au terrain se fait à partir 
+ du n° 2057 de la chaussée de Wavre (en face du stade communal d'Auderghe
+ m). L'accès au terrain se fait par l'arrière du bâtiment principal (où
+  sont situés les vestiaires) il faut parcourir environ 300 mètres avant 
+ d'atteindre le terrain de football situé après la piste d'athlétisme et
+  le terrain de hockey.\n\nVérifiez toujours ces infos sur http://www.abss
+ a.be/
+GEO:50.8093405;4.4437919
+LOCATION:Complexe de L'Adeps\, Chaussée de Wavre 2057\, 1160 Auderghem\, 
+ Belgique
+ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J24: MASIA CITY vs SPIJTOIS FC
+DTSTART;VALUE=DATE-TIME:20231028T103000Z
+DTEND;VALUE=DATE-TIME:20231028T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_5B_24_661_631
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
+ pale équipe domicile: Rouge-Noir\nCouleur principale équipe exterieure: 
+ Blanc Bordeaux\n\nContact équipe domicile: Saoud T. (0460.97.04.65 - masi
+ acity@gmail.com)\n\nAccès voiture : A partir de Bruxelles\, prendre la E 
+ 411 en direction de Namur. Prendre la sortie N° 8 puis à droite la brete
+ lle pour la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/
+ - 6\,5 km\, au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la
+  Libération\, puis à gauche dans la rue de la Grande lecke.\n\nVérifiez
+  toujours ces infos sur http://www.abssa.be/
+GEO:50.7540176;4.7835618
+LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
+ORGANIZER;CN="Saoud T.";ROLE=Secrétaire:MAILTO:masiacity@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J24: BEA WOLUWE vs RED STAR BRUSSELS
+DTSTART;VALUE=DATE-TIME:20231028T120000Z
+DTEND;VALUE=DATE-TIME:20231028T133000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_5B_24_459_663
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc 
+ et rouge\n\nContact équipe domicile: Maquestiau Ph. (0485.49.62.62 - phil
+ ippemaquestiau@yahoo.com)\n\nAccès voiture : Avenue de Tervuren\, prendre
+  l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujour
+ s ces infos sur http://www.abssa.be/
+GEO:50.8343279;4.4397562
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Maquestiau Ph.";ROLE=Secrétaire:MAILTO:philippemaquestiau@y
+ ahoo.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J24: PECHEUR F.C. vs UNION BRUXELLOISE
+DTSTART;VALUE=DATE-TIME:20231028T133000Z
+DTEND;VALUE=DATE-TIME:20231028T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_5B_24_677_655
+DESCRIPTION:Terrain synthétique: non\nCode terrain: N04\n\nCouleur princi
+ pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
+ e: Noir/ Bleu\n\nContact équipe domicile: Delannoy I. (0471.59.00.22 - ig
+ nace.delannoyc@gmail.com)\n\nAccès voiture : Chaussée de Louvain jusqu'
+ à Nossegem\, au premier croisement prendre à gauche la \nMechelsesteenwe
+ g. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxel
+ les-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la 
+ Mechelsesteenweg\, traverser la chaussée de Louvain\, et suivre comme ci-
+ avant.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.88776559999999;4.50894
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER;CN="Delannoy I.";ROLE=Secrétaire:MAILTO:ignace.delannoyc@gmail.
+ com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J24: CHOULE AUDERGHEM (Eq. 4) vs FRAUDES (LES)
+DTSTART;VALUE=DATE-TIME:20231028T133000Z
+DTEND;VALUE=DATE-TIME:20231028T150000Z
+DTSTAMP;VALUE=DATE-TIME:20230906T124619Z
+UID:2023_5B_24_517_665
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W19\n\nCouleur princi
+ pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
+ erieure: Noir et blanc\n\nContact équipe domicile: Vandenplas D. (0476.54
+ .48.01 - dav_54@hotmail.com)\n\nAccès voiture : Ring de Bruxelles (RO)\, 
+ sortie n° 2. Prendre la direction Wezembeek-Oppem. Ensuite première rue 
+ à droite (Louis Marcelisstraat) puis la troisième à droite (Sportpleins
+ traat).\nL'entrée au terrain se trouve à gauche entre les n° 16 et 24.\
+ nPar la ville : A partir du rond point Montgomery\, prendre l'Avenue de Br
+ oqueville\, toujours tout droit. Passez devant le Shopping de Woluwé\, to
+ ujours tout droit\, passez devant le magasin "Carrefour"\, puis au 2ème f
+ eu de signalisation prendre à droite et ensuite tout droit. Au bout de la
+  rue prendre à droite\, le terrain se trouve à 100 mètres  sur la gauch
+ e.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8424578;4.486587999999999
+LOCATION:Sportpleinstraat 20\, 1970 Wezembeek - Oppem\, Belgique
+ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
+END:VEVENT
+END:VCALENDAR
