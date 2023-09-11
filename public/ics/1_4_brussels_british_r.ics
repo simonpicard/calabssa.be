@@ -7,14 +7,15 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J10: BIERGEOIS CS vs BRUSSELS BRITISH R (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20230902T123000Z
 DTEND;VALUE=DATE-TIME:20230902T140000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
 UID:2023_4D_10_70_1
 DESCRIPTION:Terrain synthétique: non\nCode terrain: B01\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
  n\nContact équipe domicile: Stavart S (0496.95.16.64 - sebastienstavart@y
  ahoo.fr)\n\nAccès voiture : Autoroute Bruxelles-Namur\, sortie Bierges\, 
  prendre à droite\, le terrain se trouve à +/- 500 m. du côté droit.\n\
- nVérifiez toujours ces infos sur http://www.abssa.be/
+ nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa:
+  https://calabssa.be/c/1_4_brussels_british_r
 GEO:50.7113792;4.5897825
 LOCATION:Complexe Sportif J. Colette\, Rue des Combattants\, 1301 Bierges\
  , Belgique
@@ -24,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J1: FORESTOIS SC (Eq. 3) vs BRUSSELS BRITISH R (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20230909T120000Z
 DTEND;VALUE=DATE-TIME:20230909T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
 UID:2023_4D_1_152_1
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
  pale équipe domicile: Noir\nCouleur principale équipe exterieure: Blanc\
@@ -34,7 +35,8 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
  oite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gauche
   (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du Co
  mplexe se trouve à hauteur de City Cart\, à gauche de la route.\n\nVéri
- fiez toujours ces infos sur http://www.abssa.be/
+ fiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https
+ ://calabssa.be/c/1_4_brussels_british_r
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
@@ -44,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J2: BRUSSELS BRITISH R (Eq. 4) vs COMP. CINEMA R
 DTSTART;VALUE=DATE-TIME:20230916T103000Z
 DTEND;VALUE=DATE-TIME:20230916T120000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
 UID:2023_4D_2_1_16
 DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
  pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Vert\
@@ -52,7 +54,8 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
  g)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Passe
  r devant l'église\, longer l'autoroute et tourner à droite au cimetière
   des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur http:/
- /www.abssa.be/
+ /www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/1_4_brussels_brit
+ ish_r
 GEO:50.7282426;4.5537189
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
 ORGANIZER;CN="Lachia S.";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
@@ -61,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J3: BEETHOVEN FCS vs BRUSSELS BRITISH R (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20230923T110000Z
 DTEND;VALUE=DATE-TIME:20230923T123000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
 UID:2023_4D_3_493_1
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
  pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: B
@@ -71,7 +74,8 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
  d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendr
  e la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du com
  plexe et des terrains se situe à +/- 500 m. sur la gauche.\n\nVérifiez t
- oujours ces infos sur http://www.abssa.be/
+ oujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cal
+ abssa.be/c/1_4_brussels_british_r
 GEO:50.8114933;4.2763364
 LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
  \, Belgique
@@ -81,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J4: BRUSSELS BRITISH R (Eq. 4) vs SPARTA SCHEUT
 DTSTART;VALUE=DATE-TIME:20230930T103000Z
 DTEND;VALUE=DATE-TIME:20230930T120000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
 UID:2023_4D_4_1_340
 DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
  pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rayé
@@ -89,7 +93,8 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
  sa-sec@rbbfc.org)\n\nAccès voiture : Autoroute E411\, prendre la sortie R
  osières. Passer devant l'église\, longer l'autoroute et tourner à droit
  e au cimetière des animaux. Terrain à 200 m.\n\nVérifiez toujours ces i
- nfos sur http://www.abssa.be/
+ nfos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/1_
+ 4_brussels_british_r
 GEO:50.7282426;4.5537189
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
 ORGANIZER;CN="Lachia S.";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
@@ -98,7 +103,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J6: WAPPERS FC vs BRUSSELS BRITISH R (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20231014T120000Z
 DTEND;VALUE=DATE-TIME:20231014T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
 UID:2023_4D_6_67_1
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W19\n\nCouleur princi
  pale équipe domicile: Rayé noir et blanc\nCouleur principale équipe ext
@@ -112,7 +117,8 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: W19\n\nCouleur princi
  s tout droit\, passez devant le magasin "Carrefour"\, puis au 2ème feu de
   signalisation prendre à droite et ensuite tout droit. Au bout de la rue 
  prendre à droite\, le terrain se trouve à 100 mètres  sur la gauche.\n\
- nVérifiez toujours ces infos sur http://www.abssa.be/
+ nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa:
+  https://calabssa.be/c/1_4_brussels_british_r
 GEO:50.8424578;4.486587999999999
 LOCATION:Sportpleinstraat 20\, 1970 Wezembeek - Oppem\, Belgique
 ORGANIZER;CN="Vinck B.";ROLE=Secrétaire:MAILTO:bernard.vinck@belgacom.net
@@ -121,7 +127,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J8: LORGNETTE (LA)  FC vs BRUSSELS BRITISH R (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20231021T120000Z
 DTEND;VALUE=DATE-TIME:20231021T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
 UID:2023_4D_8_392_1
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: E07\n\nCouleur princi
  pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bl
@@ -129,7 +135,8 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: E07\n\nCouleur princi
  l2000@yahoo.fr)\n\nAccès voiture : Boulevard Lambermont\, prendre le boul
  evard Léopold III\, direction aéroport de Bruxelles-National\, au 3ème 
  feu de signalisation prendre à droite. le terrain se trouve à 50 m.\n\nV
- érifiez toujours ces infos sur http://www.abssa.be/
+ érifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: h
+ ttps://calabssa.be/c/1_4_brussels_british_r
 GEO:50.8691994;4.406709999999999
 LOCATION:Complexe Sportif Evere\, Avenue des Anciens Combattants 300\, 114
  0 Evere\, Belgique
@@ -140,7 +147,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J24: PANGLOSS FC vs BRUSSELS BRITISH R (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20231028T120000Z
 DTEND;VALUE=DATE-TIME:20231028T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
 UID:2023_4D_24_123_1
 DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
@@ -151,7 +158,8 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
  four avec des feux de signalisation prendre à droite vers la Place de la 
  Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
  ain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces infos sur
-  http://www.abssa.be/
+  http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/1_4_brusse
+ ls_british_r
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
 ORGANIZER;CN="De Paduwa P.";ROLE=Secrétaire:MAILTO:p.depaduwa@gmail.com
@@ -160,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J7: BRUSSELS BRITISH R (Eq. 4) vs PHARMA SC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20231104T113000Z
 DTEND;VALUE=DATE-TIME:20231104T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
 UID:2023_4D_7_1_268
 DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
  pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Jaune
@@ -168,7 +176,8 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
  rg)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Pass
  er devant l'église\, longer l'autoroute et tourner à droite au cimetièr
  e des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur http:
- //www.abssa.be/
+ //www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/1_4_brussels_bri
+ tish_r
 GEO:50.7282426;4.5537189
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
 ORGANIZER;CN="Lachia S.";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
@@ -177,7 +186,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J9: BRUSSELS BRITISH R (Eq. 4) vs JODOIGNOISE FC
 DTSTART;VALUE=DATE-TIME:20231118T113000Z
 DTEND;VALUE=DATE-TIME:20231118T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
 UID:2023_4D_9_1_664
 DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
  pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir 
@@ -185,7 +194,8 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
  @rbbfc.org)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosièr
  es. Passer devant l'église\, longer l'autoroute et tourner à droite au c
  imetière des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos s
- ur http://www.abssa.be/
+ ur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/1_4_brus
+ sels_british_r
 GEO:50.7282426;4.5537189
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
 ORGANIZER;CN="Lachia S.";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
@@ -194,7 +204,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J12: NEPTUNE FC vs BRUSSELS BRITISH R (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20231125T143000Z
 DTEND;VALUE=DATE-TIME:20231125T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
 UID:2023_4D_12_56_1
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
@@ -202,7 +212,8 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
  il.com)\n\nAccès voiture : Via la chaussée de Mons jusqu'à Veeweyde (ca
  rrefour Fr. Van Kalken). Prendre à droite le boulevard  A. Briand jusqu'
  à la Place Verdi\, puis le Bld. Théo Lambert.\n\nVérifiez toujours ces 
- infos sur http://www.abssa.be/
+ infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/1
+ _4_brussels_british_r
 GEO:50.827564;4.2952993
 LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
  \, Belgique
@@ -212,7 +223,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J11: BRUSSELS BRITISH R (Eq. 4) vs PANGLOSS FC
 DTSTART;VALUE=DATE-TIME:20231202T113000Z
 DTEND;VALUE=DATE-TIME:20231202T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
 UID:2023_4D_11_1_123
 DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
  pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
@@ -220,7 +231,8 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
  g)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Passe
  r devant l'église\, longer l'autoroute et tourner à droite au cimetière
   des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur http:/
- /www.abssa.be/
+ /www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/1_4_brussels_brit
+ ish_r
 GEO:50.7282426;4.5537189
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
 ORGANIZER;CN="Lachia S.";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
@@ -229,7 +241,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J13: BRUSSELS BRITISH R (Eq. 4) vs REAL TRAPPISTE
 DTSTART;VALUE=DATE-TIME:20231209T113000Z
 DTEND;VALUE=DATE-TIME:20231209T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
 UID:2023_4D_13_1_605
 DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
  pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Jaune
@@ -237,7 +249,8 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
  rg)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Pass
  er devant l'église\, longer l'autoroute et tourner à droite au cimetièr
  e des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur http:
- //www.abssa.be/
+ //www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/1_4_brussels_bri
+ tish_r
 GEO:50.7282426;4.5537189
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
 ORGANIZER;CN="Lachia S.";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
@@ -246,7 +259,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J14: BRUSSELS BRITISH R (Eq. 4) vs FORESTOIS SC (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20240113T113000Z
 DTEND;VALUE=DATE-TIME:20240113T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
 UID:2024_4D_14_1_152
 DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
  pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir\
@@ -254,7 +267,8 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
  g)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Passe
  r devant l'église\, longer l'autoroute et tourner à droite au cimetière
   des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur http:/
- /www.abssa.be/
+ /www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/1_4_brussels_brit
+ ish_r
 GEO:50.7282426;4.5537189
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
 ORGANIZER;CN="Lachia S.";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
@@ -263,7 +277,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J15: COMP. CINEMA R vs BRUSSELS BRITISH R (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20240120T113000Z
 DTEND;VALUE=DATE-TIME:20240120T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
 UID:2024_4D_15_16_1
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: E07\n\nCouleur princi
  pale équipe domicile: Vert\nCouleur principale équipe exterieure: Blanc\
@@ -271,7 +285,8 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: E07\n\nCouleur princi
  ma016@gmail.com)\n\nAccès voiture : Boulevard Lambermont\, prendre le bou
  levard Léopold III\, direction aéroport de Bruxelles-National\, au 3ème
   feu de signalisation prendre à droite. le terrain se trouve à 50 m.\n\n
- Vérifiez toujours ces infos sur http://www.abssa.be/
+ Vérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: 
+ https://calabssa.be/c/1_4_brussels_british_r
 GEO:50.8691994;4.406709999999999
 LOCATION:Complexe Sportif Evere\, Avenue des Anciens Combattants 300\, 114
  0 Evere\, Belgique
@@ -282,7 +297,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J16: BRUSSELS BRITISH R (Eq. 4) vs BEETHOVEN FCS
 DTSTART;VALUE=DATE-TIME:20240127T113000Z
 DTEND;VALUE=DATE-TIME:20240127T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
 UID:2024_4D_16_1_493
 DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
  pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
@@ -290,7 +305,8 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
  fc.org)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. 
  Passer devant l'église\, longer l'autoroute et tourner à droite au cimet
  ière des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur h
- ttp://www.abssa.be/
+ ttp://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/1_4_brussels
+ _british_r
 GEO:50.7282426;4.5537189
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
 ORGANIZER;CN="Lachia S.";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
@@ -299,7 +315,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J17: SPARTA SCHEUT vs BRUSSELS BRITISH R (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20240203T143000Z
 DTEND;VALUE=DATE-TIME:20240203T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
 UID:2024_4D_17_340_1
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
  pale équipe domicile: Rayé Bleu et Jaune\nCouleur principale équipe ext
@@ -309,7 +325,8 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
   la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, pl
  ace Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme
   400 m. en direction de Lennik.\n\nVérifiez toujours ces infos sur http:/
- /www.abssa.be/
+ /www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/1_4_brussels_brit
+ ish_r
 GEO:50.8177358;4.2557195
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
@@ -320,7 +337,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J19: BRUSSELS BRITISH R (Eq. 4) vs WAPPERS FC
 DTSTART;VALUE=DATE-TIME:20240217T113000Z
 DTEND;VALUE=DATE-TIME:20240217T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
 UID:2024_4D_19_1_67
 DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
  pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rayé
@@ -328,7 +345,8 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
  sa-sec@rbbfc.org)\n\nAccès voiture : Autoroute E411\, prendre la sortie R
  osières. Passer devant l'église\, longer l'autoroute et tourner à droit
  e au cimetière des animaux. Terrain à 200 m.\n\nVérifiez toujours ces i
- nfos sur http://www.abssa.be/
+ nfos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/1_
+ 4_brussels_british_r
 GEO:50.7282426;4.5537189
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
 ORGANIZER;CN="Lachia S.";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
@@ -337,13 +355,14 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J26: REAL TRAPPISTE vs BRUSSELS BRITISH R (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20240224T130000Z
 DTEND;VALUE=DATE-TIME:20240224T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
 UID:2024_4D_26_605_1
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: M05\n\nCouleur princi
  pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Blanc
  \n\nContact équipe domicile: Buta  Kossi E (0490.67.45.92 - emmanuelbutak
  ossi@gmail.com)\n\nAccès voiture : Chaussée de Gand\, avenue M. Ghandi\n
- \nVérifiez toujours ces infos sur http://www.abssa.be/
+ \nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa
+ : https://calabssa.be/c/1_4_brussels_british_r
 GEO:50.861905;4.3220645
 LOCATION:Sippelberg\, Avenue M. Ghandi\, 1080 Molenbeek\, Belgique
 ORGANIZER;CN="Buta  Kossi E";ROLE=Secrétaire:MAILTO:emmanuelbutakossi@gma
@@ -353,7 +372,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J23: BRUSSELS BRITISH R (Eq. 4) vs BIERGEOIS CS
 DTSTART;VALUE=DATE-TIME:20240302T113000Z
 DTEND;VALUE=DATE-TIME:20240302T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
 UID:2024_4D_23_1_70
 DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
  pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
@@ -361,7 +380,8 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
  g)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Passe
  r devant l'église\, longer l'autoroute et tourner à droite au cimetière
   des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur http:/
- /www.abssa.be/
+ /www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/1_4_brussels_brit
+ ish_r
 GEO:50.7282426;4.5537189
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
 ORGANIZER;CN="Lachia S.";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
@@ -370,7 +390,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J20: PHARMA SC (Eq. 2) vs BRUSSELS BRITISH R (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20240309T143000Z
 DTEND;VALUE=DATE-TIME:20240309T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
 UID:2024_4D_20_268_1
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
  pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Blanc
@@ -380,7 +400,8 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
  e à droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à
   gauche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entré
  e du Complexe se trouve à hauteur de City Cart\, à gauche de la route.\n
- \nVérifiez toujours ces infos sur http://www.abssa.be/
+ \nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa
+ : https://calabssa.be/c/1_4_brussels_british_r
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
@@ -391,7 +412,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J21: BRUSSELS BRITISH R (Eq. 4) vs LORGNETTE (LA)  FC
 DTSTART;VALUE=DATE-TIME:20240316T113000Z
 DTEND;VALUE=DATE-TIME:20240316T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
 UID:2024_4D_21_1_392
 DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
  pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Borde
@@ -399,7 +420,8 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
  c.org)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. P
  asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
  ère des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur ht
- tp://www.abssa.be/
+ tp://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/1_4_brussels_
+ british_r
 GEO:50.7282426;4.5537189
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
 ORGANIZER;CN="Lachia S.";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
@@ -408,7 +430,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J22: JODOIGNOISE FC vs BRUSSELS BRITISH R (Eq. 4)
 DTSTART;VALUE=DATE-TIME:20240323T143000Z
 DTEND;VALUE=DATE-TIME:20240323T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
 UID:2024_4D_22_664_1
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: I03\n\nCouleur princi
  pale équipe domicile: Noir et jaune\nCouleur principale équipe exterieur
@@ -419,7 +441,8 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: I03\n\nCouleur princi
   croise la N91 (7km depuis l’E411). Sortir à la 3ème sortie sur la N91
   en\ndirection de Hamme-Mille. Prendre ensuite la 3ème rue à gauche et l
  e terrain se trouve directement sur la droite.\n\nVérifiez toujours ces i
- nfos sur http://www.abssa.be/
+ nfos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/1_
+ 4_brussels_british_r
 GEO:50.6849677;4.8070879
 LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
 ORGANIZER;CN="Severin S.";ROLE=Secrétaire:MAILTO:severinsimon00@gmail.com
@@ -428,7 +451,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D4D J25: BRUSSELS BRITISH R (Eq. 4) vs NEPTUNE FC
 DTSTART;VALUE=DATE-TIME:20240406T103000Z
 DTEND;VALUE=DATE-TIME:20240406T120000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124617Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
 UID:2024_4D_25_1_56
 DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
  pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
@@ -436,7 +459,8 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
  g)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Passe
  r devant l'église\, longer l'autoroute et tourner à droite au cimetière
   des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur http:/
- /www.abssa.be/
+ /www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/1_4_brussels_brit
+ ish_r
 GEO:50.7282426;4.5537189
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
 ORGANIZER;CN="Lachia S.";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org

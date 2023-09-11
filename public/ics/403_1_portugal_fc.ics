@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J10: PORTUGAL FC vs IRLANDE FC
 DTSTART;VALUE=DATE-TIME:20230902T133000Z
 DTEND;VALUE=DATE-TIME:20230902T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2023_1_10_403_402
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
  pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Vert\
@@ -17,7 +17,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
  sée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi
  \, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. e
  n direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.abss
- a.be/
+ a.be/\nVoir sur calabssa: https://calabssa.be/c/403_1_portugal_fc
 GEO:50.8177358;4.2557195
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J1: PORTUGAL FC vs CHENOIS SC
 DTSTART;VALUE=DATE-TIME:20230909T133000Z
 DTEND;VALUE=DATE-TIME:20230909T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2023_1_1_403_84
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
  pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rouge
@@ -38,7 +38,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
  ssée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verd
  i\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. 
  en direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.abs
- sa.be/
+ sa.be/\nVoir sur calabssa: https://calabssa.be/c/403_1_portugal_fc
 GEO:50.8177358;4.2557195
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
@@ -49,14 +49,15 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J2: COIN DU BALAI FC vs PORTUGAL FC
 DTSTART;VALUE=DATE-TIME:20230916T120000Z
 DTEND;VALUE=DATE-TIME:20230916T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2023_1_2_229_403
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
  pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
   Rouge\n\nContact équipe domicile: Rosenfeld J. (0485.05.40.06 - rosenfel
  djean@hotmail.com)\n\nAccès voiture : A partir du square des Archiducs\, 
  prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez to
- ujours ces infos sur http://www.abssa.be/
+ ujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cala
+ bssa.be/c/403_1_portugal_fc
 GEO:50.8059082;4.4137428
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
@@ -67,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J3: PORTUGAL FC vs EURO UNION
 DTSTART;VALUE=DATE-TIME:20230923T133000Z
 DTEND;VALUE=DATE-TIME:20230923T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2023_1_3_403_567
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
  pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Blanc
@@ -77,7 +78,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
  ssée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verd
  i\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. 
  en direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.abs
- sa.be/
+ sa.be/\nVoir sur calabssa: https://calabssa.be/c/403_1_portugal_fc
 GEO:50.8177358;4.2557195
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
@@ -88,7 +89,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J4: LXG CINQUANTENAIRE vs PORTUGAL FC
 DTSTART;VALUE=DATE-TIME:20230930T113000Z
 DTEND;VALUE=DATE-TIME:20230930T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2023_1_4_542_403
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: S09\n\nCouleur princi
  pale équipe domicile: Jaune et Bleu.\nCouleur principale équipe exterieu
@@ -97,7 +98,8 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: S09\n\nCouleur princi
  éral Wahis\, Bd Lambermont\, au deuxième carrefour prendre à gauche\, p
  uis encore la première à gauche\nOu :  Place Meiser prendre Av Ernest Ca
  mbier. - Tram n° 7  - Bus 65 arrêt Chazal\n\nVérifiez toujours ces info
- s sur http://www.abssa.be/
+ s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/403_1
+ _portugal_fc
 GEO:50.8592013;4.3921032
 LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
  ue
@@ -108,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J5: PORTUGAL FC vs GREZ AJ
 DTSTART;VALUE=DATE-TIME:20231007T133000Z
 DTEND;VALUE=DATE-TIME:20231007T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2023_1_5_403_514
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
  pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Noir\
@@ -118,7 +120,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
  sée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi
  \, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. e
  n direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.abss
- a.be/
+ a.be/\nVoir sur calabssa: https://calabssa.be/c/403_1_portugal_fc
 GEO:50.8177358;4.2557195
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
@@ -129,7 +131,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J6: PRESS (AMICALE) vs PORTUGAL FC
 DTSTART;VALUE=DATE-TIME:20231014T133000Z
 DTEND;VALUE=DATE-TIME:20231014T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2023_1_6_30_403
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: M07\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge\
@@ -139,7 +141,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: M07\n\nCouleur princi
  prendre direction Asse. Après l'église\, prendre la 1ère à main droite
   (direction Mollem). Après 2 km. prendre la Kouterstraat qui se trouve ju
  ste en face de l'église.\n\nVérifiez toujours ces infos sur http://www.a
- bssa.be/
+ bssa.be/\nVoir sur calabssa: https://calabssa.be/c/403_1_portugal_fc
 GEO:50.9278393;4.2227906
 LOCATION:Kouter 29\, 1730 Mollem\, Belgique
 ORGANIZER;CN="Timperman E.";ROLE=Secrétaire:MAILTO:eric.timperman@skynet.
@@ -149,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J8: PORTUGAL FC vs WONG A.S.
 DTSTART;VALUE=DATE-TIME:20231021T133000Z
 DTEND;VALUE=DATE-TIME:20231021T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2023_1_8_403_523
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
  pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Jaune
@@ -159,7 +161,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
  ssée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verd
  i\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. 
  en direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.abs
- sa.be/
+ sa.be/\nVoir sur calabssa: https://calabssa.be/c/403_1_portugal_fc
 GEO:50.8177358;4.2557195
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
@@ -170,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J24: PORTUGAL FC vs BRUSSELS LTC
 DTSTART;VALUE=DATE-TIME:20231028T133000Z
 DTEND;VALUE=DATE-TIME:20231028T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2023_1_24_403_39
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
  pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Borde
@@ -180,7 +182,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
  haussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place V
  erdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 
  m. en direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.
- abssa.be/
+ abssa.be/\nVoir sur calabssa: https://calabssa.be/c/403_1_portugal_fc
 GEO:50.8177358;4.2557195
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
@@ -191,7 +193,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J7: NEW ARQUOIS FC vs PORTUGAL FC
 DTSTART;VALUE=DATE-TIME:20231104T130000Z
 DTEND;VALUE=DATE-TIME:20231104T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2023_1_7_263_403
 DESCRIPTION:Terrain synthétique: non\nCode terrain: A12\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge\
@@ -201,7 +203,8 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: A12\n\nCouleur princi
  e à droite pendant +/- 700 mètres.\nAu rond point\, prendre à droite en
   direction du château de La Rocq\, passez sous le pont\, le terrain se tr
  ouve à 100 mètres (à proximité du cimetière).\n\nVérifiez toujours c
- es infos sur http://www.abssa.be/
+ es infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/
+ c/403_1_portugal_fc
 GEO:50.5690988;4.2677281
 LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion\, 7181 Arquennes\, B
  elgique
@@ -211,7 +214,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J9: BRAINE STORMING vs PORTUGAL FC
 DTSTART;VALUE=DATE-TIME:20231118T143000Z
 DTEND;VALUE=DATE-TIME:20231118T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2023_1_9_630_403
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge\
@@ -220,7 +223,8 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
  ortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi)
   direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le
   carrefour\, tout droit direction route du sucre.\n\nVérifiez toujours ce
- s infos sur http://www.abssa.be/
+ s infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c
+ /403_1_portugal_fc
 GEO:50.6007528;4.4472782
 LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
 ORGANIZER;CN="Goethals E.";ROLE=Secrétaire:MAILTO:manu.goethals@gmail.com
@@ -229,7 +233,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J12: PORTUGAL FC vs BRUSSELS BRITISH R
 DTSTART;VALUE=DATE-TIME:20231125T143000Z
 DTEND;VALUE=DATE-TIME:20231125T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2023_1_12_403_1
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
  pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Blanc
@@ -239,7 +243,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
  ssée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verd
  i\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. 
  en direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.abs
- sa.be/
+ sa.be/\nVoir sur calabssa: https://calabssa.be/c/403_1_portugal_fc
 GEO:50.8177358;4.2557195
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
@@ -250,7 +254,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J11: BRUSSELS LTC vs PORTUGAL FC
 DTSTART;VALUE=DATE-TIME:20231202T130000Z
 DTEND;VALUE=DATE-TIME:20231202T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2023_1_11_39_403
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: O01\n\nCouleur princi
  pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Ro
@@ -264,7 +268,8 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: O01\n\nCouleur princi
  is continuer tout droit jusqu'au rond-point du Messager où il faut prendr
  e la 2ème sortie. Vous êtes alors sur la Route de Genval et l'entrée du
   Complexe se trouve à environ 200m sur la gauche.\n\nVérifiez toujours c
- es infos sur http://www.abssa.be/
+ es infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/
+ c/403_1_portugal_fc
 GEO:50.7035641;4.469720199999999
 LOCATION:Route de Genval 20A\, 1380 Ohain\, Belgique
 ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
@@ -274,7 +279,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J13: CHOULE AUDERGHEM vs PORTUGAL FC
 DTSTART;VALUE=DATE-TIME:20231209T113000Z
 DTEND;VALUE=DATE-TIME:20231209T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2023_1_13_517_403
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
@@ -284,7 +289,8 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  utiliser la bande de droite pendant +/- 200 m. et descendre devant le bât
  iment de l'ADEPS\, puis passer par le tunnel à gauche (en dessous de l'au
  toroute). Le terrain se trouve à 200 m. Le stade est fléché.\n\nVérifi
- ez toujours ces infos sur http://www.abssa.be/
+ ez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:/
+ /calabssa.be/c/403_1_portugal_fc
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
@@ -294,7 +300,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J14: CHENOIS SC vs PORTUGAL FC
 DTSTART;VALUE=DATE-TIME:20240113T140000Z
 DTEND;VALUE=DATE-TIME:20240113T153000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2024_1_14_84_403
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W02\n\nCouleur princi
  pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rouge
@@ -304,7 +310,8 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: W02\n\nCouleur princi
  . Vandevelde (intersection de la chaussée de Bruxelles avec la chaussée 
  de Tervuren à Joli-Bois). Au feu de signalisation prendre à droite la ch
  aussée Bara. Le terrain se trouve à droite à +/- 500 m.\n\nVérifiez to
- ujours ces infos sur http://www.abssa.be/
+ ujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cala
+ bssa.be/c/403_1_portugal_fc
 GEO:50.701676;4.397567
 LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
 ORGANIZER;CN="Versmissen P.";ROLE=Secrétaire:MAILTO:sc.chenois@waterloo.e
@@ -314,7 +321,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J15: PORTUGAL FC vs COIN DU BALAI FC
 DTSTART;VALUE=DATE-TIME:20240120T143000Z
 DTEND;VALUE=DATE-TIME:20240120T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2024_1_15_403_229
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
  pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu 
@@ -324,7 +331,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
  a chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, plac
  e Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 4
  00 m. en direction de Lennik.\n\nVérifiez toujours ces infos sur http://w
- ww.abssa.be/
+ ww.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/403_1_portugal_fc
 GEO:50.8177358;4.2557195
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
@@ -335,14 +342,15 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J16: EURO UNION vs PORTUGAL FC
 DTSTART;VALUE=DATE-TIME:20240127T123000Z
 DTEND;VALUE=DATE-TIME:20240127T140000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2024_1_16_567_403
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: I02\n\nCouleur princi
  pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
  \n\nContact équipe domicile: Mad. De Becker S (0473.54.89.74 - euro.union
  567@gmail.com)\n\nAccès voiture : Avenue de la Couronne jusqu'au cimetiè
  re d'Ixelles\, suivre les plaques "Stade A. Demuyter".\n\nVérifiez toujou
- rs ces infos sur http://www.abssa.be/
+ rs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa
+ .be/c/403_1_portugal_fc
 GEO:50.8134101;4.3956383
 LOCATION:Stade A. Demuyter\, Rue Volta 18\, 1050 Ixelles\, Belgique
 ORGANIZER;CN="Mad. De Becker S";ROLE=Secrétaire:MAILTO:euro.union567@gmai
@@ -352,7 +360,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J17: PORTUGAL FC vs LXG CINQUANTENAIRE
 DTSTART;VALUE=DATE-TIME:20240203T143000Z
 DTEND;VALUE=DATE-TIME:20240203T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2024_1_17_403_542
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
  pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Jaune
@@ -362,7 +370,8 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
  e la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, p
  lace Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasm
  e 400 m. en direction de Lennik.\n\nVérifiez toujours ces infos sur http:
- //www.abssa.be/
+ //www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/403_1_portugal_f
+ c
 GEO:50.8177358;4.2557195
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
@@ -373,7 +382,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J18: GREZ AJ vs PORTUGAL FC
 DTSTART;VALUE=DATE-TIME:20240210T143000Z
 DTEND;VALUE=DATE-TIME:20240210T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2024_1_18_514_403
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
  pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge\
@@ -383,7 +392,8 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
  pour la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\
  ,5 km\, au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Lib
  ération\, puis à gauche dans la rue de la Grande lecke.\n\nVérifiez tou
- jours ces infos sur http://www.abssa.be/
+ jours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calab
+ ssa.be/c/403_1_portugal_fc
 GEO:50.7540176;4.7835618
 LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
 ORGANIZER;CN="Vanhamme J.";ROLE=Secrétaire:MAILTO:jerome.vanhamme@hotmail
@@ -393,7 +403,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J19: PORTUGAL FC vs PRESS (AMICALE)
 DTSTART;VALUE=DATE-TIME:20240217T143000Z
 DTEND;VALUE=DATE-TIME:20240217T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2024_1_19_403_30
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
  pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu\
@@ -403,7 +413,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
  sée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi
  \, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. e
  n direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.abss
- a.be/
+ a.be/\nVoir sur calabssa: https://calabssa.be/c/403_1_portugal_fc
 GEO:50.8177358;4.2557195
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
@@ -414,7 +424,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J26: PORTUGAL FC vs CHOULE AUDERGHEM
 DTSTART;VALUE=DATE-TIME:20240224T143000Z
 DTEND;VALUE=DATE-TIME:20240224T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2024_1_26_403_517
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
  pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rayé
@@ -424,7 +434,8 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
  ant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Brian
  d\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital 
  Erasme 400 m. en direction de Lennik.\n\nVérifiez toujours ces infos sur 
- http://www.abssa.be/
+ http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/403_1_portu
+ gal_fc
 GEO:50.8177358;4.2557195
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
@@ -435,7 +446,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J23: IRLANDE FC vs PORTUGAL FC
 DTSTART;VALUE=DATE-TIME:20240302T130000Z
 DTEND;VALUE=DATE-TIME:20240302T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2024_1_23_402_403
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: N04\n\nCouleur princi
  pale équipe domicile: Vert\nCouleur principale équipe exterieure: Rouge\
@@ -445,7 +456,8 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: N04\n\nCouleur princi
  ain est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège
  \, prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelsest
  eenweg\, traverser la chaussée de Louvain\, et suivre comme ci-avant.\n\n
- Vérifiez toujours ces infos sur http://www.abssa.be/
+ Vérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: 
+ https://calabssa.be/c/403_1_portugal_fc
 GEO:50.88776559999999;4.50894
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
@@ -456,7 +468,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J20: PORTUGAL FC vs NEW ARQUOIS FC
 DTSTART;VALUE=DATE-TIME:20240309T143000Z
 DTEND;VALUE=DATE-TIME:20240309T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2024_1_20_403_263
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
  pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu\
@@ -466,7 +478,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
  sée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi
  \, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. e
  n direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.abss
- a.be/
+ a.be/\nVoir sur calabssa: https://calabssa.be/c/403_1_portugal_fc
 GEO:50.8177358;4.2557195
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
@@ -477,7 +489,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J21: WONG A.S. vs PORTUGAL FC
 DTSTART;VALUE=DATE-TIME:20240316T113000Z
 DTEND;VALUE=DATE-TIME:20240316T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2024_1_21_523_403
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: T07\n\nCouleur princi
  pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Rouge
@@ -492,7 +504,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: T07\n\nCouleur princi
   droit sur la chaussée de Tervuren pendant 1\,3 km et prendre à gauche d
  ans la rue de destination ( Schonenboomstraat).\nLe terrain se situe sur l
  a droite de la route!\n\nVérifiez toujours ces infos sur http://www.abssa
- .be/
+ .be/\nVoir sur calabssa: https://calabssa.be/c/403_1_portugal_fc
 GEO:50.8107232;4.5492332
 LOCATION:Schonenboormstraat\, 3080 Tervuren\, Belgique
 ORGANIZER;CN="Van Impe J.";ROLE=Secrétaire:MAILTO:vanimpe-julien@hotmail.
@@ -502,7 +514,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J22: PORTUGAL FC vs BRAINE STORMING
 DTSTART;VALUE=DATE-TIME:20240323T143000Z
 DTEND;VALUE=DATE-TIME:20240323T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2024_1_22_403_630
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
  pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu\
@@ -512,7 +524,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
  sée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi
  \, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. e
  n direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.abss
- a.be/
+ a.be/\nVoir sur calabssa: https://calabssa.be/c/403_1_portugal_fc
 GEO:50.8177358;4.2557195
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
@@ -523,7 +535,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D1 J25: BRUSSELS BRITISH R vs PORTUGAL FC
 DTSTART;VALUE=DATE-TIME:20240406T120000Z
 DTEND;VALUE=DATE-TIME:20240406T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2024_1_25_1_403
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
  pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
@@ -531,7 +543,8 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
  rg)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Pass
  er devant l'église\, longer l'autoroute et tourner à droite au cimetièr
  e des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur http:
- //www.abssa.be/
+ //www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/403_1_portugal_f
+ c
 GEO:50.7282426;4.5537189
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
 ORGANIZER;CN="Lachia S.";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org

@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J10: SCHEUT FC vs TOURINNOIS FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230902T123000Z
 DTEND;VALUE=DATE-TIME:20230902T140000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2023_2B_10_274_292
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
  pale équipe domicile: Gris et Noir\nCouleur principale équipe exterieure
@@ -17,7 +17,8 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
  lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
  rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
  t des terrains se situe à +/- 500 m. sur la gauche.\n\nVérifiez toujours
-  ces infos sur http://www.abssa.be/
+  ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.b
+ e/c/292_2_tourinnois_fc
 GEO:50.8114933;4.2763364
 LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
  \, Belgique
@@ -27,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J1: BIG J - ASPS vs TOURINNOIS FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230909T133000Z
 DTEND;VALUE=DATE-TIME:20230909T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2023_2B_1_137_292
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge\
@@ -36,7 +37,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
  der-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-po
  int\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Ver
  t\, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa
- .be/
+ .be/\nVoir sur calabssa: https://calabssa.be/c/292_2_tourinnois_fc
 GEO:50.89983369999999;4.3936101
 LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
 ORGANIZER;CN="Pierard J.";ROLE=Secrétaire:MAILTO:pierard.j@hotmail.com
@@ -45,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J2: TOURINNOIS FC (Eq. 2) vs FORESTOIS SC
 DTSTART;VALUE=DATE-TIME:20230916T113000Z
 DTEND;VALUE=DATE-TIME:20230916T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2023_2B_2_292_152
 DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
  pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Noir\
@@ -55,7 +56,7 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
   la direction Walhain vers la droite et après 200 m. prendre à droite et
   400 m. plus loin\, prendre à nouveau à droite. Le terrain se trouve à 
  +/- 300 m. sur la gauche.\n\nVérifiez toujours ces infos sur http://www.a
- bssa.be/
+ bssa.be/\nVoir sur calabssa: https://calabssa.be/c/292_2_tourinnois_fc
 GEO:50.6414624;4.7191939
 LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
 ORGANIZER;CN="Strade P.";ROLE=Secrétaire:MAILTO:stradepaul@hotmail.com
@@ -64,7 +65,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J3: ETINCELLE FC vs TOURINNOIS FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230923T120000Z
 DTEND;VALUE=DATE-TIME:20230923T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2023_2B_3_35_292
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
  pale équipe domicile: Jaune et bleu\nCouleur principale équipe exterieur
@@ -74,7 +75,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
   de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, B
  ld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en di
  rection de Lennik.\n\nVérifiez toujours ces infos sur http://www.abssa.be
- /
+ /\nVoir sur calabssa: https://calabssa.be/c/292_2_tourinnois_fc
 GEO:50.8177358;4.2557195
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
@@ -84,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J4: TOURINNOIS FC (Eq. 2) vs AZUR RCS (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20230930T113000Z
 DTEND;VALUE=DATE-TIME:20230930T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2023_2B_4_292_109
 DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
  pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu 
@@ -94,7 +95,8 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
  uivre la direction Walhain vers la droite et après 200 m. prendre à droi
  te et 400 m. plus loin\, prendre à nouveau à droite. Le terrain se trouv
  e à +/- 300 m. sur la gauche.\n\nVérifiez toujours ces infos sur http://
- www.abssa.be/
+ www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/292_2_tourinnois_f
+ c
 GEO:50.6414624;4.7191939
 LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
 ORGANIZER;CN="Strade P.";ROLE=Secrétaire:MAILTO:stradepaul@hotmail.com
@@ -103,7 +105,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J5: BRUSSELS BRITISH R (Eq. 3) vs TOURINNOIS FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20231007T103000Z
 DTEND;VALUE=DATE-TIME:20231007T120000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2023_2B_5_1_292
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
  pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
@@ -111,7 +113,8 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
  rg)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Pass
  er devant l'église\, longer l'autoroute et tourner à droite au cimetièr
  e des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur http:
- //www.abssa.be/
+ //www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/292_2_tourinnois
+ _fc
 GEO:50.7282426;4.5537189
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
 ORGANIZER;CN="Lachia S.";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
@@ -120,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J6: TOURINNOIS FC (Eq. 2) vs BRITISH UNITED (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20231014T113000Z
 DTEND;VALUE=DATE-TIME:20231014T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2023_2B_6_292_132
 DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
  pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu\
@@ -130,7 +133,7 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
   la direction Walhain vers la droite et après 200 m. prendre à droite et
   400 m. plus loin\, prendre à nouveau à droite. Le terrain se trouve à 
  +/- 300 m. sur la gauche.\n\nVérifiez toujours ces infos sur http://www.a
- bssa.be/
+ bssa.be/\nVoir sur calabssa: https://calabssa.be/c/292_2_tourinnois_fc
 GEO:50.6414624;4.7191939
 LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
 ORGANIZER;CN="Strade P.";ROLE=Secrétaire:MAILTO:stradepaul@hotmail.com
@@ -139,7 +142,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J8: BOUSVAL GENAPPE vs TOURINNOIS FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20231021T133000Z
 DTEND;VALUE=DATE-TIME:20231021T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2023_2B_8_401_292
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
  pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge\
@@ -148,7 +151,8 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
  est\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Cha
  rleroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, trave
  rser le carrefour\, tout droit direction route du sucre.\n\nVérifiez touj
- ours ces infos sur http://www.abssa.be/
+ ours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabs
+ sa.be/c/292_2_tourinnois_fc
 GEO:50.6007528;4.4472782
 LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
 ORGANIZER;CN="Gossiaux S.";ROLE=Secrétaire:MAILTO:gossiaux_sebastien@hotm
@@ -158,7 +162,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J24: RAPID TAMTAM FC. vs TOURINNOIS FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20231028T120000Z
 DTEND;VALUE=DATE-TIME:20231028T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2023_2B_24_600_292
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
  pale équipe domicile: Jaune et rose\nCouleur principale équipe exterieur
@@ -166,7 +170,8 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
  mtam@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la ru
  e Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28
  ). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ces
-  infos sur http://www.abssa.be/
+  infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/
+ 292_2_tourinnois_fc
 GEO:50.8423054;4.445628699999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
@@ -176,7 +181,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J7: TOURINNOIS FC (Eq. 2) vs BESACE RFC
 DTSTART;VALUE=DATE-TIME:20231104T123000Z
 DTEND;VALUE=DATE-TIME:20231104T140000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2023_2B_7_292_24
 DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
  pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu\
@@ -186,7 +191,7 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
   la direction Walhain vers la droite et après 200 m. prendre à droite et
   400 m. plus loin\, prendre à nouveau à droite. Le terrain se trouve à 
  +/- 300 m. sur la gauche.\n\nVérifiez toujours ces infos sur http://www.a
- bssa.be/
+ bssa.be/\nVoir sur calabssa: https://calabssa.be/c/292_2_tourinnois_fc
 GEO:50.6414624;4.7191939
 LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
 ORGANIZER;CN="Strade P.";ROLE=Secrétaire:MAILTO:stradepaul@hotmail.com
@@ -195,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J9: TOURINNOIS FC (Eq. 2) vs ENGHIEN AMICAL
 DTSTART;VALUE=DATE-TIME:20231118T123000Z
 DTEND;VALUE=DATE-TIME:20231118T140000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2023_2B_9_292_31
 DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
  pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Noir\
@@ -205,7 +210,7 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
   la direction Walhain vers la droite et après 200 m. prendre à droite et
   400 m. plus loin\, prendre à nouveau à droite. Le terrain se trouve à 
  +/- 300 m. sur la gauche.\n\nVérifiez toujours ces infos sur http://www.a
- bssa.be/
+ bssa.be/\nVoir sur calabssa: https://calabssa.be/c/292_2_tourinnois_fc
 GEO:50.6414624;4.7191939
 LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
 ORGANIZER;CN="Strade P.";ROLE=Secrétaire:MAILTO:stradepaul@hotmail.com
@@ -214,7 +219,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J12: LA LORRAINE-MTM.R vs TOURINNOIS FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20231125T130000Z
 DTEND;VALUE=DATE-TIME:20231125T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2023_2B_12_44_292
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
  pale équipe domicile: Bordeaux/bleu\nCouleur principale équipe exterieur
@@ -222,7 +227,8 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
  nefc@gmail.com)\n\nAccès voiture : Autoroute E411\, prendre la sortie Ros
  ières. Passer devant l'église\, longer l'autoroute et tourner à droite 
  au cimetière des animaux. Terrain à 200 m.\n\nVérifiez toujours ces inf
- os sur http://www.abssa.be/
+ os sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/292_
+ 2_tourinnois_fc
 GEO:50.7282426;4.5537189
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
 ORGANIZER;CN="Degimbe M.";ROLE=Secrétaire:MAILTO:lalorrainefc@gmail.com
@@ -231,7 +237,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J11: TOURINNOIS FC (Eq. 2) vs RAPID TAMTAM FC.
 DTSTART;VALUE=DATE-TIME:20231202T123000Z
 DTEND;VALUE=DATE-TIME:20231202T140000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2023_2B_11_292_600
 DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
  pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Jaune
@@ -241,7 +247,8 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
  \, suivre la direction Walhain vers la droite et après 200 m. prendre à 
  droite et 400 m. plus loin\, prendre à nouveau à droite. Le terrain se t
  rouve à +/- 300 m. sur la gauche.\n\nVérifiez toujours ces infos sur htt
- p://www.abssa.be/
+ p://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/292_2_tourinno
+ is_fc
 GEO:50.6414624;4.7191939
 LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
 ORGANIZER;CN="Strade P.";ROLE=Secrétaire:MAILTO:stradepaul@hotmail.com
@@ -250,7 +257,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J13: TOURINNOIS FC (Eq. 2) vs GOALOIS
 DTSTART;VALUE=DATE-TIME:20231209T123000Z
 DTEND;VALUE=DATE-TIME:20231209T140000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2023_2B_13_292_345
 DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
  pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Borde
@@ -260,7 +267,8 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
  \, suivre la direction Walhain vers la droite et après 200 m. prendre à 
  droite et 400 m. plus loin\, prendre à nouveau à droite. Le terrain se t
  rouve à +/- 300 m. sur la gauche.\n\nVérifiez toujours ces infos sur htt
- p://www.abssa.be/
+ p://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/292_2_tourinno
+ is_fc
 GEO:50.6414624;4.7191939
 LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
 ORGANIZER;CN="Strade P.";ROLE=Secrétaire:MAILTO:stradepaul@hotmail.com
@@ -269,7 +277,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J14: TOURINNOIS FC (Eq. 2) vs BIG J - ASPS
 DTSTART;VALUE=DATE-TIME:20240113T123000Z
 DTEND;VALUE=DATE-TIME:20240113T140000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2024_2B_14_292_137
 DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
  pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu\
@@ -279,7 +287,7 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
   la direction Walhain vers la droite et après 200 m. prendre à droite et
   400 m. plus loin\, prendre à nouveau à droite. Le terrain se trouve à 
  +/- 300 m. sur la gauche.\n\nVérifiez toujours ces infos sur http://www.a
- bssa.be/
+ bssa.be/\nVoir sur calabssa: https://calabssa.be/c/292_2_tourinnois_fc
 GEO:50.6414624;4.7191939
 LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
 ORGANIZER;CN="Strade P.";ROLE=Secrétaire:MAILTO:stradepaul@hotmail.com
@@ -288,7 +296,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J15: FORESTOIS SC vs TOURINNOIS FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20240120T130000Z
 DTEND;VALUE=DATE-TIME:20240120T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2024_2B_15_152_292
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
  pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge\
@@ -298,7 +306,8 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
  oite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gauche
   (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du Co
  mplexe se trouve à hauteur de City Cart\, à gauche de la route.\n\nVéri
- fiez toujours ces infos sur http://www.abssa.be/
+ fiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https
+ ://calabssa.be/c/292_2_tourinnois_fc
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
@@ -308,7 +317,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J16: TOURINNOIS FC (Eq. 2) vs ETINCELLE FC
 DTSTART;VALUE=DATE-TIME:20240127T123000Z
 DTEND;VALUE=DATE-TIME:20240127T140000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2024_2B_16_292_35
 DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
  pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Jaune
@@ -318,7 +327,8 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
  \, suivre la direction Walhain vers la droite et après 200 m. prendre à 
  droite et 400 m. plus loin\, prendre à nouveau à droite. Le terrain se t
  rouve à +/- 300 m. sur la gauche.\n\nVérifiez toujours ces infos sur htt
- p://www.abssa.be/
+ p://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/292_2_tourinno
+ is_fc
 GEO:50.6414624;4.7191939
 LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
 ORGANIZER;CN="Strade P.";ROLE=Secrétaire:MAILTO:stradepaul@hotmail.com
@@ -327,7 +337,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J17: AZUR RCS (Eq. 2) vs TOURINNOIS FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20240203T123000Z
 DTEND;VALUE=DATE-TIME:20240203T140000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2024_2B_17_109_292
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W12\n\nCouleur princi
  pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: R
@@ -336,7 +346,8 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: W12\n\nCouleur princi
  Tervuren. Passé le boulevard du Souverain prendre à gauche au premier fe
  u de signalisation (Av. Madoux). Au feu de signalisation suivant prendre l
  a 2ème rue à main droite (Av. J. Dujardin). Ensuite 1ère rue à gauche 
- (Av. Salomé).\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+ (Av. Salomé).\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nV
+ oir sur calabssa: https://calabssa.be/c/292_2_tourinnois_fc
 GEO:50.830818;4.455442
 LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
  elgique
@@ -347,7 +358,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J18: TOURINNOIS FC (Eq. 2) vs BRUSSELS BRITISH R (Eq. 3)
 DTSTART;VALUE=DATE-TIME:20240210T123000Z
 DTEND;VALUE=DATE-TIME:20240210T140000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2024_2B_18_292_1
 DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
  pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Blanc
@@ -357,7 +368,7 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
  e la direction Walhain vers la droite et après 200 m. prendre à droite e
  t 400 m. plus loin\, prendre à nouveau à droite. Le terrain se trouve à
   +/- 300 m. sur la gauche.\n\nVérifiez toujours ces infos sur http://www.
- abssa.be/
+ abssa.be/\nVoir sur calabssa: https://calabssa.be/c/292_2_tourinnois_fc
 GEO:50.6414624;4.7191939
 LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
 ORGANIZER;CN="Strade P.";ROLE=Secrétaire:MAILTO:stradepaul@hotmail.com
@@ -366,7 +377,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J19: BRITISH UNITED (Eq. 2) vs TOURINNOIS FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20240217T100000Z
 DTEND;VALUE=DATE-TIME:20240217T113000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2024_2B_19_132_292
 DESCRIPTION:Terrain synthétique: non\nCode terrain: M02\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge\
@@ -376,7 +387,8 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: M02\n\nCouleur princi
  n "Heist-op-den-Berg" Aller tout droit et passer le viaduc du chemin de fe
  r. Après 1 km. suivre les flèches "De Nekker". Garer les voitures à l'e
  xtérieur du complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terra
- in.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+ in.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur cal
+ abssa: https://calabssa.be/c/292_2_tourinnois_fc
 GEO:51.0254354;4.503786799999999
 LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
  ue
@@ -387,7 +399,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J26: GOALOIS vs TOURINNOIS FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20240224T113000Z
 DTEND;VALUE=DATE-TIME:20240224T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2024_2B_26_345_292
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
  pale équipe domicile: Bordeaux-Bleu\nCouleur principale équipe exterieur
@@ -395,7 +407,8 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
  laruelle@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre l
  a rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bu
  s 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours
-  ces infos sur http://www.abssa.be/
+  ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.b
+ e/c/292_2_tourinnois_fc
 GEO:50.8423054;4.445628699999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
@@ -406,7 +419,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J23: TOURINNOIS FC (Eq. 2) vs SCHEUT FC
 DTSTART;VALUE=DATE-TIME:20240302T123000Z
 DTEND;VALUE=DATE-TIME:20240302T140000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2024_2B_23_292_274
 DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
  pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Gris 
@@ -416,7 +429,8 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
  , suivre la direction Walhain vers la droite et après 200 m. prendre à d
  roite et 400 m. plus loin\, prendre à nouveau à droite. Le terrain se tr
  ouve à +/- 300 m. sur la gauche.\n\nVérifiez toujours ces infos sur http
- ://www.abssa.be/
+ ://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/292_2_tourinnoi
+ s_fc
 GEO:50.6414624;4.7191939
 LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
 ORGANIZER;CN="Strade P.";ROLE=Secrétaire:MAILTO:stradepaul@hotmail.com
@@ -425,7 +439,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J20: BESACE RFC vs TOURINNOIS FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20240309T123000Z
 DTEND;VALUE=DATE-TIME:20240309T140000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2024_2B_20_24_292
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge\
@@ -434,7 +448,8 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
  de Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi pren
  dre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point. Le
   terrain se trouve en face de la pompe à essence Q8.\n\nVérifiez toujour
- s ces infos sur http://www.abssa.be/
+ s ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.
+ be/c/292_2_tourinnois_fc
 GEO:50.883299;4.316365
 LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
 ORGANIZER;CN="Masset M.";ROLE=Secrétaire:MAILTO:rfcbesace.024@gmail.com
@@ -443,7 +458,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J21: TOURINNOIS FC (Eq. 2) vs BOUSVAL GENAPPE
 DTSTART;VALUE=DATE-TIME:20240316T123000Z
 DTEND;VALUE=DATE-TIME:20240316T140000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2024_2B_21_292_401
 DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
  pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Noir\
@@ -453,7 +468,7 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
   la direction Walhain vers la droite et après 200 m. prendre à droite et
   400 m. plus loin\, prendre à nouveau à droite. Le terrain se trouve à 
  +/- 300 m. sur la gauche.\n\nVérifiez toujours ces infos sur http://www.a
- bssa.be/
+ bssa.be/\nVoir sur calabssa: https://calabssa.be/c/292_2_tourinnois_fc
 GEO:50.6414624;4.7191939
 LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
 ORGANIZER;CN="Strade P.";ROLE=Secrétaire:MAILTO:stradepaul@hotmail.com
@@ -462,7 +477,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J22: ENGHIEN AMICAL vs TOURINNOIS FC (Eq. 2)
 DTSTART;VALUE=DATE-TIME:20240323T140000Z
 DTEND;VALUE=DATE-TIME:20240323T153000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2024_2B_22_31_292
 DESCRIPTION:Terrain synthétique: non\nCode terrain: E02\n\nCouleur princi
  pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge\
@@ -472,7 +487,8 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: E02\n\nCouleur princi
  ite\, direction  Petit-Enghien. Au bout de la route prendre à gauche\, di
  rection Enghien. Arrivé à Enghien\, prendre la 2ème rue à gauche\, sui
  vre le panneau "Auberge du Vieux Cèdre".\n\nVérifiez toujours ces infos 
- sur http://www.abssa.be/
+ sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/292_2_t
+ ourinnois_fc
 GEO:50.6970878;4.0470023
 LOCATION:R. Enghien Sport (Parc)\, Rue Saint Quentin\, 7850 Enghien\, Belg
  ique
@@ -483,7 +499,7 @@ BEGIN:VEVENT
 SUMMARY:ABSSA D2B J25: TOURINNOIS FC (Eq. 2) vs LA LORRAINE-MTM.R
 DTSTART;VALUE=DATE-TIME:20240406T113000Z
 DTEND;VALUE=DATE-TIME:20240406T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230906T124618Z
+DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
 UID:2024_2B_25_292_44
 DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
  pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Borde
@@ -493,7 +509,8 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
  \, suivre la direction Walhain vers la droite et après 200 m. prendre à 
  droite et 400 m. plus loin\, prendre à nouveau à droite. Le terrain se t
  rouve à +/- 300 m. sur la gauche.\n\nVérifiez toujours ces infos sur htt
- p://www.abssa.be/
+ p://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/292_2_tourinno
+ is_fc
 GEO:50.6414624;4.7191939
 LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
 ORGANIZER;CN="Strade P.";ROLE=Secrétaire:MAILTO:stradepaul@hotmail.com
