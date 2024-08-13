@@ -99,7 +99,11 @@ export async function defaultLoader() {
     dayDivCandidates = Object.entries(DayDiv);
   } else {
     const nextDay = dayDivFlt.reduce((prev, curr) => {
-      return prev[1].day < curr[1].day ? prev : curr;
+      // return prev[1].day < curr[1].day ? prev : curr;
+      return new Date(Date.parse(prev[1].date.replace(" ", "T"))) <
+        new Date(Date.parse(curr[1].date.replace(" ", "T")))
+        ? prev
+        : curr;
     })[1].day;
 
     dayDivCandidates = dayDivFlt.filter((e) => e[1].day === nextDay);
