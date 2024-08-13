@@ -4,19 +4,19 @@ PRODID:abbsa_j_14_d_3b
 X-WR-CALDESC:Les matches de la journée 14 en divion 3B d'ABSSA.
 X-WR-CALNAME:D3B Journée 14
 BEGIN:VEVENT
-SUMMARY:ABSSA D3B J14: AZUR RCS (Eq. 3) vs GERMINAL CSA
-DTSTART;VALUE=DATE-TIME:20240113T110000Z
-DTEND;VALUE=DATE-TIME:20240113T123000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_3B_14_109_235
+SUMMARY:ABSSA D3B J14: AZUR RCS (Eq. 3) vs NEW INN FC
+DTSTART;VALUE=DATE-TIME:20250111T110000Z
+DTEND;VALUE=DATE-TIME:20250111T123000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2025_3B_14_109_359
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W12\n\nCouleur princi
- pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: V
- ert\n\nContact équipe domicile: Mad. Decamps N. (0477.27.39.66 - nathalie
- _decamps@hotmail.com)\n\nAccès voiture : Avenue de Tervuren\, direction T
- ervuren. Passé le boulevard du Souverain prendre à gauche au premier feu
-  de signalisation (Av. Madoux). Au feu de signalisation suivant prendre la
-  2ème rue à main droite (Av. J. Dujardin). Ensuite 1ère rue à gauche (
- Av. Salomé).\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Mad. Decamps N. (0477.27.39.66 - nathalie_dec
+ amps@hotmail.com)\n\nAccès voiture : Avenue de Tervuren\, direction Tervu
+ ren. Passé le boulevard du Souverain prendre à gauche au premier feu de 
+ signalisation (Av. Madoux). Au feu de signalisation suivant prendre la 2è
+ me rue à main droite (Av. J. Dujardin). Ensuite 1ère rue à gauche (Av. 
+ Salomé).\n\nVérifiez toujours ces infos sur http://www.abssa.be/
 GEO:50.830818;4.455442
 LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
  elgique
@@ -24,124 +24,122 @@ ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
  tmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3B J14: NEW INN FC (Eq. 2) vs STRING PENELOPE
-DTSTART;VALUE=DATE-TIME:20240113T130000Z
-DTEND;VALUE=DATE-TIME:20240113T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_3B_14_359_181
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
- pale équipe domicile: Rose\nCouleur principale équipe exterieure: Orange
- \n\nContact équipe domicile: Cornil B. (0494.16.15.11 - bencornil@gmail.c
- om)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute Bruxel
- les-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc pren
- dre à droite\, l'avenue des Anciens Combattants. Juste après le carrefou
- r avec des feux de signalisation prendre à droite vers la Place de la Cha
- pelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terrain
-  se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces infos sur ht
- tp://www.abssa.be/
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER;CN="Cornil B.";ROLE=Secrétaire:MAILTO:bencornil@gmail.com
+SUMMARY:ABSSA D3B J14: TRINQUANT vs LA LORRAINE-MTM.R (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20250111T113000Z
+DTEND;VALUE=DATE-TIME:20250111T130000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2025_3B_14_445_44
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Bleu\n\nContact équipe domicile: Bernard J-M. (0476.66.08.14 - jmbernard
+ .trinquant@yahoo.fr)\n\nAccès voiture : Venant de Bruxelles\, prendre le 
+ Ring Est direction Waterloo. Sortir au pont de Groenendael\, direction La 
+ Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, t
+ oujours tout droit. Au feu de signalisation et le carrefour de La Hulpe\, 
+ tout droit direction Genval. Au feu de signalisation prendre à gauche et 
+ ensuite directement à droite\, l'avenue Soyer\, derrière le G.B. Le terr
+ ain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.abs
+ sa.be/
+GEO:50.7308998;4.4944678
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Bernard J-M.";ROLE=Secrétaire:MAILTO:jmbernard.trinquant@ya
+ hoo.fr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3B J14: JEFKE COUNTRY vs HIGGINS-PUMAS (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20240113T130000Z
-DTEND;VALUE=DATE-TIME:20240113T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_3B_14_423_416
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: T07\n\nCouleur princi
- pale équipe domicile: Noir et blanc\nCouleur principale équipe exterieur
- e: Rayé Bleu et Blanc\n\nContact équipe domicile: Mad. Kadycz C. (0477.6
- 7.18.80 - carolejefke@gmail.com)\n\nAccès voiture : Aux quatre-Bras\, pre
- ndre direction Tervuren via l’avenue de Tervuren(N3) pendant 750M\nAu ro
- nd-point\, prendre la 1ère sortie et continuer sur l’avenue de Tervuren
-  pendant 1\,2km puis prendre à droite sur la chaussée de Bruxelles penda
- nt 500m. Ensuite Prendre légèrement sur la droite dans la Wijngaardstraa
- t pendant 400m et tourner à gauche dans la Pepperstraat pendant 400m. Ens
- uite tourner à droite sur la chaussée de Duisburg et rouler pendant 1\,4
-  km... Continuer tout droit sur la chaussée de Tervuren pendant 1\,3 km e
- t prendre à gauche dans la rue de destination ( Schonenboomstraat).\nLe t
- errain se situe sur la droite de la route!\n\nVérifiez toujours ces infos
-  sur http://www.abssa.be/
-GEO:50.8107232;4.5492332
-LOCATION:Schonenboormstraat\, 3080 Tervuren\, Belgique
-ORGANIZER;CN="Mad. Kadycz C.";ROLE=Secrétaire:MAILTO:carolejefke@gmail.co
- m
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3B J14: CORNAC UNITED FC vs WATERMAEL FC
-DTSTART;VALUE=DATE-TIME:20240113T133000Z
-DTEND;VALUE=DATE-TIME:20240113T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_3B_14_151_611
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A01\n\nCouleur princi
+SUMMARY:ABSSA D3B J14: CHENOIS SC (Eq. 2) vs WATERMAEL FC
+DTSTART;VALUE=DATE-TIME:20250111T123000Z
+DTEND;VALUE=DATE-TIME:20250111T140000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2025_3B_14_84_611
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W02\n\nCouleur princi
  pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu\
- n\nContact équipe domicile: Denayer M. (0476.53.14.48 - marcdenayermd@gma
- il.com)\n\nAccès voiture : Par le Ring Ouest\, direction Paris\, sortie W
- estland Shopping Center (n° 14) continuer tout droit\, remonter vers le R
- ing et prendre à droite pour sortir vers Itterbeek. Prendre l'avenue d'It
- terbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. Le terrain se 
- trouve à gauche\, entre l'école Van Belle et Veeweyde.\n\nVérifiez touj
- ours ces infos sur http://www.abssa.be/
-GEO:50.8354396;4.2768611
-LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
-ORGANIZER;CN="Denayer M.";ROLE=Secrétaire:MAILTO:marcdenayermd@gmail.com
+ n\nContact équipe domicile: Versmissen P. (0495.59.61.77 - sc.chenois@wat
+ erloo.eu)\n\nAccès voiture : Venant d'Uccle\, prendre la chaussée de Wat
+ erloo\, ensuite la chaussée de Bruxelles\, continuer jusqu'à la place E.
+  Vandevelde (intersection de la chaussée de Bruxelles avec la chaussée d
+ e Tervuren à Joli-Bois). Au feu de signalisation prendre à droite la cha
+ ussée Bara. Le terrain se trouve à droite à +/- 500 m.\n\nVérifiez tou
+ jours ces infos sur http://www.abssa.be/
+GEO:50.701676;4.397567
+LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
+ORGANIZER;CN="Versmissen P.";ROLE=Secrétaire:MAILTO:sc.chenois@waterloo.e
+ u
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3B J14: FOOT JOSAPHAT vs MIDI AS
-DTSTART;VALUE=DATE-TIME:20240113T140000Z
-DTEND;VALUE=DATE-TIME:20240113T153000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_3B_14_597_169
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
- pale équipe domicile: Gris\nCouleur principale équipe exterieure: Rouge\
- n\nContact équipe domicile: El Youssefi J. (0488.30.74.66 - jawad.ely@hot
- mail.com)\n\nAccès voiture : Place Meiser\, descendre le boulevard Lamber
- mont. Au 3ème feu de signalisation prendre à gauche\, puis la première 
- à droite.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.8666341;4.3823667
-LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
- aerbeek\, Belgique
-ORGANIZER;CN="El Youssefi J.";ROLE=Secrétaire:MAILTO:jawad.ely@hotmail.co
- m
+SUMMARY:ABSSA D3B J14: SAINT GEORGES RCS vs TAURO FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20250111T130000Z
+DTEND;VALUE=DATE-TIME:20250111T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2025_3B_14_221_574
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir\
+ n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.destin@gmai
+ l.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"avenue Parmentie
+ r\, puis 1ère rue à main gauche.\n\nVérifiez toujours ces infos sur htt
+ p://www.abssa.be/
+GEO:50.8333897;4.4384038
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3B J14: PHARMA SC vs MOUSSES TACHENT
-DTSTART;VALUE=DATE-TIME:20240113T143000Z
-DTEND;VALUE=DATE-TIME:20240113T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_3B_14_268_643
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Borde
- aux\n\nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.dumid
- i@scarlet.be)\n\nAccès voiture : A partir du square des Archiducs\, prend
- re la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez toujour
- s ces infos sur http://www.abssa.be/
-GEO:50.8059082;4.4137428
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
- e
+SUMMARY:ABSSA D3B J14: CHIEFS WSL (Eq. 2) vs STRING PENELOPE
+DTSTART;VALUE=DATE-TIME:20250111T130000Z
+DTEND;VALUE=DATE-TIME:20250111T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2025_3B_14_303_181
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Orang
+ e\n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan.be)\n\
+ nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, puis la c
+ haussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce pont l
+ e terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur http://
+ www.abssa.be/
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3B J14: FORESTOISE E.J. vs NIVELLES AS
-DTSTART;VALUE=DATE-TIME:20240113T143000Z
-DTEND;VALUE=DATE-TIME:20240113T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_3B_14_623_306
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
- pale équipe domicile: Bleu Ciel\nCouleur principale équipe exterieure: B
- leu et jaune\n\nContact équipe domicile: El Yamani Y. (0474.75.75.02 - ya
- hyaelyamani96@gmail.com)\n\nAccès voiture : Au départ de la Place St. De
- nis à Forest prendre la chaussée de Neerstalle jusqu'à la rue de la Soi
- erie (4ème rue à droite) et dans la rue de la Soierie rouler env. 100 m.
-  puis 1ère à gauche (Bld. de la 2ème Armée Britannique) pendant env. 5
- 00 m. L'entrée du Complexe se trouve à hauteur de City Cart\, à gauche 
- de la route.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER;CN="El Yamani Y.";ROLE=Secrétaire:MAILTO:yahyaelyamani96@gmail.
- com
+SUMMARY:ABSSA D3B J14: NIVELLOIS-ACLOT BS vs HIGGINS-PUMAS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20250111T140000Z
+DTEND;VALUE=DATE-TIME:20250111T153000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2025_3B_14_503_416
+DESCRIPTION:Terrain synthétique: non\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
+ e: Rayé Bleu et Blanc\n\nContact équipe domicile: Draux N. (0472.40.01.2
+ 2 - ni.draux@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, par l
+ 'autoroute Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, pas
+ ser sous le pont de l'autoroute et prendre la direction de Nivelles. A 200
+  m.\, au rond-point (Shopping Center)\, tourner à droite en direction de 
+ Wavre (petit ring de Nivelles).\nAu 4ème rond-point (en tenant compte du 
+ rond-point du Shopping Center)\, tourner à gauche \, rue de l'Industrie e
+ t pénétrer dans le zoning. Au bout de la rue\, avant le feu de signalisa
+ tion\, tourner à gauche et prendre la rue du Progrès pendant +/- 400 m.\
+ n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.5963705;4.3564539
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Draux N.";ROLE=Secrétaire:MAILTO:ni.draux@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J14: MOON SHOOTERS vs CHENOIS (ESPER)
+DTSTART;VALUE=DATE-TIME:20250111T143000Z
+DTEND;VALUE=DATE-TIME:20250111T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2025_3B_14_606_412
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Blanc
+  et rouge\n\nContact équipe domicile: Morelle M. (0478.68.42.14 - max.mor
+ elle@gmail.com)\n\nAccès voiture : En venant de Bruxelles par la chaussé
+ e de Wavre\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utili
+ ser la bande de droite pendant +/- 200 m. et descendre devant le bâtiment
+  de l'ADEPS\, puis passer par le tunnel à gauche (en dessous de l'autorou
+ te). Le terrain se trouve à 200 m. Le stade est fléché.\n\nVérifiez to
+ ujours ces infos sur http://www.abssa.be/
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="Morelle M.";ROLE=Secrétaire:MAILTO:max.morelle@gmail.com
 END:VEVENT
 END:VCALENDAR

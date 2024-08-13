@@ -4,68 +4,107 @@ PRODID:abbsa_j_16_d_6a
 X-WR-CALDESC:Les matches de la journée 16 en divion 6A d'ABSSA.
 X-WR-CALNAME:D6A Journée 16
 BEGIN:VEVENT
-SUMMARY:ABSSA D6A J16: J.ST-GILLOISE R. vs TUBIFOOT AS
-DTSTART;VALUE=DATE-TIME:20240127T130000Z
-DTEND;VALUE=DATE-TIME:20240127T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_6A_16_38_451
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
- pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
-  Jaune et Rouge\n\nContact équipe domicile: Honore K. (0475.53.32.84 - ke
- nny.honore9@gmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, 
- après 300 m. en direction de Lennik\, prendre à droite.\nVenant de la ch
- aussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Ve
- rdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m
- . en direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.a
- bssa.be/
-GEO:50.8177358;4.2557195
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER;CN="Honore K.";ROLE=Secrétaire:MAILTO:kenny.honore9@gmail.com
+SUMMARY:ABSSA D6A J16: ITT - GECKO FC (Eq. 2) vs METRASPORT R.
+DTSTART;VALUE=DATE-TIME:20250125T113000Z
+DTEND;VALUE=DATE-TIME:20250125T130000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2025_6A_16_92_33
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: N04\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge 
+ et Bleu\n\nContact équipe domicile: Demeer D. (0488.99.69.09 - daniel.dem
+ eer@entre-deux.be)\n\nAccès voiture : Chaussée de Louvain jusqu'à Nosse
+ gem\, au premier croisement prendre à gauche la \nMechelsesteenweg. Le te
+ rrain est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liè
+ ge\, prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelse
+ steenweg\, traverser la chaussée de Louvain\, et suivre comme ci-avant.\n
+ \nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.88776559999999;4.50894
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER;CN="Demeer D.";ROLE=Secrétaire:MAILTO:daniel.demeer@entre-deux.
+ be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6A J16: AMB. AUDERGHEM (Eq. 2) vs BRITISH UNITED (Eq. 5)
-DTSTART;VALUE=DATE-TIME:20240127T130000Z
-DTEND;VALUE=DATE-TIME:20240127T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_6A_16_249_132
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
- pale équipe domicile: Blanc rayé de Gris\nCouleur principale équipe ext
- erieure: Bleu\n\nContact équipe domicile: Leclef R. (0473.13.76.27 - rena
- udleclef@hotmail.fr)\n\nAccès voiture : En venant de Bruxelles par la cha
- ussée de Wavre\, rejoindre le du début de l'autoroute Bruxelles-Namur\, 
- utiliser la bande de droite pendant +/- 200 m. et descendre devant le bât
- iment de l'ADEPS\, puis passer par le tunnel à gauche (en dessous de l'au
- toroute). Le terrain se trouve à 200 m. Le stade est fléché.\n\nVérifi
+SUMMARY:ABSSA D6A J16: COSMOS BRUWOLF MJ (Eq. 2) vs FORESTOIS SC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20250125T130000Z
+DTEND;VALUE=DATE-TIME:20250125T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2025_6A_16_338_152
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: M05\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Noir
+ \n\nContact équipe domicile: Dehaut A. (0476.26.26.87 - alain.dehaut@skyn
+ et.be)\n\nAccès voiture : Chaussée de Gand\, avenue M. Ghandi\n\nVérifi
  ez toujours ces infos sur http://www.abssa.be/
+GEO:50.861905;4.3220645
+LOCATION:Sippelberg\, Avenue M. Ghandi\, 1080 Molenbeek\, Belgique
+ORGANIZER;CN="Dehaut A.";ROLE=Secrétaire:MAILTO:alain.dehaut@skynet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J16: AMB. AUDERGHEM (Eq. 2) vs TOURINNOIS FC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20250125T130000Z
+DTEND;VALUE=DATE-TIME:20250125T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2025_6A_16_249_292
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
+ \n\nContact équipe domicile: Leclef R. (0473.13.76.27 - renaudleclef@hotm
+ ail.fr)\n\nAccès voiture : En venant de Bruxelles par la chaussée de Wav
+ re\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la b
+ ande de droite pendant +/- 200 m. et descendre devant le bâtiment de l'AD
+ EPS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le 
+ terrain se trouve à 200 m. Le stade est fléché.\n\nVérifiez toujours c
+ es infos sur http://www.abssa.be/
 GEO:50.8103473;4.443252699999999
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="Leclef R.";ROLE=Secrétaire:MAILTO:renaudleclef@hotmail.fr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6A J16: BRUSSELS BRITISH R (Eq. 5) vs METRASPORT R.
-DTSTART;VALUE=DATE-TIME:20240127T143000Z
-DTEND;VALUE=DATE-TIME:20240127T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_6A_16_1_33
-DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
-  et Bleu\n\nContact équipe domicile: Lachia S. (0484.27.72.64 - abssa-sec
- @rbbfc.org)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosièr
- es. Passer devant l'église\, longer l'autoroute et tourner à droite au c
- imetière des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos s
- ur http://www.abssa.be/
-GEO:50.7282426;4.5537189
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER;CN="Lachia S.";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
+SUMMARY:ABSSA D6A J16: BRUSSELS LTC (Eq. 6) vs BIG JEFKE (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20250125T130000Z
+DTEND;VALUE=DATE-TIME:20250125T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2025_6A_16_39_137
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: No
+ ir\n\nContact équipe domicile: Van Hacht O. (0475.96.43.03 - dannyboffin@
+ hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre le Ring Est
+  direction Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, 
+ Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours 
+ tout droit. Au feu de signalisation et le carrefour de La Hulpe\, tout dro
+ it direction Genval. Au feu de signalisation prendre à gauche et ensuite 
+ directement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se t
+ rouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.7308998;4.4944678
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:dannyboffin@hotmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J16: GAST FC (Eq. 2) vs BRUSSELS BRITISH R (Eq. 5)
+DTSTART;VALUE=DATE-TIME:20250125T143000Z
+DTEND;VALUE=DATE-TIME:20250125T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2025_6A_16_388_1
+DESCRIPTION:Terrain synthétique: non\nCode terrain: D01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Clais D. (0476.99.88.10 - davidclais@hotmail.
+ com)\n\nAccès voiture : Prendre l'Autoroute ou le ring Bruxelles-Mons-Par
+ is\, sortie Drogenbos. Prendre direction Drogenbos-Centre\, passer devant 
+ la Maison Communale et le terminus du tram\, ensuite à la 3ème rue tourn
+ er à main droite (Le terrain se trouve au bout de la rue au Bois).\n\nVé
+ rifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.7815061;4.3192196
+LOCATION:Stade Communal de Drogenbos\, Rue au Bois\, 1620 Drogenbos\, Belg
+ ique
+ORGANIZER;CN="Clais D.";ROLE=Secrétaire:MAILTO:davidclais@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D6A J16: AUDERGHEM RU vs IRLANDE FC (Eq. 5)
-DTSTART;VALUE=DATE-TIME:20240127T143000Z
-DTEND;VALUE=DATE-TIME:20240127T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_6A_16_376_402
+DTSTART;VALUE=DATE-TIME:20250125T143000Z
+DTEND;VALUE=DATE-TIME:20250125T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2025_6A_16_376_402
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Vert\
  n\nContact équipe domicile: Van Eycke R. (0479.27.27.46 - rvaneycke@biac.
@@ -80,48 +119,5 @@ LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="Van Eycke R.";ROLE=Secrétaire:MAILTO:rvaneycke@biac.skynet.
  be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6A J16: COIN DU BALAI FC (Eq. 2) vs GAST FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20240127T143000Z
-DTEND;VALUE=DATE-TIME:20240127T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_6A_16_229_388
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
- pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
-  Noir\n\nContact équipe domicile: Rosenfeld J. (0485.05.40.06 - rosenfeld
- jean@hotmail.com)\n\nAccès voiture : A partir du square des Archiducs\, p
- rendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez tou
- jours ces infos sur http://www.abssa.be/
-GEO:50.8059082;4.4137428
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER;CN="Rosenfeld J.";ROLE=Secrétaire:MAILTO:rosenfeldjean@hotmail.
- com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6A J16: JEFKE COUNTRY (Eq. 2) vs FORESTOIS SC (Eq. 4)
-DTSTART;VALUE=DATE-TIME:20240127T143000Z
-DTEND;VALUE=DATE-TIME:20240127T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_6A_16_423_152
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: T07\n\nCouleur princi
- pale équipe domicile: Noir et blanc\nCouleur principale équipe exterieur
- e: Noir\n\nContact équipe domicile: Mad. Kadycz C. (0477.67.18.80 - carol
- ejefke@gmail.com)\n\nAccès voiture : Aux quatre-Bras\, prendre direction 
- Tervuren via l’avenue de Tervuren(N3) pendant 750M\nAu rond-point\, pren
- dre la 1ère sortie et continuer sur l’avenue de Tervuren pendant 1\,2km
-  puis prendre à droite sur la chaussée de Bruxelles pendant 500m. Ensuit
- e Prendre légèrement sur la droite dans la Wijngaardstraat pendant 400m 
- et tourner à gauche dans la Pepperstraat pendant 400m. Ensuite tourner à
-  droite sur la chaussée de Duisburg et rouler pendant 1\,4 km... Continue
- r tout droit sur la chaussée de Tervuren pendant 1\,3 km et prendre à ga
- uche dans la rue de destination ( Schonenboomstraat).\nLe terrain se situe
-  sur la droite de la route!\n\nVérifiez toujours ces infos sur http://www
- .abssa.be/
-GEO:50.8107232;4.5492332
-LOCATION:Schonenboormstraat\, 3080 Tervuren\, Belgique
-ORGANIZER;CN="Mad. Kadycz C.";ROLE=Secrétaire:MAILTO:carolejefke@gmail.co
- m
 END:VEVENT
 END:VCALENDAR

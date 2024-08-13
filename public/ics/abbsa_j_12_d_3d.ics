@@ -4,71 +4,71 @@ PRODID:abbsa_j_12_d_3d
 X-WR-CALDESC:Les matches de la journée 12 en divion 3D d'ABSSA.
 X-WR-CALNAME:D3D Journée 12
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J12: NO BOYS vs BOUKS  FC
-DTSTART;VALUE=DATE-TIME:20231125T113000Z
-DTEND;VALUE=DATE-TIME:20231125T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_3D_12_420_579
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
- pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Bleu\
- n\nContact équipe domicile: Deby P. (0479.94.64.38 - pierredeby@gmail.com
- )\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 300 m. en dire
- ction de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\, car
- refour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo Lamb
- ert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en direction de Len
- nik.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.8177358;4.2557195
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER;CN="Deby P.";ROLE=Secrétaire:MAILTO:pierredeby@gmail.com
+SUMMARY:ABSSA D3D J12: PICARDIE AS vs FORESTOISE E.J.
+DTSTART;VALUE=DATE-TIME:20241123T123000Z
+DTEND;VALUE=DATE-TIME:20241123T140000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2024_3D_12_63_623
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu C
+ iel\n\nContact équipe domicile: Coopmans R. (0474.42.47.29 - coopmans_rol
+ and@yahoo.fr)\n\nAccès voiture : En venant de Bruxelles\, emprunter la ch
+ aussée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit c
+ arrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chaussé
+ e\, au deuxième feu de signalisation\, prendre à droite\, le terrain se 
+ trouve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur http
+ ://www.abssa.be/
+GEO:50.6827211;4.3844421
+LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud\, Belgique
+ORGANIZER;CN="Coopmans R.";ROLE=Secrétaire:MAILTO:coopmans_roland@yahoo.f
+ r
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J12: NEW ARQUOIS FC (Eq. 2) vs IRLANDE FC (Eq. 4)
-DTSTART;VALUE=DATE-TIME:20231125T113000Z
-DTEND;VALUE=DATE-TIME:20231125T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_3D_12_263_402
-DESCRIPTION:Terrain synthétique: non\nCode terrain: A12\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Vert\n
- \nContact équipe domicile: Beka J-M. (0495.25.31.25 - jmbeka73@gmail.com)
- \n\nAccès voiture : Autoroute E 19 (Bruxelles-Charleroi)\, sortie Arquenn
- es. Direction Seneffe-La-Louvière. A la station d'essence Total\, prendre
-  à droite pendant +/- 700 mètres.\nAu rond point\, prendre à droite en 
- direction du château de La Rocq\, passez sous le pont\, le terrain se tro
- uve à 100 mètres (à proximité du cimetière).\n\nVérifiez toujours ce
- s infos sur http://www.abssa.be/
-GEO:50.5690988;4.2677281
-LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion\, 7181 Arquennes\, B
- elgique
-ORGANIZER;CN="Beka J-M.";ROLE=Secrétaire:MAILTO:jmbeka73@gmail.com
+SUMMARY:ABSSA D3D J12: GERMINAL CSA vs ETTEKIJS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20241123T130000Z
+DTEND;VALUE=DATE-TIME:20241123T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2024_3D_12_235_343
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E07\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Noir r
+ ayé de blanc\n\nContact équipe domicile: Naniot M. (0477.47.14.56 - m.na
+ niot@skynet.be)\n\nAccès voiture : Boulevard Lambermont\, prendre le boul
+ evard Léopold III\, direction aéroport de Bruxelles-National\, au 3ème 
+ feu de signalisation prendre à droite. le terrain se trouve à 50 m.\n\nV
+ érifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8691994;4.406709999999999
+LOCATION:Complexe Sportif Evere\, Avenue des Anciens Combattants 300\, 114
+ 0 Evere\, Belgique
+ORGANIZER;CN="Naniot M.";ROLE=Secrétaire:MAILTO:m.naniot@skynet.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J12: COLO-COLO UNITED vs NEW INN FC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20231125T113000Z
-DTEND;VALUE=DATE-TIME:20231125T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_3D_12_625_359
+SUMMARY:ABSSA D3D J12: NEW INN FC (Eq. 3) vs PATJES FC
+DTSTART;VALUE=DATE-TIME:20241123T130000Z
+DTEND;VALUE=DATE-TIME:20241123T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2024_3D_12_359_582
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
- pale équipe domicile: Bleu foncé et blanc\nCouleur principale équipe ex
- terieure: Noir et rouge\n\nContact équipe domicile: De Le Court Y. (0472.
- 35.25.20 - youdelecourt@gmail.com)\n\nAccès voiture : Au départ de la Pl
- ace Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraain
- em (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anciens Combat
- tants. Juste après le carrefour avec des feux de signalisation prendre à
-  droite vers la Place de la Chapelle\, puis prendre la 4ème rue à main d
- roite (rue au Bois). Le terrain se trouve à 300 m. sur la droite.\n\nVér
- ifiez toujours ces infos sur http://www.abssa.be/
+ pale équipe domicile: Noir et Jaune\nCouleur principale équipe exterieur
+ e: Rouge et blanc.\n\nContact équipe domicile: Van Brabant V (0474.60.68.
+ 96 - vanbrabant.v@gmail.com)\n\nAccès voiture : Au départ de la Place Me
+ iser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n
+ ° 2). Sous le viaduc prendre à droite\, l'avenue des Anciens Combattants
+ . Juste après le carrefour avec des feux de signalisation prendre à droi
+ te vers la Place de la Chapelle\, puis prendre la 4ème rue à main droite
+  (rue au Bois). Le terrain se trouve à 300 m. sur la droite.\n\nVérifiez
+  toujours ces infos sur http://www.abssa.be/
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER;CN="De Le Court Y.";ROLE=Secrétaire:MAILTO:youdelecourt@gmail.c
- om
+ORGANIZER;CN="Van Brabant V";ROLE=Secrétaire:MAILTO:vanbrabant.v@gmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J12: RAPID MYMOL vs SAINT GEORGES RCS (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20231125T130000Z
-DTEND;VALUE=DATE-TIME:20231125T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_3D_12_622_221
+SUMMARY:ABSSA D3D J12: RAPID MYMOL vs CURTIS L'AUSELE
+DTSTART;VALUE=DATE-TIME:20241123T130000Z
+DTEND;VALUE=DATE-TIME:20241123T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2024_3D_12_622_599
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W19\n\nCouleur princi
  pale équipe domicile: Bleu et Jaune\nCouleur principale équipe exterieur
  e: Blanc\n\nContact équipe domicile: Delanghe A. (0498.42.21.39 - rapidmy
@@ -88,65 +88,78 @@ ORGANIZER;CN="Delanghe A.";ROLE=Secrétaire:MAILTO:rapidmymolabssa@gmail.c
  om
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J12: COPAINS REUNIS vs MACCABI BXL
-DTSTART;VALUE=DATE-TIME:20231125T143000Z
-DTEND;VALUE=DATE-TIME:20231125T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_3D_12_49_634
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
- pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
-  Bleu\n\nContact équipe domicile: Vandermeulen J. (0477.50.45.95 - meulen
- j@hotmail.com)\n\nAccès voiture : En venant de la Route de Lennik (Citro
- ën) ou de la Chaussée de Mons (Ikea)\, prendre la direction du cimetièr
- e d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-point pren
- dre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du c
- omplexe et des terrains se situe à +/- 500 m. sur la gauche.\n\nVérifiez
-  toujours ces infos sur http://www.abssa.be/
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER;CN="Vandermeulen J.";ROLE=Secrétaire:MAILTO:meulenj@hotmail.com
+SUMMARY:ABSSA D3D J12: MIDI AS vs SYB  RFC
+DTSTART;VALUE=DATE-TIME:20241123T143000Z
+DTEND;VALUE=DATE-TIME:20241123T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2024_3D_12_169_48
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rayé
+  Vert et blanc\n\nContact équipe domicile: Cantiniau J-C. (0479.84.17.35 
+ - standardmidi@hotmail.com)\n\nAccès voiture : En venant de Bruxelles\, e
+ mprunter la chaussée de Bruxelles ou de Waterloo jusqu'au magasin "Carref
+ our". Au dit carrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur 
+ cette chaussée\, au deuxième feu de signalisation\, prendre à droite\, 
+ le terrain se trouve à 500 m. et est fléché.\n\nVérifiez toujours ces 
+ infos sur http://www.abssa.be/
+GEO:50.6827211;4.3844421
+LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud\, Belgique
+ORGANIZER;CN="Cantiniau J-C.";ROLE=Secrétaire:MAILTO:standardmidi@hotmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J12: CELTIC ROOSTERS vs CHENOIS SC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20231125T143000Z
-DTEND;VALUE=DATE-TIME:20231125T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_3D_12_626_84
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
- pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
- e: Rouge\n\nContact équipe domicile: Dubois S. (0479.04.13.70 - celticroo
- sters@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Namur / Lux
- embourg\, prendre la sortie n° 6 Wavre\, à gauche N 238 direction Wavre.
-  Au rond-	point 2ième sortie N238/Blvd. de l'Europe direction Wavre Centr
- e. Entrer dans Wavre puis à gauche N 238\, à gauche N 239. 	Au rond-poin
- t prendre la première sortie Rue Haute\, continuer sur rue de Bruxelles\,
-  continuer sur rue Saint-Roch\, continuer 	sur rue Joseph Joppart. Prendre
-  à droite l'avenue du Centre Sportif.\n\nVérifiez toujours ces infos sur
-  http://www.abssa.be/
-GEO:50.7216297;4.6192566
-LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
-  Belgique
-ORGANIZER;CN="Dubois S.";ROLE=Secrétaire:MAILTO:celticroosters@gmail.com
+SUMMARY:ABSSA D3D J12: TRICOTEUSES FC. vs VOGELPIK FC.
+DTSTART;VALUE=DATE-TIME:20241123T143000Z
+DTEND;VALUE=DATE-TIME:20241123T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2024_3D_12_617_629
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W19\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Ro
+ uge et noir\n\nContact équipe domicile: Van Roey P. (0475.68.28.41 - pier
+ rickvr4@gmail.com)\n\nAccès voiture : Ring de Bruxelles (RO)\, sortie n°
+  2. Prendre la direction Wezembeek-Oppem. Ensuite première rue à droite 
+ (Louis Marcelisstraat) puis la troisième à droite (Sportpleinstraat).\nL
+ 'entrée au terrain se trouve à gauche entre les n° 16 et 24.\nPar la vi
+ lle : A partir du rond point Montgomery\, prendre l'Avenue de Broqueville\
+ , toujours tout droit. Passez devant le Shopping de Woluwé\, toujours tou
+ t droit\, passez devant le magasin "Carrefour"\, puis au 2ème feu de sign
+ alisation prendre à droite et ensuite tout droit. Au bout de la rue prend
+ re à droite\, le terrain se trouve à 100 mètres  sur la gauche.\n\nVér
+ ifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8424578;4.486587999999999
+LOCATION:Sportpleinstraat 20\, 1970 Wezembeek - Oppem\, Belgique
+ORGANIZER;CN="Van Roey P.";ROLE=Secrétaire:MAILTO:pierrickvr4@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J12: SYB  RFC vs ETTEKIJS (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20231125T143000Z
-DTEND;VALUE=DATE-TIME:20231125T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_3D_12_48_343
-DESCRIPTION:Terrain synthétique: non\nCode terrain: A09\n\nCouleur princi
- pale équipe domicile: Rayé Vert et blanc\nCouleur principale équipe ext
- erieure: Noir rayé de blanc\n\nContact équipe domicile: Joie C (0496.87.
- 21.50 - christophe.joie@hotmail.com)\n\nAccès voiture : En venant de la R
- oute de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre la d
- irection du cimetière d'Anderlecht\, emprunter le Boulevard Josse Leemans
- \, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (Vogelen
- zang). L'entrée du complexe et des terrains se situe à +/- 500 m. sur la
-  gauche.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER;CN="Joie C";ROLE=Secrétaire:MAILTO:christophe.joie@hotmail.com
+SUMMARY:ABSSA D3D J12: RHINOCEROS vs IRLANDE FC (Eq. 4)
+DTSTART;VALUE=DATE-TIME:20241123T143000Z
+DTEND;VALUE=DATE-TIME:20241123T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2024_3D_12_654_402
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Vert\
+ n\nContact équipe domicile: Watteyne R. (0498.16.13.01 - robin@watteyne.c
+ om)\n\nAccès voiture : En venant de Bruxelles\, prendre l'autoroute E411 
+ en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir la droite
+  et au bout de la bretelle\, prendre la direction d'Ottignies par la N238.
+  Au 1èr feu de signalisation continuer tout droit en passant devant Walib
+ i (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au bout de c
+ ette sortie\, en face du Tennis Club La Palestre\, prendre à droite la ru
+ e Charles Dubois\, jusqu'au carrefour principal. Continuer tout droit en t
+ raversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du chemin d
+ e fer et prendre la rue de l'Europe jusqu'à la place de l'Europe. Travers
+ er cette place par la droite. Au bout à gauche\, suivre l'avenue Jassans.
+  Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limelette). Co
+ ntinuer cette rue et passer en dessous du 2ème pont du chemin de fer. Apr
+ ès ce pont\, prendre tout de suite à gauche l'avenue Demolder (panneau F
+ .C. Limelette)\, en face de l'étang du Buston. Suivre cette avenue jusqu'
+ à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m. dans cet
+ te rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C. Limelett
+ e). L'entrée du terrain est située 50 m. plus bas sur la gauche.\n\nVér
+ ifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.67628029999999;4.562802
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Watteyne R.";ROLE=Secrétaire:MAILTO:robin@watteyne.com
 END:VEVENT
 END:VCALENDAR

@@ -4,76 +4,40 @@ PRODID:abbsa_j_19_d_2b
 X-WR-CALDESC:Les matches de la journée 19 en divion 2B d'ABSSA.
 X-WR-CALNAME:D2B Journée 19
 BEGIN:VEVENT
-SUMMARY:ABSSA D2B J19: BRITISH UNITED (Eq. 2) vs TOURINNOIS FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20240217T100000Z
-DTEND;VALUE=DATE-TIME:20240217T113000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115303Z
-UID:2024_2B_19_132_292
-DESCRIPTION:Terrain synthétique: non\nCode terrain: M02\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge\
- n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gillesvander
- seypen@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Anvers (E19) sor
- tie Mechelen-Noord (n° 9) En arrivant dans le centre\, suivre la directio
- n "Heist-op-den-Berg" Aller tout droit et passer le viaduc du chemin de fe
- r. Après 1 km. suivre les flèches "De Nekker". Garer les voitures à l'e
- xtérieur du complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terra
- in.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
-GEO:51.0254354;4.503786799999999
-LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
- ue
-ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
- gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2B J19: GOALOIS vs LA LORRAINE-MTM.R
-DTSTART;VALUE=DATE-TIME:20240217T113000Z
-DTEND;VALUE=DATE-TIME:20240217T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115303Z
-UID:2024_2B_19_345_44
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Bordeaux-Bleu\nCouleur principale équipe exterieur
- e: Bordeaux/bleu\n\nContact équipe domicile: Laruelle M. (0494.52.09.71 -
-  martin.laruelle@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, p
- rendre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (ter
- minus bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez 
- toujours ces infos sur http://www.abssa.be/
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="Laruelle M.";ROLE=Secrétaire:MAILTO:martin.laruelle@gmail.c
+SUMMARY:ABSSA D2B J19: COLO-COLO UNITED vs LA LORRAINE-MTM.R
+DTSTART;VALUE=DATE-TIME:20250215T113000Z
+DTEND;VALUE=DATE-TIME:20250215T130000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2025_2B_19_625_44
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Bleu foncé et blanc\nCouleur principale équipe ex
+ terieure: Bordeaux/bleu\n\nContact équipe domicile: De Le Court Y. (0472.
+ 35.25.20 - youdelecourt@gmail.com)\n\nAccès voiture : Au départ de la Pl
+ ace Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraain
+ em (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anciens Combat
+ tants. Juste après le carrefour avec des feux de signalisation prendre à
+  droite vers la Place de la Chapelle\, puis prendre la 4ème rue à main d
+ roite (rue au Bois). Le terrain se trouve à 300 m. sur la droite.\n\nVér
+ ifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="De Le Court Y.";ROLE=Secrétaire:MAILTO:youdelecourt@gmail.c
  om
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2B J19: BRUSSELS BRITISH R (Eq. 3) vs BESACE RFC
-DTSTART;VALUE=DATE-TIME:20240217T113000Z
-DTEND;VALUE=DATE-TIME:20240217T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115303Z
-UID:2024_2B_19_1_24
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
- n\nContact équipe domicile: Lachia S. (0484.27.72.64 - abssa-sec@rbbfc.or
- g)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Passe
- r devant l'église\, longer l'autoroute et tourner à droite au cimetière
-  des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur http:/
- /www.abssa.be/
-GEO:50.7282426;4.5537189
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER;CN="Lachia S.";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2B J19: AZUR RCS (Eq. 2) vs BOUSVAL GENAPPE
-DTSTART;VALUE=DATE-TIME:20240217T123000Z
-DTEND;VALUE=DATE-TIME:20240217T140000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115303Z
-UID:2024_2B_19_109_401
+SUMMARY:ABSSA D2B J19: AZUR RCS (Eq. 2) vs ITT - GECKO FC
+DTSTART;VALUE=DATE-TIME:20250215T123000Z
+DTEND;VALUE=DATE-TIME:20250215T140000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2025_2B_19_109_92
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W12\n\nCouleur princi
- pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: N
- oir\n\nContact équipe domicile: Mad. Decamps N. (0477.27.39.66 - nathalie
- _decamps@hotmail.com)\n\nAccès voiture : Avenue de Tervuren\, direction T
- ervuren. Passé le boulevard du Souverain prendre à gauche au premier feu
-  de signalisation (Av. Madoux). Au feu de signalisation suivant prendre la
-  2ème rue à main droite (Av. J. Dujardin). Ensuite 1ère rue à gauche (
- Av. Salomé).\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Mad. Decamps N. (0477.27.39.66 - nathalie_deca
+ mps@hotmail.com)\n\nAccès voiture : Avenue de Tervuren\, direction Tervur
+ en. Passé le boulevard du Souverain prendre à gauche au premier feu de s
+ ignalisation (Av. Madoux). Au feu de signalisation suivant prendre la 2èm
+ e rue à main droite (Av. J. Dujardin). Ensuite 1ère rue à gauche (Av. S
+ alomé).\n\nVérifiez toujours ces infos sur http://www.abssa.be/
 GEO:50.830818;4.455442
 LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
  elgique
@@ -81,31 +45,11 @@ ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
  tmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2B J19: FORESTOIS SC vs SCHEUT FC
-DTSTART;VALUE=DATE-TIME:20240217T130000Z
-DTEND;VALUE=DATE-TIME:20240217T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115303Z
-UID:2024_2B_19_152_274
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Gris e
- t Noir\n\nContact équipe domicile: Janssens P. (0479.95.08.14 - patj.scf@
- gmail.com)\n\nAccès voiture : Au départ de la Place St. Denis à Forest 
- prendre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème ru
- e à droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à
-  gauche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entré
- e du Complexe se trouve à hauteur de City Cart\, à gauche de la route.\n
- \nVérifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2B J19: ETINCELLE FC vs ENGHIEN AMICAL
-DTSTART;VALUE=DATE-TIME:20240217T130000Z
-DTEND;VALUE=DATE-TIME:20240217T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115303Z
-UID:2024_2B_19_35_31
+SUMMARY:ABSSA D2B J19: ETINCELLE FC vs REQUINS (LES)
+DTSTART;VALUE=DATE-TIME:20250215T130000Z
+DTEND;VALUE=DATE-TIME:20250215T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2025_2B_19_35_556
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
  pale équipe domicile: Jaune et bleu\nCouleur principale équipe exterieur
  e: Noir\n\nContact équipe domicile: Kremer N (0471.37.59.81 - nicolas.kre
@@ -120,21 +64,81 @@ LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
 ORGANIZER;CN="Kremer N";ROLE=Secrétaire:MAILTO:nicolas.kremer@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2B J19: BIG J - ASPS vs RAPID TAMTAM FC.
-DTSTART;VALUE=DATE-TIME:20240217T143000Z
-DTEND;VALUE=DATE-TIME:20240217T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115303Z
-UID:2024_2B_19_137_600
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Jaune 
- et rose\n\nContact équipe domicile: Pierard J. (0478.77.84.07 - pierard.j
- @hotmail.com)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\,
-  vers Neder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au
-  rond-point\, tout droit Chemin Vert\, puis première à gauche\, Petit Ch
- emin Vert\, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://w
- ww.abssa.be/
-GEO:50.89983369999999;4.3936101
-LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
-ORGANIZER;CN="Pierard J.";ROLE=Secrétaire:MAILTO:pierard.j@hotmail.com
+SUMMARY:ABSSA D2B J19: ENGHIEN AMICAL vs GOALOIS
+DTSTART;VALUE=DATE-TIME:20250215T140000Z
+DTEND;VALUE=DATE-TIME:20250215T153000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2025_2B_19_31_345
+DESCRIPTION:Terrain synthétique: non\nCode terrain: E02\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bordea
+ ux-Bleu\n\nContact équipe domicile: Vanderplasschen E. (0475.87.45.71 - e
+ .vdps.ev@gmail.com)\n\nAccès voiture : Prendre la E429 (Lille-Tournai-Ath
+ ) à hauteur de Halle. Prendre la sortie Petit-Enghien-Hoves (25)\, prendr
+ e à droite\, direction  Petit-Enghien. Au bout de la route prendre à gau
+ che\, direction Enghien. Arrivé à Enghien\, prendre la 2ème rue à gauc
+ he\, suivre le panneau "Auberge du Vieux Cèdre".\n\nVérifiez toujours ce
+ s infos sur http://www.abssa.be/
+GEO:50.6941114;4.043485
+LOCATION:R. Enghien Sport (Parc)\, Rue Saint Quentin\, 7850 Enghien\, Belg
+ ique
+ORGANIZER;CN="Vanderplasschen E.";ROLE=Secrétaire:MAILTO:e.vdps.ev@gmail.
+ com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2B J19: SANGLIERS BFN vs TOURINNOIS FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20250215T141500Z
+DTEND;VALUE=DATE-TIME:20250215T154500Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2025_2B_19_514_292
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: G04\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Rouge\
+ n\nContact équipe domicile: Vanhamme J. (0474.56.81.54 - jerome.vanhamme@
+ hotmail.com)\n\nAccès voiture : Autoroute Bruxelles-Namur (E411) prendre 
+ la sortie Louvain/Grez-Doiceau (n° 8). Prendre la RN25 en direction de Lo
+ uvain/Grez-Doiceau. Passer tout droit les deux premiers ronds-points à l'
+ issue de la RN 25. Au troisième rond-point prendre à droite. Le terrain 
+ se trouve 150 m. plus loin à gauche de la rue du Stampia.\n\nVérifiez to
+ ujours ces infos sur http://www.abssa.be/
+GEO:50.744789;4.6969702
+LOCATION:Rue du Stampia\, 1390 Grez-Doiceau\, Belgique
+ORGANIZER;CN="Vanhamme J.";ROLE=Secrétaire:MAILTO:jerome.vanhamme@hotmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2B J19: PRESS (AMICALE) vs PHARMA SC
+DTSTART;VALUE=DATE-TIME:20250215T143000Z
+DTEND;VALUE=DATE-TIME:20250215T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2025_2B_19_30_268
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: M07\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Timperman E. (0468.41.16.68 - eric.timperman@
+ skynet.be)\n\nAccès voiture : Ring de Bruxelles (RO)\, sortie Jette-Wemme
+ l (n° 9)\, direction Merchtem. A Brussegem au carrefour Asse-Wolvertem\, 
+ prendre direction Asse. Après l'église\, prendre la 1ère à main droite
+  (direction Mollem). Après 2 km. prendre la Kouterstraat qui se trouve ju
+ ste en face de l'église.\n\nVérifiez toujours ces infos sur http://www.a
+ bssa.be/
+GEO:50.9278393;4.2227906
+LOCATION:Kouter 29\, 1730 Mollem\, Belgique
+ORGANIZER;CN="Timperman E.";ROLE=Secrétaire:MAILTO:eric.timperman@skynet.
+ be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2B J19: BRUSSELS BRITISH R (Eq. 3) vs STER'S
+DTSTART;VALUE=DATE-TIME:20250215T143000Z
+DTEND;VALUE=DATE-TIME:20250215T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2025_2B_19_1_598
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Vert 
+ et Blanc\n\nContact équipe domicile: O'Connor G (0456.54.46.67 - abssa-se
+ c@rbbfc.org)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosiè
+ res. Passer devant l'église\, longer l'autoroute et tourner à droite au 
+ cimetière des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos 
+ sur http://www.abssa.be/
+GEO:50.7282426;4.5537189
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="O'Connor G";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
 END:VEVENT
 END:VCALENDAR

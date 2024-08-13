@@ -4,389 +4,31 @@ PRODID:562_1_central_park_fc
 X-WR-CALDESC:Les matches du club CENTRAL PARK FC (equipe 1) en ABSSA.
 X-WR-CALNAME:ABSSA: CENTRAL PARK FC (eq. 1)
 BEGIN:VEVENT
-SUMMARY:ABSSA D3A J10: CENTRAL PARK FC vs TAURO FC
-DTSTART;VALUE=DATE-TIME:20230902T133000Z
-DTEND;VALUE=DATE-TIME:20230902T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3A_10_562_574
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Bleu et Blanc\nCouleur principale équipe exterieur
- e: Noir\n\nContact équipe domicile: Genot F. (0473.57.28.61 - genotfloria
- n@hotmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue
-  Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28)
- . Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ces 
- infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/5
- 62_1_central_park_fc
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
+SUMMARY:ABSSA D3C J23: GAST FC vs CENTRAL PARK FC
+DTSTART;VALUE=DATE-TIME:20240831T114500Z
+DTEND;VALUE=DATE-TIME:20240831T131500Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_3C_23_388_562
+DESCRIPTION:Terrain synthétique: non\nCode terrain: D01\n\nCouleur princi
+ pale équipe domicile: Ligné Jaune et bleu\nCouleur principale équipe ex
+ terieure: Bleu et Blanc\n\nContact équipe domicile: Clais D. (0476.99.88.
+ 10 - davidclais@hotmail.com)\n\nAccès voiture : Prendre l'Autoroute ou le
+  ring Bruxelles-Mons-Paris\, sortie Drogenbos. Prendre direction Drogenbos
+ -Centre\, passer devant la Maison Communale et le terminus du tram\, ensui
+ te à la 3ème rue tourner à main droite (Le terrain se trouve au bout de
+  la rue au Bois).\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+ \nVoir sur calabssa: https://calabssa.be/c/562_1_central_park_fc
+GEO:50.7815061;4.3192196
+LOCATION:Stade Communal de Drogenbos\, Rue au Bois\, 1620 Drogenbos\, Belg
+ ique
+ORGANIZER;CN="Clais D.";ROLE=Secrétaire:MAILTO:davidclais@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3A J1: CENTRAL PARK FC vs NEW INN FC
-DTSTART;VALUE=DATE-TIME:20230909T133000Z
-DTEND;VALUE=DATE-TIME:20230909T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3A_1_562_359
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Bleu et Blanc\nCouleur principale équipe exterieur
- e: Blanc\n\nContact équipe domicile: Genot F. (0473.57.28.61 - genotflori
- an@hotmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la ru
- e Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28
- ). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ces
-  infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/
- 562_1_central_park_fc
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J2: TRINQUANT vs CENTRAL PARK FC
-DTSTART;VALUE=DATE-TIME:20230916T103000Z
-DTEND;VALUE=DATE-TIME:20230916T120000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3A_2_445_562
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
- pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
-  Bleu et Blanc\n\nContact équipe domicile: Bernard J-M. (0476.66.08.14 - 
- jmbernard.trinquant@yahoo.fr)\n\nAccès voiture : Venant de Bruxelles\, pr
- endre le Ring Est direction Waterloo. Sortir au pont de Groenendael\, dire
- ction La Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La 
- Hulpe\, toujours tout droit. Au feu de signalisation et le carrefour de La
-  Hulpe\, tout droit direction Genval. Au feu de signalisation prendre à g
- auche et ensuite directement à droite\, l'avenue Soyer\, derrière le G.B
- . Le terrain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http:
- //www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/562_1_central_pa
- rk_fc
-GEO:50.7309318;4.4945865
-LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER;CN="Bernard J-M.";ROLE=Secrétaire:MAILTO:jmbernard.trinquant@ya
- hoo.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J3: CENTRAL PARK FC vs VOLLENBACK FC
-DTSTART;VALUE=DATE-TIME:20230923T133000Z
-DTEND;VALUE=DATE-TIME:20230923T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3A_3_562_589
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Bleu et Blanc\nCouleur principale équipe exterieur
- e: Rose et noir\n\nContact équipe domicile: Genot F. (0473.57.28.61 - gen
- otflorian@hotmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendr
- e la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus
-  bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujo
- urs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabss
- a.be/c/562_1_central_park_fc
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J4: FRANGINOS (LOS) vs CENTRAL PARK FC
-DTSTART;VALUE=DATE-TIME:20230930T130000Z
-DTEND;VALUE=DATE-TIME:20230930T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3A_4_647_562
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: P02\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
- et Blanc\n\nContact équipe domicile: Gerard S. (0487.22.81.20 - simongera
- rd@hotmail.be)\n\nAccès voiture : a Partir de Bruxelles\, Prendre la E 41
- 1 en Direction de Namur. Prendre la Sortie 11  Gembloux pour Rejoindre la 
- N 29 en Direction de Gembloux / Tirlement / Jodoigne / Perwez. suivre la N
- 29 et Chaussée de Wavre (N243) en Direction de la Rue des Marronniers. au
-  Rond-Point 1\, 2 et 3 Prendre chaque Fois la première Sortie.\nAu Rond-P
- oint suivant (4Ième) Prendre la deuxième Sortie et Continuer sur la Chau
- ssée de Wavre / N 243. Prendre à Droite sur la Rue des Marronniers\, le 
- Terrain se Trouve à Droite\n\nVérifiez toujours ces infos sur http://www
- .abssa.be/\nVoir sur calabssa: https://calabssa.be/c/562_1_central_park_fc
-GEO:50.6251834;4.8051205
-LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
-ORGANIZER;CN="Gerard S.";ROLE=Secrétaire:MAILTO:simongerard@hotmail.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J5: CENTRAL PARK FC vs CURTIS L'AUSELE
-DTSTART;VALUE=DATE-TIME:20231007T133000Z
-DTEND;VALUE=DATE-TIME:20231007T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3A_5_562_599
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Bleu et Blanc\nCouleur principale équipe exterieur
- e: Bleu marine\n\nContact équipe domicile: Genot F. (0473.57.28.61 - geno
- tflorian@hotmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre
-  la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus 
- bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujou
- rs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa
- .be/c/562_1_central_park_fc
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J6: LA LORRAINE-MTM.R (Eq. 2) vs CENTRAL PARK FC
-DTSTART;VALUE=DATE-TIME:20231014T103000Z
-DTEND;VALUE=DATE-TIME:20231014T120000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3A_6_44_562
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu e
- t Blanc\n\nContact équipe domicile: Degimbe M. (0478.53.63.56 - lalorrain
- efc@gmail.com)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosi
- ères. Passer devant l'église\, longer l'autoroute et tourner à droite a
- u cimetière des animaux. Terrain à 200 m.\n\nVérifiez toujours ces info
- s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/562_1
- _central_park_fc
-GEO:50.7282426;4.5537189
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER;CN="Degimbe M.";ROLE=Secrétaire:MAILTO:lalorrainefc@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J8: CENTRAL PARK FC vs CHARLES-QUINT FC
-DTSTART;VALUE=DATE-TIME:20231021T133000Z
-DTEND;VALUE=DATE-TIME:20231021T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3A_8_562_499
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Bleu et Blanc\nCouleur principale équipe exterieur
- e: Bleu marine\n\nContact équipe domicile: Genot F. (0473.57.28.61 - geno
- tflorian@hotmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre
-  la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus 
- bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujou
- rs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa
- .be/c/562_1_central_park_fc
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J24: CENTRAL PARK FC vs MOON SHOOTERS
-DTSTART;VALUE=DATE-TIME:20231028T133000Z
-DTEND;VALUE=DATE-TIME:20231028T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3A_24_562_606
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Bleu et Blanc\nCouleur principale équipe exterieur
- e: Jaune\n\nContact équipe domicile: Genot F. (0473.57.28.61 - genotflori
- an@hotmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la ru
- e Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28
- ). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ces
-  infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/
- 562_1_central_park_fc
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J7: BXL ALLIANCE JETTE vs CENTRAL PARK FC
-DTSTART;VALUE=DATE-TIME:20231104T130000Z
-DTEND;VALUE=DATE-TIME:20231104T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3A_7_566_562
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Bleu e
- t Blanc\n\nContact équipe domicile: Zaleski S. (0473.34.57.81 - zal.stan@
- hotmail.com)\n\nAccès voiture : Direction cimetière de Jette\, ensuite p
- rendre la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J
- .J. Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces infos
-  sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/562_1_
- central_park_fc
-GEO:50.8907643;4.3211209
-LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
- Belgique
-ORGANIZER;CN="Zaleski S.";ROLE=Secrétaire:MAILTO:zal.stan@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J9: UNION TIGERS vs CENTRAL PARK FC
-DTSTART;VALUE=DATE-TIME:20231118T113000Z
-DTEND;VALUE=DATE-TIME:20231118T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3A_9_649_562
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A01\n\nCouleur princi
- pale équipe domicile: Bleu ciel et Blanc\nCouleur principale équipe exte
- rieure: Bleu et Blanc\n\nContact équipe domicile: Thibaut L (0472.52.93.4
- 5 - union.tigers@hotmail.com)\n\nAccès voiture : Par le Ring Ouest\, dire
- ction Paris\, sortie Westland Shopping Center (n° 14) continuer tout droi
- t\, remonter vers le Ring et prendre à droite pour sortir vers Itterbeek.
-  Prendre l'avenue d'Itterbeek au parc d'Anderlecht\, passer le ring\, rest
- e 2 km. Le terrain se trouve à gauche\, entre l'école Van Belle et Veewe
- yde.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur ca
- labssa: https://calabssa.be/c/562_1_central_park_fc
-GEO:50.8354396;4.2768611
-LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
-ORGANIZER;CN="Thibaut L";ROLE=Secrétaire:MAILTO:union.tigers@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J12: CENTRAL PARK FC vs FOSSIS (LES) CS
-DTSTART;VALUE=DATE-TIME:20231125T143000Z
-DTEND;VALUE=DATE-TIME:20231125T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3A_12_562_217
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Bleu et Blanc\nCouleur principale équipe exterieur
- e: Jaune\n\nContact équipe domicile: Genot F. (0473.57.28.61 - genotflori
- an@hotmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la ru
- e Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28
- ). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ces
-  infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/
- 562_1_central_park_fc
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J11: MOON SHOOTERS vs CENTRAL PARK FC
-DTSTART;VALUE=DATE-TIME:20231202T143000Z
-DTEND;VALUE=DATE-TIME:20231202T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3A_11_606_562
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
- pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Bleu 
- et Blanc\n\nContact équipe domicile: Morelle M. (0478.68.42.14 - max.more
- lle@gmail.com)\n\nAccès voiture : En venant de Bruxelles par la chaussée
-  de Wavre\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utilis
- er la bande de droite pendant +/- 200 m. et descendre devant le bâtiment 
- de l'ADEPS\, puis passer par le tunnel à gauche (en dessous de l'autorout
- e). Le terrain se trouve à 200 m. Le stade est fléché.\n\nVérifiez tou
- jours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calab
- ssa.be/c/562_1_central_park_fc
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER;CN="Morelle M.";ROLE=Secrétaire:MAILTO:max.morelle@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J13: CHIEFS WSL vs CENTRAL PARK FC
-DTSTART;VALUE=DATE-TIME:20231209T130000Z
-DTEND;VALUE=DATE-TIME:20231209T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3A_13_303_562
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
- et Blanc\n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan
- .be)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, pu
- is la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce
-  pont le terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur 
- http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/562_1_centr
- al_park_fc
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J14: NEW INN FC vs CENTRAL PARK FC
-DTSTART;VALUE=DATE-TIME:20240113T143000Z
-DTEND;VALUE=DATE-TIME:20240113T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3A_14_359_562
-DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
- et Blanc\n\nContact équipe domicile: Cornil B. (0494.16.15.11 - bencornil
- @gmail.com)\n\nAccès voiture : Au départ de la Place Meiser\, l'autorout
- e Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le via
- duc prendre à droite\, l'avenue des Anciens Combattants. Juste après le 
- carrefour avec des feux de signalisation prendre à droite vers la Place d
- e la Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le
-  terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces info
- s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/562_1
- _central_park_fc
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER;CN="Cornil B.";ROLE=Secrétaire:MAILTO:bencornil@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J15: CENTRAL PARK FC vs TRINQUANT
-DTSTART;VALUE=DATE-TIME:20240120T143000Z
-DTEND;VALUE=DATE-TIME:20240120T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3A_15_562_445
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Bleu et Blanc\nCouleur principale équipe exterieur
- e: Bleu marine\n\nContact équipe domicile: Genot F. (0473.57.28.61 - geno
- tflorian@hotmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre
-  la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus 
- bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujou
- rs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa
- .be/c/562_1_central_park_fc
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J16: VOLLENBACK FC vs CENTRAL PARK FC
-DTSTART;VALUE=DATE-TIME:20240127T134500Z
-DTEND;VALUE=DATE-TIME:20240127T151500Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3A_16_589_562
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W16\n\nCouleur princi
- pale équipe domicile: Rose et noir\nCouleur principale équipe exterieure
- : Bleu et Blanc\n\nContact équipe domicile: Haimburger G. (0485.84.91.47 
- - Gregory.haimburger@gmail.com)\n\nAccès voiture : Ring RO\, afrit Wemmel
- -Merchtem (n° 9)\, richting Merchtem volgen via de Is. Meyskensstraat tot
-  aan de rotonde\, op de rotonde de 4de afslag nemen\, Diepstraat deze vloe
- it over in de Steenweg op Brussel\, 50 m. voorbij het eerste kruispunt met
-  verkeerslichten\, links van de steenweg\, bevindt zich het stadium (parki
- ng)\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur cal
- abssa: https://calabssa.be/c/562_1_central_park_fc
-GEO:50.9077704;4.3065753
-LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
-  Wemmel\, Belgique
-ORGANIZER;CN="Haimburger G.";ROLE=Secrétaire:MAILTO:Gregory.haimburger@gm
- ail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J17: CENTRAL PARK FC vs FRANGINOS (LOS)
-DTSTART;VALUE=DATE-TIME:20240203T143000Z
-DTEND;VALUE=DATE-TIME:20240203T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3A_17_562_647
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Bleu et Blanc\nCouleur principale équipe exterieur
- e: Blanc\n\nContact équipe domicile: Genot F. (0473.57.28.61 - genotflori
- an@hotmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la ru
- e Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28
- ). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ces
-  infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/
- 562_1_central_park_fc
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J18: CURTIS L'AUSELE vs CENTRAL PARK FC
-DTSTART;VALUE=DATE-TIME:20240210T130000Z
-DTEND;VALUE=DATE-TIME:20240210T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3A_18_599_562
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: I03\n\nCouleur princi
- pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
-  Bleu et Blanc\n\nContact équipe domicile: Lambricht T. (0474.20.64.38 - 
- thomas.lambricht@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, p
- rendre l’E411 en direction de Namur et prendre la sortie 11 Perwez-Gembl
- oux\, prendre à droite vers Perwez sur la N29 jusqu’au rond-point de Gl
- imes qui croise la N91 (7km depuis l’E411). Sortir à la 3ème sortie su
- r la N91 en\ndirection de Hamme-Mille. Prendre ensuite la 3ème rue à gau
- che et le terrain se trouve directement sur la droite.\n\nVérifiez toujou
- rs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa
- .be/c/562_1_central_park_fc
-GEO:50.6849677;4.8070879
-LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
-ORGANIZER;CN="Lambricht T.";ROLE=Secrétaire:MAILTO:thomas.lambricht@gmail
- .com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J19: CENTRAL PARK FC vs LA LORRAINE-MTM.R (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20240217T143000Z
-DTEND;VALUE=DATE-TIME:20240217T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3A_19_562_44
+SUMMARY:ABSSA D3C J1: CENTRAL PARK FC vs NEPTUNE FC
+DTSTART;VALUE=DATE-TIME:20240907T133000Z
+DTEND;VALUE=DATE-TIME:20240907T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_3C_1_562_56
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
  pale équipe domicile: Bleu et Blanc\nCouleur principale équipe exterieur
  e: Bleu\n\nContact équipe domicile: Genot F. (0473.57.28.61 - genotfloria
@@ -401,11 +43,48 @@ LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
 ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3A J26: CENTRAL PARK FC vs CHIEFS WSL
-DTSTART;VALUE=DATE-TIME:20240224T143000Z
-DTEND;VALUE=DATE-TIME:20240224T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3A_26_562_303
+SUMMARY:ABSSA D3C J2: ETTEKIJS vs CENTRAL PARK FC
+DTSTART;VALUE=DATE-TIME:20240914T103000Z
+DTEND;VALUE=DATE-TIME:20240914T120000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_3C_2_343_562
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu e
+ t Blanc\n\nContact équipe domicile: Raes F. (0479.73.82.49 - freddy.raes@
+ gmail.com)\n\nAccès voiture : A partir du square des Archiducs\, prendre 
+ la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez toujours c
+ es infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/
+ c/562_1_central_park_fc
+GEO:50.80645209999999;4.4087184
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J3: FOOT JOSAPHAT vs CENTRAL PARK FC
+DTSTART;VALUE=DATE-TIME:20240921T130000Z
+DTEND;VALUE=DATE-TIME:20240921T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_3C_3_597_562
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
+ pale équipe domicile: Gris\nCouleur principale équipe exterieure: Bleu e
+ t Blanc\n\nContact équipe domicile: El Youssefi J. (0488.30.74.66 - jawad
+ .ely@hotmail.com)\n\nAccès voiture : Place Meiser\, descendre le boulevar
+ d Lambermont. Au 3ème feu de signalisation prendre à gauche\, puis la pr
+ emière à droite.\n\nVérifiez toujours ces infos sur http://www.abssa.be
+ /\nVoir sur calabssa: https://calabssa.be/c/562_1_central_park_fc
+GEO:50.8666341;4.3823667
+LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
+ aerbeek\, Belgique
+ORGANIZER;CN="El Youssefi J.";ROLE=Secrétaire:MAILTO:jawad.ely@hotmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J4: CENTRAL PARK FC vs FRANGINOS (LOS)
+DTSTART;VALUE=DATE-TIME:20240928T133000Z
+DTEND;VALUE=DATE-TIME:20240928T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_3C_4_562_647
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
  pale équipe domicile: Bleu et Blanc\nCouleur principale équipe exterieur
  e: Blanc\n\nContact équipe domicile: Genot F. (0473.57.28.61 - genotflori
@@ -420,31 +99,410 @@ LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
 ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3A J23: TAURO FC vs CENTRAL PARK FC
-DTSTART;VALUE=DATE-TIME:20240302T123000Z
-DTEND;VALUE=DATE-TIME:20240302T140000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3A_23_574_562
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: S09\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu e
- t Blanc\n\nContact équipe domicile: Lietaer Y. (0484.16.30.31 - ylietaer@
- gmail.com)\n\nAccès voiture : Place Meiser\, descendre Bd. Général Wahi
- s\, Bd Lambermont\, au deuxième carrefour prendre à gauche\, puis encore
-  la première à gauche\nOu :  Place Meiser prendre Av Ernest Cambier. - T
- ram n° 7  - Bus 65 arrêt Chazal\n\nVérifiez toujours ces infos sur http
- ://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/562_1_central_p
- ark_fc
-GEO:50.8592013;4.3921032
-LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
- ue
-ORGANIZER;CN="Lietaer Y.";ROLE=Secrétaire:MAILTO:ylietaer@gmail.com
+SUMMARY:ABSSA D3C J5: BLEU-BLANC (ENT)R. vs CENTRAL PARK FC
+DTSTART;VALUE=DATE-TIME:20241005T133000Z
+DTEND;VALUE=DATE-TIME:20241005T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_3C_5_53_562
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Bleu rayé de Blanc\nCouleur principale équipe ext
+ erieure: Bleu et Blanc\n\nContact équipe domicile: Mineur X. (0471.56.08.
+ 07 - josexavier.mineur@gmail.com)\n\nAccès voiture : Avenue de Tervuren\,
+  prendre l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez
+  toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://c
+ alabssa.be/c/562_1_central_park_fc
+GEO:50.8333897;4.4384038
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Mineur X.";ROLE=Secrétaire:MAILTO:josexavier.mineur@gmail.c
+ om
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3A J20: CENTRAL PARK FC vs BXL ALLIANCE JETTE
-DTSTART;VALUE=DATE-TIME:20240309T143000Z
-DTEND;VALUE=DATE-TIME:20240309T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3A_20_562_566
+SUMMARY:ABSSA D3C J6: CENTRAL PARK FC vs NIVELLES CS
+DTSTART;VALUE=DATE-TIME:20241012T133000Z
+DTEND;VALUE=DATE-TIME:20241012T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_3C_6_562_306
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Bleu et Blanc\nCouleur principale équipe exterieur
+ e: noir et jaune\n\nContact équipe domicile: Genot F. (0473.57.28.61 - ge
+ notflorian@hotmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prend
+ re la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminu
+ s bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez touj
+ ours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabs
+ sa.be/c/562_1_central_park_fc
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J25: PHARMA SC (Eq. 2) vs CENTRAL PARK FC
+DTSTART;VALUE=DATE-TIME:20241019T133000Z
+DTEND;VALUE=DATE-TIME:20241019T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_3C_25_268_562
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu e
+ t Blanc\n\nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.d
+ umidi@scarlet.be)\n\nAccès voiture : Au départ de la Place St. Denis à 
+ Forest prendre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4
+ ème rue à droite) et dans la rue de la Soierie rouler env. 100 m. puis 1
+ ère à gauche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L
+ 'entrée du Complexe se trouve à hauteur de City Cart\, à gauche de la r
+ oute.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur c
+ alabssa: https://calabssa.be/c/562_1_central_park_fc
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J26: CENTRAL PARK FC vs ASTURIAS SPORTING
+DTSTART;VALUE=DATE-TIME:20241026T133000Z
+DTEND;VALUE=DATE-TIME:20241026T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_3C_26_562_602
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Bleu et Blanc\nCouleur principale équipe exterieur
+ e: Bleu ciel\n\nContact équipe domicile: Genot F. (0473.57.28.61 - genotf
+ lorian@hotmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre l
+ a rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bu
+ s 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours
+  ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.b
+ e/c/562_1_central_park_fc
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J7: CELTIC ROOSTERS vs CENTRAL PARK FC
+DTSTART;VALUE=DATE-TIME:20241102T143000Z
+DTEND;VALUE=DATE-TIME:20241102T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_3C_7_626_562
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
+ pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
+ e: Bleu et Blanc\n\nContact équipe domicile: Dubois S. (0479.04.13.70 - c
+ elticroosters@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Nam
+ ur / Luxembourg\, prendre la sortie n° 6 Wavre\, à gauche N 238 directio
+ n Wavre. Au rond-	point 2ième sortie N238/Blvd. de l'Europe direction Wav
+ re Centre. Entrer dans Wavre puis à gauche N 238\, à gauche N 239. 	Au r
+ ond-point prendre la première sortie Rue Haute\, continuer sur rue de Bru
+ xelles\, continuer sur rue Saint-Roch\, continuer 	sur rue Joseph Joppart.
+  Prendre à droite l'avenue du Centre Sportif.\n\nVérifiez toujours ces i
+ nfos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/56
+ 2_1_central_park_fc
+GEO:50.72071949999999;4.617067899999999
+LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
+  Belgique
+ORGANIZER;CN="Dubois S.";ROLE=Secrétaire:MAILTO:celticroosters@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J8: CENTRAL PARK FC vs NEW INN FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20241109T143000Z
+DTEND;VALUE=DATE-TIME:20241109T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_3C_8_562_359
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Bleu et Blanc\nCouleur principale équipe exterieur
+ e: Rose\n\nContact équipe domicile: Genot F. (0473.57.28.61 - genotfloria
+ n@hotmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue
+  Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28)
+ . Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ces 
+ infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/5
+ 62_1_central_park_fc
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J9: BXL ALLIANCE JETTE vs CENTRAL PARK FC
+DTSTART;VALUE=DATE-TIME:20241116T130000Z
+DTEND;VALUE=DATE-TIME:20241116T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_3C_9_566_562
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Bleu e
+ t Blanc\n\nContact équipe domicile: Zaleski S. (0473.34.57.81 - zal.stan@
+ hotmail.com)\n\nAccès voiture : Direction cimetière de Jette\, ensuite p
+ rendre la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J
+ .J. Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces infos
+  sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/562_1_
+ central_park_fc
+GEO:50.8868564;4.3286963
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
+ Belgique
+ORGANIZER;CN="Zaleski S.";ROLE=Secrétaire:MAILTO:zal.stan@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J12: CENTRAL PARK FC vs PHARMA SC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20241123T143000Z
+DTEND;VALUE=DATE-TIME:20241123T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_3C_12_562_268
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Bleu et Blanc\nCouleur principale équipe exterieur
+ e: Bleu\n\nContact équipe domicile: Genot F. (0473.57.28.61 - genotfloria
+ n@hotmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue
+  Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28)
+ . Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ces 
+ infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/5
+ 62_1_central_park_fc
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J11: RAPID TAMTAM FC. vs CENTRAL PARK FC
+DTSTART;VALUE=DATE-TIME:20241130T130000Z
+DTEND;VALUE=DATE-TIME:20241130T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_3C_11_600_562
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Jaune et rose\nCouleur principale équipe exterieur
+ e: Bleu et Blanc\n\nContact équipe domicile: Barbay T. (0477.57.99.43 - f
+ crapidtamtam@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prend
+ re la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminu
+ s bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez touj
+ ours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabs
+ sa.be/c/562_1_central_park_fc
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Barbay T.";ROLE=Secrétaire:MAILTO:fcrapidtamtam@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J10: CENTRAL PARK FC vs GAST FC
+DTSTART;VALUE=DATE-TIME:20241207T143000Z
+DTEND;VALUE=DATE-TIME:20241207T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_3C_10_562_388
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Bleu et Blanc\nCouleur principale équipe exterieur
+ e: Ligné Jaune et bleu\n\nContact équipe domicile: Genot F. (0473.57.28.
+ 61 - genotflorian@hotmail.com)\n\nAccès voiture : Boulevard de la Woluwe\
+ , prendre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (
+ terminus bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifi
+ ez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:/
+ /calabssa.be/c/562_1_central_park_fc
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J13: ASTURIAS SPORTING vs CENTRAL PARK FC
+DTSTART;VALUE=DATE-TIME:20241214T143000Z
+DTEND;VALUE=DATE-TIME:20241214T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_3C_13_602_562
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: B
+ leu et Blanc\n\nContact équipe domicile: Stulens K. (0474.62.61.41 - kevi
+ n.stulens@live.be)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, apr
+ ès 300 m. en direction de Lennik\, prendre à droite.\nVenant de la chaus
+ sée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi
+ \, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. e
+ n direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.abss
+ a.be/\nVoir sur calabssa: https://calabssa.be/c/562_1_central_park_fc
+GEO:50.8177358;4.2557195
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER;CN="Stulens K.";ROLE=Secrétaire:MAILTO:kevin.stulens@live.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J14: NEPTUNE FC vs CENTRAL PARK FC
+DTSTART;VALUE=DATE-TIME:20250111T143000Z
+DTEND;VALUE=DATE-TIME:20250111T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_3C_14_56_562
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu e
+ t Blanc\n\nContact équipe domicile: Louies S. (0474.55.15.41 - louiesstep
+ hane@gmail.com)\n\nAccès voiture : Via la chaussée de Mons jusqu'à Veew
+ eyde (carrefour Fr. Van Kalken). Prendre à droite le boulevard  A. Briand
+  jusqu'à la Place Verdi\, puis le Bld. Théo Lambert.\n\nVérifiez toujou
+ rs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa
+ .be/c/562_1_central_park_fc
+GEO:50.8275993;4.2964877
+LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Louies S.";ROLE=Secrétaire:MAILTO:louiesstephane@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J15: CENTRAL PARK FC vs ETTEKIJS
+DTSTART;VALUE=DATE-TIME:20250118T143000Z
+DTEND;VALUE=DATE-TIME:20250118T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_3C_15_562_343
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Bleu et Blanc\nCouleur principale équipe exterieur
+ e: Noir\n\nContact équipe domicile: Genot F. (0473.57.28.61 - genotfloria
+ n@hotmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue
+  Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28)
+ . Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ces 
+ infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/5
+ 62_1_central_park_fc
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J16: CENTRAL PARK FC vs FOOT JOSAPHAT
+DTSTART;VALUE=DATE-TIME:20250125T143000Z
+DTEND;VALUE=DATE-TIME:20250125T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_3C_16_562_597
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Bleu et Blanc\nCouleur principale équipe exterieur
+ e: Gris\n\nContact équipe domicile: Genot F. (0473.57.28.61 - genotfloria
+ n@hotmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue
+  Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28)
+ . Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ces 
+ infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/5
+ 62_1_central_park_fc
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J17: FRANGINOS (LOS) vs CENTRAL PARK FC
+DTSTART;VALUE=DATE-TIME:20250201T140000Z
+DTEND;VALUE=DATE-TIME:20250201T153000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_3C_17_647_562
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: P02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
+ et Blanc\n\nContact équipe domicile: Gerard S. (0487.22.81.20 - simongera
+ rd@hotmail.be)\n\nAccès voiture : a Partir de Bruxelles\, Prendre la E 41
+ 1 en Direction de Namur. Prendre la Sortie 11  Gembloux pour Rejoindre la 
+ N 29 en Direction de Gembloux / Tirlement / Jodoigne / Perwez. suivre la N
+ 29 et Chaussée de Wavre (N243) en Direction de la Rue des Marronniers. au
+  Rond-Point 1\, 2 et 3 Prendre chaque Fois la première Sortie.\nAu Rond-P
+ oint suivant (4Ième) Prendre la deuxième Sortie et Continuer sur la Chau
+ ssée de Wavre / N 243. Prendre à Droite sur la Rue des Marronniers\, le 
+ Terrain se Trouve à Droite\n\nVérifiez toujours ces infos sur http://www
+ .abssa.be/\nVoir sur calabssa: https://calabssa.be/c/562_1_central_park_fc
+GEO:50.6429684;4.800823299999999
+LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
+ORGANIZER;CN="Gerard S.";ROLE=Secrétaire:MAILTO:simongerard@hotmail.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J18: CENTRAL PARK FC vs BLEU-BLANC (ENT)R.
+DTSTART;VALUE=DATE-TIME:20250208T143000Z
+DTEND;VALUE=DATE-TIME:20250208T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_3C_18_562_53
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Bleu et Blanc\nCouleur principale équipe exterieur
+ e: Bleu rayé de Blanc\n\nContact équipe domicile: Genot F. (0473.57.28.6
+ 1 - genotflorian@hotmail.com)\n\nAccès voiture : Boulevard de la Woluwe\,
+  prendre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (t
+ erminus bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifie
+ z toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://
+ calabssa.be/c/562_1_central_park_fc
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J19: NIVELLES CS vs CENTRAL PARK FC
+DTSTART;VALUE=DATE-TIME:20250215T130000Z
+DTEND;VALUE=DATE-TIME:20250215T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_3C_19_306_562
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: noir et jaune\nCouleur principale équipe exterieur
+ e: Bleu et Blanc\n\nContact équipe domicile: Couteau A (0497.63.11.19 - c
+ outeau.arnold.00@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, p
+ ar l'autoroute Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\,
+  passer sous le pont de l'autoroute et prendre la direction de Nivelles. A
+  200 m.\, au rond-point (Shopping Center)\, tourner à droite en direction
+  de Wavre (petit ring de Nivelles).\nAu 4ème rond-point (en tenant compte
+  du rond-point du Shopping Center)\, tourner à gauche \, rue de l'Industr
+ ie et pénétrer dans le zoning. Au bout de la rue\, avant le feu de signa
+ lisation\, tourner à gauche et prendre la rue du Progrès pendant +/- 400
+  m.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur cal
+ abssa: https://calabssa.be/c/562_1_central_park_fc
+GEO:50.5963705;4.3564539
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Couteau A";ROLE=Secrétaire:MAILTO:couteau.arnold.00@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J24: CENTRAL PARK FC vs RAPID TAMTAM FC.
+DTSTART;VALUE=DATE-TIME:20250222T143000Z
+DTEND;VALUE=DATE-TIME:20250222T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_3C_24_562_600
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Bleu et Blanc\nCouleur principale équipe exterieur
+ e: Jaune et rose\n\nContact équipe domicile: Genot F. (0473.57.28.61 - ge
+ notflorian@hotmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prend
+ re la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminu
+ s bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez touj
+ ours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabs
+ sa.be/c/562_1_central_park_fc
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J20: CENTRAL PARK FC vs CELTIC ROOSTERS
+DTSTART;VALUE=DATE-TIME:20250308T143000Z
+DTEND;VALUE=DATE-TIME:20250308T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_3C_20_562_626
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Bleu et Blanc\nCouleur principale équipe exterieur
+ e: Vert et blanc\n\nContact équipe domicile: Genot F. (0473.57.28.61 - ge
+ notflorian@hotmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prend
+ re la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminu
+ s bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez touj
+ ours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabs
+ sa.be/c/562_1_central_park_fc
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J21: NEW INN FC (Eq. 2) vs CENTRAL PARK FC
+DTSTART;VALUE=DATE-TIME:20250315T143000Z
+DTEND;VALUE=DATE-TIME:20250315T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_3C_21_359_562
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Rose\nCouleur principale équipe exterieure: Bleu e
+ t Blanc\n\nContact équipe domicile: Van Brabant V (0474.60.68.96 - vanbra
+ bant.v@gmail.com)\n\nAccès voiture : Au départ de la Place Meiser\, l'au
+ toroute Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous 
+ le viaduc prendre à droite\, l'avenue des Anciens Combattants. Juste apr
+ ès le carrefour avec des feux de signalisation prendre à droite vers la 
+ Place de la Chapelle\, puis prendre la 4ème rue à main droite (rue au Bo
+ is). Le terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujours c
+ es infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/
+ c/562_1_central_park_fc
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="Van Brabant V";ROLE=Secrétaire:MAILTO:vanbrabant.v@gmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J22: CENTRAL PARK FC vs BXL ALLIANCE JETTE
+DTSTART;VALUE=DATE-TIME:20250322T143000Z
+DTEND;VALUE=DATE-TIME:20250322T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_3C_22_562_566
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
  pale équipe domicile: Bleu et Blanc\nCouleur principale équipe exterieur
  e: Vert\n\nContact équipe domicile: Genot F. (0473.57.28.61 - genotfloria
@@ -457,72 +515,5 @@ GEO:50.8423054;4.445628699999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
 ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J21: CHARLES-QUINT FC vs CENTRAL PARK FC
-DTSTART;VALUE=DATE-TIME:20240316T143000Z
-DTEND;VALUE=DATE-TIME:20240316T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3A_21_499_562
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: G03\n\nCouleur princi
- pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
-  Bleu et Blanc\n\nContact équipe domicile: Denies G (0479.57.39.23 - deni
- es.gaetan@gmail.com)\n\nAccès voiture : Par la ville. A partir de la Basi
- lique de Koekelberg\, prendre l'Avenue Charles Quint\, prendre 3ème rue 
- à droite\, Avenue de Villegas. Arrivé au rond point prendre la 3ème sor
- tie et  continuer sur l'avenue Marie de Hongrie. Prendre ensuite la premi
- ère à droite\, l'avenue des Neuf Provinces. Au 2ème rond point\, prendr
- e la première sortie\, rue Vanderveken. Un parking est accessible dans la
-  première rue à gauche. (Indication Hall des Sports).\nPar le ring. En s
- ortant du ring à Koekelberg\, prendre l'avenue Charles Quint. Au 3ème fe
- u\, prendre à gauche sur la place Marguerite d'Autriche. Prendre la 1ère
-  rue à droite et rester sur l'avenue Marie de Hongrie. Ensuite suivre com
- me ci-dessus.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVo
- ir sur calabssa: https://calabssa.be/c/562_1_central_park_fc
-GEO:50.876279;4.3026291
-LOCATION:Rue A. Roobaert\, 1083 Ganshoren\, Belgique
-ORGANIZER;CN="Denies G";ROLE=Secrétaire:MAILTO:denies.gaetan@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J22: CENTRAL PARK FC vs UNION TIGERS
-DTSTART;VALUE=DATE-TIME:20240323T143000Z
-DTEND;VALUE=DATE-TIME:20240323T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3A_22_562_649
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Bleu et Blanc\nCouleur principale équipe exterieur
- e: Bleu ciel et Blanc\n\nContact équipe domicile: Genot F. (0473.57.28.61
-  - genotflorian@hotmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, 
- prendre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (te
- rminus bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez
-  toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://c
- alabssa.be/c/562_1_central_park_fc
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J25: FOSSIS (LES) CS vs CENTRAL PARK FC
-DTSTART;VALUE=DATE-TIME:20240406T130000Z
-DTEND;VALUE=DATE-TIME:20240406T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3A_25_217_562
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: M08\n\nCouleur princi
- pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Bleu 
- et Blanc\n\nContact équipe domicile: Desmedt O. (0495.27.08.87 - oli.desm
- edt@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'auto
- route E411 en direction de Namur. Prendre la sortie 9 Corroy-le-Grand vers
-  Louvain-la-Neuve  Sud / Nivelles / E 19. Rejoindre Chemin de Grez. Au ron
- d-point\, prendre la 2ième sortie sur Grand'Route / N 4. Après 1\,8 km.e
- t au prochain feu\, tourner à droite Rue de Corbais. Continuer tout droit
-  pendant 2 km. et prendre à droite Avenue du Cérisier. 70 m. plus loin\,
-  vous trouverez le parking sur la droite.\n\nVérifiez toujours ces infos 
- sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/562_1_c
- entral_park_fc
-GEO:50.6415297;4.6219204
-LOCATION:Guibert Sports Arena\, Avenue des Cérisiers 3\, 1435 Mont-Saint-
- Guibert\, Belgique
-ORGANIZER;CN="Desmedt O.";ROLE=Secrétaire:MAILTO:oli.desmedt@gmail.com
 END:VEVENT
 END:VCALENDAR

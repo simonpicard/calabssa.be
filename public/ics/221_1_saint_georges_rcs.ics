@@ -4,92 +4,103 @@ PRODID:221_1_saint_georges_rcs
 X-WR-CALDESC:Les matches du club SAINT GEORGES RCS (equipe 1) en ABSSA.
 X-WR-CALNAME:ABSSA: SAINT GEORGES RCS (eq. 1)
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J10: BRAINE-TERMINUS FC vs SAINT GEORGES RCS
-DTSTART;VALUE=DATE-TIME:20230902T133000Z
-DTEND;VALUE=DATE-TIME:20230902T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_3C_10_537_221
-DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
- pale équipe domicile: Jaune et rouge\nCouleur principale équipe exterieu
- re: Blanc\n\nContact équipe domicile: Dero G. (0479.81.83.27 - fcbrainete
- rminus@gmail.com)\n\nAccès voiture : En venant de Bruxelles : Autoroute T
- ournai - Lille (A8)\, prendre la sortie n° 24\, direction Rebecq\, puis l
- a N 6 Bruxelles-Mons en direction de Mons. Entrer dans l'agglomération de
-  Braine-Le-Comte et prendre la 1ère rue à droite\, le terrain se situe a
- u bout de la rue.\nEn venant de Nivelles : Prendre la N533\, Nivelles/Brai
- ne-Le-Comte. Entrer dans l'agglomération de Braine-Le-Comte et suivre la 
- direction de Bruxelles (N 6 Mons-Bruxelles)\, prendre la 1ère rue à gauc
- he\, le terrain se situe au bout de la rue.\n\nVérifiez toujours ces info
- s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_1
- _saint_georges_rcs
-GEO:50.6193857;4.1352085
-LOCATION:Rue du Poseur 39\, 7090 Braine-Le-Comte\, Belgique
-ORGANIZER;CN="Dero G.";ROLE=Secrétaire:MAILTO:fcbraineterminus@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J1: IRLANDE FC (Eq. 3) vs SAINT GEORGES RCS
-DTSTART;VALUE=DATE-TIME:20230909T103000Z
-DTEND;VALUE=DATE-TIME:20230909T120000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_3C_1_402_221
-DESCRIPTION:Terrain synthétique: non\nCode terrain: N04\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Blanc\
- n\nContact équipe domicile: Bridoux J.F. (0455.12.12.65 - fci.secretary.m
- ens@outlook.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à Nossege
- m\, au premier croisement prendre à gauche la \nMechelsesteenweg. Le terr
- ain est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège
- \, prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelsest
- eenweg\, traverser la chaussée de Louvain\, et suivre comme ci-avant.\n\n
- Vérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: 
- https://calabssa.be/c/221_1_saint_georges_rcs
-GEO:50.88776559999999;4.50894
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER;CN="Bridoux J.F.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@out
- look.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J2: SAINT GEORGES RCS vs TAURO FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20230916T133000Z
-DTEND;VALUE=DATE-TIME:20230916T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_3C_2_221_574
+SUMMARY:ABSSA D3B J23: SAINT GEORGES RCS vs CHENOIS SC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240831T120000Z
+DTEND;VALUE=DATE-TIME:20240831T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_3B_23_221_84
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir\
- n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.destin@gmai
- l.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"avenue Parmentie
- r\, puis 1ère rue à main gauche.\n\nVérifiez toujours ces infos sur htt
- p://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_1_saint_ge
- orges_rcs
-GEO:50.8343279;4.4397562
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
+ \n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.destin@gma
+ il.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"avenue Parmenti
+ er\, puis 1ère rue à main gauche.\n\nVérifiez toujours ces infos sur ht
+ tp://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_1_saint_g
+ eorges_rcs
+GEO:50.8333897;4.4384038
 LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
  e\, Belgique
 ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J3: SAINT GEORGES RCS vs ETTEKIJS
-DTSTART;VALUE=DATE-TIME:20230923T133000Z
-DTEND;VALUE=DATE-TIME:20230923T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_3C_3_221_343
+SUMMARY:ABSSA D3B J1: TAURO FC (Eq. 2) vs SAINT GEORGES RCS
+DTSTART;VALUE=DATE-TIME:20240907T124500Z
+DTEND;VALUE=DATE-TIME:20240907T141500Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_3B_1_574_221
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Lietaer Y. (0484.16.30.31 - ylietaer@gmail.co
+ m)\n\nAccès voiture : Place Meiser\, descendre le boulevard Lambermont. A
+ u 3ème feu de signalisation prendre à gauche\, puis la première à droi
+ te.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur cal
+ abssa: https://calabssa.be/c/221_1_saint_georges_rcs
+GEO:50.8666341;4.3823667
+LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
+ aerbeek\, Belgique
+ORGANIZER;CN="Lietaer Y.";ROLE=Secrétaire:MAILTO:ylietaer@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J2: SAINT GEORGES RCS vs STRING PENELOPE
+DTSTART;VALUE=DATE-TIME:20240914T120000Z
+DTEND;VALUE=DATE-TIME:20240914T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_3B_2_221_181
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir\
- n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.destin@gmai
- l.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"avenue Parmentie
- r\, puis 1ère rue à main gauche.\n\nVérifiez toujours ces infos sur htt
- p://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_1_saint_ge
- orges_rcs
-GEO:50.8343279;4.4397562
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Orang
+ e\n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.destin@gm
+ ail.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"avenue Parment
+ ier\, puis 1ère rue à main gauche.\n\nVérifiez toujours ces infos sur h
+ ttp://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_1_saint_
+ georges_rcs
+GEO:50.8333897;4.4384038
 LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
  e\, Belgique
 ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J4: CHIEFS WSL (Eq. 2) vs SAINT GEORGES RCS
-DTSTART;VALUE=DATE-TIME:20230930T133000Z
-DTEND;VALUE=DATE-TIME:20230930T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_3C_4_303_221
+SUMMARY:ABSSA D3B J3: CHENOIS (ESPER) vs SAINT GEORGES RCS
+DTSTART;VALUE=DATE-TIME:20240921T113000Z
+DTEND;VALUE=DATE-TIME:20240921T130000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_3B_3_412_221
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W02\n\nCouleur princi
+ pale équipe domicile: Blanc et rouge\nCouleur principale équipe exterieu
+ re: Blanc\n\nContact équipe domicile: Mento M (0477.83.27.83 - 412fcec@gm
+ ail.com)\n\nAccès voiture : Venant d'Uccle\, prendre la chaussée de Wate
+ rloo\, ensuite la chaussée de Bruxelles\, continuer jusqu'à la place E. 
+ Vandevelde (intersection de la chaussée de Bruxelles avec la chaussée de
+  Tervuren à Joli-Bois). Au feu de signalisation prendre à droite la chau
+ ssée Bara. Le terrain se trouve à droite à +/- 500 m.\n\nVérifiez touj
+ ours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabs
+ sa.be/c/221_1_saint_georges_rcs
+GEO:50.701676;4.397567
+LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
+ORGANIZER;CN="Mento M";ROLE=Secrétaire:MAILTO:412fcec@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J4: SAINT GEORGES RCS vs MOON SHOOTERS
+DTSTART;VALUE=DATE-TIME:20240928T120000Z
+DTEND;VALUE=DATE-TIME:20240928T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_3B_4_221_606
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Jaune
+ \n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.destin@gma
+ il.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"avenue Parmenti
+ er\, puis 1ère rue à main gauche.\n\nVérifiez toujours ces infos sur ht
+ tp://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_1_saint_g
+ eorges_rcs
+GEO:50.8333897;4.4384038
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J5: CHIEFS WSL (Eq. 2) vs SAINT GEORGES RCS
+DTSTART;VALUE=DATE-TIME:20241005T120000Z
+DTEND;VALUE=DATE-TIME:20241005T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_3B_5_303_221
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
  pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Blanc
  \n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan.be)\n\n
@@ -104,248 +115,29 @@ LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
 ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J5: SAINT GEORGES RCS vs VOGELPIK FC.
-DTSTART;VALUE=DATE-TIME:20231007T133000Z
-DTEND;VALUE=DATE-TIME:20231007T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_3C_5_221_629
+SUMMARY:ABSSA D3B J6: SAINT GEORGES RCS vs WATERMAEL FC
+DTSTART;VALUE=DATE-TIME:20241012T120000Z
+DTEND;VALUE=DATE-TIME:20241012T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_3B_6_221_611
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
-  et noir\n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.de
- stin@gmail.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"avenue 
- Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujours ces info
- s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_1
- _saint_georges_rcs
-GEO:50.8343279;4.4397562
-LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
- e\, Belgique
-ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J6: REQUINS (LES) vs SAINT GEORGES RCS
-DTSTART;VALUE=DATE-TIME:20231014T120000Z
-DTEND;VALUE=DATE-TIME:20231014T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_3C_6_556_221
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Blanc\
- n\nContact équipe domicile: Barbe L. (0476.04.93.45 - louis.barbe1@gmail.
- com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'autoroute E411
-  en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir la droit
- e et au bout de la bretelle\, prendre la direction d'Ottignies par la N238
- . Au 1èr feu de signalisation continuer tout droit en passant devant Wali
- bi (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au bout de 
- cette sortie\, en face du Tennis Club La Palestre\, prendre à droite la r
- ue Charles Dubois\, jusqu'au carrefour principal. Continuer tout droit en 
- traversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du chemin 
- de fer et prendre la rue de l'Europe jusqu'à la place de l'Europe. Traver
- ser cette place par la droite. Au bout à gauche\, suivre l'avenue Jassans
- . Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limelette). C
- ontinuer cette rue et passer en dessous du 2ème pont du chemin de fer. Ap
- rès ce pont\, prendre tout de suite à gauche l'avenue Demolder (panneau 
- F.C. Limelette)\, en face de l'étang du Buston. Suivre cette avenue jusqu
- 'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m. dans ce
- tte rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C. Limelet
- te). L'entrée du terrain est située 50 m. plus bas sur la gauche.\n\nVé
- rifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: htt
- ps://calabssa.be/c/221_1_saint_georges_rcs
-GEO:50.6762848;4.562820299999999
-LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER;CN="Barbe L.";ROLE=Secrétaire:MAILTO:louis.barbe1@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J8: GREEN DEVILS vs SAINT GEORGES RCS
-DTSTART;VALUE=DATE-TIME:20231021T120000Z
-DTEND;VALUE=DATE-TIME:20231021T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_3C_8_90_221
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: E08\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Blanc\
- n\nContact équipe domicile: Vandenbroeck K. (0477.66.15.69 - krvandenbroe
- ck@hotmail.be)\n\nAccès voiture : Le terrain se trouve derrière l'églis
- e St. Vincent\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVo
- ir sur calabssa: https://calabssa.be/c/221_1_saint_georges_rcs
-GEO:50.88086790000001;4.396579099999999
-LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue Stroobants 75\, 1140 Evere\,
-  Belgique
-ORGANIZER;CN="Vandenbroeck K.";ROLE=Secrétaire:MAILTO:krvandenbroeck@hotm
- ail.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J24: GREZ AJ (Eq. 2) vs SAINT GEORGES RCS
-DTSTART;VALUE=DATE-TIME:20231028T133000Z
-DTEND;VALUE=DATE-TIME:20231028T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_3C_24_514_221
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: G04\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Blanc\
- n\nContact équipe domicile: Vanhamme J. (0474.56.81.54 - jerome.vanhamme@
- hotmail.com)\n\nAccès voiture : Autoroute Bruxelles-Namur (E411) prendre 
- la sortie Louvain/Grez-Doiceau (n° 8). Prendre la RN25 en direction de Lo
- uvain/Grez-Doiceau. Passer tout droit les deux premiers ronds-points à l'
- issue de la RN 25. Au troisième rond-point prendre à droite. Le terrain 
- se trouve 150 m. plus loin à gauche de la rue du Stampia.\n\nVérifiez to
- ujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cala
- bssa.be/c/221_1_saint_georges_rcs
-GEO:50.744789;4.6969702
-LOCATION:Rue du Stampia\, 1390 Grez-Doiceau\, Belgique
-ORGANIZER;CN="Vanhamme J.";ROLE=Secrétaire:MAILTO:jerome.vanhamme@hotmail
- .com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J7: SAINT GEORGES RCS vs PATJES FC
-DTSTART;VALUE=DATE-TIME:20231104T143000Z
-DTEND;VALUE=DATE-TIME:20231104T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_3C_7_221_582
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
-  et blanc.\n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.
- destin@gmail.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"avenu
- e Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujours ces in
- fos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221
- _1_saint_georges_rcs
-GEO:50.8343279;4.4397562
-LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
- e\, Belgique
-ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J9: SAINT GEORGES RCS vs BLEU-BLANC (ENT)R.
-DTSTART;VALUE=DATE-TIME:20231118T143000Z
-DTEND;VALUE=DATE-TIME:20231118T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_3C_9_221_53
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
- rayé de Blanc\n\nContact équipe domicile: Destin C. (0483.33.01.12 - ced
- ric.destin@gmail.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"a
- venue Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujours ce
- s infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c
- /221_1_saint_georges_rcs
-GEO:50.8343279;4.4397562
-LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
- e\, Belgique
-ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J12: RHINOCEROS vs SAINT GEORGES RCS
-DTSTART;VALUE=DATE-TIME:20231125T143000Z
-DTEND;VALUE=DATE-TIME:20231125T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_3C_12_654_221
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L08\n\nCouleur princi
- pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Blanc
- \n\nContact équipe domicile: Watteyne R. (0498.16.13.01 - robin@watteyne.
- com)\n\nAccès voiture : Autoroute Bruxelles-Namur E411\, après Wavre pre
- ndre la sortie Louvain-la-Neuve\, continuer sur la N4 direction Namur\, au
-  premier rond-point prendre à droite vers la N250 et suivre "Blocry/Hocai
- lle". Après le second rond-point\, prendre à droite\, au carrefour\, la 
- rue de l'Invasion\, puis de nouveau à droite. L'entrée du terrain ROS se
-  trouve au bout de l'avenue.\n\nVérifiez toujours ces infos sur http://ww
- w.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_1_saint_georges_
- rcs
-GEO:50.6706953;4.5975173
-LOCATION:Terrain Royal Ottignies Stimont (Ros)\, Avenue de Lauzelle\, 1348
-  Louvain-La-Neuve\, Belgique
-ORGANIZER;CN="Watteyne R.";ROLE=Secrétaire:MAILTO:robin@watteyne.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J11: SAINT GEORGES RCS vs GREZ AJ (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20231202T143000Z
-DTEND;VALUE=DATE-TIME:20231202T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_3C_11_221_514
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir\
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
  n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.destin@gmai
  l.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"avenue Parmentie
  r\, puis 1ère rue à main gauche.\n\nVérifiez toujours ces infos sur htt
  p://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_1_saint_ge
  orges_rcs
-GEO:50.8343279;4.4397562
+GEO:50.8333897;4.4384038
 LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
  e\, Belgique
 ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J13: SAINT GEORGES RCS vs WELL TEAM
-DTSTART;VALUE=DATE-TIME:20231209T143000Z
-DTEND;VALUE=DATE-TIME:20231209T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_3C_13_221_544
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
- marine\n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.dest
- in@gmail.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"avenue Pa
- rmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujours ces infos 
- sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_1_s
- aint_georges_rcs
-GEO:50.8343279;4.4397562
-LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
- e\, Belgique
-ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J14: SAINT GEORGES RCS vs IRLANDE FC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20240113T143000Z
-DTEND;VALUE=DATE-TIME:20240113T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_3C_14_221_402
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Vert\
- n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.destin@gmai
- l.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"avenue Parmentie
- r\, puis 1ère rue à main gauche.\n\nVérifiez toujours ces infos sur htt
- p://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_1_saint_ge
- orges_rcs
-GEO:50.8343279;4.4397562
-LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
- e\, Belgique
-ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J15: TAURO FC (Eq. 2) vs SAINT GEORGES RCS
-DTSTART;VALUE=DATE-TIME:20240120T134500Z
-DTEND;VALUE=DATE-TIME:20240120T151500Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_3C_15_574_221
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Blanc\
- n\nContact équipe domicile: Lietaer Y. (0484.16.30.31 - ylietaer@gmail.co
- m)\n\nAccès voiture : Place Meiser\, descendre le boulevard Lambermont. A
- u 3ème feu de signalisation prendre à gauche\, puis la première à droi
- te.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur cal
- abssa: https://calabssa.be/c/221_1_saint_georges_rcs
-GEO:50.8666341;4.3823667
-LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
- aerbeek\, Belgique
-ORGANIZER;CN="Lietaer Y.";ROLE=Secrétaire:MAILTO:ylietaer@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J16: ETTEKIJS vs SAINT GEORGES RCS
-DTSTART;VALUE=DATE-TIME:20240127T113000Z
-DTEND;VALUE=DATE-TIME:20240127T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_3C_16_343_221
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Blanc\
- n\nContact équipe domicile: Raes F. (0479.73.82.49 - freddy.raes@gmail.co
- m)\n\nAccès voiture : A partir du square des Archiducs\, prendre la rue B
- erensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez toujours ces infos
-  sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_1_
- saint_georges_rcs
-GEO:50.8059082;4.4137428
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J17: SAINT GEORGES RCS vs CHIEFS WSL (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20240203T143000Z
-DTEND;VALUE=DATE-TIME:20240203T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_3C_17_221_303
+SUMMARY:ABSSA D3B J25: SAINT GEORGES RCS vs NEW INN FC
+DTSTART;VALUE=DATE-TIME:20241019T120000Z
+DTEND;VALUE=DATE-TIME:20241019T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_3B_25_221_359
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
  pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Blanc
  \n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.destin@gma
@@ -353,39 +145,175 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
  er\, puis 1ère rue à main gauche.\n\nVérifiez toujours ces infos sur ht
  tp://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_1_saint_g
  eorges_rcs
-GEO:50.8343279;4.4397562
+GEO:50.8333897;4.4384038
 LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
  e\, Belgique
 ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J18: VOGELPIK FC. vs SAINT GEORGES RCS
-DTSTART;VALUE=DATE-TIME:20240210T143000Z
-DTEND;VALUE=DATE-TIME:20240210T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_3C_18_629_221
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L08\n\nCouleur princi
- pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
- e: Blanc\n\nContact équipe domicile: Nolet P (0486.56.82.31 - pierrenolet
- 91@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Namur E411\, après 
- Wavre prendre la sortie Louvain-la-Neuve\, continuer sur la N4 direction N
- amur\, au premier rond-point prendre à droite vers la N250 et suivre "Blo
- cry/Hocaille". Après le second rond-point\, prendre à droite\, au carref
- our\, la rue de l'Invasion\, puis de nouveau à droite. L'entrée du terra
- in ROS se trouve au bout de l'avenue.\n\nVérifiez toujours ces infos sur 
- http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_1_saint
- _georges_rcs
-GEO:50.6706953;4.5975173
-LOCATION:Terrain Royal Ottignies Stimont (Ros)\, Avenue de Lauzelle\, 1348
-  Louvain-La-Neuve\, Belgique
-ORGANIZER;CN="Nolet P";ROLE=Secrétaire:MAILTO:pierrenolet91@gmail.com
+SUMMARY:ABSSA D3B J26: HIGGINS-PUMAS (Eq. 2) vs SAINT GEORGES RCS
+DTSTART;VALUE=DATE-TIME:20241026T103000Z
+DTEND;VALUE=DATE-TIME:20241026T120000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_3B_26_416_221
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
+ erieure: Blanc\n\nContact équipe domicile: De Biolley Ph. (0477.23.31.25 
+ - philippe.debiolley@gmail.com)\n\nAccès voiture : En venant de Bruxelles
+  par la chaussée de Wavre\, rejoindre le du début de l'autoroute Bruxell
+ es-Namur\, utiliser la bande de droite pendant +/- 200 m. et descendre dev
+ ant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (en dess
+ ous de l'autoroute). Le terrain se trouve à 200 m. Le stade est fléché.
+ \n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabs
+ sa: https://calabssa.be/c/221_1_saint_georges_rcs
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="De Biolley Ph.";ROLE=Secrétaire:MAILTO:philippe.debiolley@g
+ mail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J19: SAINT GEORGES RCS vs REQUINS (LES)
-DTSTART;VALUE=DATE-TIME:20240217T143000Z
-DTEND;VALUE=DATE-TIME:20240217T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_3C_19_221_556
+SUMMARY:ABSSA D3B J7: SAINT GEORGES RCS vs NIVELLOIS-ACLOT BS
+DTSTART;VALUE=DATE-TIME:20241102T130000Z
+DTEND;VALUE=DATE-TIME:20241102T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_3B_7_221_503
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
+  et noir\n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.de
+ stin@gmail.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"avenue 
+ Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujours ces info
+ s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_1
+ _saint_georges_rcs
+GEO:50.8333897;4.4384038
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J8: AZUR RCS (Eq. 3) vs SAINT GEORGES RCS
+DTSTART;VALUE=DATE-TIME:20241109T110000Z
+DTEND;VALUE=DATE-TIME:20241109T123000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_3B_8_109_221
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W12\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Mad. Decamps N. (0477.27.39.66 - nathalie_dec
+ amps@hotmail.com)\n\nAccès voiture : Avenue de Tervuren\, direction Tervu
+ ren. Passé le boulevard du Souverain prendre à gauche au premier feu de 
+ signalisation (Av. Madoux). Au feu de signalisation suivant prendre la 2è
+ me rue à main droite (Av. J. Dujardin). Ensuite 1ère rue à gauche (Av. 
+ Salomé).\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir s
+ ur calabssa: https://calabssa.be/c/221_1_saint_georges_rcs
+GEO:50.830818;4.455442
+LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
+ elgique
+ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
+ tmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J9: SAINT GEORGES RCS vs TRINQUANT
+DTSTART;VALUE=DATE-TIME:20241116T130000Z
+DTEND;VALUE=DATE-TIME:20241116T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_3B_9_221_445
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
+ marine\n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.dest
+ in@gmail.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"avenue Pa
+ rmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujours ces infos 
+ sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_1_s
+ aint_georges_rcs
+GEO:50.8333897;4.4384038
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J12: NEW INN FC vs SAINT GEORGES RCS
+DTSTART;VALUE=DATE-TIME:20241123T130000Z
+DTEND;VALUE=DATE-TIME:20241123T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_3B_12_359_221
+DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Blanc
+ \n\nContact équipe domicile: Van Brabant V (0474.60.68.96 - vanbrabant.v@
+ gmail.com)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute
+  Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viad
+ uc prendre à droite\, l'avenue des Anciens Combattants. Juste après le c
+ arrefour avec des feux de signalisation prendre à droite vers la Place de
+  la Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le 
+ terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces infos
+  sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_1_
+ saint_georges_rcs
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="Van Brabant V";ROLE=Secrétaire:MAILTO:vanbrabant.v@gmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J11: SAINT GEORGES RCS vs LA LORRAINE-MTM.R (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20241130T130000Z
+DTEND;VALUE=DATE-TIME:20241130T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_3B_11_221_44
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.destin@gmai
+ l.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"avenue Parmentie
+ r\, puis 1ère rue à main gauche.\n\nVérifiez toujours ces infos sur htt
+ p://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_1_saint_ge
+ orges_rcs
+GEO:50.8333897;4.4384038
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J10: CHENOIS SC (Eq. 2) vs SAINT GEORGES RCS
+DTSTART;VALUE=DATE-TIME:20241207T123000Z
+DTEND;VALUE=DATE-TIME:20241207T140000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_3B_10_84_221
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W02\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Blanc
+ \n\nContact équipe domicile: Versmissen P. (0495.59.61.77 - sc.chenois@wa
+ terloo.eu)\n\nAccès voiture : Venant d'Uccle\, prendre la chaussée de Wa
+ terloo\, ensuite la chaussée de Bruxelles\, continuer jusqu'à la place E
+ . Vandevelde (intersection de la chaussée de Bruxelles avec la chaussée 
+ de Tervuren à Joli-Bois). Au feu de signalisation prendre à droite la ch
+ aussée Bara. Le terrain se trouve à droite à +/- 500 m.\n\nVérifiez to
+ ujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cala
+ bssa.be/c/221_1_saint_georges_rcs
+GEO:50.701676;4.397567
+LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
+ORGANIZER;CN="Versmissen P.";ROLE=Secrétaire:MAILTO:sc.chenois@waterloo.e
+ u
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J13: SAINT GEORGES RCS vs HIGGINS-PUMAS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20241214T130000Z
+DTEND;VALUE=DATE-TIME:20241214T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_3B_13_221_416
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rayé
+  Bleu et Blanc\n\nContact équipe domicile: Destin C. (0483.33.01.12 - ced
+ ric.destin@gmail.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"a
+ venue Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujours ce
+ s infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c
+ /221_1_saint_georges_rcs
+GEO:50.8333897;4.4384038
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J14: SAINT GEORGES RCS vs TAURO FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20250111T130000Z
+DTEND;VALUE=DATE-TIME:20250111T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_3B_14_221_574
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
  pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir\
  n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.destin@gmai
@@ -393,132 +321,197 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
  r\, puis 1ère rue à main gauche.\n\nVérifiez toujours ces infos sur htt
  p://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_1_saint_ge
  orges_rcs
-GEO:50.8343279;4.4397562
+GEO:50.8333897;4.4384038
 LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
  e\, Belgique
 ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J26: WELL TEAM vs SAINT GEORGES RCS
-DTSTART;VALUE=DATE-TIME:20240224T143000Z
-DTEND;VALUE=DATE-TIME:20240224T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_3C_26_544_221
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
- pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
-  Blanc\n\nContact équipe domicile: Dayez M. (0472.61.95.08 - martindayez@
- hotmail.com)\n\nAccès voiture : A partir du square des Archiducs\, prendr
- e la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez toujours
-  ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.b
- e/c/221_1_saint_georges_rcs
-GEO:50.8059082;4.4137428
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER;CN="Dayez M.";ROLE=Secrétaire:MAILTO:martindayez@hotmail.com
+SUMMARY:ABSSA D3B J15: STRING PENELOPE vs SAINT GEORGES RCS
+DTSTART;VALUE=DATE-TIME:20250118T130000Z
+DTEND;VALUE=DATE-TIME:20250118T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_3B_15_181_221
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Blan
+ c\n\nContact équipe domicile: Sbaiti Y (0487.54.95.27 - yo.sbaiti@gmail.c
+ om)\n\nAccès voiture : En venant de Bruxelles\, prendre l'autoroute E411 
+ en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir la droite
+  et au bout de la bretelle\, prendre la direction d'Ottignies par la N238.
+  Au 1èr feu de signalisation continuer tout droit en passant devant Walib
+ i (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au bout de c
+ ette sortie\, en face du Tennis Club La Palestre\, prendre à droite la ru
+ e Charles Dubois\, jusqu'au carrefour principal. Continuer tout droit en t
+ raversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du chemin d
+ e fer et prendre la rue de l'Europe jusqu'à la place de l'Europe. Travers
+ er cette place par la droite. Au bout à gauche\, suivre l'avenue Jassans.
+  Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limelette). Co
+ ntinuer cette rue et passer en dessous du 2ème pont du chemin de fer. Apr
+ ès ce pont\, prendre tout de suite à gauche l'avenue Demolder (panneau F
+ .C. Limelette)\, en face de l'étang du Buston. Suivre cette avenue jusqu'
+ à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m. dans cet
+ te rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C. Limelett
+ e). L'entrée du terrain est située 50 m. plus bas sur la gauche.\n\nVér
+ ifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: http
+ s://calabssa.be/c/221_1_saint_georges_rcs
+GEO:50.67628029999999;4.562802
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Sbaiti Y";ROLE=Secrétaire:MAILTO:yo.sbaiti@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J23: SAINT GEORGES RCS vs BRAINE-TERMINUS FC
-DTSTART;VALUE=DATE-TIME:20240302T143000Z
-DTEND;VALUE=DATE-TIME:20240302T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_3C_23_221_537
+SUMMARY:ABSSA D3B J16: SAINT GEORGES RCS vs CHENOIS (ESPER)
+DTSTART;VALUE=DATE-TIME:20250125T130000Z
+DTEND;VALUE=DATE-TIME:20250125T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_3B_16_221_412
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Jaune
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Blanc
   et rouge\n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.d
  estin@gmail.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"avenue
   Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujours ces inf
  os sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_
  1_saint_georges_rcs
-GEO:50.8343279;4.4397562
+GEO:50.8333897;4.4384038
 LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
  e\, Belgique
 ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J20: PATJES FC vs SAINT GEORGES RCS
-DTSTART;VALUE=DATE-TIME:20240309T143000Z
-DTEND;VALUE=DATE-TIME:20240309T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_3C_20_582_221
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
- pale équipe domicile: Rouge et blanc.\nCouleur principale équipe exterie
- ure: Blanc\n\nContact équipe domicile: Waucquez J-B (0472.08.73.90 - fcpa
- tjes@outlook.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'a
- utoroute E411 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, t
- enir la droite et au bout de la bretelle\, prendre la direction d'Ottignie
- s par la N238. Au 1èr feu de signalisation continuer tout droit en passan
- t devant Walibi (qui se trouve sur la gauche) jusqu'à la sortie Limelette
- . Au bout de cette sortie\, en face du Tennis Club La Palestre\, prendre 
- à droite la rue Charles Dubois\, jusqu'au carrefour principal. Continuer 
- tout droit en traversant l'avenue Albert 1èr. Passer en dessous du 1èr p
- ont du chemin de fer et prendre la rue de l'Europe jusqu'à la place de l'
- Europe. Traverser cette place par la droite. Au bout à gauche\, suivre l'
- avenue Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C.
-  Limelette). Continuer cette rue et passer en dessous du 2ème pont du che
- min de fer. Après ce pont\, prendre tout de suite à gauche l'avenue Demo
- lder (panneau F.C. Limelette)\, en face de l'étang du Buston. Suivre cett
- e avenue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après
-  50 m. dans cette rue\, prendre à droite l'avenue des Sorbiers (panneau d
- u F.C. Limelette). L'entrée du terrain est située 50 m. plus bas sur la 
- gauche.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur
-  calabssa: https://calabssa.be/c/221_1_saint_georges_rcs
-GEO:50.6762848;4.562820299999999
-LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER;CN="Waucquez J-B";ROLE=Secrétaire:MAILTO:fcpatjes@outlook.com
+SUMMARY:ABSSA D3B J17: MOON SHOOTERS vs SAINT GEORGES RCS
+DTSTART;VALUE=DATE-TIME:20250201T143000Z
+DTEND;VALUE=DATE-TIME:20250201T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_3B_17_606_221
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Blanc
+ \n\nContact équipe domicile: Morelle M. (0478.68.42.14 - max.morelle@gmai
+ l.com)\n\nAccès voiture : En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.\n\nVérifiez toujours ce
+ s infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c
+ /221_1_saint_georges_rcs
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="Morelle M.";ROLE=Secrétaire:MAILTO:max.morelle@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J21: SAINT GEORGES RCS vs GREEN DEVILS
-DTSTART;VALUE=DATE-TIME:20240316T143000Z
-DTEND;VALUE=DATE-TIME:20240316T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_3C_21_221_90
+SUMMARY:ABSSA D3B J18: SAINT GEORGES RCS vs CHIEFS WSL (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20250208T130000Z
+DTEND;VALUE=DATE-TIME:20250208T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_3B_18_221_303
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Vert\
- n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.destin@gmai
- l.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"avenue Parmentie
- r\, puis 1ère rue à main gauche.\n\nVérifiez toujours ces infos sur htt
- p://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_1_saint_ge
- orges_rcs
-GEO:50.8343279;4.4397562
-LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
- e\, Belgique
-ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J22: BLEU-BLANC (ENT)R. vs SAINT GEORGES RCS
-DTSTART;VALUE=DATE-TIME:20240323T143000Z
-DTEND;VALUE=DATE-TIME:20240323T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_3C_22_53_221
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
- pale équipe domicile: Bleu rayé de Blanc\nCouleur principale équipe ext
- erieure: Blanc\n\nContact équipe domicile: Mineur X. (0471.56.08.07 - jos
- exavier.mineur@gmail.com)\n\nAccès voiture : Avenue de Tervuren\, prendre
-  l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujour
- s ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.
- be/c/221_1_saint_georges_rcs
-GEO:50.8343279;4.4397562
-LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
- e\, Belgique
-ORGANIZER;CN="Mineur X.";ROLE=Secrétaire:MAILTO:josexavier.mineur@gmail.c
- om
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J25: SAINT GEORGES RCS vs RHINOCEROS
-DTSTART;VALUE=DATE-TIME:20240406T133000Z
-DTEND;VALUE=DATE-TIME:20240406T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_3C_25_221_654
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Jaune
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Blanc
  \n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.destin@gma
  il.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"avenue Parmenti
  er\, puis 1ère rue à main gauche.\n\nVérifiez toujours ces infos sur ht
  tp://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_1_saint_g
  eorges_rcs
-GEO:50.8343279;4.4397562
+GEO:50.8333897;4.4384038
 LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
  e\, Belgique
 ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J19: WATERMAEL FC vs SAINT GEORGES RCS
+DTSTART;VALUE=DATE-TIME:20250215T130000Z
+DTEND;VALUE=DATE-TIME:20250215T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_3B_19_611_221
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Deschamps J. (0477.67.76.37 - jul_desch@hotma
+ il.com)\n\nAccès voiture : A partir du square des Archiducs\, prendre la 
+ rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez toujours ces 
+ infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/2
+ 21_1_saint_georges_rcs
+GEO:50.80645209999999;4.4087184
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J24: LA LORRAINE-MTM.R (Eq. 2) vs SAINT GEORGES RCS
+DTSTART;VALUE=DATE-TIME:20250222T113000Z
+DTEND;VALUE=DATE-TIME:20250222T130000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_3B_24_44_221
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Degimbe M. (0478.53.63.56 - lalorrainefc@gmai
+ l.com)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur ht
+ tp://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_1_saint_g
+ eorges_rcs
+GEO:50.7282426;4.5537189
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="Degimbe M.";ROLE=Secrétaire:MAILTO:lalorrainefc@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J20: NIVELLOIS-ACLOT BS vs SAINT GEORGES RCS
+DTSTART;VALUE=DATE-TIME:20250308T140000Z
+DTEND;VALUE=DATE-TIME:20250308T153000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_3B_20_503_221
+DESCRIPTION:Terrain synthétique: non\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
+ e: Blanc\n\nContact équipe domicile: Draux N. (0472.40.01.22 - ni.draux@g
+ mail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoroute Bru
+ xelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le po
+ nt de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au rond-
+ point (Shopping Center)\, tourner à droite en direction de Wavre (petit r
+ ing de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point du 
+ Shopping Center)\, tourner à gauche \, rue de l'Industrie et pénétrer d
+ ans le zoning. Au bout de la rue\, avant le feu de signalisation\, tourner
+  à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérifiez t
+ oujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cal
+ abssa.be/c/221_1_saint_georges_rcs
+GEO:50.5963705;4.3564539
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Draux N.";ROLE=Secrétaire:MAILTO:ni.draux@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J21: SAINT GEORGES RCS vs AZUR RCS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20250315T130000Z
+DTEND;VALUE=DATE-TIME:20250315T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_3B_21_221_109
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.destin@gmai
+ l.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"avenue Parmentie
+ r\, puis 1ère rue à main gauche.\n\nVérifiez toujours ces infos sur htt
+ p://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_1_saint_ge
+ orges_rcs
+GEO:50.8333897;4.4384038
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J22: TRINQUANT vs SAINT GEORGES RCS
+DTSTART;VALUE=DATE-TIME:20250322T113000Z
+DTEND;VALUE=DATE-TIME:20250322T130000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_3B_22_445_221
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Blanc\n\nContact équipe domicile: Bernard J-M. (0476.66.08.14 - jmbernar
+ d.trinquant@yahoo.fr)\n\nAccès voiture : Venant de Bruxelles\, prendre le
+  Ring Est direction Waterloo. Sortir au pont de Groenendael\, direction La
+  Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, 
+ toujours tout droit. Au feu de signalisation et le carrefour de La Hulpe\,
+  tout droit direction Genval. Au feu de signalisation prendre à gauche et
+  ensuite directement à droite\, l'avenue Soyer\, derrière le G.B. Le ter
+ rain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.ab
+ ssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_1_saint_georges_rcs
+GEO:50.7308998;4.4944678
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Bernard J-M.";ROLE=Secrétaire:MAILTO:jmbernard.trinquant@ya
+ hoo.fr
 END:VEVENT
 END:VCALENDAR

@@ -4,11 +4,189 @@ PRODID:2_1_entente_racb
 X-WR-CALDESC:Les matches du club ENTENTE  RACB (equipe 1) en ABSSA.
 X-WR-CALNAME:ABSSA: ENTENTE  RACB (eq. 1)
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J10: UNION JP vs ENTENTE  RACB
-DTSTART;VALUE=DATE-TIME:20230902T133000Z
-DTEND;VALUE=DATE-TIME:20230902T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_2A_10_504_2
+SUMMARY:ABSSA D2A J23: VETUSO FC. vs ENTENTE  RACB
+DTSTART;VALUE=DATE-TIME:20240831T120000Z
+DTEND;VALUE=DATE-TIME:20240831T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_2A_23_624_2
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge\
+ n\nContact équipe domicile: Day N. (0494.57.83.26 - nicolas.day@ucb.com)\
+ n\nAccès voiture : Venant de Bruxelles prendre le Ring Ouest\, sortie Gen
+ appe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi) directio
+ n Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le carrefou
+ r\, tout droit direction route du sucre.\n\nVérifiez toujours ces infos s
+ ur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/2_1_ente
+ nte_racb
+GEO:50.6007528;4.4472782
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER;CN="Day N.";ROLE=Secrétaire:MAILTO:nicolas.day@ucb.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J1: BRAINE-TERMINUS FC vs ENTENTE  RACB
+DTSTART;VALUE=DATE-TIME:20240907T133000Z
+DTEND;VALUE=DATE-TIME:20240907T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_2A_1_537_2
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
+ pale équipe domicile: Jaune et rouge\nCouleur principale équipe exterieu
+ re: Rouge\n\nContact équipe domicile: Dero G. (0479.81.83.27 - fcbrainete
+ rminus@gmail.com)\n\nAccès voiture : En venant de Bruxelles : Autoroute T
+ ournai - Lille (A8)\, prendre la sortie n° 24\, direction Rebecq\, puis l
+ a N 6 Bruxelles-Mons en direction de Mons. Entrer dans l'agglomération de
+  Braine-Le-Comte et prendre la 1ère rue à droite\, le terrain se situe a
+ u bout de la rue.\nEn venant de Nivelles : Prendre la N533\, Nivelles/Brai
+ ne-Le-Comte. Entrer dans l'agglomération de Braine-Le-Comte et suivre la 
+ direction de Bruxelles (N 6 Mons-Bruxelles)\, prendre la 1ère rue à gauc
+ he\, le terrain se situe au bout de la rue.\n\nVérifiez toujours ces info
+ s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/2_1_e
+ ntente_racb
+GEO:50.6194169;4.1351187
+LOCATION:Rue du Poseur 39\, 7090 Braine-Le-Comte\, Belgique
+ORGANIZER;CN="Dero G.";ROLE=Secrétaire:MAILTO:fcbraineterminus@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J2: ENTENTE  RACB vs HIGGINS-PUMAS
+DTSTART;VALUE=DATE-TIME:20240914T120000Z
+DTEND;VALUE=DATE-TIME:20240914T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_2A_2_2_416
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rayé
+  Bleu et Blanc\n\nContact équipe domicile: Dath D. (0473.47.15.41 - danie
+ l.dath@hotmail.com)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilv
+ orde\, vers Neder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre ju
+ squ'au rond-point\, tout droit Chemin Vert\, puis première à gauche\, Pe
+ tit Chemin Vert\, terrain à 300 m.\n\nVérifiez toujours ces infos sur ht
+ tp://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/2_1_entente_r
+ acb
+GEO:50.89983369999999;4.3936101
+LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
+ORGANIZER;CN="Dath D.";ROLE=Secrétaire:MAILTO:daniel.dath@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J3: FORESTOIS SC vs ENTENTE  RACB
+DTSTART;VALUE=DATE-TIME:20240921T120000Z
+DTEND;VALUE=DATE-TIME:20240921T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_2A_3_152_2
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge\
+ n\nContact équipe domicile: Janssens P. (0479.95.08.14 - patj.scf@gmail.c
+ om)\n\nAccès voiture : Au départ de la Place St. Denis à Forest prendre
+  la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à dr
+ oite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gauche
+  (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du Co
+ mplexe se trouve à hauteur de City Cart\, à gauche de la route.\n\nVéri
+ fiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https
+ ://calabssa.be/c/2_1_entente_racb
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J4: ENTENTE  RACB vs BIG JEFKE
+DTSTART;VALUE=DATE-TIME:20240928T120000Z
+DTEND;VALUE=DATE-TIME:20240928T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_2A_4_2_137
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Blanc
+ \n\nContact équipe domicile: Dath D. (0473.47.15.41 - daniel.dath@hotmail
+ .com)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\, vers Ne
+ der-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-po
+ int\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Ver
+ t\, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa
+ .be/\nVoir sur calabssa: https://calabssa.be/c/2_1_entente_racb
+GEO:50.89983369999999;4.3936101
+LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
+ORGANIZER;CN="Dath D.";ROLE=Secrétaire:MAILTO:daniel.dath@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J5: IRLANDE FC (Eq. 2) vs ENTENTE  RACB
+DTSTART;VALUE=DATE-TIME:20241005T103000Z
+DTEND;VALUE=DATE-TIME:20241005T120000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_2A_5_402_2
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: N04\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Rouge\
+ n\nContact équipe domicile: Penouilh S. (0474.97.79.48 - fci.secretary.me
+ ns@outlook.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à Nossegem
+ \, au premier croisement prendre à gauche la \nMechelsesteenweg. Le terra
+ in est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\
+ , prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelseste
+ enweg\, traverser la chaussée de Louvain\, et suivre comme ci-avant.\n\nV
+ érifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: h
+ ttps://calabssa.be/c/2_1_entente_racb
+GEO:50.88776559999999;4.50894
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER;CN="Penouilh S.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@outl
+ ook.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J6: ENTENTE  RACB vs BRUSSELS BRITISH R (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20241012T120000Z
+DTEND;VALUE=DATE-TIME:20241012T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_2A_6_2_1
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Blanc
+ \n\nContact équipe domicile: Dath D. (0473.47.15.41 - daniel.dath@hotmail
+ .com)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\, vers Ne
+ der-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-po
+ int\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Ver
+ t\, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa
+ .be/\nVoir sur calabssa: https://calabssa.be/c/2_1_entente_racb
+GEO:50.89983369999999;4.3936101
+LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
+ORGANIZER;CN="Dath D.";ROLE=Secrétaire:MAILTO:daniel.dath@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J25: ENTENTE  RACB vs BESACE RFC
+DTSTART;VALUE=DATE-TIME:20241019T120000Z
+DTEND;VALUE=DATE-TIME:20241019T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_2A_25_2_24
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Dath D. (0473.47.15.41 - daniel.dath@hotmail.
+ com)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\, vers Ned
+ er-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-poi
+ nt\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Vert
+ \, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa.
+ be/\nVoir sur calabssa: https://calabssa.be/c/2_1_entente_racb
+GEO:50.89983369999999;4.3936101
+LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
+ORGANIZER;CN="Dath D.";ROLE=Secrétaire:MAILTO:daniel.dath@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J26: BRITISH UNITED (Eq. 2) vs ENTENTE  RACB
+DTSTART;VALUE=DATE-TIME:20241026T103000Z
+DTEND;VALUE=DATE-TIME:20241026T120000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_2A_26_132_2
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge\
+ n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gillesvander
+ seypen@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la 
+ rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 
+ 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours c
+ es infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/
+ c/2_1_entente_racb
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
+ gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J7: UNION JP vs ENTENTE  RACB
+DTSTART;VALUE=DATE-TIME:20241102T143000Z
+DTEND;VALUE=DATE-TIME:20241102T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_2A_7_504_2
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
  pale équipe domicile: Bleu et jaune\nCouleur principale équipe exterieur
  e: Rouge\n\nContact équipe domicile: Vanderweyen V (0497.35.33.49 - victo
@@ -25,11 +203,142 @@ ORGANIZER;CN="Vanderweyen V";ROLE=Secrétaire:MAILTO:victor.vanderweyen@gm
  ail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J1: HIGGINS-PUMAS vs ENTENTE  RACB
-DTSTART;VALUE=DATE-TIME:20230909T133000Z
-DTEND;VALUE=DATE-TIME:20230909T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_2A_1_416_2
+SUMMARY:ABSSA D2A J8: ENTENTE  RACB vs UNION TIGERS
+DTSTART;VALUE=DATE-TIME:20241109T130000Z
+DTEND;VALUE=DATE-TIME:20241109T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_2A_8_2_649
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu 
+ ciel et Blanc\n\nContact équipe domicile: Dath D. (0473.47.15.41 - daniel
+ .dath@hotmail.com)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvo
+ rde\, vers Neder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jus
+ qu'au rond-point\, tout droit Chemin Vert\, puis première à gauche\, Pet
+ it Chemin Vert\, terrain à 300 m.\n\nVérifiez toujours ces infos sur htt
+ p://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/2_1_entente_ra
+ cb
+GEO:50.89983369999999;4.3936101
+LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
+ORGANIZER;CN="Dath D.";ROLE=Secrétaire:MAILTO:daniel.dath@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J9: SCHEUT FC vs ENTENTE  RACB
+DTSTART;VALUE=DATE-TIME:20241116T133000Z
+DTEND;VALUE=DATE-TIME:20241116T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_2A_9_274_2
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge\
+ n\nContact équipe domicile: Huys R. (0477.59.24.22 - fcscheut@yahoo.fr)\n
+ \nAccès voiture : En venant de la Route de Lennik (Citroën) ou de la Cha
+ ussée de Mons (Ikea)\, prendre la direction du cimetière d'Anderlecht\, 
+ emprunter le Boulevard Josse Leemans\, au rond-point prendre la sortie pou
+ r la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe et des te
+ rrains se situe à +/- 500 m. sur la gauche.\n\nVérifiez toujours ces inf
+ os sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/2_1_
+ entente_racb
+GEO:50.8114295;4.2763934
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Huys R.";ROLE=Secrétaire:MAILTO:fcscheut@yahoo.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J12: BESACE RFC vs ENTENTE  RACB
+DTSTART;VALUE=DATE-TIME:20241123T123000Z
+DTEND;VALUE=DATE-TIME:20241123T140000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_2A_12_24_2
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge\
+ n\nContact équipe domicile: Masset M. (0485.61.39.19 - rfcbesace.024@gmai
+ l.com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nEn venant 
+ de Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi pren
+ dre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point. Le
+  terrain se trouve en face de la pompe à essence Q8.\n\nVérifiez toujour
+ s ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.
+ be/c/2_1_entente_racb
+GEO:50.883299;4.316365
+LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
+ORGANIZER;CN="Masset M.";ROLE=Secrétaire:MAILTO:rfcbesace.024@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J11: ENTENTE  RACB vs TOURINNOIS FC
+DTSTART;VALUE=DATE-TIME:20241130T130000Z
+DTEND;VALUE=DATE-TIME:20241130T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_2A_11_2_292
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rouge
+ \n\nContact équipe domicile: Dath D. (0473.47.15.41 - daniel.dath@hotmail
+ .com)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\, vers Ne
+ der-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-po
+ int\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Ver
+ t\, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa
+ .be/\nVoir sur calabssa: https://calabssa.be/c/2_1_entente_racb
+GEO:50.89983369999999;4.3936101
+LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
+ORGANIZER;CN="Dath D.";ROLE=Secrétaire:MAILTO:daniel.dath@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J10: ENTENTE  RACB vs VETUSO FC.
+DTSTART;VALUE=DATE-TIME:20241207T130000Z
+DTEND;VALUE=DATE-TIME:20241207T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_2A_10_2_624
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Dath D. (0473.47.15.41 - daniel.dath@hotmail.
+ com)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\, vers Ned
+ er-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-poi
+ nt\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Vert
+ \, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa.
+ be/\nVoir sur calabssa: https://calabssa.be/c/2_1_entente_racb
+GEO:50.89983369999999;4.3936101
+LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
+ORGANIZER;CN="Dath D.";ROLE=Secrétaire:MAILTO:daniel.dath@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J13: ENTENTE  RACB vs BRITISH UNITED (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20241214T130000Z
+DTEND;VALUE=DATE-TIME:20241214T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_2A_13_2_132
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Dath D. (0473.47.15.41 - daniel.dath@hotmail.
+ com)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\, vers Ned
+ er-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-poi
+ nt\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Vert
+ \, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa.
+ be/\nVoir sur calabssa: https://calabssa.be/c/2_1_entente_racb
+GEO:50.89983369999999;4.3936101
+LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
+ORGANIZER;CN="Dath D.";ROLE=Secrétaire:MAILTO:daniel.dath@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J14: ENTENTE  RACB vs BRAINE-TERMINUS FC
+DTSTART;VALUE=DATE-TIME:20250111T130000Z
+DTEND;VALUE=DATE-TIME:20250111T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_2A_14_2_537
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Jaune
+  et rouge\n\nContact équipe domicile: Dath D. (0473.47.15.41 - daniel.dat
+ h@hotmail.com)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\
+ , vers Neder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'a
+ u rond-point\, tout droit Chemin Vert\, puis première à gauche\, Petit C
+ hemin Vert\, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://
+ www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/2_1_entente_racb
+GEO:50.89983369999999;4.3936101
+LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
+ORGANIZER;CN="Dath D.";ROLE=Secrétaire:MAILTO:daniel.dath@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J15: HIGGINS-PUMAS vs ENTENTE  RACB
+DTSTART;VALUE=DATE-TIME:20250118T143000Z
+DTEND;VALUE=DATE-TIME:20250118T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_2A_15_416_2
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
  erieure: Rouge\n\nContact équipe domicile: De Biolley Ph. (0477.23.31.25 
@@ -47,203 +356,11 @@ ORGANIZER;CN="De Biolley Ph.";ROLE=Secrétaire:MAILTO:philippe.debiolley@g
  mail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J2: ENTENTE  RACB vs GAST FC
-DTSTART;VALUE=DATE-TIME:20230916T120000Z
-DTEND;VALUE=DATE-TIME:20230916T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_2A_2_2_388
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Lign
- é Jaune et bleu\n\nContact équipe domicile: Dath D. (0473.47.15.41 - dan
- iel.dath@hotmail.com)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vi
- lvorde\, vers Neder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre 
- jusqu'au rond-point\, tout droit Chemin Vert\, puis première à gauche\, 
- Petit Chemin Vert\, terrain à 300 m.\n\nVérifiez toujours ces infos sur 
- http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/2_1_entente
- _racb
-GEO:50.89983369999999;4.3936101
-LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
-ORGANIZER;CN="Dath D.";ROLE=Secrétaire:MAILTO:daniel.dath@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J3: HERMES FC vs ENTENTE  RACB
-DTSTART;VALUE=DATE-TIME:20230923T120000Z
-DTEND;VALUE=DATE-TIME:20230923T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_2A_3_357_2
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
- pale équipe domicile: Jaune et Bleu\nCouleur principale équipe exterieur
- e: Rouge\n\nContact équipe domicile: Antonakopoulos A (0494.88.34.72 - he
- rmesfc1984@gmail.com)\n\nAccès voiture : A partir du square des Archiducs
- \, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez
-  toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://c
- alabssa.be/c/2_1_entente_racb
-GEO:50.8059082;4.4137428
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER;CN="Antonakopoulos A";ROLE=Secrétaire:MAILTO:hermesfc1984@gmail
- .com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J4: ENTENTE  RACB vs IRLANDE FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20230930T120000Z
-DTEND;VALUE=DATE-TIME:20230930T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_2A_4_2_402
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Vert\
- n\nContact équipe domicile: Dath D. (0473.47.15.41 - daniel.dath@hotmail.
- com)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\, vers Ned
- er-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-poi
- nt\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Vert
- \, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa.
- be/\nVoir sur calabssa: https://calabssa.be/c/2_1_entente_racb
-GEO:50.89983369999999;4.3936101
-LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
-ORGANIZER;CN="Dath D.";ROLE=Secrétaire:MAILTO:daniel.dath@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J5: AZUR RCS vs ENTENTE  RACB
-DTSTART;VALUE=DATE-TIME:20231007T130000Z
-DTEND;VALUE=DATE-TIME:20231007T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_2A_5_109_2
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W12\n\nCouleur princi
- pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: R
- ouge\n\nContact équipe domicile: Mad. Decamps N. (0477.27.39.66 - nathali
- e_decamps@hotmail.com)\n\nAccès voiture : Avenue de Tervuren\, direction 
- Tervuren. Passé le boulevard du Souverain prendre à gauche au premier fe
- u de signalisation (Av. Madoux). Au feu de signalisation suivant prendre l
- a 2ème rue à main droite (Av. J. Dujardin). Ensuite 1ère rue à gauche 
- (Av. Salomé).\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nV
- oir sur calabssa: https://calabssa.be/c/2_1_entente_racb
-GEO:50.830818;4.455442
-LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
- elgique
-ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
- tmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J6: ENTENTE  RACB vs BRUSSELS BRITISH R (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20231014T120000Z
-DTEND;VALUE=DATE-TIME:20231014T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_2A_6_2_1
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Blanc
- \n\nContact équipe domicile: Dath D. (0473.47.15.41 - daniel.dath@hotmail
- .com)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\, vers Ne
- der-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-po
- int\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Ver
- t\, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa
- .be/\nVoir sur calabssa: https://calabssa.be/c/2_1_entente_racb
-GEO:50.89983369999999;4.3936101
-LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
-ORGANIZER;CN="Dath D.";ROLE=Secrétaire:MAILTO:daniel.dath@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J8: ENTENTE  RACB vs BRITISH UNITED
-DTSTART;VALUE=DATE-TIME:20231021T120000Z
-DTEND;VALUE=DATE-TIME:20231021T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_2A_8_2_132
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu\
- n\nContact équipe domicile: Dath D. (0473.47.15.41 - daniel.dath@hotmail.
- com)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\, vers Ned
- er-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-poi
- nt\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Vert
- \, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa.
- be/\nVoir sur calabssa: https://calabssa.be/c/2_1_entente_racb
-GEO:50.89983369999999;4.3936101
-LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
-ORGANIZER;CN="Dath D.";ROLE=Secrétaire:MAILTO:daniel.dath@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J24: ITT - GECKO FC vs ENTENTE  RACB
-DTSTART;VALUE=DATE-TIME:20231028T133000Z
-DTEND;VALUE=DATE-TIME:20231028T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_2A_24_92_2
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: N04\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge\
- n\nContact équipe domicile: Nicolas J-P (0475.22.50.98 - j_pnicolas@hotma
- il.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à Nossegem\, au pr
- emier croisement prendre à gauche la \nMechelsesteenweg. Le terrain est i
- ndiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\, prendr
- e la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelsesteenweg\, 
- traverser la chaussée de Louvain\, et suivre comme ci-avant.\n\nVérifiez
-  toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://c
- alabssa.be/c/2_1_entente_racb
-GEO:50.88776559999999;4.50894
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER;CN="Nicolas J-P";ROLE=Secrétaire:MAILTO:j_pnicolas@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J7: TOURINNOIS FC vs ENTENTE  RACB
-DTSTART;VALUE=DATE-TIME:20231104T140000Z
-DTEND;VALUE=DATE-TIME:20231104T153000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_2A_7_292_2
-DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rouge
- \n\nContact équipe domicile: Strade P. (010.65.83.02 - stradepaul@hotmail
- .com)\n\nAccès voiture : A partir de l'autoroute Bruxelles-Namur (E411)\,
-  prendre la sortie  Walhain (n° 10). Au pied de la rampe d'accès\, suivr
- e la direction Walhain vers la droite et après 200 m. prendre à droite e
- t 400 m. plus loin\, prendre à nouveau à droite. Le terrain se trouve à
-  +/- 300 m. sur la gauche.\n\nVérifiez toujours ces infos sur http://www.
- abssa.be/\nVoir sur calabssa: https://calabssa.be/c/2_1_entente_racb
-GEO:50.6414624;4.7191939
-LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
-ORGANIZER;CN="Strade P.";ROLE=Secrétaire:MAILTO:stradepaul@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J9: ENTENTE  RACB vs STER'S
-DTSTART;VALUE=DATE-TIME:20231118T130000Z
-DTEND;VALUE=DATE-TIME:20231118T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_2A_9_2_598
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Vert 
- et Blanc\n\nContact équipe domicile: Dath D. (0473.47.15.41 - daniel.dath
- @hotmail.com)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\,
-  vers Neder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au
-  rond-point\, tout droit Chemin Vert\, puis première à gauche\, Petit Ch
- emin Vert\, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://w
- ww.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/2_1_entente_racb
-GEO:50.89983369999999;4.3936101
-LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
-ORGANIZER;CN="Dath D.";ROLE=Secrétaire:MAILTO:daniel.dath@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J12: AMB. AUDERGHEM vs ENTENTE  RACB
-DTSTART;VALUE=DATE-TIME:20231125T143000Z
-DTEND;VALUE=DATE-TIME:20231125T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_2A_12_249_2
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge\
- n\nContact équipe domicile: Leclef R. (0473.13.76.27 - renaudleclef@hotma
- il.fr)\n\nAccès voiture : En venant de Bruxelles par la chaussée de Wavr
- e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
- nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
- PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
- errain se trouve à 200 m. Le stade est fléché.\n\nVérifiez toujours ce
- s infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c
- /2_1_entente_racb
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER;CN="Leclef R.";ROLE=Secrétaire:MAILTO:renaudleclef@hotmail.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J11: ENTENTE  RACB vs ITT - GECKO FC
-DTSTART;VALUE=DATE-TIME:20231202T130000Z
-DTEND;VALUE=DATE-TIME:20231202T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_2A_11_2_92
+SUMMARY:ABSSA D2A J16: ENTENTE  RACB vs FORESTOIS SC
+DTSTART;VALUE=DATE-TIME:20250125T130000Z
+DTEND;VALUE=DATE-TIME:20250125T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_2A_16_2_152
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
  pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Noir\
  n\nContact équipe domicile: Dath D. (0473.47.15.41 - daniel.dath@hotmail.
@@ -257,13 +374,31 @@ LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
 ORGANIZER;CN="Dath D.";ROLE=Secrétaire:MAILTO:daniel.dath@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J13: ENTENTE  RACB vs VETUSO FC.
-DTSTART;VALUE=DATE-TIME:20231209T130000Z
-DTEND;VALUE=DATE-TIME:20231209T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_2A_13_2_624
+SUMMARY:ABSSA D2A J17: BIG JEFKE vs ENTENTE  RACB
+DTSTART;VALUE=DATE-TIME:20250201T143000Z
+DTEND;VALUE=DATE-TIME:20250201T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_2A_17_137_2
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu\
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
+ \n\nContact équipe domicile: Pierard J. (0478.77.84.07 - pierard.j@hotmai
+ l.com)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\, vers N
+ eder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-p
+ oint\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Ve
+ rt\, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://www.abss
+ a.be/\nVoir sur calabssa: https://calabssa.be/c/2_1_entente_racb
+GEO:50.89983369999999;4.3936101
+LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
+ORGANIZER;CN="Pierard J.";ROLE=Secrétaire:MAILTO:pierard.j@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J18: ENTENTE  RACB vs IRLANDE FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20250208T130000Z
+DTEND;VALUE=DATE-TIME:20250208T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_2A_18_2_402
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Vert\
  n\nContact équipe domicile: Dath D. (0473.47.15.41 - daniel.dath@hotmail.
  com)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\, vers Ned
  er-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-poi
@@ -275,144 +410,48 @@ LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
 ORGANIZER;CN="Dath D.";ROLE=Secrétaire:MAILTO:daniel.dath@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J14: ENTENTE  RACB vs HIGGINS-PUMAS
-DTSTART;VALUE=DATE-TIME:20240113T130000Z
-DTEND;VALUE=DATE-TIME:20240113T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_2A_14_2_416
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rayé
-  Bleu et Blanc\n\nContact équipe domicile: Dath D. (0473.47.15.41 - danie
- l.dath@hotmail.com)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilv
- orde\, vers Neder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre ju
- squ'au rond-point\, tout droit Chemin Vert\, puis première à gauche\, Pe
- tit Chemin Vert\, terrain à 300 m.\n\nVérifiez toujours ces infos sur ht
- tp://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/2_1_entente_r
- acb
-GEO:50.89983369999999;4.3936101
-LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
-ORGANIZER;CN="Dath D.";ROLE=Secrétaire:MAILTO:daniel.dath@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J15: GAST FC vs ENTENTE  RACB
-DTSTART;VALUE=DATE-TIME:20240120T124500Z
-DTEND;VALUE=DATE-TIME:20240120T141500Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_2A_15_388_2
-DESCRIPTION:Terrain synthétique: non\nCode terrain: D01\n\nCouleur princi
- pale équipe domicile: Ligné Jaune et bleu\nCouleur principale équipe ex
- terieure: Rouge\n\nContact équipe domicile: Clais D. (0476.99.88.10 - dav
- idclais@hotmail.com)\n\nAccès voiture : Prendre l'Autoroute ou le ring Br
- uxelles-Mons-Paris\, sortie Drogenbos. Prendre direction Drogenbos-Centre\
- , passer devant la Maison Communale et le terminus du tram\, ensuite à la
-  3ème rue tourner à main droite (Le terrain se trouve au bout de la rue 
- au Bois).\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir s
- ur calabssa: https://calabssa.be/c/2_1_entente_racb
-GEO:50.7815028;4.3192053
-LOCATION:Stade Communal de Drogenbos\, Rue au Bois\, 1620 Drogenbos\, Belg
- ique
-ORGANIZER;CN="Clais D.";ROLE=Secrétaire:MAILTO:davidclais@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J16: ENTENTE  RACB vs HERMES FC
-DTSTART;VALUE=DATE-TIME:20240127T130000Z
-DTEND;VALUE=DATE-TIME:20240127T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_2A_16_2_357
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Jaune
-  et Bleu\n\nContact équipe domicile: Dath D. (0473.47.15.41 - daniel.dath
- @hotmail.com)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\,
-  vers Neder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au
-  rond-point\, tout droit Chemin Vert\, puis première à gauche\, Petit Ch
- emin Vert\, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://w
- ww.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/2_1_entente_racb
-GEO:50.89983369999999;4.3936101
-LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
-ORGANIZER;CN="Dath D.";ROLE=Secrétaire:MAILTO:daniel.dath@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J17: IRLANDE FC (Eq. 2) vs ENTENTE  RACB
-DTSTART;VALUE=DATE-TIME:20240203T113000Z
-DTEND;VALUE=DATE-TIME:20240203T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_2A_17_402_2
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: N04\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Rouge\
- n\nContact équipe domicile: Bridoux J.F. (0455.12.12.65 - fci.secretary.m
- ens@outlook.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à Nossege
- m\, au premier croisement prendre à gauche la \nMechelsesteenweg. Le terr
- ain est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège
- \, prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelsest
- eenweg\, traverser la chaussée de Louvain\, et suivre comme ci-avant.\n\n
- Vérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: 
- https://calabssa.be/c/2_1_entente_racb
-GEO:50.88776559999999;4.50894
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER;CN="Bridoux J.F.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@out
- look.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J18: ENTENTE  RACB vs AZUR RCS
-DTSTART;VALUE=DATE-TIME:20240210T130000Z
-DTEND;VALUE=DATE-TIME:20240210T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_2A_18_2_109
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu 
- ciel\n\nContact équipe domicile: Dath D. (0473.47.15.41 - daniel.dath@hot
- mail.com)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\, ver
- s Neder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au ron
- d-point\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin
-  Vert\, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://www.a
- bssa.be/\nVoir sur calabssa: https://calabssa.be/c/2_1_entente_racb
-GEO:50.89983369999999;4.3936101
-LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
-ORGANIZER;CN="Dath D.";ROLE=Secrétaire:MAILTO:daniel.dath@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ABSSA D2A J19: BRUSSELS BRITISH R (Eq. 2) vs ENTENTE  RACB
-DTSTART;VALUE=DATE-TIME:20240217T143000Z
-DTEND;VALUE=DATE-TIME:20240217T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_2A_19_1_2
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
+DTSTART;VALUE=DATE-TIME:20250215T113000Z
+DTEND;VALUE=DATE-TIME:20250215T130000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_2A_19_1_2
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
  pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
- \n\nContact équipe domicile: Lachia S. (0484.27.72.64 - abssa-sec@rbbfc.o
- rg)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Pass
- er devant l'église\, longer l'autoroute et tourner à droite au cimetièr
- e des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur http:
- //www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/2_1_entente_racb
+ \n\nContact équipe domicile: O'Connor G (0456.54.46.67 - abssa-sec@rbbfc.
+ org)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Pas
+ ser devant l'église\, longer l'autoroute et tourner à droite au cimetiè
+ re des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur http
+ ://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/2_1_entente_rac
+ b
 GEO:50.7282426;4.5537189
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER;CN="Lachia S.";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
+ORGANIZER;CN="O'Connor G";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J26: VETUSO FC. vs ENTENTE  RACB
-DTSTART;VALUE=DATE-TIME:20240224T130000Z
-DTEND;VALUE=DATE-TIME:20240224T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_2A_26_624_2
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge\
- n\nContact équipe domicile: Day N. (0494.57.83.26 - nicolas.day@ucb.com)\
- n\nAccès voiture : Venant de Bruxelles prendre le Ring Ouest\, sortie Gen
- appe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi) directio
- n Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le carrefou
- r\, tout droit direction route du sucre.\n\nVérifiez toujours ces infos s
- ur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/2_1_ente
- nte_racb
-GEO:50.6007528;4.4472782
-LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
-ORGANIZER;CN="Day N.";ROLE=Secrétaire:MAILTO:nicolas.day@ucb.com
+SUMMARY:ABSSA D2A J24: TOURINNOIS FC vs ENTENTE  RACB
+DTSTART;VALUE=DATE-TIME:20250222T140000Z
+DTEND;VALUE=DATE-TIME:20250222T153000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_2A_24_292_2
+DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rouge
+ \n\nContact équipe domicile: Strade P. (010.65.83.02 - stradepaul@hotmail
+ .com)\n\nAccès voiture : A partir de l'autoroute Bruxelles-Namur (E411)\,
+  prendre la sortie  Walhain (n° 10). Au pied de la rampe d'accès\, suivr
+ e la direction Walhain vers la droite et après 200 m. prendre à droite e
+ t 400 m. plus loin\, prendre à nouveau à droite. Le terrain se trouve à
+  +/- 300 m. sur la gauche.\n\nVérifiez toujours ces infos sur http://www.
+ abssa.be/\nVoir sur calabssa: https://calabssa.be/c/2_1_entente_racb
+GEO:50.6415282;4.7193257
+LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
+ORGANIZER;CN="Strade P.";ROLE=Secrétaire:MAILTO:stradepaul@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J23: ENTENTE  RACB vs UNION JP
-DTSTART;VALUE=DATE-TIME:20240302T130000Z
-DTEND;VALUE=DATE-TIME:20240302T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_2A_23_2_504
+SUMMARY:ABSSA D2A J20: ENTENTE  RACB vs UNION JP
+DTSTART;VALUE=DATE-TIME:20250308T130000Z
+DTEND;VALUE=DATE-TIME:20250308T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_2A_20_2_504
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
  pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu 
  et jaune\n\nContact équipe domicile: Dath D. (0473.47.15.41 - daniel.dath
@@ -426,84 +465,31 @@ LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
 ORGANIZER;CN="Dath D.";ROLE=Secrétaire:MAILTO:daniel.dath@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J20: ENTENTE  RACB vs TOURINNOIS FC
-DTSTART;VALUE=DATE-TIME:20240309T130000Z
-DTEND;VALUE=DATE-TIME:20240309T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_2A_20_2_292
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rouge
- \n\nContact équipe domicile: Dath D. (0473.47.15.41 - daniel.dath@hotmail
- .com)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\, vers Ne
- der-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-po
- int\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Ver
- t\, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa
- .be/\nVoir sur calabssa: https://calabssa.be/c/2_1_entente_racb
-GEO:50.89983369999999;4.3936101
-LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
-ORGANIZER;CN="Dath D.";ROLE=Secrétaire:MAILTO:daniel.dath@hotmail.com
+SUMMARY:ABSSA D2A J21: UNION TIGERS vs ENTENTE  RACB
+DTSTART;VALUE=DATE-TIME:20250315T143000Z
+DTEND;VALUE=DATE-TIME:20250315T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_2A_21_649_2
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A01\n\nCouleur princi
+ pale équipe domicile: Bleu ciel et Blanc\nCouleur principale équipe exte
+ rieure: Rouge\n\nContact équipe domicile: Thibaut L (0472.52.93.45 - unio
+ n.tigers@hotmail.com)\n\nAccès voiture : Par le Ring Ouest\, direction Pa
+ ris\, sortie Westland Shopping Center (n° 14) continuer tout droit\, remo
+ nter vers le Ring et prendre à droite pour sortir vers Itterbeek. Prendre
+  l'avenue d'Itterbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. 
+ Le terrain se trouve à gauche\, entre l'école Van Belle et Veeweyde.\n\n
+ Vérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: 
+ https://calabssa.be/c/2_1_entente_racb
+GEO:50.8354396;4.2768611
+LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
+ORGANIZER;CN="Thibaut L";ROLE=Secrétaire:MAILTO:union.tigers@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J21: BRITISH UNITED vs ENTENTE  RACB
-DTSTART;VALUE=DATE-TIME:20240316T130000Z
-DTEND;VALUE=DATE-TIME:20240316T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_2A_21_132_2
-DESCRIPTION:Terrain synthétique: non\nCode terrain: M02\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge\
- n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gillesvander
- seypen@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Anvers (E19) sor
- tie Mechelen-Noord (n° 9) En arrivant dans le centre\, suivre la directio
- n "Heist-op-den-Berg" Aller tout droit et passer le viaduc du chemin de fe
- r. Après 1 km. suivre les flèches "De Nekker". Garer les voitures à l'e
- xtérieur du complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terra
- in.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur cal
- abssa: https://calabssa.be/c/2_1_entente_racb
-GEO:51.0254354;4.503786799999999
-LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
- ue
-ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
- gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J22: STER'S vs ENTENTE  RACB
-DTSTART;VALUE=DATE-TIME:20240323T113000Z
-DTEND;VALUE=DATE-TIME:20240323T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_2A_22_598_2
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
- pale équipe domicile: Vert et Blanc\nCouleur principale équipe exterieur
- e: Rouge\n\nContact équipe domicile: Reginster Th. (0475.52.11.27 - thoma
- s.reginster@live.be)\n\nAccès voiture : En venant de Bruxelles\, prendre 
- l'autoroute E411 en direction de Namur\, prendre la sortie  Wavre (n° 6)\
- , tenir la droite et au bout de la bretelle\, prendre la direction d'Ottig
- nies par la N238. Au 1èr feu de signalisation continuer tout droit en pas
- sant devant Walibi (qui se trouve sur la gauche) jusqu'à la sortie Limele
- tte. Au bout de cette sortie\, en face du Tennis Club La Palestre\, prendr
- e à droite la rue Charles Dubois\, jusqu'au carrefour principal. Continue
- r tout droit en traversant l'avenue Albert 1èr. Passer en dessous du 1èr
-  pont du chemin de fer et prendre la rue de l'Europe jusqu'à la place de 
- l'Europe. Traverser cette place par la droite. Au bout à gauche\, suivre 
- l'avenue Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.
- C. Limelette). Continuer cette rue et passer en dessous du 2ème pont du c
- hemin de fer. Après ce pont\, prendre tout de suite à gauche l'avenue De
- molder (panneau F.C. Limelette)\, en face de l'étang du Buston. Suivre ce
- tte avenue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. Apr
- ès 50 m. dans cette rue\, prendre à droite l'avenue des Sorbiers (pannea
- u du F.C. Limelette). L'entrée du terrain est située 50 m. plus bas sur 
- la gauche.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir 
- sur calabssa: https://calabssa.be/c/2_1_entente_racb
-GEO:50.6762848;4.562820299999999
-LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER;CN="Reginster Th.";ROLE=Secrétaire:MAILTO:thomas.reginster@live
- .be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J25: ENTENTE  RACB vs AMB. AUDERGHEM
-DTSTART;VALUE=DATE-TIME:20240406T120000Z
-DTEND;VALUE=DATE-TIME:20240406T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_2A_25_2_249
+SUMMARY:ABSSA D2A J22: ENTENTE  RACB vs SCHEUT FC
+DTSTART;VALUE=DATE-TIME:20250322T130000Z
+DTEND;VALUE=DATE-TIME:20250322T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_2A_22_2_274
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
  pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Noir\
  n\nContact équipe domicile: Dath D. (0473.47.15.41 - daniel.dath@hotmail.

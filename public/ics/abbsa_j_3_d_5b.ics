@@ -4,129 +4,134 @@ PRODID:abbsa_j_3_d_5b
 X-WR-CALDESC:Les matches de la journée 3 en divion 5B d'ABSSA.
 X-WR-CALNAME:D5B Journée 3
 BEGIN:VEVENT
-SUMMARY:ABSSA D5B J3: WATERMAEL FC (Eq. 2) vs PECHEUR F.C.
-DTSTART;VALUE=DATE-TIME:20230923T103000Z
-DTEND;VALUE=DATE-TIME:20230923T120000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_5B_3_611_677
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A10\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Vert e
- t blanc\n\nContact équipe domicile: Deschamps J. (0477.67.76.37 - jul_des
- ch@hotmail.com)\n\nAccès voiture : L'accès au terrain se fait à partir 
- du n° 2057 de la chaussée de Wavre (en face du stade communal d'Auderghe
- m). L'accès au terrain se fait par l'arrière du bâtiment principal (où
-  sont situés les vestiaires) il faut parcourir environ 300 mètres avant 
- d'atteindre le terrain de football situé après la piste d'athlétisme et
-  le terrain de hockey.\n\nVérifiez toujours ces infos sur http://www.abss
- a.be/
-GEO:50.8093405;4.4437919
-LOCATION:Complexe de L'Adeps\, Chaussée de Wavre 2057\, 1160 Auderghem\, 
- Belgique
-ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5B J3: MASIA CITY vs UNION BRUXELLOISE
-DTSTART;VALUE=DATE-TIME:20230923T103000Z
-DTEND;VALUE=DATE-TIME:20230923T120000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_5B_3_661_655
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
- pale équipe domicile: Rouge-Noir\nCouleur principale équipe exterieure: 
- Noir/ Bleu\n\nContact équipe domicile: Saoud T. (0460.97.04.65 - masiacit
- y@gmail.com)\n\nAccès voiture : A partir de Bruxelles\, prendre la E 411 
- en direction de Namur. Prendre la sortie N° 8 puis à droite la bretelle 
- pour la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\
- ,5 km\, au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Lib
- ération\, puis à gauche dans la rue de la Grande lecke.\n\nVérifiez tou
- jours ces infos sur http://www.abssa.be/
-GEO:50.7540176;4.7835618
-LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
-ORGANIZER;CN="Saoud T.";ROLE=Secrétaire:MAILTO:masiacity@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5B J3: GALACTIC JUMPERTZ vs CHOULE AUDERGHEM (Eq. 4)
-DTSTART;VALUE=DATE-TIME:20230923T103000Z
-DTEND;VALUE=DATE-TIME:20230923T120000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_5B_3_659_517
-DESCRIPTION:Terrain synthétique: non\nCode terrain: R03\n\nCouleur princi
- pale équipe domicile: Orange\nCouleur principale équipe exterieure: Ray
- é Bleu et Blanc\n\nContact équipe domicile: Eyletten J. (0470.31.54.56 -
-  galactic.jumpertz@gmail.com)\n\nAccès voiture : Par la E411 Bruxelles-Na
- mur\, prendre la sortie n° 5 (Wavre Nord\, Rixensart\, Bierges).\nEnsuite
-  prendre la N257 pendant 700 mètres jusqu'au rond-point\, prendre la rue 
- de l'Etoile et ensuite la rue de Mérode jusqu'à Rixensart. Après 900 m
- ètres\, à la Place de la Perche\, prendre à droite l'avenue de la Paix 
- et encore à droite l'avenue Clermont Tonnerre.\n\nVérifiez toujours ces 
- infos sur http://www.abssa.be/
-GEO:50.7128483;4.5376972
-LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
- 30 Rixensart\, Belgique
-ORGANIZER;CN="Eyletten J.";ROLE=Secrétaire:MAILTO:galactic.jumpertz@gmail
+SUMMARY:ABSSA D5B J3: EQUIPAGE vs BLACK BEARS UNITED
+DTSTART;VALUE=DATE-TIME:20240921T090000Z
+DTEND;VALUE=DATE-TIME:20240921T103000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2024_5B_3_681_676
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rose 
+ et noir\n\nContact équipe domicile: De Meulenaere C. (0473.76.57.11 - equ
+ ipagefc24@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre 
+ l'autoroute E411 en direction de Namur\, prendre la sortie  Wavre (n° 6)\
+ , tenir la droite et au bout de la bretelle\, prendre la direction d'Ottig
+ nies par la N238. Au 1èr feu de signalisation continuer tout droit en pas
+ sant devant Walibi (qui se trouve sur la gauche) jusqu'à la sortie Limele
+ tte. Au bout de cette sortie\, en face du Tennis Club La Palestre\, prendr
+ e à droite la rue Charles Dubois\, jusqu'au carrefour principal. Continue
+ r tout droit en traversant l'avenue Albert 1èr. Passer en dessous du 1èr
+  pont du chemin de fer et prendre la rue de l'Europe jusqu'à la place de 
+ l'Europe. Traverser cette place par la droite. Au bout à gauche\, suivre 
+ l'avenue Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.
+ C. Limelette). Continuer cette rue et passer en dessous du 2ème pont du c
+ hemin de fer. Après ce pont\, prendre tout de suite à gauche l'avenue De
+ molder (panneau F.C. Limelette)\, en face de l'étang du Buston. Suivre ce
+ tte avenue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. Apr
+ ès 50 m. dans cette rue\, prendre à droite l'avenue des Sorbiers (pannea
+ u du F.C. Limelette). L'entrée du terrain est située 50 m. plus bas sur 
+ la gauche.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.67628029999999;4.562802
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="De Meulenaere C.";ROLE=Secrétaire:MAILTO:equipagefc24@gmail
  .com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5B J3: SPORTING BW vs EFFETA FC
-DTSTART;VALUE=DATE-TIME:20230923T120000Z
-DTEND;VALUE=DATE-TIME:20230923T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_5B_3_673_516
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: I03\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
-  et noir\n\nContact équipe domicile: Thumas A. (0472.60.28.90 - sporting.
- bw.abssa@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l
- ’E411 en direction de Namur et prendre la sortie 11 Perwez-Gembloux\, pr
- endre à droite vers Perwez sur la N29 jusqu’au rond-point de Glimes qui
-  croise la N91 (7km depuis l’E411). Sortir à la 3ème sortie sur la N91
-  en\ndirection de Hamme-Mille. Prendre ensuite la 3ème rue à gauche et l
- e terrain se trouve directement sur la droite.\n\nVérifiez toujours ces i
- nfos sur http://www.abssa.be/
-GEO:50.6849677;4.8070879
-LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
-ORGANIZER;CN="Thumas A.";ROLE=Secrétaire:MAILTO:sporting.bw.abssa@gmail.c
- om
+SUMMARY:ABSSA D5B J3: WATERMAEL FC (Eq. 3) vs UNION VREDE
+DTSTART;VALUE=DATE-TIME:20240921T103000Z
+DTEND;VALUE=DATE-TIME:20240921T120000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2024_5B_3_611_683
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: noir e
+ t doré\n\nContact équipe domicile: Deschamps J. (0477.67.76.37 - jul_des
+ ch@hotmail.com)\n\nAccès voiture : A partir du square des Archiducs\, pre
+ ndre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez toujo
+ urs ces infos sur http://www.abssa.be/
+GEO:50.80645209999999;4.4087184
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5B J3: SPIJTOIS FC vs BEA WOLUWE
-DTSTART;VALUE=DATE-TIME:20230923T120000Z
-DTEND;VALUE=DATE-TIME:20230923T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_5B_3_631_459
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: U02\n\nCouleur princi
- pale équipe domicile: Blanc Bordeaux\nCouleur principale équipe exterieu
- re: Bleu\n\nContact équipe domicile: Marchese G. (0496.53.66.37 - marches
- e.gregoire21@yahoo.be)\n\nAccès voiture : L'entrée se fait par la rue du
-  Zwartebeek.\nPar le ring\, prendre la sortie Drogenbos-Ruisbroek\, direct
- ion Uccle\, par la rue de Stalle prolongée.  Après le rond-point prendre
-  la 1ère rue à gauche\, la chaussée de Neerstalle.\nEnsuite la 2ème ru
- e à gauche\, rue du Zwartebeek\, l'entrée du complexe est située à +/-
-  200 mètres sur la droite.\n\nVérifiez toujours ces infos sur http://www
- .abssa.be/
-GEO:50.7970109;4.319077
-LOCATION:Leopold-Uccle\, Rue du Zwartebeek\, 1180 Uccle\, Belgique
-ORGANIZER;CN="Marchese G.";ROLE=Secrétaire:MAILTO:marchese.gregoire21@yah
- oo.be
+SUMMARY:ABSSA D5B J3: BLUE OTTERS F.C. vs BAYERN DE MONIQUE
+DTSTART;VALUE=DATE-TIME:20240921T103000Z
+DTEND;VALUE=DATE-TIME:20240921T120000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2024_5B_3_668_417
+DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge 
+ et blanc\n\nContact équipe domicile: De Crombrugghe A. (0491.63.38.39 - a
+ maurydecrom@yahoo.com)\n\nAccès voiture : Au départ de la Place Meiser\,
+  l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). 
+ Sous le viaduc prendre à droite\, l'avenue des Anciens Combattants. Juste
+  après le carrefour avec des feux de signalisation prendre à droite vers
+  la Place de la Chapelle\, puis prendre la 4ème rue à main droite (rue a
+ u Bois). Le terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujou
+ rs ces infos sur http://www.abssa.be/
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="De Crombrugghe A.";ROLE=Secrétaire:MAILTO:amaurydecrom@yaho
+ o.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5B J3: L'EKIP vs RED STAR BRUSSELS
-DTSTART;VALUE=DATE-TIME:20230923T130000Z
-DTEND;VALUE=DATE-TIME:20230923T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_5B_3_662_663
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: P02\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Blanc
-  et rouge\n\nContact équipe domicile: Maes A (0471.66.04.74 - lekipoffici
- elle@gmail.com)\n\nAccès voiture : a Partir de Bruxelles\, Prendre la E 4
- 11 en Direction de Namur. Prendre la Sortie 11  Gembloux pour Rejoindre la
-  N 29 en Direction de Gembloux / Tirlement / Jodoigne / Perwez. suivre la 
- N29 et Chaussée de Wavre (N243) en Direction de la Rue des Marronniers. a
- u Rond-Point 1\, 2 et 3 Prendre chaque Fois la première Sortie.\nAu Rond-
- Point suivant (4Ième) Prendre la deuxième Sortie et Continuer sur la Cha
- ussée de Wavre / N 243. Prendre à Droite sur la Rue des Marronniers\, le
-  Terrain se Trouve à Droite\n\nVérifiez toujours ces infos sur http://ww
- w.abssa.be/
-GEO:50.6251834;4.8051205
-LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
-ORGANIZER;CN="Maes A";ROLE=Secrétaire:MAILTO:lekipofficielle@gmail.com
+SUMMARY:ABSSA D5B J3: RANGERS F.C. vs COSMOS BRUWOLF MJ
+DTSTART;VALUE=DATE-TIME:20240921T120000Z
+DTEND;VALUE=DATE-TIME:20240921T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2024_5B_3_620_338
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E04\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Orang
+ e\n\nContact équipe domicile: Lemaire N. (0499.43.18.70 - FCRangers14@gma
+ il.com)\n\nAccès voiture : De la Place Meiser\, remonter tous les bouleva
+ rds. Au carrefour de la Chaussée de Wavre\, prendre celle-ci à droite\, 
+ ensuite la 2ème rue à droite (Rue Général Fivé)\, puis la 3ème à dr
+ oite (rue Baron Dhanis).\n\nVérifiez toujours ces infos sur http://www.ab
+ ssa.be/
+GEO:50.8287714;4.3975708
+LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
+ORGANIZER;CN="Lemaire N.";ROLE=Secrétaire:MAILTO:FCRangers14@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J3: CELTIC ROOSTERS (Eq. 2) vs WAPPERS FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240921T120000Z
+DTEND;VALUE=DATE-TIME:20240921T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2024_5B_3_626_67
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
+ pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
+ e: Rayé noir et blanc\n\nContact équipe domicile: Dubois S. (0479.04.13.
+ 70 - celticroosters@gmail.com)\n\nAccès voiture : Autoroute E 411 directi
+ on Namur / Luxembourg\, prendre la sortie n° 6 Wavre\, à gauche N 238 di
+ rection Wavre. Au rond-	point 2ième sortie N238/Blvd. de l'Europe directi
+ on Wavre Centre. Entrer dans Wavre puis à gauche N 238\, à gauche N 239.
+  	Au rond-point prendre la première sortie Rue Haute\, continuer sur rue 
+ de Bruxelles\, continuer sur rue Saint-Roch\, continuer 	sur rue Joseph Jo
+ ppart. Prendre à droite l'avenue du Centre Sportif.\n\nVérifiez toujours
+  ces infos sur http://www.abssa.be/
+GEO:50.72071949999999;4.617067899999999
+LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
+  Belgique
+ORGANIZER;CN="Dubois S.";ROLE=Secrétaire:MAILTO:celticroosters@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J3: WOLUWE FC vs SPIJTOIS FC
+DTSTART;VALUE=DATE-TIME:20240921T133000Z
+DTEND;VALUE=DATE-TIME:20240921T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2024_5B_3_153_631
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R03\n\nCouleur princi
+ pale équipe domicile: Jaune et Bleu\nCouleur principale équipe exterieur
+ e: Blanc Bordeaux\n\nContact équipe domicile: Purnelle K. (0491.08.24.67 
+ - kevin.purnelle@ing.com)\n\nAccès voiture : Par la E411 Bruxelles-Namur\
+ , prendre la sortie n° 5 (Wavre Nord\, Rixensart\, Bierges).\nEnsuite pre
+ ndre la N257 pendant 700 mètres jusqu'au rond-point\, prendre la rue de l
+ 'Etoile et ensuite la rue de Mérode jusqu'à Rixensart. Après 900 mètre
+ s\, à la Place de la Perche\, prendre à droite l'avenue de la Paix et en
+ core à droite l'avenue Clermont Tonnerre.\n\nVérifiez toujours ces infos
+  sur http://www.abssa.be/
+GEO:50.7128483;4.5376972
+LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
+ 30 Rixensart\, Belgique
+ORGANIZER;CN="Purnelle K.";ROLE=Secrétaire:MAILTO:kevin.purnelle@ing.com
 END:VEVENT
 END:VCALENDAR

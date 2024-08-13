@@ -4,118 +4,136 @@ PRODID:abbsa_j_24_d_6b
 X-WR-CALDESC:Les matches de la journée 24 en divion 6B d'ABSSA.
 X-WR-CALNAME:D6B Journée 24
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J24: BRAINE-TERMINUS FC (Eq. 2) vs ETTEKIJS (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20231028T113000Z
-DTEND;VALUE=DATE-TIME:20231028T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115303Z
-UID:2023_6B_24_537_343
-DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
- pale équipe domicile: Jaune et rouge\nCouleur principale équipe exterieu
- re: Noir rayé de blanc\n\nContact équipe domicile: Dero G. (0479.81.83.2
- 7 - fcbraineterminus@gmail.com)\n\nAccès voiture : En venant de Bruxelles
-  : Autoroute Tournai - Lille (A8)\, prendre la sortie n° 24\, direction R
- ebecq\, puis la N 6 Bruxelles-Mons en direction de Mons. Entrer dans l'agg
- lomération de Braine-Le-Comte et prendre la 1ère rue à droite\, le terr
- ain se situe au bout de la rue.\nEn venant de Nivelles : Prendre la N533\,
-  Nivelles/Braine-Le-Comte. Entrer dans l'agglomération de Braine-Le-Comte
-  et suivre la direction de Bruxelles (N 6 Mons-Bruxelles)\, prendre la 1è
- re rue à gauche\, le terrain se situe au bout de la rue.\n\nVérifiez tou
- jours ces infos sur http://www.abssa.be/
-GEO:50.6193857;4.1352085
-LOCATION:Rue du Poseur 39\, 7090 Braine-Le-Comte\, Belgique
-ORGANIZER;CN="Dero G.";ROLE=Secrétaire:MAILTO:fcbraineterminus@gmail.com
+SUMMARY:ABSSA D6B J24: TRINQUANT (Eq. 2) vs AZUR RCS (Eq. 5)
+DTSTART;VALUE=DATE-TIME:20250222T130000Z
+DTEND;VALUE=DATE-TIME:20250222T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2025_6B_24_445_109
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Bleu\n\nContact équipe domicile: Bernard J-M. (0476.66.08.14 - jmbernard
+ .trinquant@yahoo.fr)\n\nAccès voiture : Venant de Bruxelles\, prendre le 
+ Ring Est direction Waterloo. Sortir au pont de Groenendael\, direction La 
+ Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, t
+ oujours tout droit. Au feu de signalisation et le carrefour de La Hulpe\, 
+ tout droit direction Genval. Au feu de signalisation prendre à gauche et 
+ ensuite directement à droite\, l'avenue Soyer\, derrière le G.B. Le terr
+ ain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.abs
+ sa.be/
+GEO:50.7308998;4.4944678
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Bernard J-M.";ROLE=Secrétaire:MAILTO:jmbernard.trinquant@ya
+ hoo.fr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J24: PHARMA SC (Eq. 3) vs FORESTOIS SC (Eq. 5)
-DTSTART;VALUE=DATE-TIME:20231028T113000Z
-DTEND;VALUE=DATE-TIME:20231028T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115303Z
-UID:2023_6B_24_268_152
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Noir\n
- \nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.dumidi@sca
- rlet.be)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nEn venan
- t de Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi pr
- endre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point. 
- Le terrain se trouve en face de la pompe à essence Q8.\n\nVérifiez toujo
- urs ces infos sur http://www.abssa.be/
-GEO:50.883299;4.316365
-LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
-ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
- e
+SUMMARY:ABSSA D6B J24: FORESTOIS SC (Eq. 4) vs PHARMA SC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20250222T130000Z
+DTEND;VALUE=DATE-TIME:20250222T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2025_6B_24_152_268
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Vert\n
+ \nContact équipe domicile: Janssens P. (0479.95.08.14 - patj.scf@gmail.co
+ m)\n\nAccès voiture : Au départ de la Place St. Denis à Forest prendre 
+ la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à dro
+ ite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gauche 
+ (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du Com
+ plexe se trouve à hauteur de City Cart\, à gauche de la route.\n\nVérif
+ iez toujours ces infos sur http://www.abssa.be/
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J24: COSMOS BRUWOLF MJ (Eq. 2) vs TRINQUANT (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20231028T120000Z
-DTEND;VALUE=DATE-TIME:20231028T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115303Z
-UID:2023_6B_24_338_445
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: M05\n\nCouleur princi
- pale équipe domicile: Orange et noir\nCouleur principale équipe exterieu
- re: Bleu marine\n\nContact équipe domicile: Dehaut A. (0476.26.26.87 - al
- ain.dehaut@skynet.be)\n\nAccès voiture : Chaussée de Gand\, avenue M. Gh
- andi\n\nVérifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.861905;4.3220645
-LOCATION:Sippelberg\, Avenue M. Ghandi\, 1080 Molenbeek\, Belgique
-ORGANIZER;CN="Dehaut A.";ROLE=Secrétaire:MAILTO:alain.dehaut@skynet.be
+SUMMARY:ABSSA D6B J24: CAMPOMAIORENSE SC vs BRUSSELS BRITISH R (Eq. 6)
+DTSTART;VALUE=DATE-TIME:20250222T143000Z
+DTEND;VALUE=DATE-TIME:20250222T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2025_6B_24_467_1
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W13\n\nCouleur princi
+ pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
+ e: Blanc\n\nContact équipe domicile: Cesar Paixao I. (0496.37.12.76 - ivo
+ cp1@hotmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la r
+ ue Voot\, puis la chaussée de Stockel. Passer en dessous du petit pont et
+  continuer la chaussée de Stockel pendant env. 500 m. Le terrain est situ
+ é sur la droite de la chaussée.\n\nVérifiez toujours ces infos sur http
+ ://www.abssa.be/
+GEO:50.8417148;4.4547744
+LOCATION:Chaussée de Stockel 376\, 1150 Woluwé-Saint-Pierre\, Belgique
+ORGANIZER;CN="Cesar Paixao I.";ROLE=Secrétaire:MAILTO:ivocp1@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J24: GOALOIS (Eq. 3) vs AUDERGHEM R.CF
-DTSTART;VALUE=DATE-TIME:20231028T120000Z
-DTEND;VALUE=DATE-TIME:20231028T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115303Z
-UID:2023_6B_24_345_72
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Blanc-Noir\nCouleur principale équipe exterieure: 
- Bleu\n\nContact équipe domicile: Laruelle M. (0494.52.09.71 - martin.laru
- elle@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la ru
- e Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28
- ). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ces
-  infos sur http://www.abssa.be/
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="Laruelle M.";ROLE=Secrétaire:MAILTO:martin.laruelle@gmail.c
+SUMMARY:ABSSA D6B J24: IDEAL RANGERS R vs COIN DU BALAI FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20250222T143000Z
+DTEND;VALUE=DATE-TIME:20250222T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2025_6B_24_47_229
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: U04\n\nCouleur princi
+ pale équipe domicile: Orange et Noir\nCouleur principale équipe exterieu
+ re: Bleu Marine\n\nContact équipe domicile: Simon A. (0477.87.83.33 - ala
+ in.si@skynet.be)\n\nAccès voiture : Par le Centre\, prendre la chaussée 
+ d'Alsemberg\, direction Alsemberg\, jusqu'à la gare d'Uccle-Calevoet. Sui
+ vre les rails du tram\, passer en dessous du pont du chemin de fer et au p
+ remier feu de signalisation prendre à gauche\, la rue du Bourdon\, puis l
+ a 1ère rue à main gauche (rue des Bigarreaux)\, passer sous le pont du c
+ hemin de fer et puis 1ère rue à main gauche (le complexe est fléché).\
+ nPar le ring\, sortie Drogenbos-Ruisbroek\, prendre la direction Drogenbos
+  Centre (Grote Baan)\, au premier feu de signalisation\, passée l'église
+ \, prendre à gauche\, la chaussée de Drogenbos\, jusqu'au bout\, puis tr
+ averser la chaussée d'Alsemberg et prendre immédiatement à droite\, la 
+ rue du Bourdon\, pour continuer comme renseigné ci-dessus.\n\nVérifiez t
+ oujours ces infos sur http://www.abssa.be/
+GEO:50.7833427;4.3345203
+LOCATION:Complexe Sportif de Ridder\, Rue des Griottes\, 1180 Uccle\, Belg
+ ique
+ORGANIZER;CN="Simon A.";ROLE=Secrétaire:MAILTO:alain.si@skynet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J24: TUBIFOOT AS vs ECUSSON FC
+DTSTART;VALUE=DATE-TIME:20250222T143000Z
+DTEND;VALUE=DATE-TIME:20250222T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2025_6B_24_451_404
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: T06\n\nCouleur princi
+ pale équipe domicile: Jaune et Rouge\nCouleur principale équipe exterieu
+ re: Jaune et Bleu\n\nContact équipe domicile: Girardo. M (0491.35.69.81 -
+  astubifoot@gmail.com)\n\nAccès voiture : •En venant de Bruxelles : Pre
+ ndre le RO en direction Mons-Bergen / Charleroi - prendre la sortie 21 et 
+ continuer sur la E429 direction Lille/Rijsel. Prendre la sortie 23 Tubize 
+ / Tubeke et continuer sur la chaussée d’Hondzocht . Passer 2  ronds poi
+ nt jusqu’à la chaussée de Bruxelles (N6)\, prendre à droite Rue de Br
+ uxelles et traverser le centre de Tubize en direction de Braine-le-Comte :
+  rue de Bruxelles et Chaussée de Mons. Aprè IPES\, prendre la première 
+ rue à gauche (rue d’Atina) suivre le panneau cimetière-parc à contain
+ er-ferme Massart.  Continuer 10 m. jusqu’au parking du cimetière\, l’
+ entrée du stade se trouve en face du parking.\n\nVérifiez toujours ces i
+ nfos sur http://www.abssa.be/
+GEO:50.683352;4.1953276
+LOCATION:Rue d'Atina \, 1480  Tubize\, Belgique
+ORGANIZER;CN="Girardo. M";ROLE=Secrétaire:MAILTO:astubifoot@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J24: NIVELLES CS (Eq. 2) vs NEW ARQUOIS FC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20250222T143000Z
+DTEND;VALUE=DATE-TIME:20250222T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2025_6B_24_306_263
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: Orange fluo\nCouleur principale équipe exterieure:
+  Bleu\n\nContact équipe domicile: Couteau A (0497.63.11.19 - couteau.arno
+ ld.00@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoro
+ ute Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sou
+ s le pont de l'autoroute et prendre la direction de Nivelles. A 200 m.\, a
+ u rond-point (Shopping Center)\, tourner à droite en direction de Wavre (
+ petit ring de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-po
+ int du Shopping Center)\, tourner à gauche \, rue de l'Industrie et pén
+ étrer dans le zoning. Au bout de la rue\, avant le feu de signalisation\,
+  tourner à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVé
+ rifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.5963705;4.3564539
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Couteau A";ROLE=Secrétaire:MAILTO:couteau.arnold.00@gmail.c
  om
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J24: AZUR RCS (Eq. 5) vs CHIEFS WSL (Eq. 4)
-DTSTART;VALUE=DATE-TIME:20231028T130000Z
-DTEND;VALUE=DATE-TIME:20231028T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115303Z
-UID:2023_6B_24_109_303
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W12\n\nCouleur princi
- pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: B
- lanc\n\nContact équipe domicile: Mad. Decamps N. (0477.27.39.66 - nathali
- e_decamps@hotmail.com)\n\nAccès voiture : Avenue de Tervuren\, direction 
- Tervuren. Passé le boulevard du Souverain prendre à gauche au premier fe
- u de signalisation (Av. Madoux). Au feu de signalisation suivant prendre l
- a 2ème rue à main droite (Av. J. Dujardin). Ensuite 1ère rue à gauche 
- (Av. Salomé).\n\nVérifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.830818;4.455442
-LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
- elgique
-ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
- tmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J24: COPAINS REUNIS (Eq. 2) vs NEW ARQUOIS FC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20231028T133000Z
-DTEND;VALUE=DATE-TIME:20231028T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115303Z
-UID:2023_6B_24_49_263
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
- pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
-  Bleu\n\nContact équipe domicile: Vandermeulen J. (0477.50.45.95 - meulen
- j@hotmail.com)\n\nAccès voiture : En venant de la Route de Lennik (Citro
- ën) ou de la Chaussée de Mons (Ikea)\, prendre la direction du cimetièr
- e d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-point pren
- dre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du c
- omplexe et des terrains se situe à +/- 500 m. sur la gauche.\n\nVérifiez
-  toujours ces infos sur http://www.abssa.be/
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER;CN="Vandermeulen J.";ROLE=Secrétaire:MAILTO:meulenj@hotmail.com
 END:VEVENT
 END:VCALENDAR

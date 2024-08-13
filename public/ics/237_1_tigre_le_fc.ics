@@ -4,256 +4,11 @@ PRODID:237_1_tigre_le_fc
 X-WR-CALDESC:Les matches du club TIGRE (LE) FC (equipe 1) en ABSSA.
 X-WR-CALNAME:ABSSA: TIGRE (LE) FC (eq. 1)
 BEGIN:VEVENT
-SUMMARY:ABSSA D6E J10: BRUSSELS BRITISH R (Eq. 7) vs TIGRE (LE) FC
-DTSTART;VALUE=DATE-TIME:20230902T133000Z
-DTEND;VALUE=DATE-TIME:20230902T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_6E_10_1_237
-DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Orang
- e\n\nContact équipe domicile: Lachia S. (0484.27.72.64 - abssa-sec@rbbfc.
- org)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Pas
- ser devant l'église\, longer l'autoroute et tourner à droite au cimetiè
- re des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur http
- ://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/237_1_tigre_le_
- fc
-GEO:50.7282426;4.5537189
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER;CN="Lachia S.";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6E J1: IRLANDE FC (Eq. 6) vs TIGRE (LE) FC
-DTSTART;VALUE=DATE-TIME:20230909T133000Z
-DTEND;VALUE=DATE-TIME:20230909T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_6E_1_402_237
-DESCRIPTION:Terrain synthétique: non\nCode terrain: N04\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Orange
- \n\nContact équipe domicile: Bridoux J.F. (0455.12.12.65 - fci.secretary.
- mens@outlook.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à Nosseg
- em\, au premier croisement prendre à gauche la \nMechelsesteenweg. Le ter
- rain est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Lièg
- e\, prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelses
- teenweg\, traverser la chaussée de Louvain\, et suivre comme ci-avant.\n\
- nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa:
-  https://calabssa.be/c/237_1_tigre_le_fc
-GEO:50.88776559999999;4.50894
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER;CN="Bridoux J.F.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@out
- look.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6E J2: TIGRE (LE) FC vs BRITISH UNITED (Eq. 7)
-DTSTART;VALUE=DATE-TIME:20230916T103000Z
-DTEND;VALUE=DATE-TIME:20230916T120000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_6E_2_237_132
-DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
- pale équipe domicile: Orange\nCouleur principale équipe exterieure: Bleu
- \n\nContact équipe domicile: Goetghebuer G. (0494.46.63.32 - sportetvie@s
- kynet.be)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute 
- Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viadu
- c prendre à droite\, l'avenue des Anciens Combattants. Juste après le ca
- rrefour avec des feux de signalisation prendre à droite vers la Place de 
- la Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le t
- errain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces infos 
- sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/237_1_t
- igre_le_fc
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER;CN="Goetghebuer G.";ROLE=Secrétaire:MAILTO:sportetvie@skynet.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6E J3: TIGRE (LE) FC vs BOUSVAL GENAPPE (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20230923T103000Z
-DTEND;VALUE=DATE-TIME:20230923T120000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_6E_3_237_401
-DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
- pale équipe domicile: Orange\nCouleur principale équipe exterieure: Bleu
- \n\nContact équipe domicile: Goetghebuer G. (0494.46.63.32 - sportetvie@s
- kynet.be)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute 
- Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viadu
- c prendre à droite\, l'avenue des Anciens Combattants. Juste après le ca
- rrefour avec des feux de signalisation prendre à droite vers la Place de 
- la Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le t
- errain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces infos 
- sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/237_1_t
- igre_le_fc
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER;CN="Goetghebuer G.";ROLE=Secrétaire:MAILTO:sportetvie@skynet.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6E J5: TIGRE (LE) FC vs KARIA FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20231007T103000Z
-DTEND;VALUE=DATE-TIME:20231007T120000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_6E_5_237_498
-DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
- pale équipe domicile: Orange\nCouleur principale équipe exterieure: Noir
- \n\nContact équipe domicile: Goetghebuer G. (0494.46.63.32 - sportetvie@s
- kynet.be)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute 
- Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viadu
- c prendre à droite\, l'avenue des Anciens Combattants. Juste après le ca
- rrefour avec des feux de signalisation prendre à droite vers la Place de 
- la Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le t
- errain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces infos 
- sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/237_1_t
- igre_le_fc
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER;CN="Goetghebuer G.";ROLE=Secrétaire:MAILTO:sportetvie@skynet.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6E J6: CORNAC UNITED FC (Eq. 2) vs TIGRE (LE) FC
-DTSTART;VALUE=DATE-TIME:20231014T103000Z
-DTEND;VALUE=DATE-TIME:20231014T120000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_6E_6_151_237
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A01\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Orang
- e\n\nContact équipe domicile: Denayer M. (0476.53.14.48 - marcdenayermd@g
- mail.com)\n\nAccès voiture : Par le Ring Ouest\, direction Paris\, sortie
-  Westland Shopping Center (n° 14) continuer tout droit\, remonter vers le
-  Ring et prendre à droite pour sortir vers Itterbeek. Prendre l'avenue d'
- Itterbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. Le terrain s
- e trouve à gauche\, entre l'école Van Belle et Veeweyde.\n\nVérifiez to
- ujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cala
- bssa.be/c/237_1_tigre_le_fc
-GEO:50.8354396;4.2768611
-LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
-ORGANIZER;CN="Denayer M.";ROLE=Secrétaire:MAILTO:marcdenayermd@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6E J8: FAUBOURG-BRAINOISE (Eq. 2) vs TIGRE (LE) FC
-DTSTART;VALUE=DATE-TIME:20231021T113000Z
-DTEND;VALUE=DATE-TIME:20231021T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_6E_8_100_237
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Orang
- e\n\nContact équipe domicile: Herpain D. (0474.79.02.18 - daniel.herpain@
- skynet.be)\n\nAccès voiture : En venant de Bruxelles\, emprunter la chaus
- sée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit carr
- efour (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chaussée\,
-  au deuxième feu de signalisation\, prendre à droite\, le terrain se tro
- uve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur http://
- www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/237_1_tigre_le_fc
-GEO:50.6827211;4.3844421
-LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
- ud\, Belgique
-ORGANIZER;CN="Herpain D.";ROLE=Secrétaire:MAILTO:daniel.herpain@skynet.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6E J24: WATERMAEL CS vs TIGRE (LE) FC
-DTSTART;VALUE=DATE-TIME:20231028T133000Z
-DTEND;VALUE=DATE-TIME:20231028T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_6E_24_375_237
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Orang
- e\n\nContact équipe domicile: De Greve M. (0495.22.83.19 - micheldegreve0
- 8@gmail.com)\n\nAccès voiture : A partir du square des Archiducs\, prendr
- e la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez toujours
-  ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.b
- e/c/237_1_tigre_le_fc
-GEO:50.8059082;4.4137428
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER;CN="De Greve M.";ROLE=Secrétaire:MAILTO:micheldegreve08@gmail.c
- om
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6E J7: TIGRE (LE) FC vs CHEVERNY SCHAERB (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20231104T113000Z
-DTEND;VALUE=DATE-TIME:20231104T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_6E_7_237_128
-DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
- pale équipe domicile: Orange\nCouleur principale équipe exterieure: Jaun
- e\n\nContact équipe domicile: Goetghebuer G. (0494.46.63.32 - sportetvie@
- skynet.be)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute
-  Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viad
- uc prendre à droite\, l'avenue des Anciens Combattants. Juste après le c
- arrefour avec des feux de signalisation prendre à droite vers la Place de
-  la Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le 
- terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces infos
-  sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/237_1_
- tigre_le_fc
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER;CN="Goetghebuer G.";ROLE=Secrétaire:MAILTO:sportetvie@skynet.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6E J9: TIGRE (LE) FC vs NIVELLES AS (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20231118T113000Z
-DTEND;VALUE=DATE-TIME:20231118T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_6E_9_237_306
-DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
- pale équipe domicile: Orange\nCouleur principale équipe exterieure: Oran
- ge fluo\n\nContact équipe domicile: Goetghebuer G. (0494.46.63.32 - sport
- etvie@skynet.be)\n\nAccès voiture : Au départ de la Place Meiser\, l'aut
- oroute Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous l
- e viaduc prendre à droite\, l'avenue des Anciens Combattants. Juste aprè
- s le carrefour avec des feux de signalisation prendre à droite vers la Pl
- ace de la Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois
- ). Le terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces
-  infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/
- 237_1_tigre_le_fc
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER;CN="Goetghebuer G.";ROLE=Secrétaire:MAILTO:sportetvie@skynet.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6E J12: CHENOIS (ESPER) (Eq. 2) vs TIGRE (LE) FC
-DTSTART;VALUE=DATE-TIME:20231125T140000Z
-DTEND;VALUE=DATE-TIME:20231125T153000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_6E_12_412_237
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W02\n\nCouleur princi
- pale équipe domicile: Blanc et rouge\nCouleur principale équipe exterieu
- re: Orange\n\nContact équipe domicile: Gioffredi G. (0474.24.92.27 - 412f
- cec@gmail.com)\n\nAccès voiture : Venant d'Uccle\, prendre la chaussée d
- e Waterloo\, ensuite la chaussée de Bruxelles\, continuer jusqu'à la pla
- ce E. Vandevelde (intersection de la chaussée de Bruxelles avec la chauss
- ée de Tervuren à Joli-Bois). Au feu de signalisation prendre à droite l
- a chaussée Bara. Le terrain se trouve à droite à +/- 500 m.\n\nVérifie
- z toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://
- calabssa.be/c/237_1_tigre_le_fc
-GEO:50.701676;4.397567
-LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
-ORGANIZER;CN="Gioffredi G.";ROLE=Secrétaire:MAILTO:412fcec@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6E J11: TIGRE (LE) FC vs WATERMAEL CS
-DTSTART;VALUE=DATE-TIME:20231202T113000Z
-DTEND;VALUE=DATE-TIME:20231202T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_6E_11_237_375
-DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
- pale équipe domicile: Orange\nCouleur principale équipe exterieure: Roug
- e\n\nContact équipe domicile: Goetghebuer G. (0494.46.63.32 - sportetvie@
- skynet.be)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute
-  Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viad
- uc prendre à droite\, l'avenue des Anciens Combattants. Juste après le c
- arrefour avec des feux de signalisation prendre à droite vers la Place de
-  la Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le 
- terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces infos
-  sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/237_1_
- tigre_le_fc
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER;CN="Goetghebuer G.";ROLE=Secrétaire:MAILTO:sportetvie@skynet.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6E J13: TIGRE (LE) FC vs BRUSSELS LTC (Eq. 6)
-DTSTART;VALUE=DATE-TIME:20231209T113000Z
-DTEND;VALUE=DATE-TIME:20231209T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_6E_13_237_39
+SUMMARY:ABSSA D6E J23: TIGRE (LE) FC vs OMNISPORT BIERGHES (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240831T103000Z
+DTEND;VALUE=DATE-TIME:20240831T120000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_6E_23_237_455
 DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
  pale équipe domicile: Orange\nCouleur principale équipe exterieure: Bord
  eaux\n\nContact équipe domicile: Goetghebuer G. (0494.46.63.32 - sportetv
@@ -270,92 +25,153 @@ LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
 ORGANIZER;CN="Goetghebuer G.";ROLE=Secrétaire:MAILTO:sportetvie@skynet.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6E J14: TIGRE (LE) FC vs IRLANDE FC (Eq. 6)
-DTSTART;VALUE=DATE-TIME:20240113T113000Z
-DTEND;VALUE=DATE-TIME:20240113T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_6E_14_237_402
+SUMMARY:ABSSA D6E J1: ANDERLECHT US vs TIGRE (LE) FC
+DTSTART;VALUE=DATE-TIME:20240907T120000Z
+DTEND;VALUE=DATE-TIME:20240907T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_6E_1_280_237
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Mauve\nCouleur principale équipe exterieure: Orang
+ e\n\nContact équipe domicile: Sadin D. (0477.76.34.69 - rscadan12@gmail.c
+ om)\n\nAccès voiture : En venant de la Route de Lennik (Citroën) ou de l
+ a Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Anderlec
+ ht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la sorti
+ e pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe et d
+ es terrains se situe à +/- 500 m. sur la gauche.\n\nVérifiez toujours ce
+ s infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c
+ /237_1_tigre_le_fc
+GEO:50.8114295;4.2763934
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Sadin D.";ROLE=Secrétaire:MAILTO:rscadan12@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J2: TIGRE (LE) FC vs STRING PENELOPE (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20240914T103000Z
+DTEND;VALUE=DATE-TIME:20240914T120000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_6E_2_237_181
 DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
- pale équipe domicile: Orange\nCouleur principale équipe exterieure: Vert
- \n\nContact équipe domicile: Goetghebuer G. (0494.46.63.32 - sportetvie@s
- kynet.be)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute 
- Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viadu
- c prendre à droite\, l'avenue des Anciens Combattants. Juste après le ca
- rrefour avec des feux de signalisation prendre à droite vers la Place de 
- la Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le t
- errain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces infos 
- sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/237_1_t
- igre_le_fc
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Oran
+ ge\n\nContact équipe domicile: Goetghebuer G. (0494.46.63.32 - sportetvie
+ @skynet.be)\n\nAccès voiture : Au départ de la Place Meiser\, l'autorout
+ e Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le via
+ duc prendre à droite\, l'avenue des Anciens Combattants. Juste après le 
+ carrefour avec des feux de signalisation prendre à droite vers la Place d
+ e la Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le
+  terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces info
+ s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/237_1
+ _tigre_le_fc
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
 ORGANIZER;CN="Goetghebuer G.";ROLE=Secrétaire:MAILTO:sportetvie@skynet.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6E J15: BRITISH UNITED (Eq. 7) vs TIGRE (LE) FC
-DTSTART;VALUE=DATE-TIME:20240120T143000Z
-DTEND;VALUE=DATE-TIME:20240120T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_6E_15_132_237
-DESCRIPTION:Terrain synthétique: non\nCode terrain: M02\n\nCouleur princi
+SUMMARY:ABSSA D6E J3: CHENOIS (ESPER) (Eq. 2) vs TIGRE (LE) FC
+DTSTART;VALUE=DATE-TIME:20240921T130000Z
+DTEND;VALUE=DATE-TIME:20240921T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_6E_3_412_237
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W02\n\nCouleur princi
+ pale équipe domicile: Blanc et rouge\nCouleur principale équipe exterieu
+ re: Orange\n\nContact équipe domicile: Mento M (0477.83.27.83 - 412fcec@g
+ mail.com)\n\nAccès voiture : Venant d'Uccle\, prendre la chaussée de Wat
+ erloo\, ensuite la chaussée de Bruxelles\, continuer jusqu'à la place E.
+  Vandevelde (intersection de la chaussée de Bruxelles avec la chaussée d
+ e Tervuren à Joli-Bois). Au feu de signalisation prendre à droite la cha
+ ussée Bara. Le terrain se trouve à droite à +/- 500 m.\n\nVérifiez tou
+ jours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calab
+ ssa.be/c/237_1_tigre_le_fc
+GEO:50.701676;4.397567
+LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
+ORGANIZER;CN="Mento M";ROLE=Secrétaire:MAILTO:412fcec@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J4: TIGRE (LE) FC vs CHEVERNY SCHAERB (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240928T103000Z
+DTEND;VALUE=DATE-TIME:20240928T120000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_6E_4_237_128
+DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Jaun
+ e & Noir\n\nContact équipe domicile: Goetghebuer G. (0494.46.63.32 - spor
+ tetvie@skynet.be)\n\nAccès voiture : Au départ de la Place Meiser\, l'au
+ toroute Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous 
+ le viaduc prendre à droite\, l'avenue des Anciens Combattants. Juste apr
+ ès le carrefour avec des feux de signalisation prendre à droite vers la 
+ Place de la Chapelle\, puis prendre la 4ème rue à main droite (rue au Bo
+ is). Le terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujours c
+ es infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/
+ c/237_1_tigre_le_fc
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="Goetghebuer G.";ROLE=Secrétaire:MAILTO:sportetvie@skynet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J5: ELAN EVERE RAC (Eq. 2) vs TIGRE (LE) FC
+DTSTART;VALUE=DATE-TIME:20241005T123000Z
+DTEND;VALUE=DATE-TIME:20241005T140000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_6E_5_7_237
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E08\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
+ re: Orange\n\nContact équipe domicile: Dubois J-J. (0486.47.10.49 - jjdub
+ ois58@gmail.com)\n\nAccès voiture : Le terrain se trouve derrière l'égl
+ ise St. Vincent\n\nVérifiez toujours ces infos sur http://www.abssa.be/\n
+ Voir sur calabssa: https://calabssa.be/c/237_1_tigre_le_fc
+GEO:50.8803867;4.4003168
+LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue Stroobants 75\, 1140 Evere\,
+  Belgique
+ORGANIZER;CN="Dubois J-J.";ROLE=Secrétaire:MAILTO:jjdubois58@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J25: TIGRE (LE) FC vs JETTOISE (AMICALE)
+DTSTART;VALUE=DATE-TIME:20241019T103000Z
+DTEND;VALUE=DATE-TIME:20241019T120000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_6E_25_237_347
+DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Bleu
+  et blanc\n\nContact équipe domicile: Goetghebuer G. (0494.46.63.32 - spo
+ rtetvie@skynet.be)\n\nAccès voiture : Au départ de la Place Meiser\, l'a
+ utoroute Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous
+  le viaduc prendre à droite\, l'avenue des Anciens Combattants. Juste apr
+ ès le carrefour avec des feux de signalisation prendre à droite vers la 
+ Place de la Chapelle\, puis prendre la 4ème rue à main droite (rue au Bo
+ is). Le terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujours c
+ es infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/
+ c/237_1_tigre_le_fc
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="Goetghebuer G.";ROLE=Secrétaire:MAILTO:sportetvie@skynet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J26: BRITISH UNITED (Eq. 7) vs TIGRE (LE) FC
+DTSTART;VALUE=DATE-TIME:20241026T133000Z
+DTEND;VALUE=DATE-TIME:20241026T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_6E_26_132_237
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Orange
  \n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gillesvande
- rseypen@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Anvers (E19) so
- rtie Mechelen-Noord (n° 9) En arrivant dans le centre\, suivre la directi
- on "Heist-op-den-Berg" Aller tout droit et passer le viaduc du chemin de f
- er. Après 1 km. suivre les flèches "De Nekker". Garer les voitures à l'
- extérieur du complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terr
- ain.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur ca
- labssa: https://calabssa.be/c/237_1_tigre_le_fc
-GEO:51.0254354;4.503786799999999
-LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
- ue
+ rseypen@gmail.com)\n\nAccès voiture : A partir de Bruxelles\, prendre la 
+ E 411 en direction de Namur. Prendre la sortie N° 8 puis à droite la bre
+ telle pour la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après 
+ +/- 6\,5 km\, au rond-point\, prendre la sortie 1 vers la N 420 Chée. de 
+ la Libération\, puis à gauche dans la rue de la Grande lecke.\n\nVérifi
+ ez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:/
+ /calabssa.be/c/237_1_tigre_le_fc
+GEO:50.7540176;4.7835618
+LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
 ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
  gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6E J16: BOUSVAL GENAPPE (Eq. 3) vs TIGRE (LE) FC
-DTSTART;VALUE=DATE-TIME:20240127T130000Z
-DTEND;VALUE=DATE-TIME:20240127T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_6E_16_401_237
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Orange
- \n\nContact équipe domicile: Gossiaux S. (0473.44.25.52 - gossiaux_sebast
- ien@hotmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring O
- uest\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Ch
- arleroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, trav
- erser le carrefour\, tout droit direction route du sucre.\n\nVérifiez tou
- jours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calab
- ssa.be/c/237_1_tigre_le_fc
-GEO:50.6007528;4.4472782
-LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
-ORGANIZER;CN="Gossiaux S.";ROLE=Secrétaire:MAILTO:gossiaux_sebastien@hotm
- ail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6E J18: KARIA FC (Eq. 2) vs TIGRE (LE) FC
-DTSTART;VALUE=DATE-TIME:20240210T143000Z
-DTEND;VALUE=DATE-TIME:20240210T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_6E_18_498_237
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Orange
- \n\nContact équipe domicile: Bercha  M (0477.69.27.28 - mohamedbercha@hot
- mail.fr)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\, vers
-  Neder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond
- -point\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin 
- Vert\, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://www.ab
- ssa.be/\nVoir sur calabssa: https://calabssa.be/c/237_1_tigre_le_fc
-GEO:50.89983369999999;4.3936101
-LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
-ORGANIZER;CN="Bercha  M";ROLE=Secrétaire:MAILTO:mohamedbercha@hotmail.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6E J19: TIGRE (LE) FC vs CORNAC UNITED FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20240217T113000Z
-DTEND;VALUE=DATE-TIME:20240217T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_6E_19_237_151
+SUMMARY:ABSSA D6E J7: TIGRE (LE) FC vs CORNAC UNITED FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20241102T113000Z
+DTEND;VALUE=DATE-TIME:20241102T130000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_6E_7_237_151
 DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
  pale équipe domicile: Orange\nCouleur principale équipe exterieure: Roug
  e\n\nContact équipe domicile: Goetghebuer G. (0494.46.63.32 - sportetvie@
@@ -372,33 +188,72 @@ LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
 ORGANIZER;CN="Goetghebuer G.";ROLE=Secrétaire:MAILTO:sportetvie@skynet.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6E J26: BRUSSELS LTC (Eq. 6) vs TIGRE (LE) FC
-DTSTART;VALUE=DATE-TIME:20240224T143000Z
-DTEND;VALUE=DATE-TIME:20240224T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_6E_26_39_237
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
- pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Or
- ange\n\nContact équipe domicile: Van Hacht O. (0475.96.43.03 - brusselslt
- c@hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre le Ring E
- st direction Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\
- , Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujour
- s tout droit. Au feu de signalisation et le carrefour de La Hulpe\, tout d
- roit direction Genval. Au feu de signalisation prendre à gauche et ensuit
- e directement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se
-  trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
- \nVoir sur calabssa: https://calabssa.be/c/237_1_tigre_le_fc
-GEO:50.7309318;4.4945865
-LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
- m
+SUMMARY:ABSSA D6E J8: CHOULE AUDERGHEM (Eq. 5) vs TIGRE (LE) FC
+DTSTART;VALUE=DATE-TIME:20241109T113000Z
+DTEND;VALUE=DATE-TIME:20241109T130000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_6E_8_517_237
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Orang
+ e\n\nContact équipe domicile: Vandenplas D. (0476.54.48.01 - dav_54@hotma
+ il.com)\n\nAccès voiture : En venant de Bruxelles par la chaussée de Wav
+ re\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la b
+ ande de droite pendant +/- 200 m. et descendre devant le bâtiment de l'AD
+ EPS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le 
+ terrain se trouve à 200 m. Le stade est fléché.\n\nVérifiez toujours c
+ es infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/
+ c/237_1_tigre_le_fc
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6E J23: TIGRE (LE) FC vs BRUSSELS BRITISH R (Eq. 7)
-DTSTART;VALUE=DATE-TIME:20240302T113000Z
-DTEND;VALUE=DATE-TIME:20240302T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_6E_23_237_1
+SUMMARY:ABSSA D6E J9: TIGRE (LE) FC vs KARIA FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20241116T113000Z
+DTEND;VALUE=DATE-TIME:20241116T130000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_6E_9_237_498
+DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Noir
+ \n\nContact équipe domicile: Goetghebuer G. (0494.46.63.32 - sportetvie@s
+ kynet.be)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute 
+ Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viadu
+ c prendre à droite\, l'avenue des Anciens Combattants. Juste après le ca
+ rrefour avec des feux de signalisation prendre à droite vers la Place de 
+ la Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le t
+ errain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces infos 
+ sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/237_1_t
+ igre_le_fc
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="Goetghebuer G.";ROLE=Secrétaire:MAILTO:sportetvie@skynet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J12: JETTOISE (AMICALE) vs TIGRE (LE) FC
+DTSTART;VALUE=DATE-TIME:20241123T143000Z
+DTEND;VALUE=DATE-TIME:20241123T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_6E_12_347_237
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Bleu et blanc\nCouleur principale équipe exterieur
+ e: Orange\n\nContact équipe domicile: Pogradja  A. (0478.37.94.22 - avnip
+ ogradja@gmail.com)\n\nAccès voiture : Direction cimetière de Jette\, ens
+ uite prendre la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, av
+ enue J.J. Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces
+  infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/
+ 237_1_tigre_le_fc
+GEO:50.8868564;4.3286963
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
+ Belgique
+ORGANIZER;CN="Pogradja  A.";ROLE=Secrétaire:MAILTO:avnipogradja@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J11: TIGRE (LE) FC vs BRUSSELS BRITISH R (Eq. 7)
+DTSTART;VALUE=DATE-TIME:20241130T113000Z
+DTEND;VALUE=DATE-TIME:20241130T130000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_6E_11_237_1
 DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
  pale équipe domicile: Orange\nCouleur principale équipe exterieure: Blan
  c\n\nContact équipe domicile: Goetghebuer G. (0494.46.63.32 - sportetvie@
@@ -415,31 +270,57 @@ LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
 ORGANIZER;CN="Goetghebuer G.";ROLE=Secrétaire:MAILTO:sportetvie@skynet.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6E J20: CHEVERNY SCHAERB (Eq. 2) vs TIGRE (LE) FC
-DTSTART;VALUE=DATE-TIME:20240309T143000Z
-DTEND;VALUE=DATE-TIME:20240309T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_6E_20_128_237
-DESCRIPTION:Terrain synthétique: non\nCode terrain: J01\n\nCouleur princi
- pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Orang
- e\n\nContact équipe domicile: Bex V (0476.92.58.43 - vincentbex@gmail.com
- )\n\nAccès voiture : Direction cimetière de Jette\, ensuite prendre la r
- ue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Crocq. 
- Le terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur http:/
- /www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/237_1_tigre_le_fc
-GEO:50.8907643;4.3211209
-LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
- Belgique
-ORGANIZER;CN="Bex V";ROLE=Secrétaire:MAILTO:vincentbex@gmail.com
+SUMMARY:ABSSA D6E J10: OMNISPORT BIERGHES (Eq. 2) vs TIGRE (LE) FC
+DTSTART;VALUE=DATE-TIME:20241207T143000Z
+DTEND;VALUE=DATE-TIME:20241207T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_6E_10_455_237
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B02\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Or
+ ange\n\nContact équipe domicile: Barbe L. (0495.21.74.14 - omnisportbierg
+ hes1995@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Charleroi (E19)
+ \, prendre la sortie Halle-Tournai-Lille (n° 21) pour rejoindre l'autorou
+ te Tournai-Lille\, ancienne route A8 (E429). Prendre la sortie Rebecq-Quen
+ ast (n° 24). En bas de la sortie\, prendre à droite\, direction Bierghes
+ . Rouler tout droit jusqu'au premier feu rouge. Tourner à droite en direc
+ tion de Halle\, ensuite la deuxième rue à droite (rue du Sartiau)\, ensu
+ ite à gauche. Le terrain se trouve à 300 m.\n\nVérifiez toujours ces in
+ fos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/237
+ _1_tigre_le_fc
+GEO:50.69576660000001;4.1292301
+LOCATION:Rue du Sartiau 3B\, 1430 Bierghes-Rebecq\, Belgique
+ORGANIZER;CN="Barbe L.";ROLE=Secrétaire:MAILTO:omnisportbierghes1995@gmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6E J21: TIGRE (LE) FC vs FAUBOURG-BRAINOISE (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20240316T113000Z
-DTEND;VALUE=DATE-TIME:20240316T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_6E_21_237_100
+SUMMARY:ABSSA D6E J13: TIGRE (LE) FC vs BRITISH UNITED (Eq. 7)
+DTSTART;VALUE=DATE-TIME:20241214T113000Z
+DTEND;VALUE=DATE-TIME:20241214T130000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_6E_13_237_132
 DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
- pale équipe domicile: Orange\nCouleur principale équipe exterieure: Roug
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Bleu
+ \n\nContact équipe domicile: Goetghebuer G. (0494.46.63.32 - sportetvie@s
+ kynet.be)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute 
+ Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viadu
+ c prendre à droite\, l'avenue des Anciens Combattants. Juste après le ca
+ rrefour avec des feux de signalisation prendre à droite vers la Place de 
+ la Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le t
+ errain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces infos 
+ sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/237_1_t
+ igre_le_fc
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="Goetghebuer G.";ROLE=Secrétaire:MAILTO:sportetvie@skynet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J14: TIGRE (LE) FC vs ANDERLECHT US
+DTSTART;VALUE=DATE-TIME:20250111T113000Z
+DTEND;VALUE=DATE-TIME:20250111T130000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_6E_14_237_280
+DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Mauv
  e\n\nContact équipe domicile: Goetghebuer G. (0494.46.63.32 - sportetvie@
  skynet.be)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute
   Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viad
@@ -454,35 +335,37 @@ LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
 ORGANIZER;CN="Goetghebuer G.";ROLE=Secrétaire:MAILTO:sportetvie@skynet.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6E J22: NIVELLES AS (Eq. 2) vs TIGRE (LE) FC
-DTSTART;VALUE=DATE-TIME:20240323T143000Z
-DTEND;VALUE=DATE-TIME:20240323T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_6E_22_306_237
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
- pale équipe domicile: Orange fluo\nCouleur principale équipe exterieure:
-  Orange\n\nContact équipe domicile: Couteau A (0497.63.11.19 - couteau.ar
- nold.00@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'auto
- route Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer s
- ous le pont de l'autoroute et prendre la direction de Nivelles. A 200 m.\,
-  au rond-point (Shopping Center)\, tourner à droite en direction de Wavre
-  (petit ring de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-
- point du Shopping Center)\, tourner à gauche \, rue de l'Industrie et pé
- nétrer dans le zoning. Au bout de la rue\, avant le feu de signalisation\
- , tourner à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nV
- érifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: h
- ttps://calabssa.be/c/237_1_tigre_le_fc
-GEO:50.5963436;4.3564187
-LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER;CN="Couteau A";ROLE=Secrétaire:MAILTO:couteau.arnold.00@gmail.c
- om
+SUMMARY:ABSSA D6E J15: STRING PENELOPE (Eq. 3) vs TIGRE (LE) FC
+DTSTART;VALUE=DATE-TIME:20250118T140000Z
+DTEND;VALUE=DATE-TIME:20250118T153000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_6E_15_181_237
+DESCRIPTION:Terrain synthétique: non\nCode terrain: O04\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Oran
+ ge\n\nContact équipe domicile: Sbaiti Y (0487.54.95.27 - yo.sbaiti@gmail.
+ com)\n\nAccès voiture : Au départ de Bruxelles\, prendre l'autoroute E41
+ 1 en direction de Namur. Prendre la sortie  Wavre ( n° 6) ensuite à droi
+ te la N238 en direction d'Ottignies. Prendre la sortie Ottignies/Louvain-L
+ a-Neuve (N237) et suivre la direction Ottignies. Passer sous les 2 ponts d
+ u chemin de fer et\, au feu de signalisation\, continuer tout droit. Au fe
+ u suivant\, toujours tout droit par l'avenue des Combattants. Franchir le 
+ passage protégé pour piétons (feu clignotant) et au feu de signalisatio
+ n suivant\, prendre à droite direction Ceroux-Mousty par la rue des Coque
+ rées. Le terrain se trouve sur la droite à env. 400 m. Au n° 50A \, pan
+ neau "Coca-Cola" l'entrée du centre sportif.\n\nVérifiez toujours ces in
+ fos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/237
+ _1_tigre_le_fc
+GEO:50.6630401;4.5569959
+LOCATION:Centre Sportif des Coquerees\, Rue des Coquerées 50A\, 1341 Otti
+ gnies-Ceroux-Mousty\, Belgique
+ORGANIZER;CN="Sbaiti Y";ROLE=Secrétaire:MAILTO:yo.sbaiti@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6E J25: TIGRE (LE) FC vs CHENOIS (ESPER) (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20240406T103000Z
-DTEND;VALUE=DATE-TIME:20240406T120000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_6E_25_237_412
+SUMMARY:ABSSA D6E J16: TIGRE (LE) FC vs CHENOIS (ESPER) (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20250125T113000Z
+DTEND;VALUE=DATE-TIME:20250125T130000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_6E_16_237_412
 DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
  pale équipe domicile: Orange\nCouleur principale équipe exterieure: Blan
  c et rouge\n\nContact équipe domicile: Goetghebuer G. (0494.46.63.32 - sp
@@ -497,5 +380,122 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
 ORGANIZER;CN="Goetghebuer G.";ROLE=Secrétaire:MAILTO:sportetvie@skynet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J17: CHEVERNY SCHAERB (Eq. 2) vs TIGRE (LE) FC
+DTSTART;VALUE=DATE-TIME:20250201T143000Z
+DTEND;VALUE=DATE-TIME:20250201T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_6E_17_128_237
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Jaune & Noir\nCouleur principale équipe exterieure
+ : Orange\n\nContact équipe domicile: Bex V (0476.92.58.43 - vincentbex@gm
+ ail.com)\n\nAccès voiture : Direction cimetière de Jette\, ensuite prend
+ re la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. 
+ Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur
+  http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/237_1_tigr
+ e_le_fc
+GEO:50.8868564;4.3286963
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
+ Belgique
+ORGANIZER;CN="Bex V";ROLE=Secrétaire:MAILTO:vincentbex@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J18: TIGRE (LE) FC vs ELAN EVERE RAC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20250208T113000Z
+DTEND;VALUE=DATE-TIME:20250208T130000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_6E_18_237_7
+DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Roug
+ e et blanc\n\nContact équipe domicile: Goetghebuer G. (0494.46.63.32 - sp
+ ortetvie@skynet.be)\n\nAccès voiture : Au départ de la Place Meiser\, l'
+ autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sou
+ s le viaduc prendre à droite\, l'avenue des Anciens Combattants. Juste ap
+ rès le carrefour avec des feux de signalisation prendre à droite vers la
+  Place de la Chapelle\, puis prendre la 4ème rue à main droite (rue au B
+ ois). Le terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujours 
+ ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be
+ /c/237_1_tigre_le_fc
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="Goetghebuer G.";ROLE=Secrétaire:MAILTO:sportetvie@skynet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J24: BRUSSELS BRITISH R (Eq. 7) vs TIGRE (LE) FC
+DTSTART;VALUE=DATE-TIME:20250222T143000Z
+DTEND;VALUE=DATE-TIME:20250222T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_6E_24_1_237
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Orang
+ e\n\nContact équipe domicile: O'Connor G (0456.54.46.67 - abssa-sec@rbbfc
+ .org)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Pa
+ sser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur ht
+ tp://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/237_1_tigre_l
+ e_fc
+GEO:50.7282426;4.5537189
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="O'Connor G";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J20: CORNAC UNITED FC (Eq. 2) vs TIGRE (LE) FC
+DTSTART;VALUE=DATE-TIME:20250308T113000Z
+DTEND;VALUE=DATE-TIME:20250308T130000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_6E_20_151_237
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A01\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Orang
+ e\n\nContact équipe domicile: Denayer M. (0476.53.14.48 - marcdenayermd@g
+ mail.com)\n\nAccès voiture : Par le Ring Ouest\, direction Paris\, sortie
+  Westland Shopping Center (n° 14) continuer tout droit\, remonter vers le
+  Ring et prendre à droite pour sortir vers Itterbeek. Prendre l'avenue d'
+ Itterbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. Le terrain s
+ e trouve à gauche\, entre l'école Van Belle et Veeweyde.\n\nVérifiez to
+ ujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cala
+ bssa.be/c/237_1_tigre_le_fc
+GEO:50.8354396;4.2768611
+LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
+ORGANIZER;CN="Denayer M.";ROLE=Secrétaire:MAILTO:marcdenayermd@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J21: TIGRE (LE) FC vs CHOULE AUDERGHEM (Eq. 5)
+DTSTART;VALUE=DATE-TIME:20250315T113000Z
+DTEND;VALUE=DATE-TIME:20250315T130000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_6E_21_237_517
+DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Blan
+ c\n\nContact équipe domicile: Goetghebuer G. (0494.46.63.32 - sportetvie@
+ skynet.be)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute
+  Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viad
+ uc prendre à droite\, l'avenue des Anciens Combattants. Juste après le c
+ arrefour avec des feux de signalisation prendre à droite vers la Place de
+  la Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le 
+ terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces infos
+  sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/237_1_
+ tigre_le_fc
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="Goetghebuer G.";ROLE=Secrétaire:MAILTO:sportetvie@skynet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J22: KARIA FC (Eq. 2) vs TIGRE (LE) FC
+DTSTART;VALUE=DATE-TIME:20250322T143000Z
+DTEND;VALUE=DATE-TIME:20250322T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_6E_22_498_237
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Orange
+ \n\nContact équipe domicile: Bercha  M (0477.69.27.28 - mohamedbercha@hot
+ mail.fr)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\, vers
+  Neder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond
+ -point\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin 
+ Vert\, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://www.ab
+ ssa.be/\nVoir sur calabssa: https://calabssa.be/c/237_1_tigre_le_fc
+GEO:50.89983369999999;4.3936101
+LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
+ORGANIZER;CN="Bercha  M";ROLE=Secrétaire:MAILTO:mohamedbercha@hotmail.fr
 END:VEVENT
 END:VCALENDAR

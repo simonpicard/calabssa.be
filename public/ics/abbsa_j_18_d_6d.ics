@@ -4,120 +4,115 @@ PRODID:abbsa_j_18_d_6d
 X-WR-CALDESC:Les matches de la journée 18 en divion 6D d'ABSSA.
 X-WR-CALNAME:D6D Journée 18
 BEGIN:VEVENT
-SUMMARY:ABSSA D6D J18: NIVELLOIS-ACLOT BS (Eq. 2) vs PANGLOSS FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20240210T120000Z
-DTEND;VALUE=DATE-TIME:20240210T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115303Z
-UID:2024_6D_18_503_123
-DESCRIPTION:Terrain synthétique: non\nCode terrain: N03\n\nCouleur princi
- pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
- e: Bleu\n\nContact équipe domicile: Draux N. (0472.40.01.22 - ni.draux@gm
- ail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoroute Brux
- elles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le pon
- t de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au rond-p
- oint (Shopping Center)\, tourner à droite en direction de Wavre (petit ri
- ng de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point du S
- hopping Center)\, tourner à gauche \, rue de l'Industrie et pénétrer da
- ns le zoning. Au bout de la rue\, avant le feu de signalisation\, tourner 
- à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérifiez to
- ujours ces infos sur http://www.abssa.be/
-GEO:50.5963436;4.3564187
-LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER;CN="Draux N.";ROLE=Secrétaire:MAILTO:ni.draux@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6D J18: ENTENTE  RACB (Eq. 2) vs AEMA VETERANS
-DTSTART;VALUE=DATE-TIME:20240210T130000Z
-DTEND;VALUE=DATE-TIME:20240210T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115303Z
-UID:2024_6D_18_2_427
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Jaune
-  et bleu\n\nContact équipe domicile: Dath D. (0473.47.15.41 - daniel.dath
- @hotmail.com)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\,
-  vers Neder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au
-  rond-point\, tout droit Chemin Vert\, puis première à gauche\, Petit Ch
- emin Vert\, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://w
- ww.abssa.be/
-GEO:50.89983369999999;4.3936101
-LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
-ORGANIZER;CN="Dath D.";ROLE=Secrétaire:MAILTO:daniel.dath@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6D J18: CHOULE AUDERGHEM (Eq. 6) vs MIREILLE WEMMEL (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20240210T130000Z
-DTEND;VALUE=DATE-TIME:20240210T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115303Z
-UID:2024_6D_18_517_93
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir\
- n\nContact équipe domicile: Vandenplas D. (0476.54.48.01 - dav_54@hotmail
- .com)\n\nAccès voiture : En venant de Bruxelles par la chaussée de Wavre
- \, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ban
- de de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADEP
- S\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le te
- rrain se trouve à 200 m. Le stade est fléché.\n\nVérifiez toujours ces
-  infos sur http://www.abssa.be/
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6D J18: LA LORRAINE-MTM.R (Eq. 3) vs BRITISH UNITED (Eq. 6)
-DTSTART;VALUE=DATE-TIME:20240210T130000Z
-DTEND;VALUE=DATE-TIME:20240210T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115303Z
-UID:2024_6D_18_44_132
+SUMMARY:ABSSA D6D J18: LA LORRAINE-MTM.R (Eq. 3) vs HIGGINS-PUMAS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20250208T113000Z
+DTEND;VALUE=DATE-TIME:20250208T130000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2025_6D_18_44_416
 DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
- \nContact équipe domicile: Degimbe M. (0478.53.63.56 - lalorrainefc@gmail
- .com)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Pa
- sser devant l'église\, longer l'autoroute et tourner à droite au cimeti
- ère des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur ht
- tp://www.abssa.be/
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rayé 
+ Bleu et Blanc\n\nContact équipe domicile: Degimbe M. (0478.53.63.56 - lal
+ orrainefc@gmail.com)\n\nAccès voiture : Autoroute E411\, prendre la sorti
+ e Rosières. Passer devant l'église\, longer l'autoroute et tourner à dr
+ oite au cimetière des animaux. Terrain à 200 m.\n\nVérifiez toujours ce
+ s infos sur http://www.abssa.be/
 GEO:50.7282426;4.5537189
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
 ORGANIZER;CN="Degimbe M.";ROLE=Secrétaire:MAILTO:lalorrainefc@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6D J18: OMNISPORT BIERGHES (Eq. 2) vs ANDERLECHT US
-DTSTART;VALUE=DATE-TIME:20240210T143000Z
-DTEND;VALUE=DATE-TIME:20240210T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115303Z
-UID:2024_6D_18_455_280
-DESCRIPTION:Terrain synthétique: non\nCode terrain: B02\n\nCouleur princi
- pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Ma
- uve\n\nContact équipe domicile: Barbe L. (0495.21.74.14 - omnisportbiergh
- es1995@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Charleroi (E19)\
- , prendre la sortie Halle-Tournai-Lille (n° 21) pour rejoindre l'autorout
- e Tournai-Lille\, ancienne route A8 (E429). Prendre la sortie Rebecq-Quena
- st (n° 24). En bas de la sortie\, prendre à droite\, direction Bierghes.
-  Rouler tout droit jusqu'au premier feu rouge. Tourner à droite en direct
- ion de Halle\, ensuite la deuxième rue à droite (rue du Sartiau)\, ensui
- te à gauche. Le terrain se trouve à 300 m.\n\nVérifiez toujours ces inf
- os sur http://www.abssa.be/
-GEO:50.6957846;4.129257
-LOCATION:Rue du Sartiau 3B\, 1430 Bierghes-Rebecq\, Belgique
-ORGANIZER;CN="Barbe L.";ROLE=Secrétaire:MAILTO:omnisportbierghes1995@gmai
- l.com
+SUMMARY:ABSSA D6D J18: BRITISH UNITED (Eq. 6) vs WATERMAEL CS
+DTSTART;VALUE=DATE-TIME:20250208T130000Z
+DTEND;VALUE=DATE-TIME:20250208T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2025_6D_18_132_375
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge\
+ n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gillesvander
+ seypen@gmail.com)\n\nAccès voiture : A partir de Bruxelles\, prendre la E
+  411 en direction de Namur. Prendre la sortie N° 8 puis à droite la bret
+ elle pour la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +
+ /- 6\,5 km\, au rond-point\, prendre la sortie 1 vers la N 420 Chée. de l
+ a Libération\, puis à gauche dans la rue de la Grande lecke.\n\nVérifie
+ z toujours ces infos sur http://www.abssa.be/
+GEO:50.7540176;4.7835618
+LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
+ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
+ gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6D J18: JETTOISE (AMICALE) vs STRING PENELOPE (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20240210T143000Z
-DTEND;VALUE=DATE-TIME:20240210T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115303Z
-UID:2024_6D_18_347_181
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
- pale équipe domicile: Bleu et blanc\nCouleur principale équipe exterieur
- e: Orange\n\nContact équipe domicile: Pogradja  A. (0478.37.94.22 - avnip
- ogradja@gmail.com)\n\nAccès voiture : Direction cimetière de Jette\, ens
- uite prendre la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, av
- enue J.J. Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces
+SUMMARY:ABSSA D6D J18: MIREILLE WEMMEL (Eq. 2) vs AUDERGHEM R.CF
+DTSTART;VALUE=DATE-TIME:20250208T130000Z
+DTEND;VALUE=DATE-TIME:20250208T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2025_6D_18_93_72
+DESCRIPTION:Terrain synthétique: non\nCode terrain: W16\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Vermeerbergen D. (0497.31.76.07 - daanvermeerb
+ ergen@hotmail.com)\n\nAccès voiture : Ring RO\, afrit Wemmel-Merchtem (n
+ ° 9)\, richting Merchtem volgen via de Is. Meyskensstraat tot aan de roto
+ nde\, op de rotonde de 4de afslag nemen\, Diepstraat deze vloeit over in d
+ e Steenweg op Brussel\, 50 m. voorbij het eerste kruispunt met verkeerslic
+ hten\, links van de steenweg\, bevindt zich het stadium (parking)\n\nVéri
+ fiez toujours ces infos sur http://www.abssa.be/
+GEO:50.9077704;4.3065753
+LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
+  Wemmel\, Belgique
+ORGANIZER;CN="Vermeerbergen D.";ROLE=Secrétaire:MAILTO:daanvermeerbergen@
+ hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J18: ENTENTE  RACB (Eq. 2) vs IRLANDE FC (Eq. 6)
+DTSTART;VALUE=DATE-TIME:20250208T130000Z
+DTEND;VALUE=DATE-TIME:20250208T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2025_6D_18_2_402
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Vert\
+ n\nContact équipe domicile: Dath D. (0473.47.15.41 - daniel.dath@hotmail.
+ com)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\, vers Ned
+ er-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-poi
+ nt\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Vert
+ \, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa.
+ be/
+GEO:50.89983369999999;4.3936101
+LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
+ORGANIZER;CN="Dath D.";ROLE=Secrétaire:MAILTO:daniel.dath@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J18: SAINT GEORGES RCS (Eq. 4) vs PANGLOSS FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20250208T130000Z
+DTEND;VALUE=DATE-TIME:20250208T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2025_6D_18_221_123
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W13\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
+ \n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.destin@gma
+ il.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\,
+  puis la chaussée de Stockel. Passer en dessous du petit pont et continue
+ r la chaussée de Stockel pendant env. 500 m. Le terrain est situé sur la
+  droite de la chaussée.\n\nVérifiez toujours ces infos sur http://www.ab
+ ssa.be/
+GEO:50.8417148;4.4547744
+LOCATION:Chaussée de Stockel 376\, 1150 Woluwé-Saint-Pierre\, Belgique
+ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J18: BOUSVAL GENAPPE (Eq. 3) vs BRUSSELS LTC (Eq. 7)
+DTSTART;VALUE=DATE-TIME:20250208T130000Z
+DTEND;VALUE=DATE-TIME:20250208T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2025_6D_18_401_39
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bordea
+ ux\n\nContact équipe domicile: Toussaint Y (0475.42.41.78 - YUTTT1470@gma
+ il.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring Ouest\, so
+ rtie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi) 
+ direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le 
+ carrefour\, tout droit direction route du sucre.\n\nVérifiez toujours ces
   infos sur http://www.abssa.be/
-GEO:50.8907643;4.3211209
-LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
- Belgique
-ORGANIZER;CN="Pogradja  A.";ROLE=Secrétaire:MAILTO:avnipogradja@gmail.com
+GEO:50.6007528;4.4472782
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER;CN="Toussaint Y";ROLE=Secrétaire:MAILTO:YUTTT1470@gmail.com
 END:VEVENT
 END:VCALENDAR

@@ -4,62 +4,97 @@ PRODID:455_1_omnisport_bierghes
 X-WR-CALDESC:Les matches du club OMNISPORT BIERGHES (equipe 1) en ABSSA.
 X-WR-CALNAME:ABSSA: OMNISPORT BIERGHES (eq. 1)
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J10: OMNISPORT BIERGHES vs TRICOTEUSES FC.
-DTSTART;VALUE=DATE-TIME:20230902T110000Z
-DTEND;VALUE=DATE-TIME:20230902T123000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_4A_10_455_617
+SUMMARY:ABSSA D4A J23: WINCHESTER F.C. vs OMNISPORT BIERGHES
+DTSTART;VALUE=DATE-TIME:20240831T133000Z
+DTEND;VALUE=DATE-TIME:20240831T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_4A_23_653_455
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
+ pale équipe domicile: Bleu et blanc\nCouleur principale équipe exterieur
+ e: Bleu\n\nContact équipe domicile: Descheemaeker M. (0488.92.88.36 - win
+ chesterfc@outlook.com)\n\nAccès voiture : A partir de Bruxelles\, prendre
+  la E 411 en direction de Namur. Prendre la sortie N° 8 puis à droite la
+  bretelle pour la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Apr
+ ès +/- 6\,5 km\, au rond-point\, prendre la sortie 1 vers la N 420 Chée.
+  de la Libération\, puis à gauche dans la rue de la Grande lecke.\n\nVé
+ rifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: htt
+ ps://calabssa.be/c/455_1_omnisport_bierghes
+GEO:50.7540176;4.7835618
+LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
+ORGANIZER;CN="Descheemaeker M.";ROLE=Secrétaire:MAILTO:winchesterfc@outlo
+ ok.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4A J1: COPAINS REUNIS vs OMNISPORT BIERGHES
+DTSTART;VALUE=DATE-TIME:20240907T133000Z
+DTEND;VALUE=DATE-TIME:20240907T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_4A_1_49_455
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
+  Bleu\n\nContact équipe domicile: Vandermeulen J. (0477.50.45.95 - meulen
+ j@hotmail.com)\n\nAccès voiture : En venant de la Route de Lennik (Citro
+ ën) ou de la Chaussée de Mons (Ikea)\, prendre la direction du cimetièr
+ e d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-point pren
+ dre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du c
+ omplexe et des terrains se situe à +/- 500 m. sur la gauche.\n\nVérifiez
+  toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://c
+ alabssa.be/c/455_1_omnisport_bierghes
+GEO:50.8114295;4.2763934
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Vandermeulen J.";ROLE=Secrétaire:MAILTO:meulenj@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4A J2: OMNISPORT BIERGHES vs EXTRANOS (LOS)
+DTSTART;VALUE=DATE-TIME:20240914T110000Z
+DTEND;VALUE=DATE-TIME:20240914T123000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_4A_2_455_569
 DESCRIPTION:Terrain synthétique: non\nCode terrain: B02\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bordea
- ux\n\nContact équipe domicile: Barbe L. (0495.21.74.14 - omnisportbierghe
- s1995@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Charleroi (E19)\,
-  prendre la sortie Halle-Tournai-Lille (n° 21) pour rejoindre l'autoroute
-  Tournai-Lille\, ancienne route A8 (E429). Prendre la sortie Rebecq-Quenas
- t (n° 24). En bas de la sortie\, prendre à droite\, direction Bierghes. 
- Rouler tout droit jusqu'au premier feu rouge. Tourner à droite en directi
- on de Halle\, ensuite la deuxième rue à droite (rue du Sartiau)\, ensuit
- e à gauche. Le terrain se trouve à 300 m.\n\nVérifiez toujours ces info
- s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/455_1
- _omnisport_bierghes
-GEO:50.6957846;4.129257
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge 
+ et Bleu\n\nContact équipe domicile: Barbe L. (0495.21.74.14 - omnisportbi
+ erghes1995@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Charleroi (E
+ 19)\, prendre la sortie Halle-Tournai-Lille (n° 21) pour rejoindre l'auto
+ route Tournai-Lille\, ancienne route A8 (E429). Prendre la sortie Rebecq-Q
+ uenast (n° 24). En bas de la sortie\, prendre à droite\, direction Bierg
+ hes. Rouler tout droit jusqu'au premier feu rouge. Tourner à droite en di
+ rection de Halle\, ensuite la deuxième rue à droite (rue du Sartiau)\, e
+ nsuite à gauche. Le terrain se trouve à 300 m.\n\nVérifiez toujours ces
+  infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/
+ 455_1_omnisport_bierghes
+GEO:50.69576660000001;4.1292301
 LOCATION:Rue du Sartiau 3B\, 1430 Bierghes-Rebecq\, Belgique
 ORGANIZER;CN="Barbe L.";ROLE=Secrétaire:MAILTO:omnisportbierghes1995@gmai
  l.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J1: BOUSVAL GENAPPE (Eq. 2) vs OMNISPORT BIERGHES
-DTSTART;VALUE=DATE-TIME:20230909T133000Z
-DTEND;VALUE=DATE-TIME:20230909T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_4A_1_401_455
-DESCRIPTION:Terrain synthétique: non\nCode terrain: H04\n\nCouleur princi
- pale équipe domicile: Orange et bleu\nCouleur principale équipe exterieu
- re: Bleu\n\nContact équipe domicile: Gossiaux S. (0473.44.25.52 - gossiau
- x_sebastien@hotmail.com)\n\nAccès voiture : Venant de Bruxelles prendre l
- e Ring Ouest\, sortie Genappe (n°25)\, prendre à droite sur la N 5 (Brux
- elles-Charleroi) direction Charleroi pendant +/- 10 min. Prendre à gauche
-  au carrefour entre la N 5 et la N 93 direction Nivelles. Dans le village\
- , prendre à gauche au carrefour en direction de la rue des Ecoles. une ce
- ntaine de mètres plus loin\, prendre immédiatement à droite en directio
- n de la rue du Béguinage et ensuite prendre imméeiatement à gauche en d
- irection de la rue du Pavillon. Suivre cette rue jusqu'au "T" formé par l
- a rue du Pavillon et la rue de Ninove. Au "T" prendre à gauche. Le terrai
- n de football se situe à une centaine de mètres sur le côté droit.\n\n
- Vérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: 
- https://calabssa.be/c/455_1_omnisport_bierghes
-GEO:50.5753041;4.4085484
-LOCATION:Rue de Ninove 1\, 1476 Houtain-Le-Val\, Belgique
-ORGANIZER;CN="Gossiaux S.";ROLE=Secrétaire:MAILTO:gossiaux_sebastien@hotm
- ail.com
+SUMMARY:ABSSA D4A J3: UNION FOXES CLUB vs OMNISPORT BIERGHES
+DTSTART;VALUE=DATE-TIME:20240921T133000Z
+DTEND;VALUE=DATE-TIME:20240921T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_4A_3_669_455
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O02\n\nCouleur princi
+ pale équipe domicile: Orange et noir\nCouleur principale équipe exterieu
+ re: Bleu\n\nContact équipe domicile: Mizrahi D. (0476.03.37.84 - daniel_m
+ izrahi96@hotmail.com)\n\nAccès voiture : Ring RO\, sortie Ophain\, prendr
+ e la direction de Ophain Village\, jusqu'à l'église. Ensuite à droite. 
+ Le terrain se trouve à 200 m. à gauche.\n\nVérifiez toujours ces infos 
+ sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/455_1_o
+ mnisport_bierghes
+GEO:50.6648369;4.3506513
+LOCATION:Rue de Lillois 19\, 1421 Ophain/Braine-l'Alleud\, Belgique
+ORGANIZER;CN="Mizrahi D.";ROLE=Secrétaire:MAILTO:daniel_mizrahi96@hotmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J2: OMNISPORT BIERGHES vs FRIENDS SPIRIT AUD
-DTSTART;VALUE=DATE-TIME:20230916T110000Z
-DTEND;VALUE=DATE-TIME:20230916T123000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_4A_2_455_522
+SUMMARY:ABSSA D4A J4: OMNISPORT BIERGHES vs FRIENDS SPIRIT AUD
+DTSTART;VALUE=DATE-TIME:20240928T110000Z
+DTEND;VALUE=DATE-TIME:20240928T123000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_4A_4_455_522
 DESCRIPTION:Terrain synthétique: non\nCode terrain: B02\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Vert\n
  \nContact équipe domicile: Barbe L. (0495.21.74.14 - omnisportbierghes199
  5@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Charleroi (E19)\, pre
  ndre la sortie Halle-Tournai-Lille (n° 21) pour rejoindre l'autoroute Tou
@@ -70,79 +105,36 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: B02\n\nCouleur princi
   gauche. Le terrain se trouve à 300 m.\n\nVérifiez toujours ces infos su
  r http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/455_1_omn
  isport_bierghes
-GEO:50.6957846;4.129257
+GEO:50.69576660000001;4.1292301
 LOCATION:Rue du Sartiau 3B\, 1430 Bierghes-Rebecq\, Belgique
 ORGANIZER;CN="Barbe L.";ROLE=Secrétaire:MAILTO:omnisportbierghes1995@gmai
  l.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J3: REALISTES MEXICO R vs OMNISPORT BIERGHES
-DTSTART;VALUE=DATE-TIME:20230923T120000Z
-DTEND;VALUE=DATE-TIME:20230923T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_4A_3_57_455
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
- pale équipe domicile: Bleu marine/Orange\nCouleur principale équipe exte
- rieure: Bleu\n\nContact équipe domicile: Mad. Brusselaers P. (02.478.40.3
- 3 - real_mexico_057@yahoo.fr)\n\nAccès voiture : Pont de Laeken\, Chauss
- ée de Vilvorde\, vers Neder-Over-Heembeek\, prendre l' Avenue des Croix d
- e Guerre jusqu'au rond-point\, tout droit Chemin Vert\, puis première à 
- gauche\, Petit Chemin Vert\, terrain à 300 m.\n\nVérifiez toujours ces i
- nfos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/45
- 5_1_omnisport_bierghes
-GEO:50.89983369999999;4.3936101
-LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
-ORGANIZER;CN="Mad. Brusselaers P.";ROLE=Secrétaire:MAILTO:real_mexico_057
- @yahoo.fr
+SUMMARY:ABSSA D4A J5: PATRONS (LES) vs OMNISPORT BIERGHES
+DTSTART;VALUE=DATE-TIME:20241005T133000Z
+DTEND;VALUE=DATE-TIME:20241005T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_4A_5_628_455
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Van Roey G. (0478.24.03.05 - lespatrons.fc@gm
+ ail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\
+ , puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avan
+ t ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ces infos 
+ sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/455_1_o
+ mnisport_bierghes
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Van Roey G.";ROLE=Secrétaire:MAILTO:lespatrons.fc@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J4: OMNISPORT BIERGHES vs BRUSSELS LTC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20230930T110000Z
-DTEND;VALUE=DATE-TIME:20230930T123000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_4A_4_455_39
-DESCRIPTION:Terrain synthétique: non\nCode terrain: B02\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bordea
- ux\n\nContact équipe domicile: Barbe L. (0495.21.74.14 - omnisportbierghe
- s1995@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Charleroi (E19)\,
-  prendre la sortie Halle-Tournai-Lille (n° 21) pour rejoindre l'autoroute
-  Tournai-Lille\, ancienne route A8 (E429). Prendre la sortie Rebecq-Quenas
- t (n° 24). En bas de la sortie\, prendre à droite\, direction Bierghes. 
- Rouler tout droit jusqu'au premier feu rouge. Tourner à droite en directi
- on de Halle\, ensuite la deuxième rue à droite (rue du Sartiau)\, ensuit
- e à gauche. Le terrain se trouve à 300 m.\n\nVérifiez toujours ces info
- s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/455_1
- _omnisport_bierghes
-GEO:50.6957846;4.129257
-LOCATION:Rue du Sartiau 3B\, 1430 Bierghes-Rebecq\, Belgique
-ORGANIZER;CN="Barbe L.";ROLE=Secrétaire:MAILTO:omnisportbierghes1995@gmai
- l.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J5: EXTRANOS (LOS) vs OMNISPORT BIERGHES
-DTSTART;VALUE=DATE-TIME:20231007T133000Z
-DTEND;VALUE=DATE-TIME:20231007T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_4A_5_569_455
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: E04\n\nCouleur princi
- pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
- e: Bleu\n\nContact équipe domicile: Isidro P (0476.68.32.15 - losextranos
- 569@gmail.com)\n\nAccès voiture : De la Place Meiser\, remonter tous les 
- boulevards. Au carrefour de la Chaussée de Wavre\, prendre celle-ci à dr
- oite\, ensuite la 2ème rue à droite (Rue Général Fivé)\, puis la 3èm
- e à droite (rue Baron Dhanis).\n\nVérifiez toujours ces infos sur http:/
- /www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/455_1_omnisport_b
- ierghes
-GEO:50.8287714;4.3975708
-LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
-ORGANIZER;CN="Isidro P";ROLE=Secrétaire:MAILTO:losextranos569@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J6: OMNISPORT BIERGHES vs PIRATERIE (LA)
-DTSTART;VALUE=DATE-TIME:20231014T110000Z
-DTEND;VALUE=DATE-TIME:20231014T123000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_4A_6_455_652
+SUMMARY:ABSSA D4A J6: OMNISPORT BIERGHES vs LUNETTE (LA) FC
+DTSTART;VALUE=DATE-TIME:20241012T110000Z
+DTEND;VALUE=DATE-TIME:20241012T123000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_4A_6_455_130
 DESCRIPTION:Terrain synthétique: non\nCode terrain: B02\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir\n
  \nContact équipe domicile: Barbe L. (0495.21.74.14 - omnisportbierghes199
@@ -155,20 +147,170 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: B02\n\nCouleur princi
   gauche. Le terrain se trouve à 300 m.\n\nVérifiez toujours ces infos su
  r http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/455_1_omn
  isport_bierghes
-GEO:50.6957846;4.129257
+GEO:50.69576660000001;4.1292301
 LOCATION:Rue du Sartiau 3B\, 1430 Bierghes-Rebecq\, Belgique
 ORGANIZER;CN="Barbe L.";ROLE=Secrétaire:MAILTO:omnisportbierghes1995@gmai
  l.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J8: OMNISPORT BIERGHES vs LUNETTE (LA) FC
-DTSTART;VALUE=DATE-TIME:20231021T110000Z
-DTEND;VALUE=DATE-TIME:20231021T123000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_4A_8_455_130
+SUMMARY:ABSSA D4A J25: MACAPSULES (LES) vs OMNISPORT BIERGHES
+DTSTART;VALUE=DATE-TIME:20241019T133000Z
+DTEND;VALUE=DATE-TIME:20241019T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_4A_25_627_455
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
+ pale équipe domicile: Vert/blanc\nCouleur principale équipe exterieure: 
+ Bleu\n\nContact équipe domicile: Daumont J. (0475.42.26.61 - macapsules@g
+ mail.com)\n\nAccès voiture : Autoroute E 411 direction Namur / Luxembourg
+ \, prendre la sortie n° 6 Wavre\, à gauche N 238 direction Wavre. Au ron
+ d-	point 2ième sortie N238/Blvd. de l'Europe direction Wavre Centre. Entr
+ er dans Wavre puis à gauche N 238\, à gauche N 239. 	Au rond-point prend
+ re la première sortie Rue Haute\, continuer sur rue de Bruxelles\, contin
+ uer sur rue Saint-Roch\, continuer 	sur rue Joseph Joppart. Prendre à dro
+ ite l'avenue du Centre Sportif.\n\nVérifiez toujours ces infos sur http:/
+ /www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/455_1_omnisport_b
+ ierghes
+GEO:50.72071949999999;4.617067899999999
+LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
+  Belgique
+ORGANIZER;CN="Daumont J.";ROLE=Secrétaire:MAILTO:macapsules@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4A J26: OMNISPORT BIERGHES vs BRUSSELS LTC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20241026T110000Z
+DTEND;VALUE=DATE-TIME:20241026T123000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_4A_26_455_39
 DESCRIPTION:Terrain synthétique: non\nCode terrain: B02\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Jaune 
- et bleu\n\nContact équipe domicile: Barbe L. (0495.21.74.14 - omnisportbi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bordea
+ ux\n\nContact équipe domicile: Barbe L. (0495.21.74.14 - omnisportbierghe
+ s1995@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Charleroi (E19)\,
+  prendre la sortie Halle-Tournai-Lille (n° 21) pour rejoindre l'autoroute
+  Tournai-Lille\, ancienne route A8 (E429). Prendre la sortie Rebecq-Quenas
+ t (n° 24). En bas de la sortie\, prendre à droite\, direction Bierghes. 
+ Rouler tout droit jusqu'au premier feu rouge. Tourner à droite en directi
+ on de Halle\, ensuite la deuxième rue à droite (rue du Sartiau)\, ensuit
+ e à gauche. Le terrain se trouve à 300 m.\n\nVérifiez toujours ces info
+ s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/455_1
+ _omnisport_bierghes
+GEO:50.69576660000001;4.1292301
+LOCATION:Rue du Sartiau 3B\, 1430 Bierghes-Rebecq\, Belgique
+ORGANIZER;CN="Barbe L.";ROLE=Secrétaire:MAILTO:omnisportbierghes1995@gmai
+ l.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4A J7: RAYO LATINO vs OMNISPORT BIERGHES
+DTSTART;VALUE=DATE-TIME:20241102T120000Z
+DTEND;VALUE=DATE-TIME:20241102T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_4A_7_572_455
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
+ pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
+ e: Bleu\n\nContact équipe domicile: Leporcq N (0485.64.31.86 - rayolatino
+ @gmail.com)\n\nAccès voiture : Place Meiser\, descendre le boulevard Lamb
+ ermont. Au 3ème feu de signalisation prendre à gauche\, puis la premièr
+ e à droite.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoi
+ r sur calabssa: https://calabssa.be/c/455_1_omnisport_bierghes
+GEO:50.8666341;4.3823667
+LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
+ aerbeek\, Belgique
+ORGANIZER;CN="Leporcq N";ROLE=Secrétaire:MAILTO:rayolatino@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4A J8: OMNISPORT BIERGHES vs MOUSSES TACHENT
+DTSTART;VALUE=DATE-TIME:20241109T120000Z
+DTEND;VALUE=DATE-TIME:20241109T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_4A_8_455_643
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bordea
+ ux\n\nContact équipe domicile: Barbe L. (0495.21.74.14 - omnisportbierghe
+ s1995@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Charleroi (E19)\,
+  prendre la sortie Halle-Tournai-Lille (n° 21) pour rejoindre l'autoroute
+  Tournai-Lille\, ancienne route A8 (E429). Prendre la sortie Rebecq-Quenas
+ t (n° 24). En bas de la sortie\, prendre à droite\, direction Bierghes. 
+ Rouler tout droit jusqu'au premier feu rouge. Tourner à droite en directi
+ on de Halle\, ensuite la deuxième rue à droite (rue du Sartiau)\, ensuit
+ e à gauche. Le terrain se trouve à 300 m.\n\nVérifiez toujours ces info
+ s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/455_1
+ _omnisport_bierghes
+GEO:50.69576660000001;4.1292301
+LOCATION:Rue du Sartiau 3B\, 1430 Bierghes-Rebecq\, Belgique
+ORGANIZER;CN="Barbe L.";ROLE=Secrétaire:MAILTO:omnisportbierghes1995@gmai
+ l.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4A J9: BLUE THRILLS vs OMNISPORT BIERGHES
+DTSTART;VALUE=DATE-TIME:20241116T143000Z
+DTEND;VALUE=DATE-TIME:20241116T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_4A_9_619_455
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
+ pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
+  Bleu\n\nContact équipe domicile: De Briey A. (0479.858.374 - alexdebriey
+ @hotmail.fr)\n\nAccès voiture : Chaussée de Haecht\, vers Diegem. Prendr
+ e la rue Harenheyde à gauche\, juste au feu de signalisation\, après la 
+ station "JET"\, situé à gauche. Entrée du stade par la rue Harenheyde\,
+  100 m. au-delà du pont du chemin de fer.\n\nVérifiez toujours ces infos
+  sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/455_1_
+ omnisport_bierghes
+GEO:50.8928227;4.425372
+LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
+ORGANIZER;CN="De Briey A.";ROLE=Secrétaire:MAILTO:alexdebriey@hotmail.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4A J12: OMNISPORT BIERGHES vs MACAPSULES (LES)
+DTSTART;VALUE=DATE-TIME:20241123T120000Z
+DTEND;VALUE=DATE-TIME:20241123T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_4A_12_455_627
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Vert/b
+ lanc\n\nContact équipe domicile: Barbe L. (0495.21.74.14 - omnisportbierg
+ hes1995@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Charleroi (E19)
+ \, prendre la sortie Halle-Tournai-Lille (n° 21) pour rejoindre l'autorou
+ te Tournai-Lille\, ancienne route A8 (E429). Prendre la sortie Rebecq-Quen
+ ast (n° 24). En bas de la sortie\, prendre à droite\, direction Bierghes
+ . Rouler tout droit jusqu'au premier feu rouge. Tourner à droite en direc
+ tion de Halle\, ensuite la deuxième rue à droite (rue du Sartiau)\, ensu
+ ite à gauche. Le terrain se trouve à 300 m.\n\nVérifiez toujours ces in
+ fos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/455
+ _1_omnisport_bierghes
+GEO:50.69576660000001;4.1292301
+LOCATION:Rue du Sartiau 3B\, 1430 Bierghes-Rebecq\, Belgique
+ORGANIZER;CN="Barbe L.";ROLE=Secrétaire:MAILTO:omnisportbierghes1995@gmai
+ l.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4A J11: WOKRASSE F.C. vs OMNISPORT BIERGHES
+DTSTART;VALUE=DATE-TIME:20241130T113000Z
+DTEND;VALUE=DATE-TIME:20241130T130000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_4A_11_656_455
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Bleu et Noir\nCouleur principale équipe exterieure
+ : Bleu\n\nContact équipe domicile: Thisse F (0476.35.49.20 - felix.thisse
+ @gmail.com)\n\nAccès voiture : Au départ de la Place Meiser\, l'autorout
+ e Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le via
+ duc prendre à droite\, l'avenue des Anciens Combattants. Juste après le 
+ carrefour avec des feux de signalisation prendre à droite vers la Place d
+ e la Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le
+  terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces info
+ s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/455_1
+ _omnisport_bierghes
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="Thisse F";ROLE=Secrétaire:MAILTO:felix.thisse@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4A J10: OMNISPORT BIERGHES vs WINCHESTER F.C.
+DTSTART;VALUE=DATE-TIME:20241207T120000Z
+DTEND;VALUE=DATE-TIME:20241207T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_4A_10_455_653
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu e
+ t blanc\n\nContact équipe domicile: Barbe L. (0495.21.74.14 - omnisportbi
  erghes1995@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Charleroi (E
  19)\, prendre la sortie Halle-Tournai-Lille (n° 21) pour rejoindre l'auto
  route Tournai-Lille\, ancienne route A8 (E429). Prendre la sortie Rebecq-Q
@@ -178,137 +320,84 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: B02\n\nCouleur princi
  nsuite à gauche. Le terrain se trouve à 300 m.\n\nVérifiez toujours ces
   infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/
  455_1_omnisport_bierghes
-GEO:50.6957846;4.129257
+GEO:50.69576660000001;4.1292301
 LOCATION:Rue du Sartiau 3B\, 1430 Bierghes-Rebecq\, Belgique
 ORGANIZER;CN="Barbe L.";ROLE=Secrétaire:MAILTO:omnisportbierghes1995@gmai
  l.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J24: UCCLE STENDHAL vs OMNISPORT BIERGHES
-DTSTART;VALUE=DATE-TIME:20231028T120000Z
-DTEND;VALUE=DATE-TIME:20231028T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_4A_24_214_455
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: U02\n\nCouleur princi
- pale équipe domicile: Rouge rayé de noir\nCouleur principale équipe ext
- erieure: Bleu\n\nContact équipe domicile: Mathuren A. (0499.52.56.54 - al
- ainmathuren@yahoo.fr)\n\nAccès voiture : L'entrée se fait par la rue du 
- Zwartebeek.\nPar le ring\, prendre la sortie Drogenbos-Ruisbroek\, directi
- on Uccle\, par la rue de Stalle prolongée.  Après le rond-point prendre 
- la 1ère rue à gauche\, la chaussée de Neerstalle.\nEnsuite la 2ème rue
-  à gauche\, rue du Zwartebeek\, l'entrée du complexe est située à +/- 
- 200 mètres sur la droite.\n\nVérifiez toujours ces infos sur http://www.
- abssa.be/\nVoir sur calabssa: https://calabssa.be/c/455_1_omnisport_biergh
- es
-GEO:50.7970109;4.319077
-LOCATION:Leopold-Uccle\, Rue du Zwartebeek\, 1180 Uccle\, Belgique
-ORGANIZER;CN="Mathuren A.";ROLE=Secrétaire:MAILTO:alainmathuren@yahoo.fr
+SUMMARY:ABSSA D4A J13: BRUSSELS LTC (Eq. 3) vs OMNISPORT BIERGHES
+DTSTART;VALUE=DATE-TIME:20241214T143000Z
+DTEND;VALUE=DATE-TIME:20241214T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_4A_13_39_455
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bl
+ eu\n\nContact équipe domicile: Van Hacht O. (0475.96.43.03 - dannyboffin@
+ hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre le Ring Est
+  direction Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, 
+ Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours 
+ tout droit. Au feu de signalisation et le carrefour de La Hulpe\, tout dro
+ it direction Genval. Au feu de signalisation prendre à gauche et ensuite 
+ directement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se t
+ rouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\n
+ Voir sur calabssa: https://calabssa.be/c/455_1_omnisport_bierghes
+GEO:50.7308998;4.4944678
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:dannyboffin@hotmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J7: NEW INN FC (Eq. 4) vs OMNISPORT BIERGHES
-DTSTART;VALUE=DATE-TIME:20231104T130000Z
-DTEND;VALUE=DATE-TIME:20231104T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_4A_7_359_455
-DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu\n
- \nContact équipe domicile: Cornil B. (0494.16.15.11 - bencornil@gmail.com
- )\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute Bruxelle
- s-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc prendr
- e à droite\, l'avenue des Anciens Combattants. Juste après le carrefour 
- avec des feux de signalisation prendre à droite vers la Place de la Chape
- lle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terrain s
- e trouve à 300 m. sur la droite.\n\nVérifiez toujours ces infos sur http
- ://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/455_1_omnisport
- _bierghes
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER;CN="Cornil B.";ROLE=Secrétaire:MAILTO:bencornil@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J12: BLACK STAR GENVAL vs OMNISPORT BIERGHES
-DTSTART;VALUE=DATE-TIME:20231125T143000Z
-DTEND;VALUE=DATE-TIME:20231125T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_4A_12_601_455
-DESCRIPTION:Terrain synthétique: non\nCode terrain: G01\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu\n
- \nContact équipe domicile: Van Bael J. (0479.36.69.79 - blackstargenval@g
- mail.com)\n\nAccès voiture : Prendre l'autoroute de Namur (E411)\, sortie
-  n° 4 - (Genval-Rosières). En bas de la sortie prendre la deuxième rue 
- à droite (rue de La Hulpe) direction "Genval - Maubroux". Au premier rond
-  point continuez à suivre la direction "Genval - Maubroux" (continuation 
- de la rue de La Hulpe). Au rond point suivant\, suivre toujours la directi
- on "Genval-Maubroux". Au troisième rond point (Café du Lac sur la gauche
- ) suivre toujours la direction "Genval-Maubroux" (3ème sortie - rue de Ge
- nval). Continuez tout droit jusqu'au feu de signalisation (Eglise de Genva
- l) et tourner à droite (Avenue Albert 1èr). Après +/- 800 mètres\, à 
- l'ancienne station service\, prendre à gauche et suivre la route (rue Jos
- eph Desmet) sur +/- 700 mètres\, puis tourner à droite\, rue du Tilleul 
- (panneau : Les Charmettes). Le terrain se trouve à environ 200 mètres su
- r la droite.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoi
- r sur calabssa: https://calabssa.be/c/455_1_omnisport_bierghes
-GEO:50.724554;4.496792999999999
-LOCATION:Complexe du Tilleul\, Rue du Tilleul 50\, 1332 Genval (Rixensart)
- \, Belgique
-ORGANIZER;CN="Van Bael J.";ROLE=Secrétaire:MAILTO:blackstargenval@gmail.c
- om
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J11: OMNISPORT BIERGHES vs UCCLE STENDHAL
-DTSTART;VALUE=DATE-TIME:20231202T120000Z
-DTEND;VALUE=DATE-TIME:20231202T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_4A_11_455_214
+SUMMARY:ABSSA D4A J14: OMNISPORT BIERGHES vs COPAINS REUNIS
+DTSTART;VALUE=DATE-TIME:20250111T120000Z
+DTEND;VALUE=DATE-TIME:20250111T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_4A_14_455_49
 DESCRIPTION:Terrain synthétique: non\nCode terrain: B02\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge 
- rayé de noir\n\nContact équipe domicile: Barbe L. (0495.21.74.14 - omnis
- portbierghes1995@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Charle
- roi (E19)\, prendre la sortie Halle-Tournai-Lille (n° 21) pour rejoindre 
- l'autoroute Tournai-Lille\, ancienne route A8 (E429). Prendre la sortie Re
- becq-Quenast (n° 24). En bas de la sortie\, prendre à droite\, direction
-  Bierghes. Rouler tout droit jusqu'au premier feu rouge. Tourner à droite
-  en direction de Halle\, ensuite la deuxième rue à droite (rue du Sartia
- u)\, ensuite à gauche. Le terrain se trouve à 300 m.\n\nVérifiez toujou
- rs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa
- .be/c/455_1_omnisport_bierghes
-GEO:50.6957846;4.129257
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu f
+ oncé\n\nContact équipe domicile: Barbe L. (0495.21.74.14 - omnisportbier
+ ghes1995@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Charleroi (E19
+ )\, prendre la sortie Halle-Tournai-Lille (n° 21) pour rejoindre l'autoro
+ ute Tournai-Lille\, ancienne route A8 (E429). Prendre la sortie Rebecq-Que
+ nast (n° 24). En bas de la sortie\, prendre à droite\, direction Bierghe
+ s. Rouler tout droit jusqu'au premier feu rouge. Tourner à droite en dire
+ ction de Halle\, ensuite la deuxième rue à droite (rue du Sartiau)\, ens
+ uite à gauche. Le terrain se trouve à 300 m.\n\nVérifiez toujours ces i
+ nfos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/45
+ 5_1_omnisport_bierghes
+GEO:50.69576660000001;4.1292301
 LOCATION:Rue du Sartiau 3B\, 1430 Bierghes-Rebecq\, Belgique
 ORGANIZER;CN="Barbe L.";ROLE=Secrétaire:MAILTO:omnisportbierghes1995@gmai
  l.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J13: OMNISPORT BIERGHES vs HELLAS BERCHEM FC.
-DTSTART;VALUE=DATE-TIME:20231209T120000Z
-DTEND;VALUE=DATE-TIME:20231209T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_4A_13_455_488
-DESCRIPTION:Terrain synthétique: non\nCode terrain: B02\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
- \nContact équipe domicile: Barbe L. (0495.21.74.14 - omnisportbierghes199
- 5@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Charleroi (E19)\, pre
- ndre la sortie Halle-Tournai-Lille (n° 21) pour rejoindre l'autoroute Tou
- rnai-Lille\, ancienne route A8 (E429). Prendre la sortie Rebecq-Quenast (n
- ° 24). En bas de la sortie\, prendre à droite\, direction Bierghes. Roul
- er tout droit jusqu'au premier feu rouge. Tourner à droite en direction d
- e Halle\, ensuite la deuxième rue à droite (rue du Sartiau)\, ensuite à
-  gauche. Le terrain se trouve à 300 m.\n\nVérifiez toujours ces infos su
- r http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/455_1_omn
- isport_bierghes
-GEO:50.6957846;4.129257
-LOCATION:Rue du Sartiau 3B\, 1430 Bierghes-Rebecq\, Belgique
-ORGANIZER;CN="Barbe L.";ROLE=Secrétaire:MAILTO:omnisportbierghes1995@gmai
- l.com
+SUMMARY:ABSSA D4A J15: EXTRANOS (LOS) vs OMNISPORT BIERGHES
+DTSTART;VALUE=DATE-TIME:20250118T143000Z
+DTEND;VALUE=DATE-TIME:20250118T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_4A_15_569_455
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E04\n\nCouleur princi
+ pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
+ e: Bleu\n\nContact équipe domicile: Raposo P (0476.68.32.15 - losextranos
+ 569@gmail.com)\n\nAccès voiture : De la Place Meiser\, remonter tous les 
+ boulevards. Au carrefour de la Chaussée de Wavre\, prendre celle-ci à dr
+ oite\, ensuite la 2ème rue à droite (Rue Général Fivé)\, puis la 3èm
+ e à droite (rue Baron Dhanis).\n\nVérifiez toujours ces infos sur http:/
+ /www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/455_1_omnisport_b
+ ierghes
+GEO:50.8287714;4.3975708
+LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
+ORGANIZER;CN="Raposo P";ROLE=Secrétaire:MAILTO:losextranos569@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J14: OMNISPORT BIERGHES vs BOUSVAL GENAPPE (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20240113T120000Z
-DTEND;VALUE=DATE-TIME:20240113T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_4A_14_455_401
+SUMMARY:ABSSA D4A J16: OMNISPORT BIERGHES vs UNION FOXES CLUB
+DTSTART;VALUE=DATE-TIME:20250125T120000Z
+DTEND;VALUE=DATE-TIME:20250125T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_4A_16_455_669
 DESCRIPTION:Terrain synthétique: non\nCode terrain: B02\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Orange
-  et bleu\n\nContact équipe domicile: Barbe L. (0495.21.74.14 - omnisportb
+  et noir\n\nContact équipe domicile: Barbe L. (0495.21.74.14 - omnisportb
  ierghes1995@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Charleroi (
  E19)\, prendre la sortie Halle-Tournai-Lille (n° 21) pour rejoindre l'aut
  oroute Tournai-Lille\, ancienne route A8 (E429). Prendre la sortie Rebecq-
@@ -318,19 +407,19 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: B02\n\nCouleur princi
  ensuite à gauche. Le terrain se trouve à 300 m.\n\nVérifiez toujours ce
  s infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c
  /455_1_omnisport_bierghes
-GEO:50.6957846;4.129257
+GEO:50.69576660000001;4.1292301
 LOCATION:Rue du Sartiau 3B\, 1430 Bierghes-Rebecq\, Belgique
 ORGANIZER;CN="Barbe L.";ROLE=Secrétaire:MAILTO:omnisportbierghes1995@gmai
  l.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J15: FRIENDS SPIRIT AUD vs OMNISPORT BIERGHES
-DTSTART;VALUE=DATE-TIME:20240120T113000Z
-DTEND;VALUE=DATE-TIME:20240120T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_4A_15_522_455
+SUMMARY:ABSSA D4A J17: FRIENDS SPIRIT AUD vs OMNISPORT BIERGHES
+DTSTART;VALUE=DATE-TIME:20250201T113000Z
+DTEND;VALUE=DATE-TIME:20250201T130000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_4A_17_522_455
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Bleu\n
  \nContact équipe domicile: Rau L. (0471.06.77.33 - ludo-r@hotmail.com)\n\
  nAccès voiture : En venant de Bruxelles par la chaussée de Wavre\, rejoi
  ndre le du début de l'autoroute Bruxelles-Namur\, utiliser la bande de dr
@@ -345,62 +434,82 @@ LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
 ORGANIZER;CN="Rau L.";ROLE=Secrétaire:MAILTO:ludo-r@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J16: OMNISPORT BIERGHES vs REALISTES MEXICO R
-DTSTART;VALUE=DATE-TIME:20240127T120000Z
-DTEND;VALUE=DATE-TIME:20240127T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_4A_16_455_57
+SUMMARY:ABSSA D4A J18: OMNISPORT BIERGHES vs PATRONS (LES)
+DTSTART;VALUE=DATE-TIME:20250208T120000Z
+DTEND;VALUE=DATE-TIME:20250208T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_4A_18_455_628
 DESCRIPTION:Terrain synthétique: non\nCode terrain: B02\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu m
- arine/Orange\n\nContact équipe domicile: Barbe L. (0495.21.74.14 - omnisp
- ortbierghes1995@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Charler
- oi (E19)\, prendre la sortie Halle-Tournai-Lille (n° 21) pour rejoindre l
- 'autoroute Tournai-Lille\, ancienne route A8 (E429). Prendre la sortie Reb
- ecq-Quenast (n° 24). En bas de la sortie\, prendre à droite\, direction 
- Bierghes. Rouler tout droit jusqu'au premier feu rouge. Tourner à droite 
- en direction de Halle\, ensuite la deuxième rue à droite (rue du Sartiau
- )\, ensuite à gauche. Le terrain se trouve à 300 m.\n\nVérifiez toujour
- s ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.
- be/c/455_1_omnisport_bierghes
-GEO:50.6957846;4.129257
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge\
+ n\nContact équipe domicile: Barbe L. (0495.21.74.14 - omnisportbierghes19
+ 95@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Charleroi (E19)\, pr
+ endre la sortie Halle-Tournai-Lille (n° 21) pour rejoindre l'autoroute To
+ urnai-Lille\, ancienne route A8 (E429). Prendre la sortie Rebecq-Quenast (
+ n° 24). En bas de la sortie\, prendre à droite\, direction Bierghes. Rou
+ ler tout droit jusqu'au premier feu rouge. Tourner à droite en direction 
+ de Halle\, ensuite la deuxième rue à droite (rue du Sartiau)\, ensuite 
+ à gauche. Le terrain se trouve à 300 m.\n\nVérifiez toujours ces infos 
+ sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/455_1_o
+ mnisport_bierghes
+GEO:50.69576660000001;4.1292301
 LOCATION:Rue du Sartiau 3B\, 1430 Bierghes-Rebecq\, Belgique
 ORGANIZER;CN="Barbe L.";ROLE=Secrétaire:MAILTO:omnisportbierghes1995@gmai
  l.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J17: BRUSSELS LTC (Eq. 2) vs OMNISPORT BIERGHES
-DTSTART;VALUE=DATE-TIME:20240203T113000Z
-DTEND;VALUE=DATE-TIME:20240203T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_4A_17_39_455
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: O01\n\nCouleur princi
- pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bl
- eu\n\nContact équipe domicile: Van Hacht O. (0475.96.43.03 - brusselsltc@
- hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre ring Est di
- rection Waterloo. Sortir à la sortie n°27 Waterloo Centre.\n	Prendre ens
- uite à gauche La Drève de Richelle jusqu'au 3ème rond-point et prendre 
- à gauche la 	Chaussée de Louvain sur environ 2km et prendre à droite la
-  Rue des Saules toujours tout droit et 	qui devient ensuite la Route des M
- arnières. Continuer ensuite tout droit\, passer un premier rond-point pui
- s continuer tout droit jusqu'au rond-point du Messager où il faut prendre
-  la 2ème sortie. Vous êtes alors sur la Route de Genval et l'entrée du 
- Complexe se trouve à environ 200m sur la gauche.\n\nVérifiez toujours ce
- s infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c
- /455_1_omnisport_bierghes
-GEO:50.7035641;4.469720199999999
-LOCATION:Route de Genval 20A\, 1380 Ohain\, Belgique
-ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
- m
+SUMMARY:ABSSA D4A J19: LUNETTE (LA) FC vs OMNISPORT BIERGHES
+DTSTART;VALUE=DATE-TIME:20250215T130000Z
+DTEND;VALUE=DATE-TIME:20250215T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_4A_19_130_455
+DESCRIPTION:Terrain synthétique: non\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Bonifazio R. (0488.31.38.10 - bonifazio.raphae
+ l@gmail.com)\n\nAccès voiture : En venant de la Route de Lennik (Citroën
+ ) ou de la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d
+ 'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre
+  la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du comp
+ lexe et des terrains se situe à +/- 500 m. sur la gauche.\n\nVérifiez to
+ ujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cala
+ bssa.be/c/455_1_omnisport_bierghes
+GEO:50.8114295;4.2763934
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Bonifazio R.";ROLE=Secrétaire:MAILTO:bonifazio.raphael@gmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J18: OMNISPORT BIERGHES vs EXTRANOS (LOS)
-DTSTART;VALUE=DATE-TIME:20240210T120000Z
-DTEND;VALUE=DATE-TIME:20240210T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_4A_18_455_569
+SUMMARY:ABSSA D4A J24: OMNISPORT BIERGHES vs WOKRASSE F.C.
+DTSTART;VALUE=DATE-TIME:20250222T120000Z
+DTEND;VALUE=DATE-TIME:20250222T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_4A_24_455_656
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu e
+ t Noir\n\nContact équipe domicile: Barbe L. (0495.21.74.14 - omnisportbie
+ rghes1995@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Charleroi (E1
+ 9)\, prendre la sortie Halle-Tournai-Lille (n° 21) pour rejoindre l'autor
+ oute Tournai-Lille\, ancienne route A8 (E429). Prendre la sortie Rebecq-Qu
+ enast (n° 24). En bas de la sortie\, prendre à droite\, direction Biergh
+ es. Rouler tout droit jusqu'au premier feu rouge. Tourner à droite en dir
+ ection de Halle\, ensuite la deuxième rue à droite (rue du Sartiau)\, en
+ suite à gauche. Le terrain se trouve à 300 m.\n\nVérifiez toujours ces 
+ infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/4
+ 55_1_omnisport_bierghes
+GEO:50.69576660000001;4.1292301
+LOCATION:Rue du Sartiau 3B\, 1430 Bierghes-Rebecq\, Belgique
+ORGANIZER;CN="Barbe L.";ROLE=Secrétaire:MAILTO:omnisportbierghes1995@gmai
+ l.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4A J20: OMNISPORT BIERGHES vs RAYO LATINO
+DTSTART;VALUE=DATE-TIME:20250308T120000Z
+DTEND;VALUE=DATE-TIME:20250308T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_4A_20_455_572
 DESCRIPTION:Terrain synthétique: non\nCode terrain: B02\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge 
- et Bleu\n\nContact équipe domicile: Barbe L. (0495.21.74.14 - omnisportbi
+ et noir\n\nContact équipe domicile: Barbe L. (0495.21.74.14 - omnisportbi
  erghes1995@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Charleroi (E
  19)\, prendre la sortie Halle-Tournai-Lille (n° 21) pour rejoindre l'auto
  route Tournai-Lille\, ancienne route A8 (E429). Prendre la sortie Rebecq-Q
@@ -410,140 +519,55 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: B02\n\nCouleur princi
  nsuite à gauche. Le terrain se trouve à 300 m.\n\nVérifiez toujours ces
   infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/
  455_1_omnisport_bierghes
-GEO:50.6957846;4.129257
+GEO:50.69576660000001;4.1292301
 LOCATION:Rue du Sartiau 3B\, 1430 Bierghes-Rebecq\, Belgique
 ORGANIZER;CN="Barbe L.";ROLE=Secrétaire:MAILTO:omnisportbierghes1995@gmai
  l.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J19: PIRATERIE (LA) vs OMNISPORT BIERGHES
-DTSTART;VALUE=DATE-TIME:20240217T130000Z
-DTEND;VALUE=DATE-TIME:20240217T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_4A_19_652_455
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu\n
- \nContact équipe domicile: Cook Z (0497.25.56.22 - lapirateriefc@outlook.
- com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoroute Bruxelle
- s-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le pont de
-  l'autoroute et prendre la direction de Nivelles. A 200 m.\, au rond-point
-  (Shopping Center)\, tourner à droite en direction de Wavre (petit ring d
- e Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point du Shopp
- ing Center)\, tourner à gauche \, rue de l'Industrie et pénétrer dans l
- e zoning. Au bout de la rue\, avant le feu de signalisation\, tourner à g
- auche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérifiez toujou
- rs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa
- .be/c/455_1_omnisport_bierghes
-GEO:50.5963436;4.3564187
-LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER;CN="Cook Z";ROLE=Secrétaire:MAILTO:lapirateriefc@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J26: HELLAS BERCHEM FC. vs OMNISPORT BIERGHES
-DTSTART;VALUE=DATE-TIME:20240224T120000Z
-DTEND;VALUE=DATE-TIME:20240224T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_4A_26_488_455
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: S04\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
- \nContact équipe domicile: Hadjianestis A. (0475.31.23.80 - fchellas@gmai
- l.com)\n\nAccès voiture : A partir du boulevard Charles Quint à hauteur 
- de Basilix Shopping Center\, prendre la rue des Châlets (Lusthuizenstraat
- )\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calab
- ssa: https://calabssa.be/c/455_1_omnisport_bierghes
-GEO:50.8696433;4.2873126
-LOCATION:Parc J. Monnet\, Lusthuizenstraat 1\, 1080 Sint-Agatha-Berchem\, 
- Belgique
-ORGANIZER;CN="Hadjianestis A.";ROLE=Secrétaire:MAILTO:fchellas@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J23: TRICOTEUSES FC. vs OMNISPORT BIERGHES
-DTSTART;VALUE=DATE-TIME:20240302T143000Z
-DTEND;VALUE=DATE-TIME:20240302T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_4A_23_617_455
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W19\n\nCouleur princi
+SUMMARY:ABSSA D4A J21: MOUSSES TACHENT vs OMNISPORT BIERGHES
+DTSTART;VALUE=DATE-TIME:20250315T143000Z
+DTEND;VALUE=DATE-TIME:20250315T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_4A_21_643_455
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: C02\n\nCouleur princi
  pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bl
- eu\n\nContact équipe domicile: Van Roey P. (0475.68.28.41 - pierrickvr4@g
- mail.com)\n\nAccès voiture : Ring de Bruxelles (RO)\, sortie n° 2. Prend
- re la direction Wezembeek-Oppem. Ensuite première rue à droite (Louis Ma
- rcelisstraat) puis la troisième à droite (Sportpleinstraat).\nL'entrée 
- au terrain se trouve à gauche entre les n° 16 et 24.\nPar la ville : A p
- artir du rond point Montgomery\, prendre l'Avenue de Broqueville\, toujour
- s tout droit. Passez devant le Shopping de Woluwé\, toujours tout droit\,
-  passez devant le magasin "Carrefour"\, puis au 2ème feu de signalisation
-  prendre à droite et ensuite tout droit. Au bout de la rue prendre à dro
- ite\, le terrain se trouve à 100 mètres  sur la gauche.\n\nVérifiez tou
- jours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calab
- ssa.be/c/455_1_omnisport_bierghes
-GEO:50.8424578;4.486587999999999
-LOCATION:Sportpleinstraat 20\, 1970 Wezembeek - Oppem\, Belgique
-ORGANIZER;CN="Van Roey P.";ROLE=Secrétaire:MAILTO:pierrickvr4@gmail.com
+ eu\n\nContact équipe domicile: Callant S (0478.61.90.26 - les.mousses.tac
+ hent@gmail.com)\n\nAccès voiture : Ring ouest: Direction Waterloo\, prend
+ re la sortie "butte du lion" \, prendre à droite\, puis au feu rouge pren
+ dre à droite\, rouler jusque Genappe et prendre la RN 25 en direction de 
+ Wavre\, prendre la deuxième sortie (Court St. Etienne) et prendre à gauc
+ he\, le terrain se trouve à 1 km. a main droite.\nPar la E411: Prendre la
+  E411 direction Namur\, ensuite sortir a Wavre\, prendre ensuite la sortie
+  Villers-La-Ville\, ensuite à droite puis directement à gauche a l'arbre
+  et descendre jusque dans le fond\, prendre a droite et le terrain se trou
+ ve à 500 m. a main gauche.\n\nVérifiez toujours ces infos sur http://www
+ .abssa.be/\nVoir sur calabssa: https://calabssa.be/c/455_1_omnisport_bierg
+ hes
+GEO:50.6417231;4.5547061
+LOCATION:Avenue des Combattants\, 1490 Court St. Etienne\, Belgique
+ORGANIZER;CN="Callant S";ROLE=Secrétaire:MAILTO:les.mousses.tachent@gmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J20: OMNISPORT BIERGHES vs NEW INN FC (Eq. 4)
-DTSTART;VALUE=DATE-TIME:20240309T120000Z
-DTEND;VALUE=DATE-TIME:20240309T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_4A_20_455_359
+SUMMARY:ABSSA D4A J22: OMNISPORT BIERGHES vs BLUE THRILLS
+DTSTART;VALUE=DATE-TIME:20250322T120000Z
+DTEND;VALUE=DATE-TIME:20250322T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_4A_22_455_619
 DESCRIPTION:Terrain synthétique: non\nCode terrain: B02\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir\n
- \nContact équipe domicile: Barbe L. (0495.21.74.14 - omnisportbierghes199
- 5@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Charleroi (E19)\, pre
- ndre la sortie Halle-Tournai-Lille (n° 21) pour rejoindre l'autoroute Tou
- rnai-Lille\, ancienne route A8 (E429). Prendre la sortie Rebecq-Quenast (n
- ° 24). En bas de la sortie\, prendre à droite\, direction Bierghes. Roul
- er tout droit jusqu'au premier feu rouge. Tourner à droite en direction d
- e Halle\, ensuite la deuxième rue à droite (rue du Sartiau)\, ensuite à
-  gauche. Le terrain se trouve à 300 m.\n\nVérifiez toujours ces infos su
- r http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/455_1_omn
- isport_bierghes
-GEO:50.6957846;4.129257
-LOCATION:Rue du Sartiau 3B\, 1430 Bierghes-Rebecq\, Belgique
-ORGANIZER;CN="Barbe L.";ROLE=Secrétaire:MAILTO:omnisportbierghes1995@gmai
- l.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J21: LUNETTE (LA) FC vs OMNISPORT BIERGHES
-DTSTART;VALUE=DATE-TIME:20240316T130000Z
-DTEND;VALUE=DATE-TIME:20240316T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_4A_21_130_455
-DESCRIPTION:Terrain synthétique: non\nCode terrain: A09\n\nCouleur princi
- pale équipe domicile: Jaune et bleu\nCouleur principale équipe exterieur
- e: Bleu\n\nContact équipe domicile: Bonifazio R. (0488.31.38.10 - bonifaz
- io.raphael@gmail.com)\n\nAccès voiture : En venant de la Route de Lennik 
- (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre la direction du cim
- etière d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-poin
- t prendre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entré
- e du complexe et des terrains se situe à +/- 500 m. sur la gauche.\n\nVé
- rifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: htt
- ps://calabssa.be/c/455_1_omnisport_bierghes
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER;CN="Bonifazio R.";ROLE=Secrétaire:MAILTO:bonifazio.raphael@gmai
- l.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J25: OMNISPORT BIERGHES vs BLACK STAR GENVAL
-DTSTART;VALUE=DATE-TIME:20240406T110000Z
-DTEND;VALUE=DATE-TIME:20240406T123000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_4A_25_455_601
-DESCRIPTION:Terrain synthétique: non\nCode terrain: B02\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir\n
- \nContact équipe domicile: Barbe L. (0495.21.74.14 - omnisportbierghes199
- 5@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Charleroi (E19)\, pre
- ndre la sortie Halle-Tournai-Lille (n° 21) pour rejoindre l'autoroute Tou
- rnai-Lille\, ancienne route A8 (E429). Prendre la sortie Rebecq-Quenast (n
- ° 24). En bas de la sortie\, prendre à droite\, direction Bierghes. Roul
- er tout droit jusqu'au premier feu rouge. Tourner à droite en direction d
- e Halle\, ensuite la deuxième rue à droite (rue du Sartiau)\, ensuite à
-  gauche. Le terrain se trouve à 300 m.\n\nVérifiez toujours ces infos su
- r http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/455_1_omn
- isport_bierghes
-GEO:50.6957846;4.129257
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu M
+ arine\n\nContact équipe domicile: Barbe L. (0495.21.74.14 - omnisportbier
+ ghes1995@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Charleroi (E19
+ )\, prendre la sortie Halle-Tournai-Lille (n° 21) pour rejoindre l'autoro
+ ute Tournai-Lille\, ancienne route A8 (E429). Prendre la sortie Rebecq-Que
+ nast (n° 24). En bas de la sortie\, prendre à droite\, direction Bierghe
+ s. Rouler tout droit jusqu'au premier feu rouge. Tourner à droite en dire
+ ction de Halle\, ensuite la deuxième rue à droite (rue du Sartiau)\, ens
+ uite à gauche. Le terrain se trouve à 300 m.\n\nVérifiez toujours ces i
+ nfos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/45
+ 5_1_omnisport_bierghes
+GEO:50.69576660000001;4.1292301
 LOCATION:Rue du Sartiau 3B\, 1430 Bierghes-Rebecq\, Belgique
 ORGANIZER;CN="Barbe L.";ROLE=Secrétaire:MAILTO:omnisportbierghes1995@gmai
  l.com

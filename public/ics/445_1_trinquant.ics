@@ -4,33 +4,34 @@ PRODID:445_1_trinquant
 X-WR-CALDESC:Les matches du club TRINQUANT (equipe 1) en ABSSA.
 X-WR-CALNAME:ABSSA: TRINQUANT (eq. 1)
 BEGIN:VEVENT
-SUMMARY:ABSSA D3A J10: TRINQUANT vs BXL ALLIANCE JETTE
-DTSTART;VALUE=DATE-TIME:20230902T103000Z
-DTEND;VALUE=DATE-TIME:20230902T120000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_3A_10_445_566
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
- pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
-  Vert\n\nContact équipe domicile: Bernard J-M. (0476.66.08.14 - jmbernard
- .trinquant@yahoo.fr)\n\nAccès voiture : Venant de Bruxelles\, prendre le 
- Ring Est direction Waterloo. Sortir au pont de Groenendael\, direction La 
- Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, t
- oujours tout droit. Au feu de signalisation et le carrefour de La Hulpe\, 
- tout droit direction Genval. Au feu de signalisation prendre à gauche et 
- ensuite directement à droite\, l'avenue Soyer\, derrière le G.B. Le terr
- ain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.abs
- sa.be/\nVoir sur calabssa: https://calabssa.be/c/445_1_trinquant
-GEO:50.7309318;4.4945865
-LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER;CN="Bernard J-M.";ROLE=Secrétaire:MAILTO:jmbernard.trinquant@ya
- hoo.fr
+SUMMARY:ABSSA D3B J23: NIVELLOIS-ACLOT BS vs TRINQUANT
+DTSTART;VALUE=DATE-TIME:20240831T130000Z
+DTEND;VALUE=DATE-TIME:20240831T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_3B_23_503_445
+DESCRIPTION:Terrain synthétique: non\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
+ e: Bleu marine\n\nContact équipe domicile: Draux N. (0472.40.01.22 - ni.d
+ raux@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autorou
+ te Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous
+  le pont de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au
+  rond-point (Shopping Center)\, tourner à droite en direction de Wavre (p
+ etit ring de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-poi
+ nt du Shopping Center)\, tourner à gauche \, rue de l'Industrie et péné
+ trer dans le zoning. Au bout de la rue\, avant le feu de signalisation\, t
+ ourner à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVéri
+ fiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https
+ ://calabssa.be/c/445_1_trinquant
+GEO:50.5963705;4.3564539
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Draux N.";ROLE=Secrétaire:MAILTO:ni.draux@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3A J1: LA LORRAINE-MTM.R (Eq. 2) vs TRINQUANT
-DTSTART;VALUE=DATE-TIME:20230909T103000Z
-DTEND;VALUE=DATE-TIME:20230909T120000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_3A_1_44_445
+SUMMARY:ABSSA D3B J1: LA LORRAINE-MTM.R (Eq. 2) vs TRINQUANT
+DTSTART;VALUE=DATE-TIME:20240907T103000Z
+DTEND;VALUE=DATE-TIME:20240907T120000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_3B_1_44_445
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu m
  arine\n\nContact équipe domicile: Degimbe M. (0478.53.63.56 - lalorrainef
@@ -44,122 +45,11 @@ LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
 ORGANIZER;CN="Degimbe M.";ROLE=Secrétaire:MAILTO:lalorrainefc@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3A J2: TRINQUANT vs CENTRAL PARK FC
-DTSTART;VALUE=DATE-TIME:20230916T103000Z
-DTEND;VALUE=DATE-TIME:20230916T120000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_3A_2_445_562
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
- pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
-  Bleu et Blanc\n\nContact équipe domicile: Bernard J-M. (0476.66.08.14 - 
- jmbernard.trinquant@yahoo.fr)\n\nAccès voiture : Venant de Bruxelles\, pr
- endre le Ring Est direction Waterloo. Sortir au pont de Groenendael\, dire
- ction La Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La 
- Hulpe\, toujours tout droit. Au feu de signalisation et le carrefour de La
-  Hulpe\, tout droit direction Genval. Au feu de signalisation prendre à g
- auche et ensuite directement à droite\, l'avenue Soyer\, derrière le G.B
- . Le terrain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http:
- //www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/445_1_trinquant
-GEO:50.7309318;4.4945865
-LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER;CN="Bernard J-M.";ROLE=Secrétaire:MAILTO:jmbernard.trinquant@ya
- hoo.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J3: CHARLES-QUINT FC vs TRINQUANT
-DTSTART;VALUE=DATE-TIME:20230923T133000Z
-DTEND;VALUE=DATE-TIME:20230923T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_3A_3_499_445
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: G03\n\nCouleur princi
- pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
-  Bleu marine\n\nContact équipe domicile: Denies G (0479.57.39.23 - denies
- .gaetan@gmail.com)\n\nAccès voiture : Par la ville. A partir de la Basili
- que de Koekelberg\, prendre l'Avenue Charles Quint\, prendre 3ème rue à 
- droite\, Avenue de Villegas. Arrivé au rond point prendre la 3ème sortie
-  et  continuer sur l'avenue Marie de Hongrie. Prendre ensuite la première
-  à droite\, l'avenue des Neuf Provinces. Au 2ème rond point\, prendre la
-  première sortie\, rue Vanderveken. Un parking est accessible dans la pre
- mière rue à gauche. (Indication Hall des Sports).\nPar le ring. En sorta
- nt du ring à Koekelberg\, prendre l'avenue Charles Quint. Au 3ème feu\, 
- prendre à gauche sur la place Marguerite d'Autriche. Prendre la 1ère rue
-  à droite et rester sur l'avenue Marie de Hongrie. Ensuite suivre comme c
- i-dessus.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir s
- ur calabssa: https://calabssa.be/c/445_1_trinquant
-GEO:50.876279;4.3026291
-LOCATION:Rue A. Roobaert\, 1083 Ganshoren\, Belgique
-ORGANIZER;CN="Denies G";ROLE=Secrétaire:MAILTO:denies.gaetan@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J4: TRINQUANT vs UNION TIGERS
-DTSTART;VALUE=DATE-TIME:20230930T103000Z
-DTEND;VALUE=DATE-TIME:20230930T120000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_3A_4_445_649
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
- pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
-  Bleu ciel et Blanc\n\nContact équipe domicile: Bernard J-M. (0476.66.08.
- 14 - jmbernard.trinquant@yahoo.fr)\n\nAccès voiture : Venant de Bruxelles
- \, prendre le Ring Est direction Waterloo. Sortir au pont de Groenendael\,
-  direction La Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau d
- e La Hulpe\, toujours tout droit. Au feu de signalisation et le carrefour 
- de La Hulpe\, tout droit direction Genval. Au feu de signalisation prendre
-  à gauche et ensuite directement à droite\, l'avenue Soyer\, derrière l
- e G.B. Le terrain se trouve à 300 m.\n\nVérifiez toujours ces infos sur 
- http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/445_1_trinq
- uant
-GEO:50.7309318;4.4945865
-LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER;CN="Bernard J-M.";ROLE=Secrétaire:MAILTO:jmbernard.trinquant@ya
- hoo.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J5: TAURO FC vs TRINQUANT
-DTSTART;VALUE=DATE-TIME:20231007T113000Z
-DTEND;VALUE=DATE-TIME:20231007T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_3A_5_574_445
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: S09\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu m
- arine\n\nContact équipe domicile: Lietaer Y. (0484.16.30.31 - ylietaer@gm
- ail.com)\n\nAccès voiture : Place Meiser\, descendre Bd. Général Wahis\
- , Bd Lambermont\, au deuxième carrefour prendre à gauche\, puis encore l
- a première à gauche\nOu :  Place Meiser prendre Av Ernest Cambier. - Tra
- m n° 7  - Bus 65 arrêt Chazal\n\nVérifiez toujours ces infos sur http:/
- /www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/445_1_trinquant
-GEO:50.8592013;4.3921032
-LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
- ue
-ORGANIZER;CN="Lietaer Y.";ROLE=Secrétaire:MAILTO:ylietaer@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J6: TRINQUANT vs MOON SHOOTERS
-DTSTART;VALUE=DATE-TIME:20231014T103000Z
-DTEND;VALUE=DATE-TIME:20231014T120000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_3A_6_445_606
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
- pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
-  Jaune\n\nContact équipe domicile: Bernard J-M. (0476.66.08.14 - jmbernar
- d.trinquant@yahoo.fr)\n\nAccès voiture : Venant de Bruxelles\, prendre le
-  Ring Est direction Waterloo. Sortir au pont de Groenendael\, direction La
-  Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, 
- toujours tout droit. Au feu de signalisation et le carrefour de La Hulpe\,
-  tout droit direction Genval. Au feu de signalisation prendre à gauche et
-  ensuite directement à droite\, l'avenue Soyer\, derrière le G.B. Le ter
- rain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.ab
- ssa.be/\nVoir sur calabssa: https://calabssa.be/c/445_1_trinquant
-GEO:50.7309318;4.4945865
-LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER;CN="Bernard J-M.";ROLE=Secrétaire:MAILTO:jmbernard.trinquant@ya
- hoo.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J8: TRINQUANT vs CHIEFS WSL
-DTSTART;VALUE=DATE-TIME:20231021T103000Z
-DTEND;VALUE=DATE-TIME:20231021T120000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_3A_8_445_303
+SUMMARY:ABSSA D3B J2: TRINQUANT vs NEW INN FC
+DTSTART;VALUE=DATE-TIME:20240914T103000Z
+DTEND;VALUE=DATE-TIME:20240914T120000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_3B_2_445_359
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
  pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
   Blanc\n\nContact équipe domicile: Bernard J-M. (0476.66.08.14 - jmbernar
@@ -171,232 +61,39 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
   ensuite directement à droite\, l'avenue Soyer\, derrière le G.B. Le ter
  rain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.ab
  ssa.be/\nVoir sur calabssa: https://calabssa.be/c/445_1_trinquant
-GEO:50.7309318;4.4945865
+GEO:50.7308998;4.4944678
 LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
 ORGANIZER;CN="Bernard J-M.";ROLE=Secrétaire:MAILTO:jmbernard.trinquant@ya
  hoo.fr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3A J24: VOLLENBACK FC vs TRINQUANT
-DTSTART;VALUE=DATE-TIME:20231028T124500Z
-DTEND;VALUE=DATE-TIME:20231028T141500Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_3A_24_589_445
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W16\n\nCouleur princi
- pale équipe domicile: Rose et noir\nCouleur principale équipe exterieure
- : Bleu marine\n\nContact équipe domicile: Haimburger G. (0485.84.91.47 - 
- Gregory.haimburger@gmail.com)\n\nAccès voiture : Ring RO\, afrit Wemmel-M
- erchtem (n° 9)\, richting Merchtem volgen via de Is. Meyskensstraat tot a
- an de rotonde\, op de rotonde de 4de afslag nemen\, Diepstraat deze vloeit
-  over in de Steenweg op Brussel\, 50 m. voorbij het eerste kruispunt met v
- erkeerslichten\, links van de steenweg\, bevindt zich het stadium (parking
- )\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calab
- ssa: https://calabssa.be/c/445_1_trinquant
-GEO:50.9077704;4.3065753
-LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
-  Wemmel\, Belgique
-ORGANIZER;CN="Haimburger G.";ROLE=Secrétaire:MAILTO:Gregory.haimburger@gm
- ail.com
+SUMMARY:ABSSA D3B J3: HIGGINS-PUMAS (Eq. 2) vs TRINQUANT
+DTSTART;VALUE=DATE-TIME:20240921T103000Z
+DTEND;VALUE=DATE-TIME:20240921T120000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_3B_3_416_445
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
+ erieure: Bleu marine\n\nContact équipe domicile: De Biolley Ph. (0477.23.
+ 31.25 - philippe.debiolley@gmail.com)\n\nAccès voiture : En venant de Bru
+ xelles par la chaussée de Wavre\, rejoindre le du début de l'autoroute B
+ ruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et descend
+ re devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (e
+ n dessous de l'autoroute). Le terrain se trouve à 200 m. Le stade est fl
+ éché.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur
+  calabssa: https://calabssa.be/c/445_1_trinquant
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="De Biolley Ph.";ROLE=Secrétaire:MAILTO:philippe.debiolley@g
+ mail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3A J7: FOSSIS (LES) CS vs TRINQUANT
-DTSTART;VALUE=DATE-TIME:20231104T140000Z
-DTEND;VALUE=DATE-TIME:20231104T153000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_3A_7_217_445
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: M08\n\nCouleur princi
- pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Bleu 
- marine\n\nContact équipe domicile: Desmedt O. (0495.27.08.87 - oli.desmed
- t@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'autoro
- ute E411 en direction de Namur. Prendre la sortie 9 Corroy-le-Grand vers L
- ouvain-la-Neuve  Sud / Nivelles / E 19. Rejoindre Chemin de Grez. Au rond-
- point\, prendre la 2ième sortie sur Grand'Route / N 4. Après 1\,8 km.et 
- au prochain feu\, tourner à droite Rue de Corbais. Continuer tout droit p
- endant 2 km. et prendre à droite Avenue du Cérisier. 70 m. plus loin\, v
- ous trouverez le parking sur la droite.\n\nVérifiez toujours ces infos su
- r http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/445_1_tri
- nquant
-GEO:50.6415297;4.6219204
-LOCATION:Guibert Sports Arena\, Avenue des Cérisiers 3\, 1435 Mont-Saint-
- Guibert\, Belgique
-ORGANIZER;CN="Desmedt O.";ROLE=Secrétaire:MAILTO:oli.desmedt@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J9: NEW INN FC vs TRINQUANT
-DTSTART;VALUE=DATE-TIME:20231118T143000Z
-DTEND;VALUE=DATE-TIME:20231118T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_3A_9_359_445
-DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
- marine\n\nContact équipe domicile: Cornil B. (0494.16.15.11 - bencornil@g
- mail.com)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute 
- Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viadu
- c prendre à droite\, l'avenue des Anciens Combattants. Juste après le ca
- rrefour avec des feux de signalisation prendre à droite vers la Place de 
- la Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le t
- errain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces infos 
- sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/445_1_t
- rinquant
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER;CN="Cornil B.";ROLE=Secrétaire:MAILTO:bencornil@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J12: FRANGINOS (LOS) vs TRINQUANT
-DTSTART;VALUE=DATE-TIME:20231125T140000Z
-DTEND;VALUE=DATE-TIME:20231125T153000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_3A_12_647_445
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: P02\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
- marine\n\nContact équipe domicile: Gerard S. (0487.22.81.20 - simongerard
- @hotmail.be)\n\nAccès voiture : a Partir de Bruxelles\, Prendre la E 411 
- en Direction de Namur. Prendre la Sortie 11  Gembloux pour Rejoindre la N 
- 29 en Direction de Gembloux / Tirlement / Jodoigne / Perwez. suivre la N29
-  et Chaussée de Wavre (N243) en Direction de la Rue des Marronniers. au R
- ond-Point 1\, 2 et 3 Prendre chaque Fois la première Sortie.\nAu Rond-Poi
- nt suivant (4Ième) Prendre la deuxième Sortie et Continuer sur la Chauss
- ée de Wavre / N 243. Prendre à Droite sur la Rue des Marronniers\, le Te
- rrain se Trouve à Droite\n\nVérifiez toujours ces infos sur http://www.a
- bssa.be/\nVoir sur calabssa: https://calabssa.be/c/445_1_trinquant
-GEO:50.6251834;4.8051205
-LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
-ORGANIZER;CN="Gerard S.";ROLE=Secrétaire:MAILTO:simongerard@hotmail.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J11: TRINQUANT vs VOLLENBACK FC
-DTSTART;VALUE=DATE-TIME:20231202T113000Z
-DTEND;VALUE=DATE-TIME:20231202T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_3A_11_445_589
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
- pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
-  Rose et noir\n\nContact équipe domicile: Bernard J-M. (0476.66.08.14 - j
- mbernard.trinquant@yahoo.fr)\n\nAccès voiture : Venant de Bruxelles\, pre
- ndre le Ring Est direction Waterloo. Sortir au pont de Groenendael\, direc
- tion La Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La H
- ulpe\, toujours tout droit. Au feu de signalisation et le carrefour de La 
- Hulpe\, tout droit direction Genval. Au feu de signalisation prendre à ga
- uche et ensuite directement à droite\, l'avenue Soyer\, derrière le G.B.
-  Le terrain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http:/
- /www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/445_1_trinquant
-GEO:50.7309318;4.4945865
-LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER;CN="Bernard J-M.";ROLE=Secrétaire:MAILTO:jmbernard.trinquant@ya
- hoo.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J13: TRINQUANT vs CURTIS L'AUSELE
-DTSTART;VALUE=DATE-TIME:20231209T113000Z
-DTEND;VALUE=DATE-TIME:20231209T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_3A_13_445_599
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
- pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
-  Bleu marine\n\nContact équipe domicile: Bernard J-M. (0476.66.08.14 - jm
- bernard.trinquant@yahoo.fr)\n\nAccès voiture : Venant de Bruxelles\, pren
- dre le Ring Est direction Waterloo. Sortir au pont de Groenendael\, direct
- ion La Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La Hu
- lpe\, toujours tout droit. Au feu de signalisation et le carrefour de La H
- ulpe\, tout droit direction Genval. Au feu de signalisation prendre à gau
- che et ensuite directement à droite\, l'avenue Soyer\, derrière le G.B. 
- Le terrain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://
- www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/445_1_trinquant
-GEO:50.7309318;4.4945865
-LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER;CN="Bernard J-M.";ROLE=Secrétaire:MAILTO:jmbernard.trinquant@ya
- hoo.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J14: TRINQUANT vs LA LORRAINE-MTM.R (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20240113T113000Z
-DTEND;VALUE=DATE-TIME:20240113T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_3A_14_445_44
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
- pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
-  Bleu\n\nContact équipe domicile: Bernard J-M. (0476.66.08.14 - jmbernard
- .trinquant@yahoo.fr)\n\nAccès voiture : Venant de Bruxelles\, prendre le 
- Ring Est direction Waterloo. Sortir au pont de Groenendael\, direction La 
- Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, t
- oujours tout droit. Au feu de signalisation et le carrefour de La Hulpe\, 
- tout droit direction Genval. Au feu de signalisation prendre à gauche et 
- ensuite directement à droite\, l'avenue Soyer\, derrière le G.B. Le terr
- ain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.abs
- sa.be/\nVoir sur calabssa: https://calabssa.be/c/445_1_trinquant
-GEO:50.7309318;4.4945865
-LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER;CN="Bernard J-M.";ROLE=Secrétaire:MAILTO:jmbernard.trinquant@ya
- hoo.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J15: CENTRAL PARK FC vs TRINQUANT
-DTSTART;VALUE=DATE-TIME:20240120T143000Z
-DTEND;VALUE=DATE-TIME:20240120T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_3A_15_562_445
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Bleu et Blanc\nCouleur principale équipe exterieur
- e: Bleu marine\n\nContact équipe domicile: Genot F. (0473.57.28.61 - geno
- tflorian@hotmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre
-  la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus 
- bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujou
- rs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa
- .be/c/445_1_trinquant
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J16: TRINQUANT vs CHARLES-QUINT FC
-DTSTART;VALUE=DATE-TIME:20240127T113000Z
-DTEND;VALUE=DATE-TIME:20240127T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_3A_16_445_499
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
- pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
-  Bleu marine\n\nContact équipe domicile: Bernard J-M. (0476.66.08.14 - jm
- bernard.trinquant@yahoo.fr)\n\nAccès voiture : Venant de Bruxelles\, pren
- dre le Ring Est direction Waterloo. Sortir au pont de Groenendael\, direct
- ion La Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La Hu
- lpe\, toujours tout droit. Au feu de signalisation et le carrefour de La H
- ulpe\, tout droit direction Genval. Au feu de signalisation prendre à gau
- che et ensuite directement à droite\, l'avenue Soyer\, derrière le G.B. 
- Le terrain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://
- www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/445_1_trinquant
-GEO:50.7309318;4.4945865
-LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER;CN="Bernard J-M.";ROLE=Secrétaire:MAILTO:jmbernard.trinquant@ya
- hoo.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J17: UNION TIGERS vs TRINQUANT
-DTSTART;VALUE=DATE-TIME:20240203T113000Z
-DTEND;VALUE=DATE-TIME:20240203T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_3A_17_649_445
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A01\n\nCouleur princi
- pale équipe domicile: Bleu ciel et Blanc\nCouleur principale équipe exte
- rieure: Bleu marine\n\nContact équipe domicile: Thibaut L (0472.52.93.45 
- - union.tigers@hotmail.com)\n\nAccès voiture : Par le Ring Ouest\, direct
- ion Paris\, sortie Westland Shopping Center (n° 14) continuer tout droit\
- , remonter vers le Ring et prendre à droite pour sortir vers Itterbeek. P
- rendre l'avenue d'Itterbeek au parc d'Anderlecht\, passer le ring\, reste 
- 2 km. Le terrain se trouve à gauche\, entre l'école Van Belle et Veeweyd
- e.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur cala
- bssa: https://calabssa.be/c/445_1_trinquant
-GEO:50.8354396;4.2768611
-LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
-ORGANIZER;CN="Thibaut L";ROLE=Secrétaire:MAILTO:union.tigers@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J18: TRINQUANT vs TAURO FC
-DTSTART;VALUE=DATE-TIME:20240210T113000Z
-DTEND;VALUE=DATE-TIME:20240210T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_3A_18_445_574
+SUMMARY:ABSSA D3B J4: TRINQUANT vs TAURO FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240928T103000Z
+DTEND;VALUE=DATE-TIME:20240928T120000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_3B_4_445_574
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
  pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
   Noir\n\nContact équipe domicile: Bernard J-M. (0476.66.08.14 - jmbernard
@@ -408,17 +105,114 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
  ensuite directement à droite\, l'avenue Soyer\, derrière le G.B. Le terr
  ain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.abs
  sa.be/\nVoir sur calabssa: https://calabssa.be/c/445_1_trinquant
-GEO:50.7309318;4.4945865
+GEO:50.7308998;4.4944678
 LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
 ORGANIZER;CN="Bernard J-M.";ROLE=Secrétaire:MAILTO:jmbernard.trinquant@ya
  hoo.fr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3A J19: MOON SHOOTERS vs TRINQUANT
-DTSTART;VALUE=DATE-TIME:20240217T143000Z
-DTEND;VALUE=DATE-TIME:20240217T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_3A_19_606_445
+SUMMARY:ABSSA D3B J5: STRING PENELOPE vs TRINQUANT
+DTSTART;VALUE=DATE-TIME:20241005T120000Z
+DTEND;VALUE=DATE-TIME:20241005T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_3B_5_181_445
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Bleu
+  marine\n\nContact équipe domicile: Sbaiti Y (0487.54.95.27 - yo.sbaiti@g
+ mail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'autoroute
+  E411 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir la 
+ droite et au bout de la bretelle\, prendre la direction d'Ottignies par la
+  N238. Au 1èr feu de signalisation continuer tout droit en passant devant
+  Walibi (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au bou
+ t de cette sortie\, en face du Tennis Club La Palestre\, prendre à droite
+  la rue Charles Dubois\, jusqu'au carrefour principal. Continuer tout droi
+ t en traversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du ch
+ emin de fer et prendre la rue de l'Europe jusqu'à la place de l'Europe. T
+ raverser cette place par la droite. Au bout à gauche\, suivre l'avenue Ja
+ ssans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limelett
+ e). Continuer cette rue et passer en dessous du 2ème pont du chemin de fe
+ r. Après ce pont\, prendre tout de suite à gauche l'avenue Demolder (pan
+ neau F.C. Limelette)\, en face de l'étang du Buston. Suivre cette avenue 
+ jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m. da
+ ns cette rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C. Li
+ melette). L'entrée du terrain est située 50 m. plus bas sur la gauche.\n
+ \nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa
+ : https://calabssa.be/c/445_1_trinquant
+GEO:50.67628029999999;4.562802
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Sbaiti Y";ROLE=Secrétaire:MAILTO:yo.sbaiti@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J6: TRINQUANT vs CHENOIS (ESPER)
+DTSTART;VALUE=DATE-TIME:20241012T103000Z
+DTEND;VALUE=DATE-TIME:20241012T120000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_3B_6_445_412
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Blanc et rouge\n\nContact équipe domicile: Bernard J-M. (0476.66.08.14 -
+  jmbernard.trinquant@yahoo.fr)\n\nAccès voiture : Venant de Bruxelles\, p
+ rendre le Ring Est direction Waterloo. Sortir au pont de Groenendael\, dir
+ ection La Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La
+  Hulpe\, toujours tout droit. Au feu de signalisation et le carrefour de L
+ a Hulpe\, tout droit direction Genval. Au feu de signalisation prendre à 
+ gauche et ensuite directement à droite\, l'avenue Soyer\, derrière le G.
+ B. Le terrain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http
+ ://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/445_1_trinquant
+GEO:50.7308998;4.4944678
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Bernard J-M.";ROLE=Secrétaire:MAILTO:jmbernard.trinquant@ya
+ hoo.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J25: TRINQUANT vs WATERMAEL FC
+DTSTART;VALUE=DATE-TIME:20241019T103000Z
+DTEND;VALUE=DATE-TIME:20241019T120000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_3B_25_445_611
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Bleu\n\nContact équipe domicile: Bernard J-M. (0476.66.08.14 - jmbernard
+ .trinquant@yahoo.fr)\n\nAccès voiture : Venant de Bruxelles\, prendre le 
+ Ring Est direction Waterloo. Sortir au pont de Groenendael\, direction La 
+ Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, t
+ oujours tout droit. Au feu de signalisation et le carrefour de La Hulpe\, 
+ tout droit direction Genval. Au feu de signalisation prendre à gauche et 
+ ensuite directement à droite\, l'avenue Soyer\, derrière le G.B. Le terr
+ ain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.abs
+ sa.be/\nVoir sur calabssa: https://calabssa.be/c/445_1_trinquant
+GEO:50.7308998;4.4944678
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Bernard J-M.";ROLE=Secrétaire:MAILTO:jmbernard.trinquant@ya
+ hoo.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J26: CHENOIS SC (Eq. 2) vs TRINQUANT
+DTSTART;VALUE=DATE-TIME:20241026T113000Z
+DTEND;VALUE=DATE-TIME:20241026T130000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_3B_26_84_445
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W02\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu 
+ marine\n\nContact équipe domicile: Versmissen P. (0495.59.61.77 - sc.chen
+ ois@waterloo.eu)\n\nAccès voiture : Venant d'Uccle\, prendre la chaussée
+  de Waterloo\, ensuite la chaussée de Bruxelles\, continuer jusqu'à la p
+ lace E. Vandevelde (intersection de la chaussée de Bruxelles avec la chau
+ ssée de Tervuren à Joli-Bois). Au feu de signalisation prendre à droite
+  la chaussée Bara. Le terrain se trouve à droite à +/- 500 m.\n\nVérif
+ iez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:
+ //calabssa.be/c/445_1_trinquant
+GEO:50.701676;4.397567
+LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
+ORGANIZER;CN="Versmissen P.";ROLE=Secrétaire:MAILTO:sc.chenois@waterloo.e
+ u
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J7: MOON SHOOTERS vs TRINQUANT
+DTSTART;VALUE=DATE-TIME:20241102T143000Z
+DTEND;VALUE=DATE-TIME:20241102T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_3B_7_606_445
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Bleu 
  marine\n\nContact équipe domicile: Morelle M. (0478.68.42.14 - max.morell
@@ -435,52 +229,283 @@ LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
 ORGANIZER;CN="Morelle M.";ROLE=Secrétaire:MAILTO:max.morelle@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3A J26: CURTIS L'AUSELE vs TRINQUANT
-DTSTART;VALUE=DATE-TIME:20240224T130000Z
-DTEND;VALUE=DATE-TIME:20240224T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_3A_26_599_445
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: I03\n\nCouleur princi
+SUMMARY:ABSSA D3B J8: TRINQUANT vs CHIEFS WSL (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20241109T113000Z
+DTEND;VALUE=DATE-TIME:20241109T130000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_3B_8_445_303
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
  pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
-  Bleu marine\n\nContact équipe domicile: Lambricht T. (0474.20.64.38 - th
- omas.lambricht@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, pre
- ndre l’E411 en direction de Namur et prendre la sortie 11 Perwez-Gemblou
- x\, prendre à droite vers Perwez sur la N29 jusqu’au rond-point de Glim
- es qui croise la N91 (7km depuis l’E411). Sortir à la 3ème sortie sur 
- la N91 en\ndirection de Hamme-Mille. Prendre ensuite la 3ème rue à gauch
- e et le terrain se trouve directement sur la droite.\n\nVérifiez toujours
-  ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.b
- e/c/445_1_trinquant
-GEO:50.6849677;4.8070879
-LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
-ORGANIZER;CN="Lambricht T.";ROLE=Secrétaire:MAILTO:thomas.lambricht@gmail
- .com
+  Blanc\n\nContact équipe domicile: Bernard J-M. (0476.66.08.14 - jmbernar
+ d.trinquant@yahoo.fr)\n\nAccès voiture : Venant de Bruxelles\, prendre le
+  Ring Est direction Waterloo. Sortir au pont de Groenendael\, direction La
+  Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, 
+ toujours tout droit. Au feu de signalisation et le carrefour de La Hulpe\,
+  tout droit direction Genval. Au feu de signalisation prendre à gauche et
+  ensuite directement à droite\, l'avenue Soyer\, derrière le G.B. Le ter
+ rain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.ab
+ ssa.be/\nVoir sur calabssa: https://calabssa.be/c/445_1_trinquant
+GEO:50.7308998;4.4944678
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Bernard J-M.";ROLE=Secrétaire:MAILTO:jmbernard.trinquant@ya
+ hoo.fr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3A J23: BXL ALLIANCE JETTE vs TRINQUANT
-DTSTART;VALUE=DATE-TIME:20240302T130000Z
-DTEND;VALUE=DATE-TIME:20240302T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_3A_23_566_445
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Bleu m
- arine\n\nContact équipe domicile: Zaleski S. (0473.34.57.81 - zal.stan@ho
- tmail.com)\n\nAccès voiture : Direction cimetière de Jette\, ensuite pre
- ndre la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J
- . Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces infos s
- ur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/445_1_tr
- inquant
-GEO:50.8907643;4.3211209
-LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
- Belgique
-ORGANIZER;CN="Zaleski S.";ROLE=Secrétaire:MAILTO:zal.stan@hotmail.com
+SUMMARY:ABSSA D3B J9: SAINT GEORGES RCS vs TRINQUANT
+DTSTART;VALUE=DATE-TIME:20241116T130000Z
+DTEND;VALUE=DATE-TIME:20241116T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_3B_9_221_445
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
+ marine\n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.dest
+ in@gmail.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"avenue Pa
+ rmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujours ces infos 
+ sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/445_1_t
+ rinquant
+GEO:50.8333897;4.4384038
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3A J20: TRINQUANT vs FOSSIS (LES) CS
-DTSTART;VALUE=DATE-TIME:20240309T113000Z
-DTEND;VALUE=DATE-TIME:20240309T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_3A_20_445_217
+SUMMARY:ABSSA D3B J12: WATERMAEL FC vs TRINQUANT
+DTSTART;VALUE=DATE-TIME:20241123T130000Z
+DTEND;VALUE=DATE-TIME:20241123T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_3B_12_611_445
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu m
+ arine\n\nContact équipe domicile: Deschamps J. (0477.67.76.37 - jul_desch
+ @hotmail.com)\n\nAccès voiture : A partir du square des Archiducs\, prend
+ re la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez toujour
+ s ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.
+ be/c/445_1_trinquant
+GEO:50.80645209999999;4.4087184
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J11: AZUR RCS (Eq. 3) vs TRINQUANT
+DTSTART;VALUE=DATE-TIME:20241130T110000Z
+DTEND;VALUE=DATE-TIME:20241130T123000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_3B_11_109_445
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W12\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu m
+ arine\n\nContact équipe domicile: Mad. Decamps N. (0477.27.39.66 - nathal
+ ie_decamps@hotmail.com)\n\nAccès voiture : Avenue de Tervuren\, direction
+  Tervuren. Passé le boulevard du Souverain prendre à gauche au premier f
+ eu de signalisation (Av. Madoux). Au feu de signalisation suivant prendre 
+ la 2ème rue à main droite (Av. J. Dujardin). Ensuite 1ère rue à gauche
+  (Av. Salomé).\n\nVérifiez toujours ces infos sur http://www.abssa.be/\n
+ Voir sur calabssa: https://calabssa.be/c/445_1_trinquant
+GEO:50.830818;4.455442
+LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
+ elgique
+ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
+ tmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J10: TRINQUANT vs NIVELLOIS-ACLOT BS
+DTSTART;VALUE=DATE-TIME:20241207T113000Z
+DTEND;VALUE=DATE-TIME:20241207T130000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_3B_10_445_503
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Rouge et noir\n\nContact équipe domicile: Bernard J-M. (0476.66.08.14 - 
+ jmbernard.trinquant@yahoo.fr)\n\nAccès voiture : Venant de Bruxelles\, pr
+ endre le Ring Est direction Waterloo. Sortir au pont de Groenendael\, dire
+ ction La Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La 
+ Hulpe\, toujours tout droit. Au feu de signalisation et le carrefour de La
+  Hulpe\, tout droit direction Genval. Au feu de signalisation prendre à g
+ auche et ensuite directement à droite\, l'avenue Soyer\, derrière le G.B
+ . Le terrain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http:
+ //www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/445_1_trinquant
+GEO:50.7308998;4.4944678
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Bernard J-M.";ROLE=Secrétaire:MAILTO:jmbernard.trinquant@ya
+ hoo.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J13: TRINQUANT vs CHENOIS SC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20241214T113000Z
+DTEND;VALUE=DATE-TIME:20241214T130000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_3B_13_445_84
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Rouge\n\nContact équipe domicile: Bernard J-M. (0476.66.08.14 - jmbernar
+ d.trinquant@yahoo.fr)\n\nAccès voiture : Venant de Bruxelles\, prendre le
+  Ring Est direction Waterloo. Sortir au pont de Groenendael\, direction La
+  Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, 
+ toujours tout droit. Au feu de signalisation et le carrefour de La Hulpe\,
+  tout droit direction Genval. Au feu de signalisation prendre à gauche et
+  ensuite directement à droite\, l'avenue Soyer\, derrière le G.B. Le ter
+ rain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.ab
+ ssa.be/\nVoir sur calabssa: https://calabssa.be/c/445_1_trinquant
+GEO:50.7308998;4.4944678
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Bernard J-M.";ROLE=Secrétaire:MAILTO:jmbernard.trinquant@ya
+ hoo.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J14: TRINQUANT vs LA LORRAINE-MTM.R (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20250111T113000Z
+DTEND;VALUE=DATE-TIME:20250111T130000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_3B_14_445_44
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Bleu\n\nContact équipe domicile: Bernard J-M. (0476.66.08.14 - jmbernard
+ .trinquant@yahoo.fr)\n\nAccès voiture : Venant de Bruxelles\, prendre le 
+ Ring Est direction Waterloo. Sortir au pont de Groenendael\, direction La 
+ Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, t
+ oujours tout droit. Au feu de signalisation et le carrefour de La Hulpe\, 
+ tout droit direction Genval. Au feu de signalisation prendre à gauche et 
+ ensuite directement à droite\, l'avenue Soyer\, derrière le G.B. Le terr
+ ain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.abs
+ sa.be/\nVoir sur calabssa: https://calabssa.be/c/445_1_trinquant
+GEO:50.7308998;4.4944678
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Bernard J-M.";ROLE=Secrétaire:MAILTO:jmbernard.trinquant@ya
+ hoo.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J15: NEW INN FC vs TRINQUANT
+DTSTART;VALUE=DATE-TIME:20250118T130000Z
+DTEND;VALUE=DATE-TIME:20250118T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_3B_15_359_445
+DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
+ marine\n\nContact équipe domicile: Van Brabant V (0474.60.68.96 - vanbrab
+ ant.v@gmail.com)\n\nAccès voiture : Au départ de la Place Meiser\, l'aut
+ oroute Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous l
+ e viaduc prendre à droite\, l'avenue des Anciens Combattants. Juste aprè
+ s le carrefour avec des feux de signalisation prendre à droite vers la Pl
+ ace de la Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois
+ ). Le terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces
+  infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/
+ 445_1_trinquant
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="Van Brabant V";ROLE=Secrétaire:MAILTO:vanbrabant.v@gmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J16: TRINQUANT vs HIGGINS-PUMAS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20250125T113000Z
+DTEND;VALUE=DATE-TIME:20250125T130000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_3B_16_445_416
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Rayé Bleu et Blanc\n\nContact équipe domicile: Bernard J-M. (0476.66.08
+ .14 - jmbernard.trinquant@yahoo.fr)\n\nAccès voiture : Venant de Bruxelle
+ s\, prendre le Ring Est direction Waterloo. Sortir au pont de Groenendael\
+ , direction La Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau 
+ de La Hulpe\, toujours tout droit. Au feu de signalisation et le carrefour
+  de La Hulpe\, tout droit direction Genval. Au feu de signalisation prendr
+ e à gauche et ensuite directement à droite\, l'avenue Soyer\, derrière 
+ le G.B. Le terrain se trouve à 300 m.\n\nVérifiez toujours ces infos sur
+  http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/445_1_trin
+ quant
+GEO:50.7308998;4.4944678
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Bernard J-M.";ROLE=Secrétaire:MAILTO:jmbernard.trinquant@ya
+ hoo.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J17: TAURO FC (Eq. 2) vs TRINQUANT
+DTSTART;VALUE=DATE-TIME:20250201T134500Z
+DTEND;VALUE=DATE-TIME:20250201T151500Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_3B_17_574_445
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu m
+ arine\n\nContact équipe domicile: Lietaer Y. (0484.16.30.31 - ylietaer@gm
+ ail.com)\n\nAccès voiture : Place Meiser\, descendre le boulevard Lamberm
+ ont. Au 3ème feu de signalisation prendre à gauche\, puis la première 
+ à droite.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir 
+ sur calabssa: https://calabssa.be/c/445_1_trinquant
+GEO:50.8666341;4.3823667
+LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
+ aerbeek\, Belgique
+ORGANIZER;CN="Lietaer Y.";ROLE=Secrétaire:MAILTO:ylietaer@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J18: TRINQUANT vs STRING PENELOPE
+DTSTART;VALUE=DATE-TIME:20250208T113000Z
+DTEND;VALUE=DATE-TIME:20250208T130000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_3B_18_445_181
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Orange\n\nContact équipe domicile: Bernard J-M. (0476.66.08.14 - jmberna
+ rd.trinquant@yahoo.fr)\n\nAccès voiture : Venant de Bruxelles\, prendre l
+ e Ring Est direction Waterloo. Sortir au pont de Groenendael\, direction L
+ a Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\,
+  toujours tout droit. Au feu de signalisation et le carrefour de La Hulpe\
+ , tout droit direction Genval. Au feu de signalisation prendre à gauche e
+ t ensuite directement à droite\, l'avenue Soyer\, derrière le G.B. Le te
+ rrain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.a
+ bssa.be/\nVoir sur calabssa: https://calabssa.be/c/445_1_trinquant
+GEO:50.7308998;4.4944678
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Bernard J-M.";ROLE=Secrétaire:MAILTO:jmbernard.trinquant@ya
+ hoo.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J19: CHENOIS (ESPER) vs TRINQUANT
+DTSTART;VALUE=DATE-TIME:20250215T123000Z
+DTEND;VALUE=DATE-TIME:20250215T140000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_3B_19_412_445
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W02\n\nCouleur princi
+ pale équipe domicile: Blanc et rouge\nCouleur principale équipe exterieu
+ re: Bleu marine\n\nContact équipe domicile: Mento M (0477.83.27.83 - 412f
+ cec@gmail.com)\n\nAccès voiture : Venant d'Uccle\, prendre la chaussée d
+ e Waterloo\, ensuite la chaussée de Bruxelles\, continuer jusqu'à la pla
+ ce E. Vandevelde (intersection de la chaussée de Bruxelles avec la chauss
+ ée de Tervuren à Joli-Bois). Au feu de signalisation prendre à droite l
+ a chaussée Bara. Le terrain se trouve à droite à +/- 500 m.\n\nVérifie
+ z toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://
+ calabssa.be/c/445_1_trinquant
+GEO:50.701676;4.397567
+LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
+ORGANIZER;CN="Mento M";ROLE=Secrétaire:MAILTO:412fcec@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J24: TRINQUANT vs AZUR RCS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20250222T113000Z
+DTEND;VALUE=DATE-TIME:20250222T130000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_3B_24_445_109
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Bleu\n\nContact équipe domicile: Bernard J-M. (0476.66.08.14 - jmbernard
+ .trinquant@yahoo.fr)\n\nAccès voiture : Venant de Bruxelles\, prendre le 
+ Ring Est direction Waterloo. Sortir au pont de Groenendael\, direction La 
+ Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, t
+ oujours tout droit. Au feu de signalisation et le carrefour de La Hulpe\, 
+ tout droit direction Genval. Au feu de signalisation prendre à gauche et 
+ ensuite directement à droite\, l'avenue Soyer\, derrière le G.B. Le terr
+ ain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.abs
+ sa.be/\nVoir sur calabssa: https://calabssa.be/c/445_1_trinquant
+GEO:50.7308998;4.4944678
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Bernard J-M.";ROLE=Secrétaire:MAILTO:jmbernard.trinquant@ya
+ hoo.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J20: TRINQUANT vs MOON SHOOTERS
+DTSTART;VALUE=DATE-TIME:20250308T113000Z
+DTEND;VALUE=DATE-TIME:20250308T130000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_3B_20_445_606
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
  pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
   Jaune\n\nContact équipe domicile: Bernard J-M. (0476.66.08.14 - jmbernar
@@ -492,17 +517,17 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
   ensuite directement à droite\, l'avenue Soyer\, derrière le G.B. Le ter
  rain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.ab
  ssa.be/\nVoir sur calabssa: https://calabssa.be/c/445_1_trinquant
-GEO:50.7309318;4.4945865
+GEO:50.7308998;4.4944678
 LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
 ORGANIZER;CN="Bernard J-M.";ROLE=Secrétaire:MAILTO:jmbernard.trinquant@ya
  hoo.fr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3A J21: CHIEFS WSL vs TRINQUANT
-DTSTART;VALUE=DATE-TIME:20240316T130000Z
-DTEND;VALUE=DATE-TIME:20240316T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_3A_21_303_445
+SUMMARY:ABSSA D3B J21: CHIEFS WSL (Eq. 2) vs TRINQUANT
+DTSTART;VALUE=DATE-TIME:20250315T130000Z
+DTEND;VALUE=DATE-TIME:20250315T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_3B_21_303_445
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
  pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
  marine\n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan.b
@@ -517,11 +542,11 @@ LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
 ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3A J22: TRINQUANT vs NEW INN FC
-DTSTART;VALUE=DATE-TIME:20240323T113000Z
-DTEND;VALUE=DATE-TIME:20240323T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_3A_22_445_359
+SUMMARY:ABSSA D3B J22: TRINQUANT vs SAINT GEORGES RCS
+DTSTART;VALUE=DATE-TIME:20250322T113000Z
+DTEND;VALUE=DATE-TIME:20250322T130000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_3B_22_445_221
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
  pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
   Blanc\n\nContact équipe domicile: Bernard J-M. (0476.66.08.14 - jmbernar
@@ -533,29 +558,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
   ensuite directement à droite\, l'avenue Soyer\, derrière le G.B. Le ter
  rain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.ab
  ssa.be/\nVoir sur calabssa: https://calabssa.be/c/445_1_trinquant
-GEO:50.7309318;4.4945865
-LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER;CN="Bernard J-M.";ROLE=Secrétaire:MAILTO:jmbernard.trinquant@ya
- hoo.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J25: TRINQUANT vs FRANGINOS (LOS)
-DTSTART;VALUE=DATE-TIME:20240406T103000Z
-DTEND;VALUE=DATE-TIME:20240406T120000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_3A_25_445_647
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
- pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
-  Blanc\n\nContact équipe domicile: Bernard J-M. (0476.66.08.14 - jmbernar
- d.trinquant@yahoo.fr)\n\nAccès voiture : Venant de Bruxelles\, prendre le
-  Ring Est direction Waterloo. Sortir au pont de Groenendael\, direction La
-  Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, 
- toujours tout droit. Au feu de signalisation et le carrefour de La Hulpe\,
-  tout droit direction Genval. Au feu de signalisation prendre à gauche et
-  ensuite directement à droite\, l'avenue Soyer\, derrière le G.B. Le ter
- rain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.ab
- ssa.be/\nVoir sur calabssa: https://calabssa.be/c/445_1_trinquant
-GEO:50.7309318;4.4945865
+GEO:50.7308998;4.4944678
 LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
 ORGANIZER;CN="Bernard J-M.";ROLE=Secrétaire:MAILTO:jmbernard.trinquant@ya
  hoo.fr

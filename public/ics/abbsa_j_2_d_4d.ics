@@ -4,123 +4,118 @@ PRODID:abbsa_j_2_d_4d
 X-WR-CALDESC:Les matches de la journée 2 en divion 4D d'ABSSA.
 X-WR-CALNAME:D4D Journée 2
 BEGIN:VEVENT
+SUMMARY:ABSSA D4D J2: BOUSVAL GENAPPE (Eq. 2) vs GREEN DEVILS
+DTSTART;VALUE=DATE-TIME:20240914T100000Z
+DTEND;VALUE=DATE-TIME:20240914T113000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_4D_2_401_90
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
+ pale équipe domicile: Orange et bleu\nCouleur principale équipe exterieu
+ re: Vert\n\nContact équipe domicile: Toussaint Y (0475.42.41.78 - YUTTT14
+ 70@gmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring Oues
+ t\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charl
+ eroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, travers
+ er le carrefour\, tout droit direction route du sucre.\n\nVérifiez toujou
+ rs ces infos sur http://www.abssa.be/
+GEO:50.6007528;4.4472782
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER;CN="Toussaint Y";ROLE=Secrétaire:MAILTO:YUTTT1470@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J2: MASIA CITY vs UCCLE STENDHAL
+DTSTART;VALUE=DATE-TIME:20240914T103000Z
+DTEND;VALUE=DATE-TIME:20240914T120000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_4D_2_661_214
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
+ pale équipe domicile: Rouge-Noir\nCouleur principale équipe exterieure: 
+ Rouge rayé de noir\n\nContact équipe domicile: Arnould L (0471.01.18.14 
+ - masiacity@gmail.com)\n\nAccès voiture : A partir de Bruxelles\, prendre
+  la E 411 en direction de Namur. Prendre la sortie N° 8 puis à droite la
+  bretelle pour la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Apr
+ ès +/- 6\,5 km\, au rond-point\, prendre la sortie 1 vers la N 420 Chée.
+  de la Libération\, puis à gauche dans la rue de la Grande lecke.\n\nVé
+ rifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.7540176;4.7835618
+LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
+ORGANIZER;CN="Arnould L";ROLE=Secrétaire:MAILTO:masiacity@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSSA D4D J2: BRUSSELS BRITISH R (Eq. 4) vs COMP. CINEMA R
-DTSTART;VALUE=DATE-TIME:20230916T103000Z
-DTEND;VALUE=DATE-TIME:20230916T120000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_4D_2_1_16
-DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
+DTSTART;VALUE=DATE-TIME:20240914T103000Z
+DTEND;VALUE=DATE-TIME:20240914T120000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_4D_2_1_16
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
  pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Vert\
- n\nContact équipe domicile: Lachia S. (0484.27.72.64 - abssa-sec@rbbfc.or
- g)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Passe
- r devant l'église\, longer l'autoroute et tourner à droite au cimetière
-  des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur http:/
- /www.abssa.be/
+ n\nContact équipe domicile: O'Connor G (0456.54.46.67 - abssa-sec@rbbfc.o
+ rg)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Pass
+ er devant l'église\, longer l'autoroute et tourner à droite au cimetièr
+ e des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur http:
+ //www.abssa.be/
 GEO:50.7282426;4.5537189
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER;CN="Lachia S.";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
+ORGANIZER;CN="O'Connor G";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4D J2: BEETHOVEN FCS vs SPARTA SCHEUT
-DTSTART;VALUE=DATE-TIME:20230916T110000Z
-DTEND;VALUE=DATE-TIME:20230916T123000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_4D_2_493_340
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
- pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: R
- ayé Bleu et Jaune\n\nContact équipe domicile: Steenhaut F. (0477.37.74.4
- 7 - fsteenhaut@hotmail.com)\n\nAccès voiture : En venant de la Route de L
- ennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre la direction 
- du cimetière d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au ron
- d-point prendre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'
- entrée du complexe et des terrains se situe à +/- 500 m. sur la gauche.\
- n\nVérifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER;CN="Steenhaut F.";ROLE=Secrétaire:MAILTO:fsteenhaut@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J2: WAPPERS FC vs REAL TRAPPISTE
-DTSTART;VALUE=DATE-TIME:20230916T120000Z
-DTEND;VALUE=DATE-TIME:20230916T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_4D_2_67_605
+SUMMARY:ABSSA D4D J2: WAPPERS FC vs FORESTOIS SC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240914T113000Z
+DTEND;VALUE=DATE-TIME:20240914T130000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_4D_2_67_152
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W19\n\nCouleur princi
  pale équipe domicile: Rayé noir et blanc\nCouleur principale équipe ext
- erieure: Jaune\n\nContact équipe domicile: Vinck B. (0475.92.57.30 - bern
- ard.vinck@belgacom.net)\n\nAccès voiture : Ring de Bruxelles (RO)\, sorti
- e n° 2. Prendre la direction Wezembeek-Oppem. Ensuite première rue à dr
- oite (Louis Marcelisstraat) puis la troisième à droite (Sportpleinstraat
- ).\nL'entrée au terrain se trouve à gauche entre les n° 16 et 24.\nPar 
- la ville : A partir du rond point Montgomery\, prendre l'Avenue de Broquev
- ille\, toujours tout droit. Passez devant le Shopping de Woluwé\, toujour
- s tout droit\, passez devant le magasin "Carrefour"\, puis au 2ème feu de
-  signalisation prendre à droite et ensuite tout droit. Au bout de la rue 
- prendre à droite\, le terrain se trouve à 100 mètres  sur la gauche.\n\
- nVérifiez toujours ces infos sur http://www.abssa.be/
+ erieure: Noir\n\nContact équipe domicile: Vinck B. (0475.92.57.30 - berna
+ rd.vinck@belgacom.net)\n\nAccès voiture : Ring de Bruxelles (RO)\, sortie
+  n° 2. Prendre la direction Wezembeek-Oppem. Ensuite première rue à dro
+ ite (Louis Marcelisstraat) puis la troisième à droite (Sportpleinstraat)
+ .\nL'entrée au terrain se trouve à gauche entre les n° 16 et 24.\nPar l
+ a ville : A partir du rond point Montgomery\, prendre l'Avenue de Broquevi
+ lle\, toujours tout droit. Passez devant le Shopping de Woluwé\, toujours
+  tout droit\, passez devant le magasin "Carrefour"\, puis au 2ème feu de 
+ signalisation prendre à droite et ensuite tout droit. Au bout de la rue p
+ rendre à droite\, le terrain se trouve à 100 mètres  sur la gauche.\n\n
+ Vérifiez toujours ces infos sur http://www.abssa.be/
 GEO:50.8424578;4.486587999999999
 LOCATION:Sportpleinstraat 20\, 1970 Wezembeek - Oppem\, Belgique
 ORGANIZER;CN="Vinck B.";ROLE=Secrétaire:MAILTO:bernard.vinck@belgacom.net
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4D J2: LORGNETTE (LA)  FC vs PANGLOSS FC
-DTSTART;VALUE=DATE-TIME:20230916T120000Z
-DTEND;VALUE=DATE-TIME:20230916T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_4D_2_392_123
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: E07\n\nCouleur princi
- pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bl
- eu\n\nContact équipe domicile: Van Der Linden A. (0485.19.06.92 - alexvdl
- 2000@yahoo.fr)\n\nAccès voiture : Boulevard Lambermont\, prendre le boule
- vard Léopold III\, direction aéroport de Bruxelles-National\, au 3ème f
- eu de signalisation prendre à droite. le terrain se trouve à 50 m.\n\nV
- érifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.8691994;4.406709999999999
-LOCATION:Complexe Sportif Evere\, Avenue des Anciens Combattants 300\, 114
- 0 Evere\, Belgique
-ORGANIZER;CN="Van Der Linden A.";ROLE=Secrétaire:MAILTO:alexvdl2000@yahoo
- .fr
+SUMMARY:ABSSA D4D J2: BLOOD SPIKES vs CHOULE AUDERGHEM (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240914T120000Z
+DTEND;VALUE=DATE-TIME:20240914T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_4D_2_660_517
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Otte J. (0486.41.87.42 - bloodspikes9@gmail.co
+ m)\n\nAccès voiture : A partir de Bruxelles\, prendre la E 411 en directi
+ on de Namur. Prendre la sortie N° 8 puis à droite la bretelle pour la N 
+ 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 km\, au
+  rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Libération\,
+  puis à gauche dans la rue de la Grande lecke.\n\nVérifiez toujours ces 
+ infos sur http://www.abssa.be/
+GEO:50.7540176;4.7835618
+LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
+ORGANIZER;CN="Otte J.";ROLE=Secrétaire:MAILTO:bloodspikes9@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4D J2: PHARMA SC (Eq. 2) vs NEPTUNE FC
-DTSTART;VALUE=DATE-TIME:20230916T133000Z
-DTEND;VALUE=DATE-TIME:20230916T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_4D_2_268_56
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
- pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Bleu\
- n\nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.dumidi@sc
- arlet.be)\n\nAccès voiture : Au départ de la Place St. Denis à Forest p
- rendre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue
-  à droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à 
- gauche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée
-  du Complexe se trouve à hauteur de City Cart\, à gauche de la route.\n\
- nVérifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
- e
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J2: JODOIGNOISE FC vs BIERGEOIS CS
-DTSTART;VALUE=DATE-TIME:20230916T133000Z
-DTEND;VALUE=DATE-TIME:20230916T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_4D_2_664_70
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: I03\n\nCouleur princi
- pale équipe domicile: Noir et jaune\nCouleur principale équipe exterieur
- e: Bleu\n\nContact équipe domicile: Severin S. (0470.55.74.46 - severinsi
- mon00@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l’
- E411 en direction de Namur et prendre la sortie 11 Perwez-Gembloux\, prend
- re à droite vers Perwez sur la N29 jusqu’au rond-point de Glimes qui cr
- oise la N91 (7km depuis l’E411). Sortir à la 3ème sortie sur la N91 en
- \ndirection de Hamme-Mille. Prendre ensuite la 3ème rue à gauche et le t
- errain se trouve directement sur la droite.\n\nVérifiez toujours ces info
- s sur http://www.abssa.be/
-GEO:50.6849677;4.8070879
-LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
-ORGANIZER;CN="Severin S.";ROLE=Secrétaire:MAILTO:severinsimon00@gmail.com
+SUMMARY:ABSSA D4D J2: SPARTAK SYNERGY vs BRITISH UNITED (Eq. 4)
+DTSTART;VALUE=DATE-TIME:20240914T130000Z
+DTEND;VALUE=DATE-TIME:20240914T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_4D_2_637_132
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: M07\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
+ re: Bleu\n\nContact équipe domicile: Bailly N. (0491.16.78.27 - nm.bailly
+ @gmail.com)\n\nAccès voiture : Ring de Bruxelles (RO)\, sortie Jette-Wemm
+ el (n° 9)\, direction Merchtem. A Brussegem au carrefour Asse-Wolvertem\,
+  prendre direction Asse. Après l'église\, prendre la 1ère à main droit
+ e (direction Mollem). Après 2 km. prendre la Kouterstraat qui se trouve j
+ uste en face de l'église.\n\nVérifiez toujours ces infos sur http://www.
+ abssa.be/
+GEO:50.9278393;4.2227906
+LOCATION:Kouter 29\, 1730 Mollem\, Belgique
+ORGANIZER;CN="Bailly N.";ROLE=Secrétaire:MAILTO:nm.bailly@gmail.com
 END:VEVENT
 END:VCALENDAR

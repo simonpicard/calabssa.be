@@ -4,113 +4,120 @@ PRODID:abbsa_j_20_d_5c
 X-WR-CALDESC:Les matches de la journée 20 en divion 5C d'ABSSA.
 X-WR-CALNAME:D5C Journée 20
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J20: CELTIC FORESTOIS vs UNION FOXES CLUB
-DTSTART;VALUE=DATE-TIME:20240309T130000Z
-DTEND;VALUE=DATE-TIME:20240309T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115303Z
-UID:2024_5C_20_330_669
+SUMMARY:ABSSA D5C J20: BRUSSELS LIONS vs CENTRAL PARK FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20250308T113000Z
+DTEND;VALUE=DATE-TIME:20250308T130000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2025_5C_20_682_562
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: B
+ ordeaux\n\nContact équipe domicile: El Halimi A. (0488.95.55.05 - brussel
+ slionsfc@hotmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, a
+ près 300 m. en direction de Lennik\, prendre à droite.\nVenant de la cha
+ ussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Ver
+ di\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m.
+  en direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.ab
+ ssa.be/
+GEO:50.8177358;4.2557195
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER;CN="El Halimi A.";ROLE=Secrétaire:MAILTO:brusselslionsfc@hotmai
+ l.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J20: CLAUDY F.C. vs PIRATE S.C.
+DTSTART;VALUE=DATE-TIME:20250308T113000Z
+DTEND;VALUE=DATE-TIME:20250308T130000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2025_5C_20_678_670
+DESCRIPTION:Terrain synthétique: non\nCode terrain: N04\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir /
+  doré\n\nContact équipe domicile: De Spirlet R. (0470.43.29.45 - rod.de.
+ spirlet@gmail.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à Nosse
+ gem\, au premier croisement prendre à gauche la \nMechelsesteenweg. Le te
+ rrain est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liè
+ ge\, prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelse
+ steenweg\, traverser la chaussée de Louvain\, et suivre comme ci-avant.\n
+ \nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.88776559999999;4.50894
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER;CN="De Spirlet R.";ROLE=Secrétaire:MAILTO:rod.de.spirlet@gmail.
+ com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J20: CELTIC FORESTOIS vs SAINT GEORGES RCS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20250308T130000Z
+DTEND;VALUE=DATE-TIME:20250308T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2025_5C_20_330_221
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
  pale équipe domicile: Vert et  blanc\nCouleur principale équipe exterieu
- re: Orange et noir\n\nContact équipe domicile: Leal Soria D. (0474.88.64.
- 33 - leal-david@hotmail.fr)\n\nAccès voiture : Au départ de la Place St.
-  Denis à Forest prendre la chaussée de Neerstalle jusqu'à la rue de la 
- Soierie (4ème rue à droite) et dans la rue de la Soierie rouler env. 100
-  m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique) pendant env
- . 500 m. L'entrée du Complexe se trouve à hauteur de City Cart\, à gauc
- he de la route.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+ re: Blanc\n\nContact équipe domicile: Ceuster J (0472.52.87.14 - ceuster-
+ jeremy@hotmail.be)\n\nAccès voiture : Au départ de la Place St. Denis à
+  Forest prendre la chaussée de Neerstalle jusqu'à la rue de la Soierie (
+ 4ème rue à droite) et dans la rue de la Soierie rouler env. 100 m. puis 
+ 1ère à gauche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. 
+ L'entrée du Complexe se trouve à hauteur de City Cart\, à gauche de la 
+ route.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
-ORGANIZER;CN="Leal Soria D.";ROLE=Secrétaire:MAILTO:leal-david@hotmail.fr
+ORGANIZER;CN="Ceuster J";ROLE=Secrétaire:MAILTO:ceuster-jeremy@hotmail.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J20: DOPA FC vs WATERMAEL FC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20240309T130000Z
-DTEND;VALUE=DATE-TIME:20240309T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115303Z
-UID:2024_5C_20_666_611
-DESCRIPTION:Terrain synthétique: non\nCode terrain: B07\n\nCouleur princi
- pale équipe domicile: Noir et rouge\nCouleur principale équipe exterieur
- e: Bleu\n\nContact équipe domicile: Aikar Y. (0484.86.90.44 - bravm.abssa
- @gmail.com)\n\nAccès voiture : Ring de Bruxelles\, Sortie Wemmel\, prendr
- e l'Avenue Houba de Strooper\, puis la rue à gauche\, avant le bâtiment 
- de l'URBSFA\, direction Atomium.\n\nVérifiez toujours ces infos sur http:
- //www.abssa.be/
-GEO:50.8933845;4.3399807
-LOCATION:Heysel - Annexe 3\, Avenue de Bouchout (Atomium)\, 1020 Bruxelles
- \, Belgique
-ORGANIZER;CN="Aikar Y.";ROLE=Secrétaire:MAILTO:bravm.abssa@gmail.com
+SUMMARY:ABSSA D5C J20: FOOT FRITESTYLE vs BRUSSELS LTC (Eq. 5)
+DTSTART;VALUE=DATE-TIME:20250308T130000Z
+DTEND;VALUE=DATE-TIME:20250308T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2025_5C_20_679_39
+DESCRIPTION:Terrain synthétique: non\nCode terrain: L11\n\nCouleur princi
+ pale équipe domicile: Vert / noir\nCouleur principale équipe exterieure:
+  Bordeaux\n\nContact équipe domicile: Deformanoir O. (0473.62.46.25 - dar
+ kotfc@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Namur / Lux
+ embourg\, prendre la sortie n° 6 Wavre\, vers N238. Tourner à droite sur
+  Boulevard de l'Europe/N238 sur 200 m. Prendre à droite sur Rue de la Was
+ tinne. Ensuite\, aprèsle passage à niveau\, prendre à gauche sur Rue Pr
+ ovinciale/N239. Les terrains se trouvent sur la gauche de la route en cont
+ re-bas (facilement visible de la route).\n\nVérifiez toujours ces infos s
+ ur http://www.abssa.be/
+GEO:50.7007516;4.582180999999999
+LOCATION:Charles Jaumotte 156\, 1300 Wavre (Limal)\, Belgique
+ORGANIZER;CN="Deformanoir O.";ROLE=Secrétaire:MAILTO:darkotfc@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J20: BAYERN DE MONIQUE vs ELAN EVERE RAC
-DTSTART;VALUE=DATE-TIME:20240309T140000Z
-DTEND;VALUE=DATE-TIME:20240309T153000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115303Z
-UID:2024_5C_20_417_7
-DESCRIPTION:Terrain synthétique: non\nCode terrain: B03\n\nCouleur princi
- pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
- re: Rouge et blanc rayé\n\nContact équipe domicile: Deville A (0492. 67.
- 96.76 - ascornoi@live.fr)\n\nAccès voiture : En venant de Bruxelles\, emp
- runter la chaussée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefou
- r". Au dit carrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur ce
- tte chaussée\, au deuxième feu de signalisation\, prendre à droite\, le
-  terrain se trouve à 500 m. et est fléché.\n\nVérifiez toujours ces in
- fos sur http://www.abssa.be/
-GEO:50.6827211;4.3844421
-LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
- ud\, Belgique
-ORGANIZER;CN="Deville A";ROLE=Secrétaire:MAILTO:ascornoi@live.fr
+SUMMARY:ABSSA D5C J20: DEAF BRUSSELS FC vs UNION BRUXELLOISE
+DTSTART;VALUE=DATE-TIME:20250308T143000Z
+DTEND;VALUE=DATE-TIME:20250308T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2025_5C_20_593_655
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
+ pale équipe domicile: Vert et noir\nCouleur principale équipe exterieure
+ : Noir/ Bleu\n\nContact équipe domicile: Van Brandt S. (0494.24.34.05 (SM
+ S) - deaf.brussels.2011@gmail.com)\n\nAccès voiture : Chaussée de Haecht
+ \, vers Diegem. Prendre la rue Harenheyde à gauche\, juste au feu de sign
+ alisation\, après la station "JET"\, situé à gauche. Entrée du stade p
+ ar la rue Harenheyde\, 100 m. au-delà du pont du chemin de fer.\n\nVérif
+ iez toujours ces infos sur http://www.abssa.be/
+GEO:50.8928227;4.425372
+LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
+ORGANIZER;CN="Van Brandt S.";ROLE=Secrétaire:MAILTO:deaf.brussels.2011@gm
+ ail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J20: SANSERIF FC vs WOLUWE FC
-DTSTART;VALUE=DATE-TIME:20240309T143000Z
-DTEND;VALUE=DATE-TIME:20240309T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115303Z
-UID:2024_5C_20_657_153
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
-  Jaune et Bleu\n\nContact équipe domicile: Karpowicz A. (0493.16.46.10 - 
- itsadonis0@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre
-  la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus 
- bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujou
- rs ces infos sur http://www.abssa.be/
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="Karpowicz A.";ROLE=Secrétaire:MAILTO:itsadonis0@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J20: PANTOUFLES FC vs PIRATE S.C.
-DTSTART;VALUE=DATE-TIME:20240309T143000Z
-DTEND;VALUE=DATE-TIME:20240309T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115303Z
-UID:2024_5C_20_428_670
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
- pale équipe domicile: Bordeaux-Orange\nCouleur principale équipe exterie
- ure: Noir / doré\n\nContact équipe domicile: Laurent F (0478.68.80.02 - 
- florimond.laurent@outlook.com)\n\nAccès voiture : Autoroute E411\, prendr
- e la sortie Rosières. Passer devant l'église\, longer l'autoroute et tou
- rner à droite au cimetière des animaux. Terrain à 200 m.\n\nVérifiez t
- oujours ces infos sur http://www.abssa.be/
-GEO:50.7282426;4.5537189
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER;CN="Laurent F";ROLE=Secrétaire:MAILTO:florimond.laurent@outlook
- .com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J20: KARIA FC vs GREZ AJ (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20240309T143000Z
-DTEND;VALUE=DATE-TIME:20240309T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115303Z
-UID:2024_5C_20_498_514
+SUMMARY:ABSSA D5C J20: KARIA FC vs CHIEFS WSL (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20250308T143000Z
+DTEND;VALUE=DATE-TIME:20250308T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2025_5C_20_498_303
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Vert\n
- \nContact équipe domicile: Bercha  M (0477.69.27.28 - mohamedbercha@hotma
- il.fr)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\, vers N
- eder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-p
- oint\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Ve
- rt\, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://www.abss
- a.be/
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Bercha  M (0477.69.27.28 - mohamedbercha@hotm
+ ail.fr)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\, vers 
+ Neder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-
+ point\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin V
+ ert\, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://www.abs
+ sa.be/
 GEO:50.89983369999999;4.3936101
 LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
 ORGANIZER;CN="Bercha  M";ROLE=Secrétaire:MAILTO:mohamedbercha@hotmail.fr

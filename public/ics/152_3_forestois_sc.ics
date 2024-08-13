@@ -4,28 +4,234 @@ PRODID:152_3_forestois_sc
 X-WR-CALDESC:Les matches du club FORESTOIS SC (equipe 3) en ABSSA.
 X-WR-CALNAME:ABSSA: FORESTOIS SC (eq. 3)
 BEGIN:VEVENT
-SUMMARY:ABSSA D4D J10: REAL TRAPPISTE vs FORESTOIS SC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20230902T120000Z
-DTEND;VALUE=DATE-TIME:20230902T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_4D_10_605_152
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: M05\n\nCouleur princi
- pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Noir\
- n\nContact équipe domicile: Buta  Kossi E (0490.67.45.92 - emmanuelbutako
- ssi@gmail.com)\n\nAccès voiture : Chaussée de Gand\, avenue M. Ghandi\n\
- nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa:
-  https://calabssa.be/c/152_3_forestois_sc
-GEO:50.861905;4.3220645
-LOCATION:Sippelberg\, Avenue M. Ghandi\, 1080 Molenbeek\, Belgique
-ORGANIZER;CN="Buta  Kossi E";ROLE=Secrétaire:MAILTO:emmanuelbutakossi@gma
- il.com
+SUMMARY:ABSSA D6A J23: BIG JEFKE (Eq. 2) vs FORESTOIS SC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20240831T133000Z
+DTEND;VALUE=DATE-TIME:20240831T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_6A_23_137_152
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Pierard J. (0478.77.84.07 - pierard.j@hotmail.
+ com)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\, vers Ned
+ er-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-poi
+ nt\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Vert
+ \, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa.
+ be/\nVoir sur calabssa: https://calabssa.be/c/152_3_forestois_sc
+GEO:50.89983369999999;4.3936101
+LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
+ORGANIZER;CN="Pierard J.";ROLE=Secrétaire:MAILTO:pierard.j@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4D J1: FORESTOIS SC (Eq. 3) vs BRUSSELS BRITISH R (Eq. 4)
-DTSTART;VALUE=DATE-TIME:20230909T120000Z
-DTEND;VALUE=DATE-TIME:20230909T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_4D_1_152_1
+SUMMARY:ABSSA D6A J1: FORESTOIS SC (Eq. 3) vs AUDERGHEM RU
+DTSTART;VALUE=DATE-TIME:20240907T133000Z
+DTEND;VALUE=DATE-TIME:20240907T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_6A_1_152_376
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Jaune\
+ n\nContact équipe domicile: Janssens P. (0479.95.08.14 - patj.scf@gmail.c
+ om)\n\nAccès voiture : Au départ de la Place St. Denis à Forest prendre
+  la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à dr
+ oite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gauche
+  (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du Co
+ mplexe se trouve à hauteur de City Cart\, à gauche de la route.\n\nVéri
+ fiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https
+ ://calabssa.be/c/152_3_forestois_sc
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J2: BRUSSELS LTC (Eq. 6) vs FORESTOIS SC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20240914T120000Z
+DTEND;VALUE=DATE-TIME:20240914T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_6A_2_39_152
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: No
+ ir\n\nContact équipe domicile: Van Hacht O. (0475.96.43.03 - dannyboffin@
+ hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre le Ring Est
+  direction Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, 
+ Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours 
+ tout droit. Au feu de signalisation et le carrefour de La Hulpe\, tout dro
+ it direction Genval. Au feu de signalisation prendre à gauche et ensuite 
+ directement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se t
+ rouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\n
+ Voir sur calabssa: https://calabssa.be/c/152_3_forestois_sc
+GEO:50.7308998;4.4944678
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:dannyboffin@hotmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J3: FORESTOIS SC (Eq. 3) vs COSMOS BRUWOLF MJ (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240921T133000Z
+DTEND;VALUE=DATE-TIME:20240921T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_6A_3_152_338
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Orange
+ \n\nContact équipe domicile: Janssens P. (0479.95.08.14 - patj.scf@gmail.
+ com)\n\nAccès voiture : Au départ de la Place St. Denis à Forest prendr
+ e la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à d
+ roite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gauch
+ e (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du C
+ omplexe se trouve à hauteur de City Cart\, à gauche de la route.\n\nVér
+ ifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: http
+ s://calabssa.be/c/152_3_forestois_sc
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J4: J.ST-GILLOISE R. vs FORESTOIS SC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20240928T120000Z
+DTEND;VALUE=DATE-TIME:20240928T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_6A_4_38_152
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
+  Noir\n\nContact équipe domicile: Thierry D. (0476.80.14.40 - bolithierry
+ @gmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 300 
+ m. en direction de Lennik\, prendre à droite.\nVenant de la chaussée de 
+ Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. 
+ Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en direct
+ ion de Lennik.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nV
+ oir sur calabssa: https://calabssa.be/c/152_3_forestois_sc
+GEO:50.8177358;4.2557195
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER;CN="Thierry D.";ROLE=Secrétaire:MAILTO:bolithierry@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J5: FORESTOIS SC (Eq. 3) vs ITT - GECKO FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20241005T133000Z
+DTEND;VALUE=DATE-TIME:20241005T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_6A_5_152_92
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Janssens P. (0479.95.08.14 - patj.scf@gmail.co
+ m)\n\nAccès voiture : Au départ de la Place St. Denis à Forest prendre 
+ la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à dro
+ ite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gauche 
+ (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du Com
+ plexe se trouve à hauteur de City Cart\, à gauche de la route.\n\nVérif
+ iez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:
+ //calabssa.be/c/152_3_forestois_sc
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J6: AMB. AUDERGHEM (Eq. 2) vs FORESTOIS SC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20241012T120000Z
+DTEND;VALUE=DATE-TIME:20241012T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_6A_6_249_152
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir\
+ n\nContact équipe domicile: Leclef R. (0473.13.76.27 - renaudleclef@hotma
+ il.fr)\n\nAccès voiture : En venant de Bruxelles par la chaussée de Wavr
+ e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
+ nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
+ PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
+ errain se trouve à 200 m. Le stade est fléché.\n\nVérifiez toujours ce
+ s infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c
+ /152_3_forestois_sc
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="Leclef R.";ROLE=Secrétaire:MAILTO:renaudleclef@hotmail.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J25: BRUSSELS BRITISH R (Eq. 5) vs FORESTOIS SC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20241019T133000Z
+DTEND;VALUE=DATE-TIME:20241019T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_6A_25_1_152
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir\
+ n\nContact équipe domicile: O'Connor G (0456.54.46.67 - abssa-sec@rbbfc.o
+ rg)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Pass
+ er devant l'église\, longer l'autoroute et tourner à droite au cimetièr
+ e des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur http:
+ //www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/152_3_forestois_
+ sc
+GEO:50.7282426;4.5537189
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="O'Connor G";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J26: FORESTOIS SC (Eq. 3) vs GAST FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20241026T133000Z
+DTEND;VALUE=DATE-TIME:20241026T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_6A_26_152_388
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Janssens P. (0479.95.08.14 - patj.scf@gmail.co
+ m)\n\nAccès voiture : Au départ de la Place St. Denis à Forest prendre 
+ la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à dro
+ ite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gauche 
+ (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du Com
+ plexe se trouve à hauteur de City Cart\, à gauche de la route.\n\nVérif
+ iez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:
+ //calabssa.be/c/152_3_forestois_sc
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J7: FORESTOIS SC (Eq. 3) vs METRASPORT R.
+DTSTART;VALUE=DATE-TIME:20241102T143000Z
+DTEND;VALUE=DATE-TIME:20241102T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_6A_7_152_33
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge 
+ et Bleu\n\nContact équipe domicile: Janssens P. (0479.95.08.14 - patj.scf
+ @gmail.com)\n\nAccès voiture : Au départ de la Place St. Denis à Forest
+  prendre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème r
+ ue à droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère 
+ à gauche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entr
+ ée du Complexe se trouve à hauteur de City Cart\, à gauche de la route.
+ \n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabs
+ sa: https://calabssa.be/c/152_3_forestois_sc
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J9: TOURINNOIS FC (Eq. 3) vs FORESTOIS SC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20241116T123000Z
+DTEND;VALUE=DATE-TIME:20241116T140000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_6A_9_292_152
+DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Noir\
+ n\nContact équipe domicile: Strade P. (010.65.83.02 - stradepaul@hotmail.
+ com)\n\nAccès voiture : A partir de l'autoroute Bruxelles-Namur (E411)\, 
+ prendre la sortie  Walhain (n° 10). Au pied de la rampe d'accès\, suivre
+  la direction Walhain vers la droite et après 200 m. prendre à droite et
+  400 m. plus loin\, prendre à nouveau à droite. Le terrain se trouve à 
+ +/- 300 m. sur la gauche.\n\nVérifiez toujours ces infos sur http://www.a
+ bssa.be/\nVoir sur calabssa: https://calabssa.be/c/152_3_forestois_sc
+GEO:50.6415282;4.7193257
+LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
+ORGANIZER;CN="Strade P.";ROLE=Secrétaire:MAILTO:stradepaul@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J12: FORESTOIS SC (Eq. 3) vs BRUSSELS BRITISH R (Eq. 5)
+DTSTART;VALUE=DATE-TIME:20241123T143000Z
+DTEND;VALUE=DATE-TIME:20241123T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_6A_12_152_1
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
  pale équipe domicile: Noir\nCouleur principale équipe exterieure: Blanc\
  n\nContact équipe domicile: Janssens P. (0479.95.08.14 - patj.scf@gmail.c
@@ -42,54 +248,96 @@ LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\,
 ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4D J3: FORESTOIS SC (Eq. 3) vs WAPPERS FC
-DTSTART;VALUE=DATE-TIME:20230923T120000Z
-DTEND;VALUE=DATE-TIME:20230923T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_4D_3_152_67
+SUMMARY:ABSSA D6A J11: IRLANDE FC (Eq. 5) vs FORESTOIS SC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20241130T143000Z
+DTEND;VALUE=DATE-TIME:20241130T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_6A_11_402_152
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: N04\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Penouilh S. (0474.97.79.48 - fci.secretary.men
+ s@outlook.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à Nossegem\
+ , au premier croisement prendre à gauche la \nMechelsesteenweg. Le terrai
+ n est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\,
+  prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelsestee
+ nweg\, traverser la chaussée de Louvain\, et suivre comme ci-avant.\n\nV
+ érifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: h
+ ttps://calabssa.be/c/152_3_forestois_sc
+GEO:50.88776559999999;4.50894
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER;CN="Penouilh S.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@outl
+ ook.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J10: FORESTOIS SC (Eq. 3) vs BIG JEFKE (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20241207T143000Z
+DTEND;VALUE=DATE-TIME:20241207T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_6A_10_152_137
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rayé 
- noir et blanc\n\nContact équipe domicile: Janssens P. (0479.95.08.14 - pa
- tj.scf@gmail.com)\n\nAccès voiture : Au départ de la Place St. Denis à 
- Forest prendre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4
- ème rue à droite) et dans la rue de la Soierie rouler env. 100 m. puis 1
- ère à gauche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L
- 'entrée du Complexe se trouve à hauteur de City Cart\, à gauche de la r
- oute.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur c
- alabssa: https://calabssa.be/c/152_3_forestois_sc
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Janssens P. (0479.95.08.14 - patj.scf@gmail.co
+ m)\n\nAccès voiture : Au départ de la Place St. Denis à Forest prendre 
+ la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à dro
+ ite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gauche 
+ (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du Com
+ plexe se trouve à hauteur de City Cart\, à gauche de la route.\n\nVérif
+ iez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:
+ //calabssa.be/c/152_3_forestois_sc
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
 ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4D J4: PHARMA SC (Eq. 2) vs FORESTOIS SC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20230930T133000Z
-DTEND;VALUE=DATE-TIME:20230930T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_4D_4_268_152
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
- pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Noir\
- n\nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.dumidi@sc
- arlet.be)\n\nAccès voiture : Au départ de la Place St. Denis à Forest p
- rendre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue
-  à droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à 
- gauche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée
-  du Complexe se trouve à hauteur de City Cart\, à gauche de la route.\n\
- nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa:
-  https://calabssa.be/c/152_3_forestois_sc
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
- e
+SUMMARY:ABSSA D6A J13: GAST FC (Eq. 2) vs FORESTOIS SC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20241214T143000Z
+DTEND;VALUE=DATE-TIME:20241214T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_6A_13_388_152
+DESCRIPTION:Terrain synthétique: non\nCode terrain: D01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Clais D. (0476.99.88.10 - davidclais@hotmail.c
+ om)\n\nAccès voiture : Prendre l'Autoroute ou le ring Bruxelles-Mons-Pari
+ s\, sortie Drogenbos. Prendre direction Drogenbos-Centre\, passer devant l
+ a Maison Communale et le terminus du tram\, ensuite à la 3ème rue tourne
+ r à main droite (Le terrain se trouve au bout de la rue au Bois).\n\nVér
+ ifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: http
+ s://calabssa.be/c/152_3_forestois_sc
+GEO:50.7815061;4.3192196
+LOCATION:Stade Communal de Drogenbos\, Rue au Bois\, 1620 Drogenbos\, Belg
+ ique
+ORGANIZER;CN="Clais D.";ROLE=Secrétaire:MAILTO:davidclais@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4D J5: FORESTOIS SC (Eq. 3) vs LORGNETTE (LA)  FC
-DTSTART;VALUE=DATE-TIME:20231007T120000Z
-DTEND;VALUE=DATE-TIME:20231007T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_4D_5_152_392
+SUMMARY:ABSSA D6A J14: AUDERGHEM RU vs FORESTOIS SC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20250111T143000Z
+DTEND;VALUE=DATE-TIME:20250111T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_6A_14_376_152
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Noir\
+ n\nContact équipe domicile: Van Eycke R. (0479.27.27.46 - rvaneycke@biac.
+ skynet.be)\n\nAccès voiture : En venant de Bruxelles par la chaussée de 
+ Wavre\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser l
+ a bande de droite pendant +/- 200 m. et descendre devant le bâtiment de l
+ 'ADEPS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). 
+ Le terrain se trouve à 200 m. Le stade est fléché.\n\nVérifiez toujour
+ s ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.
+ be/c/152_3_forestois_sc
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="Van Eycke R.";ROLE=Secrétaire:MAILTO:rvaneycke@biac.skynet.
+ be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J15: FORESTOIS SC (Eq. 3) vs BRUSSELS LTC (Eq. 6)
+DTSTART;VALUE=DATE-TIME:20250118T143000Z
+DTEND;VALUE=DATE-TIME:20250118T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_6A_15_152_39
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
  pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bordea
  ux\n\nContact équipe domicile: Janssens P. (0479.95.08.14 - patj.scf@gmai
@@ -106,116 +354,91 @@ LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\,
 ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4D J6: JODOIGNOISE FC vs FORESTOIS SC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20231014T133000Z
-DTEND;VALUE=DATE-TIME:20231014T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_4D_6_664_152
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: I03\n\nCouleur princi
- pale équipe domicile: Noir et jaune\nCouleur principale équipe exterieur
- e: Noir\n\nContact équipe domicile: Severin S. (0470.55.74.46 - severinsi
- mon00@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l’
- E411 en direction de Namur et prendre la sortie 11 Perwez-Gembloux\, prend
- re à droite vers Perwez sur la N29 jusqu’au rond-point de Glimes qui cr
- oise la N91 (7km depuis l’E411). Sortir à la 3ème sortie sur la N91 en
- \ndirection de Hamme-Mille. Prendre ensuite la 3ème rue à gauche et le t
- errain se trouve directement sur la droite.\n\nVérifiez toujours ces info
- s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/152_3
- _forestois_sc
-GEO:50.6849677;4.8070879
-LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
-ORGANIZER;CN="Severin S.";ROLE=Secrétaire:MAILTO:severinsimon00@gmail.com
+SUMMARY:ABSSA D6A J16: COSMOS BRUWOLF MJ (Eq. 2) vs FORESTOIS SC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20250125T130000Z
+DTEND;VALUE=DATE-TIME:20250125T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_6A_16_338_152
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: M05\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Noir
+ \n\nContact équipe domicile: Dehaut A. (0476.26.26.87 - alain.dehaut@skyn
+ et.be)\n\nAccès voiture : Chaussée de Gand\, avenue M. Ghandi\n\nVérifi
+ ez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:/
+ /calabssa.be/c/152_3_forestois_sc
+GEO:50.861905;4.3220645
+LOCATION:Sippelberg\, Avenue M. Ghandi\, 1080 Molenbeek\, Belgique
+ORGANIZER;CN="Dehaut A.";ROLE=Secrétaire:MAILTO:alain.dehaut@skynet.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4D J8: PANGLOSS FC vs FORESTOIS SC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20231021T120000Z
-DTEND;VALUE=DATE-TIME:20231021T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_4D_8_123_152
-DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir\n
- \nContact équipe domicile: De Paduwa P. (0475.67.06.50 - p.depaduwa@gmail
- .com)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute Brux
- elles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc pr
- endre à droite\, l'avenue des Anciens Combattants. Juste après le carref
- our avec des feux de signalisation prendre à droite vers la Place de la C
- hapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terra
- in se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces infos sur 
- http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/152_3_fores
- tois_sc
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER;CN="De Paduwa P.";ROLE=Secrétaire:MAILTO:p.depaduwa@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J24: FORESTOIS SC (Eq. 3) vs SPARTA SCHEUT
-DTSTART;VALUE=DATE-TIME:20231028T120000Z
-DTEND;VALUE=DATE-TIME:20231028T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_4D_24_152_340
+SUMMARY:ABSSA D6A J17: FORESTOIS SC (Eq. 3) vs J.ST-GILLOISE R.
+DTSTART;VALUE=DATE-TIME:20250201T143000Z
+DTEND;VALUE=DATE-TIME:20250201T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_6A_17_152_38
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rayé 
- Bleu et Jaune\n\nContact équipe domicile: Janssens P. (0479.95.08.14 - pa
- tj.scf@gmail.com)\n\nAccès voiture : Au départ de la Place St. Denis à 
- Forest prendre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4
- ème rue à droite) et dans la rue de la Soierie rouler env. 100 m. puis 1
- ère à gauche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L
- 'entrée du Complexe se trouve à hauteur de City Cart\, à gauche de la r
- oute.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur c
- alabssa: https://calabssa.be/c/152_3_forestois_sc
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu f
+ oncé\n\nContact équipe domicile: Janssens P. (0479.95.08.14 - patj.scf@g
+ mail.com)\n\nAccès voiture : Au départ de la Place St. Denis à Forest p
+ rendre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue
+  à droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à 
+ gauche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée
+  du Complexe se trouve à hauteur de City Cart\, à gauche de la route.\n\
+ nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa:
+  https://calabssa.be/c/152_3_forestois_sc
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
 ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4D J7: FORESTOIS SC (Eq. 3) vs BIERGEOIS CS
-DTSTART;VALUE=DATE-TIME:20231104T130000Z
-DTEND;VALUE=DATE-TIME:20231104T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_4D_7_152_70
+SUMMARY:ABSSA D6A J18: ITT - GECKO FC (Eq. 2) vs FORESTOIS SC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20250208T113000Z
+DTEND;VALUE=DATE-TIME:20250208T130000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_6A_18_92_152
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: N04\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Demeer D. (0488.99.69.09 - daniel.demeer@entre
+ -deux.be)\n\nAccès voiture : Chaussée de Louvain jusqu'à Nossegem\, au 
+ premier croisement prendre à gauche la \nMechelsesteenweg. Le terrain est
+  indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\, pren
+ dre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelsesteenweg\
+ , traverser la chaussée de Louvain\, et suivre comme ci-avant.\n\nVérifi
+ ez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:/
+ /calabssa.be/c/152_3_forestois_sc
+GEO:50.88776559999999;4.50894
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER;CN="Demeer D.";ROLE=Secrétaire:MAILTO:daniel.demeer@entre-deux.
+ be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J19: FORESTOIS SC (Eq. 3) vs AMB. AUDERGHEM (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20250215T143000Z
+DTEND;VALUE=DATE-TIME:20250215T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_6A_19_152_249
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu\n
- \nContact équipe domicile: Janssens P. (0479.95.08.14 - patj.scf@gmail.co
- m)\n\nAccès voiture : Au départ de la Place St. Denis à Forest prendre 
- la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à dro
- ite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gauche 
- (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du Com
- plexe se trouve à hauteur de City Cart\, à gauche de la route.\n\nVérif
- iez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:
- //calabssa.be/c/152_3_forestois_sc
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Janssens P. (0479.95.08.14 - patj.scf@gmail.c
+ om)\n\nAccès voiture : Au départ de la Place St. Denis à Forest prendre
+  la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à dr
+ oite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gauche
+  (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du Co
+ mplexe se trouve à hauteur de City Cart\, à gauche de la route.\n\nVéri
+ fiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https
+ ://calabssa.be/c/152_3_forestois_sc
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
 ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4D J9: FORESTOIS SC (Eq. 3) vs NEPTUNE FC
-DTSTART;VALUE=DATE-TIME:20231118T130000Z
-DTEND;VALUE=DATE-TIME:20231118T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_4D_9_152_56
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu\n
- \nContact équipe domicile: Janssens P. (0479.95.08.14 - patj.scf@gmail.co
- m)\n\nAccès voiture : Au départ de la Place St. Denis à Forest prendre 
- la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à dro
- ite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gauche 
- (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du Com
- plexe se trouve à hauteur de City Cart\, à gauche de la route.\n\nVérif
- iez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:
- //calabssa.be/c/152_3_forestois_sc
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J12: FORESTOIS SC (Eq. 3) vs COMP. CINEMA R
-DTSTART;VALUE=DATE-TIME:20231125T130000Z
-DTEND;VALUE=DATE-TIME:20231125T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_4D_12_152_16
+SUMMARY:ABSSA D6A J24: FORESTOIS SC (Eq. 3) vs IRLANDE FC (Eq. 5)
+DTSTART;VALUE=DATE-TIME:20250222T143000Z
+DTEND;VALUE=DATE-TIME:20250222T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_6A_24_152_402
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
  pale équipe domicile: Noir\nCouleur principale équipe exterieure: Vert\n
  \nContact équipe domicile: Janssens P. (0479.95.08.14 - patj.scf@gmail.co
@@ -232,97 +455,32 @@ LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\,
 ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4D J11: SPARTA SCHEUT vs FORESTOIS SC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20231202T143000Z
-DTEND;VALUE=DATE-TIME:20231202T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_4D_11_340_152
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
- pale équipe domicile: Rayé Bleu et Jaune\nCouleur principale équipe ext
- erieure: Noir\n\nContact équipe domicile: Vande Velde J. (0486.97.70.66 -
-  sparta.scheut@hotmail.com)\n\nAccès voiture : Ring\, sortie Hopital Eras
- me\, après 300 m. en direction de Lennik\, prendre à droite.\nVenant de 
- la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, pla
- ce Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 
- 400 m. en direction de Lennik.\n\nVérifiez toujours ces infos sur http://
- www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/152_3_forestois_sc
-GEO:50.8177358;4.2557195
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER;CN="Vande Velde J.";ROLE=Secrétaire:MAILTO:sparta.scheut@hotmai
- l.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J13: BEETHOVEN FCS vs FORESTOIS SC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20231209T120000Z
-DTEND;VALUE=DATE-TIME:20231209T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_4D_13_493_152
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
- pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: N
- oir\n\nContact équipe domicile: Steenhaut F. (0477.37.74.47 - fsteenhaut@
- hotmail.com)\n\nAccès voiture : En venant de la Route de Lennik (Citroën
- ) ou de la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d
- 'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre
-  la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du comp
- lexe et des terrains se situe à +/- 500 m. sur la gauche.\n\nVérifiez to
- ujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cala
- bssa.be/c/152_3_forestois_sc
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+SUMMARY:ABSSA D6A J20: METRASPORT R. vs FORESTOIS SC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20250308T130000Z
+DTEND;VALUE=DATE-TIME:20250308T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_6A_20_33_152
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B07\n\nCouleur princi
+ pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
+ e: Noir\n\nContact équipe domicile: Pirlot E. (0474.90.52.25 - emilepirlo
+ t@outlook.be)\n\nAccès voiture : Ring de Bruxelles\, Sortie Wemmel\, pren
+ dre l'Avenue Houba de Strooper\, puis la rue à gauche\, avant le bâtimen
+ t de l'URBSFA\, direction Atomium.\n\nVérifiez toujours ces infos sur htt
+ p://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/152_3_forestoi
+ s_sc
+GEO:50.8933845;4.3399807
+LOCATION:Heysel - Annexe 3\, Avenue de Bouchout (Atomium)\, 1020 Bruxelles
  \, Belgique
-ORGANIZER;CN="Steenhaut F.";ROLE=Secrétaire:MAILTO:fsteenhaut@hotmail.com
+ORGANIZER;CN="Pirlot E.";ROLE=Secrétaire:MAILTO:emilepirlot@outlook.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4D J14: BRUSSELS BRITISH R (Eq. 4) vs FORESTOIS SC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20240113T113000Z
-DTEND;VALUE=DATE-TIME:20240113T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_4D_14_1_152
-DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir\
- n\nContact équipe domicile: Lachia S. (0484.27.72.64 - abssa-sec@rbbfc.or
- g)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Passe
- r devant l'église\, longer l'autoroute et tourner à droite au cimetière
-  des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur http:/
- /www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/152_3_forestois_s
- c
-GEO:50.7282426;4.5537189
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER;CN="Lachia S.";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J16: WAPPERS FC vs FORESTOIS SC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20240127T130000Z
-DTEND;VALUE=DATE-TIME:20240127T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_4D_16_67_152
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W19\n\nCouleur princi
- pale équipe domicile: Rayé noir et blanc\nCouleur principale équipe ext
- erieure: Noir\n\nContact équipe domicile: Vinck B. (0475.92.57.30 - berna
- rd.vinck@belgacom.net)\n\nAccès voiture : Ring de Bruxelles (RO)\, sortie
-  n° 2. Prendre la direction Wezembeek-Oppem. Ensuite première rue à dro
- ite (Louis Marcelisstraat) puis la troisième à droite (Sportpleinstraat)
- .\nL'entrée au terrain se trouve à gauche entre les n° 16 et 24.\nPar l
- a ville : A partir du rond point Montgomery\, prendre l'Avenue de Broquevi
- lle\, toujours tout droit. Passez devant le Shopping de Woluwé\, toujours
-  tout droit\, passez devant le magasin "Carrefour"\, puis au 2ème feu de 
- signalisation prendre à droite et ensuite tout droit. Au bout de la rue p
- rendre à droite\, le terrain se trouve à 100 mètres  sur la gauche.\n\n
- Vérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: 
- https://calabssa.be/c/152_3_forestois_sc
-GEO:50.8424578;4.486587999999999
-LOCATION:Sportpleinstraat 20\, 1970 Wezembeek - Oppem\, Belgique
-ORGANIZER;CN="Vinck B.";ROLE=Secrétaire:MAILTO:bernard.vinck@belgacom.net
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J17: FORESTOIS SC (Eq. 3) vs PHARMA SC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20240203T130000Z
-DTEND;VALUE=DATE-TIME:20240203T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_4D_17_152_268
+SUMMARY:ABSSA D6A J22: FORESTOIS SC (Eq. 3) vs TOURINNOIS FC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20250322T143000Z
+DTEND;VALUE=DATE-TIME:20250322T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_6A_22_152_292
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Jaune\
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge\
  n\nContact équipe domicile: Janssens P. (0479.95.08.14 - patj.scf@gmail.c
  om)\n\nAccès voiture : Au départ de la Place St. Denis à Forest prendre
   la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à dr
@@ -335,166 +493,5 @@ GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
 ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J18: LORGNETTE (LA)  FC vs FORESTOIS SC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20240210T130000Z
-DTEND;VALUE=DATE-TIME:20240210T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_4D_18_392_152
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: E07\n\nCouleur princi
- pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: No
- ir\n\nContact équipe domicile: Van Der Linden A. (0485.19.06.92 - alexvdl
- 2000@yahoo.fr)\n\nAccès voiture : Boulevard Lambermont\, prendre le boule
- vard Léopold III\, direction aéroport de Bruxelles-National\, au 3ème f
- eu de signalisation prendre à droite. le terrain se trouve à 50 m.\n\nV
- érifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: h
- ttps://calabssa.be/c/152_3_forestois_sc
-GEO:50.8691994;4.406709999999999
-LOCATION:Complexe Sportif Evere\, Avenue des Anciens Combattants 300\, 114
- 0 Evere\, Belgique
-ORGANIZER;CN="Van Der Linden A.";ROLE=Secrétaire:MAILTO:alexvdl2000@yahoo
- .fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J19: FORESTOIS SC (Eq. 3) vs JODOIGNOISE FC
-DTSTART;VALUE=DATE-TIME:20240217T130000Z
-DTEND;VALUE=DATE-TIME:20240217T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_4D_19_152_664
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir e
- t jaune\n\nContact équipe domicile: Janssens P. (0479.95.08.14 - patj.scf
- @gmail.com)\n\nAccès voiture : Au départ de la Place St. Denis à Forest
-  prendre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème r
- ue à droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère 
- à gauche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entr
- ée du Complexe se trouve à hauteur de City Cart\, à gauche de la route.
- \n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabs
- sa: https://calabssa.be/c/152_3_forestois_sc
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J26: FORESTOIS SC (Eq. 3) vs BEETHOVEN FCS
-DTSTART;VALUE=DATE-TIME:20240224T130000Z
-DTEND;VALUE=DATE-TIME:20240224T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_4D_26_152_493
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu c
- iel\n\nContact équipe domicile: Janssens P. (0479.95.08.14 - patj.scf@gma
- il.com)\n\nAccès voiture : Au départ de la Place St. Denis à Forest pre
- ndre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue 
- à droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à g
- auche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée 
- du Complexe se trouve à hauteur de City Cart\, à gauche de la route.\n\n
- Vérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: 
- https://calabssa.be/c/152_3_forestois_sc
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J23: FORESTOIS SC (Eq. 3) vs REAL TRAPPISTE
-DTSTART;VALUE=DATE-TIME:20240302T130000Z
-DTEND;VALUE=DATE-TIME:20240302T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_4D_23_152_605
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Jaune\
- n\nContact équipe domicile: Janssens P. (0479.95.08.14 - patj.scf@gmail.c
- om)\n\nAccès voiture : Au départ de la Place St. Denis à Forest prendre
-  la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à dr
- oite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gauche
-  (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du Co
- mplexe se trouve à hauteur de City Cart\, à gauche de la route.\n\nVéri
- fiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https
- ://calabssa.be/c/152_3_forestois_sc
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J20: BIERGEOIS CS vs FORESTOIS SC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20240309T133000Z
-DTEND;VALUE=DATE-TIME:20240309T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_4D_20_70_152
-DESCRIPTION:Terrain synthétique: non\nCode terrain: B01\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir\n
- \nContact équipe domicile: Stavart S (0496.95.16.64 - sebastienstavart@ya
- hoo.fr)\n\nAccès voiture : Autoroute Bruxelles-Namur\, sortie Bierges\, p
- rendre à droite\, le terrain se trouve à +/- 500 m. du côté droit.\n\n
- Vérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: 
- https://calabssa.be/c/152_3_forestois_sc
-GEO:50.7113792;4.5897825
-LOCATION:Complexe Sportif J. Colette\, Rue des Combattants\, 1301 Bierges\
- , Belgique
-ORGANIZER;CN="Stavart S";ROLE=Secrétaire:MAILTO:sebastienstavart@yahoo.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J21: FORESTOIS SC (Eq. 3) vs PANGLOSS FC
-DTSTART;VALUE=DATE-TIME:20240316T130000Z
-DTEND;VALUE=DATE-TIME:20240316T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_4D_21_152_123
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu\n
- \nContact équipe domicile: Janssens P. (0479.95.08.14 - patj.scf@gmail.co
- m)\n\nAccès voiture : Au départ de la Place St. Denis à Forest prendre 
- la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à dro
- ite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gauche 
- (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du Com
- plexe se trouve à hauteur de City Cart\, à gauche de la route.\n\nVérif
- iez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:
- //calabssa.be/c/152_3_forestois_sc
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J22: NEPTUNE FC vs FORESTOIS SC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20240323T143000Z
-DTEND;VALUE=DATE-TIME:20240323T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_4D_22_56_152
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir\n
- \nContact équipe domicile: Louies S. (0474.55.15.41 - louiesstephane@gmai
- l.com)\n\nAccès voiture : Via la chaussée de Mons jusqu'à Veeweyde (car
- refour Fr. Van Kalken). Prendre à droite le boulevard  A. Briand jusqu'à
-  la Place Verdi\, puis le Bld. Théo Lambert.\n\nVérifiez toujours ces in
- fos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/152
- _3_forestois_sc
-GEO:50.827564;4.2952993
-LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
- \, Belgique
-ORGANIZER;CN="Louies S.";ROLE=Secrétaire:MAILTO:louiesstephane@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J25: COMP. CINEMA R vs FORESTOIS SC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20240406T103000Z
-DTEND;VALUE=DATE-TIME:20240406T120000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_4D_25_16_152
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: E07\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Noir\n
- \nContact équipe domicile: El Maimouni F (0484.08.93.29 - compagnonscinem
- a016@gmail.com)\n\nAccès voiture : Boulevard Lambermont\, prendre le boul
- evard Léopold III\, direction aéroport de Bruxelles-National\, au 3ème 
- feu de signalisation prendre à droite. le terrain se trouve à 50 m.\n\nV
- érifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: h
- ttps://calabssa.be/c/152_3_forestois_sc
-GEO:50.8691994;4.406709999999999
-LOCATION:Complexe Sportif Evere\, Avenue des Anciens Combattants 300\, 114
- 0 Evere\, Belgique
-ORGANIZER;CN="El Maimouni F";ROLE=Secrétaire:MAILTO:compagnonscinema016@g
- mail.com
 END:VEVENT
 END:VCALENDAR

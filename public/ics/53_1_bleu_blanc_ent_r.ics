@@ -4,441 +4,91 @@ PRODID:53_1_bleu_blanc_ent_r
 X-WR-CALDESC:Les matches du club BLEU-BLANC (ENT)R. (equipe 1) en ABSSA.
 X-WR-CALNAME:ABSSA: BLEU-BLANC (ENT)R. (eq. 1)
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J10: BLEU-BLANC (ENT)R. vs ETTEKIJS
-DTSTART;VALUE=DATE-TIME:20230902T133000Z
-DTEND;VALUE=DATE-TIME:20230902T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3C_10_53_343
+SUMMARY:ABSSA D3C J23: NEW INN FC (Eq. 2) vs BLEU-BLANC (ENT)R.
+DTSTART;VALUE=DATE-TIME:20240831T133000Z
+DTEND;VALUE=DATE-TIME:20240831T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2024_3C_23_359_53
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Rose\nCouleur principale équipe exterieure: Bleu r
+ ayé de Blanc\n\nContact équipe domicile: Van Brabant V (0474.60.68.96 - 
+ vanbrabant.v@gmail.com)\n\nAccès voiture : Au départ de la Place Meiser\
+ , l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2).
+  Sous le viaduc prendre à droite\, l'avenue des Anciens Combattants. Just
+ e après le carrefour avec des feux de signalisation prendre à droite ver
+ s la Place de la Chapelle\, puis prendre la 4ème rue à main droite (rue 
+ au Bois). Le terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujo
+ urs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabss
+ a.be/c/53_1_bleu_blanc_ent_r
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="Van Brabant V";ROLE=Secrétaire:MAILTO:vanbrabant.v@gmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J1: BLEU-BLANC (ENT)R. vs PHARMA SC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240907T133000Z
+DTEND;VALUE=DATE-TIME:20240907T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2024_3C_1_53_268
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
  pale équipe domicile: Bleu rayé de Blanc\nCouleur principale équipe ext
- erieure: Noir\n\nContact équipe domicile: Mineur X. (0471.56.08.07 - jose
+ erieure: Bleu\n\nContact équipe domicile: Mineur X. (0471.56.08.07 - jose
  xavier.mineur@gmail.com)\n\nAccès voiture : Avenue de Tervuren\, prendre 
  l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujours
   ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.b
  e/c/53_1_bleu_blanc_ent_r
-GEO:50.8343279;4.4397562
+GEO:50.8333897;4.4384038
 LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
  e\, Belgique
 ORGANIZER;CN="Mineur X.";ROLE=Secrétaire:MAILTO:josexavier.mineur@gmail.c
  om
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J1: BLEU-BLANC (ENT)R. vs PATJES FC
-DTSTART;VALUE=DATE-TIME:20230909T133000Z
-DTEND;VALUE=DATE-TIME:20230909T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3C_1_53_582
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
- pale équipe domicile: Bleu rayé de Blanc\nCouleur principale équipe ext
- erieure: Rouge et blanc.\n\nContact équipe domicile: Mineur X. (0471.56.0
- 8.07 - josexavier.mineur@gmail.com)\n\nAccès voiture : Avenue de Tervuren
- \, prendre l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nVérifi
- ez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:/
- /calabssa.be/c/53_1_bleu_blanc_ent_r
-GEO:50.8343279;4.4397562
-LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
- e\, Belgique
-ORGANIZER;CN="Mineur X.";ROLE=Secrétaire:MAILTO:josexavier.mineur@gmail.c
- om
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J2: GREEN DEVILS vs BLEU-BLANC (ENT)R.
-DTSTART;VALUE=DATE-TIME:20230916T120000Z
-DTEND;VALUE=DATE-TIME:20230916T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3C_2_90_53
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: E08\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Bleu r
- ayé de Blanc\n\nContact équipe domicile: Vandenbroeck K. (0477.66.15.69 
- - krvandenbroeck@hotmail.be)\n\nAccès voiture : Le terrain se trouve derr
- ière l'église St. Vincent\n\nVérifiez toujours ces infos sur http://www
+SUMMARY:ABSSA D3C J2: ASTURIAS SPORTING vs BLEU-BLANC (ENT)R.
+DTSTART;VALUE=DATE-TIME:20240914T133000Z
+DTEND;VALUE=DATE-TIME:20240914T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2024_3C_2_602_53
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: B
+ leu rayé de Blanc\n\nContact équipe domicile: Stulens K. (0474.62.61.41 
+ - kevin.stulens@live.be)\n\nAccès voiture : Ring\, sortie Hopital Erasme\
+ , après 300 m. en direction de Lennik\, prendre à droite.\nVenant de la 
+ chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place 
+ Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400
+  m. en direction de Lennik.\n\nVérifiez toujours ces infos sur http://www
  .abssa.be/\nVoir sur calabssa: https://calabssa.be/c/53_1_bleu_blanc_ent_r
-GEO:50.88086790000001;4.396579099999999
-LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue Stroobants 75\, 1140 Evere\,
-  Belgique
-ORGANIZER;CN="Vandenbroeck K.";ROLE=Secrétaire:MAILTO:krvandenbroeck@hotm
- ail.be
+GEO:50.8177358;4.2557195
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER;CN="Stulens K.";ROLE=Secrétaire:MAILTO:kevin.stulens@live.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J3: TAURO FC (Eq. 2) vs BLEU-BLANC (ENT)R.
-DTSTART;VALUE=DATE-TIME:20230923T124500Z
-DTEND;VALUE=DATE-TIME:20230923T141500Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3C_3_574_53
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu r
- ayé de Blanc\n\nContact équipe domicile: Lietaer Y. (0484.16.30.31 - yli
- etaer@gmail.com)\n\nAccès voiture : Place Meiser\, descendre le boulevard
-  Lambermont. Au 3ème feu de signalisation prendre à gauche\, puis la pre
- mière à droite.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
- \nVoir sur calabssa: https://calabssa.be/c/53_1_bleu_blanc_ent_r
-GEO:50.8666341;4.3823667
-LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
- aerbeek\, Belgique
-ORGANIZER;CN="Lietaer Y.";ROLE=Secrétaire:MAILTO:ylietaer@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J4: BLEU-BLANC (ENT)R. vs BRAINE-TERMINUS FC
-DTSTART;VALUE=DATE-TIME:20230930T133000Z
-DTEND;VALUE=DATE-TIME:20230930T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3C_4_53_537
+SUMMARY:ABSSA D3C J3: BLEU-BLANC (ENT)R. vs NEPTUNE FC
+DTSTART;VALUE=DATE-TIME:20240921T133000Z
+DTEND;VALUE=DATE-TIME:20240921T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2024_3C_3_53_56
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
  pale équipe domicile: Bleu rayé de Blanc\nCouleur principale équipe ext
- erieure: Jaune et rouge\n\nContact équipe domicile: Mineur X. (0471.56.08
- .07 - josexavier.mineur@gmail.com)\n\nAccès voiture : Avenue de Tervuren\
- , prendre l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nVérifie
- z toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://
- calabssa.be/c/53_1_bleu_blanc_ent_r
-GEO:50.8343279;4.4397562
-LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
- e\, Belgique
-ORGANIZER;CN="Mineur X.";ROLE=Secrétaire:MAILTO:josexavier.mineur@gmail.c
- om
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J5: GREZ AJ (Eq. 2) vs BLEU-BLANC (ENT)R.
-DTSTART;VALUE=DATE-TIME:20231007T133000Z
-DTEND;VALUE=DATE-TIME:20231007T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3C_5_514_53
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: G04\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu r
- ayé de Blanc\n\nContact équipe domicile: Vanhamme J. (0474.56.81.54 - je
- rome.vanhamme@hotmail.com)\n\nAccès voiture : Autoroute Bruxelles-Namur (
- E411) prendre la sortie Louvain/Grez-Doiceau (n° 8). Prendre la RN25 en d
- irection de Louvain/Grez-Doiceau. Passer tout droit les deux premiers rond
- s-points à l'issue de la RN 25. Au troisième rond-point prendre à droit
- e. Le terrain se trouve 150 m. plus loin à gauche de la rue du Stampia.\n
- \nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa
- : https://calabssa.be/c/53_1_bleu_blanc_ent_r
-GEO:50.744789;4.6969702
-LOCATION:Rue du Stampia\, 1390 Grez-Doiceau\, Belgique
-ORGANIZER;CN="Vanhamme J.";ROLE=Secrétaire:MAILTO:jerome.vanhamme@hotmail
- .com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J6: BLEU-BLANC (ENT)R. vs RHINOCEROS
-DTSTART;VALUE=DATE-TIME:20231014T133000Z
-DTEND;VALUE=DATE-TIME:20231014T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3C_6_53_654
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
- pale équipe domicile: Bleu rayé de Blanc\nCouleur principale équipe ext
- erieure: Jaune\n\nContact équipe domicile: Mineur X. (0471.56.08.07 - jos
- exavier.mineur@gmail.com)\n\nAccès voiture : Avenue de Tervuren\, prendre
-  l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujour
- s ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.
- be/c/53_1_bleu_blanc_ent_r
-GEO:50.8343279;4.4397562
-LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
- e\, Belgique
-ORGANIZER;CN="Mineur X.";ROLE=Secrétaire:MAILTO:josexavier.mineur@gmail.c
- om
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J8: BLEU-BLANC (ENT)R. vs IRLANDE FC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20231021T133000Z
-DTEND;VALUE=DATE-TIME:20231021T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3C_8_53_402
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
- pale équipe domicile: Bleu rayé de Blanc\nCouleur principale équipe ext
- erieure: Vert\n\nContact équipe domicile: Mineur X. (0471.56.08.07 - jose
+ erieure: Bleu\n\nContact équipe domicile: Mineur X. (0471.56.08.07 - jose
  xavier.mineur@gmail.com)\n\nAccès voiture : Avenue de Tervuren\, prendre 
  l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujours
   ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.b
  e/c/53_1_bleu_blanc_ent_r
-GEO:50.8343279;4.4397562
+GEO:50.8333897;4.4384038
 LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
  e\, Belgique
 ORGANIZER;CN="Mineur X.";ROLE=Secrétaire:MAILTO:josexavier.mineur@gmail.c
  om
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J24: BLEU-BLANC (ENT)R. vs CHIEFS WSL (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20231028T133000Z
-DTEND;VALUE=DATE-TIME:20231028T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3C_24_53_303
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
- pale équipe domicile: Bleu rayé de Blanc\nCouleur principale équipe ext
- erieure: Blanc\n\nContact équipe domicile: Mineur X. (0471.56.08.07 - jos
- exavier.mineur@gmail.com)\n\nAccès voiture : Avenue de Tervuren\, prendre
-  l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujour
- s ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.
- be/c/53_1_bleu_blanc_ent_r
-GEO:50.8343279;4.4397562
-LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
- e\, Belgique
-ORGANIZER;CN="Mineur X.";ROLE=Secrétaire:MAILTO:josexavier.mineur@gmail.c
- om
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J7: WELL TEAM vs BLEU-BLANC (ENT)R.
-DTSTART;VALUE=DATE-TIME:20231104T143000Z
-DTEND;VALUE=DATE-TIME:20231104T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3C_7_544_53
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
- pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
-  Bleu rayé de Blanc\n\nContact équipe domicile: Dayez M. (0472.61.95.08 
- - martindayez@hotmail.com)\n\nAccès voiture : A partir du square des Arch
- iducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVér
- ifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: http
- s://calabssa.be/c/53_1_bleu_blanc_ent_r
-GEO:50.8059082;4.4137428
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER;CN="Dayez M.";ROLE=Secrétaire:MAILTO:martindayez@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J9: SAINT GEORGES RCS vs BLEU-BLANC (ENT)R.
-DTSTART;VALUE=DATE-TIME:20231118T143000Z
-DTEND;VALUE=DATE-TIME:20231118T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3C_9_221_53
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
- rayé de Blanc\n\nContact équipe domicile: Destin C. (0483.33.01.12 - ced
- ric.destin@gmail.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"a
- venue Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujours ce
- s infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c
- /53_1_bleu_blanc_ent_r
-GEO:50.8343279;4.4397562
-LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
- e\, Belgique
-ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J12: BLEU-BLANC (ENT)R. vs VOGELPIK FC.
-DTSTART;VALUE=DATE-TIME:20231125T143000Z
-DTEND;VALUE=DATE-TIME:20231125T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3C_12_53_629
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
- pale équipe domicile: Bleu rayé de Blanc\nCouleur principale équipe ext
- erieure: Rouge et noir\n\nContact équipe domicile: Mineur X. (0471.56.08.
- 07 - josexavier.mineur@gmail.com)\n\nAccès voiture : Avenue de Tervuren\,
-  prendre l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez
-  toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://c
- alabssa.be/c/53_1_bleu_blanc_ent_r
-GEO:50.8343279;4.4397562
-LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
- e\, Belgique
-ORGANIZER;CN="Mineur X.";ROLE=Secrétaire:MAILTO:josexavier.mineur@gmail.c
- om
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J11: CHIEFS WSL (Eq. 2) vs BLEU-BLANC (ENT)R.
-DTSTART;VALUE=DATE-TIME:20231202T143000Z
-DTEND;VALUE=DATE-TIME:20231202T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3C_11_303_53
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
- rayé de Blanc\n\nContact équipe domicile: De San G. (0477.42.23.84 - guy
- @desan.be)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voo
- t\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Av
- ant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ces info
- s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/53_1_
- bleu_blanc_ent_r
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J13: REQUINS (LES) vs BLEU-BLANC (ENT)R.
-DTSTART;VALUE=DATE-TIME:20231209T130000Z
-DTEND;VALUE=DATE-TIME:20231209T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3C_13_556_53
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu r
- ayé de Blanc\n\nContact équipe domicile: Barbe L. (0476.04.93.45 - louis
- .barbe1@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'
- autoroute E411 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, 
- tenir la droite et au bout de la bretelle\, prendre la direction d'Ottigni
- es par la N238. Au 1èr feu de signalisation continuer tout droit en passa
- nt devant Walibi (qui se trouve sur la gauche) jusqu'à la sortie Limelett
- e. Au bout de cette sortie\, en face du Tennis Club La Palestre\, prendre 
- à droite la rue Charles Dubois\, jusqu'au carrefour principal. Continuer 
- tout droit en traversant l'avenue Albert 1èr. Passer en dessous du 1èr p
- ont du chemin de fer et prendre la rue de l'Europe jusqu'à la place de l'
- Europe. Traverser cette place par la droite. Au bout à gauche\, suivre l'
- avenue Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C.
-  Limelette). Continuer cette rue et passer en dessous du 2ème pont du che
- min de fer. Après ce pont\, prendre tout de suite à gauche l'avenue Demo
- lder (panneau F.C. Limelette)\, en face de l'étang du Buston. Suivre cett
- e avenue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après
-  50 m. dans cette rue\, prendre à droite l'avenue des Sorbiers (panneau d
- u F.C. Limelette). L'entrée du terrain est située 50 m. plus bas sur la 
- gauche.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur
-  calabssa: https://calabssa.be/c/53_1_bleu_blanc_ent_r
-GEO:50.6762848;4.562820299999999
-LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER;CN="Barbe L.";ROLE=Secrétaire:MAILTO:louis.barbe1@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J14: PATJES FC vs BLEU-BLANC (ENT)R.
-DTSTART;VALUE=DATE-TIME:20240113T143000Z
-DTEND;VALUE=DATE-TIME:20240113T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3C_14_582_53
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
- pale équipe domicile: Rouge et blanc.\nCouleur principale équipe exterie
- ure: Bleu rayé de Blanc\n\nContact équipe domicile: Waucquez J-B (0472.0
- 8.73.90 - fcpatjes@outlook.com)\n\nAccès voiture : En venant de Bruxelles
- \, prendre l'autoroute E411 en direction de Namur\, prendre la sortie  Wav
- re (n° 6)\, tenir la droite et au bout de la bretelle\, prendre la direct
- ion d'Ottignies par la N238. Au 1èr feu de signalisation continuer tout d
- roit en passant devant Walibi (qui se trouve sur la gauche) jusqu'à la so
- rtie Limelette. Au bout de cette sortie\, en face du Tennis Club La Palest
- re\, prendre à droite la rue Charles Dubois\, jusqu'au carrefour principa
- l. Continuer tout droit en traversant l'avenue Albert 1èr. Passer en dess
- ous du 1èr pont du chemin de fer et prendre la rue de l'Europe jusqu'à l
- a place de l'Europe. Traverser cette place par la droite. Au bout à gauch
- e\, suivre l'avenue Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan 
- (panneau F.C. Limelette). Continuer cette rue et passer en dessous du 2èm
- e pont du chemin de fer. Après ce pont\, prendre tout de suite à gauche 
- l'avenue Demolder (panneau F.C. Limelette)\, en face de l'étang du Buston
- . Suivre cette avenue jusqu'à la 4ème rue à droite\, l'avenue des Méri
- siers. Après 50 m. dans cette rue\, prendre à droite l'avenue des Sorbie
- rs (panneau du F.C. Limelette). L'entrée du terrain est située 50 m. plu
- s bas sur la gauche.\n\nVérifiez toujours ces infos sur http://www.abssa.
- be/\nVoir sur calabssa: https://calabssa.be/c/53_1_bleu_blanc_ent_r
-GEO:50.6762848;4.562820299999999
-LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER;CN="Waucquez J-B";ROLE=Secrétaire:MAILTO:fcpatjes@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J15: BLEU-BLANC (ENT)R. vs GREEN DEVILS
-DTSTART;VALUE=DATE-TIME:20240120T143000Z
-DTEND;VALUE=DATE-TIME:20240120T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3C_15_53_90
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
- pale équipe domicile: Bleu rayé de Blanc\nCouleur principale équipe ext
- erieure: Vert\n\nContact équipe domicile: Mineur X. (0471.56.08.07 - jose
- xavier.mineur@gmail.com)\n\nAccès voiture : Avenue de Tervuren\, prendre 
- l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujours
-  ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.b
- e/c/53_1_bleu_blanc_ent_r
-GEO:50.8343279;4.4397562
-LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
- e\, Belgique
-ORGANIZER;CN="Mineur X.";ROLE=Secrétaire:MAILTO:josexavier.mineur@gmail.c
- om
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J16: BLEU-BLANC (ENT)R. vs TAURO FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20240127T143000Z
-DTEND;VALUE=DATE-TIME:20240127T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3C_16_53_574
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
- pale équipe domicile: Bleu rayé de Blanc\nCouleur principale équipe ext
- erieure: Noir\n\nContact équipe domicile: Mineur X. (0471.56.08.07 - jose
- xavier.mineur@gmail.com)\n\nAccès voiture : Avenue de Tervuren\, prendre 
- l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujours
-  ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.b
- e/c/53_1_bleu_blanc_ent_r
-GEO:50.8343279;4.4397562
-LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
- e\, Belgique
-ORGANIZER;CN="Mineur X.";ROLE=Secrétaire:MAILTO:josexavier.mineur@gmail.c
- om
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J17: BRAINE-TERMINUS FC vs BLEU-BLANC (ENT)R.
-DTSTART;VALUE=DATE-TIME:20240203T143000Z
-DTEND;VALUE=DATE-TIME:20240203T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3C_17_537_53
-DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
- pale équipe domicile: Jaune et rouge\nCouleur principale équipe exterieu
- re: Bleu rayé de Blanc\n\nContact équipe domicile: Dero G. (0479.81.83.2
- 7 - fcbraineterminus@gmail.com)\n\nAccès voiture : En venant de Bruxelles
-  : Autoroute Tournai - Lille (A8)\, prendre la sortie n° 24\, direction R
- ebecq\, puis la N 6 Bruxelles-Mons en direction de Mons. Entrer dans l'agg
- lomération de Braine-Le-Comte et prendre la 1ère rue à droite\, le terr
- ain se situe au bout de la rue.\nEn venant de Nivelles : Prendre la N533\,
-  Nivelles/Braine-Le-Comte. Entrer dans l'agglomération de Braine-Le-Comte
-  et suivre la direction de Bruxelles (N 6 Mons-Bruxelles)\, prendre la 1è
- re rue à gauche\, le terrain se situe au bout de la rue.\n\nVérifiez tou
- jours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calab
- ssa.be/c/53_1_bleu_blanc_ent_r
-GEO:50.6193857;4.1352085
-LOCATION:Rue du Poseur 39\, 7090 Braine-Le-Comte\, Belgique
-ORGANIZER;CN="Dero G.";ROLE=Secrétaire:MAILTO:fcbraineterminus@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J18: BLEU-BLANC (ENT)R. vs GREZ AJ (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20240210T143000Z
-DTEND;VALUE=DATE-TIME:20240210T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3C_18_53_514
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
- pale équipe domicile: Bleu rayé de Blanc\nCouleur principale équipe ext
- erieure: Noir\n\nContact équipe domicile: Mineur X. (0471.56.08.07 - jose
- xavier.mineur@gmail.com)\n\nAccès voiture : Avenue de Tervuren\, prendre 
- l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujours
-  ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.b
- e/c/53_1_bleu_blanc_ent_r
-GEO:50.8343279;4.4397562
-LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
- e\, Belgique
-ORGANIZER;CN="Mineur X.";ROLE=Secrétaire:MAILTO:josexavier.mineur@gmail.c
- om
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J19: RHINOCEROS vs BLEU-BLANC (ENT)R.
-DTSTART;VALUE=DATE-TIME:20240217T143000Z
-DTEND;VALUE=DATE-TIME:20240217T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3C_19_654_53
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L08\n\nCouleur princi
- pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Bleu 
- rayé de Blanc\n\nContact équipe domicile: Watteyne R. (0498.16.13.01 - r
- obin@watteyne.com)\n\nAccès voiture : Autoroute Bruxelles-Namur E411\, ap
- rès Wavre prendre la sortie Louvain-la-Neuve\, continuer sur la N4 direct
- ion Namur\, au premier rond-point prendre à droite vers la N250 et suivre
-  "Blocry/Hocaille". Après le second rond-point\, prendre à droite\, au c
- arrefour\, la rue de l'Invasion\, puis de nouveau à droite. L'entrée du 
- terrain ROS se trouve au bout de l'avenue.\n\nVérifiez toujours ces infos
-  sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/53_1_b
- leu_blanc_ent_r
-GEO:50.6706953;4.5975173
-LOCATION:Terrain Royal Ottignies Stimont (Ros)\, Avenue de Lauzelle\, 1348
-  Louvain-La-Neuve\, Belgique
-ORGANIZER;CN="Watteyne R.";ROLE=Secrétaire:MAILTO:robin@watteyne.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J26: BLEU-BLANC (ENT)R. vs REQUINS (LES)
-DTSTART;VALUE=DATE-TIME:20240224T143000Z
-DTEND;VALUE=DATE-TIME:20240224T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3C_26_53_556
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
- pale équipe domicile: Bleu rayé de Blanc\nCouleur principale équipe ext
- erieure: Noir\n\nContact équipe domicile: Mineur X. (0471.56.08.07 - jose
- xavier.mineur@gmail.com)\n\nAccès voiture : Avenue de Tervuren\, prendre 
- l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujours
-  ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.b
- e/c/53_1_bleu_blanc_ent_r
-GEO:50.8343279;4.4397562
-LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
- e\, Belgique
-ORGANIZER;CN="Mineur X.";ROLE=Secrétaire:MAILTO:josexavier.mineur@gmail.c
- om
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J23: ETTEKIJS vs BLEU-BLANC (ENT)R.
-DTSTART;VALUE=DATE-TIME:20240302T113000Z
-DTEND;VALUE=DATE-TIME:20240302T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3C_23_343_53
+SUMMARY:ABSSA D3C J4: ETTEKIJS vs BLEU-BLANC (ENT)R.
+DTSTART;VALUE=DATE-TIME:20240928T103000Z
+DTEND;VALUE=DATE-TIME:20240928T120000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2024_3C_4_343_53
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
  pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu r
  ayé de Blanc\n\nContact équipe domicile: Raes F. (0479.73.82.49 - freddy
@@ -446,58 +96,333 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
  endre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez touj
  ours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabs
  sa.be/c/53_1_bleu_blanc_ent_r
-GEO:50.8059082;4.4137428
+GEO:50.80645209999999;4.4087184
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
 ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J20: BLEU-BLANC (ENT)R. vs WELL TEAM
-DTSTART;VALUE=DATE-TIME:20240309T143000Z
-DTEND;VALUE=DATE-TIME:20240309T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3C_20_53_544
+SUMMARY:ABSSA D3C J5: BLEU-BLANC (ENT)R. vs CENTRAL PARK FC
+DTSTART;VALUE=DATE-TIME:20241005T133000Z
+DTEND;VALUE=DATE-TIME:20241005T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2024_3C_5_53_562
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
  pale équipe domicile: Bleu rayé de Blanc\nCouleur principale équipe ext
- erieure: Bleu marine\n\nContact équipe domicile: Mineur X. (0471.56.08.07
-  - josexavier.mineur@gmail.com)\n\nAccès voiture : Avenue de Tervuren\, p
- rendre l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez t
- oujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cal
- abssa.be/c/53_1_bleu_blanc_ent_r
-GEO:50.8343279;4.4397562
+ erieure: Bleu et Blanc\n\nContact équipe domicile: Mineur X. (0471.56.08.
+ 07 - josexavier.mineur@gmail.com)\n\nAccès voiture : Avenue de Tervuren\,
+  prendre l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez
+  toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://c
+ alabssa.be/c/53_1_bleu_blanc_ent_r
+GEO:50.8333897;4.4384038
 LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
  e\, Belgique
 ORGANIZER;CN="Mineur X.";ROLE=Secrétaire:MAILTO:josexavier.mineur@gmail.c
  om
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J21: IRLANDE FC (Eq. 3) vs BLEU-BLANC (ENT)R.
-DTSTART;VALUE=DATE-TIME:20240316T113000Z
-DTEND;VALUE=DATE-TIME:20240316T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3C_21_402_53
-DESCRIPTION:Terrain synthétique: non\nCode terrain: N04\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Bleu r
- ayé de Blanc\n\nContact équipe domicile: Bridoux J.F. (0455.12.12.65 - f
- ci.secretary.mens@outlook.com)\n\nAccès voiture : Chaussée de Louvain ju
- squ'à Nossegem\, au premier croisement prendre à gauche la \nMechelseste
- enweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Br
- uxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à gauche
-  la Mechelsesteenweg\, traverser la chaussée de Louvain\, et suivre comme
-  ci-avant.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir 
- sur calabssa: https://calabssa.be/c/53_1_bleu_blanc_ent_r
-GEO:50.88776559999999;4.50894
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER;CN="Bridoux J.F.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@out
- look.com
+SUMMARY:ABSSA D3C J6: FRANGINOS (LOS) vs BLEU-BLANC (ENT)R.
+DTSTART;VALUE=DATE-TIME:20241012T130000Z
+DTEND;VALUE=DATE-TIME:20241012T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2024_3C_6_647_53
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: P02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
+ rayé de Blanc\n\nContact équipe domicile: Gerard S. (0487.22.81.20 - sim
+ ongerard@hotmail.be)\n\nAccès voiture : a Partir de Bruxelles\, Prendre l
+ a E 411 en Direction de Namur. Prendre la Sortie 11  Gembloux pour Rejoind
+ re la N 29 en Direction de Gembloux / Tirlement / Jodoigne / Perwez. suivr
+ e la N29 et Chaussée de Wavre (N243) en Direction de la Rue des Marronnie
+ rs. au Rond-Point 1\, 2 et 3 Prendre chaque Fois la première Sortie.\nAu 
+ Rond-Point suivant (4Ième) Prendre la deuxième Sortie et Continuer sur l
+ a Chaussée de Wavre / N 243. Prendre à Droite sur la Rue des Marronniers
+ \, le Terrain se Trouve à Droite\n\nVérifiez toujours ces infos sur http
+ ://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/53_1_bleu_blanc
+ _ent_r
+GEO:50.6429684;4.800823299999999
+LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
+ORGANIZER;CN="Gerard S.";ROLE=Secrétaire:MAILTO:simongerard@hotmail.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J22: BLEU-BLANC (ENT)R. vs SAINT GEORGES RCS
-DTSTART;VALUE=DATE-TIME:20240323T143000Z
-DTEND;VALUE=DATE-TIME:20240323T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3C_22_53_221
+SUMMARY:ABSSA D3C J25: GAST FC vs BLEU-BLANC (ENT)R.
+DTSTART;VALUE=DATE-TIME:20241019T114500Z
+DTEND;VALUE=DATE-TIME:20241019T131500Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2024_3C_25_388_53
+DESCRIPTION:Terrain synthétique: non\nCode terrain: D01\n\nCouleur princi
+ pale équipe domicile: Ligné Jaune et bleu\nCouleur principale équipe ex
+ terieure: Bleu rayé de Blanc\n\nContact équipe domicile: Clais D. (0476.
+ 99.88.10 - davidclais@hotmail.com)\n\nAccès voiture : Prendre l'Autoroute
+  ou le ring Bruxelles-Mons-Paris\, sortie Drogenbos. Prendre direction Dro
+ genbos-Centre\, passer devant la Maison Communale et le terminus du tram\,
+  ensuite à la 3ème rue tourner à main droite (Le terrain se trouve au b
+ out de la rue au Bois).\n\nVérifiez toujours ces infos sur http://www.abs
+ sa.be/\nVoir sur calabssa: https://calabssa.be/c/53_1_bleu_blanc_ent_r
+GEO:50.7815061;4.3192196
+LOCATION:Stade Communal de Drogenbos\, Rue au Bois\, 1620 Drogenbos\, Belg
+ ique
+ORGANIZER;CN="Clais D.";ROLE=Secrétaire:MAILTO:davidclais@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J26: BLEU-BLANC (ENT)R. vs RAPID TAMTAM FC.
+DTSTART;VALUE=DATE-TIME:20241026T133000Z
+DTEND;VALUE=DATE-TIME:20241026T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2024_3C_26_53_600
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Bleu rayé de Blanc\nCouleur principale équipe ext
+ erieure: Jaune et rose\n\nContact équipe domicile: Mineur X. (0471.56.08.
+ 07 - josexavier.mineur@gmail.com)\n\nAccès voiture : Avenue de Tervuren\,
+  prendre l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez
+  toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://c
+ alabssa.be/c/53_1_bleu_blanc_ent_r
+GEO:50.8333897;4.4384038
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Mineur X.";ROLE=Secrétaire:MAILTO:josexavier.mineur@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J7: FOOT JOSAPHAT vs BLEU-BLANC (ENT)R.
+DTSTART;VALUE=DATE-TIME:20241102T140000Z
+DTEND;VALUE=DATE-TIME:20241102T153000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2024_3C_7_597_53
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
+ pale équipe domicile: Gris\nCouleur principale équipe exterieure: Bleu r
+ ayé de Blanc\n\nContact équipe domicile: El Youssefi J. (0488.30.74.66 -
+  jawad.ely@hotmail.com)\n\nAccès voiture : Place Meiser\, descendre le bo
+ ulevard Lambermont. Au 3ème feu de signalisation prendre à gauche\, puis
+  la première à droite.\n\nVérifiez toujours ces infos sur http://www.ab
+ ssa.be/\nVoir sur calabssa: https://calabssa.be/c/53_1_bleu_blanc_ent_r
+GEO:50.8666341;4.3823667
+LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
+ aerbeek\, Belgique
+ORGANIZER;CN="El Youssefi J.";ROLE=Secrétaire:MAILTO:jawad.ely@hotmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J8: BLEU-BLANC (ENT)R. vs NIVELLES CS
+DTSTART;VALUE=DATE-TIME:20241109T143000Z
+DTEND;VALUE=DATE-TIME:20241109T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2024_3C_8_53_306
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Bleu rayé de Blanc\nCouleur principale équipe ext
+ erieure: noir et jaune\n\nContact équipe domicile: Mineur X. (0471.56.08.
+ 07 - josexavier.mineur@gmail.com)\n\nAccès voiture : Avenue de Tervuren\,
+  prendre l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez
+  toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://c
+ alabssa.be/c/53_1_bleu_blanc_ent_r
+GEO:50.8333897;4.4384038
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Mineur X.";ROLE=Secrétaire:MAILTO:josexavier.mineur@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J9: CELTIC ROOSTERS vs BLEU-BLANC (ENT)R.
+DTSTART;VALUE=DATE-TIME:20241116T143000Z
+DTEND;VALUE=DATE-TIME:20241116T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2024_3C_9_626_53
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
+ pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
+ e: Bleu rayé de Blanc\n\nContact équipe domicile: Dubois S. (0479.04.13.
+ 70 - celticroosters@gmail.com)\n\nAccès voiture : Autoroute E 411 directi
+ on Namur / Luxembourg\, prendre la sortie n° 6 Wavre\, à gauche N 238 di
+ rection Wavre. Au rond-	point 2ième sortie N238/Blvd. de l'Europe directi
+ on Wavre Centre. Entrer dans Wavre puis à gauche N 238\, à gauche N 239.
+  	Au rond-point prendre la première sortie Rue Haute\, continuer sur rue 
+ de Bruxelles\, continuer sur rue Saint-Roch\, continuer 	sur rue Joseph Jo
+ ppart. Prendre à droite l'avenue du Centre Sportif.\n\nVérifiez toujours
+  ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.b
+ e/c/53_1_bleu_blanc_ent_r
+GEO:50.72071949999999;4.617067899999999
+LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
+  Belgique
+ORGANIZER;CN="Dubois S.";ROLE=Secrétaire:MAILTO:celticroosters@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J12: BLEU-BLANC (ENT)R. vs GAST FC
+DTSTART;VALUE=DATE-TIME:20241123T143000Z
+DTEND;VALUE=DATE-TIME:20241123T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2024_3C_12_53_388
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Bleu rayé de Blanc\nCouleur principale équipe ext
+ erieure: Ligné Jaune et bleu\n\nContact équipe domicile: Mineur X. (0471
+ .56.08.07 - josexavier.mineur@gmail.com)\n\nAccès voiture : Avenue de Ter
+ vuren\, prendre l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nV
+ érifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: h
+ ttps://calabssa.be/c/53_1_bleu_blanc_ent_r
+GEO:50.8333897;4.4384038
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Mineur X.";ROLE=Secrétaire:MAILTO:josexavier.mineur@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J11: BXL ALLIANCE JETTE vs BLEU-BLANC (ENT)R.
+DTSTART;VALUE=DATE-TIME:20241130T130000Z
+DTEND;VALUE=DATE-TIME:20241130T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2024_3C_11_566_53
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Bleu r
+ ayé de Blanc\n\nContact équipe domicile: Zaleski S. (0473.34.57.81 - zal
+ .stan@hotmail.com)\n\nAccès voiture : Direction cimetière de Jette\, ens
+ uite prendre la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, av
+ enue J.J. Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces
+  infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/
+ 53_1_bleu_blanc_ent_r
+GEO:50.8868564;4.3286963
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
+ Belgique
+ORGANIZER;CN="Zaleski S.";ROLE=Secrétaire:MAILTO:zal.stan@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J10: BLEU-BLANC (ENT)R. vs NEW INN FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20241207T143000Z
+DTEND;VALUE=DATE-TIME:20241207T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2024_3C_10_53_359
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Bleu rayé de Blanc\nCouleur principale équipe ext
+ erieure: Rose\n\nContact équipe domicile: Mineur X. (0471.56.08.07 - jose
+ xavier.mineur@gmail.com)\n\nAccès voiture : Avenue de Tervuren\, prendre 
+ l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujours
+  ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.b
+ e/c/53_1_bleu_blanc_ent_r
+GEO:50.8333897;4.4384038
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Mineur X.";ROLE=Secrétaire:MAILTO:josexavier.mineur@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J13: RAPID TAMTAM FC. vs BLEU-BLANC (ENT)R.
+DTSTART;VALUE=DATE-TIME:20241214T130000Z
+DTEND;VALUE=DATE-TIME:20241214T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2024_3C_13_600_53
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Jaune et rose\nCouleur principale équipe exterieur
+ e: Bleu rayé de Blanc\n\nContact équipe domicile: Barbay T. (0477.57.99.
+ 43 - fcrapidtamtam@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\,
+  prendre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (t
+ erminus bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifie
+ z toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://
+ calabssa.be/c/53_1_bleu_blanc_ent_r
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Barbay T.";ROLE=Secrétaire:MAILTO:fcrapidtamtam@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J14: PHARMA SC (Eq. 2) vs BLEU-BLANC (ENT)R.
+DTSTART;VALUE=DATE-TIME:20250111T143000Z
+DTEND;VALUE=DATE-TIME:20250111T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2025_3C_14_268_53
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu r
+ ayé de Blanc\n\nContact équipe domicile: Van Durme Th. (0477.71.89.93 - 
+ phie.dumidi@scarlet.be)\n\nAccès voiture : Au départ de la Place St. Den
+ is à Forest prendre la chaussée de Neerstalle jusqu'à la rue de la Soie
+ rie (4ème rue à droite) et dans la rue de la Soierie rouler env. 100 m. 
+ puis 1ère à gauche (Bld. de la 2ème Armée Britannique) pendant env. 50
+ 0 m. L'entrée du Complexe se trouve à hauteur de City Cart\, à gauche d
+ e la route.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir
+  sur calabssa: https://calabssa.be/c/53_1_bleu_blanc_ent_r
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J15: BLEU-BLANC (ENT)R. vs ASTURIAS SPORTING
+DTSTART;VALUE=DATE-TIME:20250118T143000Z
+DTEND;VALUE=DATE-TIME:20250118T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2025_3C_15_53_602
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Bleu rayé de Blanc\nCouleur principale équipe ext
+ erieure: Bleu ciel\n\nContact équipe domicile: Mineur X. (0471.56.08.07 -
+  josexavier.mineur@gmail.com)\n\nAccès voiture : Avenue de Tervuren\, pre
+ ndre l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez tou
+ jours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calab
+ ssa.be/c/53_1_bleu_blanc_ent_r
+GEO:50.8333897;4.4384038
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Mineur X.";ROLE=Secrétaire:MAILTO:josexavier.mineur@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J16: NEPTUNE FC vs BLEU-BLANC (ENT)R.
+DTSTART;VALUE=DATE-TIME:20250125T143000Z
+DTEND;VALUE=DATE-TIME:20250125T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2025_3C_16_56_53
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu r
+ ayé de Blanc\n\nContact équipe domicile: Louies S. (0474.55.15.41 - loui
+ esstephane@gmail.com)\n\nAccès voiture : Via la chaussée de Mons jusqu'
+ à Veeweyde (carrefour Fr. Van Kalken). Prendre à droite le boulevard  A.
+  Briand jusqu'à la Place Verdi\, puis le Bld. Théo Lambert.\n\nVérifiez
+  toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://c
+ alabssa.be/c/53_1_bleu_blanc_ent_r
+GEO:50.8275993;4.2964877
+LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Louies S.";ROLE=Secrétaire:MAILTO:louiesstephane@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J17: BLEU-BLANC (ENT)R. vs ETTEKIJS
+DTSTART;VALUE=DATE-TIME:20250201T143000Z
+DTEND;VALUE=DATE-TIME:20250201T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2025_3C_17_53_343
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Bleu rayé de Blanc\nCouleur principale équipe ext
+ erieure: Noir\n\nContact équipe domicile: Mineur X. (0471.56.08.07 - jose
+ xavier.mineur@gmail.com)\n\nAccès voiture : Avenue de Tervuren\, prendre 
+ l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujours
+  ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.b
+ e/c/53_1_bleu_blanc_ent_r
+GEO:50.8333897;4.4384038
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Mineur X.";ROLE=Secrétaire:MAILTO:josexavier.mineur@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J18: CENTRAL PARK FC vs BLEU-BLANC (ENT)R.
+DTSTART;VALUE=DATE-TIME:20250208T143000Z
+DTEND;VALUE=DATE-TIME:20250208T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2025_3C_18_562_53
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Bleu et Blanc\nCouleur principale équipe exterieur
+ e: Bleu rayé de Blanc\n\nContact équipe domicile: Genot F. (0473.57.28.6
+ 1 - genotflorian@hotmail.com)\n\nAccès voiture : Boulevard de la Woluwe\,
+  prendre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (t
+ erminus bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifie
+ z toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://
+ calabssa.be/c/53_1_bleu_blanc_ent_r
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J19: BLEU-BLANC (ENT)R. vs FRANGINOS (LOS)
+DTSTART;VALUE=DATE-TIME:20250215T143000Z
+DTEND;VALUE=DATE-TIME:20250215T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2025_3C_19_53_647
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
  pale équipe domicile: Bleu rayé de Blanc\nCouleur principale équipe ext
  erieure: Blanc\n\nContact équipe domicile: Mineur X. (0471.56.08.07 - jos
@@ -505,32 +430,91 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
   l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujour
  s ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.
  be/c/53_1_bleu_blanc_ent_r
-GEO:50.8343279;4.4397562
+GEO:50.8333897;4.4384038
 LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
  e\, Belgique
 ORGANIZER;CN="Mineur X.";ROLE=Secrétaire:MAILTO:josexavier.mineur@gmail.c
  om
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J25: VOGELPIK FC. vs BLEU-BLANC (ENT)R.
-DTSTART;VALUE=DATE-TIME:20240406T133000Z
-DTEND;VALUE=DATE-TIME:20240406T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3C_25_629_53
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L08\n\nCouleur princi
- pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
- e: Bleu rayé de Blanc\n\nContact équipe domicile: Nolet P (0486.56.82.31
-  - pierrenolet91@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Namur 
- E411\, après Wavre prendre la sortie Louvain-la-Neuve\, continuer sur la 
- N4 direction Namur\, au premier rond-point prendre à droite vers la N250 
- et suivre "Blocry/Hocaille". Après le second rond-point\, prendre à droi
- te\, au carrefour\, la rue de l'Invasion\, puis de nouveau à droite. L'en
- trée du terrain ROS se trouve au bout de l'avenue.\n\nVérifiez toujours 
- ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be
- /c/53_1_bleu_blanc_ent_r
-GEO:50.6706953;4.5975173
-LOCATION:Terrain Royal Ottignies Stimont (Ros)\, Avenue de Lauzelle\, 1348
-  Louvain-La-Neuve\, Belgique
-ORGANIZER;CN="Nolet P";ROLE=Secrétaire:MAILTO:pierrenolet91@gmail.com
+SUMMARY:ABSSA D3C J24: BLEU-BLANC (ENT)R. vs BXL ALLIANCE JETTE
+DTSTART;VALUE=DATE-TIME:20250222T143000Z
+DTEND;VALUE=DATE-TIME:20250222T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2025_3C_24_53_566
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Bleu rayé de Blanc\nCouleur principale équipe ext
+ erieure: Vert\n\nContact équipe domicile: Mineur X. (0471.56.08.07 - jose
+ xavier.mineur@gmail.com)\n\nAccès voiture : Avenue de Tervuren\, prendre 
+ l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujours
+  ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.b
+ e/c/53_1_bleu_blanc_ent_r
+GEO:50.8333897;4.4384038
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Mineur X.";ROLE=Secrétaire:MAILTO:josexavier.mineur@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J20: BLEU-BLANC (ENT)R. vs FOOT JOSAPHAT
+DTSTART;VALUE=DATE-TIME:20250308T143000Z
+DTEND;VALUE=DATE-TIME:20250308T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2025_3C_20_53_597
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Bleu rayé de Blanc\nCouleur principale équipe ext
+ erieure: Gris\n\nContact équipe domicile: Mineur X. (0471.56.08.07 - jose
+ xavier.mineur@gmail.com)\n\nAccès voiture : Avenue de Tervuren\, prendre 
+ l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujours
+  ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.b
+ e/c/53_1_bleu_blanc_ent_r
+GEO:50.8333897;4.4384038
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Mineur X.";ROLE=Secrétaire:MAILTO:josexavier.mineur@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J21: NIVELLES CS vs BLEU-BLANC (ENT)R.
+DTSTART;VALUE=DATE-TIME:20250315T130000Z
+DTEND;VALUE=DATE-TIME:20250315T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2025_3C_21_306_53
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: noir et jaune\nCouleur principale équipe exterieur
+ e: Bleu rayé de Blanc\n\nContact équipe domicile: Couteau A (0497.63.11.
+ 19 - couteau.arnold.00@gmail.com)\n\nAccès voiture : En venant de Bruxell
+ es\, par l'autoroute Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n°
+  19)\, passer sous le pont de l'autoroute et prendre la direction de Nivel
+ les. A 200 m.\, au rond-point (Shopping Center)\, tourner à droite en dir
+ ection de Wavre (petit ring de Nivelles).\nAu 4ème rond-point (en tenant 
+ compte du rond-point du Shopping Center)\, tourner à gauche \, rue de l'I
+ ndustrie et pénétrer dans le zoning. Au bout de la rue\, avant le feu de
+  signalisation\, tourner à gauche et prendre la rue du Progrès pendant +
+ /- 400 m.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir s
+ ur calabssa: https://calabssa.be/c/53_1_bleu_blanc_ent_r
+GEO:50.5963705;4.3564539
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Couteau A";ROLE=Secrétaire:MAILTO:couteau.arnold.00@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J22: BLEU-BLANC (ENT)R. vs CELTIC ROOSTERS
+DTSTART;VALUE=DATE-TIME:20250322T143000Z
+DTEND;VALUE=DATE-TIME:20250322T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2025_3C_22_53_626
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Bleu rayé de Blanc\nCouleur principale équipe ext
+ erieure: Vert et blanc\n\nContact équipe domicile: Mineur X. (0471.56.08.
+ 07 - josexavier.mineur@gmail.com)\n\nAccès voiture : Avenue de Tervuren\,
+  prendre l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez
+  toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://c
+ alabssa.be/c/53_1_bleu_blanc_ent_r
+GEO:50.8333897;4.4384038
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Mineur X.";ROLE=Secrétaire:MAILTO:josexavier.mineur@gmail.c
+ om
 END:VEVENT
 END:VCALENDAR

@@ -4,107 +4,11 @@ PRODID:221_3_saint_georges_rcs
 X-WR-CALDESC:Les matches du club SAINT GEORGES RCS (equipe 3) en ABSSA.
 X-WR-CALNAME:ABSSA: SAINT GEORGES RCS (eq. 3)
 BEGIN:VEVENT
-SUMMARY:ABSSA D4B J10: CHOULE AUDERGHEM (Eq. 2) vs SAINT GEORGES RCS (Eq. 
- 3)
-DTSTART;VALUE=DATE-TIME:20230902T103000Z
-DTEND;VALUE=DATE-TIME:20230902T120000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_4B_10_517_221
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Blanc\
- n\nContact équipe domicile: Vandenplas D. (0476.54.48.01 - dav_54@hotmail
- .com)\n\nAccès voiture : A partir du square des Archiducs\, prendre la ru
- e Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez toujours ces in
- fos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221
- _3_saint_georges_rcs
-GEO:50.8059082;4.4137428
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J1: DUDEN SPORT R vs SAINT GEORGES RCS (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20230909T133000Z
-DTEND;VALUE=DATE-TIME:20230909T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_4B_1_22_221
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
- pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
- re: Blanc\n\nContact équipe domicile: Isabeaux A (0472.34.00.24 - arnaud8
- 684@hotmail.be)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 
- 300 m. en direction de Lennik\, prendre à droite.\nVenant de la chaussée
-  de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, B
- ld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en di
- rection de Lennik.\n\nVérifiez toujours ces infos sur http://www.abssa.be
- /\nVoir sur calabssa: https://calabssa.be/c/221_3_saint_georges_rcs
-GEO:50.8177358;4.2557195
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER;CN="Isabeaux A";ROLE=Secrétaire:MAILTO:arnaud8684@hotmail.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J2: SAINT GEORGES RCS (Eq. 3) vs BRITISH UNITED (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20230916T133000Z
-DTEND;VALUE=DATE-TIME:20230916T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_4B_2_221_132
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W13\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
- n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.destin@gmai
- l.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, 
- puis la chaussée de Stockel. Passer en dessous du petit pont et continuer
-  la chaussée de Stockel pendant env. 500 m. Le terrain est situé sur la 
- droite de la chaussée.\n\nVérifiez toujours ces infos sur http://www.abs
- sa.be/\nVoir sur calabssa: https://calabssa.be/c/221_3_saint_georges_rcs
-GEO:50.8416694;4.4547837
-LOCATION:Chaussée de Stockel 376\, 1150 Woluwé-Saint-Pierre\, Belgique
-ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J3: SAINT GEORGES RCS (Eq. 3) vs MIREILLE WEMMEL
-DTSTART;VALUE=DATE-TIME:20230923T133000Z
-DTEND;VALUE=DATE-TIME:20230923T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_4B_3_221_93
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W13\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
-  et  Noir\n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.d
- estin@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la r
- ue Voot\, puis la chaussée de Stockel. Passer en dessous du petit pont et
-  continuer la chaussée de Stockel pendant env. 500 m. Le terrain est situ
- é sur la droite de la chaussée.\n\nVérifiez toujours ces infos sur http
- ://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_3_saint_geo
- rges_rcs
-GEO:50.8416694;4.4547837
-LOCATION:Chaussée de Stockel 376\, 1150 Woluwé-Saint-Pierre\, Belgique
-ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J4: ASTURIAS SPORTING vs SAINT GEORGES RCS (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20230930T133000Z
-DTEND;VALUE=DATE-TIME:20230930T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_4B_4_602_221
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
- pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: B
- lanc\n\nContact équipe domicile: Stulens K. (0474.62.61.41 - kevin.stulen
- s@live.be)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 300 m
- . en direction de Lennik\, prendre à droite.\nVenant de la chaussée de M
- ons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. T
- héo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en directi
- on de Lennik.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVo
- ir sur calabssa: https://calabssa.be/c/221_3_saint_georges_rcs
-GEO:50.8177358;4.2557195
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER;CN="Stulens K.";ROLE=Secrétaire:MAILTO:kevin.stulens@live.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J5: SAINT GEORGES RCS (Eq. 3) vs GAMBRINUS F.C.
-DTSTART;VALUE=DATE-TIME:20231007T133000Z
-DTEND;VALUE=DATE-TIME:20231007T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_4B_5_221_645
+SUMMARY:ABSSA D5C J23: SAINT GEORGES RCS (Eq. 3) vs CLAUDY F.C.
+DTSTART;VALUE=DATE-TIME:20240831T133000Z
+DTEND;VALUE=DATE-TIME:20240831T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_5C_23_221_678
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W13\n\nCouleur princi
  pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir\
  n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.destin@gmai
@@ -113,110 +17,61 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: W13\n\nCouleur princi
   la chaussée de Stockel pendant env. 500 m. Le terrain est situé sur la 
  droite de la chaussée.\n\nVérifiez toujours ces infos sur http://www.abs
  sa.be/\nVoir sur calabssa: https://calabssa.be/c/221_3_saint_georges_rcs
-GEO:50.8416694;4.4547837
+GEO:50.8417148;4.4547744
 LOCATION:Chaussée de Stockel 376\, 1150 Woluwé-Saint-Pierre\, Belgique
 ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4B J6: BLUE THRILLS vs SAINT GEORGES RCS (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20231014T133000Z
-DTEND;VALUE=DATE-TIME:20231014T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_4B_6_619_221
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
- pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
-  Blanc\n\nContact équipe domicile: De Briey A. (0479.858.374 - alexdebrie
- y@hotmail.fr)\n\nAccès voiture : Chaussée de Haecht\, vers Diegem. Prend
- re la rue Harenheyde à gauche\, juste au feu de signalisation\, après la
-  station "JET"\, situé à gauche. Entrée du stade par la rue Harenheyde\
- , 100 m. au-delà du pont du chemin de fer.\n\nVérifiez toujours ces info
- s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_3
- _saint_georges_rcs
-GEO:50.8929668;4.4236193
-LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
-ORGANIZER;CN="De Briey A.";ROLE=Secrétaire:MAILTO:alexdebriey@hotmail.fr
+SUMMARY:ABSSA D5C J1: UNION BRUXELLOISE vs SAINT GEORGES RCS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20240907T103000Z
+DTEND;VALUE=DATE-TIME:20240907T120000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_5C_1_655_221
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: Noir/ Bleu\nCouleur principale équipe exterieure: 
+ Blanc\n\nContact équipe domicile: Herinckx C. (0472.83.06.56 - union.brux
+ elloise@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'auto
+ route Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer s
+ ous le pont de l'autoroute et prendre la direction de Nivelles. A 200 m.\,
+  au rond-point (Shopping Center)\, tourner à droite en direction de Wavre
+  (petit ring de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-
+ point du Shopping Center)\, tourner à gauche \, rue de l'Industrie et pé
+ nétrer dans le zoning. Au bout de la rue\, avant le feu de signalisation\
+ , tourner à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nV
+ érifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: h
+ ttps://calabssa.be/c/221_3_saint_georges_rcs
+GEO:50.5963705;4.3564539
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Herinckx C.";ROLE=Secrétaire:MAILTO:union.bruxelloise@gmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4B J8: ZIJP FC vs SAINT GEORGES RCS (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20231021T133000Z
-DTEND;VALUE=DATE-TIME:20231021T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_4B_8_646_221
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: E04\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Blanc\
- n\nContact équipe domicile: Salamone E. (0475.20.92.37 - fczijp@outlook.c
- om)\n\nAccès voiture : De la Place Meiser\, remonter tous les boulevards.
-  Au carrefour de la Chaussée de Wavre\, prendre celle-ci à droite\, ensu
- ite la 2ème rue à droite (Rue Général Fivé)\, puis la 3ème à droite
-  (rue Baron Dhanis).\n\nVérifiez toujours ces infos sur http://www.abssa.
- be/\nVoir sur calabssa: https://calabssa.be/c/221_3_saint_georges_rcs
-GEO:50.8287714;4.3975708
-LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
-ORGANIZER;CN="Salamone E.";ROLE=Secrétaire:MAILTO:fczijp@outlook.com
+SUMMARY:ABSSA D5C J3: PIRATE S.C. vs SAINT GEORGES RCS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20240921T133000Z
+DTEND;VALUE=DATE-TIME:20240921T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_5C_3_670_221
+DESCRIPTION:Terrain synthétique: non\nCode terrain: L11\n\nCouleur princi
+ pale équipe domicile: Noir / doré\nCouleur principale équipe exterieure
+ : Blanc\n\nContact équipe domicile: Gulbakan I. (0486.20.99.11 - ilhangul
+ bakan@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Namur / Lux
+ embourg\, prendre la sortie n° 6 Wavre\, vers N238. Tourner à droite sur
+  Boulevard de l'Europe/N238 sur 200 m. Prendre à droite sur Rue de la Was
+ tinne. Ensuite\, aprèsle passage à niveau\, prendre à gauche sur Rue Pr
+ ovinciale/N239. Les terrains se trouvent sur la gauche de la route en cont
+ re-bas (facilement visible de la route).\n\nVérifiez toujours ces infos s
+ ur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_3_sa
+ int_georges_rcs
+GEO:50.7007516;4.582180999999999
+LOCATION:Charles Jaumotte 156\, 1300 Wavre (Limal)\, Belgique
+ORGANIZER;CN="Gulbakan I.";ROLE=Secrétaire:MAILTO:ilhangulbakan@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4B J7: SAINT GEORGES RCS (Eq. 3) vs BREU UNITED
-DTSTART;VALUE=DATE-TIME:20231104T143000Z
-DTEND;VALUE=DATE-TIME:20231104T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_4B_7_221_603
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W13\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Orang
- e et Mauve\n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.
- destin@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la 
- rue Voot\, puis la chaussée de Stockel. Passer en dessous du petit pont e
- t continuer la chaussée de Stockel pendant env. 500 m. Le terrain est sit
- ué sur la droite de la chaussée.\n\nVérifiez toujours ces infos sur htt
- p://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_3_saint_ge
- orges_rcs
-GEO:50.8416694;4.4547837
-LOCATION:Chaussée de Stockel 376\, 1150 Woluwé-Saint-Pierre\, Belgique
-ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J9: SAINT GEORGES RCS (Eq. 3) vs VIRGINAL ASF
-DTSTART;VALUE=DATE-TIME:20231118T143000Z
-DTEND;VALUE=DATE-TIME:20231118T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_4B_9_221_497
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W13\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Vert\
- n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.destin@gmai
- l.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, 
- puis la chaussée de Stockel. Passer en dessous du petit pont et continuer
-  la chaussée de Stockel pendant env. 500 m. Le terrain est situé sur la 
- droite de la chaussée.\n\nVérifiez toujours ces infos sur http://www.abs
- sa.be/\nVoir sur calabssa: https://calabssa.be/c/221_3_saint_georges_rcs
-GEO:50.8416694;4.4547837
-LOCATION:Chaussée de Stockel 376\, 1150 Woluwé-Saint-Pierre\, Belgique
-ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J12: CHENOIS (ESPER) vs SAINT GEORGES RCS (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20231125T123000Z
-DTEND;VALUE=DATE-TIME:20231125T140000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_4B_12_412_221
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W02\n\nCouleur princi
- pale équipe domicile: Blanc et rouge\nCouleur principale équipe exterieu
- re: Blanc\n\nContact équipe domicile: Gioffredi G. (0474.24.92.27 - 412fc
- ec@gmail.com)\n\nAccès voiture : Venant d'Uccle\, prendre la chaussée de
-  Waterloo\, ensuite la chaussée de Bruxelles\, continuer jusqu'à la plac
- e E. Vandevelde (intersection de la chaussée de Bruxelles avec la chauss
- ée de Tervuren à Joli-Bois). Au feu de signalisation prendre à droite l
- a chaussée Bara. Le terrain se trouve à droite à +/- 500 m.\n\nVérifie
- z toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://
- calabssa.be/c/221_3_saint_georges_rcs
-GEO:50.701676;4.397567
-LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
-ORGANIZER;CN="Gioffredi G.";ROLE=Secrétaire:MAILTO:412fcec@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J13: SAINT GEORGES RCS (Eq. 3) vs BRUSSELS LTC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20231209T143000Z
-DTEND;VALUE=DATE-TIME:20231209T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_4B_13_221_39
+SUMMARY:ABSSA D5C J4: SAINT GEORGES RCS (Eq. 3) vs CENTRAL PARK FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240928T133000Z
+DTEND;VALUE=DATE-TIME:20240928T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_5C_4_221_562
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W13\n\nCouleur princi
  pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Borde
  aux\n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.destin@
@@ -226,79 +81,131 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: W13\n\nCouleur princi
   la droite de la chaussée.\n\nVérifiez toujours ces infos sur http://www
  .abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_3_saint_georges_r
  cs
-GEO:50.8416694;4.4547837
+GEO:50.8417148;4.4547744
 LOCATION:Chaussée de Stockel 376\, 1150 Woluwé-Saint-Pierre\, Belgique
 ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4B J14: SAINT GEORGES RCS (Eq. 3) vs DUDEN SPORT R
-DTSTART;VALUE=DATE-TIME:20240113T143000Z
-DTEND;VALUE=DATE-TIME:20240113T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_4B_14_221_22
+SUMMARY:ABSSA D5C J5: CHIEFS WSL (Eq. 3) vs SAINT GEORGES RCS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20241005T103000Z
+DTEND;VALUE=DATE-TIME:20241005T120000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_5C_5_303_221
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Blanc
+ \n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan.be)\n\n
+ Accès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, puis la ch
+ aussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce pont le
+  terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur http://w
+ ww.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_3_saint_georges
+ _rcs
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J6: SAINT GEORGES RCS (Eq. 3) vs BRUSSELS LTC (Eq. 5)
+DTSTART;VALUE=DATE-TIME:20241012T133000Z
+DTEND;VALUE=DATE-TIME:20241012T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_5C_6_221_39
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W13\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
-  et blanc\n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.d
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Borde
+ aux\n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.destin@
+ gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voo
+ t\, puis la chaussée de Stockel. Passer en dessous du petit pont et conti
+ nuer la chaussée de Stockel pendant env. 500 m. Le terrain est situé sur
+  la droite de la chaussée.\n\nVérifiez toujours ces infos sur http://www
+ .abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_3_saint_georges_r
+ cs
+GEO:50.8417148;4.4547744
+LOCATION:Chaussée de Stockel 376\, 1150 Woluwé-Saint-Pierre\, Belgique
+ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J25: SAINT GEORGES RCS (Eq. 3) vs DEAF BRUSSELS FC
+DTSTART;VALUE=DATE-TIME:20241019T133000Z
+DTEND;VALUE=DATE-TIME:20241019T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_5C_25_221_593
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W13\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Vert 
+ et noir\n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.des
+ tin@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue
+  Voot\, puis la chaussée de Stockel. Passer en dessous du petit pont et c
+ ontinuer la chaussée de Stockel pendant env. 500 m. Le terrain est situé
+  sur la droite de la chaussée.\n\nVérifiez toujours ces infos sur http:/
+ /www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_3_saint_georg
+ es_rcs
+GEO:50.8417148;4.4547744
+LOCATION:Chaussée de Stockel 376\, 1150 Woluwé-Saint-Pierre\, Belgique
+ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J26: FOOT FRITESTYLE vs SAINT GEORGES RCS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20241026T120000Z
+DTEND;VALUE=DATE-TIME:20241026T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_5C_26_679_221
+DESCRIPTION:Terrain synthétique: non\nCode terrain: L11\n\nCouleur princi
+ pale équipe domicile: Vert / noir\nCouleur principale équipe exterieure:
+  Blanc\n\nContact équipe domicile: Deformanoir O. (0473.62.46.25 - darkot
+ fc@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Namur / Luxemb
+ ourg\, prendre la sortie n° 6 Wavre\, vers N238. Tourner à droite sur Bo
+ ulevard de l'Europe/N238 sur 200 m. Prendre à droite sur Rue de la Wastin
+ ne. Ensuite\, aprèsle passage à niveau\, prendre à gauche sur Rue Provi
+ nciale/N239. Les terrains se trouvent sur la gauche de la route en contre-
+ bas (facilement visible de la route).\n\nVérifiez toujours ces infos sur 
+ http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_3_saint
+ _georges_rcs
+GEO:50.7007516;4.582180999999999
+LOCATION:Charles Jaumotte 156\, 1300 Wavre (Limal)\, Belgique
+ORGANIZER;CN="Deformanoir O.";ROLE=Secrétaire:MAILTO:darkotfc@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J7: SAINT GEORGES RCS (Eq. 3) vs CELTIC FORESTOIS
+DTSTART;VALUE=DATE-TIME:20241102T143000Z
+DTEND;VALUE=DATE-TIME:20241102T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_5C_7_221_330
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W13\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Vert 
+ et  blanc\n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.d
  estin@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la r
  ue Voot\, puis la chaussée de Stockel. Passer en dessous du petit pont et
   continuer la chaussée de Stockel pendant env. 500 m. Le terrain est situ
  é sur la droite de la chaussée.\n\nVérifiez toujours ces infos sur http
  ://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_3_saint_geo
  rges_rcs
-GEO:50.8416694;4.4547837
+GEO:50.8417148;4.4547744
 LOCATION:Chaussée de Stockel 376\, 1150 Woluwé-Saint-Pierre\, Belgique
 ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4B J15: BRITISH UNITED (Eq. 3) vs SAINT GEORGES RCS (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20240120T143000Z
-DTEND;VALUE=DATE-TIME:20240120T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_4B_15_132_221
-DESCRIPTION:Terrain synthétique: non\nCode terrain: M02\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
- n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gillesvander
- seypen@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Anvers (E19) sor
- tie Mechelen-Noord (n° 9) En arrivant dans le centre\, suivre la directio
- n "Heist-op-den-Berg" Aller tout droit et passer le viaduc du chemin de fe
- r. Après 1 km. suivre les flèches "De Nekker". Garer les voitures à l'e
- xtérieur du complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terra
- in.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur cal
- abssa: https://calabssa.be/c/221_3_saint_georges_rcs
-GEO:51.0254354;4.503786799999999
-LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
- ue
-ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
- gmail.com
+SUMMARY:ABSSA D5C J8: KARIA FC vs SAINT GEORGES RCS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20241109T143000Z
+DTEND;VALUE=DATE-TIME:20241109T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_5C_8_498_221
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Bercha  M (0477.69.27.28 - mohamedbercha@hotm
+ ail.fr)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\, vers 
+ Neder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-
+ point\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin V
+ ert\, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://www.abs
+ sa.be/\nVoir sur calabssa: https://calabssa.be/c/221_3_saint_georges_rcs
+GEO:50.89983369999999;4.3936101
+LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
+ORGANIZER;CN="Bercha  M";ROLE=Secrétaire:MAILTO:mohamedbercha@hotmail.fr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4B J16: MIREILLE WEMMEL vs SAINT GEORGES RCS (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20240127T143000Z
-DTEND;VALUE=DATE-TIME:20240127T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_4B_16_93_221
-DESCRIPTION:Terrain synthétique: non\nCode terrain: W16\n\nCouleur princi
- pale équipe domicile: Rouge et  Noir\nCouleur principale équipe exterieu
- re: Blanc\n\nContact équipe domicile: Vermeerbergen D. (0497.31.76.07 - d
- aanvermeerbergen@hotmail.com)\n\nAccès voiture : Ring RO\, afrit Wemmel-M
- erchtem (n° 9)\, richting Merchtem volgen via de Is. Meyskensstraat tot a
- an de rotonde\, op de rotonde de 4de afslag nemen\, Diepstraat deze vloeit
-  over in de Steenweg op Brussel\, 50 m. voorbij het eerste kruispunt met v
- erkeerslichten\, links van de steenweg\, bevindt zich het stadium (parking
- )\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calab
- ssa: https://calabssa.be/c/221_3_saint_georges_rcs
-GEO:50.9077704;4.3065753
-LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
-  Wemmel\, Belgique
-ORGANIZER;CN="Vermeerbergen D.";ROLE=Secrétaire:MAILTO:daanvermeerbergen@
- hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J17: SAINT GEORGES RCS (Eq. 3) vs ASTURIAS SPORTING
-DTSTART;VALUE=DATE-TIME:20240203T143000Z
-DTEND;VALUE=DATE-TIME:20240203T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_4B_17_221_602
+SUMMARY:ABSSA D5C J9: SAINT GEORGES RCS (Eq. 3) vs BRUSSELS LIONS
+DTSTART;VALUE=DATE-TIME:20241116T143000Z
+DTEND;VALUE=DATE-TIME:20241116T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_5C_9_221_682
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W13\n\nCouleur princi
  pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
  ciel\n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.destin
@@ -308,77 +215,239 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: W13\n\nCouleur princi
  r la droite de la chaussée.\n\nVérifiez toujours ces infos sur http://ww
  w.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_3_saint_georges_
  rcs
-GEO:50.8416694;4.4547837
+GEO:50.8417148;4.4547744
 LOCATION:Chaussée de Stockel 376\, 1150 Woluwé-Saint-Pierre\, Belgique
 ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4B J18: GAMBRINUS F.C. vs SAINT GEORGES RCS (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20240210T123000Z
-DTEND;VALUE=DATE-TIME:20240210T140000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_4B_18_645_221
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: E10\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Blanc\
- n\nContact équipe domicile: Brismee M (0474.68.53.85 - fcgambrinusfc@gmai
- l.com)\n\nAccès voiture : Prendre la chaussée de Louvain\, Place Meiser\
- , Place de Paduwa\, prendre ensuite la 2ème rue à droite\, l' Avenue des
-  Communautés\, l'entrée au terrain est situé à 100 m.\n\nVérifiez tou
- jours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calab
- ssa.be/c/221_3_saint_georges_rcs
-GEO:50.8582632;4.4251766
-LOCATION:Stade Communal G. Petre\, Avenue des Communautés\, 1140 Evere\, 
- Belgique
-ORGANIZER;CN="Brismee M";ROLE=Secrétaire:MAILTO:fcgambrinusfc@gmail.com
+SUMMARY:ABSSA D5C J12: DEAF BRUSSELS FC vs SAINT GEORGES RCS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20241123T143000Z
+DTEND;VALUE=DATE-TIME:20241123T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_5C_12_593_221
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
+ pale équipe domicile: Vert et noir\nCouleur principale équipe exterieure
+ : Blanc\n\nContact équipe domicile: Van Brandt S. (0494.24.34.05 (SMS) - 
+ deaf.brussels.2011@gmail.com)\n\nAccès voiture : Chaussée de Haecht\, ve
+ rs Diegem. Prendre la rue Harenheyde à gauche\, juste au feu de signalisa
+ tion\, après la station "JET"\, situé à gauche. Entrée du stade par la
+  rue Harenheyde\, 100 m. au-delà du pont du chemin de fer.\n\nVérifiez t
+ oujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cal
+ abssa.be/c/221_3_saint_georges_rcs
+GEO:50.8928227;4.425372
+LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
+ORGANIZER;CN="Van Brandt S.";ROLE=Secrétaire:MAILTO:deaf.brussels.2011@gm
+ ail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4B J19: SAINT GEORGES RCS (Eq. 3) vs BLUE THRILLS
-DTSTART;VALUE=DATE-TIME:20240217T143000Z
-DTEND;VALUE=DATE-TIME:20240217T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_4B_19_221_619
+SUMMARY:ABSSA D5C J11: SAINT GEORGES RCS (Eq. 3) vs MILAN MIRAPIDE AC
+DTSTART;VALUE=DATE-TIME:20241130T143000Z
+DTEND;VALUE=DATE-TIME:20241130T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_5C_11_221_680
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W13\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
- Marine\n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.dest
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Borde
+ aux\n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.destin@
+ gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voo
+ t\, puis la chaussée de Stockel. Passer en dessous du petit pont et conti
+ nuer la chaussée de Stockel pendant env. 500 m. Le terrain est situé sur
+  la droite de la chaussée.\n\nVérifiez toujours ces infos sur http://www
+ .abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_3_saint_georges_r
+ cs
+GEO:50.8417148;4.4547744
+LOCATION:Chaussée de Stockel 376\, 1150 Woluwé-Saint-Pierre\, Belgique
+ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J10: CLAUDY F.C. vs SAINT GEORGES RCS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20241207T113000Z
+DTEND;VALUE=DATE-TIME:20241207T130000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_5C_10_678_221
+DESCRIPTION:Terrain synthétique: non\nCode terrain: N04\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: De Spirlet R. (0470.43.29.45 - rod.de.spirlet
+ @gmail.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à Nossegem\, a
+ u premier croisement prendre à gauche la \nMechelsesteenweg. Le terrain e
+ st indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\, pr
+ endre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelsesteenwe
+ g\, traverser la chaussée de Louvain\, et suivre comme ci-avant.\n\nVéri
+ fiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https
+ ://calabssa.be/c/221_3_saint_georges_rcs
+GEO:50.88776559999999;4.50894
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER;CN="De Spirlet R.";ROLE=Secrétaire:MAILTO:rod.de.spirlet@gmail.
+ com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J13: SAINT GEORGES RCS (Eq. 3) vs FOOT FRITESTYLE
+DTSTART;VALUE=DATE-TIME:20241214T143000Z
+DTEND;VALUE=DATE-TIME:20241214T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_5C_13_221_679
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W13\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Vert 
+ / noir\n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.dest
  in@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue 
  Voot\, puis la chaussée de Stockel. Passer en dessous du petit pont et co
  ntinuer la chaussée de Stockel pendant env. 500 m. Le terrain est situé 
  sur la droite de la chaussée.\n\nVérifiez toujours ces infos sur http://
  www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_3_saint_george
  s_rcs
-GEO:50.8416694;4.4547837
+GEO:50.8417148;4.4547744
 LOCATION:Chaussée de Stockel 376\, 1150 Woluwé-Saint-Pierre\, Belgique
 ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4B J26: BRUSSELS LTC (Eq. 3) vs SAINT GEORGES RCS (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20240224T143000Z
-DTEND;VALUE=DATE-TIME:20240224T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_4B_26_39_221
-DESCRIPTION:Terrain synthétique: non\nCode terrain: L09\n\nCouleur princi
+SUMMARY:ABSSA D5C J14: SAINT GEORGES RCS (Eq. 3) vs UNION BRUXELLOISE
+DTSTART;VALUE=DATE-TIME:20250111T143000Z
+DTEND;VALUE=DATE-TIME:20250111T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_5C_14_221_655
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W13\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir/
+  Bleu\n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.desti
+ n@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue V
+ oot\, puis la chaussée de Stockel. Passer en dessous du petit pont et con
+ tinuer la chaussée de Stockel pendant env. 500 m. Le terrain est situé s
+ ur la droite de la chaussée.\n\nVérifiez toujours ces infos sur http://w
+ ww.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_3_saint_georges
+ _rcs
+GEO:50.8417148;4.4547744
+LOCATION:Chaussée de Stockel 376\, 1150 Woluwé-Saint-Pierre\, Belgique
+ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J16: SAINT GEORGES RCS (Eq. 3) vs PIRATE S.C.
+DTSTART;VALUE=DATE-TIME:20250125T143000Z
+DTEND;VALUE=DATE-TIME:20250125T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_5C_16_221_670
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W13\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir 
+ / doré\n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.des
+ tin@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue
+  Voot\, puis la chaussée de Stockel. Passer en dessous du petit pont et c
+ ontinuer la chaussée de Stockel pendant env. 500 m. Le terrain est situé
+  sur la droite de la chaussée.\n\nVérifiez toujours ces infos sur http:/
+ /www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_3_saint_georg
+ es_rcs
+GEO:50.8417148;4.4547744
+LOCATION:Chaussée de Stockel 376\, 1150 Woluwé-Saint-Pierre\, Belgique
+ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J17: CENTRAL PARK FC (Eq. 2) vs SAINT GEORGES RCS (Eq. 3
+ )
+DTSTART;VALUE=DATE-TIME:20250201T130000Z
+DTEND;VALUE=DATE-TIME:20250201T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_5C_17_562_221
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
  pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bl
- anc\n\nContact équipe domicile: Van Hacht O. (0475.96.43.03 - brusselsltc
- @hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre le Ring Es
- t direction Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\,
-  Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours
-  tout droit. Au feu de signalisation et le carrefour de La Hulpe\, tout dr
- oit direction Genval. Au feu de signalisation prendre à gauche et ensuite
-  directement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se 
- trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\
- nVoir sur calabssa: https://calabssa.be/c/221_3_saint_georges_rcs
-GEO:50.7309318;4.4945865
-LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ anc\n\nContact équipe domicile: Genot F. (0473.57.28.61 - genotflorian@ho
+ tmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voo
+ t\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Av
+ ant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ces info
+ s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_3
+ _saint_georges_rcs
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J18: SAINT GEORGES RCS (Eq. 3) vs CHIEFS WSL (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20250208T143000Z
+DTEND;VALUE=DATE-TIME:20250208T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_5C_18_221_303
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W13\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Blanc
+ \n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.destin@gma
+ il.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\,
+  puis la chaussée de Stockel. Passer en dessous du petit pont et continue
+ r la chaussée de Stockel pendant env. 500 m. Le terrain est situé sur la
+  droite de la chaussée.\n\nVérifiez toujours ces infos sur http://www.ab
+ ssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_3_saint_georges_rcs
+GEO:50.8417148;4.4547744
+LOCATION:Chaussée de Stockel 376\, 1150 Woluwé-Saint-Pierre\, Belgique
+ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J19: BRUSSELS LTC (Eq. 5) vs SAINT GEORGES RCS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20250215T130000Z
+DTEND;VALUE=DATE-TIME:20250215T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_5C_19_39_221
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R03\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bl
+ anc\n\nContact équipe domicile: Van Hacht O. (0475.96.43.03 - dannyboffin
+ @hotmail.com)\n\nAccès voiture : Par la E411 Bruxelles-Namur\, prendre la
+  sortie n° 5 (Wavre Nord\, Rixensart\, Bierges).\nEnsuite prendre la N257
+  pendant 700 mètres jusqu'au rond-point\, prendre la rue de l'Etoile et e
+ nsuite la rue de Mérode jusqu'à Rixensart. Après 900 mètres\, à la Pl
+ ace de la Perche\, prendre à droite l'avenue de la Paix et encore à droi
+ te l'avenue Clermont Tonnerre.\n\nVérifiez toujours ces infos sur http://
+ www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_3_saint_george
+ s_rcs
+GEO:50.7128483;4.5376972
+LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
+ 30 Rixensart\, Belgique
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:dannyboffin@hotmail.co
  m
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4B J23: SAINT GEORGES RCS (Eq. 3) vs CHOULE AUDERGHEM (Eq. 
- 2)
-DTSTART;VALUE=DATE-TIME:20240302T143000Z
-DTEND;VALUE=DATE-TIME:20240302T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_4B_23_221_517
+SUMMARY:ABSSA D5C J24: MILAN MIRAPIDE AC vs SAINT GEORGES RCS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20250222T143000Z
+DTEND;VALUE=DATE-TIME:20250222T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_5C_24_680_221
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: C02\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bl
+ anc\n\nContact équipe domicile: Dubois B. (0498.46.80.76 - brieucdub@gmai
+ l.com)\n\nAccès voiture : Ring ouest: Direction Waterloo\, prendre la sor
+ tie "butte du lion" \, prendre à droite\, puis au feu rouge prendre à dr
+ oite\, rouler jusque Genappe et prendre la RN 25 en direction de Wavre\, p
+ rendre la deuxième sortie (Court St. Etienne) et prendre à gauche\, le t
+ errain se trouve à 1 km. a main droite.\nPar la E411: Prendre la E411 dir
+ ection Namur\, ensuite sortir a Wavre\, prendre ensuite la sortie Villers-
+ La-Ville\, ensuite à droite puis directement à gauche a l'arbre et desce
+ ndre jusque dans le fond\, prendre a droite et le terrain se trouve à 500
+  m. a main gauche.\n\nVérifiez toujours ces infos sur http://www.abssa.be
+ /\nVoir sur calabssa: https://calabssa.be/c/221_3_saint_georges_rcs
+GEO:50.6417231;4.5547061
+LOCATION:Avenue des Combattants\, 1490 Court St. Etienne\, Belgique
+ORGANIZER;CN="Dubois B.";ROLE=Secrétaire:MAILTO:brieucdub@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J20: CELTIC FORESTOIS vs SAINT GEORGES RCS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20250308T130000Z
+DTEND;VALUE=DATE-TIME:20250308T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_5C_20_330_221
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Vert et  blanc\nCouleur principale équipe exterieu
+ re: Blanc\n\nContact équipe domicile: Ceuster J (0472.52.87.14 - ceuster-
+ jeremy@hotmail.be)\n\nAccès voiture : Au départ de la Place St. Denis à
+  Forest prendre la chaussée de Neerstalle jusqu'à la rue de la Soierie (
+ 4ème rue à droite) et dans la rue de la Soierie rouler env. 100 m. puis 
+ 1ère à gauche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. 
+ L'entrée du Complexe se trouve à hauteur de City Cart\, à gauche de la 
+ route.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur 
+ calabssa: https://calabssa.be/c/221_3_saint_georges_rcs
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER;CN="Ceuster J";ROLE=Secrétaire:MAILTO:ceuster-jeremy@hotmail.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J21: SAINT GEORGES RCS (Eq. 3) vs KARIA FC
+DTSTART;VALUE=DATE-TIME:20250315T143000Z
+DTEND;VALUE=DATE-TIME:20250315T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_5C_21_221_498
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W13\n\nCouleur princi
  pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir\
  n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.destin@gmai
@@ -387,91 +456,29 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: W13\n\nCouleur princi
   la chaussée de Stockel pendant env. 500 m. Le terrain est situé sur la 
  droite de la chaussée.\n\nVérifiez toujours ces infos sur http://www.abs
  sa.be/\nVoir sur calabssa: https://calabssa.be/c/221_3_saint_georges_rcs
-GEO:50.8416694;4.4547837
+GEO:50.8417148;4.4547744
 LOCATION:Chaussée de Stockel 376\, 1150 Woluwé-Saint-Pierre\, Belgique
 ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4B J20: BREU UNITED vs SAINT GEORGES RCS (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20240309T130000Z
-DTEND;VALUE=DATE-TIME:20240309T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_4B_20_603_221
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
- pale équipe domicile: Orange et Mauve\nCouleur principale équipe exterie
- ure: Blanc\n\nContact équipe domicile: Benabdelkader Y (0486.47.02.24 - c
- omptayounes1@hotmail.com)\n\nAccès voiture : En venant de la Route de Len
- nik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre la direction du
-  cimetière d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-
- point prendre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'en
- trée du complexe et des terrains se situe à +/- 500 m. sur la gauche.\n\
- nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa:
-  https://calabssa.be/c/221_3_saint_georges_rcs
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER;CN="Benabdelkader Y";ROLE=Secrétaire:MAILTO:comptayounes1@hotma
- il.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J21: SAINT GEORGES RCS (Eq. 3) vs ZIJP FC
-DTSTART;VALUE=DATE-TIME:20240316T143000Z
-DTEND;VALUE=DATE-TIME:20240316T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_4B_21_221_646
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W13\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir\
- n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.destin@gmai
- l.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, 
- puis la chaussée de Stockel. Passer en dessous du petit pont et continuer
-  la chaussée de Stockel pendant env. 500 m. Le terrain est situé sur la 
- droite de la chaussée.\n\nVérifiez toujours ces infos sur http://www.abs
- sa.be/\nVoir sur calabssa: https://calabssa.be/c/221_3_saint_georges_rcs
-GEO:50.8416694;4.4547837
-LOCATION:Chaussée de Stockel 376\, 1150 Woluwé-Saint-Pierre\, Belgique
-ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J22: VIRGINAL ASF vs SAINT GEORGES RCS (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20240323T140000Z
-DTEND;VALUE=DATE-TIME:20240323T153000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_4B_22_497_221
-DESCRIPTION:Terrain synthétique: non\nCode terrain: V02\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Blanc\
- n\nContact équipe domicile: Sempot A (0471.76.31.68 - sempot.antoine@gmai
- l.com)\n\nAccès voiture : Au départ de Bruxelles\, l'autoroute E19 ou pa
- r le Ring RO\, sortir à Ittre. Suivre la direction Ittre-Virginal. Traver
- ser Haut-Ittre et Ittre et suivre la direction Virginal-Samme. Franchir le
-  pont surplombant le canal Bruxelles-Charleroi. Poursuivre tout droit par 
- la rue de Catala\, ne pas suivre la direction Virginal Centre\, mais pours
- uivre la route et prendre la 2ème rue à main droite (rue de Tubize). Pas
- ser devant le château d'eau et un peu plus loin\, à l'incinérateur\, pr
- endre à droite en direction de Oisquercq. Le terrain se trouve à droite 
- dans la descente (panneau ASF Virginal).\n\nVérifiez toujours ces infos s
- ur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_3_sa
- int_georges_rcs
-GEO:50.6528899;4.2178077
-LOCATION:Rue de Tubize\, 1460 Virginal\, Belgique
-ORGANIZER;CN="Sempot A";ROLE=Secrétaire:MAILTO:sempot.antoine@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J25: SAINT GEORGES RCS (Eq. 3) vs CHENOIS (ESPER)
-DTSTART;VALUE=DATE-TIME:20240406T133000Z
-DTEND;VALUE=DATE-TIME:20240406T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2024_4B_25_221_412
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W13\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Blanc
-  et rouge\n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.d
- estin@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la r
- ue Voot\, puis la chaussée de Stockel. Passer en dessous du petit pont et
-  continuer la chaussée de Stockel pendant env. 500 m. Le terrain est situ
- é sur la droite de la chaussée.\n\nVérifiez toujours ces infos sur http
- ://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/221_3_saint_geo
- rges_rcs
-GEO:50.8416694;4.4547837
-LOCATION:Chaussée de Stockel 376\, 1150 Woluwé-Saint-Pierre\, Belgique
-ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
+SUMMARY:ABSSA D5C J22: BRUSSELS LIONS vs SAINT GEORGES RCS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20250322T113000Z
+DTEND;VALUE=DATE-TIME:20250322T130000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2025_5C_22_682_221
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: B
+ lanc\n\nContact équipe domicile: El Halimi A. (0488.95.55.05 - brusselsli
+ onsfc@hotmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, apr
+ ès 300 m. en direction de Lennik\, prendre à droite.\nVenant de la chaus
+ sée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi
+ \, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. e
+ n direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.abss
+ a.be/\nVoir sur calabssa: https://calabssa.be/c/221_3_saint_georges_rcs
+GEO:50.8177358;4.2557195
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER;CN="El Halimi A.";ROLE=Secrétaire:MAILTO:brusselslionsfc@hotmai
+ l.com
 END:VEVENT
 END:VCALENDAR

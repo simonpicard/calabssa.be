@@ -4,136 +4,151 @@ PRODID:abbsa_j_2_d_4a
 X-WR-CALDESC:Les matches de la journée 2 en divion 4A d'ABSSA.
 X-WR-CALNAME:D4A Journée 2
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J2: OMNISPORT BIERGHES vs FRIENDS SPIRIT AUD
-DTSTART;VALUE=DATE-TIME:20230916T110000Z
-DTEND;VALUE=DATE-TIME:20230916T123000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_4A_2_455_522
+SUMMARY:ABSSA D4A J2: WOKRASSE F.C. vs PATRONS (LES)
+DTSTART;VALUE=DATE-TIME:20240914T103000Z
+DTEND;VALUE=DATE-TIME:20240914T120000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2024_4A_2_656_628
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Bleu et Noir\nCouleur principale équipe exterieure
+ : Rouge\n\nContact équipe domicile: Thisse F (0476.35.49.20 - felix.thiss
+ e@gmail.com)\n\nAccès voiture : Au départ de la Place Meiser\, l'autorou
+ te Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le vi
+ aduc prendre à droite\, l'avenue des Anciens Combattants. Juste après le
+  carrefour avec des feux de signalisation prendre à droite vers la Place 
+ de la Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). L
+ e terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces inf
+ os sur http://www.abssa.be/
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="Thisse F";ROLE=Secrétaire:MAILTO:felix.thisse@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4A J2: OMNISPORT BIERGHES vs EXTRANOS (LOS)
+DTSTART;VALUE=DATE-TIME:20240914T110000Z
+DTEND;VALUE=DATE-TIME:20240914T123000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2024_4A_2_455_569
 DESCRIPTION:Terrain synthétique: non\nCode terrain: B02\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
- \nContact équipe domicile: Barbe L. (0495.21.74.14 - omnisportbierghes199
- 5@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Charleroi (E19)\, pre
- ndre la sortie Halle-Tournai-Lille (n° 21) pour rejoindre l'autoroute Tou
- rnai-Lille\, ancienne route A8 (E429). Prendre la sortie Rebecq-Quenast (n
- ° 24). En bas de la sortie\, prendre à droite\, direction Bierghes. Roul
- er tout droit jusqu'au premier feu rouge. Tourner à droite en direction d
- e Halle\, ensuite la deuxième rue à droite (rue du Sartiau)\, ensuite à
-  gauche. Le terrain se trouve à 300 m.\n\nVérifiez toujours ces infos su
- r http://www.abssa.be/
-GEO:50.6957846;4.129257
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge 
+ et Bleu\n\nContact équipe domicile: Barbe L. (0495.21.74.14 - omnisportbi
+ erghes1995@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Charleroi (E
+ 19)\, prendre la sortie Halle-Tournai-Lille (n° 21) pour rejoindre l'auto
+ route Tournai-Lille\, ancienne route A8 (E429). Prendre la sortie Rebecq-Q
+ uenast (n° 24). En bas de la sortie\, prendre à droite\, direction Bierg
+ hes. Rouler tout droit jusqu'au premier feu rouge. Tourner à droite en di
+ rection de Halle\, ensuite la deuxième rue à droite (rue du Sartiau)\, e
+ nsuite à gauche. Le terrain se trouve à 300 m.\n\nVérifiez toujours ces
+  infos sur http://www.abssa.be/
+GEO:50.69576660000001;4.1292301
 LOCATION:Rue du Sartiau 3B\, 1430 Bierghes-Rebecq\, Belgique
 ORGANIZER;CN="Barbe L.";ROLE=Secrétaire:MAILTO:omnisportbierghes1995@gmai
  l.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J2: LUNETTE (LA) FC vs BRUSSELS LTC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20230916T120000Z
-DTEND;VALUE=DATE-TIME:20230916T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_4A_2_130_39
-DESCRIPTION:Terrain synthétique: non\nCode terrain: A09\n\nCouleur princi
- pale équipe domicile: Jaune et bleu\nCouleur principale équipe exterieur
- e: Bordeaux\n\nContact équipe domicile: Bonifazio R. (0488.31.38.10 - bon
- ifazio.raphael@gmail.com)\n\nAccès voiture : En venant de la Route de Len
- nik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre la direction du
-  cimetière d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-
- point prendre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'en
- trée du complexe et des terrains se situe à +/- 500 m. sur la gauche.\n\
- nVérifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER;CN="Bonifazio R.";ROLE=Secrétaire:MAILTO:bonifazio.raphael@gmai
- l.com
+SUMMARY:ABSSA D4A J2: MOUSSES TACHENT vs COPAINS REUNIS
+DTSTART;VALUE=DATE-TIME:20240914T133000Z
+DTEND;VALUE=DATE-TIME:20240914T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2024_4A_2_643_49
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: C02\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bl
+ eu foncé\n\nContact équipe domicile: Callant S (0478.61.90.26 - les.mous
+ ses.tachent@gmail.com)\n\nAccès voiture : Ring ouest: Direction Waterloo\
+ , prendre la sortie "butte du lion" \, prendre à droite\, puis au feu rou
+ ge prendre à droite\, rouler jusque Genappe et prendre la RN 25 en direct
+ ion de Wavre\, prendre la deuxième sortie (Court St. Etienne) et prendre 
+ à gauche\, le terrain se trouve à 1 km. a main droite.\nPar la E411: Pre
+ ndre la E411 direction Namur\, ensuite sortir a Wavre\, prendre ensuite la
+  sortie Villers-La-Ville\, ensuite à droite puis directement à gauche a 
+ l'arbre et descendre jusque dans le fond\, prendre a droite et le terrain 
+ se trouve à 500 m. a main gauche.\n\nVérifiez toujours ces infos sur htt
+ p://www.abssa.be/
+GEO:50.6417231;4.5547061
+LOCATION:Avenue des Combattants\, 1490 Court St. Etienne\, Belgique
+ORGANIZER;CN="Callant S";ROLE=Secrétaire:MAILTO:les.mousses.tachent@gmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J2: PIRATERIE (LA) vs TRICOTEUSES FC.
-DTSTART;VALUE=DATE-TIME:20230916T120000Z
-DTEND;VALUE=DATE-TIME:20230916T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_4A_2_652_617
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bordea
- ux\n\nContact équipe domicile: Cook Z (0497.25.56.22 - lapirateriefc@outl
- ook.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoroute Brux
- elles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le pon
- t de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au rond-p
- oint (Shopping Center)\, tourner à droite en direction de Wavre (petit ri
- ng de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point du S
- hopping Center)\, tourner à gauche \, rue de l'Industrie et pénétrer da
- ns le zoning. Au bout de la rue\, avant le feu de signalisation\, tourner 
- à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérifiez to
- ujours ces infos sur http://www.abssa.be/
-GEO:50.5963436;4.3564187
-LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER;CN="Cook Z";ROLE=Secrétaire:MAILTO:lapirateriefc@outlook.com
+SUMMARY:ABSSA D4A J2: BLUE THRILLS vs RAYO LATINO
+DTSTART;VALUE=DATE-TIME:20240914T133000Z
+DTEND;VALUE=DATE-TIME:20240914T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2024_4A_2_619_572
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
+ pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
+  Rouge et noir\n\nContact équipe domicile: De Briey A. (0479.858.374 - al
+ exdebriey@hotmail.fr)\n\nAccès voiture : Chaussée de Haecht\, vers Diege
+ m. Prendre la rue Harenheyde à gauche\, juste au feu de signalisation\, a
+ près la station "JET"\, situé à gauche. Entrée du stade par la rue Har
+ enheyde\, 100 m. au-delà du pont du chemin de fer.\n\nVérifiez toujours 
+ ces infos sur http://www.abssa.be/
+GEO:50.8928227;4.425372
+LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
+ORGANIZER;CN="De Briey A.";ROLE=Secrétaire:MAILTO:alexdebriey@hotmail.fr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J2: UCCLE STENDHAL vs BOUSVAL GENAPPE (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20230916T120000Z
-DTEND;VALUE=DATE-TIME:20230916T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_4A_2_214_401
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: U02\n\nCouleur princi
- pale équipe domicile: Rouge rayé de noir\nCouleur principale équipe ext
- erieure: Orange et bleu\n\nContact équipe domicile: Mathuren A. (0499.52.
- 56.54 - alainmathuren@yahoo.fr)\n\nAccès voiture : L'entrée se fait par 
- la rue du Zwartebeek.\nPar le ring\, prendre la sortie Drogenbos-Ruisbroek
- \, direction Uccle\, par la rue de Stalle prolongée.  Après le rond-poin
- t prendre la 1ère rue à gauche\, la chaussée de Neerstalle.\nEnsuite la
-  2ème rue à gauche\, rue du Zwartebeek\, l'entrée du complexe est situ
- ée à +/- 200 mètres sur la droite.\n\nVérifiez toujours ces infos sur 
- http://www.abssa.be/
-GEO:50.7970109;4.319077
-LOCATION:Leopold-Uccle\, Rue du Zwartebeek\, 1180 Uccle\, Belgique
-ORGANIZER;CN="Mathuren A.";ROLE=Secrétaire:MAILTO:alainmathuren@yahoo.fr
+SUMMARY:ABSSA D4A J2: WINCHESTER F.C. vs LUNETTE (LA) FC
+DTSTART;VALUE=DATE-TIME:20240914T133000Z
+DTEND;VALUE=DATE-TIME:20240914T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2024_4A_2_653_130
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
+ pale équipe domicile: Bleu et blanc\nCouleur principale équipe exterieur
+ e: Noir\n\nContact équipe domicile: Descheemaeker M. (0488.92.88.36 - win
+ chesterfc@outlook.com)\n\nAccès voiture : A partir de Bruxelles\, prendre
+  la E 411 en direction de Namur. Prendre la sortie N° 8 puis à droite la
+  bretelle pour la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Apr
+ ès +/- 6\,5 km\, au rond-point\, prendre la sortie 1 vers la N 420 Chée.
+  de la Libération\, puis à gauche dans la rue de la Grande lecke.\n\nVé
+ rifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.7540176;4.7835618
+LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
+ORGANIZER;CN="Descheemaeker M.";ROLE=Secrétaire:MAILTO:winchesterfc@outlo
+ ok.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J2: NEW INN FC (Eq. 4) vs EXTRANOS (LOS)
-DTSTART;VALUE=DATE-TIME:20230916T120000Z
-DTEND;VALUE=DATE-TIME:20230916T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_4A_2_359_569
-DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge 
- et Bleu\n\nContact équipe domicile: Cornil B. (0494.16.15.11 - bencornil@
- gmail.com)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute
-  Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viad
- uc prendre à droite\, l'avenue des Anciens Combattants. Juste après le c
- arrefour avec des feux de signalisation prendre à droite vers la Place de
-  la Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le 
- terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces infos
-  sur http://www.abssa.be/
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER;CN="Cornil B.";ROLE=Secrétaire:MAILTO:bencornil@gmail.com
+SUMMARY:ABSSA D4A J2: BRUSSELS LTC (Eq. 3) vs UNION FOXES CLUB
+DTSTART;VALUE=DATE-TIME:20240914T133000Z
+DTEND;VALUE=DATE-TIME:20240914T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2024_4A_2_39_669
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Or
+ ange et noir\n\nContact équipe domicile: Van Hacht O. (0475.96.43.03 - da
+ nnyboffin@hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre l
+ e Ring Est direction Waterloo. Sortir au pont de Groenendael\, direction L
+ a Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\,
+  toujours tout droit. Au feu de signalisation et le carrefour de La Hulpe\
+ , tout droit direction Genval. Au feu de signalisation prendre à gauche e
+ t ensuite directement à droite\, l'avenue Soyer\, derrière le G.B. Le te
+ rrain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.a
+ bssa.be/
+GEO:50.7308998;4.4944678
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:dannyboffin@hotmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J2: BLACK STAR GENVAL vs HELLAS BERCHEM FC.
-DTSTART;VALUE=DATE-TIME:20230916T133000Z
-DTEND;VALUE=DATE-TIME:20230916T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_4A_2_601_488
-DESCRIPTION:Terrain synthétique: non\nCode terrain: G01\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu\n
- \nContact équipe domicile: Van Bael J. (0479.36.69.79 - blackstargenval@g
- mail.com)\n\nAccès voiture : Prendre l'autoroute de Namur (E411)\, sortie
-  n° 4 - (Genval-Rosières). En bas de la sortie prendre la deuxième rue 
- à droite (rue de La Hulpe) direction "Genval - Maubroux". Au premier rond
-  point continuez à suivre la direction "Genval - Maubroux" (continuation 
- de la rue de La Hulpe). Au rond point suivant\, suivre toujours la directi
- on "Genval-Maubroux". Au troisième rond point (Café du Lac sur la gauche
- ) suivre toujours la direction "Genval-Maubroux" (3ème sortie - rue de Ge
- nval). Continuez tout droit jusqu'au feu de signalisation (Eglise de Genva
- l) et tourner à droite (Avenue Albert 1èr). Après +/- 800 mètres\, à 
- l'ancienne station service\, prendre à gauche et suivre la route (rue Jos
- eph Desmet) sur +/- 700 mètres\, puis tourner à droite\, rue du Tilleul 
- (panneau : Les Charmettes). Le terrain se trouve à environ 200 mètres su
- r la droite.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.724554;4.496792999999999
-LOCATION:Complexe du Tilleul\, Rue du Tilleul 50\, 1332 Genval (Rixensart)
- \, Belgique
-ORGANIZER;CN="Van Bael J.";ROLE=Secrétaire:MAILTO:blackstargenval@gmail.c
- om
+SUMMARY:ABSSA D4A J2: MACAPSULES (LES) vs FRIENDS SPIRIT AUD
+DTSTART;VALUE=DATE-TIME:20240914T133000Z
+DTEND;VALUE=DATE-TIME:20240914T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2024_4A_2_627_522
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
+ pale équipe domicile: Vert/blanc\nCouleur principale équipe exterieure: 
+ Vert\n\nContact équipe domicile: Daumont J. (0475.42.26.61 - macapsules@g
+ mail.com)\n\nAccès voiture : Autoroute E 411 direction Namur / Luxembourg
+ \, prendre la sortie n° 6 Wavre\, à gauche N 238 direction Wavre. Au ron
+ d-	point 2ième sortie N238/Blvd. de l'Europe direction Wavre Centre. Entr
+ er dans Wavre puis à gauche N 238\, à gauche N 239. 	Au rond-point prend
+ re la première sortie Rue Haute\, continuer sur rue de Bruxelles\, contin
+ uer sur rue Saint-Roch\, continuer 	sur rue Joseph Joppart. Prendre à dro
+ ite l'avenue du Centre Sportif.\n\nVérifiez toujours ces infos sur http:/
+ /www.abssa.be/
+GEO:50.72071949999999;4.617067899999999
+LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
+  Belgique
+ORGANIZER;CN="Daumont J.";ROLE=Secrétaire:MAILTO:macapsules@gmail.com
 END:VEVENT
 END:VCALENDAR

@@ -4,156 +4,29 @@ PRODID:345_3_goalois
 X-WR-CALDESC:Les matches du club GOALOIS (equipe 3) en ABSSA.
 X-WR-CALNAME:ABSSA: GOALOIS (eq. 3)
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J10: GOALOIS (Eq. 3) vs FORESTOIS SC (Eq. 5)
-DTSTART;VALUE=DATE-TIME:20230902T120000Z
-DTEND;VALUE=DATE-TIME:20230902T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_6B_10_345_152
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Blanc-Noir\nCouleur principale équipe exterieure: 
- Noir\n\nContact équipe domicile: Laruelle M. (0494.52.09.71 - martin.laru
- elle@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la ru
- e Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28
- ). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ces
-  infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/
- 345_3_goalois
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="Laruelle M.";ROLE=Secrétaire:MAILTO:martin.laruelle@gmail.c
- om
+SUMMARY:ABSSA D6B J23: BRUSSELS BRITISH R (Eq. 6) vs GOALOIS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20240831T120000Z
+DTEND;VALUE=DATE-TIME:20240831T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_6B_23_1_345
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Blanc
+ -Noir\n\nContact équipe domicile: O'Connor G (0456.54.46.67 - abssa-sec@r
+ bbfc.org)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières
+ . Passer devant l'église\, longer l'autoroute et tourner à droite au cim
+ etière des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur
+  http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/345_3_goal
+ ois
+GEO:50.7282426;4.5537189
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="O'Connor G";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J2: TRINQUANT (Eq. 2) vs GOALOIS (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20230916T120000Z
-DTEND;VALUE=DATE-TIME:20230916T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_6B_2_445_345
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
- pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
-  Blanc-Noir\n\nContact équipe domicile: Bernard J-M. (0476.66.08.14 - jmb
- ernard.trinquant@yahoo.fr)\n\nAccès voiture : Venant de Bruxelles\, prend
- re le Ring Est direction Waterloo. Sortir au pont de Groenendael\, directi
- on La Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La Hul
- pe\, toujours tout droit. Au feu de signalisation et le carrefour de La Hu
- lpe\, tout droit direction Genval. Au feu de signalisation prendre à gauc
- he et ensuite directement à droite\, l'avenue Soyer\, derrière le G.B. L
- e terrain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://w
- ww.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/345_3_goalois
-GEO:50.7309318;4.4945865
-LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER;CN="Bernard J-M.";ROLE=Secrétaire:MAILTO:jmbernard.trinquant@ya
- hoo.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J3: GOALOIS (Eq. 3) vs COSMOS BRUWOLF MJ (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20230923T120000Z
-DTEND;VALUE=DATE-TIME:20230923T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_6B_3_345_338
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Blanc-Noir\nCouleur principale équipe exterieure: 
- Orange et noir\n\nContact équipe domicile: Laruelle M. (0494.52.09.71 - m
- artin.laruelle@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, pre
- ndre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (termi
- nus bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez to
- ujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cala
- bssa.be/c/345_3_goalois
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="Laruelle M.";ROLE=Secrétaire:MAILTO:martin.laruelle@gmail.c
- om
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J4: ECUSSON FC vs GOALOIS (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20230930T133000Z
-DTEND;VALUE=DATE-TIME:20230930T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_6B_4_404_345
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
- pale équipe domicile: Jaune et Bleu\nCouleur principale équipe exterieur
- e: Blanc-Noir\n\nContact équipe domicile: Santoro M (0471.68.67.25 - domi
- sie@hotmail.be)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 
- 300 m. en direction de Lennik\, prendre à droite.\nVenant de la chaussée
-  de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, B
- ld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en di
- rection de Lennik.\n\nVérifiez toujours ces infos sur http://www.abssa.be
- /\nVoir sur calabssa: https://calabssa.be/c/345_3_goalois
-GEO:50.8177358;4.2557195
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER;CN="Santoro M";ROLE=Secrétaire:MAILTO:domisie@hotmail.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J5: GOALOIS (Eq. 3) vs AZUR RCS (Eq. 5)
-DTSTART;VALUE=DATE-TIME:20231007T120000Z
-DTEND;VALUE=DATE-TIME:20231007T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_6B_5_345_109
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Blanc-Noir\nCouleur principale équipe exterieure: 
- Bleu ciel\n\nContact équipe domicile: Laruelle M. (0494.52.09.71 - martin
- .laruelle@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre 
- la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus b
- us 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujour
- s ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.
- be/c/345_3_goalois
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="Laruelle M.";ROLE=Secrétaire:MAILTO:martin.laruelle@gmail.c
- om
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J6: BRAINE-TERMINUS FC (Eq. 2) vs GOALOIS (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20231014T113000Z
-DTEND;VALUE=DATE-TIME:20231014T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_6B_6_537_345
-DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
- pale équipe domicile: Jaune et rouge\nCouleur principale équipe exterieu
- re: Blanc-Noir\n\nContact équipe domicile: Dero G. (0479.81.83.27 - fcbra
- ineterminus@gmail.com)\n\nAccès voiture : En venant de Bruxelles : Autoro
- ute Tournai - Lille (A8)\, prendre la sortie n° 24\, direction Rebecq\, p
- uis la N 6 Bruxelles-Mons en direction de Mons. Entrer dans l'agglomérati
- on de Braine-Le-Comte et prendre la 1ère rue à droite\, le terrain se si
- tue au bout de la rue.\nEn venant de Nivelles : Prendre la N533\, Nivelles
- /Braine-Le-Comte. Entrer dans l'agglomération de Braine-Le-Comte et suivr
- e la direction de Bruxelles (N 6 Mons-Bruxelles)\, prendre la 1ère rue à
-  gauche\, le terrain se situe au bout de la rue.\n\nVérifiez toujours ces
-  infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/
- 345_3_goalois
-GEO:50.6193857;4.1352085
-LOCATION:Rue du Poseur 39\, 7090 Braine-Le-Comte\, Belgique
-ORGANIZER;CN="Dero G.";ROLE=Secrétaire:MAILTO:fcbraineterminus@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J8: GOALOIS (Eq. 3) vs PHARMA SC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20231021T120000Z
-DTEND;VALUE=DATE-TIME:20231021T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_6B_8_345_268
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Blanc-Noir\nCouleur principale équipe exterieure: 
- Vert\n\nContact équipe domicile: Laruelle M. (0494.52.09.71 - martin.laru
- elle@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la ru
- e Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28
- ). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ces
-  infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/
- 345_3_goalois
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="Laruelle M.";ROLE=Secrétaire:MAILTO:martin.laruelle@gmail.c
- om
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J24: GOALOIS (Eq. 3) vs AUDERGHEM R.CF
-DTSTART;VALUE=DATE-TIME:20231028T120000Z
-DTEND;VALUE=DATE-TIME:20231028T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_6B_24_345_72
+SUMMARY:ABSSA D6B J1: GOALOIS (Eq. 3) vs AZUR RCS (Eq. 5)
+DTSTART;VALUE=DATE-TIME:20240907T120000Z
+DTEND;VALUE=DATE-TIME:20240907T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_6B_1_345_109
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
  pale équipe domicile: Blanc-Noir\nCouleur principale équipe exterieure: 
  Bleu\n\nContact équipe domicile: Laruelle M. (0494.52.09.71 - martin.laru
@@ -169,11 +42,78 @@ ORGANIZER;CN="Laruelle M.";ROLE=Secrétaire:MAILTO:martin.laruelle@gmail.c
  om
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J7: NEW ARQUOIS FC (Eq. 3) vs GOALOIS (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20231104T143000Z
-DTEND;VALUE=DATE-TIME:20231104T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_6B_7_263_345
+SUMMARY:ABSSA D6B J2: TRINQUANT (Eq. 2) vs GOALOIS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20240914T120000Z
+DTEND;VALUE=DATE-TIME:20240914T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_6B_2_445_345
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Blanc-Noir\n\nContact équipe domicile: Bernard J-M. (0476.66.08.14 - jmb
+ ernard.trinquant@yahoo.fr)\n\nAccès voiture : Venant de Bruxelles\, prend
+ re le Ring Est direction Waterloo. Sortir au pont de Groenendael\, directi
+ on La Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La Hul
+ pe\, toujours tout droit. Au feu de signalisation et le carrefour de La Hu
+ lpe\, tout droit direction Genval. Au feu de signalisation prendre à gauc
+ he et ensuite directement à droite\, l'avenue Soyer\, derrière le G.B. L
+ e terrain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://w
+ ww.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/345_3_goalois
+GEO:50.7308998;4.4944678
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Bernard J-M.";ROLE=Secrétaire:MAILTO:jmbernard.trinquant@ya
+ hoo.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J3: GOALOIS (Eq. 3) vs IDEAL RANGERS R
+DTSTART;VALUE=DATE-TIME:20240921T120000Z
+DTEND;VALUE=DATE-TIME:20240921T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_6B_3_345_47
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Blanc-Noir\nCouleur principale équipe exterieure: 
+ Orange et Noir\n\nContact équipe domicile: Laruelle M. (0494.52.09.71 - m
+ artin.laruelle@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, pre
+ ndre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (termi
+ nus bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez to
+ ujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cala
+ bssa.be/c/345_3_goalois
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Laruelle M.";ROLE=Secrétaire:MAILTO:martin.laruelle@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J4: TUBIFOOT AS vs GOALOIS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20240928T133000Z
+DTEND;VALUE=DATE-TIME:20240928T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_6B_4_451_345
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: T06\n\nCouleur princi
+ pale équipe domicile: Jaune et Rouge\nCouleur principale équipe exterieu
+ re: Blanc-Noir\n\nContact équipe domicile: Girardo. M (0491.35.69.81 - as
+ tubifoot@gmail.com)\n\nAccès voiture : •En venant de Bruxelles : Prendr
+ e le RO en direction Mons-Bergen / Charleroi - prendre la sortie 21 et con
+ tinuer sur la E429 direction Lille/Rijsel. Prendre la sortie 23 Tubize / T
+ ubeke et continuer sur la chaussée d’Hondzocht . Passer 2  ronds point 
+ jusqu’à la chaussée de Bruxelles (N6)\, prendre à droite Rue de Bruxe
+ lles et traverser le centre de Tubize en direction de Braine-le-Comte : ru
+ e de Bruxelles et Chaussée de Mons. Aprè IPES\, prendre la première rue
+  à gauche (rue d’Atina) suivre le panneau cimetière-parc à container-
+ ferme Massart.  Continuer 10 m. jusqu’au parking du cimetière\, l’ent
+ rée du stade se trouve en face du parking.\n\nVérifiez toujours ces info
+ s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/345_3
+ _goalois
+GEO:50.683352;4.1953276
+LOCATION:Rue d'Atina \, 1480  Tubize\, Belgique
+ORGANIZER;CN="Girardo. M";ROLE=Secrétaire:MAILTO:astubifoot@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J5: NEW ARQUOIS FC (Eq. 3) vs GOALOIS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20241005T133000Z
+DTEND;VALUE=DATE-TIME:20241005T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_6B_5_263_345
 DESCRIPTION:Terrain synthétique: non\nCode terrain: A12\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc-
  Noir\n\nContact équipe domicile: Beka J-M. (0495.25.31.25 - jmbeka73@gmai
@@ -190,130 +130,14 @@ LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion\, 7181 Arquennes\, B
 ORGANIZER;CN="Beka J-M.";ROLE=Secrétaire:MAILTO:jmbeka73@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J9: COPAINS REUNIS (Eq. 2) vs GOALOIS (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20231118T143000Z
-DTEND;VALUE=DATE-TIME:20231118T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_6B_9_49_345
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
- pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
-  Blanc-Noir\n\nContact équipe domicile: Vandermeulen J. (0477.50.45.95 - 
- meulenj@hotmail.com)\n\nAccès voiture : En venant de la Route de Lennik (
- Citroën) ou de la Chaussée de Mons (Ikea)\, prendre la direction du cime
- tière d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-point
-  prendre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée
-  du complexe et des terrains se situe à +/- 500 m. sur la gauche.\n\nVér
- ifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: http
- s://calabssa.be/c/345_3_goalois
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER;CN="Vandermeulen J.";ROLE=Secrétaire:MAILTO:meulenj@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J12: GOALOIS (Eq. 3) vs ETTEKIJS (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20231125T130000Z
-DTEND;VALUE=DATE-TIME:20231125T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_6B_12_345_343
+SUMMARY:ABSSA D6B J6: GOALOIS (Eq. 3) vs CAMPOMAIORENSE SC
+DTSTART;VALUE=DATE-TIME:20241012T120000Z
+DTEND;VALUE=DATE-TIME:20241012T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_6B_6_345_467
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
  pale équipe domicile: Blanc-Noir\nCouleur principale équipe exterieure: 
- Noir rayé de blanc\n\nContact équipe domicile: Laruelle M. (0494.52.09.7
- 1 - martin.laruelle@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\
- , prendre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (
- terminus bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifi
- ez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:/
- /calabssa.be/c/345_3_goalois
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="Laruelle M.";ROLE=Secrétaire:MAILTO:martin.laruelle@gmail.c
- om
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J11: AUDERGHEM R.CF vs GOALOIS (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20231202T130000Z
-DTEND;VALUE=DATE-TIME:20231202T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_6B_11_72_345
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc-
- Noir\n\nContact équipe domicile: Pleck P. (0475.82.01.41 - ppleckson@hotm
- ail.com)\n\nAccès voiture : En venant de Bruxelles par la chaussée de Wa
- vre\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la 
- bande de droite pendant +/- 200 m. et descendre devant le bâtiment de l'A
- DEPS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le
-  terrain se trouve à 200 m. Le stade est fléché.\n\nVérifiez toujours 
- ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be
- /c/345_3_goalois
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER;CN="Pleck P.";ROLE=Secrétaire:MAILTO:ppleckson@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J13: CHIEFS WSL (Eq. 4) vs GOALOIS (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20231209T100000Z
-DTEND;VALUE=DATE-TIME:20231209T113000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_6B_13_303_345
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Blanc
- -Noir\n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan.be
- )\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, puis 
- la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce po
- nt le terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur htt
- p://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/345_3_goalois
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J15: GOALOIS (Eq. 3) vs TRINQUANT (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20240120T130000Z
-DTEND;VALUE=DATE-TIME:20240120T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_6B_15_345_445
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Blanc-Noir\nCouleur principale équipe exterieure: 
- Bleu marine\n\nContact équipe domicile: Laruelle M. (0494.52.09.71 - mart
- in.laruelle@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendr
- e la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus
-  bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujo
- urs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabss
- a.be/c/345_3_goalois
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="Laruelle M.";ROLE=Secrétaire:MAILTO:martin.laruelle@gmail.c
- om
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J16: COSMOS BRUWOLF MJ (Eq. 2) vs GOALOIS (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20240127T130000Z
-DTEND;VALUE=DATE-TIME:20240127T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_6B_16_338_345
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: M05\n\nCouleur princi
- pale équipe domicile: Orange et noir\nCouleur principale équipe exterieu
- re: Blanc-Noir\n\nContact équipe domicile: Dehaut A. (0476.26.26.87 - ala
- in.dehaut@skynet.be)\n\nAccès voiture : Chaussée de Gand\, avenue M. Gha
- ndi\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur cal
- abssa: https://calabssa.be/c/345_3_goalois
-GEO:50.861905;4.3220645
-LOCATION:Sippelberg\, Avenue M. Ghandi\, 1080 Molenbeek\, Belgique
-ORGANIZER;CN="Dehaut A.";ROLE=Secrétaire:MAILTO:alain.dehaut@skynet.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J17: GOALOIS (Eq. 3) vs ECUSSON FC
-DTSTART;VALUE=DATE-TIME:20240203T130000Z
-DTEND;VALUE=DATE-TIME:20240203T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_6B_17_345_404
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Blanc-Noir\nCouleur principale équipe exterieure: 
- Jaune et Bleu\n\nContact équipe domicile: Laruelle M. (0494.52.09.71 - ma
+ Vert et blanc\n\nContact équipe domicile: Laruelle M. (0494.52.09.71 - ma
  rtin.laruelle@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, pren
  dre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (termin
  us bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez tou
@@ -326,40 +150,40 @@ ORGANIZER;CN="Laruelle M.";ROLE=Secrétaire:MAILTO:martin.laruelle@gmail.c
  om
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J18: AZUR RCS (Eq. 5) vs GOALOIS (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20240210T140000Z
-DTEND;VALUE=DATE-TIME:20240210T153000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_6B_18_109_345
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W12\n\nCouleur princi
- pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: B
- lanc-Noir\n\nContact équipe domicile: Mad. Decamps N. (0477.27.39.66 - na
- thalie_decamps@hotmail.com)\n\nAccès voiture : Avenue de Tervuren\, direc
- tion Tervuren. Passé le boulevard du Souverain prendre à gauche au premi
- er feu de signalisation (Av. Madoux). Au feu de signalisation suivant pren
- dre la 2ème rue à main droite (Av. J. Dujardin). Ensuite 1ère rue à ga
- uche (Av. Salomé).\n\nVérifiez toujours ces infos sur http://www.abssa.b
- e/\nVoir sur calabssa: https://calabssa.be/c/345_3_goalois
-GEO:50.830818;4.455442
-LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
- elgique
-ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
- tmail.com
+SUMMARY:ABSSA D6B J25: ECUSSON FC vs GOALOIS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20241019T133000Z
+DTEND;VALUE=DATE-TIME:20241019T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_6B_25_404_345
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Jaune et Bleu\nCouleur principale équipe exterieur
+ e: Blanc-Noir\n\nContact équipe domicile: Mme. Mottar M. (0493.45.25.64 -
+  Melissa42@hotmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\,
+  après 300 m. en direction de Lennik\, prendre à droite.\nVenant de la c
+ haussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place V
+ erdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 
+ m. en direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.
+ abssa.be/\nVoir sur calabssa: https://calabssa.be/c/345_3_goalois
+GEO:50.8177358;4.2557195
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER;CN="Mme. Mottar M.";ROLE=Secrétaire:MAILTO:Melissa42@hotmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J19: GOALOIS (Eq. 3) vs BRAINE-TERMINUS FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20240217T130000Z
-DTEND;VALUE=DATE-TIME:20240217T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_6B_19_345_537
+SUMMARY:ABSSA D6B J26: GOALOIS (Eq. 3) vs COIN DU BALAI FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20241026T120000Z
+DTEND;VALUE=DATE-TIME:20241026T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_6B_26_345_229
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
  pale équipe domicile: Blanc-Noir\nCouleur principale équipe exterieure: 
- Jaune et rouge\n\nContact équipe domicile: Laruelle M. (0494.52.09.71 - m
- artin.laruelle@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, pre
- ndre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (termi
- nus bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez to
- ujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cala
- bssa.be/c/345_3_goalois
+ Bleu Marine\n\nContact équipe domicile: Laruelle M. (0494.52.09.71 - mart
+ in.laruelle@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendr
+ e la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus
+  bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujo
+ urs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabss
+ a.be/c/345_3_goalois
 GEO:50.8423054;4.445628699999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
@@ -367,31 +191,11 @@ ORGANIZER;CN="Laruelle M.";ROLE=Secrétaire:MAILTO:martin.laruelle@gmail.c
  om
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J26: GOALOIS (Eq. 3) vs CHIEFS WSL (Eq. 4)
-DTSTART;VALUE=DATE-TIME:20240224T130000Z
-DTEND;VALUE=DATE-TIME:20240224T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_6B_26_345_303
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Blanc-Noir\nCouleur principale équipe exterieure: 
- Blanc\n\nContact équipe domicile: Laruelle M. (0494.52.09.71 - martin.lar
- uelle@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la r
- ue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 2
- 8). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ce
- s infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c
- /345_3_goalois
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="Laruelle M.";ROLE=Secrétaire:MAILTO:martin.laruelle@gmail.c
- om
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J23: FORESTOIS SC (Eq. 5) vs GOALOIS (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20240302T130000Z
-DTEND;VALUE=DATE-TIME:20240302T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_6B_23_152_345
+SUMMARY:ABSSA D6B J7: FORESTOIS SC (Eq. 4) vs GOALOIS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20241102T130000Z
+DTEND;VALUE=DATE-TIME:20241102T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_6B_7_152_345
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
  pale équipe domicile: Noir\nCouleur principale équipe exterieure: Blanc-
  Noir\n\nContact équipe domicile: Janssens P. (0479.95.08.14 - patj.scf@gm
@@ -408,19 +212,19 @@ LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\,
 ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J20: GOALOIS (Eq. 3) vs NEW ARQUOIS FC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20240309T130000Z
-DTEND;VALUE=DATE-TIME:20240309T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_6B_20_345_263
+SUMMARY:ABSSA D6B J8: GOALOIS (Eq. 3) vs NIVELLES CS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20241109T130000Z
+DTEND;VALUE=DATE-TIME:20241109T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_6B_8_345_306
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
  pale équipe domicile: Blanc-Noir\nCouleur principale équipe exterieure: 
- Bleu\n\nContact équipe domicile: Laruelle M. (0494.52.09.71 - martin.laru
- elle@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la ru
- e Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28
- ). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ces
-  infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/
- 345_3_goalois
+ Orange fluo\n\nContact équipe domicile: Laruelle M. (0494.52.09.71 - mart
+ in.laruelle@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendr
+ e la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus
+  bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujo
+ urs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabss
+ a.be/c/345_3_goalois
 GEO:50.8423054;4.445628699999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
@@ -428,11 +232,11 @@ ORGANIZER;CN="Laruelle M.";ROLE=Secrétaire:MAILTO:martin.laruelle@gmail.c
  om
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J21: PHARMA SC (Eq. 3) vs GOALOIS (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20240316T123000Z
-DTEND;VALUE=DATE-TIME:20240316T140000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_6B_21_268_345
+SUMMARY:ABSSA D6B J9: PHARMA SC (Eq. 3) vs GOALOIS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20241116T123000Z
+DTEND;VALUE=DATE-TIME:20241116T140000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_6B_9_268_345
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
  pale équipe domicile: Vert\nCouleur principale équipe exterieure: Blanc-
  Noir\n\nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.dumi
@@ -448,14 +252,94 @@ ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
  e
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J22: GOALOIS (Eq. 3) vs COPAINS REUNIS (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20240323T130000Z
-DTEND;VALUE=DATE-TIME:20240323T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_6B_22_345_49
+SUMMARY:ABSSA D6B J12: GOALOIS (Eq. 3) vs ECUSSON FC
+DTSTART;VALUE=DATE-TIME:20241123T130000Z
+DTEND;VALUE=DATE-TIME:20241123T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_6B_12_345_404
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
  pale équipe domicile: Blanc-Noir\nCouleur principale équipe exterieure: 
- Bleu foncé\n\nContact équipe domicile: Laruelle M. (0494.52.09.71 - mart
+ Jaune et Bleu\n\nContact équipe domicile: Laruelle M. (0494.52.09.71 - ma
+ rtin.laruelle@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, pren
+ dre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (termin
+ us bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez tou
+ jours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calab
+ ssa.be/c/345_3_goalois
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Laruelle M.";ROLE=Secrétaire:MAILTO:martin.laruelle@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J10: GOALOIS (Eq. 3) vs BRUSSELS BRITISH R (Eq. 6)
+DTSTART;VALUE=DATE-TIME:20241207T130000Z
+DTEND;VALUE=DATE-TIME:20241207T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_6B_10_345_1
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Blanc-Noir\nCouleur principale équipe exterieure: 
+ Blanc\n\nContact équipe domicile: Laruelle M. (0494.52.09.71 - martin.lar
+ uelle@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la r
+ ue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 2
+ 8). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ce
+ s infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c
+ /345_3_goalois
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Laruelle M.";ROLE=Secrétaire:MAILTO:martin.laruelle@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J13: COIN DU BALAI FC (Eq. 2) vs GOALOIS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20241214T143000Z
+DTEND;VALUE=DATE-TIME:20241214T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_6B_13_229_345
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
+  Blanc-Noir\n\nContact équipe domicile: Rosenfeld J. (0485.05.40.06 - ros
+ enfeldjean@hotmail.com)\n\nAccès voiture : A partir du square des Archidu
+ cs\, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifi
+ ez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:/
+ /calabssa.be/c/345_3_goalois
+GEO:50.80645209999999;4.4087184
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Rosenfeld J.";ROLE=Secrétaire:MAILTO:rosenfeldjean@hotmail.
+ com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J14: AZUR RCS (Eq. 5) vs GOALOIS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20250111T123000Z
+DTEND;VALUE=DATE-TIME:20250111T140000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_6B_14_109_345
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W12\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc-
+ Noir\n\nContact équipe domicile: Mad. Decamps N. (0477.27.39.66 - nathali
+ e_decamps@hotmail.com)\n\nAccès voiture : Avenue de Tervuren\, direction 
+ Tervuren. Passé le boulevard du Souverain prendre à gauche au premier fe
+ u de signalisation (Av. Madoux). Au feu de signalisation suivant prendre l
+ a 2ème rue à main droite (Av. J. Dujardin). Ensuite 1ère rue à gauche 
+ (Av. Salomé).\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nV
+ oir sur calabssa: https://calabssa.be/c/345_3_goalois
+GEO:50.830818;4.455442
+LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
+ elgique
+ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
+ tmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J15: GOALOIS (Eq. 3) vs TRINQUANT (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20250118T130000Z
+DTEND;VALUE=DATE-TIME:20250118T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_6B_15_345_445
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Blanc-Noir\nCouleur principale équipe exterieure: 
+ Bleu marine\n\nContact équipe domicile: Laruelle M. (0494.52.09.71 - mart
  in.laruelle@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendr
  e la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus
   bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujo
@@ -468,21 +352,153 @@ ORGANIZER;CN="Laruelle M.";ROLE=Secrétaire:MAILTO:martin.laruelle@gmail.c
  om
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J25: ETTEKIJS (Eq. 3) vs GOALOIS (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20240406T120000Z
-DTEND;VALUE=DATE-TIME:20240406T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_6B_25_343_345
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
- pale équipe domicile: Noir rayé de blanc\nCouleur principale équipe ext
- erieure: Blanc-Noir\n\nContact équipe domicile: Raes F. (0479.73.82.49 - 
- freddy.raes@gmail.com)\n\nAccès voiture : A partir du square des Archiduc
- s\, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifie
- z toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://
- calabssa.be/c/345_3_goalois
-GEO:50.8059082;4.4137428
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
+SUMMARY:ABSSA D6B J16: IDEAL RANGERS R vs GOALOIS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20250125T143000Z
+DTEND;VALUE=DATE-TIME:20250125T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_6B_16_47_345
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: U04\n\nCouleur princi
+ pale équipe domicile: Orange et Noir\nCouleur principale équipe exterieu
+ re: Blanc-Noir\n\nContact équipe domicile: Simon A. (0477.87.83.33 - alai
+ n.si@skynet.be)\n\nAccès voiture : Par le Centre\, prendre la chaussée d
+ 'Alsemberg\, direction Alsemberg\, jusqu'à la gare d'Uccle-Calevoet. Suiv
+ re les rails du tram\, passer en dessous du pont du chemin de fer et au pr
+ emier feu de signalisation prendre à gauche\, la rue du Bourdon\, puis la
+  1ère rue à main gauche (rue des Bigarreaux)\, passer sous le pont du ch
+ emin de fer et puis 1ère rue à main gauche (le complexe est fléché).\n
+ Par le ring\, sortie Drogenbos-Ruisbroek\, prendre la direction Drogenbos 
+ Centre (Grote Baan)\, au premier feu de signalisation\, passée l'église\
+ , prendre à gauche\, la chaussée de Drogenbos\, jusqu'au bout\, puis tra
+ verser la chaussée d'Alsemberg et prendre immédiatement à droite\, la r
+ ue du Bourdon\, pour continuer comme renseigné ci-dessus.\n\nVérifiez to
+ ujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cala
+ bssa.be/c/345_3_goalois
+GEO:50.7833427;4.3345203
+LOCATION:Complexe Sportif de Ridder\, Rue des Griottes\, 1180 Uccle\, Belg
+ ique
+ORGANIZER;CN="Simon A.";ROLE=Secrétaire:MAILTO:alain.si@skynet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J17: GOALOIS (Eq. 3) vs TUBIFOOT AS
+DTSTART;VALUE=DATE-TIME:20250201T130000Z
+DTEND;VALUE=DATE-TIME:20250201T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_6B_17_345_451
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Blanc-Noir\nCouleur principale équipe exterieure: 
+ Jaune et Rouge\n\nContact équipe domicile: Laruelle M. (0494.52.09.71 - m
+ artin.laruelle@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, pre
+ ndre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (termi
+ nus bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez to
+ ujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cala
+ bssa.be/c/345_3_goalois
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Laruelle M.";ROLE=Secrétaire:MAILTO:martin.laruelle@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J18: GOALOIS (Eq. 3) vs NEW ARQUOIS FC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20250208T130000Z
+DTEND;VALUE=DATE-TIME:20250208T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_6B_18_345_263
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Blanc-Noir\nCouleur principale équipe exterieure: 
+ Bleu\n\nContact équipe domicile: Laruelle M. (0494.52.09.71 - martin.laru
+ elle@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la ru
+ e Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28
+ ). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ces
+  infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/
+ 345_3_goalois
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Laruelle M.";ROLE=Secrétaire:MAILTO:martin.laruelle@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J19: CAMPOMAIORENSE SC vs GOALOIS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20250215T143000Z
+DTEND;VALUE=DATE-TIME:20250215T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_6B_19_467_345
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W13\n\nCouleur princi
+ pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
+ e: Blanc-Noir\n\nContact équipe domicile: Cesar Paixao I. (0496.37.12.76 
+ - ivocp1@hotmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre
+  la rue Voot\, puis la chaussée de Stockel. Passer en dessous du petit po
+ nt et continuer la chaussée de Stockel pendant env. 500 m. Le terrain est
+  situé sur la droite de la chaussée.\n\nVérifiez toujours ces infos sur
+  http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/345_3_goal
+ ois
+GEO:50.8417148;4.4547744
+LOCATION:Chaussée de Stockel 376\, 1150 Woluwé-Saint-Pierre\, Belgique
+ORGANIZER;CN="Cesar Paixao I.";ROLE=Secrétaire:MAILTO:ivocp1@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J20: GOALOIS (Eq. 3) vs FORESTOIS SC (Eq. 4)
+DTSTART;VALUE=DATE-TIME:20250308T130000Z
+DTEND;VALUE=DATE-TIME:20250308T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_6B_20_345_152
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Blanc-Noir\nCouleur principale équipe exterieure: 
+ Noir\n\nContact équipe domicile: Laruelle M. (0494.52.09.71 - martin.laru
+ elle@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la ru
+ e Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28
+ ). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ces
+  infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/
+ 345_3_goalois
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Laruelle M.";ROLE=Secrétaire:MAILTO:martin.laruelle@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J21: NIVELLES CS (Eq. 2) vs GOALOIS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20250315T143000Z
+DTEND;VALUE=DATE-TIME:20250315T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_6B_21_306_345
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: Orange fluo\nCouleur principale équipe exterieure:
+  Blanc-Noir\n\nContact équipe domicile: Couteau A (0497.63.11.19 - coutea
+ u.arnold.00@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'
+ autoroute Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, pass
+ er sous le pont de l'autoroute et prendre la direction de Nivelles. A 200 
+ m.\, au rond-point (Shopping Center)\, tourner à droite en direction de W
+ avre (petit ring de Nivelles).\nAu 4ème rond-point (en tenant compte du r
+ ond-point du Shopping Center)\, tourner à gauche \, rue de l'Industrie et
+  pénétrer dans le zoning. Au bout de la rue\, avant le feu de signalisat
+ ion\, tourner à gauche et prendre la rue du Progrès pendant +/- 400 m.\n
+ \nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa
+ : https://calabssa.be/c/345_3_goalois
+GEO:50.5963705;4.3564539
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Couteau A";ROLE=Secrétaire:MAILTO:couteau.arnold.00@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J22: GOALOIS (Eq. 3) vs PHARMA SC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20250322T130000Z
+DTEND;VALUE=DATE-TIME:20250322T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_6B_22_345_268
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Blanc-Noir\nCouleur principale équipe exterieure: 
+ Vert\n\nContact équipe domicile: Laruelle M. (0494.52.09.71 - martin.laru
+ elle@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la ru
+ e Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28
+ ). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ces
+  infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/
+ 345_3_goalois
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Laruelle M.";ROLE=Secrétaire:MAILTO:martin.laruelle@gmail.c
+ om
 END:VEVENT
 END:VCALENDAR

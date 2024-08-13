@@ -4,34 +4,76 @@ PRODID:626_1_celtic_roosters
 X-WR-CALDESC:Les matches du club CELTIC ROOSTERS (equipe 1) en ABSSA.
 X-WR-CALNAME:ABSSA: CELTIC ROOSTERS (eq. 1)
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J10: CELTIC ROOSTERS vs ETTEKIJS (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20230902T133000Z
-DTEND;VALUE=DATE-TIME:20230902T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3D_10_626_343
+SUMMARY:ABSSA D3C J23: CELTIC ROOSTERS vs NIVELLES CS
+DTSTART;VALUE=DATE-TIME:20240831T133000Z
+DTEND;VALUE=DATE-TIME:20240831T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_3C_23_626_306
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
  pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
- e: Noir rayé de blanc\n\nContact équipe domicile: Dubois S. (0479.04.13.
- 70 - celticroosters@gmail.com)\n\nAccès voiture : Autoroute E 411 directi
- on Namur / Luxembourg\, prendre la sortie n° 6 Wavre\, à gauche N 238 di
- rection Wavre. Au rond-	point 2ième sortie N238/Blvd. de l'Europe directi
- on Wavre Centre. Entrer dans Wavre puis à gauche N 238\, à gauche N 239.
-  	Au rond-point prendre la première sortie Rue Haute\, continuer sur rue 
- de Bruxelles\, continuer sur rue Saint-Roch\, continuer 	sur rue Joseph Jo
- ppart. Prendre à droite l'avenue du Centre Sportif.\n\nVérifiez toujours
-  ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.b
- e/c/626_1_celtic_roosters
-GEO:50.7216297;4.6192566
+ e: noir et jaune\n\nContact équipe domicile: Dubois S. (0479.04.13.70 - c
+ elticroosters@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Nam
+ ur / Luxembourg\, prendre la sortie n° 6 Wavre\, à gauche N 238 directio
+ n Wavre. Au rond-	point 2ième sortie N238/Blvd. de l'Europe direction Wav
+ re Centre. Entrer dans Wavre puis à gauche N 238\, à gauche N 239. 	Au r
+ ond-point prendre la première sortie Rue Haute\, continuer sur rue de Bru
+ xelles\, continuer sur rue Saint-Roch\, continuer 	sur rue Joseph Joppart.
+  Prendre à droite l'avenue du Centre Sportif.\n\nVérifiez toujours ces i
+ nfos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/62
+ 6_1_celtic_roosters
+GEO:50.72071949999999;4.617067899999999
 LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
   Belgique
 ORGANIZER;CN="Dubois S.";ROLE=Secrétaire:MAILTO:celticroosters@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J1: CELTIC ROOSTERS vs MACCABI BXL
-DTSTART;VALUE=DATE-TIME:20230909T133000Z
-DTEND;VALUE=DATE-TIME:20230909T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3D_1_626_634
+SUMMARY:ABSSA D3C J1: CELTIC ROOSTERS vs GAST FC
+DTSTART;VALUE=DATE-TIME:20240907T133000Z
+DTEND;VALUE=DATE-TIME:20240907T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_3C_1_626_388
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
+ pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
+ e: Ligné Jaune et bleu\n\nContact équipe domicile: Dubois S. (0479.04.13
+ .70 - celticroosters@gmail.com)\n\nAccès voiture : Autoroute E 411 direct
+ ion Namur / Luxembourg\, prendre la sortie n° 6 Wavre\, à gauche N 238 d
+ irection Wavre. Au rond-	point 2ième sortie N238/Blvd. de l'Europe direct
+ ion Wavre Centre. Entrer dans Wavre puis à gauche N 238\, à gauche N 239
+ . 	Au rond-point prendre la première sortie Rue Haute\, continuer sur rue
+  de Bruxelles\, continuer sur rue Saint-Roch\, continuer 	sur rue Joseph J
+ oppart. Prendre à droite l'avenue du Centre Sportif.\n\nVérifiez toujour
+ s ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.
+ be/c/626_1_celtic_roosters
+GEO:50.72071949999999;4.617067899999999
+LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
+  Belgique
+ORGANIZER;CN="Dubois S.";ROLE=Secrétaire:MAILTO:celticroosters@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J2: RAPID TAMTAM FC. vs CELTIC ROOSTERS
+DTSTART;VALUE=DATE-TIME:20240914T120000Z
+DTEND;VALUE=DATE-TIME:20240914T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_3C_2_600_626
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Jaune et rose\nCouleur principale équipe exterieur
+ e: Vert et blanc\n\nContact équipe domicile: Barbay T. (0477.57.99.43 - f
+ crapidtamtam@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prend
+ re la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminu
+ s bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez touj
+ ours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabs
+ sa.be/c/626_1_celtic_roosters
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Barbay T.";ROLE=Secrétaire:MAILTO:fcrapidtamtam@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J3: CELTIC ROOSTERS vs PHARMA SC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240921T133000Z
+DTEND;VALUE=DATE-TIME:20240921T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_3C_3_626_268
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
  pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
  e: Bleu\n\nContact équipe domicile: Dubois S. (0479.04.13.70 - celticroos
@@ -44,125 +86,100 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
  à droite l'avenue du Centre Sportif.\n\nVérifiez toujours ces infos sur 
  http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/626_1_celti
  c_roosters
-GEO:50.7216297;4.6192566
+GEO:50.72071949999999;4.617067899999999
 LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
   Belgique
 ORGANIZER;CN="Dubois S.";ROLE=Secrétaire:MAILTO:celticroosters@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J2: NO BOYS vs CELTIC ROOSTERS
-DTSTART;VALUE=DATE-TIME:20230916T103000Z
-DTEND;VALUE=DATE-TIME:20230916T120000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3D_2_420_626
+SUMMARY:ABSSA D3C J4: ASTURIAS SPORTING vs CELTIC ROOSTERS
+DTSTART;VALUE=DATE-TIME:20240928T133000Z
+DTEND;VALUE=DATE-TIME:20240928T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_3C_4_602_626
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
- pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Vert 
- et blanc\n\nContact équipe domicile: Deby P. (0479.94.64.38 - pierredeby@
- gmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 300 m
- . en direction de Lennik\, prendre à droite.\nVenant de la chaussée de M
- ons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. T
- héo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en directi
- on de Lennik.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVo
- ir sur calabssa: https://calabssa.be/c/626_1_celtic_roosters
+ pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: V
+ ert et blanc\n\nContact équipe domicile: Stulens K. (0474.62.61.41 - kevi
+ n.stulens@live.be)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, apr
+ ès 300 m. en direction de Lennik\, prendre à droite.\nVenant de la chaus
+ sée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi
+ \, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. e
+ n direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.abss
+ a.be/\nVoir sur calabssa: https://calabssa.be/c/626_1_celtic_roosters
 GEO:50.8177358;4.2557195
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
-ORGANIZER;CN="Deby P.";ROLE=Secrétaire:MAILTO:pierredeby@gmail.com
+ORGANIZER;CN="Stulens K.";ROLE=Secrétaire:MAILTO:kevin.stulens@live.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J3: COPAINS REUNIS vs CELTIC ROOSTERS
-DTSTART;VALUE=DATE-TIME:20230923T133000Z
-DTEND;VALUE=DATE-TIME:20230923T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3D_3_49_626
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
- pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
-  Vert et blanc\n\nContact équipe domicile: Vandermeulen J. (0477.50.45.95
-  - meulenj@hotmail.com)\n\nAccès voiture : En venant de la Route de Lenni
- k (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre la direction du c
- imetière d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-po
- int prendre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entr
- ée du complexe et des terrains se situe à +/- 500 m. sur la gauche.\n\nV
- érifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: h
- ttps://calabssa.be/c/626_1_celtic_roosters
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER;CN="Vandermeulen J.";ROLE=Secrétaire:MAILTO:meulenj@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J4: CELTIC ROOSTERS vs COLO-COLO UNITED
-DTSTART;VALUE=DATE-TIME:20230930T133000Z
-DTEND;VALUE=DATE-TIME:20230930T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3D_4_626_625
+SUMMARY:ABSSA D3C J5: CELTIC ROOSTERS vs NEPTUNE FC
+DTSTART;VALUE=DATE-TIME:20241005T133000Z
+DTEND;VALUE=DATE-TIME:20241005T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_3C_5_626_56
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
  pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
- e: Bleu foncé et blanc\n\nContact équipe domicile: Dubois S. (0479.04.13
- .70 - celticroosters@gmail.com)\n\nAccès voiture : Autoroute E 411 direct
- ion Namur / Luxembourg\, prendre la sortie n° 6 Wavre\, à gauche N 238 d
- irection Wavre. Au rond-	point 2ième sortie N238/Blvd. de l'Europe direct
- ion Wavre Centre. Entrer dans Wavre puis à gauche N 238\, à gauche N 239
- . 	Au rond-point prendre la première sortie Rue Haute\, continuer sur rue
-  de Bruxelles\, continuer sur rue Saint-Roch\, continuer 	sur rue Joseph J
- oppart. Prendre à droite l'avenue du Centre Sportif.\n\nVérifiez toujour
- s ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.
- be/c/626_1_celtic_roosters
-GEO:50.7216297;4.6192566
+ e: Bleu\n\nContact équipe domicile: Dubois S. (0479.04.13.70 - celticroos
+ ters@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Namur / Luxe
+ mbourg\, prendre la sortie n° 6 Wavre\, à gauche N 238 direction Wavre. 
+ Au rond-	point 2ième sortie N238/Blvd. de l'Europe direction Wavre Centre
+ . Entrer dans Wavre puis à gauche N 238\, à gauche N 239. 	Au rond-point
+  prendre la première sortie Rue Haute\, continuer sur rue de Bruxelles\, 
+ continuer sur rue Saint-Roch\, continuer 	sur rue Joseph Joppart. Prendre 
+ à droite l'avenue du Centre Sportif.\n\nVérifiez toujours ces infos sur 
+ http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/626_1_celti
+ c_roosters
+GEO:50.72071949999999;4.617067899999999
 LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
   Belgique
 ORGANIZER;CN="Dubois S.";ROLE=Secrétaire:MAILTO:celticroosters@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J5: SYB  RFC vs CELTIC ROOSTERS
-DTSTART;VALUE=DATE-TIME:20231007T133000Z
-DTEND;VALUE=DATE-TIME:20231007T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3D_5_48_626
-DESCRIPTION:Terrain synthétique: non\nCode terrain: A09\n\nCouleur princi
- pale équipe domicile: Rayé Vert et blanc\nCouleur principale équipe ext
- erieure: Vert et blanc\n\nContact équipe domicile: Joie C (0496.87.21.50 
- - christophe.joie@hotmail.com)\n\nAccès voiture : En venant de la Route d
- e Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre la directi
- on du cimetière d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au 
- rond-point prendre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang).
-  L'entrée du complexe et des terrains se situe à +/- 500 m. sur la gauch
- e.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur cala
- bssa: https://calabssa.be/c/626_1_celtic_roosters
-GEO:50.8114933;4.2763364
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER;CN="Joie C";ROLE=Secrétaire:MAILTO:christophe.joie@hotmail.com
+SUMMARY:ABSSA D3C J6: ETTEKIJS vs CELTIC ROOSTERS
+DTSTART;VALUE=DATE-TIME:20241012T103000Z
+DTEND;VALUE=DATE-TIME:20241012T120000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_3C_6_343_626
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Vert e
+ t blanc\n\nContact équipe domicile: Raes F. (0479.73.82.49 - freddy.raes@
+ gmail.com)\n\nAccès voiture : A partir du square des Archiducs\, prendre 
+ la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez toujours c
+ es infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/
+ c/626_1_celtic_roosters
+GEO:50.80645209999999;4.4087184
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J6: CELTIC ROOSTERS vs RAPID MYMOL
-DTSTART;VALUE=DATE-TIME:20231014T133000Z
-DTEND;VALUE=DATE-TIME:20231014T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3D_6_626_622
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
- pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
- e: Bleu et Jaune\n\nContact équipe domicile: Dubois S. (0479.04.13.70 - c
- elticroosters@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Nam
- ur / Luxembourg\, prendre la sortie n° 6 Wavre\, à gauche N 238 directio
- n Wavre. Au rond-	point 2ième sortie N238/Blvd. de l'Europe direction Wav
- re Centre. Entrer dans Wavre puis à gauche N 238\, à gauche N 239. 	Au r
- ond-point prendre la première sortie Rue Haute\, continuer sur rue de Bru
- xelles\, continuer sur rue Saint-Roch\, continuer 	sur rue Joseph Joppart.
-  Prendre à droite l'avenue du Centre Sportif.\n\nVérifiez toujours ces i
- nfos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/62
- 6_1_celtic_roosters
-GEO:50.7216297;4.6192566
-LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
-  Belgique
-ORGANIZER;CN="Dubois S.";ROLE=Secrétaire:MAILTO:celticroosters@gmail.com
+SUMMARY:ABSSA D3C J25: NEW INN FC (Eq. 2) vs CELTIC ROOSTERS
+DTSTART;VALUE=DATE-TIME:20241019T133000Z
+DTEND;VALUE=DATE-TIME:20241019T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_3C_25_359_626
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Rose\nCouleur principale équipe exterieure: Vert e
+ t blanc\n\nContact équipe domicile: Van Brabant V (0474.60.68.96 - vanbra
+ bant.v@gmail.com)\n\nAccès voiture : Au départ de la Place Meiser\, l'au
+ toroute Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous 
+ le viaduc prendre à droite\, l'avenue des Anciens Combattants. Juste apr
+ ès le carrefour avec des feux de signalisation prendre à droite vers la 
+ Place de la Chapelle\, puis prendre la 4ème rue à main droite (rue au Bo
+ is). Le terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujours c
+ es infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/
+ c/626_1_celtic_roosters
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="Van Brabant V";ROLE=Secrétaire:MAILTO:vanbrabant.v@gmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J8: CELTIC ROOSTERS vs IRLANDE FC (Eq. 4)
-DTSTART;VALUE=DATE-TIME:20231021T133000Z
-DTEND;VALUE=DATE-TIME:20231021T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3D_8_626_402
+SUMMARY:ABSSA D3C J26: CELTIC ROOSTERS vs BXL ALLIANCE JETTE
+DTSTART;VALUE=DATE-TIME:20241026T133000Z
+DTEND;VALUE=DATE-TIME:20241026T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_3C_26_626_566
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
  pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
  e: Vert\n\nContact équipe domicile: Dubois S. (0479.04.13.70 - celticroos
@@ -175,20 +192,20 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
  à droite l'avenue du Centre Sportif.\n\nVérifiez toujours ces infos sur 
  http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/626_1_celti
  c_roosters
-GEO:50.7216297;4.6192566
+GEO:50.72071949999999;4.617067899999999
 LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
   Belgique
 ORGANIZER;CN="Dubois S.";ROLE=Secrétaire:MAILTO:celticroosters@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J24: CELTIC ROOSTERS vs NEW INN FC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20231028T133000Z
-DTEND;VALUE=DATE-TIME:20231028T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3D_24_626_359
+SUMMARY:ABSSA D3C J7: CELTIC ROOSTERS vs CENTRAL PARK FC
+DTSTART;VALUE=DATE-TIME:20241102T143000Z
+DTEND;VALUE=DATE-TIME:20241102T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_3C_7_626_562
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
  pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
- e: Noir et rouge\n\nContact équipe domicile: Dubois S. (0479.04.13.70 - c
+ e: Bleu et Blanc\n\nContact équipe domicile: Dubois S. (0479.04.13.70 - c
  elticroosters@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Nam
  ur / Luxembourg\, prendre la sortie n° 6 Wavre\, à gauche N 238 directio
  n Wavre. Au rond-	point 2ième sortie N238/Blvd. de l'Europe direction Wav
@@ -198,214 +215,42 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
   Prendre à droite l'avenue du Centre Sportif.\n\nVérifiez toujours ces i
  nfos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/62
  6_1_celtic_roosters
-GEO:50.7216297;4.6192566
+GEO:50.72071949999999;4.617067899999999
 LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
   Belgique
 ORGANIZER;CN="Dubois S.";ROLE=Secrétaire:MAILTO:celticroosters@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J7: NEW ARQUOIS FC (Eq. 2) vs CELTIC ROOSTERS
-DTSTART;VALUE=DATE-TIME:20231104T113000Z
-DTEND;VALUE=DATE-TIME:20231104T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3D_7_263_626
-DESCRIPTION:Terrain synthétique: non\nCode terrain: A12\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Vert e
- t blanc\n\nContact équipe domicile: Beka J-M. (0495.25.31.25 - jmbeka73@g
- mail.com)\n\nAccès voiture : Autoroute E 19 (Bruxelles-Charleroi)\, sorti
- e Arquennes. Direction Seneffe-La-Louvière. A la station d'essence Total\
- , prendre à droite pendant +/- 700 mètres.\nAu rond point\, prendre à d
- roite en direction du château de La Rocq\, passez sous le pont\, le terra
- in se trouve à 100 mètres (à proximité du cimetière).\n\nVérifiez to
- ujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cala
- bssa.be/c/626_1_celtic_roosters
-GEO:50.5690988;4.2677281
-LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion\, 7181 Arquennes\, B
- elgique
-ORGANIZER;CN="Beka J-M.";ROLE=Secrétaire:MAILTO:jmbeka73@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J9: SAINT GEORGES RCS (Eq. 2) vs CELTIC ROOSTERS
-DTSTART;VALUE=DATE-TIME:20231118T130000Z
-DTEND;VALUE=DATE-TIME:20231118T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3D_9_221_626
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+SUMMARY:ABSSA D3C J8: FRANGINOS (LOS) vs CELTIC ROOSTERS
+DTSTART;VALUE=DATE-TIME:20241109T140000Z
+DTEND;VALUE=DATE-TIME:20241109T153000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_3C_8_647_626
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: P02\n\nCouleur princi
  pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Vert 
- et blanc\n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.de
- stin@gmail.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"avenue 
- Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujours ces info
- s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/626_1
- _celtic_roosters
-GEO:50.8343279;4.4397562
-LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
- e\, Belgique
-ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J12: CELTIC ROOSTERS vs CHENOIS SC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20231125T143000Z
-DTEND;VALUE=DATE-TIME:20231125T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3D_12_626_84
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
- pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
- e: Rouge\n\nContact équipe domicile: Dubois S. (0479.04.13.70 - celticroo
- sters@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Namur / Lux
- embourg\, prendre la sortie n° 6 Wavre\, à gauche N 238 direction Wavre.
-  Au rond-	point 2ième sortie N238/Blvd. de l'Europe direction Wavre Centr
- e. Entrer dans Wavre puis à gauche N 238\, à gauche N 239. 	Au rond-poin
- t prendre la première sortie Rue Haute\, continuer sur rue de Bruxelles\,
-  continuer sur rue Saint-Roch\, continuer 	sur rue Joseph Joppart. Prendre
-  à droite l'avenue du Centre Sportif.\n\nVérifiez toujours ces infos sur
-  http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/626_1_celt
- ic_roosters
-GEO:50.7216297;4.6192566
-LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
-  Belgique
-ORGANIZER;CN="Dubois S.";ROLE=Secrétaire:MAILTO:celticroosters@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J11: NEW INN FC (Eq. 3) vs CELTIC ROOSTERS
-DTSTART;VALUE=DATE-TIME:20231202T143000Z
-DTEND;VALUE=DATE-TIME:20231202T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3D_11_359_626
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
- pale équipe domicile: Noir et rouge\nCouleur principale équipe exterieur
- e: Vert et blanc\n\nContact équipe domicile: Cornil B. (0494.16.15.11 - b
- encornil@gmail.com)\n\nAccès voiture : Au départ de la Place Meiser\, l'
- autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sou
- s le viaduc prendre à droite\, l'avenue des Anciens Combattants. Juste ap
- rès le carrefour avec des feux de signalisation prendre à droite vers la
-  Place de la Chapelle\, puis prendre la 4ème rue à main droite (rue au B
- ois). Le terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujours 
- ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be
- /c/626_1_celtic_roosters
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER;CN="Cornil B.";ROLE=Secrétaire:MAILTO:bencornil@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J13: BOUKS  FC vs CELTIC ROOSTERS
-DTSTART;VALUE=DATE-TIME:20231209T143000Z
-DTEND;VALUE=DATE-TIME:20231209T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3D_13_579_626
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Vert e
- t blanc\n\nContact équipe domicile: Schapira  F. (0485.60.96.01 - francoi
- s_schapira5@hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre
-  le Ring Est direction Waterloo. Sortir au pont de Groenendael\, direction
-  La Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe
- \, toujours tout droit. Au feu de signalisation et le carrefour de La Hulp
- e\, tout droit direction Genval. Au feu de signalisation prendre à gauche
-  et ensuite directement à droite\, l'avenue Soyer\, derrière le G.B. Le 
- terrain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www
+ et blanc\n\nContact équipe domicile: Gerard S. (0487.22.81.20 - simongera
+ rd@hotmail.be)\n\nAccès voiture : a Partir de Bruxelles\, Prendre la E 41
+ 1 en Direction de Namur. Prendre la Sortie 11  Gembloux pour Rejoindre la 
+ N 29 en Direction de Gembloux / Tirlement / Jodoigne / Perwez. suivre la N
+ 29 et Chaussée de Wavre (N243) en Direction de la Rue des Marronniers. au
+  Rond-Point 1\, 2 et 3 Prendre chaque Fois la première Sortie.\nAu Rond-P
+ oint suivant (4Ième) Prendre la deuxième Sortie et Continuer sur la Chau
+ ssée de Wavre / N 243. Prendre à Droite sur la Rue des Marronniers\, le 
+ Terrain se Trouve à Droite\n\nVérifiez toujours ces infos sur http://www
  .abssa.be/\nVoir sur calabssa: https://calabssa.be/c/626_1_celtic_roosters
-GEO:50.7309318;4.4945865
-LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER;CN="Schapira  F.";ROLE=Secrétaire:MAILTO:francois_schapira5@hot
- mail.com
+GEO:50.6429684;4.800823299999999
+LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
+ORGANIZER;CN="Gerard S.";ROLE=Secrétaire:MAILTO:simongerard@hotmail.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J14: MACCABI BXL vs CELTIC ROOSTERS
-DTSTART;VALUE=DATE-TIME:20240113T130000Z
-DTEND;VALUE=DATE-TIME:20240113T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3D_14_634_626
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Vert e
- t blanc\n\nContact équipe domicile: Goudsmit G (0472.77.57.89 - maccabibx
- l@gmail.com)\n\nAccès voiture : Au départ de la Place St. Denis à Fores
- t prendre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème 
- rue à droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère 
- à gauche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entr
- ée du Complexe se trouve à hauteur de City Cart\, à gauche de la route.
- \n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabs
- sa: https://calabssa.be/c/626_1_celtic_roosters
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER;CN="Goudsmit G";ROLE=Secrétaire:MAILTO:maccabibxl@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J15: CELTIC ROOSTERS vs NO BOYS
-DTSTART;VALUE=DATE-TIME:20240120T143000Z
-DTEND;VALUE=DATE-TIME:20240120T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3D_15_626_420
+SUMMARY:ABSSA D3C J9: CELTIC ROOSTERS vs BLEU-BLANC (ENT)R.
+DTSTART;VALUE=DATE-TIME:20241116T143000Z
+DTEND;VALUE=DATE-TIME:20241116T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_3C_9_626_53
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
  pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
- e: Jaune\n\nContact équipe domicile: Dubois S. (0479.04.13.70 - celticroo
- sters@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Namur / Lux
- embourg\, prendre la sortie n° 6 Wavre\, à gauche N 238 direction Wavre.
-  Au rond-	point 2ième sortie N238/Blvd. de l'Europe direction Wavre Centr
- e. Entrer dans Wavre puis à gauche N 238\, à gauche N 239. 	Au rond-poin
- t prendre la première sortie Rue Haute\, continuer sur rue de Bruxelles\,
-  continuer sur rue Saint-Roch\, continuer 	sur rue Joseph Joppart. Prendre
-  à droite l'avenue du Centre Sportif.\n\nVérifiez toujours ces infos sur
-  http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/626_1_celt
- ic_roosters
-GEO:50.7216297;4.6192566
-LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
-  Belgique
-ORGANIZER;CN="Dubois S.";ROLE=Secrétaire:MAILTO:celticroosters@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J16: CELTIC ROOSTERS vs COPAINS REUNIS
-DTSTART;VALUE=DATE-TIME:20240127T143000Z
-DTEND;VALUE=DATE-TIME:20240127T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3D_16_626_49
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
- pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
- e: Bleu foncé\n\nContact équipe domicile: Dubois S. (0479.04.13.70 - cel
- ticroosters@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Namur
-  / Luxembourg\, prendre la sortie n° 6 Wavre\, à gauche N 238 direction 
- Wavre. Au rond-	point 2ième sortie N238/Blvd. de l'Europe direction Wavre
-  Centre. Entrer dans Wavre puis à gauche N 238\, à gauche N 239. 	Au ron
- d-point prendre la première sortie Rue Haute\, continuer sur rue de Bruxe
- lles\, continuer sur rue Saint-Roch\, continuer 	sur rue Joseph Joppart. P
- rendre à droite l'avenue du Centre Sportif.\n\nVérifiez toujours ces inf
- os sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/626_
- 1_celtic_roosters
-GEO:50.7216297;4.6192566
-LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
-  Belgique
-ORGANIZER;CN="Dubois S.";ROLE=Secrétaire:MAILTO:celticroosters@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J17: COLO-COLO UNITED vs CELTIC ROOSTERS
-DTSTART;VALUE=DATE-TIME:20240203T113000Z
-DTEND;VALUE=DATE-TIME:20240203T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3D_17_625_626
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
- pale équipe domicile: Bleu foncé et blanc\nCouleur principale équipe ex
- terieure: Vert et blanc\n\nContact équipe domicile: De Le Court Y. (0472.
- 35.25.20 - youdelecourt@gmail.com)\n\nAccès voiture : Au départ de la Pl
- ace Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraain
- em (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anciens Combat
- tants. Juste après le carrefour avec des feux de signalisation prendre à
-  droite vers la Place de la Chapelle\, puis prendre la 4ème rue à main d
- roite (rue au Bois). Le terrain se trouve à 300 m. sur la droite.\n\nVér
- ifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: http
- s://calabssa.be/c/626_1_celtic_roosters
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER;CN="De Le Court Y.";ROLE=Secrétaire:MAILTO:youdelecourt@gmail.c
- om
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J18: CELTIC ROOSTERS vs SYB  RFC
-DTSTART;VALUE=DATE-TIME:20240210T143000Z
-DTEND;VALUE=DATE-TIME:20240210T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3D_18_626_48
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
- pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
- e: Rayé Vert et blanc\n\nContact équipe domicile: Dubois S. (0479.04.13.
+ e: Bleu rayé de Blanc\n\nContact équipe domicile: Dubois S. (0479.04.13.
  70 - celticroosters@gmail.com)\n\nAccès voiture : Autoroute E 411 directi
  on Namur / Luxembourg\, prendre la sortie n° 6 Wavre\, à gauche N 238 di
  rection Wavre. Au rond-	point 2ième sortie N238/Blvd. de l'Europe directi
@@ -415,128 +260,274 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
  ppart. Prendre à droite l'avenue du Centre Sportif.\n\nVérifiez toujours
   ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.b
  e/c/626_1_celtic_roosters
-GEO:50.7216297;4.6192566
+GEO:50.72071949999999;4.617067899999999
 LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
   Belgique
 ORGANIZER;CN="Dubois S.";ROLE=Secrétaire:MAILTO:celticroosters@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J19: RAPID MYMOL vs CELTIC ROOSTERS
-DTSTART;VALUE=DATE-TIME:20240217T130000Z
-DTEND;VALUE=DATE-TIME:20240217T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3D_19_622_626
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W19\n\nCouleur princi
- pale équipe domicile: Bleu et Jaune\nCouleur principale équipe exterieur
- e: Vert et blanc\n\nContact équipe domicile: Delanghe A. (0498.42.21.39 -
-  rapidmymolabssa@gmail.com)\n\nAccès voiture : Ring de Bruxelles (RO)\, s
- ortie n° 2. Prendre la direction Wezembeek-Oppem. Ensuite première rue 
- à droite (Louis Marcelisstraat) puis la troisième à droite (Sportpleins
- traat).\nL'entrée au terrain se trouve à gauche entre les n° 16 et 24.\
- nPar la ville : A partir du rond point Montgomery\, prendre l'Avenue de Br
- oqueville\, toujours tout droit. Passez devant le Shopping de Woluwé\, to
- ujours tout droit\, passez devant le magasin "Carrefour"\, puis au 2ème f
- eu de signalisation prendre à droite et ensuite tout droit. Au bout de la
-  rue prendre à droite\, le terrain se trouve à 100 mètres  sur la gauch
- e.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur cala
- bssa: https://calabssa.be/c/626_1_celtic_roosters
-GEO:50.8424578;4.486587999999999
-LOCATION:Sportpleinstraat 20\, 1970 Wezembeek - Oppem\, Belgique
-ORGANIZER;CN="Delanghe A.";ROLE=Secrétaire:MAILTO:rapidmymolabssa@gmail.c
+SUMMARY:ABSSA D3C J12: CELTIC ROOSTERS vs NEW INN FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20241123T143000Z
+DTEND;VALUE=DATE-TIME:20241123T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_3C_12_626_359
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
+ pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
+ e: Rose\n\nContact équipe domicile: Dubois S. (0479.04.13.70 - celticroos
+ ters@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Namur / Luxe
+ mbourg\, prendre la sortie n° 6 Wavre\, à gauche N 238 direction Wavre. 
+ Au rond-	point 2ième sortie N238/Blvd. de l'Europe direction Wavre Centre
+ . Entrer dans Wavre puis à gauche N 238\, à gauche N 239. 	Au rond-point
+  prendre la première sortie Rue Haute\, continuer sur rue de Bruxelles\, 
+ continuer sur rue Saint-Roch\, continuer 	sur rue Joseph Joppart. Prendre 
+ à droite l'avenue du Centre Sportif.\n\nVérifiez toujours ces infos sur 
+ http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/626_1_celti
+ c_roosters
+GEO:50.72071949999999;4.617067899999999
+LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
+  Belgique
+ORGANIZER;CN="Dubois S.";ROLE=Secrétaire:MAILTO:celticroosters@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J11: FOOT JOSAPHAT vs CELTIC ROOSTERS
+DTSTART;VALUE=DATE-TIME:20241130T140000Z
+DTEND;VALUE=DATE-TIME:20241130T153000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_3C_11_597_626
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
+ pale équipe domicile: Gris\nCouleur principale équipe exterieure: Vert e
+ t blanc\n\nContact équipe domicile: El Youssefi J. (0488.30.74.66 - jawad
+ .ely@hotmail.com)\n\nAccès voiture : Place Meiser\, descendre le boulevar
+ d Lambermont. Au 3ème feu de signalisation prendre à gauche\, puis la pr
+ emière à droite.\n\nVérifiez toujours ces infos sur http://www.abssa.be
+ /\nVoir sur calabssa: https://calabssa.be/c/626_1_celtic_roosters
+GEO:50.8666341;4.3823667
+LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
+ aerbeek\, Belgique
+ORGANIZER;CN="El Youssefi J.";ROLE=Secrétaire:MAILTO:jawad.ely@hotmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J10: NIVELLES CS vs CELTIC ROOSTERS
+DTSTART;VALUE=DATE-TIME:20241207T130000Z
+DTEND;VALUE=DATE-TIME:20241207T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_3C_10_306_626
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: noir et jaune\nCouleur principale équipe exterieur
+ e: Vert et blanc\n\nContact équipe domicile: Couteau A (0497.63.11.19 - c
+ outeau.arnold.00@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, p
+ ar l'autoroute Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\,
+  passer sous le pont de l'autoroute et prendre la direction de Nivelles. A
+  200 m.\, au rond-point (Shopping Center)\, tourner à droite en direction
+  de Wavre (petit ring de Nivelles).\nAu 4ème rond-point (en tenant compte
+  du rond-point du Shopping Center)\, tourner à gauche \, rue de l'Industr
+ ie et pénétrer dans le zoning. Au bout de la rue\, avant le feu de signa
+ lisation\, tourner à gauche et prendre la rue du Progrès pendant +/- 400
+  m.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur cal
+ abssa: https://calabssa.be/c/626_1_celtic_roosters
+GEO:50.5963705;4.3564539
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Couteau A";ROLE=Secrétaire:MAILTO:couteau.arnold.00@gmail.c
  om
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J26: CELTIC ROOSTERS vs BOUKS  FC
-DTSTART;VALUE=DATE-TIME:20240224T143000Z
-DTEND;VALUE=DATE-TIME:20240224T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3D_26_626_579
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
- pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
- e: Bleu\n\nContact équipe domicile: Dubois S. (0479.04.13.70 - celticroos
- ters@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Namur / Luxe
- mbourg\, prendre la sortie n° 6 Wavre\, à gauche N 238 direction Wavre. 
- Au rond-	point 2ième sortie N238/Blvd. de l'Europe direction Wavre Centre
- . Entrer dans Wavre puis à gauche N 238\, à gauche N 239. 	Au rond-point
-  prendre la première sortie Rue Haute\, continuer sur rue de Bruxelles\, 
- continuer sur rue Saint-Roch\, continuer 	sur rue Joseph Joppart. Prendre 
- à droite l'avenue du Centre Sportif.\n\nVérifiez toujours ces infos sur 
- http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/626_1_celti
- c_roosters
-GEO:50.7216297;4.6192566
-LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
-  Belgique
-ORGANIZER;CN="Dubois S.";ROLE=Secrétaire:MAILTO:celticroosters@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J23: ETTEKIJS (Eq. 2) vs CELTIC ROOSTERS
-DTSTART;VALUE=DATE-TIME:20240302T113000Z
-DTEND;VALUE=DATE-TIME:20240302T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3D_23_343_626
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
- pale équipe domicile: Noir rayé de blanc\nCouleur principale équipe ext
- erieure: Vert et blanc\n\nContact équipe domicile: Raes F. (0479.73.82.49
-  - freddy.raes@gmail.com)\n\nAccès voiture : A partir du square des Archi
- ducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVéri
- fiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https
- ://calabssa.be/c/626_1_celtic_roosters
-GEO:50.8059082;4.4137428
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J20: CELTIC ROOSTERS vs NEW ARQUOIS FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20240309T143000Z
-DTEND;VALUE=DATE-TIME:20240309T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3D_20_626_263
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
- pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
- e: Bleu\n\nContact équipe domicile: Dubois S. (0479.04.13.70 - celticroos
- ters@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Namur / Luxe
- mbourg\, prendre la sortie n° 6 Wavre\, à gauche N 238 direction Wavre. 
- Au rond-	point 2ième sortie N238/Blvd. de l'Europe direction Wavre Centre
- . Entrer dans Wavre puis à gauche N 238\, à gauche N 239. 	Au rond-point
-  prendre la première sortie Rue Haute\, continuer sur rue de Bruxelles\, 
- continuer sur rue Saint-Roch\, continuer 	sur rue Joseph Joppart. Prendre 
- à droite l'avenue du Centre Sportif.\n\nVérifiez toujours ces infos sur 
- http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/626_1_celti
- c_roosters
-GEO:50.7216297;4.6192566
-LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
-  Belgique
-ORGANIZER;CN="Dubois S.";ROLE=Secrétaire:MAILTO:celticroosters@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J21: IRLANDE FC (Eq. 4) vs CELTIC ROOSTERS
-DTSTART;VALUE=DATE-TIME:20240316T130000Z
-DTEND;VALUE=DATE-TIME:20240316T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3D_21_402_626
-DESCRIPTION:Terrain synthétique: non\nCode terrain: N04\n\nCouleur princi
+SUMMARY:ABSSA D3C J13: BXL ALLIANCE JETTE vs CELTIC ROOSTERS
+DTSTART;VALUE=DATE-TIME:20241214T130000Z
+DTEND;VALUE=DATE-TIME:20241214T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_3C_13_566_626
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
  pale équipe domicile: Vert\nCouleur principale équipe exterieure: Vert e
- t blanc\n\nContact équipe domicile: Bridoux J.F. (0455.12.12.65 - fci.sec
- retary.mens@outlook.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à
-  Nossegem\, au premier croisement prendre à gauche la \nMechelsesteenweg.
-  Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelle
- s-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Me
- chelsesteenweg\, traverser la chaussée de Louvain\, et suivre comme ci-av
- ant.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur ca
- labssa: https://calabssa.be/c/626_1_celtic_roosters
-GEO:50.88776559999999;4.50894
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER;CN="Bridoux J.F.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@out
- look.com
+ t blanc\n\nContact équipe domicile: Zaleski S. (0473.34.57.81 - zal.stan@
+ hotmail.com)\n\nAccès voiture : Direction cimetière de Jette\, ensuite p
+ rendre la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J
+ .J. Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces infos
+  sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/626_1_
+ celtic_roosters
+GEO:50.8868564;4.3286963
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
+ Belgique
+ORGANIZER;CN="Zaleski S.";ROLE=Secrétaire:MAILTO:zal.stan@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J22: CELTIC ROOSTERS vs SAINT GEORGES RCS (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20240323T143000Z
-DTEND;VALUE=DATE-TIME:20240323T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3D_22_626_221
+SUMMARY:ABSSA D3C J14: GAST FC vs CELTIC ROOSTERS
+DTSTART;VALUE=DATE-TIME:20250111T124500Z
+DTEND;VALUE=DATE-TIME:20250111T141500Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_3C_14_388_626
+DESCRIPTION:Terrain synthétique: non\nCode terrain: D01\n\nCouleur princi
+ pale équipe domicile: Ligné Jaune et bleu\nCouleur principale équipe ex
+ terieure: Vert et blanc\n\nContact équipe domicile: Clais D. (0476.99.88.
+ 10 - davidclais@hotmail.com)\n\nAccès voiture : Prendre l'Autoroute ou le
+  ring Bruxelles-Mons-Paris\, sortie Drogenbos. Prendre direction Drogenbos
+ -Centre\, passer devant la Maison Communale et le terminus du tram\, ensui
+ te à la 3ème rue tourner à main droite (Le terrain se trouve au bout de
+  la rue au Bois).\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+ \nVoir sur calabssa: https://calabssa.be/c/626_1_celtic_roosters
+GEO:50.7815061;4.3192196
+LOCATION:Stade Communal de Drogenbos\, Rue au Bois\, 1620 Drogenbos\, Belg
+ ique
+ORGANIZER;CN="Clais D.";ROLE=Secrétaire:MAILTO:davidclais@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J15: CELTIC ROOSTERS vs RAPID TAMTAM FC.
+DTSTART;VALUE=DATE-TIME:20250118T143000Z
+DTEND;VALUE=DATE-TIME:20250118T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_3C_15_626_600
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
+ pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
+ e: Jaune et rose\n\nContact équipe domicile: Dubois S. (0479.04.13.70 - c
+ elticroosters@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Nam
+ ur / Luxembourg\, prendre la sortie n° 6 Wavre\, à gauche N 238 directio
+ n Wavre. Au rond-	point 2ième sortie N238/Blvd. de l'Europe direction Wav
+ re Centre. Entrer dans Wavre puis à gauche N 238\, à gauche N 239. 	Au r
+ ond-point prendre la première sortie Rue Haute\, continuer sur rue de Bru
+ xelles\, continuer sur rue Saint-Roch\, continuer 	sur rue Joseph Joppart.
+  Prendre à droite l'avenue du Centre Sportif.\n\nVérifiez toujours ces i
+ nfos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/62
+ 6_1_celtic_roosters
+GEO:50.72071949999999;4.617067899999999
+LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
+  Belgique
+ORGANIZER;CN="Dubois S.";ROLE=Secrétaire:MAILTO:celticroosters@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J16: PHARMA SC (Eq. 2) vs CELTIC ROOSTERS
+DTSTART;VALUE=DATE-TIME:20250125T143000Z
+DTEND;VALUE=DATE-TIME:20250125T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_3C_16_268_626
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Vert e
+ t blanc\n\nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.d
+ umidi@scarlet.be)\n\nAccès voiture : Au départ de la Place St. Denis à 
+ Forest prendre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4
+ ème rue à droite) et dans la rue de la Soierie rouler env. 100 m. puis 1
+ ère à gauche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L
+ 'entrée du Complexe se trouve à hauteur de City Cart\, à gauche de la r
+ oute.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur c
+ alabssa: https://calabssa.be/c/626_1_celtic_roosters
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J17: CELTIC ROOSTERS vs ASTURIAS SPORTING
+DTSTART;VALUE=DATE-TIME:20250201T143000Z
+DTEND;VALUE=DATE-TIME:20250201T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_3C_17_626_602
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
+ pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
+ e: Bleu ciel\n\nContact équipe domicile: Dubois S. (0479.04.13.70 - celti
+ croosters@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Namur /
+  Luxembourg\, prendre la sortie n° 6 Wavre\, à gauche N 238 direction Wa
+ vre. Au rond-	point 2ième sortie N238/Blvd. de l'Europe direction Wavre C
+ entre. Entrer dans Wavre puis à gauche N 238\, à gauche N 239. 	Au rond-
+ point prendre la première sortie Rue Haute\, continuer sur rue de Bruxell
+ es\, continuer sur rue Saint-Roch\, continuer 	sur rue Joseph Joppart. Pre
+ ndre à droite l'avenue du Centre Sportif.\n\nVérifiez toujours ces infos
+  sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/626_1_
+ celtic_roosters
+GEO:50.72071949999999;4.617067899999999
+LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
+  Belgique
+ORGANIZER;CN="Dubois S.";ROLE=Secrétaire:MAILTO:celticroosters@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J18: NEPTUNE FC vs CELTIC ROOSTERS
+DTSTART;VALUE=DATE-TIME:20250208T143000Z
+DTEND;VALUE=DATE-TIME:20250208T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_3C_18_56_626
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Vert e
+ t blanc\n\nContact équipe domicile: Louies S. (0474.55.15.41 - louiesstep
+ hane@gmail.com)\n\nAccès voiture : Via la chaussée de Mons jusqu'à Veew
+ eyde (carrefour Fr. Van Kalken). Prendre à droite le boulevard  A. Briand
+  jusqu'à la Place Verdi\, puis le Bld. Théo Lambert.\n\nVérifiez toujou
+ rs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa
+ .be/c/626_1_celtic_roosters
+GEO:50.8275993;4.2964877
+LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Louies S.";ROLE=Secrétaire:MAILTO:louiesstephane@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J19: CELTIC ROOSTERS vs ETTEKIJS
+DTSTART;VALUE=DATE-TIME:20250215T143000Z
+DTEND;VALUE=DATE-TIME:20250215T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_3C_19_626_343
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
+ pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
+ e: Noir\n\nContact équipe domicile: Dubois S. (0479.04.13.70 - celticroos
+ ters@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Namur / Luxe
+ mbourg\, prendre la sortie n° 6 Wavre\, à gauche N 238 direction Wavre. 
+ Au rond-	point 2ième sortie N238/Blvd. de l'Europe direction Wavre Centre
+ . Entrer dans Wavre puis à gauche N 238\, à gauche N 239. 	Au rond-point
+  prendre la première sortie Rue Haute\, continuer sur rue de Bruxelles\, 
+ continuer sur rue Saint-Roch\, continuer 	sur rue Joseph Joppart. Prendre 
+ à droite l'avenue du Centre Sportif.\n\nVérifiez toujours ces infos sur 
+ http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/626_1_celti
+ c_roosters
+GEO:50.72071949999999;4.617067899999999
+LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
+  Belgique
+ORGANIZER;CN="Dubois S.";ROLE=Secrétaire:MAILTO:celticroosters@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J24: CELTIC ROOSTERS vs FOOT JOSAPHAT
+DTSTART;VALUE=DATE-TIME:20250222T143000Z
+DTEND;VALUE=DATE-TIME:20250222T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_3C_24_626_597
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
+ pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
+ e: Gris\n\nContact équipe domicile: Dubois S. (0479.04.13.70 - celticroos
+ ters@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Namur / Luxe
+ mbourg\, prendre la sortie n° 6 Wavre\, à gauche N 238 direction Wavre. 
+ Au rond-	point 2ième sortie N238/Blvd. de l'Europe direction Wavre Centre
+ . Entrer dans Wavre puis à gauche N 238\, à gauche N 239. 	Au rond-point
+  prendre la première sortie Rue Haute\, continuer sur rue de Bruxelles\, 
+ continuer sur rue Saint-Roch\, continuer 	sur rue Joseph Joppart. Prendre 
+ à droite l'avenue du Centre Sportif.\n\nVérifiez toujours ces infos sur 
+ http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/626_1_celti
+ c_roosters
+GEO:50.72071949999999;4.617067899999999
+LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
+  Belgique
+ORGANIZER;CN="Dubois S.";ROLE=Secrétaire:MAILTO:celticroosters@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J20: CENTRAL PARK FC vs CELTIC ROOSTERS
+DTSTART;VALUE=DATE-TIME:20250308T143000Z
+DTEND;VALUE=DATE-TIME:20250308T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_3C_20_562_626
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Bleu et Blanc\nCouleur principale équipe exterieur
+ e: Vert et blanc\n\nContact équipe domicile: Genot F. (0473.57.28.61 - ge
+ notflorian@hotmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prend
+ re la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminu
+ s bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez touj
+ ours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabs
+ sa.be/c/626_1_celtic_roosters
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J21: CELTIC ROOSTERS vs FRANGINOS (LOS)
+DTSTART;VALUE=DATE-TIME:20250315T143000Z
+DTEND;VALUE=DATE-TIME:20250315T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_3C_21_626_647
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
  pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
  e: Blanc\n\nContact équipe domicile: Dubois S. (0479.04.13.70 - celticroo
@@ -549,30 +540,28 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
   à droite l'avenue du Centre Sportif.\n\nVérifiez toujours ces infos sur
   http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/626_1_celt
  ic_roosters
-GEO:50.7216297;4.6192566
+GEO:50.72071949999999;4.617067899999999
 LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
   Belgique
 ORGANIZER;CN="Dubois S.";ROLE=Secrétaire:MAILTO:celticroosters@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J25: CHENOIS SC (Eq. 2) vs CELTIC ROOSTERS
-DTSTART;VALUE=DATE-TIME:20240406T113000Z
-DTEND;VALUE=DATE-TIME:20240406T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3D_25_84_626
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W02\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Vert 
- et blanc\n\nContact équipe domicile: Versmissen P. (0495.59.61.77 - sc.ch
- enois@waterloo.eu)\n\nAccès voiture : Venant d'Uccle\, prendre la chauss
- ée de Waterloo\, ensuite la chaussée de Bruxelles\, continuer jusqu'à l
- a place E. Vandevelde (intersection de la chaussée de Bruxelles avec la c
- haussée de Tervuren à Joli-Bois). Au feu de signalisation prendre à dro
- ite la chaussée Bara. Le terrain se trouve à droite à +/- 500 m.\n\nVé
- rifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: htt
- ps://calabssa.be/c/626_1_celtic_roosters
-GEO:50.701676;4.397567
-LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
-ORGANIZER;CN="Versmissen P.";ROLE=Secrétaire:MAILTO:sc.chenois@waterloo.e
- u
+SUMMARY:ABSSA D3C J22: BLEU-BLANC (ENT)R. vs CELTIC ROOSTERS
+DTSTART;VALUE=DATE-TIME:20250322T143000Z
+DTEND;VALUE=DATE-TIME:20250322T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_3C_22_53_626
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Bleu rayé de Blanc\nCouleur principale équipe ext
+ erieure: Vert et blanc\n\nContact équipe domicile: Mineur X. (0471.56.08.
+ 07 - josexavier.mineur@gmail.com)\n\nAccès voiture : Avenue de Tervuren\,
+  prendre l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez
+  toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://c
+ alabssa.be/c/626_1_celtic_roosters
+GEO:50.8333897;4.4384038
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Mineur X.";ROLE=Secrétaire:MAILTO:josexavier.mineur@gmail.c
+ om
 END:VEVENT
 END:VCALENDAR

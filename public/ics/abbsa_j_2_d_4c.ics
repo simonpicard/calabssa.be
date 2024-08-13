@@ -4,74 +4,47 @@ PRODID:abbsa_j_2_d_4c
 X-WR-CALDESC:Les matches de la journée 2 en divion 4C d'ABSSA.
 X-WR-CALNAME:D4C Journée 2
 BEGIN:VEVENT
-SUMMARY:ABSSA D4C J2: NIVELLOIS-ACLOT BS vs AZUR RCS (Eq. 4)
-DTSTART;VALUE=DATE-TIME:20230916T130000Z
-DTEND;VALUE=DATE-TIME:20230916T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_4C_2_503_109
-DESCRIPTION:Terrain synthétique: non\nCode terrain: N03\n\nCouleur princi
- pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
- e: Bleu ciel\n\nContact équipe domicile: Draux N. (0472.40.01.22 - ni.dra
- ux@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoroute
-  Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous l
- e pont de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au r
- ond-point (Shopping Center)\, tourner à droite en direction de Wavre (pet
- it ring de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point
-  du Shopping Center)\, tourner à gauche \, rue de l'Industrie et pénétr
- er dans le zoning. Au bout de la rue\, avant le feu de signalisation\, tou
- rner à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérifi
- ez toujours ces infos sur http://www.abssa.be/
-GEO:50.5963436;4.3564187
-LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER;CN="Draux N.";ROLE=Secrétaire:MAILTO:ni.draux@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4C J2: MACAPSULES (LES) vs WONG A.S. (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20230916T133000Z
-DTEND;VALUE=DATE-TIME:20230916T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_4C_2_627_523
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: C02\n\nCouleur princi
- pale équipe domicile: Vert/blanc\nCouleur principale équipe exterieure: 
- Jaune\n\nContact équipe domicile: Daumont J. (0475.42.26.61 - jordandaumo
- nt@gmail.com)\n\nAccès voiture : Ring ouest: Direction Waterloo\, prendre
-  la sortie "butte du lion" \, prendre à droite\, puis au feu rouge prendr
- e à droite\, rouler jusque Genappe et prendre la RN 25 en direction de Wa
- vre\, prendre la deuxième sortie (Court St. Etienne) et prendre à gauche
- \, le terrain se trouve à 1 km. a main droite.\nPar la E411: Prendre la E
- 411 direction Namur\, ensuite sortir a Wavre\, prendre ensuite la sortie V
- illers-La-Ville\, ensuite à droite puis directement à gauche a l'arbre e
- t descendre jusque dans le fond\, prendre a droite et le terrain se trouve
-  à 500 m. a main gauche.\n\nVérifiez toujours ces infos sur http://www.a
- bssa.be/
-GEO:50.6417231;4.5547061
-LOCATION:Avenue des Combattants\, 1490 Court St. Etienne\, Belgique
-ORGANIZER;CN="Daumont J.";ROLE=Secrétaire:MAILTO:jordandaumont@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4C J2: PATRONS (LES) vs FORESTOIS SC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20230916T133000Z
-DTEND;VALUE=DATE-TIME:20230916T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_4C_2_628_152
+SUMMARY:ABSSA D4C J2: BRITISH UNITED (Eq. 3) vs TIEKSS WEMMEL
+DTSTART;VALUE=DATE-TIME:20240914T103000Z
+DTEND;VALUE=DATE-TIME:20240914T120000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_4C_2_132_644
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Noir\
- n\nContact équipe domicile: Van Roey G. (0478.24.03.05 - lespatrons.fc@gm
- ail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\
- , puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avan
- t ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ces infos 
- sur http://www.abssa.be/
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gillesvanders
+ eypen@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la r
+ ue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 2
+ 8). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ce
+ s infos sur http://www.abssa.be/
 GEO:50.8423054;4.445628699999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
-ORGANIZER;CN="Van Roey G.";ROLE=Secrétaire:MAILTO:lespatrons.fc@gmail.com
+ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
+ gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4C J2: HELLAS BERCHEM FC. vs DUDEN SPORT R
+DTSTART;VALUE=DATE-TIME:20240914T110000Z
+DTEND;VALUE=DATE-TIME:20240914T123000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_4C_2_488_22
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S04\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Hadjianestis A. (0475.31.23.80 - fchellas@gmai
+ l.com)\n\nAccès voiture : A partir du boulevard Charles Quint à hauteur 
+ de Basilix Shopping Center\, prendre la rue des Châlets (Lusthuizenstraat
+ )\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8696433;4.2873126
+LOCATION:Parc J. Monnet\, Lusthuizenstraat 1\, 1080 Sint-Agatha-Berchem\, 
+ Belgique
+ORGANIZER;CN="Hadjianestis A.";ROLE=Secrétaire:MAILTO:fchellas@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABSSA D4C J2: BEEKINGS F.C. vs SNEAKY BABOONS
-DTSTART;VALUE=DATE-TIME:20230916T133000Z
-DTEND;VALUE=DATE-TIME:20230916T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_4C_2_648_641
+DTSTART;VALUE=DATE-TIME:20240914T113000Z
+DTEND;VALUE=DATE-TIME:20240914T130000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_4C_2_648_641
 DESCRIPTION:Terrain synthétique: non\nCode terrain: R03\n\nCouleur princi
  pale équipe domicile: Jaune et noir\nCouleur principale équipe exterieur
  e: Noir\n\nContact équipe domicile: Thonart W. (0475.96.36.63 - williamth
@@ -88,43 +61,81 @@ LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
 ORGANIZER;CN="Thonart W.";ROLE=Secrétaire:MAILTO:williamthonart@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4C J2: BRUSSELS LTC (Eq. 4) vs TIEKSS WEMMEL
-DTSTART;VALUE=DATE-TIME:20230916T133000Z
-DTEND;VALUE=DATE-TIME:20230916T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_4C_2_39_644
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
- pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: No
- ir\n\nContact équipe domicile: Van Hacht O. (0475.96.43.03 - brusselsltc@
- hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre le Ring Est
-  direction Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, 
- Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours 
- tout droit. Au feu de signalisation et le carrefour de La Hulpe\, tout dro
- it direction Genval. Au feu de signalisation prendre à gauche et ensuite 
- directement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se t
- rouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.7309318;4.4945865
-LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
- m
+SUMMARY:ABSSA D4C J2: PIRATERIE (LA) vs FRAUDES (LES)
+DTSTART;VALUE=DATE-TIME:20240914T120000Z
+DTEND;VALUE=DATE-TIME:20240914T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_4C_2_652_665
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir e
+ t blanc\n\nContact équipe domicile: Cook Z (0497.25.56.22 - lapirateriefc
+ @outlook.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoroute
+  Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous l
+ e pont de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au r
+ ond-point (Shopping Center)\, tourner à droite en direction de Wavre (pet
+ it ring de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point
+  du Shopping Center)\, tourner à gauche \, rue de l'Industrie et pénétr
+ er dans le zoning. Au bout de la rue\, avant le feu de signalisation\, tou
+ rner à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérifi
+ ez toujours ces infos sur http://www.abssa.be/
+GEO:50.5963705;4.3564539
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Cook Z";ROLE=Secrétaire:MAILTO:lapirateriefc@outlook.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4C J2: SPARTAK SYNERGY vs PICARDIE AS
-DTSTART;VALUE=DATE-TIME:20230916T133000Z
-DTEND;VALUE=DATE-TIME:20230916T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_4C_2_637_63
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: M07\n\nCouleur princi
- pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
- re: Bleu\n\nContact équipe domicile: Bailly N. (0491.16.78.27 - nm.bailly
- @gmail.com)\n\nAccès voiture : Ring de Bruxelles (RO)\, sortie Jette-Wemm
- el (n° 9)\, direction Merchtem. A Brussegem au carrefour Asse-Wolvertem\,
-  prendre direction Asse. Après l'église\, prendre la 1ère à main droit
- e (direction Mollem). Après 2 km. prendre la Kouterstraat qui se trouve j
- uste en face de l'église.\n\nVérifiez toujours ces infos sur http://www.
- abssa.be/
-GEO:50.9278393;4.2227906
-LOCATION:Kouter 29\, 1730 Mollem\, Belgique
-ORGANIZER;CN="Bailly N.";ROLE=Secrétaire:MAILTO:nm.bailly@gmail.com
+SUMMARY:ABSSA D4C J2: LORGNETTE (LA)  FC vs SPARTA SCHEUT
+DTSTART;VALUE=DATE-TIME:20240914T120000Z
+DTEND;VALUE=DATE-TIME:20240914T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_4C_2_392_340
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E07\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Or
+ ange\n\nContact équipe domicile: Van Der Linden A. (0485.19.06.92 - alexv
+ dl2000@yahoo.fr)\n\nAccès voiture : Boulevard Lambermont\, prendre le bou
+ levard Léopold III\, direction aéroport de Bruxelles-National\, au 3ème
+  feu de signalisation prendre à droite. le terrain se trouve à 50 m.\n\n
+ Vérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8691994;4.406709999999999
+LOCATION:Complexe Sportif Evere\, Avenue des Anciens Combattants 300\, 114
+ 0 Evere\, Belgique
+ORGANIZER;CN="Van Der Linden A.";ROLE=Secrétaire:MAILTO:alexvdl2000@yahoo
+ .fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4C J2: PANGLOSS FC vs PINK PANTHERS
+DTSTART;VALUE=DATE-TIME:20240914T120000Z
+DTEND;VALUE=DATE-TIME:20240914T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_4C_2_123_635
+DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Noir/
+  rose\n\nContact équipe domicile: De Paduwa P. (0475.67.06.50 - p.depaduw
+ a@gmail.com)\n\nAccès voiture : Au départ de la Place Meiser\, l'autorou
+ te Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le vi
+ aduc prendre à droite\, l'avenue des Anciens Combattants. Juste après le
+  carrefour avec des feux de signalisation prendre à droite vers la Place 
+ de la Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). L
+ e terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces inf
+ os sur http://www.abssa.be/
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="De Paduwa P.";ROLE=Secrétaire:MAILTO:p.depaduwa@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4C J2: SAINT GEORGES RCS (Eq. 2) vs INWENSSYS MOLDOVA
+DTSTART;VALUE=DATE-TIME:20240914T133000Z
+DTEND;VALUE=DATE-TIME:20240914T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
+UID:2024_4C_2_221_671
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Orang
+ e\n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.destin@gm
+ ail.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"avenue Parment
+ ier\, puis 1ère rue à main gauche.\n\nVérifiez toujours ces infos sur h
+ ttp://www.abssa.be/
+GEO:50.8333897;4.4384038
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
 END:VEVENT
 END:VCALENDAR

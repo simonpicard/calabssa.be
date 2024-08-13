@@ -4,61 +4,17 @@ PRODID:abbsa_j_12_d_6d
 X-WR-CALDESC:Les matches de la journée 12 en divion 6D d'ABSSA.
 X-WR-CALNAME:D6D Journée 12
 BEGIN:VEVENT
-SUMMARY:ABSSA D6D J12: NIVELLOIS-ACLOT BS (Eq. 2) vs OMNISPORT BIERGHES (E
- q. 2)
-DTSTART;VALUE=DATE-TIME:20231125T120000Z
-DTEND;VALUE=DATE-TIME:20231125T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_6D_12_503_455
-DESCRIPTION:Terrain synthétique: non\nCode terrain: N03\n\nCouleur princi
- pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
- e: Bordeaux\n\nContact équipe domicile: Draux N. (0472.40.01.22 - ni.drau
- x@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoroute 
- Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le
-  pont de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au ro
- nd-point (Shopping Center)\, tourner à droite en direction de Wavre (peti
- t ring de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point 
- du Shopping Center)\, tourner à gauche \, rue de l'Industrie et pénétre
- r dans le zoning. Au bout de la rue\, avant le feu de signalisation\, tour
- ner à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérifie
- z toujours ces infos sur http://www.abssa.be/
-GEO:50.5963436;4.3564187
-LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER;CN="Draux N.";ROLE=Secrétaire:MAILTO:ni.draux@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6D J12: HIGGINS-PUMAS (Eq. 3) vs MIREILLE WEMMEL (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20231125T130000Z
-DTEND;VALUE=DATE-TIME:20231125T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_6D_12_416_93
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
- pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
- erieure: Noir\n\nContact équipe domicile: De Biolley Ph. (0477.23.31.25 -
-  philippe.debiolley@gmail.com)\n\nAccès voiture : En venant de Bruxelles 
- par la chaussée de Wavre\, rejoindre le du début de l'autoroute Bruxelle
- s-Namur\, utiliser la bande de droite pendant +/- 200 m. et descendre deva
- nt le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (en desso
- us de l'autoroute). Le terrain se trouve à 200 m. Le stade est fléché.\
- n\nVérifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER;CN="De Biolley Ph.";ROLE=Secrétaire:MAILTO:philippe.debiolley@g
- mail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6D J12: LA LORRAINE-MTM.R (Eq. 3) vs CHOULE AUDERGHEM (Eq. 
- 6)
-DTSTART;VALUE=DATE-TIME:20231125T130000Z
-DTEND;VALUE=DATE-TIME:20231125T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_6D_12_44_517
+SUMMARY:ABSSA D6D J12: LA LORRAINE-MTM.R (Eq. 3) vs MIREILLE WEMMEL (Eq. 2
+ )
+DTSTART;VALUE=DATE-TIME:20241123T113000Z
+DTEND;VALUE=DATE-TIME:20241123T130000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2024_6D_12_44_93
 DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
- n\nContact équipe domicile: Degimbe M. (0478.53.63.56 - lalorrainefc@gmai
- l.com)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. P
- asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Degimbe M. (0478.53.63.56 - lalorrainefc@gmail
+ .com)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Pa
+ sser devant l'église\, longer l'autoroute et tourner à droite au cimeti
  ère des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur ht
  tp://www.abssa.be/
 GEO:50.7282426;4.5537189
@@ -66,70 +22,102 @@ LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
 ORGANIZER;CN="Degimbe M.";ROLE=Secrétaire:MAILTO:lalorrainefc@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6D J12: BRITISH UNITED (Eq. 6) vs JETTOISE (AMICALE)
-DTSTART;VALUE=DATE-TIME:20231125T130000Z
-DTEND;VALUE=DATE-TIME:20231125T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_6D_12_132_347
-DESCRIPTION:Terrain synthétique: non\nCode terrain: M02\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu e
- t blanc\n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gill
- esvanderseypen@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Anvers (
- E19) sortie Mechelen-Noord (n° 9) En arrivant dans le centre\, suivre la 
- direction "Heist-op-den-Berg" Aller tout droit et passer le viaduc du chem
- in de fer. Après 1 km. suivre les flèches "De Nekker". Garer les voiture
- s à l'extérieur du complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'
- au terrain.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
-GEO:51.0254354;4.503786799999999
-LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
- ue
+SUMMARY:ABSSA D6D J12: AEMA VETERANS vs ENTENTE  RACB (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20241123T123000Z
+DTEND;VALUE=DATE-TIME:20241123T140000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2024_6D_12_427_2
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
+ pale équipe domicile: Jaune et bleu\nCouleur principale équipe exterieur
+ e: Rouge\n\nContact équipe domicile: Van Ingelgom J. (0475.36.44.88 - van
+ ingelgom_w_j@hotmail.com)\n\nAccès voiture : Via la chaussée de Mons jus
+ qu'à Veeweyde (carrefour Fr. Van Kalken). Prendre à droite le boulevard 
+  A. Briand jusqu'à la Place Verdi\, puis le Bld. Théo Lambert.\n\nVérif
+ iez toujours ces infos sur http://www.abssa.be/
+GEO:50.8275993;4.2964877
+LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Van Ingelgom J.";ROLE=Secrétaire:MAILTO:vaningelgom_w_j@hot
+ mail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J12: BRITISH UNITED (Eq. 6) vs SAINT GEORGES RCS (Eq. 4)
+DTSTART;VALUE=DATE-TIME:20241123T130000Z
+DTEND;VALUE=DATE-TIME:20241123T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2024_6D_12_132_221
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gillesvander
+ seypen@gmail.com)\n\nAccès voiture : A partir de Bruxelles\, prendre la E
+  411 en direction de Namur. Prendre la sortie N° 8 puis à droite la bret
+ elle pour la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +
+ /- 6\,5 km\, au rond-point\, prendre la sortie 1 vers la N 420 Chée. de l
+ a Libération\, puis à gauche dans la rue de la Grande lecke.\n\nVérifie
+ z toujours ces infos sur http://www.abssa.be/
+GEO:50.7540176;4.7835618
+LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
 ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
  gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6D J12: STRING PENELOPE (Eq. 3) vs ANDERLECHT US
-DTSTART;VALUE=DATE-TIME:20231125T140000Z
-DTEND;VALUE=DATE-TIME:20231125T153000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_6D_12_181_280
-DESCRIPTION:Terrain synthétique: non\nCode terrain: O04\n\nCouleur princi
- pale équipe domicile: Orange\nCouleur principale équipe exterieure: Mauv
- e\n\nContact équipe domicile: Collignon T. (0474.89.84.20 - thom.colligno
- n@gmail.com)\n\nAccès voiture : Au départ de Bruxelles\, prendre l'autor
- oute E411 en direction de Namur. Prendre la sortie  Wavre ( n° 6) ensuite
-  à droite la N238 en direction d'Ottignies. Prendre la sortie Ottignies/L
- ouvain-La-Neuve (N237) et suivre la direction Ottignies. Passer sous les 2
-  ponts du chemin de fer et\, au feu de signalisation\, continuer tout droi
- t. Au feu suivant\, toujours tout droit par l'avenue des Combattants. Fran
- chir le passage protégé pour piétons (feu clignotant) et au feu de sign
- alisation suivant\, prendre à droite direction Ceroux-Mousty par la rue d
- es Coquerées. Le terrain se trouve sur la droite à env. 400 m. Au n° 50
- A \, panneau "Coca-Cola" l'entrée du centre sportif.\n\nVérifiez toujour
- s ces infos sur http://www.abssa.be/
-GEO:50.6630401;4.5569959
-LOCATION:Centre Sportif des Coquerees\, Rue des Coquerées 50A\, 1341 Otti
- gnies-Ceroux-Mousty\, Belgique
-ORGANIZER;CN="Collignon T.";ROLE=Secrétaire:MAILTO:thom.collignon@gmail.c
- om
+SUMMARY:ABSSA D6D J12: HIGGINS-PUMAS (Eq. 3) vs PANGLOSS FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20241123T130000Z
+DTEND;VALUE=DATE-TIME:20241123T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2024_6D_12_416_123
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
+ erieure: Rouge\n\nContact équipe domicile: De Biolley Ph. (0477.23.31.25 
+ - philippe.debiolley@gmail.com)\n\nAccès voiture : En venant de Bruxelles
+  par la chaussée de Wavre\, rejoindre le du début de l'autoroute Bruxell
+ es-Namur\, utiliser la bande de droite pendant +/- 200 m. et descendre dev
+ ant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (en dess
+ ous de l'autoroute). Le terrain se trouve à 200 m. Le stade est fléché.
+ \n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="De Biolley Ph.";ROLE=Secrétaire:MAILTO:philippe.debiolley@g
+ mail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6D J12: PANGLOSS FC (Eq. 2) vs AEMA VETERANS
-DTSTART;VALUE=DATE-TIME:20231125T143000Z
-DTEND;VALUE=DATE-TIME:20231125T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_6D_12_123_427
-DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Jaune 
- et bleu\n\nContact équipe domicile: De Paduwa P. (0475.67.06.50 - p.depad
- uwa@gmail.com)\n\nAccès voiture : Au départ de la Place Meiser\, l'autor
- oute Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le 
- viaduc prendre à droite\, l'avenue des Anciens Combattants. Juste après 
- le carrefour avec des feux de signalisation prendre à droite vers la Plac
- e de la Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois).
-  Le terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces i
- nfos sur http://www.abssa.be/
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER;CN="De Paduwa P.";ROLE=Secrétaire:MAILTO:p.depaduwa@gmail.com
+SUMMARY:ABSSA D6D J12: BRUSSELS LTC (Eq. 7) vs IRLANDE FC (Eq. 6)
+DTSTART;VALUE=DATE-TIME:20241123T143000Z
+DTEND;VALUE=DATE-TIME:20241123T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2024_6D_12_39_402
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Ve
+ rt\n\nContact équipe domicile: Van Hacht O. (0475.96.43.03 - dannyboffin@
+ hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre le Ring Est
+  direction Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, 
+ Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours 
+ tout droit. Au feu de signalisation et le carrefour de La Hulpe\, tout dro
+ it direction Genval. Au feu de signalisation prendre à gauche et ensuite 
+ directement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se t
+ rouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.7308998;4.4944678
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:dannyboffin@hotmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J12: WATERMAEL CS vs BOUSVAL GENAPPE (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20241123T143000Z
+DTEND;VALUE=DATE-TIME:20241123T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2024_6D_12_375_401
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: De Greve M. (0495.22.83.19 - micheldegreve08@
+ gmail.com)\n\nAccès voiture : A partir du square des Archiducs\, prendre 
+ la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez toujours c
+ es infos sur http://www.abssa.be/
+GEO:50.80645209999999;4.4087184
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="De Greve M.";ROLE=Secrétaire:MAILTO:micheldegreve08@gmail.c
+ om
 END:VEVENT
 END:VCALENDAR

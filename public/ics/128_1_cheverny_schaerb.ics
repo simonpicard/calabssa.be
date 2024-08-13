@@ -4,320 +4,317 @@ PRODID:128_1_cheverny_schaerb
 X-WR-CALDESC:Les matches du club CHEVERNY SCHAERB (equipe 1) en ABSSA.
 X-WR-CALNAME:ABSSA: CHEVERNY SCHAERB (eq. 1)
 BEGIN:VEVENT
-SUMMARY:ABSSA D5D J10: CHEVERNY SCHAERB vs POSTBOYS FC
-DTSTART;VALUE=DATE-TIME:20230902T120000Z
-DTEND;VALUE=DATE-TIME:20230902T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_5D_10_128_75
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
- pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Rouge
-  et noir\n\nContact équipe domicile: Bex V (0476.92.58.43 - vincentbex@gm
- ail.com)\n\nAccès voiture : Direction cimetière de Jette\, ensuite prend
- re la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. 
- Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur
-  http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/128_1_chev
- erny_schaerb
-GEO:50.8907643;4.3211209
+SUMMARY:ABSSA D5A J23: CHEVERNY SCHAERB vs SANSERIF FC
+DTSTART;VALUE=DATE-TIME:20240831T120000Z
+DTEND;VALUE=DATE-TIME:20240831T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_5A_23_128_657
+DESCRIPTION:Terrain synthétique: non\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Jaune & Noir\nCouleur principale équipe exterieure
+ : Bleu marine\n\nContact équipe domicile: Bex V (0476.92.58.43 - vincentb
+ ex@gmail.com)\n\nAccès voiture : Direction cimetière de Jette\, ensuite 
+ prendre la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue 
+ J.J. Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces info
+ s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/128_1
+ _cheverny_schaerb
+GEO:50.8868564;4.3286963
 LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
  Belgique
 ORGANIZER;CN="Bex V";ROLE=Secrétaire:MAILTO:vincentbex@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5D J1: FAUBOURG-BRAINOISE vs CHEVERNY SCHAERB
-DTSTART;VALUE=DATE-TIME:20230909T113000Z
-DTEND;VALUE=DATE-TIME:20230909T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_5D_1_100_128
-DESCRIPTION:Terrain synthétique: non\nCode terrain: B03\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Jaune
- \n\nContact équipe domicile: Herpain D. (0474.79.02.18 - daniel.herpain@s
- kynet.be)\n\nAccès voiture : En venant de Bruxelles\, emprunter la chauss
- ée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit carre
- four (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chaussée\, 
- au deuxième feu de signalisation\, prendre à droite\, le terrain se trou
- ve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur http://w
- ww.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/128_1_cheverny_scha
- erb
-GEO:50.6827211;4.3844421
-LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
- ud\, Belgique
-ORGANIZER;CN="Herpain D.";ROLE=Secrétaire:MAILTO:daniel.herpain@skynet.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5D J3: INWENSSYS MOLDOVA vs CHEVERNY SCHAERB
-DTSTART;VALUE=DATE-TIME:20230923T110000Z
-DTEND;VALUE=DATE-TIME:20230923T123000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_5D_3_671_128
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B13\n\nCouleur princi
- pale équipe domicile: Orange\nCouleur principale équipe exterieure: Jaun
- e\n\nContact équipe domicile: Simon M. (0484.88.58.77 - simionmarius670@g
- mail.com)\n\nAccès voiture : A partir du Ring de Bruxelles prendre la E 1
- 9 direction Paris.\nQuitter le Ring par la sortie 19\, prendre à gauche s
- ur Beerselsestraat\, après 900 m. prendre à gauche sur Lotsestraat\, apr
- ès 400 m. continuer sur Puttestraat\, puis prendre à droite sur Hoogstra
- at\, puis prendre à gauche sur Kerkveldstraat. Après prendre à droite s
- ur Schoolstraat\, le terrain se trouve sur la droite.\n\nVérifiez toujour
- s ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.
- be/c/128_1_cheverny_schaerb
-GEO:50.7667623;4.314169
-LOCATION:Schoolstraat 46\, 1650 Beersel\, Belgique
-ORGANIZER;CN="Simon M.";ROLE=Secrétaire:MAILTO:simionmarius670@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5D J4: CHEVERNY SCHAERB vs PORBENSPO F.C.
-DTSTART;VALUE=DATE-TIME:20230930T120000Z
-DTEND;VALUE=DATE-TIME:20230930T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_5D_4_128_667
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
- pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Bleu 
- et blanc\n\nContact équipe domicile: Bex V (0476.92.58.43 - vincentbex@gm
- ail.com)\n\nAccès voiture : Direction cimetière de Jette\, ensuite prend
- re la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. 
- Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur
-  http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/128_1_chev
- erny_schaerb
-GEO:50.8907643;4.3211209
-LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
- Belgique
-ORGANIZER;CN="Bex V";ROLE=Secrétaire:MAILTO:vincentbex@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5D J5: DEAF BRUSSELS FC vs CHEVERNY SCHAERB
-DTSTART;VALUE=DATE-TIME:20231007T133000Z
-DTEND;VALUE=DATE-TIME:20231007T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_5D_5_593_128
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
- pale équipe domicile: Vert et noir\nCouleur principale équipe exterieure
- : Jaune\n\nContact équipe domicile: Van Brandt S. (0494.24.34.05 (SMS) - 
- deaf.brussels.2011@gmail.com)\n\nAccès voiture : Chaussée de Haecht\, ve
- rs Diegem. Prendre la rue Harenheyde à gauche\, juste au feu de signalisa
- tion\, après la station "JET"\, situé à gauche. Entrée du stade par la
-  rue Harenheyde\, 100 m. au-delà du pont du chemin de fer.\n\nVérifiez t
- oujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cal
- abssa.be/c/128_1_cheverny_schaerb
-GEO:50.8929668;4.4236193
-LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
-ORGANIZER;CN="Van Brandt S.";ROLE=Secrétaire:MAILTO:deaf.brussels.2011@gm
- ail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5D J6: CHEVERNY SCHAERB vs PICARDIE AS (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20231014T120000Z
-DTEND;VALUE=DATE-TIME:20231014T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_5D_6_128_63
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
- pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Bleu 
- rayé de Rouge\n\nContact équipe domicile: Bex V (0476.92.58.43 - vincent
- bex@gmail.com)\n\nAccès voiture : Direction cimetière de Jette\, ensuite
-  prendre la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue
-  J.J. Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces inf
- os sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/128_
- 1_cheverny_schaerb
-GEO:50.8907643;4.3211209
-LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
- Belgique
-ORGANIZER;CN="Bex V";ROLE=Secrétaire:MAILTO:vincentbex@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5D J8: CHEVERNY SCHAERB vs CAFARD F.C.
-DTSTART;VALUE=DATE-TIME:20231021T120000Z
-DTEND;VALUE=DATE-TIME:20231021T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_5D_8_128_674
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
- pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Vert 
- et blanc\n\nContact équipe domicile: Bex V (0476.92.58.43 - vincentbex@gm
- ail.com)\n\nAccès voiture : Direction cimetière de Jette\, ensuite prend
- re la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. 
- Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur
-  http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/128_1_chev
- erny_schaerb
-GEO:50.8907643;4.3211209
-LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
- Belgique
-ORGANIZER;CN="Bex V";ROLE=Secrétaire:MAILTO:vincentbex@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5D J7: WINCHESTER F.C. vs CHEVERNY SCHAERB
-DTSTART;VALUE=DATE-TIME:20231104T143000Z
-DTEND;VALUE=DATE-TIME:20231104T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_5D_7_653_128
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
- pale équipe domicile: Bleu et blanc\nCouleur principale équipe exterieur
- e: Jaune\n\nContact équipe domicile: Descheemaeker M. (0488.92.88.36 - wi
- nchesterfc@outlook.com)\n\nAccès voiture : A partir de Bruxelles\, prendr
- e la E 411 en direction de Namur. Prendre la sortie N° 8 puis à droite l
- a bretelle pour la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Ap
- rès +/- 6\,5 km\, au rond-point\, prendre la sortie 1 vers la N 420 Chée
- . de la Libération\, puis à gauche dans la rue de la Grande lecke.\n\nV
+SUMMARY:ABSSA D5A J1: EFFETA FC vs CHEVERNY SCHAERB
+DTSTART;VALUE=DATE-TIME:20240907T133000Z
+DTEND;VALUE=DATE-TIME:20240907T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_5A_1_516_128
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E10\n\nCouleur princi
+ pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
+ e: Jaune & Noir\n\nContact équipe domicile: Eryuruk K. (0487.34.08.40 - e
+ ffetafc@gmail.com)\n\nAccès voiture : Prendre la chaussée de Louvain\, P
+ lace Meiser\, Place de Paduwa\, prendre ensuite la 2ème rue à droite\, l
+ ' Avenue des Communautés\, l'entrée au terrain est situé à 100 m.\n\nV
  érifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: h
  ttps://calabssa.be/c/128_1_cheverny_schaerb
-GEO:50.7540176;4.7835618
-LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
-ORGANIZER;CN="Descheemaeker M.";ROLE=Secrétaire:MAILTO:winchesterfc@outlo
- ok.com
+GEO:50.8582569;4.4251813
+LOCATION:Stade Communal G. Petre\, Avenue des Communautés\, 1140 Evere\, 
+ Belgique
+ORGANIZER;CN="Eryuruk K.";ROLE=Secrétaire:MAILTO:effetafc@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5D J9: CHIEFS WSL (Eq. 3) vs CHEVERNY SCHAERB
-DTSTART;VALUE=DATE-TIME:20231118T113000Z
-DTEND;VALUE=DATE-TIME:20231118T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_5D_9_303_128
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Jaune
- \n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan.be)\n\n
- Accès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, puis la ch
- aussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce pont le
-  terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur http://w
- ww.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/128_1_cheverny_scha
- erb
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5D J12: BRITISH UNITED (Eq. 4) vs CHEVERNY SCHAERB
-DTSTART;VALUE=DATE-TIME:20231125T120000Z
-DTEND;VALUE=DATE-TIME:20231125T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_5D_12_132_128
-DESCRIPTION:Terrain synthétique: non\nCode terrain: M02\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Jaune\
- n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gillesvander
- seypen@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Anvers (E19) sor
- tie Mechelen-Noord (n° 9) En arrivant dans le centre\, suivre la directio
- n "Heist-op-den-Berg" Aller tout droit et passer le viaduc du chemin de fe
- r. Après 1 km. suivre les flèches "De Nekker". Garer les voitures à l'e
- xtérieur du complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terra
- in.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur cal
- abssa: https://calabssa.be/c/128_1_cheverny_schaerb
-GEO:51.0254354;4.503786799999999
-LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
- ue
-ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
- gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5D J13: CHEVERNY SCHAERB vs CLAUDY F.C.
-DTSTART;VALUE=DATE-TIME:20231209T130000Z
-DTEND;VALUE=DATE-TIME:20231209T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_5D_13_128_678
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
- pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Noir\
- n\nContact équipe domicile: Bex V (0476.92.58.43 - vincentbex@gmail.com)\
- n\nAccès voiture : Direction cimetière de Jette\, ensuite prendre la rue
-  du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Crocq. Le
-  terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur http://w
- ww.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/128_1_cheverny_scha
- erb
-GEO:50.8907643;4.3211209
+SUMMARY:ABSSA D5A J2: CHEVERNY SCHAERB vs PICARDIE AS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20240914T120000Z
+DTEND;VALUE=DATE-TIME:20240914T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_5A_2_128_63
+DESCRIPTION:Terrain synthétique: non\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Jaune & Noir\nCouleur principale équipe exterieure
+ : Bleu rayé de Rouge\n\nContact équipe domicile: Bex V (0476.92.58.43 - 
+ vincentbex@gmail.com)\n\nAccès voiture : Direction cimetière de Jette\, 
+ ensuite prendre la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\,
+  avenue J.J. Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujours 
+ ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be
+ /c/128_1_cheverny_schaerb
+GEO:50.8868564;4.3286963
 LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
  Belgique
 ORGANIZER;CN="Bex V";ROLE=Secrétaire:MAILTO:vincentbex@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5D J14: CHEVERNY SCHAERB vs FAUBOURG-BRAINOISE
-DTSTART;VALUE=DATE-TIME:20240113T130000Z
-DTEND;VALUE=DATE-TIME:20240113T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_5D_14_128_100
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
- pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Rouge
- \n\nContact équipe domicile: Bex V (0476.92.58.43 - vincentbex@gmail.com)
- \n\nAccès voiture : Direction cimetière de Jette\, ensuite prendre la ru
- e du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Crocq. L
- e terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur http://
- www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/128_1_cheverny_sch
- aerb
-GEO:50.8907643;4.3211209
+SUMMARY:ABSSA D5A J3: CHEVERNY SCHAERB vs ELAN EVERE RAC
+DTSTART;VALUE=DATE-TIME:20240921T120000Z
+DTEND;VALUE=DATE-TIME:20240921T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_5A_3_128_7
+DESCRIPTION:Terrain synthétique: non\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Jaune & Noir\nCouleur principale équipe exterieure
+ : Rouge et blanc\n\nContact équipe domicile: Bex V (0476.92.58.43 - vince
+ ntbex@gmail.com)\n\nAccès voiture : Direction cimetière de Jette\, ensui
+ te prendre la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, aven
+ ue J.J. Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces i
+ nfos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/12
+ 8_1_cheverny_schaerb
+GEO:50.8868564;4.3286963
 LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
  Belgique
 ORGANIZER;CN="Bex V";ROLE=Secrétaire:MAILTO:vincentbex@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5D J16: CHEVERNY SCHAERB vs INWENSSYS MOLDOVA
-DTSTART;VALUE=DATE-TIME:20240127T130000Z
-DTEND;VALUE=DATE-TIME:20240127T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_5D_16_128_671
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
- pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Orang
- e\n\nContact équipe domicile: Bex V (0476.92.58.43 - vincentbex@gmail.com
- )\n\nAccès voiture : Direction cimetière de Jette\, ensuite prendre la r
- ue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Crocq. 
- Le terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur http:/
- /www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/128_1_cheverny_sc
- haerb
-GEO:50.8907643;4.3211209
+SUMMARY:ABSSA D5A J4: CHOULE AUDERGHEM (Eq. 3) vs CHEVERNY SCHAERB
+DTSTART;VALUE=DATE-TIME:20240928T103000Z
+DTEND;VALUE=DATE-TIME:20240928T120000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_5A_4_517_128
+DESCRIPTION:Terrain synthétique: non\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Rose\nCouleur principale équipe exterieure: Jaune 
+ & Noir\n\nContact équipe domicile: Vandenplas D. (0476.54.48.01 - dav_54@
+ hotmail.com)\n\nAccès voiture : En venant de Bruxelles par la chaussée d
+ e Wavre\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser
+  la bande de droite pendant +/- 200 m. et descendre devant le bâtiment de
+  l'ADEPS\, puis passer par le tunnel à gauche (en dessous de l'autoroute)
+ . Le terrain se trouve à 200 m. Le stade est fléché.\n\nVérifiez toujo
+ urs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabss
+ a.be/c/128_1_cheverny_schaerb
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J5: CHEVERNY SCHAERB vs WATERMAEL FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20241005T120000Z
+DTEND;VALUE=DATE-TIME:20241005T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_5A_5_128_611
+DESCRIPTION:Terrain synthétique: non\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Jaune & Noir\nCouleur principale équipe exterieure
+ : Bleu\n\nContact équipe domicile: Bex V (0476.92.58.43 - vincentbex@gmai
+ l.com)\n\nAccès voiture : Direction cimetière de Jette\, ensuite prendre
+  la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Cr
+ ocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur h
+ ttp://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/128_1_chever
+ ny_schaerb
+GEO:50.8868564;4.3286963
 LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
  Belgique
 ORGANIZER;CN="Bex V";ROLE=Secrétaire:MAILTO:vincentbex@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5D J17: PORBENSPO F.C. vs CHEVERNY SCHAERB
-DTSTART;VALUE=DATE-TIME:20240203T113000Z
-DTEND;VALUE=DATE-TIME:20240203T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_5D_17_667_128
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
- pale équipe domicile: Bleu et blanc\nCouleur principale équipe exterieur
- e: Jaune\n\nContact équipe domicile: Lopes Machado D. (0491.52.07.10 - pi
- istache@live.be)\n\nAccès voiture : En venant de Bruxelles\, par l'autoro
- ute Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sou
- s le pont de l'autoroute et prendre la direction de Nivelles. A 200 m.\, a
- u rond-point (Shopping Center)\, tourner à droite en direction de Wavre (
- petit ring de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-po
- int du Shopping Center)\, tourner à gauche \, rue de l'Industrie et pén
- étrer dans le zoning. Au bout de la rue\, avant le feu de signalisation\,
-  tourner à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVé
- rifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: htt
- ps://calabssa.be/c/128_1_cheverny_schaerb
-GEO:50.5963436;4.3564187
-LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER;CN="Lopes Machado D.";ROLE=Secrétaire:MAILTO:piistache@live.be
+SUMMARY:ABSSA D5A J6: MOYEN RFC vs CHEVERNY SCHAERB
+DTSTART;VALUE=DATE-TIME:20241012T133000Z
+DTEND;VALUE=DATE-TIME:20241012T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_5A_6_675_128
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Jaune
+  & Noir\n\nContact équipe domicile: Callant A. (0475.40.42.28 - rfcmoyen@
+ gmail.com)\n\nAccès voiture : Autoroute E 411 direction Namur / Luxembour
+ g\, prendre la sortie n° 6 Wavre\, à gauche N 238 direction Wavre. Au ro
+ nd-	point 2ième sortie N238/Blvd. de l'Europe direction Wavre Centre. Ent
+ rer dans Wavre puis à gauche N 238\, à gauche N 239. 	Au rond-point pren
+ dre la première sortie Rue Haute\, continuer sur rue de Bruxelles\, conti
+ nuer sur rue Saint-Roch\, continuer 	sur rue Joseph Joppart. Prendre à dr
+ oite l'avenue du Centre Sportif.\n\nVérifiez toujours ces infos sur http:
+ //www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/128_1_cheverny_s
+ chaerb
+GEO:50.72071949999999;4.617067899999999
+LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
+  Belgique
+ORGANIZER;CN="Callant A.";ROLE=Secrétaire:MAILTO:rfcmoyen@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5D J18: CHEVERNY SCHAERB vs DEAF BRUSSELS FC
-DTSTART;VALUE=DATE-TIME:20240210T130000Z
-DTEND;VALUE=DATE-TIME:20240210T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_5D_18_128_593
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
- pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Vert 
- et noir\n\nContact équipe domicile: Bex V (0476.92.58.43 - vincentbex@gma
+SUMMARY:ABSSA D5A J26: AZUR RCS (Eq. 4) vs CHEVERNY SCHAERB
+DTSTART;VALUE=DATE-TIME:20241026T100000Z
+DTEND;VALUE=DATE-TIME:20241026T113000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_5A_26_109_128
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W12\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Jaune 
+ & Noir\n\nContact équipe domicile: Mad. Decamps N. (0477.27.39.66 - natha
+ lie_decamps@hotmail.com)\n\nAccès voiture : Avenue de Tervuren\, directio
+ n Tervuren. Passé le boulevard du Souverain prendre à gauche au premier 
+ feu de signalisation (Av. Madoux). Au feu de signalisation suivant prendre
+  la 2ème rue à main droite (Av. J. Dujardin). Ensuite 1ère rue à gauch
+ e (Av. Salomé).\n\nVérifiez toujours ces infos sur http://www.abssa.be/\
+ nVoir sur calabssa: https://calabssa.be/c/128_1_cheverny_schaerb
+GEO:50.830818;4.455442
+LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
+ elgique
+ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
+ tmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J7: CHEVERNY SCHAERB vs PINTE BUZZ FC
+DTSTART;VALUE=DATE-TIME:20241102T130000Z
+DTEND;VALUE=DATE-TIME:20241102T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_5A_7_128_684
+DESCRIPTION:Terrain synthétique: non\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Jaune & Noir\nCouleur principale équipe exterieure
+ : Rouge\n\nContact équipe domicile: Bex V (0476.92.58.43 - vincentbex@gma
  il.com)\n\nAccès voiture : Direction cimetière de Jette\, ensuite prendr
  e la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. C
  rocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur 
  http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/128_1_cheve
  rny_schaerb
-GEO:50.8907643;4.3211209
+GEO:50.8868564;4.3286963
 LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
  Belgique
 ORGANIZER;CN="Bex V";ROLE=Secrétaire:MAILTO:vincentbex@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5D J19: PICARDIE AS (Eq. 2) vs CHEVERNY SCHAERB
-DTSTART;VALUE=DATE-TIME:20240217T133000Z
-DTEND;VALUE=DATE-TIME:20240217T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_5D_19_63_128
+SUMMARY:ABSSA D5A J8: PECHEUR F.C. vs CHEVERNY SCHAERB
+DTSTART;VALUE=DATE-TIME:20241109T143000Z
+DTEND;VALUE=DATE-TIME:20241109T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_5A_8_677_128
+DESCRIPTION:Terrain synthétique: non\nCode terrain: N04\n\nCouleur princi
+ pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
+ e: Jaune & Noir\n\nContact équipe domicile: Delannoy I. (0471.59.00.22 - 
+ ignace.delannoyc@gmail.com)\n\nAccès voiture : Chaussée de Louvain jusqu
+ 'à Nossegem\, au premier croisement prendre à gauche la \nMechelsesteenw
+ eg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxe
+ lles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la
+  Mechelsesteenweg\, traverser la chaussée de Louvain\, et suivre comme ci
+ -avant.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur
+  calabssa: https://calabssa.be/c/128_1_cheverny_schaerb
+GEO:50.88776559999999;4.50894
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER;CN="Delannoy I.";ROLE=Secrétaire:MAILTO:ignace.delannoyc@gmail.
+ com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J9: CHEVERNY SCHAERB vs PANTOUFLES FC
+DTSTART;VALUE=DATE-TIME:20241116T130000Z
+DTEND;VALUE=DATE-TIME:20241116T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_5A_9_128_428
+DESCRIPTION:Terrain synthétique: non\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Jaune & Noir\nCouleur principale équipe exterieure
+ : Bleu-Blanc\n\nContact équipe domicile: Bex V (0476.92.58.43 - vincentbe
+ x@gmail.com)\n\nAccès voiture : Direction cimetière de Jette\, ensuite p
+ rendre la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J
+ .J. Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces infos
+  sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/128_1_
+ cheverny_schaerb
+GEO:50.8868564;4.3286963
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
+ Belgique
+ORGANIZER;CN="Bex V";ROLE=Secrétaire:MAILTO:vincentbex@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J11: CHEVERNY SCHAERB vs BEA WOLUWE
+DTSTART;VALUE=DATE-TIME:20241130T130000Z
+DTEND;VALUE=DATE-TIME:20241130T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_5A_11_128_459
+DESCRIPTION:Terrain synthétique: non\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Jaune & Noir\nCouleur principale équipe exterieure
+ : Bleu foncé\n\nContact équipe domicile: Bex V (0476.92.58.43 - vincentb
+ ex@gmail.com)\n\nAccès voiture : Direction cimetière de Jette\, ensuite 
+ prendre la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue 
+ J.J. Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces info
+ s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/128_1
+ _cheverny_schaerb
+GEO:50.8868564;4.3286963
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
+ Belgique
+ORGANIZER;CN="Bex V";ROLE=Secrétaire:MAILTO:vincentbex@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J10: SANSERIF FC vs CHEVERNY SCHAERB
+DTSTART;VALUE=DATE-TIME:20241207T113000Z
+DTEND;VALUE=DATE-TIME:20241207T130000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_5A_10_657_128
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Jaune & Noir\n\nContact équipe domicile: Karpowicz A. (0493.16.46.10 - i
+ tsadonis0@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre 
+ la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus b
+ us 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujour
+ s ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.
+ be/c/128_1_cheverny_schaerb
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Karpowicz A.";ROLE=Secrétaire:MAILTO:itsadonis0@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J13: CHEVERNY SCHAERB vs AZUR RCS (Eq. 4)
+DTSTART;VALUE=DATE-TIME:20241214T130000Z
+DTEND;VALUE=DATE-TIME:20241214T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2024_5A_13_128_109
+DESCRIPTION:Terrain synthétique: non\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Jaune & Noir\nCouleur principale équipe exterieure
+ : Bleu\n\nContact équipe domicile: Bex V (0476.92.58.43 - vincentbex@gmai
+ l.com)\n\nAccès voiture : Direction cimetière de Jette\, ensuite prendre
+  la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Cr
+ ocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur h
+ ttp://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/128_1_chever
+ ny_schaerb
+GEO:50.8868564;4.3286963
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
+ Belgique
+ORGANIZER;CN="Bex V";ROLE=Secrétaire:MAILTO:vincentbex@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J14: CHEVERNY SCHAERB vs EFFETA FC
+DTSTART;VALUE=DATE-TIME:20250111T130000Z
+DTEND;VALUE=DATE-TIME:20250111T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_5A_14_128_516
+DESCRIPTION:Terrain synthétique: non\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Jaune & Noir\nCouleur principale équipe exterieure
+ : Rouge et noir\n\nContact équipe domicile: Bex V (0476.92.58.43 - vincen
+ tbex@gmail.com)\n\nAccès voiture : Direction cimetière de Jette\, ensuit
+ e prendre la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenu
+ e J.J. Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces in
+ fos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/128
+ _1_cheverny_schaerb
+GEO:50.8868564;4.3286963
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
+ Belgique
+ORGANIZER;CN="Bex V";ROLE=Secrétaire:MAILTO:vincentbex@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J15: PICARDIE AS (Eq. 2) vs CHEVERNY SCHAERB
+DTSTART;VALUE=DATE-TIME:20250118T140000Z
+DTEND;VALUE=DATE-TIME:20250118T153000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_5A_15_63_128
 DESCRIPTION:Terrain synthétique: non\nCode terrain: B03\n\nCouleur princi
  pale équipe domicile: Bleu rayé de Rouge\nCouleur principale équipe ext
- erieure: Jaune\n\nContact équipe domicile: Coopmans R. (0474.42.47.29 - c
- oopmans_roland@yahoo.fr)\n\nAccès voiture : En venant de Bruxelles\, empr
- unter la chaussée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour
- ". Au dit carrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur cet
- te chaussée\, au deuxième feu de signalisation\, prendre à droite\, le 
- terrain se trouve à 500 m. et est fléché.\n\nVérifiez toujours ces inf
- os sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/128_
- 1_cheverny_schaerb
+ erieure: Jaune & Noir\n\nContact équipe domicile: Coopmans R. (0474.42.47
+ .29 - coopmans_roland@yahoo.fr)\n\nAccès voiture : En venant de Bruxelles
+ \, emprunter la chaussée de Bruxelles ou de Waterloo jusqu'au magasin "Ca
+ rrefour". Au dit carrefour (Mont-St.-Jean) prendre la direction Nivelles. 
+ Sur cette chaussée\, au deuxième feu de signalisation\, prendre à droit
+ e\, le terrain se trouve à 500 m. et est fléché.\n\nVérifiez toujours 
+ ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be
+ /c/128_1_cheverny_schaerb
 GEO:50.6827211;4.3844421
 LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
  ud\, Belgique
@@ -325,122 +322,157 @@ ORGANIZER;CN="Coopmans R.";ROLE=Secrétaire:MAILTO:coopmans_roland@yahoo.f
  r
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5D J26: CLAUDY F.C. vs CHEVERNY SCHAERB
-DTSTART;VALUE=DATE-TIME:20240224T113000Z
-DTEND;VALUE=DATE-TIME:20240224T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_5D_26_678_128
-DESCRIPTION:Terrain synthétique: non\nCode terrain: N04\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Jaune\
- n\nContact équipe domicile: De Spirlet R. (470.43.29.45 - rod.de.spirlet@
- gmail.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à Nossegem\, au
-  premier croisement prendre à gauche la \nMechelsesteenweg. Le terrain es
- t indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\, pre
- ndre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelsesteenweg
- \, traverser la chaussée de Louvain\, et suivre comme ci-avant.\n\nVérif
- iez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:
- //calabssa.be/c/128_1_cheverny_schaerb
-GEO:50.88776559999999;4.50894
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER;CN="De Spirlet R.";ROLE=Secrétaire:MAILTO:rod.de.spirlet@gmail.
- com
+SUMMARY:ABSSA D5A J16: ELAN EVERE RAC vs CHEVERNY SCHAERB
+DTSTART;VALUE=DATE-TIME:20250125T120000Z
+DTEND;VALUE=DATE-TIME:20250125T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_5A_16_7_128
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E08\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
+ re: Jaune & Noir\n\nContact équipe domicile: Dubois J-J. (0486.47.10.49 -
+  jjdubois58@gmail.com)\n\nAccès voiture : Le terrain se trouve derrière 
+ l'église St. Vincent\n\nVérifiez toujours ces infos sur http://www.abssa
+ .be/\nVoir sur calabssa: https://calabssa.be/c/128_1_cheverny_schaerb
+GEO:50.8803867;4.4003168
+LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue Stroobants 75\, 1140 Evere\,
+  Belgique
+ORGANIZER;CN="Dubois J-J.";ROLE=Secrétaire:MAILTO:jjdubois58@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5D J23: POSTBOYS FC vs CHEVERNY SCHAERB
-DTSTART;VALUE=DATE-TIME:20240302T130000Z
-DTEND;VALUE=DATE-TIME:20240302T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_5D_23_75_128
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
- pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
- e: Jaune\n\nContact équipe domicile: Burquel J-M. (0498.05.90.57 - postbo
- ys@gmail.com)\n\nAccès voiture : Direction cimetière de Jette\, ensuite 
- prendre la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue 
- J.J. Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces info
- s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/128_1
- _cheverny_schaerb
-GEO:50.8907643;4.3211209
-LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
- Belgique
-ORGANIZER;CN="Burquel J-M.";ROLE=Secrétaire:MAILTO:postboys@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5D J20: CHEVERNY SCHAERB vs WINCHESTER F.C.
-DTSTART;VALUE=DATE-TIME:20240309T130000Z
-DTEND;VALUE=DATE-TIME:20240309T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_5D_20_128_653
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
- pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Bleu 
- et blanc\n\nContact équipe domicile: Bex V (0476.92.58.43 - vincentbex@gm
- ail.com)\n\nAccès voiture : Direction cimetière de Jette\, ensuite prend
- re la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. 
- Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur
-  http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/128_1_chev
- erny_schaerb
-GEO:50.8907643;4.3211209
+SUMMARY:ABSSA D5A J17: CHEVERNY SCHAERB vs CHOULE AUDERGHEM (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20250201T130000Z
+DTEND;VALUE=DATE-TIME:20250201T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_5A_17_128_517
+DESCRIPTION:Terrain synthétique: non\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Jaune & Noir\nCouleur principale équipe exterieure
+ : Rose\n\nContact équipe domicile: Bex V (0476.92.58.43 - vincentbex@gmai
+ l.com)\n\nAccès voiture : Direction cimetière de Jette\, ensuite prendre
+  la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Cr
+ ocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur h
+ ttp://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/128_1_chever
+ ny_schaerb
+GEO:50.8868564;4.3286963
 LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
  Belgique
 ORGANIZER;CN="Bex V";ROLE=Secrétaire:MAILTO:vincentbex@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5D J21: CAFARD F.C. vs CHEVERNY SCHAERB
-DTSTART;VALUE=DATE-TIME:20240316T140000Z
-DTEND;VALUE=DATE-TIME:20240316T153000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_5D_21_674_128
+SUMMARY:ABSSA D5A J18: WATERMAEL FC (Eq. 2) vs CHEVERNY SCHAERB
+DTSTART;VALUE=DATE-TIME:20250208T123000Z
+DTEND;VALUE=DATE-TIME:20250208T140000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_5A_18_611_128
 DESCRIPTION:Terrain synthétique: non\nCode terrain: A10\n\nCouleur princi
- pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
- e: Jaune\n\nContact équipe domicile: Gonzalez H. (0470.52.25.86 - fccafar
- d@gmail.com)\n\nAccès voiture : L'accès au terrain se fait à partir du 
- n° 2057 de la chaussée de Wavre (en face du stade communal d'Auderghem).
-  L'accès au terrain se fait par l'arrière du bâtiment principal (où so
- nt situés les vestiaires) il faut parcourir environ 300 mètres avant d'a
- tteindre le terrain de football situé après la piste d'athlétisme et le
-  terrain de hockey.\n\nVérifiez toujours ces infos sur http://www.abssa.b
- e/\nVoir sur calabssa: https://calabssa.be/c/128_1_cheverny_schaerb
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Jaune 
+ & Noir\n\nContact équipe domicile: Deschamps J. (0477.67.76.37 - jul_desc
+ h@hotmail.com)\n\nAccès voiture : L'accès au terrain se fait à partir d
+ u n° 2057 de la chaussée de Wavre (en face du stade communal d'Auderghem
+ ). L'accès au terrain se fait par l'arrière du bâtiment principal (où 
+ sont situés les vestiaires) il faut parcourir environ 300 mètres avant d
+ 'atteindre le terrain de football situé après la piste d'athlétisme et 
+ le terrain de hockey.\n\nVérifiez toujours ces infos sur http://www.abssa
+ .be/\nVoir sur calabssa: https://calabssa.be/c/128_1_cheverny_schaerb
 GEO:50.8093405;4.4437919
 LOCATION:Complexe de L'Adeps\, Chaussée de Wavre 2057\, 1160 Auderghem\, 
  Belgique
-ORGANIZER;CN="Gonzalez H.";ROLE=Secrétaire:MAILTO:fccafard@gmail.com
+ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5D J22: CHEVERNY SCHAERB vs CHIEFS WSL (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20240323T130000Z
-DTEND;VALUE=DATE-TIME:20240323T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_5D_22_128_303
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
- pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Blanc
- \n\nContact équipe domicile: Bex V (0476.92.58.43 - vincentbex@gmail.com)
- \n\nAccès voiture : Direction cimetière de Jette\, ensuite prendre la ru
- e du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Crocq. L
- e terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur http://
- www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/128_1_cheverny_sch
- aerb
-GEO:50.8907643;4.3211209
+SUMMARY:ABSSA D5A J19: CHEVERNY SCHAERB vs MOYEN RFC
+DTSTART;VALUE=DATE-TIME:20250215T130000Z
+DTEND;VALUE=DATE-TIME:20250215T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_5A_19_128_675
+DESCRIPTION:Terrain synthétique: non\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Jaune & Noir\nCouleur principale équipe exterieure
+ : Rouge\n\nContact équipe domicile: Bex V (0476.92.58.43 - vincentbex@gma
+ il.com)\n\nAccès voiture : Direction cimetière de Jette\, ensuite prendr
+ e la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. C
+ rocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur 
+ http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/128_1_cheve
+ rny_schaerb
+GEO:50.8868564;4.3286963
 LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
  Belgique
 ORGANIZER;CN="Bex V";ROLE=Secrétaire:MAILTO:vincentbex@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5D J25: CHEVERNY SCHAERB vs BRITISH UNITED (Eq. 4)
-DTSTART;VALUE=DATE-TIME:20240406T120000Z
-DTEND;VALUE=DATE-TIME:20240406T133000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_5D_25_128_132
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
- pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Bleu\
- n\nContact équipe domicile: Bex V (0476.92.58.43 - vincentbex@gmail.com)\
- n\nAccès voiture : Direction cimetière de Jette\, ensuite prendre la rue
-  du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Crocq. Le
-  terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur http://w
- ww.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/128_1_cheverny_scha
- erb
-GEO:50.8907643;4.3211209
+SUMMARY:ABSSA D5A J24: BEA WOLUWE vs CHEVERNY SCHAERB
+DTSTART;VALUE=DATE-TIME:20250222T130000Z
+DTEND;VALUE=DATE-TIME:20250222T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_5A_24_459_128
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
+  Jaune & Noir\n\nContact équipe domicile: Briot G (0473.26.21.84 - gaetan
+ .briot19@gmail.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"ave
+ nue Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujours ces 
+ infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/1
+ 28_1_cheverny_schaerb
+GEO:50.8333897;4.4384038
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Briot G";ROLE=Secrétaire:MAILTO:gaetan.briot19@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J20: PINTE BUZZ FC vs CHEVERNY SCHAERB
+DTSTART;VALUE=DATE-TIME:20250308T130000Z
+DTEND;VALUE=DATE-TIME:20250308T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_5A_20_684_128
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R03\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Jaune
+  & Noir\n\nContact équipe domicile: De Roubaix H. (0493.14.44.24 - hadeli
+ n.dr@gmail.com)\n\nAccès voiture : Par la E411 Bruxelles-Namur\, prendre 
+ la sortie n° 5 (Wavre Nord\, Rixensart\, Bierges).\nEnsuite prendre la N2
+ 57 pendant 700 mètres jusqu'au rond-point\, prendre la rue de l'Etoile et
+  ensuite la rue de Mérode jusqu'à Rixensart. Après 900 mètres\, à la 
+ Place de la Perche\, prendre à droite l'avenue de la Paix et encore à dr
+ oite l'avenue Clermont Tonnerre.\n\nVérifiez toujours ces infos sur http:
+ //www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/128_1_cheverny_s
+ chaerb
+GEO:50.7128483;4.5376972
+LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
+ 30 Rixensart\, Belgique
+ORGANIZER;CN="De Roubaix H.";ROLE=Secrétaire:MAILTO:hadelin.dr@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J21: CHEVERNY SCHAERB vs PECHEUR F.C.
+DTSTART;VALUE=DATE-TIME:20250315T130000Z
+DTEND;VALUE=DATE-TIME:20250315T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_5A_21_128_677
+DESCRIPTION:Terrain synthétique: non\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Jaune & Noir\nCouleur principale équipe exterieure
+ : Vert et blanc\n\nContact équipe domicile: Bex V (0476.92.58.43 - vincen
+ tbex@gmail.com)\n\nAccès voiture : Direction cimetière de Jette\, ensuit
+ e prendre la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenu
+ e J.J. Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces in
+ fos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/128
+ _1_cheverny_schaerb
+GEO:50.8868564;4.3286963
 LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
  Belgique
 ORGANIZER;CN="Bex V";ROLE=Secrétaire:MAILTO:vincentbex@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J22: PANTOUFLES FC vs CHEVERNY SCHAERB
+DTSTART;VALUE=DATE-TIME:20250322T143000Z
+DTEND;VALUE=DATE-TIME:20250322T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
+UID:2025_5A_22_428_128
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Bleu-Blanc\nCouleur principale équipe exterieure: 
+ Jaune & Noir\n\nContact équipe domicile: Laurent F (0478.68.80.02 - flori
+ mond.laurent@outlook.com)\n\nAccès voiture : Autoroute E411\, prendre la 
+ sortie Rosières. Passer devant l'église\, longer l'autoroute et tourner 
+ à droite au cimetière des animaux. Terrain à 200 m.\n\nVérifiez toujou
+ rs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa
+ .be/c/128_1_cheverny_schaerb
+GEO:50.7282426;4.5537189
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="Laurent F";ROLE=Secrétaire:MAILTO:florimond.laurent@outlook
+ .com
 END:VEVENT
 END:VCALENDAR

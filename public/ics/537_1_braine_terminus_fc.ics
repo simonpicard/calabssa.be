@@ -4,14 +4,32 @@ PRODID:537_1_braine_terminus_fc
 X-WR-CALDESC:Les matches du club BRAINE-TERMINUS FC (equipe 1) en ABSSA.
 X-WR-CALNAME:ABSSA: BRAINE-TERMINUS FC (eq. 1)
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J10: BRAINE-TERMINUS FC vs SAINT GEORGES RCS
-DTSTART;VALUE=DATE-TIME:20230902T133000Z
-DTEND;VALUE=DATE-TIME:20230902T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3C_10_537_221
+SUMMARY:ABSSA D2A J23: BRUSSELS BRITISH R (Eq. 2) vs BRAINE-TERMINUS FC
+DTSTART;VALUE=DATE-TIME:20240831T103000Z
+DTEND;VALUE=DATE-TIME:20240831T120000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2024_2A_23_1_537
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Jaune
+  et rouge\n\nContact équipe domicile: O'Connor G (0456.54.46.67 - abssa-s
+ ec@rbbfc.org)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosi
+ ères. Passer devant l'église\, longer l'autoroute et tourner à droite a
+ u cimetière des animaux. Terrain à 200 m.\n\nVérifiez toujours ces info
+ s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/537_1
+ _braine_terminus_fc
+GEO:50.7282426;4.5537189
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="O'Connor G";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J1: BRAINE-TERMINUS FC vs ENTENTE  RACB
+DTSTART;VALUE=DATE-TIME:20240907T133000Z
+DTEND;VALUE=DATE-TIME:20240907T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2024_2A_1_537_2
 DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
  pale équipe domicile: Jaune et rouge\nCouleur principale équipe exterieu
- re: Blanc\n\nContact équipe domicile: Dero G. (0479.81.83.27 - fcbrainete
+ re: Rouge\n\nContact équipe domicile: Dero G. (0479.81.83.27 - fcbrainete
  rminus@gmail.com)\n\nAccès voiture : En venant de Bruxelles : Autoroute T
  ournai - Lille (A8)\, prendre la sortie n° 24\, direction Rebecq\, puis l
  a N 6 Bruxelles-Mons en direction de Mons. Entrer dans l'agglomération de
@@ -22,19 +40,39 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
  he\, le terrain se situe au bout de la rue.\n\nVérifiez toujours ces info
  s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/537_1
  _braine_terminus_fc
-GEO:50.6193857;4.1352085
+GEO:50.6194169;4.1351187
 LOCATION:Rue du Poseur 39\, 7090 Braine-Le-Comte\, Belgique
 ORGANIZER;CN="Dero G.";ROLE=Secrétaire:MAILTO:fcbraineterminus@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J1: BRAINE-TERMINUS FC vs REQUINS (LES)
-DTSTART;VALUE=DATE-TIME:20230909T133000Z
-DTEND;VALUE=DATE-TIME:20230909T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3C_1_537_556
+SUMMARY:ABSSA D2A J2: TOURINNOIS FC vs BRAINE-TERMINUS FC
+DTSTART;VALUE=DATE-TIME:20240914T130000Z
+DTEND;VALUE=DATE-TIME:20240914T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2024_2A_2_292_537
+DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Jaune
+  et rouge\n\nContact équipe domicile: Strade P. (010.65.83.02 - stradepau
+ l@hotmail.com)\n\nAccès voiture : A partir de l'autoroute Bruxelles-Namur
+  (E411)\, prendre la sortie  Walhain (n° 10). Au pied de la rampe d'accè
+ s\, suivre la direction Walhain vers la droite et après 200 m. prendre à
+  droite et 400 m. plus loin\, prendre à nouveau à droite. Le terrain se 
+ trouve à +/- 300 m. sur la gauche.\n\nVérifiez toujours ces infos sur ht
+ tp://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/537_1_braine_
+ terminus_fc
+GEO:50.6415282;4.7193257
+LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
+ORGANIZER;CN="Strade P.";ROLE=Secrétaire:MAILTO:stradepaul@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J3: BRAINE-TERMINUS FC vs BESACE RFC
+DTSTART;VALUE=DATE-TIME:20240921T133000Z
+DTEND;VALUE=DATE-TIME:20240921T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2024_2A_3_537_24
 DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
  pale équipe domicile: Jaune et rouge\nCouleur principale équipe exterieu
- re: Noir\n\nContact équipe domicile: Dero G. (0479.81.83.27 - fcbraineter
+ re: Bleu\n\nContact équipe domicile: Dero G. (0479.81.83.27 - fcbraineter
  minus@gmail.com)\n\nAccès voiture : En venant de Bruxelles : Autoroute To
  urnai - Lille (A8)\, prendre la sortie n° 24\, direction Rebecq\, puis la
   N 6 Bruxelles-Mons en direction de Mons. Entrer dans l'agglomération de 
@@ -45,360 +83,58 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
  e\, le terrain se situe au bout de la rue.\n\nVérifiez toujours ces infos
   sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/537_1_
  braine_terminus_fc
-GEO:50.6193857;4.1352085
+GEO:50.6194169;4.1351187
 LOCATION:Rue du Poseur 39\, 7090 Braine-Le-Comte\, Belgique
 ORGANIZER;CN="Dero G.";ROLE=Secrétaire:MAILTO:fcbraineterminus@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J2: PATJES FC vs BRAINE-TERMINUS FC
-DTSTART;VALUE=DATE-TIME:20230916T133000Z
-DTEND;VALUE=DATE-TIME:20230916T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3C_2_582_537
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
- pale équipe domicile: Rouge et blanc.\nCouleur principale équipe exterie
- ure: Jaune et rouge\n\nContact équipe domicile: Waucquez J-B (0472.08.73.
- 90 - fcpatjes@outlook.com)\n\nAccès voiture : En venant de Bruxelles\, pr
- endre l'autoroute E411 en direction de Namur\, prendre la sortie  Wavre (n
- ° 6)\, tenir la droite et au bout de la bretelle\, prendre la direction d
- 'Ottignies par la N238. Au 1èr feu de signalisation continuer tout droit 
- en passant devant Walibi (qui se trouve sur la gauche) jusqu'à la sortie 
- Limelette. Au bout de cette sortie\, en face du Tennis Club La Palestre\, 
- prendre à droite la rue Charles Dubois\, jusqu'au carrefour principal. Co
- ntinuer tout droit en traversant l'avenue Albert 1èr. Passer en dessous d
- u 1èr pont du chemin de fer et prendre la rue de l'Europe jusqu'à la pla
- ce de l'Europe. Traverser cette place par la droite. Au bout à gauche\, s
- uivre l'avenue Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (pann
- eau F.C. Limelette). Continuer cette rue et passer en dessous du 2ème pon
- t du chemin de fer. Après ce pont\, prendre tout de suite à gauche l'ave
- nue Demolder (panneau F.C. Limelette)\, en face de l'étang du Buston. Sui
- vre cette avenue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers
- . Après 50 m. dans cette rue\, prendre à droite l'avenue des Sorbiers (p
- anneau du F.C. Limelette). L'entrée du terrain est située 50 m. plus bas
-  sur la gauche.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\n
- Voir sur calabssa: https://calabssa.be/c/537_1_braine_terminus_fc
-GEO:50.6762848;4.562820299999999
-LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER;CN="Waucquez J-B";ROLE=Secrétaire:MAILTO:fcpatjes@outlook.com
+SUMMARY:ABSSA D2A J4: BRITISH UNITED (Eq. 2) vs BRAINE-TERMINUS FC
+DTSTART;VALUE=DATE-TIME:20240928T103000Z
+DTEND;VALUE=DATE-TIME:20240928T120000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2024_2A_4_132_537
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Jaune 
+ et rouge\n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gil
+ lesvanderseypen@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, pr
+ endre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (term
+ inus bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez t
+ oujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cal
+ abssa.be/c/537_1_braine_terminus_fc
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
+ gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J3: BRAINE-TERMINUS FC vs GREEN DEVILS
-DTSTART;VALUE=DATE-TIME:20230923T133000Z
-DTEND;VALUE=DATE-TIME:20230923T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3C_3_537_90
+SUMMARY:ABSSA D2A J5: VETUSO FC. vs BRAINE-TERMINUS FC
+DTSTART;VALUE=DATE-TIME:20241005T120000Z
+DTEND;VALUE=DATE-TIME:20241005T133000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2024_2A_5_624_537
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Jaune 
+ et rouge\n\nContact équipe domicile: Day N. (0494.57.83.26 - nicolas.day@
+ ucb.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring Ouest\, s
+ ortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi)
+  direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le
+  carrefour\, tout droit direction route du sucre.\n\nVérifiez toujours ce
+ s infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c
+ /537_1_braine_terminus_fc
+GEO:50.6007528;4.4472782
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER;CN="Day N.";ROLE=Secrétaire:MAILTO:nicolas.day@ucb.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J6: BRAINE-TERMINUS FC vs HIGGINS-PUMAS
+DTSTART;VALUE=DATE-TIME:20241012T133000Z
+DTEND;VALUE=DATE-TIME:20241012T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2024_2A_6_537_416
 DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
  pale équipe domicile: Jaune et rouge\nCouleur principale équipe exterieu
- re: Vert\n\nContact équipe domicile: Dero G. (0479.81.83.27 - fcbraineter
- minus@gmail.com)\n\nAccès voiture : En venant de Bruxelles : Autoroute To
- urnai - Lille (A8)\, prendre la sortie n° 24\, direction Rebecq\, puis la
-  N 6 Bruxelles-Mons en direction de Mons. Entrer dans l'agglomération de 
- Braine-Le-Comte et prendre la 1ère rue à droite\, le terrain se situe au
-  bout de la rue.\nEn venant de Nivelles : Prendre la N533\, Nivelles/Brain
- e-Le-Comte. Entrer dans l'agglomération de Braine-Le-Comte et suivre la d
- irection de Bruxelles (N 6 Mons-Bruxelles)\, prendre la 1ère rue à gauch
- e\, le terrain se situe au bout de la rue.\n\nVérifiez toujours ces infos
-  sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/537_1_
- braine_terminus_fc
-GEO:50.6193857;4.1352085
-LOCATION:Rue du Poseur 39\, 7090 Braine-Le-Comte\, Belgique
-ORGANIZER;CN="Dero G.";ROLE=Secrétaire:MAILTO:fcbraineterminus@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J4: BLEU-BLANC (ENT)R. vs BRAINE-TERMINUS FC
-DTSTART;VALUE=DATE-TIME:20230930T133000Z
-DTEND;VALUE=DATE-TIME:20230930T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3C_4_53_537
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
- pale équipe domicile: Bleu rayé de Blanc\nCouleur principale équipe ext
- erieure: Jaune et rouge\n\nContact équipe domicile: Mineur X. (0471.56.08
- .07 - josexavier.mineur@gmail.com)\n\nAccès voiture : Avenue de Tervuren\
- , prendre l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nVérifie
- z toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://
- calabssa.be/c/537_1_braine_terminus_fc
-GEO:50.8343279;4.4397562
-LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
- e\, Belgique
-ORGANIZER;CN="Mineur X.";ROLE=Secrétaire:MAILTO:josexavier.mineur@gmail.c
- om
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J5: TAURO FC (Eq. 2) vs BRAINE-TERMINUS FC
-DTSTART;VALUE=DATE-TIME:20231007T124500Z
-DTEND;VALUE=DATE-TIME:20231007T141500Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3C_5_574_537
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Jaune 
- et rouge\n\nContact équipe domicile: Lietaer Y. (0484.16.30.31 - ylietaer
- @gmail.com)\n\nAccès voiture : Place Meiser\, descendre le boulevard Lamb
- ermont. Au 3ème feu de signalisation prendre à gauche\, puis la premièr
- e à droite.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoi
- r sur calabssa: https://calabssa.be/c/537_1_braine_terminus_fc
-GEO:50.8666341;4.3823667
-LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
- aerbeek\, Belgique
-ORGANIZER;CN="Lietaer Y.";ROLE=Secrétaire:MAILTO:ylietaer@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J6: BRAINE-TERMINUS FC vs GREZ AJ (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20231014T133000Z
-DTEND;VALUE=DATE-TIME:20231014T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3C_6_537_514
-DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
- pale équipe domicile: Jaune et rouge\nCouleur principale équipe exterieu
- re: Noir\n\nContact équipe domicile: Dero G. (0479.81.83.27 - fcbraineter
- minus@gmail.com)\n\nAccès voiture : En venant de Bruxelles : Autoroute To
- urnai - Lille (A8)\, prendre la sortie n° 24\, direction Rebecq\, puis la
-  N 6 Bruxelles-Mons en direction de Mons. Entrer dans l'agglomération de 
- Braine-Le-Comte et prendre la 1ère rue à droite\, le terrain se situe au
-  bout de la rue.\nEn venant de Nivelles : Prendre la N533\, Nivelles/Brain
- e-Le-Comte. Entrer dans l'agglomération de Braine-Le-Comte et suivre la d
- irection de Bruxelles (N 6 Mons-Bruxelles)\, prendre la 1ère rue à gauch
- e\, le terrain se situe au bout de la rue.\n\nVérifiez toujours ces infos
-  sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/537_1_
- braine_terminus_fc
-GEO:50.6193857;4.1352085
-LOCATION:Rue du Poseur 39\, 7090 Braine-Le-Comte\, Belgique
-ORGANIZER;CN="Dero G.";ROLE=Secrétaire:MAILTO:fcbraineterminus@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J8: BRAINE-TERMINUS FC vs WELL TEAM
-DTSTART;VALUE=DATE-TIME:20231021T133000Z
-DTEND;VALUE=DATE-TIME:20231021T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3C_8_537_544
-DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
- pale équipe domicile: Jaune et rouge\nCouleur principale équipe exterieu
- re: Bleu marine\n\nContact équipe domicile: Dero G. (0479.81.83.27 - fcbr
- aineterminus@gmail.com)\n\nAccès voiture : En venant de Bruxelles : Autor
- oute Tournai - Lille (A8)\, prendre la sortie n° 24\, direction Rebecq\, 
- puis la N 6 Bruxelles-Mons en direction de Mons. Entrer dans l'agglomérat
- ion de Braine-Le-Comte et prendre la 1ère rue à droite\, le terrain se s
- itue au bout de la rue.\nEn venant de Nivelles : Prendre la N533\, Nivelle
- s/Braine-Le-Comte. Entrer dans l'agglomération de Braine-Le-Comte et suiv
- re la direction de Bruxelles (N 6 Mons-Bruxelles)\, prendre la 1ère rue 
- à gauche\, le terrain se situe au bout de la rue.\n\nVérifiez toujours c
- es infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/
- c/537_1_braine_terminus_fc
-GEO:50.6193857;4.1352085
-LOCATION:Rue du Poseur 39\, 7090 Braine-Le-Comte\, Belgique
-ORGANIZER;CN="Dero G.";ROLE=Secrétaire:MAILTO:fcbraineterminus@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J24: BRAINE-TERMINUS FC vs ETTEKIJS
-DTSTART;VALUE=DATE-TIME:20231028T133000Z
-DTEND;VALUE=DATE-TIME:20231028T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3C_24_537_343
-DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
- pale équipe domicile: Jaune et rouge\nCouleur principale équipe exterieu
- re: Noir\n\nContact équipe domicile: Dero G. (0479.81.83.27 - fcbraineter
- minus@gmail.com)\n\nAccès voiture : En venant de Bruxelles : Autoroute To
- urnai - Lille (A8)\, prendre la sortie n° 24\, direction Rebecq\, puis la
-  N 6 Bruxelles-Mons en direction de Mons. Entrer dans l'agglomération de 
- Braine-Le-Comte et prendre la 1ère rue à droite\, le terrain se situe au
-  bout de la rue.\nEn venant de Nivelles : Prendre la N533\, Nivelles/Brain
- e-Le-Comte. Entrer dans l'agglomération de Braine-Le-Comte et suivre la d
- irection de Bruxelles (N 6 Mons-Bruxelles)\, prendre la 1ère rue à gauch
- e\, le terrain se situe au bout de la rue.\n\nVérifiez toujours ces infos
-  sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/537_1_
- braine_terminus_fc
-GEO:50.6193857;4.1352085
-LOCATION:Rue du Poseur 39\, 7090 Braine-Le-Comte\, Belgique
-ORGANIZER;CN="Dero G.";ROLE=Secrétaire:MAILTO:fcbraineterminus@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J7: RHINOCEROS vs BRAINE-TERMINUS FC
-DTSTART;VALUE=DATE-TIME:20231104T143000Z
-DTEND;VALUE=DATE-TIME:20231104T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3C_7_654_537
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L08\n\nCouleur princi
- pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Jaune
-  et rouge\n\nContact équipe domicile: Watteyne R. (0498.16.13.01 - robin@
- watteyne.com)\n\nAccès voiture : Autoroute Bruxelles-Namur E411\, après 
- Wavre prendre la sortie Louvain-la-Neuve\, continuer sur la N4 direction N
- amur\, au premier rond-point prendre à droite vers la N250 et suivre "Blo
- cry/Hocaille". Après le second rond-point\, prendre à droite\, au carref
- our\, la rue de l'Invasion\, puis de nouveau à droite. L'entrée du terra
- in ROS se trouve au bout de l'avenue.\n\nVérifiez toujours ces infos sur 
- http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/537_1_brain
- e_terminus_fc
-GEO:50.6706953;4.5975173
-LOCATION:Terrain Royal Ottignies Stimont (Ros)\, Avenue de Lauzelle\, 1348
-  Louvain-La-Neuve\, Belgique
-ORGANIZER;CN="Watteyne R.";ROLE=Secrétaire:MAILTO:robin@watteyne.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J9: IRLANDE FC (Eq. 3) vs BRAINE-TERMINUS FC
-DTSTART;VALUE=DATE-TIME:20231118T113000Z
-DTEND;VALUE=DATE-TIME:20231118T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3C_9_402_537
-DESCRIPTION:Terrain synthétique: non\nCode terrain: N04\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Jaune 
- et rouge\n\nContact équipe domicile: Bridoux J.F. (0455.12.12.65 - fci.se
- cretary.mens@outlook.com)\n\nAccès voiture : Chaussée de Louvain jusqu'
- à Nossegem\, au premier croisement prendre à gauche la \nMechelsesteenwe
- g. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxel
- les-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la 
- Mechelsesteenweg\, traverser la chaussée de Louvain\, et suivre comme ci-
- avant.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur 
- calabssa: https://calabssa.be/c/537_1_braine_terminus_fc
-GEO:50.88776559999999;4.50894
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER;CN="Bridoux J.F.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@out
- look.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J12: BRAINE-TERMINUS FC vs CHIEFS WSL (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20231125T143000Z
-DTEND;VALUE=DATE-TIME:20231125T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3C_12_537_303
-DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
- pale équipe domicile: Jaune et rouge\nCouleur principale équipe exterieu
- re: Blanc\n\nContact équipe domicile: Dero G. (0479.81.83.27 - fcbrainete
- rminus@gmail.com)\n\nAccès voiture : En venant de Bruxelles : Autoroute T
- ournai - Lille (A8)\, prendre la sortie n° 24\, direction Rebecq\, puis l
- a N 6 Bruxelles-Mons en direction de Mons. Entrer dans l'agglomération de
-  Braine-Le-Comte et prendre la 1ère rue à droite\, le terrain se situe a
- u bout de la rue.\nEn venant de Nivelles : Prendre la N533\, Nivelles/Brai
- ne-Le-Comte. Entrer dans l'agglomération de Braine-Le-Comte et suivre la 
- direction de Bruxelles (N 6 Mons-Bruxelles)\, prendre la 1ère rue à gauc
- he\, le terrain se situe au bout de la rue.\n\nVérifiez toujours ces info
- s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/537_1
- _braine_terminus_fc
-GEO:50.6193857;4.1352085
-LOCATION:Rue du Poseur 39\, 7090 Braine-Le-Comte\, Belgique
-ORGANIZER;CN="Dero G.";ROLE=Secrétaire:MAILTO:fcbraineterminus@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J11: ETTEKIJS vs BRAINE-TERMINUS FC
-DTSTART;VALUE=DATE-TIME:20231202T113000Z
-DTEND;VALUE=DATE-TIME:20231202T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3C_11_343_537
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Jaune 
- et rouge\n\nContact équipe domicile: Raes F. (0479.73.82.49 - freddy.raes
- @gmail.com)\n\nAccès voiture : A partir du square des Archiducs\, prendre
-  la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez toujours 
- ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be
- /c/537_1_braine_terminus_fc
-GEO:50.8059082;4.4137428
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J13: VOGELPIK FC. vs BRAINE-TERMINUS FC
-DTSTART;VALUE=DATE-TIME:20231209T143000Z
-DTEND;VALUE=DATE-TIME:20231209T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2023_3C_13_629_537
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L08\n\nCouleur princi
- pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
- e: Jaune et rouge\n\nContact équipe domicile: Nolet P (0486.56.82.31 - pi
- errenolet91@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Namur E411\
- , après Wavre prendre la sortie Louvain-la-Neuve\, continuer sur la N4 di
- rection Namur\, au premier rond-point prendre à droite vers la N250 et su
- ivre "Blocry/Hocaille". Après le second rond-point\, prendre à droite\, 
- au carrefour\, la rue de l'Invasion\, puis de nouveau à droite. L'entrée
-  du terrain ROS se trouve au bout de l'avenue.\n\nVérifiez toujours ces i
- nfos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/53
- 7_1_braine_terminus_fc
-GEO:50.6706953;4.5975173
-LOCATION:Terrain Royal Ottignies Stimont (Ros)\, Avenue de Lauzelle\, 1348
-  Louvain-La-Neuve\, Belgique
-ORGANIZER;CN="Nolet P";ROLE=Secrétaire:MAILTO:pierrenolet91@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J14: REQUINS (LES) vs BRAINE-TERMINUS FC
-DTSTART;VALUE=DATE-TIME:20240113T130000Z
-DTEND;VALUE=DATE-TIME:20240113T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3C_14_556_537
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Jaune 
- et rouge\n\nContact équipe domicile: Barbe L. (0476.04.93.45 - louis.barb
- e1@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'autor
- oute E411 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir
-  la droite et au bout de la bretelle\, prendre la direction d'Ottignies pa
- r la N238. Au 1èr feu de signalisation continuer tout droit en passant de
- vant Walibi (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au
-  bout de cette sortie\, en face du Tennis Club La Palestre\, prendre à dr
- oite la rue Charles Dubois\, jusqu'au carrefour principal. Continuer tout 
- droit en traversant l'avenue Albert 1èr. Passer en dessous du 1èr pont d
- u chemin de fer et prendre la rue de l'Europe jusqu'à la place de l'Europ
- e. Traverser cette place par la droite. Au bout à gauche\, suivre l'avenu
- e Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Lime
- lette). Continuer cette rue et passer en dessous du 2ème pont du chemin d
- e fer. Après ce pont\, prendre tout de suite à gauche l'avenue Demolder 
- (panneau F.C. Limelette)\, en face de l'étang du Buston. Suivre cette ave
- nue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m
- . dans cette rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C
- . Limelette). L'entrée du terrain est située 50 m. plus bas sur la gauch
- e.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur cala
- bssa: https://calabssa.be/c/537_1_braine_terminus_fc
-GEO:50.6762848;4.562820299999999
-LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER;CN="Barbe L.";ROLE=Secrétaire:MAILTO:louis.barbe1@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J15: BRAINE-TERMINUS FC vs PATJES FC
-DTSTART;VALUE=DATE-TIME:20240120T143000Z
-DTEND;VALUE=DATE-TIME:20240120T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3C_15_537_582
-DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
- pale équipe domicile: Jaune et rouge\nCouleur principale équipe exterieu
- re: Rouge et blanc.\n\nContact équipe domicile: Dero G. (0479.81.83.27 - 
- fcbraineterminus@gmail.com)\n\nAccès voiture : En venant de Bruxelles : A
- utoroute Tournai - Lille (A8)\, prendre la sortie n° 24\, direction Rebec
- q\, puis la N 6 Bruxelles-Mons en direction de Mons. Entrer dans l'agglom
- ération de Braine-Le-Comte et prendre la 1ère rue à droite\, le terrain
-  se situe au bout de la rue.\nEn venant de Nivelles : Prendre la N533\, Ni
- velles/Braine-Le-Comte. Entrer dans l'agglomération de Braine-Le-Comte et
-  suivre la direction de Bruxelles (N 6 Mons-Bruxelles)\, prendre la 1ère 
- rue à gauche\, le terrain se situe au bout de la rue.\n\nVérifiez toujou
- rs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa
- .be/c/537_1_braine_terminus_fc
-GEO:50.6193857;4.1352085
-LOCATION:Rue du Poseur 39\, 7090 Braine-Le-Comte\, Belgique
-ORGANIZER;CN="Dero G.";ROLE=Secrétaire:MAILTO:fcbraineterminus@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J16: GREEN DEVILS vs BRAINE-TERMINUS FC
-DTSTART;VALUE=DATE-TIME:20240127T130000Z
-DTEND;VALUE=DATE-TIME:20240127T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3C_16_90_537
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: E08\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Jaune 
- et rouge\n\nContact équipe domicile: Vandenbroeck K. (0477.66.15.69 - krv
- andenbroeck@hotmail.be)\n\nAccès voiture : Le terrain se trouve derrière
-  l'église St. Vincent\n\nVérifiez toujours ces infos sur http://www.abss
- a.be/\nVoir sur calabssa: https://calabssa.be/c/537_1_braine_terminus_fc
-GEO:50.88086790000001;4.396579099999999
-LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue Stroobants 75\, 1140 Evere\,
-  Belgique
-ORGANIZER;CN="Vandenbroeck K.";ROLE=Secrétaire:MAILTO:krvandenbroeck@hotm
- ail.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J17: BRAINE-TERMINUS FC vs BLEU-BLANC (ENT)R.
-DTSTART;VALUE=DATE-TIME:20240203T143000Z
-DTEND;VALUE=DATE-TIME:20240203T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3C_17_537_53
-DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
- pale équipe domicile: Jaune et rouge\nCouleur principale équipe exterieu
- re: Bleu rayé de Blanc\n\nContact équipe domicile: Dero G. (0479.81.83.2
+ re: Rayé Bleu et Blanc\n\nContact équipe domicile: Dero G. (0479.81.83.2
  7 - fcbraineterminus@gmail.com)\n\nAccès voiture : En venant de Bruxelles
   : Autoroute Tournai - Lille (A8)\, prendre la sortie n° 24\, direction R
  ebecq\, puis la N 6 Bruxelles-Mons en direction de Mons. Entrer dans l'agg
@@ -409,16 +145,36 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
  re rue à gauche\, le terrain se situe au bout de la rue.\n\nVérifiez tou
  jours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calab
  ssa.be/c/537_1_braine_terminus_fc
-GEO:50.6193857;4.1352085
+GEO:50.6194169;4.1351187
 LOCATION:Rue du Poseur 39\, 7090 Braine-Le-Comte\, Belgique
 ORGANIZER;CN="Dero G.";ROLE=Secrétaire:MAILTO:fcbraineterminus@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J18: BRAINE-TERMINUS FC vs TAURO FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20240210T143000Z
-DTEND;VALUE=DATE-TIME:20240210T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3C_18_537_574
+SUMMARY:ABSSA D2A J25: UNION TIGERS vs BRAINE-TERMINUS FC
+DTSTART;VALUE=DATE-TIME:20241019T133000Z
+DTEND;VALUE=DATE-TIME:20241019T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2024_2A_25_649_537
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A01\n\nCouleur princi
+ pale équipe domicile: Bleu ciel et Blanc\nCouleur principale équipe exte
+ rieure: Jaune et rouge\n\nContact équipe domicile: Thibaut L (0472.52.93.
+ 45 - union.tigers@hotmail.com)\n\nAccès voiture : Par le Ring Ouest\, dir
+ ection Paris\, sortie Westland Shopping Center (n° 14) continuer tout dro
+ it\, remonter vers le Ring et prendre à droite pour sortir vers Itterbeek
+ . Prendre l'avenue d'Itterbeek au parc d'Anderlecht\, passer le ring\, res
+ te 2 km. Le terrain se trouve à gauche\, entre l'école Van Belle et Veew
+ eyde.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur c
+ alabssa: https://calabssa.be/c/537_1_braine_terminus_fc
+GEO:50.8354396;4.2768611
+LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
+ORGANIZER;CN="Thibaut L";ROLE=Secrétaire:MAILTO:union.tigers@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J26: BRAINE-TERMINUS FC vs SCHEUT FC
+DTSTART;VALUE=DATE-TIME:20241026T133000Z
+DTEND;VALUE=DATE-TIME:20241026T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2024_2A_26_537_274
 DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
  pale équipe domicile: Jaune et rouge\nCouleur principale équipe exterieu
  re: Noir\n\nContact équipe domicile: Dero G. (0479.81.83.27 - fcbraineter
@@ -432,81 +188,40 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
  e\, le terrain se situe au bout de la rue.\n\nVérifiez toujours ces infos
   sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/537_1_
  braine_terminus_fc
-GEO:50.6193857;4.1352085
+GEO:50.6194169;4.1351187
 LOCATION:Rue du Poseur 39\, 7090 Braine-Le-Comte\, Belgique
 ORGANIZER;CN="Dero G.";ROLE=Secrétaire:MAILTO:fcbraineterminus@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J19: GREZ AJ (Eq. 2) vs BRAINE-TERMINUS FC
-DTSTART;VALUE=DATE-TIME:20240217T143000Z
-DTEND;VALUE=DATE-TIME:20240217T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3C_19_514_537
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: G04\n\nCouleur princi
+SUMMARY:ABSSA D2A J7: FORESTOIS SC vs BRAINE-TERMINUS FC
+DTSTART;VALUE=DATE-TIME:20241102T130000Z
+DTEND;VALUE=DATE-TIME:20241102T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2024_2A_7_152_537
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
  pale équipe domicile: Noir\nCouleur principale équipe exterieure: Jaune 
- et rouge\n\nContact équipe domicile: Vanhamme J. (0474.56.81.54 - jerome.
- vanhamme@hotmail.com)\n\nAccès voiture : Autoroute Bruxelles-Namur (E411)
-  prendre la sortie Louvain/Grez-Doiceau (n° 8). Prendre la RN25 en direct
- ion de Louvain/Grez-Doiceau. Passer tout droit les deux premiers ronds-poi
- nts à l'issue de la RN 25. Au troisième rond-point prendre à droite. Le
-  terrain se trouve 150 m. plus loin à gauche de la rue du Stampia.\n\nVé
- rifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: htt
- ps://calabssa.be/c/537_1_braine_terminus_fc
-GEO:50.744789;4.6969702
-LOCATION:Rue du Stampia\, 1390 Grez-Doiceau\, Belgique
-ORGANIZER;CN="Vanhamme J.";ROLE=Secrétaire:MAILTO:jerome.vanhamme@hotmail
- .com
+ et rouge\n\nContact équipe domicile: Janssens P. (0479.95.08.14 - patj.sc
+ f@gmail.com)\n\nAccès voiture : Au départ de la Place St. Denis à Fores
+ t prendre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème 
+ rue à droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère 
+ à gauche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entr
+ ée du Complexe se trouve à hauteur de City Cart\, à gauche de la route.
+ \n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabs
+ sa: https://calabssa.be/c/537_1_braine_terminus_fc
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J26: BRAINE-TERMINUS FC vs VOGELPIK FC.
-DTSTART;VALUE=DATE-TIME:20240224T143000Z
-DTEND;VALUE=DATE-TIME:20240224T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3C_26_537_629
+SUMMARY:ABSSA D2A J8: BRAINE-TERMINUS FC vs BIG JEFKE
+DTSTART;VALUE=DATE-TIME:20241109T143000Z
+DTEND;VALUE=DATE-TIME:20241109T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2024_2A_8_537_137
 DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
  pale équipe domicile: Jaune et rouge\nCouleur principale équipe exterieu
- re: Rouge et noir\n\nContact équipe domicile: Dero G. (0479.81.83.27 - fc
- braineterminus@gmail.com)\n\nAccès voiture : En venant de Bruxelles : Aut
- oroute Tournai - Lille (A8)\, prendre la sortie n° 24\, direction Rebecq\
- , puis la N 6 Bruxelles-Mons en direction de Mons. Entrer dans l'agglomér
- ation de Braine-Le-Comte et prendre la 1ère rue à droite\, le terrain se
-  situe au bout de la rue.\nEn venant de Nivelles : Prendre la N533\, Nivel
- les/Braine-Le-Comte. Entrer dans l'agglomération de Braine-Le-Comte et su
- ivre la direction de Bruxelles (N 6 Mons-Bruxelles)\, prendre la 1ère rue
-  à gauche\, le terrain se situe au bout de la rue.\n\nVérifiez toujours 
- ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be
- /c/537_1_braine_terminus_fc
-GEO:50.6193857;4.1352085
-LOCATION:Rue du Poseur 39\, 7090 Braine-Le-Comte\, Belgique
-ORGANIZER;CN="Dero G.";ROLE=Secrétaire:MAILTO:fcbraineterminus@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J23: SAINT GEORGES RCS vs BRAINE-TERMINUS FC
-DTSTART;VALUE=DATE-TIME:20240302T143000Z
-DTEND;VALUE=DATE-TIME:20240302T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3C_23_221_537
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Jaune
-  et rouge\n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.d
- estin@gmail.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"avenue
-  Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujours ces inf
- os sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/537_
- 1_braine_terminus_fc
-GEO:50.8343279;4.4397562
-LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
- e\, Belgique
-ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J20: BRAINE-TERMINUS FC vs RHINOCEROS
-DTSTART;VALUE=DATE-TIME:20240309T143000Z
-DTEND;VALUE=DATE-TIME:20240309T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3C_20_537_654
-DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
- pale équipe domicile: Jaune et rouge\nCouleur principale équipe exterieu
- re: Jaune\n\nContact équipe domicile: Dero G. (0479.81.83.27 - fcbrainete
+ re: Blanc\n\nContact équipe domicile: Dero G. (0479.81.83.27 - fcbrainete
  rminus@gmail.com)\n\nAccès voiture : En venant de Bruxelles : Autoroute T
  ournai - Lille (A8)\, prendre la sortie n° 24\, direction Rebecq\, puis l
  a N 6 Bruxelles-Mons en direction de Mons. Entrer dans l'agglomération de
@@ -517,34 +232,321 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
  he\, le terrain se situe au bout de la rue.\n\nVérifiez toujours ces info
  s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/537_1
  _braine_terminus_fc
-GEO:50.6193857;4.1352085
+GEO:50.6194169;4.1351187
 LOCATION:Rue du Poseur 39\, 7090 Braine-Le-Comte\, Belgique
 ORGANIZER;CN="Dero G.";ROLE=Secrétaire:MAILTO:fcbraineterminus@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J21: WELL TEAM vs BRAINE-TERMINUS FC
-DTSTART;VALUE=DATE-TIME:20240316T143000Z
-DTEND;VALUE=DATE-TIME:20240316T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3C_21_544_537
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
- pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
-  Jaune et rouge\n\nContact équipe domicile: Dayez M. (0472.61.95.08 - mar
- tindayez@hotmail.com)\n\nAccès voiture : A partir du square des Archiducs
- \, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez
-  toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://c
- alabssa.be/c/537_1_braine_terminus_fc
-GEO:50.8059082;4.4137428
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER;CN="Dayez M.";ROLE=Secrétaire:MAILTO:martindayez@hotmail.com
+SUMMARY:ABSSA D2A J9: IRLANDE FC (Eq. 2) vs BRAINE-TERMINUS FC
+DTSTART;VALUE=DATE-TIME:20241116T113000Z
+DTEND;VALUE=DATE-TIME:20241116T130000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2024_2A_9_402_537
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: N04\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Jaune 
+ et rouge\n\nContact équipe domicile: Penouilh S. (0474.97.79.48 - fci.sec
+ retary.mens@outlook.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à
+  Nossegem\, au premier croisement prendre à gauche la \nMechelsesteenweg.
+  Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelle
+ s-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Me
+ chelsesteenweg\, traverser la chaussée de Louvain\, et suivre comme ci-av
+ ant.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur ca
+ labssa: https://calabssa.be/c/537_1_braine_terminus_fc
+GEO:50.88776559999999;4.50894
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER;CN="Penouilh S.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@outl
+ ook.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J22: BRAINE-TERMINUS FC vs IRLANDE FC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20240323T143000Z
-DTEND;VALUE=DATE-TIME:20240323T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3C_22_537_402
+SUMMARY:ABSSA D2A J12: BRAINE-TERMINUS FC vs UNION TIGERS
+DTSTART;VALUE=DATE-TIME:20241123T143000Z
+DTEND;VALUE=DATE-TIME:20241123T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2024_2A_12_537_649
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
+ pale équipe domicile: Jaune et rouge\nCouleur principale équipe exterieu
+ re: Bleu ciel et Blanc\n\nContact équipe domicile: Dero G. (0479.81.83.27
+  - fcbraineterminus@gmail.com)\n\nAccès voiture : En venant de Bruxelles 
+ : Autoroute Tournai - Lille (A8)\, prendre la sortie n° 24\, direction Re
+ becq\, puis la N 6 Bruxelles-Mons en direction de Mons. Entrer dans l'aggl
+ omération de Braine-Le-Comte et prendre la 1ère rue à droite\, le terra
+ in se situe au bout de la rue.\nEn venant de Nivelles : Prendre la N533\, 
+ Nivelles/Braine-Le-Comte. Entrer dans l'agglomération de Braine-Le-Comte 
+ et suivre la direction de Bruxelles (N 6 Mons-Bruxelles)\, prendre la 1èr
+ e rue à gauche\, le terrain se situe au bout de la rue.\n\nVérifiez touj
+ ours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabs
+ sa.be/c/537_1_braine_terminus_fc
+GEO:50.6194169;4.1351187
+LOCATION:Rue du Poseur 39\, 7090 Braine-Le-Comte\, Belgique
+ORGANIZER;CN="Dero G.";ROLE=Secrétaire:MAILTO:fcbraineterminus@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J11: UNION JP vs BRAINE-TERMINUS FC
+DTSTART;VALUE=DATE-TIME:20241130T143000Z
+DTEND;VALUE=DATE-TIME:20241130T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2024_2A_11_504_537
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Bleu et jaune\nCouleur principale équipe exterieur
+ e: Jaune et rouge\n\nContact équipe domicile: Vanderweyen V (0497.35.33.4
+ 9 - victor.vanderweyen@gmail.com)\n\nAccès voiture : Ring\, sortie Hopita
+ l Erasme\, après 300 m. en direction de Lennik\, prendre à droite.\nVena
+ nt de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand
+ \, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital E
+ rasme 400 m. en direction de Lennik.\n\nVérifiez toujours ces infos sur h
+ ttp://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/537_1_braine
+ _terminus_fc
+GEO:50.8177358;4.2557195
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER;CN="Vanderweyen V";ROLE=Secrétaire:MAILTO:victor.vanderweyen@gm
+ ail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J10: BRAINE-TERMINUS FC vs BRUSSELS BRITISH R (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20241207T143000Z
+DTEND;VALUE=DATE-TIME:20241207T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2024_2A_10_537_1
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
+ pale équipe domicile: Jaune et rouge\nCouleur principale équipe exterieu
+ re: Blanc\n\nContact équipe domicile: Dero G. (0479.81.83.27 - fcbrainete
+ rminus@gmail.com)\n\nAccès voiture : En venant de Bruxelles : Autoroute T
+ ournai - Lille (A8)\, prendre la sortie n° 24\, direction Rebecq\, puis l
+ a N 6 Bruxelles-Mons en direction de Mons. Entrer dans l'agglomération de
+  Braine-Le-Comte et prendre la 1ère rue à droite\, le terrain se situe a
+ u bout de la rue.\nEn venant de Nivelles : Prendre la N533\, Nivelles/Brai
+ ne-Le-Comte. Entrer dans l'agglomération de Braine-Le-Comte et suivre la 
+ direction de Bruxelles (N 6 Mons-Bruxelles)\, prendre la 1ère rue à gauc
+ he\, le terrain se situe au bout de la rue.\n\nVérifiez toujours ces info
+ s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/537_1
+ _braine_terminus_fc
+GEO:50.6194169;4.1351187
+LOCATION:Rue du Poseur 39\, 7090 Braine-Le-Comte\, Belgique
+ORGANIZER;CN="Dero G.";ROLE=Secrétaire:MAILTO:fcbraineterminus@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J13: SCHEUT FC vs BRAINE-TERMINUS FC
+DTSTART;VALUE=DATE-TIME:20241214T133000Z
+DTEND;VALUE=DATE-TIME:20241214T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2024_2A_13_274_537
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Jaune 
+ et rouge\n\nContact équipe domicile: Huys R. (0477.59.24.22 - fcscheut@ya
+ hoo.fr)\n\nAccès voiture : En venant de la Route de Lennik (Citroën) ou 
+ de la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ande
+ rlecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la s
+ ortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe 
+ et des terrains se situe à +/- 500 m. sur la gauche.\n\nVérifiez toujour
+ s ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.
+ be/c/537_1_braine_terminus_fc
+GEO:50.8114295;4.2763934
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Huys R.";ROLE=Secrétaire:MAILTO:fcscheut@yahoo.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J14: ENTENTE  RACB vs BRAINE-TERMINUS FC
+DTSTART;VALUE=DATE-TIME:20250111T130000Z
+DTEND;VALUE=DATE-TIME:20250111T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2025_2A_14_2_537
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Jaune
+  et rouge\n\nContact équipe domicile: Dath D. (0473.47.15.41 - daniel.dat
+ h@hotmail.com)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\
+ , vers Neder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'a
+ u rond-point\, tout droit Chemin Vert\, puis première à gauche\, Petit C
+ hemin Vert\, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://
+ www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/537_1_braine_termi
+ nus_fc
+GEO:50.89983369999999;4.3936101
+LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
+ORGANIZER;CN="Dath D.";ROLE=Secrétaire:MAILTO:daniel.dath@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J15: BRAINE-TERMINUS FC vs TOURINNOIS FC
+DTSTART;VALUE=DATE-TIME:20250118T143000Z
+DTEND;VALUE=DATE-TIME:20250118T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2025_2A_15_537_292
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
+ pale équipe domicile: Jaune et rouge\nCouleur principale équipe exterieu
+ re: Rouge\n\nContact équipe domicile: Dero G. (0479.81.83.27 - fcbrainete
+ rminus@gmail.com)\n\nAccès voiture : En venant de Bruxelles : Autoroute T
+ ournai - Lille (A8)\, prendre la sortie n° 24\, direction Rebecq\, puis l
+ a N 6 Bruxelles-Mons en direction de Mons. Entrer dans l'agglomération de
+  Braine-Le-Comte et prendre la 1ère rue à droite\, le terrain se situe a
+ u bout de la rue.\nEn venant de Nivelles : Prendre la N533\, Nivelles/Brai
+ ne-Le-Comte. Entrer dans l'agglomération de Braine-Le-Comte et suivre la 
+ direction de Bruxelles (N 6 Mons-Bruxelles)\, prendre la 1ère rue à gauc
+ he\, le terrain se situe au bout de la rue.\n\nVérifiez toujours ces info
+ s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/537_1
+ _braine_terminus_fc
+GEO:50.6194169;4.1351187
+LOCATION:Rue du Poseur 39\, 7090 Braine-Le-Comte\, Belgique
+ORGANIZER;CN="Dero G.";ROLE=Secrétaire:MAILTO:fcbraineterminus@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J16: BESACE RFC vs BRAINE-TERMINUS FC
+DTSTART;VALUE=DATE-TIME:20250125T123000Z
+DTEND;VALUE=DATE-TIME:20250125T140000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2025_2A_16_24_537
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Jaune 
+ et rouge\n\nContact équipe domicile: Masset M. (0485.61.39.19 - rfcbesace
+ .024@gmail.com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nE
+ n venant de Zaventem\, prendre à gauche à la sortie\, en venant de Charl
+ eroi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond 
+ point. Le terrain se trouve en face de la pompe à essence Q8.\n\nVérifie
+ z toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://
+ calabssa.be/c/537_1_braine_terminus_fc
+GEO:50.883299;4.316365
+LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
+ORGANIZER;CN="Masset M.";ROLE=Secrétaire:MAILTO:rfcbesace.024@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J17: BRAINE-TERMINUS FC vs BRITISH UNITED (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20250201T143000Z
+DTEND;VALUE=DATE-TIME:20250201T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2025_2A_17_537_132
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
+ pale équipe domicile: Jaune et rouge\nCouleur principale équipe exterieu
+ re: Bleu\n\nContact équipe domicile: Dero G. (0479.81.83.27 - fcbraineter
+ minus@gmail.com)\n\nAccès voiture : En venant de Bruxelles : Autoroute To
+ urnai - Lille (A8)\, prendre la sortie n° 24\, direction Rebecq\, puis la
+  N 6 Bruxelles-Mons en direction de Mons. Entrer dans l'agglomération de 
+ Braine-Le-Comte et prendre la 1ère rue à droite\, le terrain se situe au
+  bout de la rue.\nEn venant de Nivelles : Prendre la N533\, Nivelles/Brain
+ e-Le-Comte. Entrer dans l'agglomération de Braine-Le-Comte et suivre la d
+ irection de Bruxelles (N 6 Mons-Bruxelles)\, prendre la 1ère rue à gauch
+ e\, le terrain se situe au bout de la rue.\n\nVérifiez toujours ces infos
+  sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/537_1_
+ braine_terminus_fc
+GEO:50.6194169;4.1351187
+LOCATION:Rue du Poseur 39\, 7090 Braine-Le-Comte\, Belgique
+ORGANIZER;CN="Dero G.";ROLE=Secrétaire:MAILTO:fcbraineterminus@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J18: BRAINE-TERMINUS FC vs VETUSO FC.
+DTSTART;VALUE=DATE-TIME:20250208T143000Z
+DTEND;VALUE=DATE-TIME:20250208T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2025_2A_18_537_624
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
+ pale équipe domicile: Jaune et rouge\nCouleur principale équipe exterieu
+ re: Bleu\n\nContact équipe domicile: Dero G. (0479.81.83.27 - fcbraineter
+ minus@gmail.com)\n\nAccès voiture : En venant de Bruxelles : Autoroute To
+ urnai - Lille (A8)\, prendre la sortie n° 24\, direction Rebecq\, puis la
+  N 6 Bruxelles-Mons en direction de Mons. Entrer dans l'agglomération de 
+ Braine-Le-Comte et prendre la 1ère rue à droite\, le terrain se situe au
+  bout de la rue.\nEn venant de Nivelles : Prendre la N533\, Nivelles/Brain
+ e-Le-Comte. Entrer dans l'agglomération de Braine-Le-Comte et suivre la d
+ irection de Bruxelles (N 6 Mons-Bruxelles)\, prendre la 1ère rue à gauch
+ e\, le terrain se situe au bout de la rue.\n\nVérifiez toujours ces infos
+  sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/537_1_
+ braine_terminus_fc
+GEO:50.6194169;4.1351187
+LOCATION:Rue du Poseur 39\, 7090 Braine-Le-Comte\, Belgique
+ORGANIZER;CN="Dero G.";ROLE=Secrétaire:MAILTO:fcbraineterminus@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J19: HIGGINS-PUMAS vs BRAINE-TERMINUS FC
+DTSTART;VALUE=DATE-TIME:20250215T143000Z
+DTEND;VALUE=DATE-TIME:20250215T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2025_2A_19_416_537
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
+ erieure: Jaune et rouge\n\nContact équipe domicile: De Biolley Ph. (0477.
+ 23.31.25 - philippe.debiolley@gmail.com)\n\nAccès voiture : En venant de 
+ Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'autorout
+ e Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et desc
+ endre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche
+  (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le stade est 
+ fléché.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir s
+ ur calabssa: https://calabssa.be/c/537_1_braine_terminus_fc
+GEO:50.8103473;4.443252699999999
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="De Biolley Ph.";ROLE=Secrétaire:MAILTO:philippe.debiolley@g
+ mail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J24: BRAINE-TERMINUS FC vs UNION JP
+DTSTART;VALUE=DATE-TIME:20250222T143000Z
+DTEND;VALUE=DATE-TIME:20250222T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2025_2A_24_537_504
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
+ pale équipe domicile: Jaune et rouge\nCouleur principale équipe exterieu
+ re: Bleu et jaune\n\nContact équipe domicile: Dero G. (0479.81.83.27 - fc
+ braineterminus@gmail.com)\n\nAccès voiture : En venant de Bruxelles : Aut
+ oroute Tournai - Lille (A8)\, prendre la sortie n° 24\, direction Rebecq\
+ , puis la N 6 Bruxelles-Mons en direction de Mons. Entrer dans l'agglomér
+ ation de Braine-Le-Comte et prendre la 1ère rue à droite\, le terrain se
+  situe au bout de la rue.\nEn venant de Nivelles : Prendre la N533\, Nivel
+ les/Braine-Le-Comte. Entrer dans l'agglomération de Braine-Le-Comte et su
+ ivre la direction de Bruxelles (N 6 Mons-Bruxelles)\, prendre la 1ère rue
+  à gauche\, le terrain se situe au bout de la rue.\n\nVérifiez toujours 
+ ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be
+ /c/537_1_braine_terminus_fc
+GEO:50.6194169;4.1351187
+LOCATION:Rue du Poseur 39\, 7090 Braine-Le-Comte\, Belgique
+ORGANIZER;CN="Dero G.";ROLE=Secrétaire:MAILTO:fcbraineterminus@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J20: BRAINE-TERMINUS FC vs FORESTOIS SC
+DTSTART;VALUE=DATE-TIME:20250308T143000Z
+DTEND;VALUE=DATE-TIME:20250308T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2025_2A_20_537_152
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
+ pale équipe domicile: Jaune et rouge\nCouleur principale équipe exterieu
+ re: Noir\n\nContact équipe domicile: Dero G. (0479.81.83.27 - fcbraineter
+ minus@gmail.com)\n\nAccès voiture : En venant de Bruxelles : Autoroute To
+ urnai - Lille (A8)\, prendre la sortie n° 24\, direction Rebecq\, puis la
+  N 6 Bruxelles-Mons en direction de Mons. Entrer dans l'agglomération de 
+ Braine-Le-Comte et prendre la 1ère rue à droite\, le terrain se situe au
+  bout de la rue.\nEn venant de Nivelles : Prendre la N533\, Nivelles/Brain
+ e-Le-Comte. Entrer dans l'agglomération de Braine-Le-Comte et suivre la d
+ irection de Bruxelles (N 6 Mons-Bruxelles)\, prendre la 1ère rue à gauch
+ e\, le terrain se situe au bout de la rue.\n\nVérifiez toujours ces infos
+  sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/537_1_
+ braine_terminus_fc
+GEO:50.6194169;4.1351187
+LOCATION:Rue du Poseur 39\, 7090 Braine-Le-Comte\, Belgique
+ORGANIZER;CN="Dero G.";ROLE=Secrétaire:MAILTO:fcbraineterminus@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J21: BIG JEFKE vs BRAINE-TERMINUS FC
+DTSTART;VALUE=DATE-TIME:20250315T143000Z
+DTEND;VALUE=DATE-TIME:20250315T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2025_2A_21_137_537
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Jaune
+  et rouge\n\nContact équipe domicile: Pierard J. (0478.77.84.07 - pierard
+ .j@hotmail.com)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde
+ \, vers Neder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'
+ au rond-point\, tout droit Chemin Vert\, puis première à gauche\, Petit 
+ Chemin Vert\, terrain à 300 m.\n\nVérifiez toujours ces infos sur http:/
+ /www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/537_1_braine_term
+ inus_fc
+GEO:50.89983369999999;4.3936101
+LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
+ORGANIZER;CN="Pierard J.";ROLE=Secrétaire:MAILTO:pierard.j@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J22: BRAINE-TERMINUS FC vs IRLANDE FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20250322T143000Z
+DTEND;VALUE=DATE-TIME:20250322T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
+UID:2025_2A_22_537_402
 DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
  pale équipe domicile: Jaune et rouge\nCouleur principale équipe exterieu
  re: Vert\n\nContact équipe domicile: Dero G. (0479.81.83.27 - fcbraineter
@@ -558,27 +560,8 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
  e\, le terrain se situe au bout de la rue.\n\nVérifiez toujours ces infos
   sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/537_1_
  braine_terminus_fc
-GEO:50.6193857;4.1352085
+GEO:50.6194169;4.1351187
 LOCATION:Rue du Poseur 39\, 7090 Braine-Le-Comte\, Belgique
 ORGANIZER;CN="Dero G.";ROLE=Secrétaire:MAILTO:fcbraineterminus@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J25: CHIEFS WSL (Eq. 2) vs BRAINE-TERMINUS FC
-DTSTART;VALUE=DATE-TIME:20240406T133000Z
-DTEND;VALUE=DATE-TIME:20240406T150000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115301Z
-UID:2024_3C_25_303_537
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Jaune
-  et rouge\n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desa
- n.be)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, p
- uis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant c
- e pont le terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur
-  http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/537_1_brai
- ne_terminus_fc
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
 END:VEVENT
 END:VCALENDAR

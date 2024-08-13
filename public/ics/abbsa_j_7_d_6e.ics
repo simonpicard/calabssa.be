@@ -4,13 +4,13 @@ PRODID:abbsa_j_7_d_6e
 X-WR-CALDESC:Les matches de la journée 7 en divion 6E d'ABSSA.
 X-WR-CALNAME:D6E Journée 7
 BEGIN:VEVENT
-SUMMARY:ABSSA D6E J7: TIGRE (LE) FC vs CHEVERNY SCHAERB (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20231104T113000Z
-DTEND;VALUE=DATE-TIME:20231104T130000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_6E_7_237_128
+SUMMARY:ABSSA D6E J7: TIGRE (LE) FC vs CORNAC UNITED FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20241102T113000Z
+DTEND;VALUE=DATE-TIME:20241102T130000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2024_6E_7_237_151
 DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
- pale équipe domicile: Orange\nCouleur principale équipe exterieure: Jaun
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Roug
  e\n\nContact équipe domicile: Goetghebuer G. (0494.46.63.32 - sportetvie@
  skynet.be)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute
   Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viad
@@ -24,106 +24,103 @@ LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
 ORGANIZER;CN="Goetghebuer G.";ROLE=Secrétaire:MAILTO:sportetvie@skynet.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6E J7: BOUSVAL GENAPPE (Eq. 3) vs CORNAC UNITED FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20231104T130000Z
-DTEND;VALUE=DATE-TIME:20231104T143000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_6E_7_401_151
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge\
- n\nContact équipe domicile: Gossiaux S. (0473.44.25.52 - gossiaux_sebasti
- en@hotmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring Ou
- est\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Cha
- rleroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, trave
- rser le carrefour\, tout droit direction route du sucre.\n\nVérifiez touj
+SUMMARY:ABSSA D6E J7: ANDERLECHT US vs JETTOISE (AMICALE)
+DTSTART;VALUE=DATE-TIME:20241102T130000Z
+DTEND;VALUE=DATE-TIME:20241102T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2024_6E_7_280_347
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Mauve\nCouleur principale équipe exterieure: Bleu 
+ et blanc\n\nContact équipe domicile: Sadin D. (0477.76.34.69 - rscadan12@
+ gmail.com)\n\nAccès voiture : En venant de la Route de Lennik (Citroën) 
+ ou de la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'A
+ nderlecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre l
+ a sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du comple
+ xe et des terrains se situe à +/- 500 m. sur la gauche.\n\nVérifiez touj
  ours ces infos sur http://www.abssa.be/
-GEO:50.6007528;4.4472782
-LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
-ORGANIZER;CN="Gossiaux S.";ROLE=Secrétaire:MAILTO:gossiaux_sebastien@hotm
- ail.com
+GEO:50.8114295;4.2763934
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Sadin D.";ROLE=Secrétaire:MAILTO:rscadan12@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6E J7: CHENOIS (ESPER) (Eq. 2) vs BRUSSELS BRITISH R (Eq. 7
+SUMMARY:ABSSA D6E J7: ELAN EVERE RAC (Eq. 2) vs CHOULE AUDERGHEM (Eq. 5)
+DTSTART;VALUE=DATE-TIME:20241102T133000Z
+DTEND;VALUE=DATE-TIME:20241102T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2024_6E_7_7_517
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E08\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
+ re: Blanc\n\nContact équipe domicile: Dubois J-J. (0486.47.10.49 - jjdubo
+ is58@gmail.com)\n\nAccès voiture : Le terrain se trouve derrière l'égli
+ se St. Vincent\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8803867;4.4003168
+LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue Stroobants 75\, 1140 Evere\,
+  Belgique
+ORGANIZER;CN="Dubois J-J.";ROLE=Secrétaire:MAILTO:jjdubois58@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J7: STRING PENELOPE (Eq. 3) vs BRUSSELS BRITISH R (Eq. 7
  )
-DTSTART;VALUE=DATE-TIME:20231104T140000Z
-DTEND;VALUE=DATE-TIME:20231104T153000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_6E_7_412_1
+DTSTART;VALUE=DATE-TIME:20241102T140000Z
+DTEND;VALUE=DATE-TIME:20241102T153000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2024_6E_7_181_1
+DESCRIPTION:Terrain synthétique: non\nCode terrain: O04\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Blan
+ c\n\nContact équipe domicile: Sbaiti Y (0487.54.95.27 - yo.sbaiti@gmail.c
+ om)\n\nAccès voiture : Au départ de Bruxelles\, prendre l'autoroute E411
+  en direction de Namur. Prendre la sortie  Wavre ( n° 6) ensuite à droit
+ e la N238 en direction d'Ottignies. Prendre la sortie Ottignies/Louvain-La
+ -Neuve (N237) et suivre la direction Ottignies. Passer sous les 2 ponts du
+  chemin de fer et\, au feu de signalisation\, continuer tout droit. Au feu
+  suivant\, toujours tout droit par l'avenue des Combattants. Franchir le p
+ assage protégé pour piétons (feu clignotant) et au feu de signalisation
+  suivant\, prendre à droite direction Ceroux-Mousty par la rue des Coquer
+ ées. Le terrain se trouve sur la droite à env. 400 m. Au n° 50A \, pann
+ eau "Coca-Cola" l'entrée du centre sportif.\n\nVérifiez toujours ces inf
+ os sur http://www.abssa.be/
+GEO:50.6630401;4.5569959
+LOCATION:Centre Sportif des Coquerees\, Rue des Coquerées 50A\, 1341 Otti
+ gnies-Ceroux-Mousty\, Belgique
+ORGANIZER;CN="Sbaiti Y";ROLE=Secrétaire:MAILTO:yo.sbaiti@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J7: CHENOIS (ESPER) (Eq. 2) vs OMNISPORT BIERGHES (Eq. 2
+ )
+DTSTART;VALUE=DATE-TIME:20241102T140000Z
+DTEND;VALUE=DATE-TIME:20241102T153000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2024_6E_7_412_455
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W02\n\nCouleur princi
  pale équipe domicile: Blanc et rouge\nCouleur principale équipe exterieu
- re: Blanc\n\nContact équipe domicile: Gioffredi G. (0474.24.92.27 - 412fc
- ec@gmail.com)\n\nAccès voiture : Venant d'Uccle\, prendre la chaussée de
-  Waterloo\, ensuite la chaussée de Bruxelles\, continuer jusqu'à la plac
- e E. Vandevelde (intersection de la chaussée de Bruxelles avec la chauss
- ée de Tervuren à Joli-Bois). Au feu de signalisation prendre à droite l
- a chaussée Bara. Le terrain se trouve à droite à +/- 500 m.\n\nVérifie
- z toujours ces infos sur http://www.abssa.be/
+ re: Bordeaux\n\nContact équipe domicile: Mento M (0477.83.27.83 - 412fcec
+ @gmail.com)\n\nAccès voiture : Venant d'Uccle\, prendre la chaussée de W
+ aterloo\, ensuite la chaussée de Bruxelles\, continuer jusqu'à la place 
+ E. Vandevelde (intersection de la chaussée de Bruxelles avec la chaussée
+  de Tervuren à Joli-Bois). Au feu de signalisation prendre à droite la c
+ haussée Bara. Le terrain se trouve à droite à +/- 500 m.\n\nVérifiez t
+ oujours ces infos sur http://www.abssa.be/
 GEO:50.701676;4.397567
 LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
-ORGANIZER;CN="Gioffredi G.";ROLE=Secrétaire:MAILTO:412fcec@gmail.com
+ORGANIZER;CN="Mento M";ROLE=Secrétaire:MAILTO:412fcec@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6E J7: BRITISH UNITED (Eq. 7) vs WATERMAEL CS
-DTSTART;VALUE=DATE-TIME:20231104T143000Z
-DTEND;VALUE=DATE-TIME:20231104T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_6E_7_132_375
-DESCRIPTION:Terrain synthétique: non\nCode terrain: M02\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge\
- n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gillesvander
- seypen@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Anvers (E19) sor
- tie Mechelen-Noord (n° 9) En arrivant dans le centre\, suivre la directio
- n "Heist-op-den-Berg" Aller tout droit et passer le viaduc du chemin de fe
- r. Après 1 km. suivre les flèches "De Nekker". Garer les voitures à l'e
- xtérieur du complexe. IL FAUT COMPTER ENV. 10 min. à pied jusqu'au terra
- in.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
-GEO:51.0254354;4.503786799999999
-LOCATION:Sportpark de Nekker\, Nekkerspoel-Borcht\, 2800 Mechelen\, Belgiq
- ue
-ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
- gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6E J7: IRLANDE FC (Eq. 6) vs FAUBOURG-BRAINOISE (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20231104T143000Z
-DTEND;VALUE=DATE-TIME:20231104T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_6E_7_402_100
-DESCRIPTION:Terrain synthétique: non\nCode terrain: N04\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Rouge\
- n\nContact équipe domicile: Bridoux J.F. (0455.12.12.65 - fci.secretary.m
- ens@outlook.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à Nossege
- m\, au premier croisement prendre à gauche la \nMechelsesteenweg. Le terr
- ain est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège
- \, prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelsest
- eenweg\, traverser la chaussée de Louvain\, et suivre comme ci-avant.\n\n
- Vérifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.88776559999999;4.50894
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER;CN="Bridoux J.F.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@out
- look.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6E J7: BRUSSELS LTC (Eq. 6) vs NIVELLES AS (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20231104T143000Z
-DTEND;VALUE=DATE-TIME:20231104T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_6E_7_39_306
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
- pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Or
- ange fluo\n\nContact équipe domicile: Van Hacht O. (0475.96.43.03 - bruss
- elsltc@hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre le R
- ing Est direction Waterloo. Sortir au pont de Groenendael\, direction La H
- ulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, to
- ujours tout droit. Au feu de signalisation et le carrefour de La Hulpe\, t
- out droit direction Genval. Au feu de signalisation prendre à gauche et e
- nsuite directement à droite\, l'avenue Soyer\, derrière le G.B. Le terra
- in se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.abss
- a.be/
-GEO:50.7309318;4.4945865
-LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
- m
+SUMMARY:ABSSA D6E J7: CHEVERNY SCHAERB (Eq. 2) vs KARIA FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20241102T143000Z
+DTEND;VALUE=DATE-TIME:20241102T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2024_6E_7_128_498
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Jaune & Noir\nCouleur principale équipe exterieure
+ : Noir\n\nContact équipe domicile: Bex V (0476.92.58.43 - vincentbex@gmai
+ l.com)\n\nAccès voiture : Direction cimetière de Jette\, ensuite prendre
+  la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Cr
+ ocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur h
+ ttp://www.abssa.be/
+GEO:50.8868564;4.3286963
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
+ Belgique
+ORGANIZER;CN="Bex V";ROLE=Secrétaire:MAILTO:vincentbex@gmail.com
 END:VEVENT
 END:VCALENDAR

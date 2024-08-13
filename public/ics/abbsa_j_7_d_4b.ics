@@ -4,120 +4,152 @@ PRODID:abbsa_j_7_d_4b
 X-WR-CALDESC:Les matches de la journée 7 en divion 4B d'ABSSA.
 X-WR-CALNAME:D4B Journée 7
 BEGIN:VEVENT
-SUMMARY:ABSSA D4B J7: CHENOIS (ESPER) vs CHOULE AUDERGHEM (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20231104T123000Z
-DTEND;VALUE=DATE-TIME:20231104T140000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_4B_7_412_517
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W02\n\nCouleur princi
- pale équipe domicile: Blanc et rouge\nCouleur principale équipe exterieu
- re: Noir\n\nContact équipe domicile: Gioffredi G. (0474.24.92.27 - 412fce
- c@gmail.com)\n\nAccès voiture : Venant d'Uccle\, prendre la chaussée de 
- Waterloo\, ensuite la chaussée de Bruxelles\, continuer jusqu'à la place
-  E. Vandevelde (intersection de la chaussée de Bruxelles avec la chaussé
- e de Tervuren à Joli-Bois). Au feu de signalisation prendre à droite la 
- chaussée Bara. Le terrain se trouve à droite à +/- 500 m.\n\nVérifiez 
- toujours ces infos sur http://www.abssa.be/
-GEO:50.701676;4.397567
-LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
-ORGANIZER;CN="Gioffredi G.";ROLE=Secrétaire:MAILTO:412fcec@gmail.com
+SUMMARY:ABSSA D4B J7: STRING PENELOPE (Eq. 2) vs SPORTING BW
+DTSTART;VALUE=DATE-TIME:20241102T113000Z
+DTEND;VALUE=DATE-TIME:20241102T130000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2024_4B_7_181_673
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Blan
+ c\n\nContact équipe domicile: Sbaiti Y (0487.54.95.27 - yo.sbaiti@gmail.c
+ om)\n\nAccès voiture : En venant de Bruxelles\, prendre l'autoroute E411 
+ en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir la droite
+  et au bout de la bretelle\, prendre la direction d'Ottignies par la N238.
+  Au 1èr feu de signalisation continuer tout droit en passant devant Walib
+ i (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au bout de c
+ ette sortie\, en face du Tennis Club La Palestre\, prendre à droite la ru
+ e Charles Dubois\, jusqu'au carrefour principal. Continuer tout droit en t
+ raversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du chemin d
+ e fer et prendre la rue de l'Europe jusqu'à la place de l'Europe. Travers
+ er cette place par la droite. Au bout à gauche\, suivre l'avenue Jassans.
+  Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limelette). Co
+ ntinuer cette rue et passer en dessous du 2ème pont du chemin de fer. Apr
+ ès ce pont\, prendre tout de suite à gauche l'avenue Demolder (panneau F
+ .C. Limelette)\, en face de l'étang du Buston. Suivre cette avenue jusqu'
+ à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m. dans cet
+ te rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C. Limelett
+ e). L'entrée du terrain est située 50 m. plus bas sur la gauche.\n\nVér
+ ifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.67628029999999;4.562802
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Sbaiti Y";ROLE=Secrétaire:MAILTO:yo.sbaiti@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4B J7: SAINT GEORGES RCS (Eq. 3) vs BREU UNITED
-DTSTART;VALUE=DATE-TIME:20231104T143000Z
-DTEND;VALUE=DATE-TIME:20231104T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_4B_7_221_603
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W13\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Orang
- e et Mauve\n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.
- destin@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la 
- rue Voot\, puis la chaussée de Stockel. Passer en dessous du petit pont e
- t continuer la chaussée de Stockel pendant env. 500 m. Le terrain est sit
- ué sur la droite de la chaussée.\n\nVérifiez toujours ces infos sur htt
- p://www.abssa.be/
-GEO:50.8416694;4.4547837
-LOCATION:Chaussée de Stockel 376\, 1150 Woluwé-Saint-Pierre\, Belgique
-ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
+SUMMARY:ABSSA D4B J7: DOPA FC vs BIERGEOIS CS
+DTSTART;VALUE=DATE-TIME:20241102T130000Z
+DTEND;VALUE=DATE-TIME:20241102T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2024_4B_7_666_70
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
+ pale équipe domicile: Noir et rouge\nCouleur principale équipe exterieur
+ e: Bleu\n\nContact équipe domicile: Aikar Y. (0484.86.90.44 - bravm.abssa
+ @gmail.com)\n\nAccès voiture : Chaussée de Haecht\, vers Diegem. Prendre
+  la rue Harenheyde à gauche\, juste au feu de signalisation\, après la s
+ tation "JET"\, situé à gauche. Entrée du stade par la rue Harenheyde\, 
+ 100 m. au-delà du pont du chemin de fer.\n\nVérifiez toujours ces infos 
+ sur http://www.abssa.be/
+GEO:50.8928227;4.425372
+LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
+ORGANIZER;CN="Aikar Y.";ROLE=Secrétaire:MAILTO:bravm.abssa@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4B J7: ASTURIAS SPORTING vs GAMBRINUS F.C.
-DTSTART;VALUE=DATE-TIME:20231104T143000Z
-DTEND;VALUE=DATE-TIME:20231104T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_4B_7_602_645
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
- pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: N
- oir\n\nContact équipe domicile: Stulens K. (0474.62.61.41 - kevin.stulens
- @live.be)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 300 m.
-  en direction de Lennik\, prendre à droite.\nVenant de la chaussée de Mo
- ns\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Th
- éo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en directio
- n de Lennik.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.8177358;4.2557195
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER;CN="Stulens K.";ROLE=Secrétaire:MAILTO:kevin.stulens@live.be
+SUMMARY:ABSSA D4B J7: GAMBRINUS F.C. vs FAUBOURG-BRAINOISE
+DTSTART;VALUE=DATE-TIME:20241102T130000Z
+DTEND;VALUE=DATE-TIME:20241102T143000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2024_4B_7_645_100
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E10\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge\
+ n\nContact équipe domicile: Brismee M (0474.68.53.85 - fcgambrinusfc@gmai
+ l.com)\n\nAccès voiture : Prendre la chaussée de Louvain\, Place Meiser\
+ , Place de Paduwa\, prendre ensuite la 2ème rue à droite\, l' Avenue des
+  Communautés\, l'entrée au terrain est situé à 100 m.\n\nVérifiez tou
+ jours ces infos sur http://www.abssa.be/
+GEO:50.8582569;4.4251813
+LOCATION:Stade Communal G. Petre\, Avenue des Communautés\, 1140 Evere\, 
+ Belgique
+ORGANIZER;CN="Brismee M";ROLE=Secrétaire:MAILTO:fcgambrinusfc@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4B J7: DUDEN SPORT R vs ZIJP FC
-DTSTART;VALUE=DATE-TIME:20231104T143000Z
-DTEND;VALUE=DATE-TIME:20231104T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_4B_7_22_646
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
- pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
- re: Noir\n\nContact équipe domicile: Isabeaux A (0472.34.00.24 - arnaud86
- 84@hotmail.be)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 3
- 00 m. en direction de Lennik\, prendre à droite.\nVenant de la chaussée 
- de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bl
- d. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en dir
- ection de Lennik.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.8177358;4.2557195
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER;CN="Isabeaux A";ROLE=Secrétaire:MAILTO:arnaud8684@hotmail.be
+SUMMARY:ABSSA D4B J7: CORNAC UNITED FC vs MIREILLE WEMMEL
+DTSTART;VALUE=DATE-TIME:20241102T133000Z
+DTEND;VALUE=DATE-TIME:20241102T150000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2024_4B_7_151_93
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A01\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rouge
+  et  Noir\n\nContact équipe domicile: Denayer M. (0476.53.14.48 - marcden
+ ayermd@gmail.com)\n\nAccès voiture : Par le Ring Ouest\, direction Paris\
+ , sortie Westland Shopping Center (n° 14) continuer tout droit\, remonter
+  vers le Ring et prendre à droite pour sortir vers Itterbeek. Prendre l'a
+ venue d'Itterbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. Le t
+ errain se trouve à gauche\, entre l'école Van Belle et Veeweyde.\n\nVér
+ ifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8354396;4.2768611
+LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
+ORGANIZER;CN="Denayer M.";ROLE=Secrétaire:MAILTO:marcdenayermd@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4B J7: MIREILLE WEMMEL vs BLUE THRILLS
-DTSTART;VALUE=DATE-TIME:20231104T143000Z
-DTEND;VALUE=DATE-TIME:20231104T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_4B_7_93_619
-DESCRIPTION:Terrain synthétique: non\nCode terrain: W16\n\nCouleur princi
- pale équipe domicile: Rouge et  Noir\nCouleur principale équipe exterieu
- re: Bleu Marine\n\nContact équipe domicile: Vermeerbergen D. (0497.31.76.
- 07 - daanvermeerbergen@hotmail.com)\n\nAccès voiture : Ring RO\, afrit We
- mmel-Merchtem (n° 9)\, richting Merchtem volgen via de Is. Meyskensstraat
-  tot aan de rotonde\, op de rotonde de 4de afslag nemen\, Diepstraat deze 
- vloeit over in de Steenweg op Brussel\, 50 m. voorbij het eerste kruispunt
-  met verkeerslichten\, links van de steenweg\, bevindt zich het stadium (p
- arking)\n\nVérifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.9077704;4.3065753
-LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
-  Wemmel\, Belgique
-ORGANIZER;CN="Vermeerbergen D.";ROLE=Secrétaire:MAILTO:daanvermeerbergen@
- hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J7: BRUSSELS LTC (Eq. 3) vs VIRGINAL ASF
-DTSTART;VALUE=DATE-TIME:20231104T143000Z
-DTEND;VALUE=DATE-TIME:20231104T160000Z
-DTSTAMP;VALUE=DATE-TIME:20230911T115302Z
-UID:2023_4B_7_39_497
+SUMMARY:ABSSA D4B J7: BRUSSELS LTC (Eq. 4) vs BLACK STAR GENVAL
+DTSTART;VALUE=DATE-TIME:20241102T140000Z
+DTEND;VALUE=DATE-TIME:20241102T153000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2024_4B_7_39_601
 DESCRIPTION:Terrain synthétique: non\nCode terrain: L09\n\nCouleur princi
- pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Ve
- rt\n\nContact équipe domicile: Van Hacht O. (0475.96.43.03 - brusselsltc@
- hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre le Ring Est
-  direction Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, 
- Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours 
- tout droit. Au feu de signalisation et le carrefour de La Hulpe\, tout dro
- it direction Genval. Au feu de signalisation prendre à gauche et ensuite 
- directement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se t
- rouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.7309318;4.4945865
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: No
+ ir et Blanc\n\nContact équipe domicile: Van Hacht O. (0475.96.43.03 - dan
+ nyboffin@hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre le
+  Ring Est direction Waterloo. Sortir au pont de Groenendael\, direction La
+  Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, 
+ toujours tout droit. Au feu de signalisation et le carrefour de La Hulpe\,
+  tout droit direction Genval. Au feu de signalisation prendre à gauche et
+  ensuite directement à droite\, l'avenue Soyer\, derrière le G.B. Le ter
+ rain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.ab
+ ssa.be/
+GEO:50.7308998;4.4944678
 LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:brusselsltc@hotmail.co
+ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:dannyboffin@hotmail.co
  m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J7: L'EKIP vs VIRGINAL ASF
+DTSTART;VALUE=DATE-TIME:20241102T140000Z
+DTEND;VALUE=DATE-TIME:20241102T153000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2024_4B_7_662_497
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: P02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Vert\
+ n\nContact équipe domicile: De Meeûs A (0493.91.45.85 - lekipofficielle@
+ gmail.com)\n\nAccès voiture : a Partir de Bruxelles\, Prendre la E 411 en
+  Direction de Namur. Prendre la Sortie 11  Gembloux pour Rejoindre la N 29
+  en Direction de Gembloux / Tirlement / Jodoigne / Perwez. suivre la N29 e
+ t Chaussée de Wavre (N243) en Direction de la Rue des Marronniers. au Ron
+ d-Point 1\, 2 et 3 Prendre chaque Fois la première Sortie.\nAu Rond-Point
+  suivant (4Ième) Prendre la deuxième Sortie et Continuer sur la Chaussé
+ e de Wavre / N 243. Prendre à Droite sur la Rue des Marronniers\, le Terr
+ ain se Trouve à Droite\n\nVérifiez toujours ces infos sur http://www.abs
+ sa.be/
+GEO:50.6429684;4.800823299999999
+LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
+ORGANIZER;CN="De Meeûs A";ROLE=Secrétaire:MAILTO:lekipofficielle@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J7: ZIJP FC vs VOLLENBACK FC
+DTSTART;VALUE=DATE-TIME:20241102T143000Z
+DTEND;VALUE=DATE-TIME:20241102T160000Z
+DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
+UID:2024_4B_7_646_589
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E04\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rose e
+ t noir\n\nContact équipe domicile: Salamone E. (0475.20.92.37 - fczijp@ou
+ tlook.com)\n\nAccès voiture : De la Place Meiser\, remonter tous les boul
+ evards. Au carrefour de la Chaussée de Wavre\, prendre celle-ci à droite
+ \, ensuite la 2ème rue à droite (Rue Général Fivé)\, puis la 3ème à
+  droite (rue Baron Dhanis).\n\nVérifiez toujours ces infos sur http://www
+ .abssa.be/
+GEO:50.8287714;4.3975708
+LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
+ORGANIZER;CN="Salamone E.";ROLE=Secrétaire:MAILTO:fczijp@outlook.com
 END:VEVENT
 END:VCALENDAR
