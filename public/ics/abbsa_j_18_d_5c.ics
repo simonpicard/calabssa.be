@@ -4,122 +4,120 @@ PRODID:abbsa_j_18_d_5c
 X-WR-CALDESC:Les matches de la journée 18 en divion 5C d'ABSSA.
 X-WR-CALNAME:D5C Journée 18
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J18: CLAUDY F.C. vs UNION BRUXELLOISE
-DTSTART;VALUE=DATE-TIME:20250208T113000Z
-DTEND;VALUE=DATE-TIME:20250208T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_5C_18_678_655
-DESCRIPTION:Terrain synthétique: non\nCode terrain: N04\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir/ 
- Bleu\n\nContact équipe domicile: De Spirlet R. (0470.43.29.45 - rod.de.sp
- irlet@gmail.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à Nossege
- m\, au premier croisement prendre à gauche la \nMechelsesteenweg. Le terr
- ain est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège
- \, prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelsest
- eenweg\, traverser la chaussée de Louvain\, et suivre comme ci-avant.\n\n
- Vérifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.88776559999999;4.50894
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER;CN="De Spirlet R.";ROLE=Secrétaire:MAILTO:rod.de.spirlet@gmail.
+SUMMARY:ABSSA D5C J18: PINK PANTHERS vs WOLUWE FC
+DTSTART;VALUE=DATE-TIME:20260124T113000Z
+DTEND;VALUE=DATE-TIME:20260124T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_5C_18_635_153
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
+ pale équipe domicile: Noir/ rose\nCouleur principale équipe exterieure: 
+ Bleu\n\nContact équipe domicile: Legrand M (0494.14.76.28 - pinkpanthers.
+ abssa@gmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring O
+ uest\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Ch
+ arleroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, trav
+ erser le carrefour\, tout droit direction route du sucre.\n\nVérifiez tou
+ jours ces infos sur http://www.abssa.be/
+GEO:50.601458;4.44982
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER;CN="Legrand M";ROLE=Secrétaire:MAILTO:pinkpanthers.abssa@gmail.
  com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J18: CELTIC FORESTOIS vs CENTRAL PARK FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20250208T130000Z
-DTEND;VALUE=DATE-TIME:20250208T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_5C_18_330_562
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
- pale équipe domicile: Vert et  blanc\nCouleur principale équipe exterieu
- re: Bordeaux\n\nContact équipe domicile: Ceuster J (0472.52.87.14 - ceust
- er-jeremy@hotmail.be)\n\nAccès voiture : Au départ de la Place St. Denis
-  à Forest prendre la chaussée de Neerstalle jusqu'à la rue de la Soieri
- e (4ème rue à droite) et dans la rue de la Soierie rouler env. 100 m. pu
- is 1ère à gauche (Bld. de la 2ème Armée Britannique) pendant env. 500 
- m. L'entrée du Complexe se trouve à hauteur de City Cart\, à gauche de 
- la route.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER;CN="Ceuster J";ROLE=Secrétaire:MAILTO:ceuster-jeremy@hotmail.be
+SUMMARY:ABSSA D5C J18: CENTRAL PARK FC (Eq. 2) vs ECUSSON FC
+DTSTART;VALUE=DATE-TIME:20260124T113000Z
+DTEND;VALUE=DATE-TIME:20260124T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_5C_18_562_404
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Ja
+ une et Bleu\n\nContact équipe domicile: Genot F. (0473.57.28.61 - genotfl
+ orian@hotmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la
+  rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus
+  28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours 
+ ces infos sur http://www.abssa.be/
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J18: SAINT GEORGES RCS (Eq. 3) vs CHIEFS WSL (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20250208T143000Z
-DTEND;VALUE=DATE-TIME:20250208T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_5C_18_221_303
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W13\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Blanc
- \n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.destin@gma
- il.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\,
-  puis la chaussée de Stockel. Passer en dessous du petit pont et continue
- r la chaussée de Stockel pendant env. 500 m. Le terrain est situé sur la
-  droite de la chaussée.\n\nVérifiez toujours ces infos sur http://www.ab
- ssa.be/
-GEO:50.8417148;4.4547744
-LOCATION:Chaussée de Stockel 376\, 1150 Woluwé-Saint-Pierre\, Belgique
-ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
+SUMMARY:ABSSA D5C J18: BLACK BEARS UNITED vs WAPPERS FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260124T130000Z
+DTEND;VALUE=DATE-TIME:20260124T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_5C_18_676_67
+DESCRIPTION:Terrain synthétique: non\nCode terrain: N04\n\nCouleur princi
+ pale équipe domicile: Rose et noir\nCouleur principale équipe exterieure
+ : Rayé noir et blanc\n\nContact équipe domicile: Demesmaecker J. (0483.5
+ 3.94.20 - bbu.abssa@gmail.com)\n\nAccès voiture : Chaussée de Louvain ju
+ squ'à Nossegem\, au premier croisement prendre à gauche la \nMechelseste
+ enweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Br
+ uxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à gauche
+  la Mechelsesteenweg\, traverser la chaussée de Louvain\, et suivre comme
+  ci-avant.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.88776559999999;4.50894
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER;CN="Demesmaecker J.";ROLE=Secrétaire:MAILTO:bbu.abssa@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J18: MILAN MIRAPIDE AC vs FOOT FRITESTYLE
-DTSTART;VALUE=DATE-TIME:20250208T143000Z
-DTEND;VALUE=DATE-TIME:20250208T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_5C_18_680_679
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: C02\n\nCouleur princi
- pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Ve
- rt / noir\n\nContact équipe domicile: Dubois B. (0498.46.80.76 - brieucdu
- b@gmail.com)\n\nAccès voiture : Ring ouest: Direction Waterloo\, prendre 
- la sortie "butte du lion" \, prendre à droite\, puis au feu rouge prendre
-  à droite\, rouler jusque Genappe et prendre la RN 25 en direction de Wav
- re\, prendre la deuxième sortie (Court St. Etienne) et prendre à gauche\
- , le terrain se trouve à 1 km. a main droite.\nPar la E411: Prendre la E4
- 11 direction Namur\, ensuite sortir a Wavre\, prendre ensuite la sortie Vi
- llers-La-Ville\, ensuite à droite puis directement à gauche a l'arbre et
-  descendre jusque dans le fond\, prendre a droite et le terrain se trouve 
- à 500 m. a main gauche.\n\nVérifiez toujours ces infos sur http://www.ab
- ssa.be/
-GEO:50.6417231;4.5547061
-LOCATION:Avenue des Combattants\, 1490 Court St. Etienne\, Belgique
-ORGANIZER;CN="Dubois B.";ROLE=Secrétaire:MAILTO:brieucdub@gmail.com
+SUMMARY:ABSSA D5C J18: CHOULE AUDERGHEM (Eq. 4) vs PIRATE S.C.
+DTSTART;VALUE=DATE-TIME:20260124T130000Z
+DTEND;VALUE=DATE-TIME:20260124T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_5C_18_517_670
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R03\n\nCouleur princi
+ pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
+ erieure: Noir/Jaune\n\nContact équipe domicile: Vandenplas D. (0476.54.48
+ .01 - dav_54@hotmail.com)\n\nAccès voiture : Par la E411 Bruxelles-Namur\
+ , prendre la sortie n° 5 (Wavre Nord\, Rixensart\, Bierges).\nEnsuite pre
+ ndre la N257 pendant 700 mètres jusqu'au rond-point\, prendre la rue de l
+ 'Etoile et ensuite la rue de Mérode jusqu'à Rixensart. Après 900 mètre
+ s\, à la Place de la Perche\, prendre à droite l'avenue de la Paix et en
+ core à droite l'avenue Clermont Tonnerre.\n\nVérifiez toujours ces infos
+  sur http://www.abssa.be/
+GEO:50.7128483;4.5376972
+LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
+ 30 Rixensart\, Belgique
+ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J18: KARIA FC vs PIRATE S.C.
-DTSTART;VALUE=DATE-TIME:20250208T143000Z
-DTEND;VALUE=DATE-TIME:20250208T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_5C_18_498_670
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir /
-  doré\n\nContact équipe domicile: Bercha  M (0477.69.27.28 - mohamedberc
- ha@hotmail.fr)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\
- , vers Neder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'a
- u rond-point\, tout droit Chemin Vert\, puis première à gauche\, Petit C
- hemin Vert\, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://
- www.abssa.be/
-GEO:50.89983369999999;4.3936101
-LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
-ORGANIZER;CN="Bercha  M";ROLE=Secrétaire:MAILTO:mohamedbercha@hotmail.fr
+SUMMARY:ABSSA D5C J18: BEEKINGS F.C. vs EFFETA FC
+DTSTART;VALUE=DATE-TIME:20260124T143000Z
+DTEND;VALUE=DATE-TIME:20260124T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_5C_18_648_516
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W03\n\nCouleur princi
+ pale équipe domicile: Jaune et noir\nCouleur principale équipe exterieur
+ e: Rouge et blanc\n\nContact équipe domicile: Thonart W. (0475.96.36.63 -
+  williamthonart@gmail.com)\n\nAccès voiture : En venant de Bruxelles par 
+ le Ring 0\, prendre la sortie 27 et continuer par la Drève de Richelle ju
+ squ'à votre destination.\n\nVérifiez toujours ces infos sur http://www.a
+ bssa.be/
+GEO:50.7047021;4.4150871
+LOCATION:St.John'S International  School\, Drève de Richelle 146\, 1410 W
+ aterloo\, Belgique
+ORGANIZER;CN="Thonart W.";ROLE=Secrétaire:MAILTO:williamthonart@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J18: DEAF BRUSSELS FC vs BRUSSELS LTC (Eq. 5)
-DTSTART;VALUE=DATE-TIME:20250208T143000Z
-DTEND;VALUE=DATE-TIME:20250208T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_5C_18_593_39
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
- pale équipe domicile: Vert et noir\nCouleur principale équipe exterieure
- : Bordeaux\n\nContact équipe domicile: Van Brandt S. (0494.24.34.05 (SMS)
-  - deaf.brussels.2011@gmail.com)\n\nAccès voiture : Chaussée de Haecht\,
-  vers Diegem. Prendre la rue Harenheyde à gauche\, juste au feu de signal
- isation\, après la station "JET"\, situé à gauche. Entrée du stade par
-  la rue Harenheyde\, 100 m. au-delà du pont du chemin de fer.\n\nVérifie
- z toujours ces infos sur http://www.abssa.be/
-GEO:50.8928227;4.425372
-LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
-ORGANIZER;CN="Van Brandt S.";ROLE=Secrétaire:MAILTO:deaf.brussels.2011@gm
- ail.com
+SUMMARY:ABSSA D5C J18: SOUTH PROJECT vs CAFARD F.C.
+DTSTART;VALUE=DATE-TIME:20260124T143000Z
+DTEND;VALUE=DATE-TIME:20260124T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_5C_18_685_674
+DESCRIPTION:Terrain synthétique: non\nCode terrain: I03\n\nCouleur princi
+ pale équipe domicile: Rose et blanc\nCouleur principale équipe exterieur
+ e: Vert\n\nContact équipe domicile: Ernotte A. (0470.12.81.40 - achille.e
+ rnotte@icloud.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l
+ ’E411 en direction de Namur et prendre la sortie 11 Perwez-Gembloux\, pr
+ endre à droite vers Perwez sur la N29 jusqu’au rond-point de Glimes qui
+  croise la N91 (7km depuis l’E411). Sortir à la 3ème sortie sur la N91
+  en\ndirection de Hamme-Mille. Prendre ensuite la 3ème rue à gauche et l
+ e terrain se trouve directement sur la droite.\n\nVérifiez toujours ces i
+ nfos sur http://www.abssa.be/
+GEO:50.6849677;4.8070879
+LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
+ORGANIZER;CN="Ernotte A.";ROLE=Secrétaire:MAILTO:achille.ernotte@icloud.c
+ om
 END:VEVENT
 END:VCALENDAR

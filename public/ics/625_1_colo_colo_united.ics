@@ -4,77 +4,14 @@ PRODID:625_1_colo_colo_united
 X-WR-CALDESC:Les matches du club COLO-COLO UNITED (equipe 1) en ABSSA.
 X-WR-CALNAME:ABSSA: COLO-COLO UNITED (eq. 1)
 BEGIN:VEVENT
-SUMMARY:ABSSA D2B J23: AZUR RCS (Eq. 2) vs COLO-COLO UNITED
-DTSTART;VALUE=DATE-TIME:20240831T113000Z
-DTEND;VALUE=DATE-TIME:20240831T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_2B_23_109_625
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W12\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu f
- oncé et blanc\n\nContact équipe domicile: Mad. Decamps N. (0477.27.39.66
-  - nathalie_decamps@hotmail.com)\n\nAccès voiture : Avenue de Tervuren\, 
- direction Tervuren. Passé le boulevard du Souverain prendre à gauche au 
- premier feu de signalisation (Av. Madoux). Au feu de signalisation suivant
-  prendre la 2ème rue à main droite (Av. J. Dujardin). Ensuite 1ère rue 
- à gauche (Av. Salomé).\n\nVérifiez toujours ces infos sur http://www.ab
- ssa.be/\nVoir sur calabssa: https://calabssa.be/c/625_1_colo_colo_united
-GEO:50.830818;4.455442
-LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
- elgique
-ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
- tmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2B J1: COLO-COLO UNITED vs REQUINS (LES)
-DTSTART;VALUE=DATE-TIME:20240907T103000Z
-DTEND;VALUE=DATE-TIME:20240907T120000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_2B_1_625_556
+SUMMARY:ABSSA D1 J1: COLO-COLO UNITED vs WONG A.S.
+DTSTART;VALUE=DATE-TIME:20250830T103000Z
+DTEND;VALUE=DATE-TIME:20250830T120000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_1_625_523
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
  pale équipe domicile: Bleu foncé et blanc\nCouleur principale équipe ex
- terieure: Noir\n\nContact équipe domicile: De Le Court Y. (0472.35.25.20 
- - youdelecourt@gmail.com)\n\nAccès voiture : Au départ de la Place Meise
- r\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2
- ). Sous le viaduc prendre à droite\, l'avenue des Anciens Combattants. Ju
- ste après le carrefour avec des feux de signalisation prendre à droite v
- ers la Place de la Chapelle\, puis prendre la 4ème rue à main droite (ru
- e au Bois). Le terrain se trouve à 300 m. sur la droite.\n\nVérifiez tou
- jours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calab
- ssa.be/c/625_1_colo_colo_united
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER;CN="De Le Court Y.";ROLE=Secrétaire:MAILTO:youdelecourt@gmail.c
- om
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2B J2: TOURINNOIS FC (Eq. 2) vs COLO-COLO UNITED
-DTSTART;VALUE=DATE-TIME:20240914T130000Z
-DTEND;VALUE=DATE-TIME:20240914T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_2B_2_292_625
-DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu 
- foncé et blanc\n\nContact équipe domicile: Strade P. (010.65.83.02 - str
- adepaul@hotmail.com)\n\nAccès voiture : A partir de l'autoroute Bruxelles
- -Namur (E411)\, prendre la sortie  Walhain (n° 10). Au pied de la rampe d
- 'accès\, suivre la direction Walhain vers la droite et après 200 m. pren
- dre à droite et 400 m. plus loin\, prendre à nouveau à droite. Le terra
- in se trouve à +/- 300 m. sur la gauche.\n\nVérifiez toujours ces infos 
- sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/625_1_c
- olo_colo_united
-GEO:50.6415282;4.7193257
-LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
-ORGANIZER;CN="Strade P.";ROLE=Secrétaire:MAILTO:stradepaul@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2B J3: COLO-COLO UNITED vs STER'S
-DTSTART;VALUE=DATE-TIME:20240921T103000Z
-DTEND;VALUE=DATE-TIME:20240921T120000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_2B_3_625_598
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
- pale équipe domicile: Bleu foncé et blanc\nCouleur principale équipe ex
- terieure: Vert et Blanc\n\nContact équipe domicile: De Le Court Y. (0472.
+ terieure: Jaune et Noir\n\nContact équipe domicile: De Le Court Y. (0472.
  35.25.20 - youdelecourt@gmail.com)\n\nAccès voiture : Au départ de la Pl
  ace Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraain
  em (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anciens Combat
@@ -89,175 +26,32 @@ ORGANIZER;CN="De Le Court Y.";ROLE=Secrétaire:MAILTO:youdelecourt@gmail.c
  om
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2B J4: PHARMA SC vs COLO-COLO UNITED
-DTSTART;VALUE=DATE-TIME:20240928T133000Z
-DTEND;VALUE=DATE-TIME:20240928T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_2B_4_268_625
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
- foncé et blanc\n\nContact équipe domicile: Van Durme Th. (0477.71.89.93 
- - phie.dumidi@scarlet.be)\n\nAccès voiture : A partir du square des Archi
- ducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVéri
- fiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https
- ://calabssa.be/c/625_1_colo_colo_united
-GEO:50.80645209999999;4.4087184
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
- e
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2B J5: COLO-COLO UNITED vs ITT - GECKO FC
-DTSTART;VALUE=DATE-TIME:20241005T103000Z
-DTEND;VALUE=DATE-TIME:20241005T120000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_2B_5_625_92
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
- pale équipe domicile: Bleu foncé et blanc\nCouleur principale équipe ex
- terieure: Noir\n\nContact équipe domicile: De Le Court Y. (0472.35.25.20 
- - youdelecourt@gmail.com)\n\nAccès voiture : Au départ de la Place Meise
- r\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2
- ). Sous le viaduc prendre à droite\, l'avenue des Anciens Combattants. Ju
- ste après le carrefour avec des feux de signalisation prendre à droite v
- ers la Place de la Chapelle\, puis prendre la 4ème rue à main droite (ru
- e au Bois). Le terrain se trouve à 300 m. sur la droite.\n\nVérifiez tou
+SUMMARY:ABSSA D1 J2: LXG CINQUANTENAIRE vs COLO-COLO UNITED
+DTSTART;VALUE=DATE-TIME:20250906T113000Z
+DTEND;VALUE=DATE-TIME:20250906T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_2_542_625
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S09\n\nCouleur princi
+ pale équipe domicile: Jaune et Bleu.\nCouleur principale équipe exterieu
+ re: Bleu foncé et blanc\n\nContact équipe domicile: Gimenez Villahoz M (
+ 0487.79.91.95 - lxgfc50@gmail.com)\n\nAccès voiture : Place Meiser\, desc
+ endre Bd. Général Wahis\, Bd Lambermont\, au deuxième carrefour prendre
+  à gauche\, puis encore la première à gauche\nOu :  Place Meiser prendr
+ e Av Ernest Cambier. - Tram n° 7  - Bus 65 arrêt Chazal\n\nVérifiez tou
  jours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calab
  ssa.be/c/625_1_colo_colo_united
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER;CN="De Le Court Y.";ROLE=Secrétaire:MAILTO:youdelecourt@gmail.c
- om
+GEO:50.8581504;4.3949295
+LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
+ ue
+ORGANIZER;CN="Gimenez Villahoz M";ROLE=Secrétaire:MAILTO:lxgfc50@gmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2B J6: LA LORRAINE-MTM.R vs COLO-COLO UNITED
-DTSTART;VALUE=DATE-TIME:20241012T120000Z
-DTEND;VALUE=DATE-TIME:20241012T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_2B_6_44_625
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
- pale équipe domicile: Bordeaux/bleu\nCouleur principale équipe exterieur
- e: Bleu foncé et blanc\n\nContact équipe domicile: Degimbe M. (0478.53.6
- 3.56 - lalorrainefc@gmail.com)\n\nAccès voiture : Autoroute E411\, prendr
- e la sortie Rosières. Passer devant l'église\, longer l'autoroute et tou
- rner à droite au cimetière des animaux. Terrain à 200 m.\n\nVérifiez t
- oujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cal
- abssa.be/c/625_1_colo_colo_united
-GEO:50.7282426;4.5537189
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER;CN="Degimbe M.";ROLE=Secrétaire:MAILTO:lalorrainefc@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2B J25: BRUSSELS BRITISH R (Eq. 3) vs COLO-COLO UNITED
-DTSTART;VALUE=DATE-TIME:20241019T133000Z
-DTEND;VALUE=DATE-TIME:20241019T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_2B_25_1_625
-DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
- foncé et blanc\n\nContact équipe domicile: O'Connor G (0456.54.46.67 - a
- bssa-sec@rbbfc.org)\n\nAccès voiture : Autoroute E411\, prendre la sortie
-  Rosières. Passer devant l'église\, longer l'autoroute et tourner à dro
- ite au cimetière des animaux. Terrain à 200 m.\n\nVérifiez toujours ces
-  infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/
- 625_1_colo_colo_united
-GEO:50.7282426;4.5537189
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER;CN="O'Connor G";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2B J26: COLO-COLO UNITED vs SANGLIERS BFN
-DTSTART;VALUE=DATE-TIME:20241026T103000Z
-DTEND;VALUE=DATE-TIME:20241026T120000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_2B_26_625_514
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
- pale équipe domicile: Bleu foncé et blanc\nCouleur principale équipe ex
- terieure: Vert\n\nContact équipe domicile: De Le Court Y. (0472.35.25.20 
- - youdelecourt@gmail.com)\n\nAccès voiture : Au départ de la Place Meise
- r\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2
- ). Sous le viaduc prendre à droite\, l'avenue des Anciens Combattants. Ju
- ste après le carrefour avec des feux de signalisation prendre à droite v
- ers la Place de la Chapelle\, puis prendre la 4ème rue à main droite (ru
- e au Bois). Le terrain se trouve à 300 m. sur la droite.\n\nVérifiez tou
- jours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calab
- ssa.be/c/625_1_colo_colo_united
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER;CN="De Le Court Y.";ROLE=Secrétaire:MAILTO:youdelecourt@gmail.c
- om
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2B J7: COLO-COLO UNITED vs GOALOIS
-DTSTART;VALUE=DATE-TIME:20241102T113000Z
-DTEND;VALUE=DATE-TIME:20241102T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_2B_7_625_345
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
- pale équipe domicile: Bleu foncé et blanc\nCouleur principale équipe ex
- terieure: Bordeaux-Bleu\n\nContact équipe domicile: De Le Court Y. (0472.
- 35.25.20 - youdelecourt@gmail.com)\n\nAccès voiture : Au départ de la Pl
- ace Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraain
- em (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anciens Combat
- tants. Juste après le carrefour avec des feux de signalisation prendre à
-  droite vers la Place de la Chapelle\, puis prendre la 4ème rue à main d
- roite (rue au Bois). Le terrain se trouve à 300 m. sur la droite.\n\nVér
- ifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: http
- s://calabssa.be/c/625_1_colo_colo_united
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER;CN="De Le Court Y.";ROLE=Secrétaire:MAILTO:youdelecourt@gmail.c
- om
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2B J8: ENGHIEN AMICAL vs COLO-COLO UNITED
-DTSTART;VALUE=DATE-TIME:20241109T140000Z
-DTEND;VALUE=DATE-TIME:20241109T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_2B_8_31_625
-DESCRIPTION:Terrain synthétique: non\nCode terrain: E02\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu f
- oncé et blanc\n\nContact équipe domicile: Vanderplasschen E. (0475.87.45
- .71 - e.vdps.ev@gmail.com)\n\nAccès voiture : Prendre la E429 (Lille-Tour
- nai-Ath) à hauteur de Halle. Prendre la sortie Petit-Enghien-Hoves (25)\,
-  prendre à droite\, direction  Petit-Enghien. Au bout de la route prendre
-  à gauche\, direction Enghien. Arrivé à Enghien\, prendre la 2ème rue 
- à gauche\, suivre le panneau "Auberge du Vieux Cèdre".\n\nVérifiez touj
- ours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabs
- sa.be/c/625_1_colo_colo_united
-GEO:50.6941114;4.043485
-LOCATION:R. Enghien Sport (Parc)\, Rue Saint Quentin\, 7850 Enghien\, Belg
- ique
-ORGANIZER;CN="Vanderplasschen E.";ROLE=Secrétaire:MAILTO:e.vdps.ev@gmail.
- com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2B J9: ETINCELLE FC vs COLO-COLO UNITED
-DTSTART;VALUE=DATE-TIME:20241116T130000Z
-DTEND;VALUE=DATE-TIME:20241116T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_2B_9_35_625
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
- pale équipe domicile: Jaune et bleu\nCouleur principale équipe exterieur
- e: Bleu foncé et blanc\n\nContact équipe domicile: Kremer N (0471.37.59.
- 81 - nicolas.kremer@gmail.com)\n\nAccès voiture : Ring\, sortie Hopital E
- rasme\, après 300 m. en direction de Lennik\, prendre à droite.\nVenant 
- de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, 
- place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Eras
- me 400 m. en direction de Lennik.\n\nVérifiez toujours ces infos sur http
- ://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/625_1_colo_colo
- _united
-GEO:50.8177358;4.2557195
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER;CN="Kremer N";ROLE=Secrétaire:MAILTO:nicolas.kremer@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2B J12: COLO-COLO UNITED vs BRUSSELS BRITISH R (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20241123T113000Z
-DTEND;VALUE=DATE-TIME:20241123T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_2B_12_625_1
+SUMMARY:ABSSA D1 J3: COLO-COLO UNITED vs BRUSSELS BRITISH R
+DTSTART;VALUE=DATE-TIME:20250913T103000Z
+DTEND;VALUE=DATE-TIME:20250913T120000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_3_625_1
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
  pale équipe domicile: Bleu foncé et blanc\nCouleur principale équipe ex
  terieure: Blanc\n\nContact équipe domicile: De Le Court Y. (0472.35.25.20
@@ -275,32 +69,122 @@ ORGANIZER;CN="De Le Court Y.";ROLE=Secrétaire:MAILTO:youdelecourt@gmail.c
  om
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2B J11: PRESS (AMICALE) vs COLO-COLO UNITED
-DTSTART;VALUE=DATE-TIME:20241130T143000Z
-DTEND;VALUE=DATE-TIME:20241130T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_2B_11_30_625
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: M07\n\nCouleur princi
+SUMMARY:ABSSA D1 J4: AZUR RCS vs COLO-COLO UNITED
+DTSTART;VALUE=DATE-TIME:20250920T130000Z
+DTEND;VALUE=DATE-TIME:20250920T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_4_109_625
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W12\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu f
- oncé et blanc\n\nContact équipe domicile: Timperman E. (0468.41.16.68 - 
- eric.timperman@skynet.be)\n\nAccès voiture : Ring de Bruxelles (RO)\, sor
- tie Jette-Wemmel (n° 9)\, direction Merchtem. A Brussegem au carrefour As
- se-Wolvertem\, prendre direction Asse. Après l'église\, prendre la 1ère
-  à main droite (direction Mollem). Après 2 km. prendre la Kouterstraat q
- ui se trouve juste en face de l'église.\n\nVérifiez toujours ces infos s
- ur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/625_1_co
- lo_colo_united
-GEO:50.9278393;4.2227906
-LOCATION:Kouter 29\, 1730 Mollem\, Belgique
-ORGANIZER;CN="Timperman E.";ROLE=Secrétaire:MAILTO:eric.timperman@skynet.
- be
+ oncé et blanc\n\nContact équipe domicile: Mad. Decamps N. (0477.27.39.66
+  - nathalie_decamps@hotmail.com)\n\nAccès voiture : Avenue de Tervuren\, 
+ direction Tervuren. Passé le boulevard du Souverain prendre à gauche au 
+ premier feu de signalisation (Av. Madoux). Au feu de signalisation suivant
+  prendre la 2ème rue à main droite (Av. J. Dujardin). Ensuite 1ère rue 
+ à gauche (Av. Salomé).\n\nVérifiez toujours ces infos sur http://www.ab
+ ssa.be/\nVoir sur calabssa: https://calabssa.be/c/625_1_colo_colo_united
+GEO:50.8308291;4.4555375
+LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
+ elgique
+ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
+ tmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2B J10: COLO-COLO UNITED vs AZUR RCS (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20241207T113000Z
-DTEND;VALUE=DATE-TIME:20241207T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_2B_10_625_109
+SUMMARY:ABSSA D1 J5: COLO-COLO UNITED vs BRAINE STORMING
+DTSTART;VALUE=DATE-TIME:20250927T103000Z
+DTEND;VALUE=DATE-TIME:20250927T120000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_5_625_630
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Bleu foncé et blanc\nCouleur principale équipe ex
+ terieure: Bordeaux\n\nContact équipe domicile: De Le Court Y. (0472.35.25
+ .20 - youdelecourt@gmail.com)\n\nAccès voiture : Au départ de la Place M
+ eiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n
+ ° 2). Sous le viaduc prendre à droite\, l'avenue des Anciens Combattants
+ . Juste après le carrefour avec des feux de signalisation prendre à droi
+ te vers la Place de la Chapelle\, puis prendre la 4ème rue à main droite
+  (rue au Bois). Le terrain se trouve à 300 m. sur la droite.\n\nVérifiez
+  toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://c
+ alabssa.be/c/625_1_colo_colo_united
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="De Le Court Y.";ROLE=Secrétaire:MAILTO:youdelecourt@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J6: BRITISH UNITED vs COLO-COLO UNITED
+DTSTART;VALUE=DATE-TIME:20251004T120000Z
+DTEND;VALUE=DATE-TIME:20251004T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_6_132_625
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu f
+ oncé et blanc\n\nContact équipe domicile: Caballero G (0479.79.86.54 - g
+ uillem_955@hotmail.com)\n\nAccès voiture : A partir de Bruxelles\, prendr
+ e la E 411 en direction de Namur. Prendre la sortie N° 8 puis à droite l
+ a bretelle pour la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Ap
+ rès +/- 6\,5 km\, au rond-point\, prendre la sortie 1 vers la N 420 Chée
+ . de la Libération\, puis à gauche dans la rue de la Grande lecke.\n\nV
+ érifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: h
+ ttps://calabssa.be/c/625_1_colo_colo_united
+GEO:50.7611768;4.7884455
+LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
+ORGANIZER;CN="Caballero G";ROLE=Secrétaire:MAILTO:guillem_955@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J7: COLO-COLO UNITED vs HERMES FC
+DTSTART;VALUE=DATE-TIME:20251011T103000Z
+DTEND;VALUE=DATE-TIME:20251011T120000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_7_625_357
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Bleu foncé et blanc\nCouleur principale équipe ex
+ terieure: Jaune et Bleu\n\nContact équipe domicile: De Le Court Y. (0472.
+ 35.25.20 - youdelecourt@gmail.com)\n\nAccès voiture : Au départ de la Pl
+ ace Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraain
+ em (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anciens Combat
+ tants. Juste après le carrefour avec des feux de signalisation prendre à
+  droite vers la Place de la Chapelle\, puis prendre la 4ème rue à main d
+ roite (rue au Bois). Le terrain se trouve à 300 m. sur la droite.\n\nVér
+ ifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: http
+ s://calabssa.be/c/625_1_colo_colo_united
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="De Le Court Y.";ROLE=Secrétaire:MAILTO:youdelecourt@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J8: BRUSSELS LTC vs COLO-COLO UNITED
+DTSTART;VALUE=DATE-TIME:20251018T113000Z
+DTEND;VALUE=DATE-TIME:20251018T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_8_39_625
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O01\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bl
+ eu foncé et blanc\n\nContact équipe domicile: Prudhomme D (0478.49.26.08
+  - brusselsltc039@gmail.com)\n\nAccès voiture : Venant de Bruxelles\, pre
+ ndre ring Est direction Waterloo. Sortir à la sortie n°27 Waterloo Centr
+ e.\n	Prendre ensuite à gauche La Drève de Richelle jusqu'au 3ème rond-p
+ oint et prendre à gauche la 	Chaussée de Louvain sur environ 2km et pren
+ dre à droite la Rue des Saules toujours tout droit et 	qui devient ensuit
+ e la Route des Marnières. Continuer ensuite tout droit\, passer un premie
+ r rond-point puis continuer tout droit jusqu'au rond-point du Messager où
+  il faut prendre la 2ème sortie. Vous êtes alors sur la Route de Genval 
+ et l'entrée du Complexe se trouve à environ 200m sur la gauche.\n\nVéri
+ fiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https
+ ://calabssa.be/c/625_1_colo_colo_united
+GEO:50.70475570000001;4.4703447
+LOCATION:Route de Genval\, 26A - 1380 Ohain\, Route de Genval 20A\, 1380 O
+ hain\, Belgique
+ORGANIZER;CN="Prudhomme D";ROLE=Secrétaire:MAILTO:brusselsltc039@gmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J9: COLO-COLO UNITED vs BESACE RFC
+DTSTART;VALUE=DATE-TIME:20251025T103000Z
+DTEND;VALUE=DATE-TIME:20251025T120000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_9_625_24
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
  pale équipe domicile: Bleu foncé et blanc\nCouleur principale équipe ex
  terieure: Bleu\n\nContact équipe domicile: De Le Court Y. (0472.35.25.20 
@@ -318,64 +202,32 @@ ORGANIZER;CN="De Le Court Y.";ROLE=Secrétaire:MAILTO:youdelecourt@gmail.c
  om
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2B J13: SANGLIERS BFN vs COLO-COLO UNITED
-DTSTART;VALUE=DATE-TIME:20241214T141500Z
-DTEND;VALUE=DATE-TIME:20241214T154500Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_2B_13_514_625
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: G04\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Bleu f
- oncé et blanc\n\nContact équipe domicile: Vanhamme J. (0474.56.81.54 - j
- erome.vanhamme@hotmail.com)\n\nAccès voiture : Autoroute Bruxelles-Namur 
- (E411) prendre la sortie Louvain/Grez-Doiceau (n° 8). Prendre la RN25 en 
- direction de Louvain/Grez-Doiceau. Passer tout droit les deux premiers ron
- ds-points à l'issue de la RN 25. Au troisième rond-point prendre à droi
- te. Le terrain se trouve 150 m. plus loin à gauche de la rue du Stampia.\
- n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabss
- a: https://calabssa.be/c/625_1_colo_colo_united
-GEO:50.744789;4.6969702
-LOCATION:Rue du Stampia\, 1390 Grez-Doiceau\, Belgique
-ORGANIZER;CN="Vanhamme J.";ROLE=Secrétaire:MAILTO:jerome.vanhamme@hotmail
- .com
+SUMMARY:ABSSA D1 J10: CHOULE AUDERGHEM vs COLO-COLO UNITED
+DTSTART;VALUE=DATE-TIME:20251108T113000Z
+DTEND;VALUE=DATE-TIME:20251108T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_10_517_625
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
+ erieure: Bleu foncé et blanc\n\nContact équipe domicile: Vandenplas D. (
+ 0476.54.48.01 - dav_54@hotmail.com)\n\nAccès voiture : En venant de Bruxe
+ lles par la chaussée de Wavre\, rejoindre le du début de l'autoroute Bru
+ xelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et descendre
+  devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (en 
+ dessous de l'autoroute). Le terrain se trouve à 200 m. Le stade est fléc
+ hé.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur ca
+ labssa: https://calabssa.be/c/625_1_colo_colo_united
+GEO:50.81071379999999;4.4432209
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2B J14: REQUINS (LES) vs COLO-COLO UNITED
-DTSTART;VALUE=DATE-TIME:20250111T130000Z
-DTEND;VALUE=DATE-TIME:20250111T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_2B_14_556_625
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu f
- oncé et blanc\n\nContact équipe domicile: Barbe L. (0476.04.93.45 - loui
- s.barbe1@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l
- 'autoroute E411 en direction de Namur\, prendre la sortie  Wavre (n° 6)\,
-  tenir la droite et au bout de la bretelle\, prendre la direction d'Ottign
- ies par la N238. Au 1èr feu de signalisation continuer tout droit en pass
- ant devant Walibi (qui se trouve sur la gauche) jusqu'à la sortie Limelet
- te. Au bout de cette sortie\, en face du Tennis Club La Palestre\, prendre
-  à droite la rue Charles Dubois\, jusqu'au carrefour principal. Continuer
-  tout droit en traversant l'avenue Albert 1èr. Passer en dessous du 1èr 
- pont du chemin de fer et prendre la rue de l'Europe jusqu'à la place de l
- 'Europe. Traverser cette place par la droite. Au bout à gauche\, suivre l
- 'avenue Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C
- . Limelette). Continuer cette rue et passer en dessous du 2ème pont du ch
- emin de fer. Après ce pont\, prendre tout de suite à gauche l'avenue Dem
- older (panneau F.C. Limelette)\, en face de l'étang du Buston. Suivre cet
- te avenue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. Aprè
- s 50 m. dans cette rue\, prendre à droite l'avenue des Sorbiers (panneau 
- du F.C. Limelette). L'entrée du terrain est située 50 m. plus bas sur la
-  gauche.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir su
- r calabssa: https://calabssa.be/c/625_1_colo_colo_united
-GEO:50.67628029999999;4.562802
-LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER;CN="Barbe L.";ROLE=Secrétaire:MAILTO:louis.barbe1@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2B J15: COLO-COLO UNITED vs TOURINNOIS FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20250118T113000Z
-DTEND;VALUE=DATE-TIME:20250118T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_2B_15_625_292
+SUMMARY:ABSSA D1 J11: COLO-COLO UNITED vs PORTUGAL FC
+DTSTART;VALUE=DATE-TIME:20251115T113000Z
+DTEND;VALUE=DATE-TIME:20251115T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_11_625_403
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
  pale équipe domicile: Bleu foncé et blanc\nCouleur principale équipe ex
  terieure: Rouge\n\nContact équipe domicile: De Le Court Y. (0472.35.25.20
@@ -393,110 +245,121 @@ ORGANIZER;CN="De Le Court Y.";ROLE=Secrétaire:MAILTO:youdelecourt@gmail.c
  om
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2B J16: STER'S vs COLO-COLO UNITED
-DTSTART;VALUE=DATE-TIME:20250125T113000Z
-DTEND;VALUE=DATE-TIME:20250125T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_2B_16_598_625
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
- pale équipe domicile: Vert et Blanc\nCouleur principale équipe exterieur
- e: Bleu foncé et blanc\n\nContact équipe domicile: Reginster Th. (0475.5
- 2.11.27 - thomas.reginster@live.be)\n\nAccès voiture : En venant de Bruxe
- lles\, prendre l'autoroute E411 en direction de Namur\, prendre la sortie 
-  Wavre (n° 6)\, tenir la droite et au bout de la bretelle\, prendre la di
- rection d'Ottignies par la N238. Au 1èr feu de signalisation continuer to
- ut droit en passant devant Walibi (qui se trouve sur la gauche) jusqu'à l
- a sortie Limelette. Au bout de cette sortie\, en face du Tennis Club La Pa
- lestre\, prendre à droite la rue Charles Dubois\, jusqu'au carrefour prin
- cipal. Continuer tout droit en traversant l'avenue Albert 1èr. Passer en 
- dessous du 1èr pont du chemin de fer et prendre la rue de l'Europe jusqu'
- à la place de l'Europe. Traverser cette place par la droite. Au bout à g
- auche\, suivre l'avenue Jassans. Ensuite 1ère rue à gauche\,  la rue Bus
- tan (panneau F.C. Limelette). Continuer cette rue et passer en dessous du 
- 2ème pont du chemin de fer. Après ce pont\, prendre tout de suite à gau
- che l'avenue Demolder (panneau F.C. Limelette)\, en face de l'étang du Bu
- ston. Suivre cette avenue jusqu'à la 4ème rue à droite\, l'avenue des M
- érisiers. Après 50 m. dans cette rue\, prendre à droite l'avenue des So
- rbiers (panneau du F.C. Limelette). L'entrée du terrain est située 50 m.
-  plus bas sur la gauche.\n\nVérifiez toujours ces infos sur http://www.ab
- ssa.be/\nVoir sur calabssa: https://calabssa.be/c/625_1_colo_colo_united
-GEO:50.67628029999999;4.562802
-LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER;CN="Reginster Th.";ROLE=Secrétaire:MAILTO:thomas.reginster@live
- .be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2B J17: COLO-COLO UNITED vs PHARMA SC
-DTSTART;VALUE=DATE-TIME:20250201T113000Z
-DTEND;VALUE=DATE-TIME:20250201T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_2B_17_625_268
+SUMMARY:ABSSA D1 J12: COLO-COLO UNITED vs HIGGINS-PUMAS
+DTSTART;VALUE=DATE-TIME:20251122T113000Z
+DTEND;VALUE=DATE-TIME:20251122T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_12_625_416
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
  pale équipe domicile: Bleu foncé et blanc\nCouleur principale équipe ex
- terieure: Blanc\n\nContact équipe domicile: De Le Court Y. (0472.35.25.20
-  - youdelecourt@gmail.com)\n\nAccès voiture : Au départ de la Place Meis
- er\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 
- 2). Sous le viaduc prendre à droite\, l'avenue des Anciens Combattants. J
- uste après le carrefour avec des feux de signalisation prendre à droite 
- vers la Place de la Chapelle\, puis prendre la 4ème rue à main droite (r
- ue au Bois). Le terrain se trouve à 300 m. sur la droite.\n\nVérifiez to
- ujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cala
- bssa.be/c/625_1_colo_colo_united
+ terieure: Rayé Bleu et Blanc\n\nContact équipe domicile: De Le Court Y. 
+ (0472.35.25.20 - youdelecourt@gmail.com)\n\nAccès voiture : Au départ de
+  la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie 
+ Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anciens 
+ Combattants. Juste après le carrefour avec des feux de signalisation pren
+ dre à droite vers la Place de la Chapelle\, puis prendre la 4ème rue à 
+ main droite (rue au Bois). Le terrain se trouve à 300 m. sur la droite.\n
+ \nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa
+ : https://calabssa.be/c/625_1_colo_colo_united
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
 ORGANIZER;CN="De Le Court Y.";ROLE=Secrétaire:MAILTO:youdelecourt@gmail.c
  om
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2B J18: ITT - GECKO FC vs COLO-COLO UNITED
-DTSTART;VALUE=DATE-TIME:20250208T143000Z
-DTEND;VALUE=DATE-TIME:20250208T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_2B_18_92_625
+SUMMARY:ABSSA D1 J13: IRLANDE FC vs COLO-COLO UNITED
+DTSTART;VALUE=DATE-TIME:20251129T130000Z
+DTEND;VALUE=DATE-TIME:20251129T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_13_402_625
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: N04\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu f
- oncé et blanc\n\nContact équipe domicile: Demeer D. (0488.99.69.09 - dan
- iel.demeer@entre-deux.be)\n\nAccès voiture : Chaussée de Louvain jusqu'
- à Nossegem\, au premier croisement prendre à gauche la \nMechelsesteenwe
- g. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxel
- les-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la 
- Mechelsesteenweg\, traverser la chaussée de Louvain\, et suivre comme ci-
- avant.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur 
- calabssa: https://calabssa.be/c/625_1_colo_colo_united
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Bleu f
+ oncé et blanc\n\nContact équipe domicile: Penouilh S. (0474.97.79.48 - f
+ ci.secretary.mens@outlook.com)\n\nAccès voiture : Chaussée de Louvain ju
+ squ'à Nossegem\, au premier croisement prendre à gauche la \nMechelseste
+ enweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Br
+ uxelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à gauche
+  la Mechelsesteenweg\, traverser la chaussée de Louvain\, et suivre comme
+  ci-avant.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir 
+ sur calabssa: https://calabssa.be/c/625_1_colo_colo_united
 GEO:50.88776559999999;4.50894
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
-ORGANIZER;CN="Demeer D.";ROLE=Secrétaire:MAILTO:daniel.demeer@entre-deux.
+ORGANIZER;CN="Penouilh S.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@outl
+ ook.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J14: WONG A.S. vs COLO-COLO UNITED
+DTSTART;VALUE=DATE-TIME:20251206T130000Z
+DTEND;VALUE=DATE-TIME:20251206T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_14_523_625
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: T07\n\nCouleur princi
+ pale équipe domicile: Jaune et Noir\nCouleur principale équipe exterieur
+ e: Bleu foncé et blanc\n\nContact équipe domicile: Van Impe J. (0476.78.
+ 52.59 - vanimpe-julien@hotmail.be)\n\nAccès voiture : Aux quatre-Bras\, p
+ rendre direction Tervuren via l’avenue de Tervuren(N3) pendant 750M\nAu 
+ rond-point\, prendre la 1ère sortie et continuer sur l’avenue de Tervur
+ en pendant 1\,2km puis prendre à droite sur la chaussée de Bruxelles pen
+ dant 500m. Ensuite Prendre légèrement sur la droite dans la Wijngaardstr
+ aat pendant 400m et tourner à gauche dans la Pepperstraat pendant 400m. E
+ nsuite tourner à droite sur la chaussée de Duisburg et rouler pendant 1\
+ ,4 km... Continuer tout droit sur la chaussée de Tervuren pendant 1\,3 km
+  et prendre à gauche dans la rue de destination ( Schonenboomstraat).\nLe
+  terrain se situe sur la droite de la route!\n\nVérifiez toujours ces inf
+ os sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/625_
+ 1_colo_colo_united
+GEO:50.8107232;4.5492332
+LOCATION:Schonenboormstraat\, 3080 Tervuren\, Belgique
+ORGANIZER;CN="Van Impe J.";ROLE=Secrétaire:MAILTO:vanimpe-julien@hotmail.
  be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2B J19: COLO-COLO UNITED vs LA LORRAINE-MTM.R
-DTSTART;VALUE=DATE-TIME:20250215T113000Z
-DTEND;VALUE=DATE-TIME:20250215T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_2B_19_625_44
+SUMMARY:ABSSA D1 J15: COLO-COLO UNITED vs LXG CINQUANTENAIRE
+DTSTART;VALUE=DATE-TIME:20251213T113000Z
+DTEND;VALUE=DATE-TIME:20251213T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_15_625_542
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
  pale équipe domicile: Bleu foncé et blanc\nCouleur principale équipe ex
- terieure: Bordeaux/bleu\n\nContact équipe domicile: De Le Court Y. (0472.
- 35.25.20 - youdelecourt@gmail.com)\n\nAccès voiture : Au départ de la Pl
- ace Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraain
- em (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anciens Combat
- tants. Juste après le carrefour avec des feux de signalisation prendre à
-  droite vers la Place de la Chapelle\, puis prendre la 4ème rue à main d
- roite (rue au Bois). Le terrain se trouve à 300 m. sur la droite.\n\nVér
- ifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: http
- s://calabssa.be/c/625_1_colo_colo_united
+ terieure: Jaune et Bleu.\n\nContact équipe domicile: De Le Court Y. (0472
+ .35.25.20 - youdelecourt@gmail.com)\n\nAccès voiture : Au départ de la P
+ lace Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraai
+ nem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anciens Comba
+ ttants. Juste après le carrefour avec des feux de signalisation prendre 
+ à droite vers la Place de la Chapelle\, puis prendre la 4ème rue à main
+  droite (rue au Bois). Le terrain se trouve à 300 m. sur la droite.\n\nV
+ érifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: h
+ ttps://calabssa.be/c/625_1_colo_colo_united
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
 ORGANIZER;CN="De Le Court Y.";ROLE=Secrétaire:MAILTO:youdelecourt@gmail.c
  om
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2B J24: COLO-COLO UNITED vs PRESS (AMICALE)
-DTSTART;VALUE=DATE-TIME:20250222T113000Z
-DTEND;VALUE=DATE-TIME:20250222T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_2B_24_625_30
+SUMMARY:ABSSA D1 J16: BRUSSELS BRITISH R vs COLO-COLO UNITED
+DTSTART;VALUE=DATE-TIME:20260110T130000Z
+DTEND;VALUE=DATE-TIME:20260110T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_1_16_1_625
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
+ foncé et blanc\n\nContact équipe domicile: O'Connor G (0456.54.46.67 - a
+ bssa-sec@rbbfc.org)\n\nAccès voiture : Autoroute E411\, prendre la sortie
+  Rosières. Passer devant l'église\, longer l'autoroute et tourner à dro
+ ite au cimetière des animaux. Terrain à 200 m.\n\nVérifiez toujours ces
+  infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/
+ 625_1_colo_colo_united
+GEO:50.7264542;4.5530681
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="O'Connor G";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J17: COLO-COLO UNITED vs AZUR RCS
+DTSTART;VALUE=DATE-TIME:20260117T113000Z
+DTEND;VALUE=DATE-TIME:20260117T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_1_17_625_109
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
  pale équipe domicile: Bleu foncé et blanc\nCouleur principale équipe ex
  terieure: Bleu\n\nContact équipe domicile: De Le Court Y. (0472.35.25.20 
@@ -514,34 +377,33 @@ ORGANIZER;CN="De Le Court Y.";ROLE=Secrétaire:MAILTO:youdelecourt@gmail.c
  om
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2B J20: GOALOIS vs COLO-COLO UNITED
-DTSTART;VALUE=DATE-TIME:20250308T113000Z
-DTEND;VALUE=DATE-TIME:20250308T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_2B_20_345_625
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Bordeaux-Bleu\nCouleur principale équipe exterieur
- e: Bleu foncé et blanc\n\nContact équipe domicile: Laruelle M. (0494.52.
- 09.71 - martin.laruelle@gmail.com)\n\nAccès voiture : Boulevard de la Wol
- uwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Po
- nt (terminus bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVé
- rifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: htt
- ps://calabssa.be/c/625_1_colo_colo_united
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="Laruelle M.";ROLE=Secrétaire:MAILTO:martin.laruelle@gmail.c
- om
+SUMMARY:ABSSA D1 J18: BRAINE STORMING vs COLO-COLO UNITED
+DTSTART;VALUE=DATE-TIME:20260124T143000Z
+DTEND;VALUE=DATE-TIME:20260124T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_1_18_630_625
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bl
+ eu foncé et blanc\n\nContact équipe domicile: Goethals E. (0492.43.68.79
+  - manu.goethals@gmail.com)\n\nAccès voiture : Venant de Bruxelles prendr
+ e le Ring Ouest\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (B
+ ruxelles-Charleroi) direction Charleroi pendant +/- 10 min.\, sortie Loupo
+ igne\, traverser le carrefour\, tout droit direction route du sucre.\n\nV
+ érifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: h
+ ttps://calabssa.be/c/625_1_colo_colo_united
+GEO:50.601458;4.44982
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER;CN="Goethals E.";ROLE=Secrétaire:MAILTO:manu.goethals@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2B J21: COLO-COLO UNITED vs ENGHIEN AMICAL
-DTSTART;VALUE=DATE-TIME:20250315T113000Z
-DTEND;VALUE=DATE-TIME:20250315T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_2B_21_625_31
+SUMMARY:ABSSA D1 J19: COLO-COLO UNITED vs BRITISH UNITED
+DTSTART;VALUE=DATE-TIME:20260131T113000Z
+DTEND;VALUE=DATE-TIME:20260131T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_1_19_625_132
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
  pale équipe domicile: Bleu foncé et blanc\nCouleur principale équipe ex
- terieure: Noir\n\nContact équipe domicile: De Le Court Y. (0472.35.25.20 
+ terieure: Bleu\n\nContact équipe domicile: De Le Court Y. (0472.35.25.20 
  - youdelecourt@gmail.com)\n\nAccès voiture : Au départ de la Place Meise
  r\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2
  ). Sous le viaduc prendre à droite\, l'avenue des Anciens Combattants. Ju
@@ -556,22 +418,148 @@ ORGANIZER;CN="De Le Court Y.";ROLE=Secrétaire:MAILTO:youdelecourt@gmail.c
  om
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2B J22: COLO-COLO UNITED vs ETINCELLE FC
-DTSTART;VALUE=DATE-TIME:20250322T113000Z
-DTEND;VALUE=DATE-TIME:20250322T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_2B_22_625_35
+SUMMARY:ABSSA D1 J20: HERMES FC vs COLO-COLO UNITED
+DTSTART;VALUE=DATE-TIME:20260207T130000Z
+DTEND;VALUE=DATE-TIME:20260207T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_1_20_357_625
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Jaune et Bleu\nCouleur principale équipe exterieur
+ e: Bleu foncé et blanc\n\nContact équipe domicile: Antonakopoulos A (049
+ 4.88.34.72 - hermesfc1984@gmail.com)\n\nAccès voiture : A partir du squar
+ e des Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymphe
+ s.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur cala
+ bssa: https://calabssa.be/c/625_1_colo_colo_united
+GEO:50.80645209999999;4.4087184
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Antonakopoulos A";ROLE=Secrétaire:MAILTO:hermesfc1984@gmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J21: COLO-COLO UNITED vs BRUSSELS LTC
+DTSTART;VALUE=DATE-TIME:20260214T113000Z
+DTEND;VALUE=DATE-TIME:20260214T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_1_21_625_39
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
  pale équipe domicile: Bleu foncé et blanc\nCouleur principale équipe ex
- terieure: Jaune et bleu\n\nContact équipe domicile: De Le Court Y. (0472.
- 35.25.20 - youdelecourt@gmail.com)\n\nAccès voiture : Au départ de la Pl
- ace Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraain
- em (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anciens Combat
- tants. Juste après le carrefour avec des feux de signalisation prendre à
-  droite vers la Place de la Chapelle\, puis prendre la 4ème rue à main d
- roite (rue au Bois). Le terrain se trouve à 300 m. sur la droite.\n\nVér
- ifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: http
- s://calabssa.be/c/625_1_colo_colo_united
+ terieure: Bordeaux\n\nContact équipe domicile: De Le Court Y. (0472.35.25
+ .20 - youdelecourt@gmail.com)\n\nAccès voiture : Au départ de la Place M
+ eiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n
+ ° 2). Sous le viaduc prendre à droite\, l'avenue des Anciens Combattants
+ . Juste après le carrefour avec des feux de signalisation prendre à droi
+ te vers la Place de la Chapelle\, puis prendre la 4ème rue à main droite
+  (rue au Bois). Le terrain se trouve à 300 m. sur la droite.\n\nVérifiez
+  toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://c
+ alabssa.be/c/625_1_colo_colo_united
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="De Le Court Y.";ROLE=Secrétaire:MAILTO:youdelecourt@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J22: BESACE RFC vs COLO-COLO UNITED
+DTSTART;VALUE=DATE-TIME:20260221T123000Z
+DTEND;VALUE=DATE-TIME:20260221T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_1_22_24_625
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu f
+ oncé et blanc\n\nContact équipe domicile: Masset M. (0485.61.39.19 - rfc
+ besace.024@gmail.com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jet
+ te.\nEn venant de Zaventem\, prendre à gauche à la sortie\, en venant de
+  Charleroi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au
+  rond point. Le terrain se trouve en face de la pompe à essence Q8.\n\nV
+ érifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: h
+ ttps://calabssa.be/c/625_1_colo_colo_united
+GEO:50.8833029;4.3163788
+LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
+ORGANIZER;CN="Masset M.";ROLE=Secrétaire:MAILTO:rfcbesace.024@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J23: COLO-COLO UNITED vs CHOULE AUDERGHEM
+DTSTART;VALUE=DATE-TIME:20260228T113000Z
+DTEND;VALUE=DATE-TIME:20260228T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_1_23_625_517
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Bleu foncé et blanc\nCouleur principale équipe ex
+ terieure: Rayé Bleu et Blanc\n\nContact équipe domicile: De Le Court Y. 
+ (0472.35.25.20 - youdelecourt@gmail.com)\n\nAccès voiture : Au départ de
+  la Place Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie 
+ Kraainem (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anciens 
+ Combattants. Juste après le carrefour avec des feux de signalisation pren
+ dre à droite vers la Place de la Chapelle\, puis prendre la 4ème rue à 
+ main droite (rue au Bois). Le terrain se trouve à 300 m. sur la droite.\n
+ \nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa
+ : https://calabssa.be/c/625_1_colo_colo_united
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="De Le Court Y.";ROLE=Secrétaire:MAILTO:youdelecourt@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J24: PORTUGAL FC vs COLO-COLO UNITED
+DTSTART;VALUE=DATE-TIME:20260307T143000Z
+DTEND;VALUE=DATE-TIME:20260307T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_1_24_403_625
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu 
+ foncé et blanc\n\nContact équipe domicile: Figueira De Carvalho M. (0476
+ .40.68.33 - manuel.figueira@mne.pt)\n\nAccès voiture : Ring\, sortie Hopi
+ tal Erasme\, après 300 m. en direction de Lennik\, prendre à droite.\nVe
+ nant de la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Bria
+ nd\, place Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital
+  Erasme 400 m. en direction de Lennik.\n\nVérifiez toujours ces infos sur
+  http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/625_1_colo
+ _colo_united
+GEO:50.8177358;4.2557195
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER;CN="Figueira De Carvalho M.";ROLE=Secrétaire:MAILTO:manuel.figu
+ eira@mne.pt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J25: HIGGINS-PUMAS vs COLO-COLO UNITED
+DTSTART;VALUE=DATE-TIME:20260314T143000Z
+DTEND;VALUE=DATE-TIME:20260314T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_1_25_416_625
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
+ erieure: Bleu foncé et blanc\n\nContact équipe domicile: De Biolley Ph. 
+ (0477.23.31.25 - philippe.debiolley@gmail.com)\n\nAccès voiture : En vena
+ nt de Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'au
+ toroute Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. e
+ t descendre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à 
+ gauche (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le stad
+ e est fléché.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\n
+ Voir sur calabssa: https://calabssa.be/c/625_1_colo_colo_united
+GEO:50.81071379999999;4.4432209
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="De Biolley Ph.";ROLE=Secrétaire:MAILTO:philippe.debiolley@g
+ mail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J26: COLO-COLO UNITED vs IRLANDE FC
+DTSTART;VALUE=DATE-TIME:20260321T113000Z
+DTEND;VALUE=DATE-TIME:20260321T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_1_26_625_402
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Bleu foncé et blanc\nCouleur principale équipe ex
+ terieure: Vert\n\nContact équipe domicile: De Le Court Y. (0472.35.25.20 
+ - youdelecourt@gmail.com)\n\nAccès voiture : Au départ de la Place Meise
+ r\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2
+ ). Sous le viaduc prendre à droite\, l'avenue des Anciens Combattants. Ju
+ ste après le carrefour avec des feux de signalisation prendre à droite v
+ ers la Place de la Chapelle\, puis prendre la 4ème rue à main droite (ru
+ e au Bois). Le terrain se trouve à 300 m. sur la droite.\n\nVérifiez tou
+ jours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calab
+ ssa.be/c/625_1_colo_colo_united
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
 ORGANIZER;CN="De Le Court Y.";ROLE=Secrétaire:MAILTO:youdelecourt@gmail.c

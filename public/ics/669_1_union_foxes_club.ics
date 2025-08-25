@@ -4,214 +4,132 @@ PRODID:669_1_union_foxes_club
 X-WR-CALDESC:Les matches du club UNION FOXES CLUB (equipe 1) en ABSSA.
 X-WR-CALNAME:ABSSA: UNION FOXES CLUB (eq. 1)
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J23: MOUSSES TACHENT vs UNION FOXES CLUB
-DTSTART;VALUE=DATE-TIME:20240831T133000Z
-DTEND;VALUE=DATE-TIME:20240831T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4A_23_643_669
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: C02\n\nCouleur princi
- pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Or
- ange et noir\n\nContact équipe domicile: Callant S (0478.61.90.26 - les.m
- ousses.tachent@gmail.com)\n\nAccès voiture : Ring ouest: Direction Waterl
- oo\, prendre la sortie "butte du lion" \, prendre à droite\, puis au feu 
- rouge prendre à droite\, rouler jusque Genappe et prendre la RN 25 en dir
- ection de Wavre\, prendre la deuxième sortie (Court St. Etienne) et prend
- re à gauche\, le terrain se trouve à 1 km. a main droite.\nPar la E411: 
- Prendre la E411 direction Namur\, ensuite sortir a Wavre\, prendre ensuite
-  la sortie Villers-La-Ville\, ensuite à droite puis directement à gauche
-  a l'arbre et descendre jusque dans le fond\, prendre a droite et le terra
- in se trouve à 500 m. a main gauche.\n\nVérifiez toujours ces infos sur 
- http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/669_1_union
- _foxes_club
-GEO:50.6417231;4.5547061
-LOCATION:Avenue des Combattants\, 1490 Court St. Etienne\, Belgique
-ORGANIZER;CN="Callant S";ROLE=Secrétaire:MAILTO:les.mousses.tachent@gmail
- .com
+SUMMARY:ABSSA D3D J1: INWENSSYS MOLDOVA vs UNION FOXES CLUB
+DTSTART;VALUE=DATE-TIME:20250830T090000Z
+DTEND;VALUE=DATE-TIME:20250830T103000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3D_1_671_669
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B13\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Oran
+ ge et noir\n\nContact équipe domicile: Simion M. (0484.88.58.77 - simionm
+ arius670@gmail.com)\n\nAccès voiture : A partir du Ring de Bruxelles pren
+ dre la E 19 direction Paris.\nQuitter le Ring par la sortie 19\, prendre 
+ à gauche sur Beerselsestraat\, après 900 m. prendre à gauche sur Lotses
+ traat\, après 400 m. continuer sur Puttestraat\, puis prendre à droite s
+ ur Hoogstraat\, puis prendre à gauche sur Kerkveldstraat. Après prendre 
+ à droite sur Schoolstraat\, le terrain se trouve sur la droite.\n\nVérif
+ iez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:
+ //calabssa.be/c/669_1_union_foxes_club
+GEO:50.76680529999999;4.3142201
+LOCATION:Schoolstraat 46\, 1650 Beersel\, Belgique
+ORGANIZER;CN="Simion M.";ROLE=Secrétaire:MAILTO:simionmarius670@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J1: UNION FOXES CLUB vs MACAPSULES (LES)
-DTSTART;VALUE=DATE-TIME:20240907T133000Z
-DTEND;VALUE=DATE-TIME:20240907T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4A_1_669_627
+SUMMARY:ABSSA D3D J2: UNION FOXES CLUB vs TRINQUANT
+DTSTART;VALUE=DATE-TIME:20250906T123000Z
+DTEND;VALUE=DATE-TIME:20250906T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3D_2_669_445
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: O02\n\nCouleur princi
  pale équipe domicile: Orange et noir\nCouleur principale équipe exterieu
- re: Vert/blanc\n\nContact équipe domicile: Mizrahi D. (0476.03.37.84 - da
- niel_mizrahi96@hotmail.com)\n\nAccès voiture : Ring RO\, sortie Ophain\, 
- prendre la direction de Ophain Village\, jusqu'à l'église. Ensuite à dr
- oite. Le terrain se trouve à 200 m. à gauche.\n\nVérifiez toujours ces 
- infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/6
- 69_1_union_foxes_club
+ re: Bleu marine\n\nContact équipe domicile: Mizrahi D. (0476.03.37.84 - d
+ aniel_mizrahi96@hotmail.com)\n\nAccès voiture : Ring RO\, sortie Ophain\,
+  prendre la direction de Ophain Village\, jusqu'à l'église. Ensuite à d
+ roite. Le terrain se trouve à 200 m. à gauche.\n\nVérifiez toujours ces
+  infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/
+ 669_1_union_foxes_club
 GEO:50.6648369;4.3506513
 LOCATION:Rue de Lillois 19\, 1421 Ophain/Braine-l'Alleud\, Belgique
 ORGANIZER;CN="Mizrahi D.";ROLE=Secrétaire:MAILTO:daniel_mizrahi96@hotmail
  .com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J2: BRUSSELS LTC (Eq. 3) vs UNION FOXES CLUB
-DTSTART;VALUE=DATE-TIME:20240914T133000Z
-DTEND;VALUE=DATE-TIME:20240914T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4A_2_39_669
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
- pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Or
- ange et noir\n\nContact équipe domicile: Van Hacht O. (0475.96.43.03 - da
- nnyboffin@hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre l
- e Ring Est direction Waterloo. Sortir au pont de Groenendael\, direction L
- a Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\,
-  toujours tout droit. Au feu de signalisation et le carrefour de La Hulpe\
- , tout droit direction Genval. Au feu de signalisation prendre à gauche e
- t ensuite directement à droite\, l'avenue Soyer\, derrière le G.B. Le te
- rrain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.a
- bssa.be/\nVoir sur calabssa: https://calabssa.be/c/669_1_union_foxes_club
-GEO:50.7308998;4.4944678
-LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:dannyboffin@hotmail.co
- m
+SUMMARY:ABSSA D3D J3: NEW ARQUOIS FC (Eq. 2) vs UNION FOXES CLUB
+DTSTART;VALUE=DATE-TIME:20250913T103000Z
+DTEND;VALUE=DATE-TIME:20250913T120000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3D_3_263_669
+DESCRIPTION:Terrain synthétique: non\nCode terrain: A12\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Orange
+  et noir\n\nContact équipe domicile: Beka J-M. (0495.25.31.25 - jmbeka73@
+ gmail.com)\n\nAccès voiture : Autoroute E 19 (Bruxelles-Charleroi)\, sort
+ ie Arquennes. Direction Seneffe-La-Louvière. A la station d'essence Total
+ \, prendre à droite pendant +/- 700 mètres.\nAu rond point\, prendre à 
+ droite en direction du château de La Rocq\, passez sous le pont\, le terr
+ ain se trouve à 100 mètres (à proximité du cimetière).\n\nVérifiez t
+ oujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cal
+ abssa.be/c/669_1_union_foxes_club
+GEO:50.570014;4.272457699999999
+LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion 22\, 7181 Arquennes\
+ , Belgique
+ORGANIZER;CN="Beka J-M.";ROLE=Secrétaire:MAILTO:jmbeka73@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J3: UNION FOXES CLUB vs OMNISPORT BIERGHES
-DTSTART;VALUE=DATE-TIME:20240921T133000Z
-DTEND;VALUE=DATE-TIME:20240921T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4A_3_669_455
+SUMMARY:ABSSA D3D J4: UNION FOXES CLUB vs FOSSIS (LES) CS
+DTSTART;VALUE=DATE-TIME:20250920T123000Z
+DTEND;VALUE=DATE-TIME:20250920T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3D_4_669_217
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: O02\n\nCouleur princi
  pale équipe domicile: Orange et noir\nCouleur principale équipe exterieu
- re: Bleu\n\nContact équipe domicile: Mizrahi D. (0476.03.37.84 - daniel_m
- izrahi96@hotmail.com)\n\nAccès voiture : Ring RO\, sortie Ophain\, prendr
- e la direction de Ophain Village\, jusqu'à l'église. Ensuite à droite. 
- Le terrain se trouve à 200 m. à gauche.\n\nVérifiez toujours ces infos 
- sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/669_1_u
- nion_foxes_club
+ re: Jaune\n\nContact équipe domicile: Mizrahi D. (0476.03.37.84 - daniel_
+ mizrahi96@hotmail.com)\n\nAccès voiture : Ring RO\, sortie Ophain\, prend
+ re la direction de Ophain Village\, jusqu'à l'église. Ensuite à droite.
+  Le terrain se trouve à 200 m. à gauche.\n\nVérifiez toujours ces infos
+  sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/669_1_
+ union_foxes_club
 GEO:50.6648369;4.3506513
 LOCATION:Rue de Lillois 19\, 1421 Ophain/Braine-l'Alleud\, Belgique
 ORGANIZER;CN="Mizrahi D.";ROLE=Secrétaire:MAILTO:daniel_mizrahi96@hotmail
  .com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J4: EXTRANOS (LOS) vs UNION FOXES CLUB
-DTSTART;VALUE=DATE-TIME:20240928T133000Z
-DTEND;VALUE=DATE-TIME:20240928T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4A_4_569_669
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: E04\n\nCouleur princi
- pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
- e: Orange et noir\n\nContact équipe domicile: Raposo P (0476.68.32.15 - l
- osextranos569@gmail.com)\n\nAccès voiture : De la Place Meiser\, remonter
-  tous les boulevards. Au carrefour de la Chaussée de Wavre\, prendre cell
- e-ci à droite\, ensuite la 2ème rue à droite (Rue Général Fivé)\, pu
- is la 3ème à droite (rue Baron Dhanis).\n\nVérifiez toujours ces infos 
- sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/669_1_u
- nion_foxes_club
-GEO:50.8287714;4.3975708
-LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
-ORGANIZER;CN="Raposo P";ROLE=Secrétaire:MAILTO:losextranos569@gmail.com
+SUMMARY:ABSSA D3D J5: PICARDIE AS vs UNION FOXES CLUB
+DTSTART;VALUE=DATE-TIME:20250927T113000Z
+DTEND;VALUE=DATE-TIME:20250927T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3D_5_63_669
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Orange
+  et noir\n\nContact équipe domicile: Coopmans R. (0474.42.47.29 - coopman
+ s_roland@yahoo.fr)\n\nAccès voiture : En venant de Bruxelles\, emprunter 
+ la chaussée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au 
+ dit carrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur cette cha
+ ussée\, au deuxième feu de signalisation\, prendre à droite\, le terrai
+ n se trouve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur
+  http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/669_1_unio
+ n_foxes_club
+GEO:50.6827211;4.3844421
+LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud\, Belgique
+ORGANIZER;CN="Coopmans R.";ROLE=Secrétaire:MAILTO:coopmans_roland@yahoo.f
+ r
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J5: COPAINS REUNIS vs UNION FOXES CLUB
-DTSTART;VALUE=DATE-TIME:20241005T133000Z
-DTEND;VALUE=DATE-TIME:20241005T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4A_5_49_669
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
- pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
-  Orange et noir\n\nContact équipe domicile: Vandermeulen J. (0477.50.45.9
- 5 - meulenj@hotmail.com)\n\nAccès voiture : En venant de la Route de Lenn
- ik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre la direction du 
- cimetière d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-p
- oint prendre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'ent
- rée du complexe et des terrains se situe à +/- 500 m. sur la gauche.\n\n
- Vérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: 
- https://calabssa.be/c/669_1_union_foxes_club
-GEO:50.8114295;4.2763934
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER;CN="Vandermeulen J.";ROLE=Secrétaire:MAILTO:meulenj@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J6: UNION FOXES CLUB vs FRIENDS SPIRIT AUD
-DTSTART;VALUE=DATE-TIME:20241012T133000Z
-DTEND;VALUE=DATE-TIME:20241012T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4A_6_669_522
+SUMMARY:ABSSA D3D J6: UNION FOXES CLUB vs CENTRAL PARK FC
+DTSTART;VALUE=DATE-TIME:20251004T123000Z
+DTEND;VALUE=DATE-TIME:20251004T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3D_6_669_562
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: O02\n\nCouleur princi
  pale équipe domicile: Orange et noir\nCouleur principale équipe exterieu
- re: Vert\n\nContact équipe domicile: Mizrahi D. (0476.03.37.84 - daniel_m
- izrahi96@hotmail.com)\n\nAccès voiture : Ring RO\, sortie Ophain\, prendr
- e la direction de Ophain Village\, jusqu'à l'église. Ensuite à droite. 
- Le terrain se trouve à 200 m. à gauche.\n\nVérifiez toujours ces infos 
- sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/669_1_u
- nion_foxes_club
+ re: Bleu et Blanc\n\nContact équipe domicile: Mizrahi D. (0476.03.37.84 -
+  daniel_mizrahi96@hotmail.com)\n\nAccès voiture : Ring RO\, sortie Ophain
+ \, prendre la direction de Ophain Village\, jusqu'à l'église. Ensuite à
+  droite. Le terrain se trouve à 200 m. à gauche.\n\nVérifiez toujours c
+ es infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/
+ c/669_1_union_foxes_club
 GEO:50.6648369;4.3506513
 LOCATION:Rue de Lillois 19\, 1421 Ophain/Braine-l'Alleud\, Belgique
 ORGANIZER;CN="Mizrahi D.";ROLE=Secrétaire:MAILTO:daniel_mizrahi96@hotmail
  .com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J25: WINCHESTER F.C. vs UNION FOXES CLUB
-DTSTART;VALUE=DATE-TIME:20241019T133000Z
-DTEND;VALUE=DATE-TIME:20241019T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4A_25_653_669
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
- pale équipe domicile: Bleu et blanc\nCouleur principale équipe exterieur
- e: Orange et noir\n\nContact équipe domicile: Descheemaeker M. (0488.92.8
- 8.36 - winchesterfc@outlook.com)\n\nAccès voiture : A partir de Bruxelles
- \, prendre la E 411 en direction de Namur. Prendre la sortie N° 8 puis à
-  droite la bretelle pour la N 25 vers Chaumont-Gistoux / Grez Doiceau / Lo
- uvain. Après +/- 6\,5 km\, au rond-point\, prendre la sortie 1 vers la N 
- 420 Chée. de la Libération\, puis à gauche dans la rue de la Grande lec
- ke.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur cal
- abssa: https://calabssa.be/c/669_1_union_foxes_club
-GEO:50.7540176;4.7835618
-LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
-ORGANIZER;CN="Descheemaeker M.";ROLE=Secrétaire:MAILTO:winchesterfc@outlo
- ok.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J26: UNION FOXES CLUB vs WOKRASSE F.C.
-DTSTART;VALUE=DATE-TIME:20241026T133000Z
-DTEND;VALUE=DATE-TIME:20241026T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4A_26_669_656
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: O02\n\nCouleur princi
- pale équipe domicile: Orange et noir\nCouleur principale équipe exterieu
- re: Bleu et Noir\n\nContact équipe domicile: Mizrahi D. (0476.03.37.84 - 
- daniel_mizrahi96@hotmail.com)\n\nAccès voiture : Ring RO\, sortie Ophain\
- , prendre la direction de Ophain Village\, jusqu'à l'église. Ensuite à 
- droite. Le terrain se trouve à 200 m. à gauche.\n\nVérifiez toujours ce
- s infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c
- /669_1_union_foxes_club
-GEO:50.6648369;4.3506513
-LOCATION:Rue de Lillois 19\, 1421 Ophain/Braine-l'Alleud\, Belgique
-ORGANIZER;CN="Mizrahi D.";ROLE=Secrétaire:MAILTO:daniel_mizrahi96@hotmail
- .com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J7: PATRONS (LES) vs UNION FOXES CLUB
-DTSTART;VALUE=DATE-TIME:20241102T143000Z
-DTEND;VALUE=DATE-TIME:20241102T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4A_7_628_669
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Orang
- e et noir\n\nContact équipe domicile: Van Roey G. (0478.24.03.05 - lespat
- rons.fc@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la
-  rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus
-  28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours 
- ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be
- /c/669_1_union_foxes_club
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="Van Roey G.";ROLE=Secrétaire:MAILTO:lespatrons.fc@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J8: UNION FOXES CLUB vs LUNETTE (LA) FC
-DTSTART;VALUE=DATE-TIME:20241109T143000Z
-DTEND;VALUE=DATE-TIME:20241109T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4A_8_669_130
+SUMMARY:ABSSA D3D J7: UNION FOXES CLUB vs GAMBRINUS F.C.
+DTSTART;VALUE=DATE-TIME:20251011T123000Z
+DTEND;VALUE=DATE-TIME:20251011T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3D_7_669_645
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: O02\n\nCouleur princi
  pale équipe domicile: Orange et noir\nCouleur principale équipe exterieu
  re: Noir\n\nContact équipe domicile: Mizrahi D. (0476.03.37.84 - daniel_m
@@ -226,294 +144,352 @@ ORGANIZER;CN="Mizrahi D.";ROLE=Secrétaire:MAILTO:daniel_mizrahi96@hotmail
  .com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J9: RAYO LATINO vs UNION FOXES CLUB
-DTSTART;VALUE=DATE-TIME:20241116T120000Z
-DTEND;VALUE=DATE-TIME:20241116T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4A_9_572_669
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
- pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
- e: Orange et noir\n\nContact équipe domicile: Leporcq N (0485.64.31.86 - 
- rayolatino@gmail.com)\n\nAccès voiture : Place Meiser\, descendre le boul
- evard Lambermont. Au 3ème feu de signalisation prendre à gauche\, puis l
- a première à droite.\n\nVérifiez toujours ces infos sur http://www.abss
- a.be/\nVoir sur calabssa: https://calabssa.be/c/669_1_union_foxes_club
-GEO:50.8666341;4.3823667
-LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
- aerbeek\, Belgique
-ORGANIZER;CN="Leporcq N";ROLE=Secrétaire:MAILTO:rayolatino@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J12: UNION FOXES CLUB vs WINCHESTER F.C.
-DTSTART;VALUE=DATE-TIME:20241123T143000Z
-DTEND;VALUE=DATE-TIME:20241123T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4A_12_669_653
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: O02\n\nCouleur princi
- pale équipe domicile: Orange et noir\nCouleur principale équipe exterieu
- re: Bleu et blanc\n\nContact équipe domicile: Mizrahi D. (0476.03.37.84 -
-  daniel_mizrahi96@hotmail.com)\n\nAccès voiture : Ring RO\, sortie Ophain
- \, prendre la direction de Ophain Village\, jusqu'à l'église. Ensuite à
-  droite. Le terrain se trouve à 200 m. à gauche.\n\nVérifiez toujours c
- es infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/
- c/669_1_union_foxes_club
-GEO:50.6648369;4.3506513
-LOCATION:Rue de Lillois 19\, 1421 Ophain/Braine-l'Alleud\, Belgique
-ORGANIZER;CN="Mizrahi D.";ROLE=Secrétaire:MAILTO:daniel_mizrahi96@hotmail
- .com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J11: BLUE THRILLS vs UNION FOXES CLUB
-DTSTART;VALUE=DATE-TIME:20241130T143000Z
-DTEND;VALUE=DATE-TIME:20241130T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4A_11_619_669
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
- pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
-  Orange et noir\n\nContact équipe domicile: De Briey A. (0479.858.374 - a
- lexdebriey@hotmail.fr)\n\nAccès voiture : Chaussée de Haecht\, vers Dieg
- em. Prendre la rue Harenheyde à gauche\, juste au feu de signalisation\, 
- après la station "JET"\, situé à gauche. Entrée du stade par la rue Ha
- renheyde\, 100 m. au-delà du pont du chemin de fer.\n\nVérifiez toujours
-  ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.b
- e/c/669_1_union_foxes_club
-GEO:50.8928227;4.425372
-LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
-ORGANIZER;CN="De Briey A.";ROLE=Secrétaire:MAILTO:alexdebriey@hotmail.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J10: UNION FOXES CLUB vs MOUSSES TACHENT
-DTSTART;VALUE=DATE-TIME:20241207T143000Z
-DTEND;VALUE=DATE-TIME:20241207T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4A_10_669_643
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: O02\n\nCouleur princi
- pale équipe domicile: Orange et noir\nCouleur principale équipe exterieu
- re: Bordeaux\n\nContact équipe domicile: Mizrahi D. (0476.03.37.84 - dani
- el_mizrahi96@hotmail.com)\n\nAccès voiture : Ring RO\, sortie Ophain\, pr
- endre la direction de Ophain Village\, jusqu'à l'église. Ensuite à droi
- te. Le terrain se trouve à 200 m. à gauche.\n\nVérifiez toujours ces in
- fos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/669
- _1_union_foxes_club
-GEO:50.6648369;4.3506513
-LOCATION:Rue de Lillois 19\, 1421 Ophain/Braine-l'Alleud\, Belgique
-ORGANIZER;CN="Mizrahi D.";ROLE=Secrétaire:MAILTO:daniel_mizrahi96@hotmail
- .com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J13: WOKRASSE F.C. vs UNION FOXES CLUB
-DTSTART;VALUE=DATE-TIME:20241214T113000Z
-DTEND;VALUE=DATE-TIME:20241214T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4A_13_656_669
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
- pale équipe domicile: Bleu et Noir\nCouleur principale équipe exterieure
- : Orange et noir\n\nContact équipe domicile: Thisse F (0476.35.49.20 - fe
- lix.thisse@gmail.com)\n\nAccès voiture : Au départ de la Place Meiser\, 
- l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). S
- ous le viaduc prendre à droite\, l'avenue des Anciens Combattants. Juste 
- après le carrefour avec des feux de signalisation prendre à droite vers 
- la Place de la Chapelle\, puis prendre la 4ème rue à main droite (rue au
-  Bois). Le terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujour
- s ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.
- be/c/669_1_union_foxes_club
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER;CN="Thisse F";ROLE=Secrétaire:MAILTO:felix.thisse@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J14: MACAPSULES (LES) vs UNION FOXES CLUB
-DTSTART;VALUE=DATE-TIME:20250111T143000Z
-DTEND;VALUE=DATE-TIME:20250111T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_4A_14_627_669
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
- pale équipe domicile: Vert/blanc\nCouleur principale équipe exterieure: 
- Orange et noir\n\nContact équipe domicile: Daumont J. (0475.42.26.61 - ma
- capsules@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Namur / 
- Luxembourg\, prendre la sortie n° 6 Wavre\, à gauche N 238 direction Wav
- re. Au rond-	point 2ième sortie N238/Blvd. de l'Europe direction Wavre Ce
- ntre. Entrer dans Wavre puis à gauche N 238\, à gauche N 239. 	Au rond-p
- oint prendre la première sortie Rue Haute\, continuer sur rue de Bruxelle
- s\, continuer sur rue Saint-Roch\, continuer 	sur rue Joseph Joppart. Pren
- dre à droite l'avenue du Centre Sportif.\n\nVérifiez toujours ces infos 
- sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/669_1_u
- nion_foxes_club
-GEO:50.72071949999999;4.617067899999999
-LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
-  Belgique
-ORGANIZER;CN="Daumont J.";ROLE=Secrétaire:MAILTO:macapsules@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J15: UNION FOXES CLUB vs BRUSSELS LTC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20250118T143000Z
-DTEND;VALUE=DATE-TIME:20250118T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_4A_15_669_39
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: O02\n\nCouleur princi
- pale équipe domicile: Orange et noir\nCouleur principale équipe exterieu
- re: Bordeaux\n\nContact équipe domicile: Mizrahi D. (0476.03.37.84 - dani
- el_mizrahi96@hotmail.com)\n\nAccès voiture : Ring RO\, sortie Ophain\, pr
- endre la direction de Ophain Village\, jusqu'à l'église. Ensuite à droi
- te. Le terrain se trouve à 200 m. à gauche.\n\nVérifiez toujours ces in
- fos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/669
- _1_union_foxes_club
-GEO:50.6648369;4.3506513
-LOCATION:Rue de Lillois 19\, 1421 Ophain/Braine-l'Alleud\, Belgique
-ORGANIZER;CN="Mizrahi D.";ROLE=Secrétaire:MAILTO:daniel_mizrahi96@hotmail
- .com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J16: OMNISPORT BIERGHES vs UNION FOXES CLUB
-DTSTART;VALUE=DATE-TIME:20250125T120000Z
-DTEND;VALUE=DATE-TIME:20250125T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_4A_16_455_669
-DESCRIPTION:Terrain synthétique: non\nCode terrain: B02\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Orange
-  et noir\n\nContact équipe domicile: Barbe L. (0495.21.74.14 - omnisportb
- ierghes1995@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Charleroi (
- E19)\, prendre la sortie Halle-Tournai-Lille (n° 21) pour rejoindre l'aut
- oroute Tournai-Lille\, ancienne route A8 (E429). Prendre la sortie Rebecq-
- Quenast (n° 24). En bas de la sortie\, prendre à droite\, direction Bier
- ghes. Rouler tout droit jusqu'au premier feu rouge. Tourner à droite en d
- irection de Halle\, ensuite la deuxième rue à droite (rue du Sartiau)\, 
- ensuite à gauche. Le terrain se trouve à 300 m.\n\nVérifiez toujours ce
- s infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c
- /669_1_union_foxes_club
-GEO:50.69576660000001;4.1292301
-LOCATION:Rue du Sartiau 3B\, 1430 Bierghes-Rebecq\, Belgique
-ORGANIZER;CN="Barbe L.";ROLE=Secrétaire:MAILTO:omnisportbierghes1995@gmai
- l.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J17: UNION FOXES CLUB vs EXTRANOS (LOS)
-DTSTART;VALUE=DATE-TIME:20250201T143000Z
-DTEND;VALUE=DATE-TIME:20250201T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_4A_17_669_569
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: O02\n\nCouleur princi
- pale équipe domicile: Orange et noir\nCouleur principale équipe exterieu
- re: Rouge et Bleu\n\nContact équipe domicile: Mizrahi D. (0476.03.37.84 -
-  daniel_mizrahi96@hotmail.com)\n\nAccès voiture : Ring RO\, sortie Ophain
- \, prendre la direction de Ophain Village\, jusqu'à l'église. Ensuite à
-  droite. Le terrain se trouve à 200 m. à gauche.\n\nVérifiez toujours c
- es infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/
- c/669_1_union_foxes_club
-GEO:50.6648369;4.3506513
-LOCATION:Rue de Lillois 19\, 1421 Ophain/Braine-l'Alleud\, Belgique
-ORGANIZER;CN="Mizrahi D.";ROLE=Secrétaire:MAILTO:daniel_mizrahi96@hotmail
- .com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J18: UNION FOXES CLUB vs COPAINS REUNIS
-DTSTART;VALUE=DATE-TIME:20250208T143000Z
-DTEND;VALUE=DATE-TIME:20250208T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_4A_18_669_49
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: O02\n\nCouleur princi
- pale équipe domicile: Orange et noir\nCouleur principale équipe exterieu
- re: Bleu foncé\n\nContact équipe domicile: Mizrahi D. (0476.03.37.84 - d
- aniel_mizrahi96@hotmail.com)\n\nAccès voiture : Ring RO\, sortie Ophain\,
-  prendre la direction de Ophain Village\, jusqu'à l'église. Ensuite à d
- roite. Le terrain se trouve à 200 m. à gauche.\n\nVérifiez toujours ces
-  infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/
- 669_1_union_foxes_club
-GEO:50.6648369;4.3506513
-LOCATION:Rue de Lillois 19\, 1421 Ophain/Braine-l'Alleud\, Belgique
-ORGANIZER;CN="Mizrahi D.";ROLE=Secrétaire:MAILTO:daniel_mizrahi96@hotmail
- .com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J19: FRIENDS SPIRIT AUD vs UNION FOXES CLUB
-DTSTART;VALUE=DATE-TIME:20250215T113000Z
-DTEND;VALUE=DATE-TIME:20250215T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_4A_19_522_669
+SUMMARY:ABSSA D3D J8: HIGGINS-PUMAS (Eq. 2) vs UNION FOXES CLUB
+DTSTART;VALUE=DATE-TIME:20251018T103000Z
+DTEND;VALUE=DATE-TIME:20251018T120000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3D_8_416_669
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Orange
-  et noir\n\nContact équipe domicile: Rau L. (0471.06.77.33 - ludo-r@hotma
- il.com)\n\nAccès voiture : En venant de Bruxelles par la chaussée de Wav
- re\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la b
- ande de droite pendant +/- 200 m. et descendre devant le bâtiment de l'AD
- EPS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le 
- terrain se trouve à 200 m. Le stade est fléché.\n\nVérifiez toujours c
- es infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/
- c/669_1_union_foxes_club
-GEO:50.8103473;4.443252699999999
+ pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
+ erieure: Orange et noir\n\nContact équipe domicile: De Biolley Ph. (0477.
+ 23.31.25 - philippe.debiolley@gmail.com)\n\nAccès voiture : En venant de 
+ Bruxelles par la chaussée de Wavre\, rejoindre le du début de l'autorout
+ e Bruxelles-Namur\, utiliser la bande de droite pendant +/- 200 m. et desc
+ endre devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche
+  (en dessous de l'autoroute). Le terrain se trouve à 200 m. Le stade est 
+ fléché.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir s
+ ur calabssa: https://calabssa.be/c/669_1_union_foxes_club
+GEO:50.81071379999999;4.4432209
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER;CN="Rau L.";ROLE=Secrétaire:MAILTO:ludo-r@hotmail.com
+ORGANIZER;CN="De Biolley Ph.";ROLE=Secrétaire:MAILTO:philippe.debiolley@g
+ mail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J24: UNION FOXES CLUB vs BLUE THRILLS
-DTSTART;VALUE=DATE-TIME:20250222T143000Z
-DTEND;VALUE=DATE-TIME:20250222T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_4A_24_669_619
+SUMMARY:ABSSA D3D J9: UNION FOXES CLUB vs BLEU-BLANC (ENT)R.
+DTSTART;VALUE=DATE-TIME:20251025T123000Z
+DTEND;VALUE=DATE-TIME:20251025T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3D_9_669_53
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: O02\n\nCouleur princi
  pale équipe domicile: Orange et noir\nCouleur principale équipe exterieu
- re: Bleu Marine\n\nContact équipe domicile: Mizrahi D. (0476.03.37.84 - d
- aniel_mizrahi96@hotmail.com)\n\nAccès voiture : Ring RO\, sortie Ophain\,
-  prendre la direction de Ophain Village\, jusqu'à l'église. Ensuite à d
- roite. Le terrain se trouve à 200 m. à gauche.\n\nVérifiez toujours ces
-  infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/
- 669_1_union_foxes_club
+ re: Bleu rayé de Blanc\n\nContact équipe domicile: Mizrahi D. (0476.03.3
+ 7.84 - daniel_mizrahi96@hotmail.com)\n\nAccès voiture : Ring RO\, sortie 
+ Ophain\, prendre la direction de Ophain Village\, jusqu'à l'église. Ensu
+ ite à droite. Le terrain se trouve à 200 m. à gauche.\n\nVérifiez touj
+ ours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabs
+ sa.be/c/669_1_union_foxes_club
 GEO:50.6648369;4.3506513
 LOCATION:Rue de Lillois 19\, 1421 Ophain/Braine-l'Alleud\, Belgique
 ORGANIZER;CN="Mizrahi D.";ROLE=Secrétaire:MAILTO:daniel_mizrahi96@hotmail
  .com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J20: UNION FOXES CLUB vs PATRONS (LES)
-DTSTART;VALUE=DATE-TIME:20250308T143000Z
-DTEND;VALUE=DATE-TIME:20250308T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_4A_20_669_628
+SUMMARY:ABSSA D3D J10: BXL ALLIANCE JETTE vs UNION FOXES CLUB
+DTSTART;VALUE=DATE-TIME:20251108T130000Z
+DTEND;VALUE=DATE-TIME:20251108T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3D_10_566_669
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Orange
+  et noir\n\nContact équipe domicile: Zaleski S. (0473.34.57.81 - zal.stan
+ @hotmail.com)\n\nAccès voiture : Direction cimetière de Jette\, ensuite 
+ prendre la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue 
+ J.J. Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces info
+ s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/669_1
+ _union_foxes_club
+GEO:50.88794619999999;4.3264137
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
+ Belgique
+ORGANIZER;CN="Zaleski S.";ROLE=Secrétaire:MAILTO:zal.stan@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J11: UNION FOXES CLUB vs GERMINAL CSA
+DTSTART;VALUE=DATE-TIME:20251115T133000Z
+DTEND;VALUE=DATE-TIME:20251115T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3D_11_669_235
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: O02\n\nCouleur princi
  pale équipe domicile: Orange et noir\nCouleur principale équipe exterieu
- re: Rouge\n\nContact équipe domicile: Mizrahi D. (0476.03.37.84 - daniel_
- mizrahi96@hotmail.com)\n\nAccès voiture : Ring RO\, sortie Ophain\, prend
- re la direction de Ophain Village\, jusqu'à l'église. Ensuite à droite.
-  Le terrain se trouve à 200 m. à gauche.\n\nVérifiez toujours ces infos
+ re: Vert\n\nContact équipe domicile: Mizrahi D. (0476.03.37.84 - daniel_m
+ izrahi96@hotmail.com)\n\nAccès voiture : Ring RO\, sortie Ophain\, prendr
+ e la direction de Ophain Village\, jusqu'à l'église. Ensuite à droite. 
+ Le terrain se trouve à 200 m. à gauche.\n\nVérifiez toujours ces infos 
+ sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/669_1_u
+ nion_foxes_club
+GEO:50.6648369;4.3506513
+LOCATION:Rue de Lillois 19\, 1421 Ophain/Braine-l'Alleud\, Belgique
+ORGANIZER;CN="Mizrahi D.";ROLE=Secrétaire:MAILTO:daniel_mizrahi96@hotmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J12: CELTIC ROOSTERS vs UNION FOXES CLUB
+DTSTART;VALUE=DATE-TIME:20251122T143000Z
+DTEND;VALUE=DATE-TIME:20251122T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3D_12_626_669
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
+ pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
+ e: Orange et noir\n\nContact équipe domicile: Dubois S. (0479.04.13.70 - 
+ celticroosters@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Na
+ mur / Luxembourg\, prendre la sortie n° 6 Wavre\, à gauche N 238 directi
+ on Wavre. Au rond-	point 2ième sortie N238/Blvd. de l'Europe direction Wa
+ vre Centre. Entrer dans Wavre puis à gauche N 238\, à gauche N 239. 	Au 
+ rond-point prendre la première sortie Rue Haute\, continuer sur rue de Br
+ uxelles\, continuer sur rue Saint-Roch\, continuer 	sur rue Joseph Joppart
+ . Prendre à droite l'avenue du Centre Sportif.\n\nVérifiez toujours ces 
+ infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/6
+ 69_1_union_foxes_club
+GEO:50.720927;4.617368
+LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
+  Belgique
+ORGANIZER;CN="Dubois S.";ROLE=Secrétaire:MAILTO:celticroosters@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J13: UNION FOXES CLUB vs WATERMAEL FC
+DTSTART;VALUE=DATE-TIME:20251129T133000Z
+DTEND;VALUE=DATE-TIME:20251129T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3D_13_669_611
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O02\n\nCouleur princi
+ pale équipe domicile: Orange et noir\nCouleur principale équipe exterieu
+ re: Bleu\n\nContact équipe domicile: Mizrahi D. (0476.03.37.84 - daniel_m
+ izrahi96@hotmail.com)\n\nAccès voiture : Ring RO\, sortie Ophain\, prendr
+ e la direction de Ophain Village\, jusqu'à l'église. Ensuite à droite. 
+ Le terrain se trouve à 200 m. à gauche.\n\nVérifiez toujours ces infos 
+ sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/669_1_u
+ nion_foxes_club
+GEO:50.6648369;4.3506513
+LOCATION:Rue de Lillois 19\, 1421 Ophain/Braine-l'Alleud\, Belgique
+ORGANIZER;CN="Mizrahi D.";ROLE=Secrétaire:MAILTO:daniel_mizrahi96@hotmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J14: UNION FOXES CLUB vs INWENSSYS MOLDOVA
+DTSTART;VALUE=DATE-TIME:20251206T133000Z
+DTEND;VALUE=DATE-TIME:20251206T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3D_14_669_671
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O02\n\nCouleur princi
+ pale équipe domicile: Orange et noir\nCouleur principale équipe exterieu
+ re: Orange\n\nContact équipe domicile: Mizrahi D. (0476.03.37.84 - daniel
+ _mizrahi96@hotmail.com)\n\nAccès voiture : Ring RO\, sortie Ophain\, pren
+ dre la direction de Ophain Village\, jusqu'à l'église. Ensuite à droite
+ . Le terrain se trouve à 200 m. à gauche.\n\nVérifiez toujours ces info
+ s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/669_1
+ _union_foxes_club
+GEO:50.6648369;4.3506513
+LOCATION:Rue de Lillois 19\, 1421 Ophain/Braine-l'Alleud\, Belgique
+ORGANIZER;CN="Mizrahi D.";ROLE=Secrétaire:MAILTO:daniel_mizrahi96@hotmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J15: TRINQUANT vs UNION FOXES CLUB
+DTSTART;VALUE=DATE-TIME:20251213T113000Z
+DTEND;VALUE=DATE-TIME:20251213T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3D_15_445_669
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Orange et noir\n\nContact équipe domicile: Bernard J-M. (0476.66.08.14 -
+  jmbernard.trinquant@yahoo.fr)\n\nAccès voiture : Venant de Bruxelles\, p
+ rendre le Ring Est direction Waterloo. Sortir au pont de Groenendael\, dir
+ ection La Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La
+  Hulpe\, toujours tout droit. Au feu de signalisation et le carrefour de L
+ a Hulpe\, tout droit direction Genval. Au feu de signalisation prendre à 
+ gauche et ensuite directement à droite\, l'avenue Soyer\, derrière le G.
+ B. Le terrain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http
+ ://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/669_1_union_fox
+ es_club
+GEO:50.7308998;4.4944678
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Bernard J-M.";ROLE=Secrétaire:MAILTO:jmbernard.trinquant@ya
+ hoo.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J16: UNION FOXES CLUB vs NEW ARQUOIS FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260110T133000Z
+DTEND;VALUE=DATE-TIME:20260110T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3D_16_669_263
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O02\n\nCouleur princi
+ pale équipe domicile: Orange et noir\nCouleur principale équipe exterieu
+ re: Bleu\n\nContact équipe domicile: Mizrahi D. (0476.03.37.84 - daniel_m
+ izrahi96@hotmail.com)\n\nAccès voiture : Ring RO\, sortie Ophain\, prendr
+ e la direction de Ophain Village\, jusqu'à l'église. Ensuite à droite. 
+ Le terrain se trouve à 200 m. à gauche.\n\nVérifiez toujours ces infos 
+ sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/669_1_u
+ nion_foxes_club
+GEO:50.6648369;4.3506513
+LOCATION:Rue de Lillois 19\, 1421 Ophain/Braine-l'Alleud\, Belgique
+ORGANIZER;CN="Mizrahi D.";ROLE=Secrétaire:MAILTO:daniel_mizrahi96@hotmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J17: FOSSIS (LES) CS vs UNION FOXES CLUB
+DTSTART;VALUE=DATE-TIME:20260117T140000Z
+DTEND;VALUE=DATE-TIME:20260117T153000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3D_17_217_669
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: M08\n\nCouleur princi
+ pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Orang
+ e et noir\n\nContact équipe domicile: Desmedt O. (0495.27.08.87 - oli.des
+ medt@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'aut
+ oroute E411 en direction de Namur. Prendre la sortie 9 Corroy-le-Grand ver
+ s Louvain-la-Neuve  Sud / Nivelles / E 19. Rejoindre Chemin de Grez. Au ro
+ nd-point\, prendre la 2ième sortie sur Grand'Route / N 4. Après 1\,8 km.
+ et au prochain feu\, tourner à droite Rue de Corbais. Continuer tout droi
+ t pendant 2 km. et prendre à droite Avenue du Cérisier. 70 m. plus loin\
+ , vous trouverez le parking sur la droite.\n\nVérifiez toujours ces infos
   sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/669_1_
  union_foxes_club
+GEO:50.64104589999999;4.618380999999999
+LOCATION:Guibert Sports Arena\, Avenue du Cérisiers 3\, 1435 Mont-Saint-G
+ uibert\, Belgique
+ORGANIZER;CN="Desmedt O.";ROLE=Secrétaire:MAILTO:oli.desmedt@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J18: UNION FOXES CLUB vs PICARDIE AS
+DTSTART;VALUE=DATE-TIME:20260124T133000Z
+DTEND;VALUE=DATE-TIME:20260124T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3D_18_669_63
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O02\n\nCouleur princi
+ pale équipe domicile: Orange et noir\nCouleur principale équipe exterieu
+ re: Bleu\n\nContact équipe domicile: Mizrahi D. (0476.03.37.84 - daniel_m
+ izrahi96@hotmail.com)\n\nAccès voiture : Ring RO\, sortie Ophain\, prendr
+ e la direction de Ophain Village\, jusqu'à l'église. Ensuite à droite. 
+ Le terrain se trouve à 200 m. à gauche.\n\nVérifiez toujours ces infos 
+ sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/669_1_u
+ nion_foxes_club
 GEO:50.6648369;4.3506513
 LOCATION:Rue de Lillois 19\, 1421 Ophain/Braine-l'Alleud\, Belgique
 ORGANIZER;CN="Mizrahi D.";ROLE=Secrétaire:MAILTO:daniel_mizrahi96@hotmail
  .com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J21: LUNETTE (LA) FC vs UNION FOXES CLUB
-DTSTART;VALUE=DATE-TIME:20250315T130000Z
-DTEND;VALUE=DATE-TIME:20250315T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_4A_21_130_669
-DESCRIPTION:Terrain synthétique: non\nCode terrain: A09\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Orange
-  et noir\n\nContact équipe domicile: Bonifazio R. (0488.31.38.10 - bonifa
- zio.raphael@gmail.com)\n\nAccès voiture : En venant de la Route de Lennik
-  (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre la direction du ci
- metière d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-poi
- nt prendre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entr
- ée du complexe et des terrains se situe à +/- 500 m. sur la gauche.\n\nV
- érifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: h
- ttps://calabssa.be/c/669_1_union_foxes_club
-GEO:50.8114295;4.2763934
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER;CN="Bonifazio R.";ROLE=Secrétaire:MAILTO:bonifazio.raphael@gmai
- l.com
+SUMMARY:ABSSA D3D J19: CENTRAL PARK FC vs UNION FOXES CLUB
+DTSTART;VALUE=DATE-TIME:20260131T143000Z
+DTEND;VALUE=DATE-TIME:20260131T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3D_19_562_669
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Bleu et Blanc\nCouleur principale équipe exterieur
+ e: Orange et noir\n\nContact équipe domicile: Genot F. (0473.57.28.61 - g
+ enotflorian@hotmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, pren
+ dre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (termin
+ us bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez tou
+ jours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calab
+ ssa.be/c/669_1_union_foxes_club
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J22: UNION FOXES CLUB vs RAYO LATINO
-DTSTART;VALUE=DATE-TIME:20250322T143000Z
-DTEND;VALUE=DATE-TIME:20250322T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_4A_22_669_572
+SUMMARY:ABSSA D3D J20: GAMBRINUS F.C. vs UNION FOXES CLUB
+DTSTART;VALUE=DATE-TIME:20260207T123000Z
+DTEND;VALUE=DATE-TIME:20260207T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3D_20_645_669
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E10\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Orange
+  et noir\n\nContact équipe domicile: Brismee M (0474.68.53.85 - fcgambrin
+ usfc@gmail.com)\n\nAccès voiture : Prendre la chaussée de Louvain\, Plac
+ e Meiser\, Place de Paduwa\, prendre ensuite la 2ème rue à droite\, l' A
+ venue des Communautés\, l'entrée au terrain est situé à 100 m.\n\nVér
+ ifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: http
+ s://calabssa.be/c/669_1_union_foxes_club
+GEO:50.8586469;4.4204206
+LOCATION:Stade Communal G. Petre\, Rue G. de Lombaerde 55\, 1140 Evere\, B
+ elgique
+ORGANIZER;CN="Brismee M";ROLE=Secrétaire:MAILTO:fcgambrinusfc@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J21: UNION FOXES CLUB vs HIGGINS-PUMAS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260214T133000Z
+DTEND;VALUE=DATE-TIME:20260214T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3D_21_669_416
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: O02\n\nCouleur princi
  pale équipe domicile: Orange et noir\nCouleur principale équipe exterieu
- re: Rouge et noir\n\nContact équipe domicile: Mizrahi D. (0476.03.37.84 -
+ re: Rayé Bleu et Blanc\n\nContact équipe domicile: Mizrahi D. (0476.03.3
+ 7.84 - daniel_mizrahi96@hotmail.com)\n\nAccès voiture : Ring RO\, sortie 
+ Ophain\, prendre la direction de Ophain Village\, jusqu'à l'église. Ensu
+ ite à droite. Le terrain se trouve à 200 m. à gauche.\n\nVérifiez touj
+ ours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabs
+ sa.be/c/669_1_union_foxes_club
+GEO:50.6648369;4.3506513
+LOCATION:Rue de Lillois 19\, 1421 Ophain/Braine-l'Alleud\, Belgique
+ORGANIZER;CN="Mizrahi D.";ROLE=Secrétaire:MAILTO:daniel_mizrahi96@hotmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J22: BLEU-BLANC (ENT)R. vs UNION FOXES CLUB
+DTSTART;VALUE=DATE-TIME:20260221T143000Z
+DTEND;VALUE=DATE-TIME:20260221T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3D_22_53_669
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Bleu rayé de Blanc\nCouleur principale équipe ext
+ erieure: Orange et noir\n\nContact équipe domicile: Mineur X. (0471.56.08
+ .07 - josexavier.mineur@gmail.com)\n\nAccès voiture : Avenue de Tervuren\
+ , prendre l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nVérifie
+ z toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://
+ calabssa.be/c/669_1_union_foxes_club
+GEO:50.8333897;4.4384038
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Mineur X.";ROLE=Secrétaire:MAILTO:josexavier.mineur@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J23: UNION FOXES CLUB vs BXL ALLIANCE JETTE
+DTSTART;VALUE=DATE-TIME:20260228T133000Z
+DTEND;VALUE=DATE-TIME:20260228T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3D_23_669_566
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O02\n\nCouleur princi
+ pale équipe domicile: Orange et noir\nCouleur principale équipe exterieu
+ re: Vert\n\nContact équipe domicile: Mizrahi D. (0476.03.37.84 - daniel_m
+ izrahi96@hotmail.com)\n\nAccès voiture : Ring RO\, sortie Ophain\, prendr
+ e la direction de Ophain Village\, jusqu'à l'église. Ensuite à droite. 
+ Le terrain se trouve à 200 m. à gauche.\n\nVérifiez toujours ces infos 
+ sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/669_1_u
+ nion_foxes_club
+GEO:50.6648369;4.3506513
+LOCATION:Rue de Lillois 19\, 1421 Ophain/Braine-l'Alleud\, Belgique
+ORGANIZER;CN="Mizrahi D.";ROLE=Secrétaire:MAILTO:daniel_mizrahi96@hotmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J24: GERMINAL CSA vs UNION FOXES CLUB
+DTSTART;VALUE=DATE-TIME:20260307T130000Z
+DTEND;VALUE=DATE-TIME:20260307T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3D_24_235_669
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E07\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Orange
+  et noir\n\nContact équipe domicile: Naniot M. (0477.47.14.56 - m.naniot@
+ skynet.be)\n\nAccès voiture : Boulevard Lambermont\, prendre le boulevard
+  Léopold III\, direction aéroport de Bruxelles-National\, au 3ème feu d
+ e signalisation prendre à droite. le terrain se trouve à 50 m.\n\nVérif
+ iez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:
+ //calabssa.be/c/669_1_union_foxes_club
+GEO:50.8691994;4.406709999999999
+LOCATION:Complexe Sportif Evere\, Avenue des Anciens Combattants 300\, 114
+ 0 Evere\, Belgique
+ORGANIZER;CN="Naniot M.";ROLE=Secrétaire:MAILTO:m.naniot@skynet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J25: UNION FOXES CLUB vs CELTIC ROOSTERS
+DTSTART;VALUE=DATE-TIME:20260314T133000Z
+DTEND;VALUE=DATE-TIME:20260314T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3D_25_669_626
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O02\n\nCouleur princi
+ pale équipe domicile: Orange et noir\nCouleur principale équipe exterieu
+ re: Vert et blanc\n\nContact équipe domicile: Mizrahi D. (0476.03.37.84 -
   daniel_mizrahi96@hotmail.com)\n\nAccès voiture : Ring RO\, sortie Ophain
  \, prendre la direction de Ophain Village\, jusqu'à l'église. Ensuite à
   droite. Le terrain se trouve à 200 m. à gauche.\n\nVérifiez toujours c
@@ -523,5 +499,23 @@ GEO:50.6648369;4.3506513
 LOCATION:Rue de Lillois 19\, 1421 Ophain/Braine-l'Alleud\, Belgique
 ORGANIZER;CN="Mizrahi D.";ROLE=Secrétaire:MAILTO:daniel_mizrahi96@hotmail
  .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J26: WATERMAEL FC vs UNION FOXES CLUB
+DTSTART;VALUE=DATE-TIME:20260321T130000Z
+DTEND;VALUE=DATE-TIME:20260321T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3D_26_611_669
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Orange
+  et noir\n\nContact équipe domicile: Deschamps J. (0477.67.76.37 - jul_de
+ sch@hotmail.com)\n\nAccès voiture : A partir du square des Archiducs\, pr
+ endre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez touj
+ ours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabs
+ sa.be/c/669_1_union_foxes_club
+GEO:50.80645209999999;4.4087184
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
 END:VEVENT
 END:VCALENDAR

@@ -4,114 +4,120 @@ PRODID:abbsa_j_15_d_5b
 X-WR-CALDESC:Les matches de la journée 15 en divion 5B d'ABSSA.
 X-WR-CALNAME:D5B Journée 15
 BEGIN:VEVENT
-SUMMARY:ABSSA D5B J15: EQUIPAGE vs BAYERN DE MONIQUE
-DTSTART;VALUE=DATE-TIME:20250118T100000Z
-DTEND;VALUE=DATE-TIME:20250118T113000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_5B_15_681_417
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
-  et blanc\n\nContact équipe domicile: De Meulenaere C. (0473.76.57.11 - e
- quipagefc24@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendr
- e l'autoroute E411 en direction de Namur\, prendre la sortie  Wavre (n° 6
- )\, tenir la droite et au bout de la bretelle\, prendre la direction d'Ott
- ignies par la N238. Au 1èr feu de signalisation continuer tout droit en p
- assant devant Walibi (qui se trouve sur la gauche) jusqu'à la sortie Lime
- lette. Au bout de cette sortie\, en face du Tennis Club La Palestre\, pren
- dre à droite la rue Charles Dubois\, jusqu'au carrefour principal. Contin
- uer tout droit en traversant l'avenue Albert 1èr. Passer en dessous du 1
- èr pont du chemin de fer et prendre la rue de l'Europe jusqu'à la place 
- de l'Europe. Traverser cette place par la droite. Au bout à gauche\, suiv
- re l'avenue Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau
-  F.C. Limelette). Continuer cette rue et passer en dessous du 2ème pont d
- u chemin de fer. Après ce pont\, prendre tout de suite à gauche l'avenue
-  Demolder (panneau F.C. Limelette)\, en face de l'étang du Buston. Suivre
-  cette avenue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. A
- près 50 m. dans cette rue\, prendre à droite l'avenue des Sorbiers (pann
- eau du F.C. Limelette). L'entrée du terrain est située 50 m. plus bas su
- r la gauche.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.67628029999999;4.562802
-LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER;CN="De Meulenaere C.";ROLE=Secrétaire:MAILTO:equipagefc24@gmail
- .com
+SUMMARY:ABSSA D5B J15: MARINEL A.S. vs UNION BRUXELLOISE
+DTSTART;VALUE=DATE-TIME:20251213T111500Z
+DTEND;VALUE=DATE-TIME:20251213T124500Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_5B_15_688_655
+DESCRIPTION:Terrain synthétique: non\nCode terrain: L11\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir/
+  Bleu\n\nContact équipe domicile: Lawson E (0483.04.51.77 - as.marinel@ou
+ tlook.com)\n\nAccès voiture : Autoroute E 411 direction Namur / Luxembour
+ g\, prendre la sortie n° 6 Wavre\, vers N238. Tourner à droite sur Boule
+ vard de l'Europe/N238 sur 200 m. Prendre à droite sur Rue de la Wastinne.
+  Ensuite\, aprèsle passage à niveau\, prendre à gauche sur Rue Provinci
+ ale/N239. Les terrains se trouvent sur la gauche de la route en contre-bas
+  (facilement visible de la route).\n\nVérifiez toujours ces infos sur htt
+ p://www.abssa.be/
+GEO:50.7007516;4.582180999999999
+LOCATION:Charles Jaumotte 156\, 1300 Wavre (Limal)\, Belgique
+ORGANIZER;CN="Lawson E";ROLE=Secrétaire:MAILTO:as.marinel@outlook.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5B J15: WATERMAEL FC (Eq. 3) vs RANGERS F.C.
-DTSTART;VALUE=DATE-TIME:20250118T113000Z
-DTEND;VALUE=DATE-TIME:20250118T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_5B_15_611_620
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
- n\nContact équipe domicile: Deschamps J. (0477.67.76.37 - jul_desch@hotma
- il.com)\n\nAccès voiture : A partir du square des Archiducs\, prendre la 
- rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez toujours ces 
- infos sur http://www.abssa.be/
-GEO:50.80645209999999;4.4087184
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5B J15: BLUE OTTERS F.C. vs SPIJTOIS FC
-DTSTART;VALUE=DATE-TIME:20250118T113000Z
-DTEND;VALUE=DATE-TIME:20250118T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_5B_15_668_631
-DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc 
- Bordeaux\n\nContact équipe domicile: De Crombrugghe A. (0491.63.38.39 - a
- maurydecrom@yahoo.com)\n\nAccès voiture : Au départ de la Place Meiser\,
-  l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). 
- Sous le viaduc prendre à droite\, l'avenue des Anciens Combattants. Juste
-  après le carrefour avec des feux de signalisation prendre à droite vers
-  la Place de la Chapelle\, puis prendre la 4ème rue à main droite (rue a
- u Bois). Le terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujou
- rs ces infos sur http://www.abssa.be/
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER;CN="De Crombrugghe A.";ROLE=Secrétaire:MAILTO:amaurydecrom@yaho
- o.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5B J15: CAFARD F.C. vs COSMOS BRUWOLF MJ
-DTSTART;VALUE=DATE-TIME:20250118T140000Z
-DTEND;VALUE=DATE-TIME:20250118T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_5B_15_674_338
-DESCRIPTION:Terrain synthétique: non\nCode terrain: A10\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Orange
- \n\nContact équipe domicile: Gonzalez H. (0470.52.25.86 - fccafard@gmail.
- com)\n\nAccès voiture : L'accès au terrain se fait à partir du n° 2057
-  de la chaussée de Wavre (en face du stade communal d'Auderghem). L'accè
- s au terrain se fait par l'arrière du bâtiment principal (où sont situ
- és les vestiaires) il faut parcourir environ 300 mètres avant d'atteindr
- e le terrain de football situé après la piste d'athlétisme et le terrai
- n de hockey.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.8093405;4.4437919
-LOCATION:Complexe de L'Adeps\, Chaussée de Wavre 2057\, 1160 Auderghem\, 
- Belgique
-ORGANIZER;CN="Gonzalez H.";ROLE=Secrétaire:MAILTO:fccafard@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5B J15: WOLUWE FC vs WAPPERS FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20250118T143000Z
-DTEND;VALUE=DATE-TIME:20250118T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_5B_15_153_67
+SUMMARY:ABSSA D5B J15: CHOULE AUDERGHEM (Eq. 3) vs LORRAINE(LA)-MTM.R (Eq.
+  3)
+DTSTART;VALUE=DATE-TIME:20251213T113000Z
+DTEND;VALUE=DATE-TIME:20251213T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_5B_15_517_44
 DESCRIPTION:Terrain synthétique: non\nCode terrain: R03\n\nCouleur princi
- pale équipe domicile: Jaune et Bleu\nCouleur principale équipe exterieur
- e: Rayé noir et blanc\n\nContact équipe domicile: Purnelle K. (0491.08.2
- 4.67 - kevin.purnelle@ing.com)\n\nAccès voiture : Par la E411 Bruxelles-N
- amur\, prendre la sortie n° 5 (Wavre Nord\, Rixensart\, Bierges).\nEnsuit
- e prendre la N257 pendant 700 mètres jusqu'au rond-point\, prendre la rue
-  de l'Etoile et ensuite la rue de Mérode jusqu'à Rixensart. Après 900 m
- ètres\, à la Place de la Perche\, prendre à droite l'avenue de la Paix 
- et encore à droite l'avenue Clermont Tonnerre.\n\nVérifiez toujours ces 
- infos sur http://www.abssa.be/
+ pale équipe domicile: Rose\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Vandenplas D. (0476.54.48.01 - dav_54@hotmail.
+ com)\n\nAccès voiture : Par la E411 Bruxelles-Namur\, prendre la sortie n
+ ° 5 (Wavre Nord\, Rixensart\, Bierges).\nEnsuite prendre la N257 pendant 
+ 700 mètres jusqu'au rond-point\, prendre la rue de l'Etoile et ensuite la
+  rue de Mérode jusqu'à Rixensart. Après 900 mètres\, à la Place de la
+  Perche\, prendre à droite l'avenue de la Paix et encore à droite l'aven
+ ue Clermont Tonnerre.\n\nVérifiez toujours ces infos sur http://www.abssa
+ .be/
 GEO:50.7128483;4.5376972
 LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
  30 Rixensart\, Belgique
-ORGANIZER;CN="Purnelle K.";ROLE=Secrétaire:MAILTO:kevin.purnelle@ing.com
+ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J15: FOOT FRITESTYLE vs PECHEUR F.C.
+DTSTART;VALUE=DATE-TIME:20251213T114500Z
+DTEND;VALUE=DATE-TIME:20251213T131500Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_5B_15_679_677
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: C02\n\nCouleur princi
+ pale équipe domicile: Vert / noir\nCouleur principale équipe exterieure:
+  Vert et blanc\n\nContact équipe domicile: Deformanoir O. (0473.62.46.25 
+ - darkotfc@gmail.com)\n\nAccès voiture : Ring ouest: Direction Waterloo\,
+  prendre la sortie "butte du lion" \, prendre à droite\, puis au feu roug
+ e prendre à droite\, rouler jusque Genappe et prendre la RN 25 en directi
+ on de Wavre\, prendre la deuxième sortie (Court St. Etienne) et prendre 
+ à gauche\, le terrain se trouve à 1 km. a main droite.\nPar la E411: Pre
+ ndre la E411 direction Namur\, ensuite sortir a Wavre\, prendre ensuite la
+  sortie Villers-La-Ville\, ensuite à droite puis directement à gauche a 
+ l'arbre et descendre jusque dans le fond\, prendre a droite et le terrain 
+ se trouve à 500 m. a main gauche.\n\nVérifiez toujours ces infos sur htt
+ p://www.abssa.be/
+GEO:50.6326932;4.5363574
+LOCATION:Avenue des Combattants\, 1490 Court St. Etienne\, Belgique
+ORGANIZER;CN="Deformanoir O.";ROLE=Secrétaire:MAILTO:darkotfc@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J15: FC PHOENIX vs INTERIM MILAN
+DTSTART;VALUE=DATE-TIME:20251213T130000Z
+DTEND;VALUE=DATE-TIME:20251213T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_5B_15_686_687
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E08\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Vanderlinden B (0471.12.79.93 - phoenix.abssa@
+ gmail.com)\n\nAccès voiture : Le terrain se trouve derrière l'église St
+ . Vincent\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8803867;4.4003168
+LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue Stroobants 75\, 1140 Evere\,
+  Belgique
+ORGANIZER;CN="Vanderlinden B";ROLE=Secrétaire:MAILTO:phoenix.abssa@gmail.
+ com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J15: SELESSAO (LA) vs BEA WOLUWE
+DTSTART;VALUE=DATE-TIME:20251213T133000Z
+DTEND;VALUE=DATE-TIME:20251213T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_5B_15_689_459
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O02\n\nCouleur princi
+ pale équipe domicile: Blue marine\nCouleur principale équipe exterieure:
+  Bleu foncé\n\nContact équipe domicile: Martins Inês A (0473.58.38.00 -
+  Ines28martins@hotmail.com)\n\nAccès voiture : Ring RO\, sortie Ophain\, 
+ prendre la direction de Ophain Village\, jusqu'à l'église. Ensuite à dr
+ oite. Le terrain se trouve à 200 m. à gauche.\n\nVérifiez toujours ces 
+ infos sur http://www.abssa.be/
+GEO:50.6648369;4.3506513
+LOCATION:Rue de Lillois 19\, 1421 Ophain/Braine-l'Alleud\, Belgique
+ORGANIZER;CN="Martins Inês A";ROLE=Secrétaire:MAILTO:Ines28martins@hotma
+ il.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5B J15: BRUSSELS UNITED vs RANGERS F.C.
+DTSTART;VALUE=DATE-TIME:20251213T143000Z
+DTEND;VALUE=DATE-TIME:20251213T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_5B_15_690_620
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A05\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Gamuela J (0489.04.23.25 - Brusselsud@gmail.c
+ om)\n\nAccès voiture : Par la chaussée de Mons\, direction Halle\, ensui
+ te prendre la Route de Lennik.\nL'entrée du complexe est située Rue Pier
+ re Schlosser\, 31.\n\nVérifiez toujours ces infos sur http://www.abssa.be
+ /
+GEO:50.821962;4.292177
+LOCATION:la Roue\, Route de Lennik 57\, 1070 Anderlecht\, Belgique
+ORGANIZER;CN="Gamuela J";ROLE=Secrétaire:MAILTO:Brusselsud@gmail.com
 END:VEVENT
 END:VCALENDAR

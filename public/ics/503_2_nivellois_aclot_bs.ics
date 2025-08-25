@@ -4,474 +4,36 @@ PRODID:503_2_nivellois_aclot_bs
 X-WR-CALDESC:Les matches du club NIVELLOIS-ACLOT BS (equipe 2) en ABSSA.
 X-WR-CALNAME:ABSSA: NIVELLOIS-ACLOT BS (eq. 2)
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J23: ETINCELLE FC (Eq. 2) vs NIVELLOIS-ACLOT BS (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20240831T103000Z
-DTEND;VALUE=DATE-TIME:20240831T120000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_6C_23_35_503
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
- pale équipe domicile: Jaune et bleu\nCouleur principale équipe exterieur
- e: Rouge et noir\n\nContact équipe domicile: Kremer N (0471.37.59.81 - ni
- colas.kremer@gmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\,
-  après 300 m. en direction de Lennik\, prendre à droite.\nVenant de la c
- haussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place V
- erdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 
- m. en direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.
- abssa.be/\nVoir sur calabssa: https://calabssa.be/c/503_2_nivellois_aclot_
- bs
-GEO:50.8177358;4.2557195
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER;CN="Kremer N";ROLE=Secrétaire:MAILTO:nicolas.kremer@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J1: BRAINE-TERMINUS FC (Eq. 2) vs NIVELLOIS-ACLOT BS (Eq
- . 2)
-DTSTART;VALUE=DATE-TIME:20240907T113000Z
-DTEND;VALUE=DATE-TIME:20240907T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_6C_1_537_503
-DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
- pale équipe domicile: Jaune et rouge\nCouleur principale équipe exterieu
- re: Rouge et noir\n\nContact équipe domicile: Dero G. (0479.81.83.27 - fc
- braineterminus@gmail.com)\n\nAccès voiture : En venant de Bruxelles : Aut
- oroute Tournai - Lille (A8)\, prendre la sortie n° 24\, direction Rebecq\
- , puis la N 6 Bruxelles-Mons en direction de Mons. Entrer dans l'agglomér
- ation de Braine-Le-Comte et prendre la 1ère rue à droite\, le terrain se
-  situe au bout de la rue.\nEn venant de Nivelles : Prendre la N533\, Nivel
- les/Braine-Le-Comte. Entrer dans l'agglomération de Braine-Le-Comte et su
- ivre la direction de Bruxelles (N 6 Mons-Bruxelles)\, prendre la 1ère rue
-  à gauche\, le terrain se situe au bout de la rue.\n\nVérifiez toujours 
- ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be
- /c/503_2_nivellois_aclot_bs
-GEO:50.6194169;4.1351187
-LOCATION:Rue du Poseur 39\, 7090 Braine-Le-Comte\, Belgique
-ORGANIZER;CN="Dero G.";ROLE=Secrétaire:MAILTO:fcbraineterminus@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J2: NIVELLOIS-ACLOT BS (Eq. 2) vs BRITISH UNITED (Eq. 5)
-DTSTART;VALUE=DATE-TIME:20240914T110000Z
-DTEND;VALUE=DATE-TIME:20240914T123000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_6C_2_503_132
+SUMMARY:ABSSA D6B J1: NIVELLOIS-ACLOT BS (Eq. 2) vs CHEVERNY SCHAERB (Eq. 
+ 2)
+DTSTART;VALUE=DATE-TIME:20250830T110000Z
+DTEND;VALUE=DATE-TIME:20250830T123000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_6B_1_503_128
 DESCRIPTION:Terrain synthétique: non\nCode terrain: N03\n\nCouleur princi
  pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
- e: Bleu\n\nContact équipe domicile: Draux N. (0472.40.01.22 - ni.draux@gm
- ail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoroute Brux
- elles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le pon
- t de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au rond-p
- oint (Shopping Center)\, tourner à droite en direction de Wavre (petit ri
- ng de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point du S
- hopping Center)\, tourner à gauche \, rue de l'Industrie et pénétrer da
- ns le zoning. Au bout de la rue\, avant le feu de signalisation\, tourner 
- à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérifiez to
- ujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cala
- bssa.be/c/503_2_nivellois_aclot_bs
-GEO:50.5963705;4.3564539
-LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER;CN="Draux N.";ROLE=Secrétaire:MAILTO:ni.draux@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J3: TOURINNOIS FC (Eq. 4) vs NIVELLOIS-ACLOT BS (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20240921T130000Z
-DTEND;VALUE=DATE-TIME:20240921T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_6C_3_292_503
-DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rouge
-  et noir\n\nContact équipe domicile: Strade P. (010.65.83.02 - stradepaul
- @hotmail.com)\n\nAccès voiture : A partir de l'autoroute Bruxelles-Namur 
- (E411)\, prendre la sortie  Walhain (n° 10). Au pied de la rampe d'accès
- \, suivre la direction Walhain vers la droite et après 200 m. prendre à 
- droite et 400 m. plus loin\, prendre à nouveau à droite. Le terrain se t
- rouve à +/- 300 m. sur la gauche.\n\nVérifiez toujours ces infos sur htt
- p://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/503_2_nivelloi
- s_aclot_bs
-GEO:50.6415282;4.7193257
-LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
-ORGANIZER;CN="Strade P.";ROLE=Secrétaire:MAILTO:stradepaul@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J4: NIVELLOIS-ACLOT BS (Eq. 2) vs AZUR RCS (Eq. 6)
-DTSTART;VALUE=DATE-TIME:20240928T110000Z
-DTEND;VALUE=DATE-TIME:20240928T123000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_6C_4_503_109
-DESCRIPTION:Terrain synthétique: non\nCode terrain: N03\n\nCouleur princi
- pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
- e: Bleu\n\nContact équipe domicile: Draux N. (0472.40.01.22 - ni.draux@gm
- ail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoroute Brux
- elles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le pon
- t de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au rond-p
- oint (Shopping Center)\, tourner à droite en direction de Wavre (petit ri
- ng de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point du S
- hopping Center)\, tourner à gauche \, rue de l'Industrie et pénétrer da
- ns le zoning. Au bout de la rue\, avant le feu de signalisation\, tourner 
- à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérifiez to
- ujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cala
- bssa.be/c/503_2_nivellois_aclot_bs
-GEO:50.5963705;4.3564539
-LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER;CN="Draux N.";ROLE=Secrétaire:MAILTO:ni.draux@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J5: ALIZE VETERANS FC vs NIVELLOIS-ACLOT BS (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20241005T113000Z
-DTEND;VALUE=DATE-TIME:20241005T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_6C_5_395_503
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
- pale équipe domicile: Rouge et Noir\nCouleur principale équipe exterieur
- e: Rouge et noir\n\nContact équipe domicile: Faid'Herbe T (0475.82.12.92 
- - thierry.faidherbe@outlook.be)\n\nAccès voiture : Via la chaussée de Mo
- ns jusqu'à Veeweyde (carrefour Fr. Van Kalken). Prendre à droite le boul
- evard  A. Briand jusqu'à la Place Verdi\, puis le Bld. Théo Lambert.\n\n
- Vérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: 
- https://calabssa.be/c/503_2_nivellois_aclot_bs
-GEO:50.8275993;4.2964877
-LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
- \, Belgique
-ORGANIZER;CN="Faid'Herbe T";ROLE=Secrétaire:MAILTO:thierry.faidherbe@outl
- ook.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J6: NIVELLOIS-ACLOT BS (Eq. 2) vs FAUBOURG-BRAINOISE (Eq
- . 2)
-DTSTART;VALUE=DATE-TIME:20241012T110000Z
-DTEND;VALUE=DATE-TIME:20241012T123000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_6C_6_503_100
-DESCRIPTION:Terrain synthétique: non\nCode terrain: N03\n\nCouleur princi
- pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
- e: Rouge\n\nContact équipe domicile: Draux N. (0472.40.01.22 - ni.draux@g
- mail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoroute Bru
- xelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le po
- nt de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au rond-
- point (Shopping Center)\, tourner à droite en direction de Wavre (petit r
- ing de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point du 
- Shopping Center)\, tourner à gauche \, rue de l'Industrie et pénétrer d
- ans le zoning. Au bout de la rue\, avant le feu de signalisation\, tourner
-  à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérifiez t
- oujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cal
- abssa.be/c/503_2_nivellois_aclot_bs
-GEO:50.5963705;4.3564539
-LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER;CN="Draux N.";ROLE=Secrétaire:MAILTO:ni.draux@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J25: NIVELLOIS-ACLOT BS (Eq. 2) vs CHENOIS SC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20241019T110000Z
-DTEND;VALUE=DATE-TIME:20241019T123000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_6C_25_503_84
-DESCRIPTION:Terrain synthétique: non\nCode terrain: N03\n\nCouleur princi
- pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
- e: Noir et Rouge\n\nContact équipe domicile: Draux N. (0472.40.01.22 - ni
- .draux@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autor
- oute Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer so
- us le pont de l'autoroute et prendre la direction de Nivelles. A 200 m.\, 
- au rond-point (Shopping Center)\, tourner à droite en direction de Wavre 
- (petit ring de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-p
- oint du Shopping Center)\, tourner à gauche \, rue de l'Industrie et pén
+ e: Jaune & Noir\n\nContact équipe domicile: Draux N. (0472.40.01.22 - ni.
+ draux@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoro
+ ute Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sou
+ s le pont de l'autoroute et prendre la direction de Nivelles. A 200 m.\, a
+ u rond-point (Shopping Center)\, tourner à droite en direction de Wavre (
+ petit ring de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-po
+ int du Shopping Center)\, tourner à gauche \, rue de l'Industrie et pén
  étrer dans le zoning. Au bout de la rue\, avant le feu de signalisation\,
   tourner à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVé
  rifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: htt
  ps://calabssa.be/c/503_2_nivellois_aclot_bs
-GEO:50.5963705;4.3564539
+GEO:50.5959861;4.3562179
 LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
 ORGANIZER;CN="Draux N.";ROLE=Secrétaire:MAILTO:ni.draux@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J7: CHIEFS WSL (Eq. 4) vs NIVELLOIS-ACLOT BS (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20241102T100000Z
-DTEND;VALUE=DATE-TIME:20241102T113000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_6C_7_303_503
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
-  et noir\n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan
- .be)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, pu
- is la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce
-  pont le terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur 
- http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/503_2_nivel
- lois_aclot_bs
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J8: NIVELLOIS-ACLOT BS (Eq. 2) vs CHOULE AUDERGHEM (Eq. 
- 4)
-DTSTART;VALUE=DATE-TIME:20241109T120000Z
-DTEND;VALUE=DATE-TIME:20241109T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_6C_8_503_517
-DESCRIPTION:Terrain synthétique: non\nCode terrain: N03\n\nCouleur princi
- pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
- e: Rayé Bleu et Blanc\n\nContact équipe domicile: Draux N. (0472.40.01.2
- 2 - ni.draux@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, par l
- 'autoroute Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, pas
- ser sous le pont de l'autoroute et prendre la direction de Nivelles. A 200
-  m.\, au rond-point (Shopping Center)\, tourner à droite en direction de 
- Wavre (petit ring de Nivelles).\nAu 4ème rond-point (en tenant compte du 
- rond-point du Shopping Center)\, tourner à gauche \, rue de l'Industrie e
- t pénétrer dans le zoning. Au bout de la rue\, avant le feu de signalisa
- tion\, tourner à gauche et prendre la rue du Progrès pendant +/- 400 m.\
- n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabss
- a: https://calabssa.be/c/503_2_nivellois_aclot_bs
-GEO:50.5963705;4.3564539
-LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER;CN="Draux N.";ROLE=Secrétaire:MAILTO:ni.draux@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J9: PHARMA SC (Eq. 4) vs NIVELLOIS-ACLOT BS (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20241116T130000Z
-DTEND;VALUE=DATE-TIME:20241116T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_6C_9_268_503
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge 
- et noir\n\nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.d
- umidi@scarlet.be)\n\nAccès voiture : Au départ de la Place St. Denis à 
- Forest prendre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4
- ème rue à droite) et dans la rue de la Soierie rouler env. 100 m. puis 1
- ère à gauche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L
- 'entrée du Complexe se trouve à hauteur de City Cart\, à gauche de la r
- oute.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur c
- alabssa: https://calabssa.be/c/503_2_nivellois_aclot_bs
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
- e
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J12: CHENOIS SC (Eq. 3) vs NIVELLOIS-ACLOT BS (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20241123T140000Z
-DTEND;VALUE=DATE-TIME:20241123T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_6C_12_84_503
-DESCRIPTION:Terrain synthétique: non\nCode terrain: W02\n\nCouleur princi
- pale équipe domicile: Noir et Rouge\nCouleur principale équipe exterieur
- e: Rouge et noir\n\nContact équipe domicile: Versmissen P. (0495.59.61.77
-  - sc.chenois@waterloo.eu)\n\nAccès voiture : Venant d'Uccle\, prendre la
-  chaussée de Waterloo\, ensuite la chaussée de Bruxelles\, continuer jus
- qu'à la place E. Vandevelde (intersection de la chaussée de Bruxelles av
- ec la chaussée de Tervuren à Joli-Bois). Au feu de signalisation prendre
-  à droite la chaussée Bara. Le terrain se trouve à droite à +/- 500 m.
- \n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabs
- sa: https://calabssa.be/c/503_2_nivellois_aclot_bs
-GEO:50.701676;4.397567
-LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
-ORGANIZER;CN="Versmissen P.";ROLE=Secrétaire:MAILTO:sc.chenois@waterloo.e
- u
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J11: NIVELLOIS-ACLOT BS (Eq. 2) vs ETTEKIJS (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20241130T120000Z
-DTEND;VALUE=DATE-TIME:20241130T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_6C_11_503_343
-DESCRIPTION:Terrain synthétique: non\nCode terrain: N03\n\nCouleur princi
- pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
- e: Noir rayé de blanc\n\nContact équipe domicile: Draux N. (0472.40.01.2
- 2 - ni.draux@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, par l
- 'autoroute Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, pas
- ser sous le pont de l'autoroute et prendre la direction de Nivelles. A 200
-  m.\, au rond-point (Shopping Center)\, tourner à droite en direction de 
- Wavre (petit ring de Nivelles).\nAu 4ème rond-point (en tenant compte du 
- rond-point du Shopping Center)\, tourner à gauche \, rue de l'Industrie e
- t pénétrer dans le zoning. Au bout de la rue\, avant le feu de signalisa
- tion\, tourner à gauche et prendre la rue du Progrès pendant +/- 400 m.\
- n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabss
- a: https://calabssa.be/c/503_2_nivellois_aclot_bs
-GEO:50.5963705;4.3564539
-LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER;CN="Draux N.";ROLE=Secrétaire:MAILTO:ni.draux@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J10: NIVELLOIS-ACLOT BS (Eq. 2) vs ETINCELLE FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20241207T120000Z
-DTEND;VALUE=DATE-TIME:20241207T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_6C_10_503_35
-DESCRIPTION:Terrain synthétique: non\nCode terrain: N03\n\nCouleur princi
- pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
- e: Jaune et bleu\n\nContact équipe domicile: Draux N. (0472.40.01.22 - ni
- .draux@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autor
- oute Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer so
- us le pont de l'autoroute et prendre la direction de Nivelles. A 200 m.\, 
- au rond-point (Shopping Center)\, tourner à droite en direction de Wavre 
- (petit ring de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-p
- oint du Shopping Center)\, tourner à gauche \, rue de l'Industrie et pén
- étrer dans le zoning. Au bout de la rue\, avant le feu de signalisation\,
-  tourner à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVé
- rifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: htt
- ps://calabssa.be/c/503_2_nivellois_aclot_bs
-GEO:50.5963705;4.3564539
-LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER;CN="Draux N.";ROLE=Secrétaire:MAILTO:ni.draux@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J14: NIVELLOIS-ACLOT BS (Eq. 2) vs BRAINE-TERMINUS FC (E
- q. 2)
-DTSTART;VALUE=DATE-TIME:20250111T120000Z
-DTEND;VALUE=DATE-TIME:20250111T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_6C_14_503_537
-DESCRIPTION:Terrain synthétique: non\nCode terrain: N03\n\nCouleur princi
- pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
- e: Jaune et rouge\n\nContact équipe domicile: Draux N. (0472.40.01.22 - n
- i.draux@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'auto
- route Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer s
- ous le pont de l'autoroute et prendre la direction de Nivelles. A 200 m.\,
-  au rond-point (Shopping Center)\, tourner à droite en direction de Wavre
-  (petit ring de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-
- point du Shopping Center)\, tourner à gauche \, rue de l'Industrie et pé
- nétrer dans le zoning. Au bout de la rue\, avant le feu de signalisation\
- , tourner à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nV
- érifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: h
- ttps://calabssa.be/c/503_2_nivellois_aclot_bs
-GEO:50.5963705;4.3564539
-LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER;CN="Draux N.";ROLE=Secrétaire:MAILTO:ni.draux@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J15: BRITISH UNITED (Eq. 5) vs NIVELLOIS-ACLOT BS (Eq. 2
- )
-DTSTART;VALUE=DATE-TIME:20250118T113000Z
-DTEND;VALUE=DATE-TIME:20250118T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_6C_15_132_503
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge 
- et noir\n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gill
- esvanderseypen@gmail.com)\n\nAccès voiture : A partir de Bruxelles\, pren
- dre la E 411 en direction de Namur. Prendre la sortie N° 8 puis à droite
-  la bretelle pour la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. 
- Après +/- 6\,5 km\, au rond-point\, prendre la sortie 1 vers la N 420 Ch
- ée. de la Libération\, puis à gauche dans la rue de la Grande lecke.\n\
- nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa:
-  https://calabssa.be/c/503_2_nivellois_aclot_bs
-GEO:50.7540176;4.7835618
-LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
-ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
- gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J16: NIVELLOIS-ACLOT BS (Eq. 2) vs TOURINNOIS FC (Eq. 4)
-DTSTART;VALUE=DATE-TIME:20250125T120000Z
-DTEND;VALUE=DATE-TIME:20250125T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_6C_16_503_292
-DESCRIPTION:Terrain synthétique: non\nCode terrain: N03\n\nCouleur princi
- pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
- e: Rouge\n\nContact équipe domicile: Draux N. (0472.40.01.22 - ni.draux@g
- mail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoroute Bru
- xelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le po
- nt de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au rond-
- point (Shopping Center)\, tourner à droite en direction de Wavre (petit r
- ing de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point du 
- Shopping Center)\, tourner à gauche \, rue de l'Industrie et pénétrer d
- ans le zoning. Au bout de la rue\, avant le feu de signalisation\, tourner
-  à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérifiez t
- oujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cal
- abssa.be/c/503_2_nivellois_aclot_bs
-GEO:50.5963705;4.3564539
-LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER;CN="Draux N.";ROLE=Secrétaire:MAILTO:ni.draux@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J17: AZUR RCS (Eq. 6) vs NIVELLOIS-ACLOT BS (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20250201T140000Z
-DTEND;VALUE=DATE-TIME:20250201T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_6C_17_109_503
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W12\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge 
- et noir\n\nContact équipe domicile: Mad. Decamps N. (0477.27.39.66 - nath
- alie_decamps@hotmail.com)\n\nAccès voiture : Avenue de Tervuren\, directi
- on Tervuren. Passé le boulevard du Souverain prendre à gauche au premier
-  feu de signalisation (Av. Madoux). Au feu de signalisation suivant prendr
- e la 2ème rue à main droite (Av. J. Dujardin). Ensuite 1ère rue à gauc
- he (Av. Salomé).\n\nVérifiez toujours ces infos sur http://www.abssa.be/
- \nVoir sur calabssa: https://calabssa.be/c/503_2_nivellois_aclot_bs
-GEO:50.830818;4.455442
-LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
- elgique
-ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
- tmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J18: NIVELLOIS-ACLOT BS (Eq. 2) vs ALIZE VETERANS FC
-DTSTART;VALUE=DATE-TIME:20250208T120000Z
-DTEND;VALUE=DATE-TIME:20250208T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_6C_18_503_395
-DESCRIPTION:Terrain synthétique: non\nCode terrain: N03\n\nCouleur princi
- pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
- e: Rouge et Noir\n\nContact équipe domicile: Draux N. (0472.40.01.22 - ni
- .draux@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autor
- oute Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer so
- us le pont de l'autoroute et prendre la direction de Nivelles. A 200 m.\, 
- au rond-point (Shopping Center)\, tourner à droite en direction de Wavre 
- (petit ring de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-p
- oint du Shopping Center)\, tourner à gauche \, rue de l'Industrie et pén
- étrer dans le zoning. Au bout de la rue\, avant le feu de signalisation\,
-  tourner à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVé
- rifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: htt
- ps://calabssa.be/c/503_2_nivellois_aclot_bs
-GEO:50.5963705;4.3564539
-LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER;CN="Draux N.";ROLE=Secrétaire:MAILTO:ni.draux@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J19: FAUBOURG-BRAINOISE (Eq. 2) vs NIVELLOIS-ACLOT BS (E
- q. 2)
-DTSTART;VALUE=DATE-TIME:20250215T123000Z
-DTEND;VALUE=DATE-TIME:20250215T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_6C_19_100_503
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rouge
-  et noir\n\nContact équipe domicile: Herpain D. (0474.79.02.18 - daniel.h
- erpain@skynet.be)\n\nAccès voiture : En venant de Bruxelles\, emprunter l
- a chaussée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au d
- it carrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chau
- ssée\, au deuxième feu de signalisation\, prendre à droite\, le terrain
-  se trouve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur 
- http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/503_2_nivel
- lois_aclot_bs
-GEO:50.6827211;4.3844421
-LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
- ud\, Belgique
-ORGANIZER;CN="Herpain D.";ROLE=Secrétaire:MAILTO:daniel.herpain@skynet.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J24: ETTEKIJS (Eq. 3) vs NIVELLOIS-ACLOT BS (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20250222T130000Z
-DTEND;VALUE=DATE-TIME:20250222T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_6C_24_343_503
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
- pale équipe domicile: Noir rayé de blanc\nCouleur principale équipe ext
- erieure: Rouge et noir\n\nContact équipe domicile: Raes F. (0479.73.82.49
-  - freddy.raes@gmail.com)\n\nAccès voiture : A partir du square des Archi
- ducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVéri
- fiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https
- ://calabssa.be/c/503_2_nivellois_aclot_bs
-GEO:50.80645209999999;4.4087184
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J20: NIVELLOIS-ACLOT BS (Eq. 2) vs CHIEFS WSL (Eq. 4)
-DTSTART;VALUE=DATE-TIME:20250308T120000Z
-DTEND;VALUE=DATE-TIME:20250308T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_6C_20_503_303
+SUMMARY:ABSSA D6B J3: NIVELLOIS-ACLOT BS (Eq. 2) vs BRUSSELS BRITISH R (Eq
+ . 6)
+DTSTART;VALUE=DATE-TIME:20250913T110000Z
+DTEND;VALUE=DATE-TIME:20250913T123000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_6B_3_503_1
 DESCRIPTION:Terrain synthétique: non\nCode terrain: N03\n\nCouleur princi
  pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
  e: Blanc\n\nContact équipe domicile: Draux N. (0472.40.01.22 - ni.draux@g
@@ -485,38 +47,35 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: N03\n\nCouleur princi
   à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérifiez t
  oujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cal
  abssa.be/c/503_2_nivellois_aclot_bs
-GEO:50.5963705;4.3564539
+GEO:50.5959861;4.3562179
 LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
 ORGANIZER;CN="Draux N.";ROLE=Secrétaire:MAILTO:ni.draux@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J21: CHOULE AUDERGHEM (Eq. 4) vs NIVELLOIS-ACLOT BS (Eq.
-  2)
-DTSTART;VALUE=DATE-TIME:20250315T113000Z
-DTEND;VALUE=DATE-TIME:20250315T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_6C_21_517_503
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
- pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
- erieure: Rouge et noir\n\nContact équipe domicile: Vandenplas D. (0476.54
- .48.01 - dav_54@hotmail.com)\n\nAccès voiture : En venant de Bruxelles pa
- r la chaussée de Wavre\, rejoindre le du début de l'autoroute Bruxelles-
- Namur\, utiliser la bande de droite pendant +/- 200 m. et descendre devant
-  le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (en dessous
-  de l'autoroute). Le terrain se trouve à 200 m. Le stade est fléché.\n\
- nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa:
-  https://calabssa.be/c/503_2_nivellois_aclot_bs
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
+SUMMARY:ABSSA D6B J4: CAMPOMAIORENSE SC vs NIVELLOIS-ACLOT BS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20250920T133000Z
+DTEND;VALUE=DATE-TIME:20250920T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_6B_4_467_503
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W13\n\nCouleur princi
+ pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
+ e: Rouge et noir\n\nContact équipe domicile: Cesar Paixao I. (0496.37.12.
+ 76 - ivocp1@hotmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, pren
+ dre la rue Voot\, puis la chaussée de Stockel. Passer en dessous du petit
+  pont et continuer la chaussée de Stockel pendant env. 500 m. Le terrain 
+ est situé sur la droite de la chaussée.\n\nVérifiez toujours ces infos 
+ sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/503_2_n
+ ivellois_aclot_bs
+GEO:50.8417148;4.4547744
+LOCATION:Chaussée de Stockel 376\, 1150 Woluwé-Saint-Pierre\, Belgique
+ORGANIZER;CN="Cesar Paixao I.";ROLE=Secrétaire:MAILTO:ivocp1@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J22: NIVELLOIS-ACLOT BS (Eq. 2) vs PHARMA SC (Eq. 4)
-DTSTART;VALUE=DATE-TIME:20250322T120000Z
-DTEND;VALUE=DATE-TIME:20250322T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_6C_22_503_268
+SUMMARY:ABSSA D6B J5: NIVELLOIS-ACLOT BS (Eq. 2) vs AZUR RCS (Eq. 5)
+DTSTART;VALUE=DATE-TIME:20250927T110000Z
+DTEND;VALUE=DATE-TIME:20250927T123000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_6B_5_503_109
 DESCRIPTION:Terrain synthétique: non\nCode terrain: N03\n\nCouleur princi
  pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
  e: Bleu\n\nContact équipe domicile: Draux N. (0472.40.01.22 - ni.draux@gm
@@ -530,7 +89,395 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: N03\n\nCouleur princi
  à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérifiez to
  ujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cala
  bssa.be/c/503_2_nivellois_aclot_bs
-GEO:50.5963705;4.3564539
+GEO:50.5959861;4.3562179
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Draux N.";ROLE=Secrétaire:MAILTO:ni.draux@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J6: ETTEKIJS (Eq. 3) vs NIVELLOIS-ACLOT BS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20251004T120000Z
+DTEND;VALUE=DATE-TIME:20251004T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_6B_6_343_503
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Noir rayé de blanc\nCouleur principale équipe ext
+ erieure: Rouge et noir\n\nContact équipe domicile: Raes F. (0479.73.82.49
+  - freddy.raes@gmail.com)\n\nAccès voiture : A partir du square des Archi
+ ducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVéri
+ fiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https
+ ://calabssa.be/c/503_2_nivellois_aclot_bs
+GEO:50.80645209999999;4.4087184
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J7: NIVELLOIS-ACLOT BS (Eq. 2) vs WATERMAEL CS
+DTSTART;VALUE=DATE-TIME:20251011T110000Z
+DTEND;VALUE=DATE-TIME:20251011T123000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_6B_7_503_375
+DESCRIPTION:Terrain synthétique: non\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
+ e: Rouge\n\nContact équipe domicile: Draux N. (0472.40.01.22 - ni.draux@g
+ mail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoroute Bru
+ xelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le po
+ nt de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au rond-
+ point (Shopping Center)\, tourner à droite en direction de Wavre (petit r
+ ing de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point du 
+ Shopping Center)\, tourner à gauche \, rue de l'Industrie et pénétrer d
+ ans le zoning. Au bout de la rue\, avant le feu de signalisation\, tourner
+  à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérifiez t
+ oujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cal
+ abssa.be/c/503_2_nivellois_aclot_bs
+GEO:50.5959861;4.3562179
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Draux N.";ROLE=Secrétaire:MAILTO:ni.draux@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J8: PHARMA SC (Eq. 3) vs NIVELLOIS-ACLOT BS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20251018T113000Z
+DTEND;VALUE=DATE-TIME:20251018T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_6B_8_268_503
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Rouge 
+ et noir\n\nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.d
+ umidi@scarlet.be)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\
+ nEn venant de Zaventem\, prendre à gauche à la sortie\, en venant de Cha
+ rleroi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au ron
+ d point. Le terrain se trouve en face de la pompe à essence Q8.\n\nVérif
+ iez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:
+ //calabssa.be/c/503_2_nivellois_aclot_bs
+GEO:50.8833029;4.3163788
+LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
+ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J9: NIVELLOIS-ACLOT BS (Eq. 2) vs TOURINNOIS FC (Eq. 4)
+DTSTART;VALUE=DATE-TIME:20251025T110000Z
+DTEND;VALUE=DATE-TIME:20251025T123000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_6B_9_503_292
+DESCRIPTION:Terrain synthétique: non\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
+ e: Rouge\n\nContact équipe domicile: Draux N. (0472.40.01.22 - ni.draux@g
+ mail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoroute Bru
+ xelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le po
+ nt de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au rond-
+ point (Shopping Center)\, tourner à droite en direction de Wavre (petit r
+ ing de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point du 
+ Shopping Center)\, tourner à gauche \, rue de l'Industrie et pénétrer d
+ ans le zoning. Au bout de la rue\, avant le feu de signalisation\, tourner
+  à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérifiez t
+ oujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cal
+ abssa.be/c/503_2_nivellois_aclot_bs
+GEO:50.5959861;4.3562179
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Draux N.";ROLE=Secrétaire:MAILTO:ni.draux@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J10: BRUSSELS LTC (Eq. 6) vs NIVELLOIS-ACLOT BS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20251108T143000Z
+DTEND;VALUE=DATE-TIME:20251108T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_6B_10_39_503
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Ro
+ uge et noir\n\nContact équipe domicile: Prudhomme D (0478.49.26.08 - brus
+ selsltc039@gmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre le
+  Ring Est direction Waterloo. Sortir au pont de Groenendael\, direction La
+  Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, 
+ toujours tout droit. Au feu de signalisation et le carrefour de La Hulpe\,
+  tout droit direction Genval. Au feu de signalisation prendre à gauche et
+  ensuite directement à droite\, l'avenue Soyer\, derrière le G.B. Le ter
+ rain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.ab
+ ssa.be/\nVoir sur calabssa: https://calabssa.be/c/503_2_nivellois_aclot_bs
+GEO:50.7308998;4.4944678
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Prudhomme D";ROLE=Secrétaire:MAILTO:brusselsltc039@gmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J11: NIVELLOIS-ACLOT BS (Eq. 2) vs TRINQUANT (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20251115T120000Z
+DTEND;VALUE=DATE-TIME:20251115T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_6B_11_503_445
+DESCRIPTION:Terrain synthétique: non\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
+ e: Bleu marine\n\nContact équipe domicile: Draux N. (0472.40.01.22 - ni.d
+ raux@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autorou
+ te Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous
+  le pont de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au
+  rond-point (Shopping Center)\, tourner à droite en direction de Wavre (p
+ etit ring de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-poi
+ nt du Shopping Center)\, tourner à gauche \, rue de l'Industrie et péné
+ trer dans le zoning. Au bout de la rue\, avant le feu de signalisation\, t
+ ourner à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVéri
+ fiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https
+ ://calabssa.be/c/503_2_nivellois_aclot_bs
+GEO:50.5959861;4.3562179
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Draux N.";ROLE=Secrétaire:MAILTO:ni.draux@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J13: COSMOS BRUWOLF MJ (Eq. 2) vs NIVELLOIS-ACLOT BS (Eq
+ . 2)
+DTSTART;VALUE=DATE-TIME:20251129T130000Z
+DTEND;VALUE=DATE-TIME:20251129T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_6B_13_338_503
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Roug
+ e et noir\n\nContact équipe domicile: Engels F (0479.88.25.84 - Pitcheswa
+ @msn.com)\n\nAccès voiture : Direction cimetière de Jette\, ensuite pren
+ dre la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J.
+  Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces infos su
+ r http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/503_2_niv
+ ellois_aclot_bs
+GEO:50.88794619999999;4.3264137
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
+ Belgique
+ORGANIZER;CN="Engels F";ROLE=Secrétaire:MAILTO:Pitcheswa@msn.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J14: CHEVERNY SCHAERB (Eq. 2) vs NIVELLOIS-ACLOT BS (Eq.
+  2)
+DTSTART;VALUE=DATE-TIME:20251206T143000Z
+DTEND;VALUE=DATE-TIME:20251206T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_6B_14_128_503
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Jaune & Noir\nCouleur principale équipe exterieure
+ : Rouge et noir\n\nContact équipe domicile: Bex V (0476.92.58.43 - vincen
+ tbex@gmail.com)\n\nAccès voiture : Direction cimetière de Jette\, ensuit
+ e prendre la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenu
+ e J.J. Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces in
+ fos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/503
+ _2_nivellois_aclot_bs
+GEO:50.88794619999999;4.3264137
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
+ Belgique
+ORGANIZER;CN="Bex V";ROLE=Secrétaire:MAILTO:vincentbex@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J16: BRUSSELS BRITISH R (Eq. 6) vs NIVELLOIS-ACLOT BS (E
+ q. 2)
+DTSTART;VALUE=DATE-TIME:20260110T130000Z
+DTEND;VALUE=DATE-TIME:20260110T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_6B_16_1_503
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
+  et noir\n\nContact équipe domicile: O'Connor G (0456.54.46.67 - abssa-se
+ c@rbbfc.org)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosiè
+ res. Passer devant l'église\, longer l'autoroute et tourner à droite au 
+ cimetière des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos 
+ sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/503_2_n
+ ivellois_aclot_bs
+GEO:50.7264542;4.5530681
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="O'Connor G";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J17: NIVELLOIS-ACLOT BS (Eq. 2) vs CAMPOMAIORENSE SC
+DTSTART;VALUE=DATE-TIME:20260117T120000Z
+DTEND;VALUE=DATE-TIME:20260117T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_6B_17_503_467
+DESCRIPTION:Terrain synthétique: non\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
+ e: Vert et blanc\n\nContact équipe domicile: Draux N. (0472.40.01.22 - ni
+ .draux@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autor
+ oute Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer so
+ us le pont de l'autoroute et prendre la direction de Nivelles. A 200 m.\, 
+ au rond-point (Shopping Center)\, tourner à droite en direction de Wavre 
+ (petit ring de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-p
+ oint du Shopping Center)\, tourner à gauche \, rue de l'Industrie et pén
+ étrer dans le zoning. Au bout de la rue\, avant le feu de signalisation\,
+  tourner à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVé
+ rifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: htt
+ ps://calabssa.be/c/503_2_nivellois_aclot_bs
+GEO:50.5959861;4.3562179
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Draux N.";ROLE=Secrétaire:MAILTO:ni.draux@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J18: AZUR RCS (Eq. 5) vs NIVELLOIS-ACLOT BS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260124T140000Z
+DTEND;VALUE=DATE-TIME:20260124T153000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_6B_18_109_503
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W12\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge 
+ et noir\n\nContact équipe domicile: Mad. Decamps N. (0477.27.39.66 - nath
+ alie_decamps@hotmail.com)\n\nAccès voiture : Avenue de Tervuren\, directi
+ on Tervuren. Passé le boulevard du Souverain prendre à gauche au premier
+  feu de signalisation (Av. Madoux). Au feu de signalisation suivant prendr
+ e la 2ème rue à main droite (Av. J. Dujardin). Ensuite 1ère rue à gauc
+ he (Av. Salomé).\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+ \nVoir sur calabssa: https://calabssa.be/c/503_2_nivellois_aclot_bs
+GEO:50.8308291;4.4555375
+LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
+ elgique
+ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
+ tmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J19: NIVELLOIS-ACLOT BS (Eq. 2) vs ETTEKIJS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20260131T120000Z
+DTEND;VALUE=DATE-TIME:20260131T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_6B_19_503_343
+DESCRIPTION:Terrain synthétique: non\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
+ e: Noir rayé de blanc\n\nContact équipe domicile: Draux N. (0472.40.01.2
+ 2 - ni.draux@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, par l
+ 'autoroute Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, pas
+ ser sous le pont de l'autoroute et prendre la direction de Nivelles. A 200
+  m.\, au rond-point (Shopping Center)\, tourner à droite en direction de 
+ Wavre (petit ring de Nivelles).\nAu 4ème rond-point (en tenant compte du 
+ rond-point du Shopping Center)\, tourner à gauche \, rue de l'Industrie e
+ t pénétrer dans le zoning. Au bout de la rue\, avant le feu de signalisa
+ tion\, tourner à gauche et prendre la rue du Progrès pendant +/- 400 m.\
+ n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabss
+ a: https://calabssa.be/c/503_2_nivellois_aclot_bs
+GEO:50.5959861;4.3562179
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Draux N.";ROLE=Secrétaire:MAILTO:ni.draux@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J20: WATERMAEL CS vs NIVELLOIS-ACLOT BS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260207T143000Z
+DTEND;VALUE=DATE-TIME:20260207T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_6B_20_375_503
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rouge
+  et noir\n\nContact équipe domicile: De Greve M. (0495.22.83.19 - micheld
+ egreve08@gmail.com)\n\nAccès voiture : A partir du square des Archiducs\,
+  prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez t
+ oujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cal
+ abssa.be/c/503_2_nivellois_aclot_bs
+GEO:50.80645209999999;4.4087184
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="De Greve M.";ROLE=Secrétaire:MAILTO:micheldegreve08@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J21: NIVELLOIS-ACLOT BS (Eq. 2) vs PHARMA SC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20260214T120000Z
+DTEND;VALUE=DATE-TIME:20260214T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_6B_21_503_268
+DESCRIPTION:Terrain synthétique: non\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
+ e: Vert\n\nContact équipe domicile: Draux N. (0472.40.01.22 - ni.draux@gm
+ ail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoroute Brux
+ elles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le pon
+ t de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au rond-p
+ oint (Shopping Center)\, tourner à droite en direction de Wavre (petit ri
+ ng de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point du S
+ hopping Center)\, tourner à gauche \, rue de l'Industrie et pénétrer da
+ ns le zoning. Au bout de la rue\, avant le feu de signalisation\, tourner 
+ à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérifiez to
+ ujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cala
+ bssa.be/c/503_2_nivellois_aclot_bs
+GEO:50.5959861;4.3562179
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Draux N.";ROLE=Secrétaire:MAILTO:ni.draux@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J22: TOURINNOIS FC (Eq. 4) vs NIVELLOIS-ACLOT BS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260221T140000Z
+DTEND;VALUE=DATE-TIME:20260221T153000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_6B_22_292_503
+DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rouge
+  et noir\n\nContact équipe domicile: Stas De Richelle M (0473.68.59.91 - 
+ FCTourinnois@outlook.com)\n\nAccès voiture : A partir de l'autoroute Brux
+ elles-Namur (E411)\, prendre la sortie  Walhain (n° 10). Au pied de la ra
+ mpe d'accès\, suivre la direction Walhain vers la droite et après 200 m.
+  prendre à droite et 400 m. plus loin\, prendre à nouveau à droite. Le 
+ terrain se trouve à +/- 300 m. sur la gauche.\n\nVérifiez toujours ces i
+ nfos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/50
+ 3_2_nivellois_aclot_bs
+GEO:50.6412308;4.7180724
+LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
+ORGANIZER;CN="Stas De Richelle M";ROLE=Secrétaire:MAILTO:FCTourinnois@out
+ look.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J23: NIVELLOIS-ACLOT BS (Eq. 2) vs BRUSSELS LTC (Eq. 6)
+DTSTART;VALUE=DATE-TIME:20260228T120000Z
+DTEND;VALUE=DATE-TIME:20260228T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_6B_23_503_39
+DESCRIPTION:Terrain synthétique: non\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
+ e: Bordeaux\n\nContact équipe domicile: Draux N. (0472.40.01.22 - ni.drau
+ x@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoroute 
+ Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le
+  pont de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au ro
+ nd-point (Shopping Center)\, tourner à droite en direction de Wavre (peti
+ t ring de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point 
+ du Shopping Center)\, tourner à gauche \, rue de l'Industrie et pénétre
+ r dans le zoning. Au bout de la rue\, avant le feu de signalisation\, tour
+ ner à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérifie
+ z toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://
+ calabssa.be/c/503_2_nivellois_aclot_bs
+GEO:50.5959861;4.3562179
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Draux N.";ROLE=Secrétaire:MAILTO:ni.draux@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J24: TRINQUANT (Eq. 2) vs NIVELLOIS-ACLOT BS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260307T130000Z
+DTEND;VALUE=DATE-TIME:20260307T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_6B_24_445_503
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Rouge et noir\n\nContact équipe domicile: Bernard J-M. (0476.66.08.14 - 
+ jmbernard.trinquant@yahoo.fr)\n\nAccès voiture : Venant de Bruxelles\, pr
+ endre le Ring Est direction Waterloo. Sortir au pont de Groenendael\, dire
+ ction La Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La 
+ Hulpe\, toujours tout droit. Au feu de signalisation et le carrefour de La
+  Hulpe\, tout droit direction Genval. Au feu de signalisation prendre à g
+ auche et ensuite directement à droite\, l'avenue Soyer\, derrière le G.B
+ . Le terrain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http:
+ //www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/503_2_nivellois_
+ aclot_bs
+GEO:50.7308998;4.4944678
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Bernard J-M.";ROLE=Secrétaire:MAILTO:jmbernard.trinquant@ya
+ hoo.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J26: NIVELLOIS-ACLOT BS (Eq. 2) vs COSMOS BRUWOLF MJ (Eq
+ . 2)
+DTSTART;VALUE=DATE-TIME:20260321T120000Z
+DTEND;VALUE=DATE-TIME:20260321T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_6B_26_503_338
+DESCRIPTION:Terrain synthétique: non\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
+ e: Orange\n\nContact équipe domicile: Draux N. (0472.40.01.22 - ni.draux@
+ gmail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoroute Br
+ uxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le p
+ ont de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au rond
+ -point (Shopping Center)\, tourner à droite en direction de Wavre (petit 
+ ring de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point du
+  Shopping Center)\, tourner à gauche \, rue de l'Industrie et pénétrer 
+ dans le zoning. Au bout de la rue\, avant le feu de signalisation\, tourne
+ r à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérifiez 
+ toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://ca
+ labssa.be/c/503_2_nivellois_aclot_bs
+GEO:50.5959861;4.3562179
 LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
 ORGANIZER;CN="Draux N.";ROLE=Secrétaire:MAILTO:ni.draux@gmail.com
 END:VEVENT

@@ -4,138 +4,137 @@ PRODID:abbsa_j_6_d_2a
 X-WR-CALDESC:Les matches de la journée 6 en divion 2A d'ABSSA.
 X-WR-CALNAME:D2A Journée 6
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J6: BRITISH UNITED (Eq. 2) vs FORESTOIS SC
-DTSTART;VALUE=DATE-TIME:20241012T103000Z
-DTEND;VALUE=DATE-TIME:20241012T120000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_2A_6_132_152
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir\n
- \nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gillesvanders
- eypen@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la r
- ue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 2
- 8). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ce
- s infos sur http://www.abssa.be/
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
- gmail.com
+SUMMARY:ABSSA D2A J6: TOURINNOIS FC vs STER'S
+DTSTART;VALUE=DATE-TIME:20251004T113000Z
+DTEND;VALUE=DATE-TIME:20251004T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_2A_6_292_598
+DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Vert 
+ et Blanc\n\nContact équipe domicile: Stas De Richelle M (0473.68.59.91 - 
+ FCTourinnois@outlook.com)\n\nAccès voiture : A partir de l'autoroute Brux
+ elles-Namur (E411)\, prendre la sortie  Walhain (n° 10). Au pied de la ra
+ mpe d'accès\, suivre la direction Walhain vers la droite et après 200 m.
+  prendre à droite et 400 m. plus loin\, prendre à nouveau à droite. Le 
+ terrain se trouve à +/- 300 m. sur la gauche.\n\nVérifiez toujours ces i
+ nfos sur http://www.abssa.be/
+GEO:50.6412308;4.7180724
+LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
+ORGANIZER;CN="Stas De Richelle M";ROLE=Secrétaire:MAILTO:FCTourinnois@out
+ look.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J6: BESACE RFC vs BIG JEFKE
-DTSTART;VALUE=DATE-TIME:20241012T113000Z
-DTEND;VALUE=DATE-TIME:20241012T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_2A_6_24_137
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
- n\nContact équipe domicile: Masset M. (0485.61.39.19 - rfcbesace.024@gmai
- l.com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nEn venant 
- de Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi pren
- dre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point. Le
-  terrain se trouve en face de la pompe à essence Q8.\n\nVérifiez toujour
- s ces infos sur http://www.abssa.be/
-GEO:50.883299;4.316365
-LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
-ORGANIZER;CN="Masset M.";ROLE=Secrétaire:MAILTO:rfcbesace.024@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J6: ENTENTE  RACB vs BRUSSELS BRITISH R (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20241012T120000Z
-DTEND;VALUE=DATE-TIME:20241012T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_2A_6_2_1
+SUMMARY:ABSSA D2A J6: ENTENTE  RACB vs UNION TIGERS
+DTSTART;VALUE=DATE-TIME:20251004T120000Z
+DTEND;VALUE=DATE-TIME:20251004T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_2A_6_2_649
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Blanc
- \n\nContact équipe domicile: Dath D. (0473.47.15.41 - daniel.dath@hotmail
- .com)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\, vers Ne
- der-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-po
- int\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Ver
- t\, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa
- .be/
-GEO:50.89983369999999;4.3936101
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu 
+ ciel et Blanc\n\nContact équipe domicile: Dath D. (0473.47.15.41 - daniel
+ .dath@hotmail.com)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvo
+ rde\, vers Neder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jus
+ qu'au rond-point\, tout droit Chemin Vert\, puis première à gauche\, Pet
+ it Chemin Vert\, terrain à 300 m.\n\nVérifiez toujours ces infos sur htt
+ p://www.abssa.be/
+GEO:50.8996;4.393737199999999
 LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
 ORGANIZER;CN="Dath D.";ROLE=Secrétaire:MAILTO:daniel.dath@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J6: SCHEUT FC vs UNION JP
-DTSTART;VALUE=DATE-TIME:20241012T123000Z
-DTEND;VALUE=DATE-TIME:20241012T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_2A_6_274_504
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu e
- t jaune\n\nContact équipe domicile: Huys R. (0477.59.24.22 - fcscheut@yah
- oo.fr)\n\nAccès voiture : En venant de la Route de Lennik (Citroën) ou d
- e la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Ander
- lecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la so
- rtie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe e
- t des terrains se situe à +/- 500 m. sur la gauche.\n\nVérifiez toujours
-  ces infos sur http://www.abssa.be/
-GEO:50.8114295;4.2763934
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER;CN="Huys R.";ROLE=Secrétaire:MAILTO:fcscheut@yahoo.fr
+SUMMARY:ABSSA D2A J6: VETUSO FC. vs SCHEUT FC
+DTSTART;VALUE=DATE-TIME:20251004T120000Z
+DTEND;VALUE=DATE-TIME:20251004T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_2A_6_624_274
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Day N. (0494.57.83.26 - nicolas.day@ucb.com)\n
+ \nAccès voiture : Venant de Bruxelles prendre le Ring Ouest\, sortie Gena
+ ppe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi) direction
+  Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le carrefour
+ \, tout droit direction route du sucre.\n\nVérifiez toujours ces infos su
+ r http://www.abssa.be/
+GEO:50.601458;4.44982
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER;CN="Day N.";ROLE=Secrétaire:MAILTO:nicolas.day@ucb.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J6: TOURINNOIS FC vs IRLANDE FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20241012T130000Z
-DTEND;VALUE=DATE-TIME:20241012T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_2A_6_292_402
-DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Vert\
- n\nContact équipe domicile: Strade P. (010.65.83.02 - stradepaul@hotmail.
- com)\n\nAccès voiture : A partir de l'autoroute Bruxelles-Namur (E411)\, 
- prendre la sortie  Walhain (n° 10). Au pied de la rampe d'accès\, suivre
-  la direction Walhain vers la droite et après 200 m. prendre à droite et
-  400 m. plus loin\, prendre à nouveau à droite. Le terrain se trouve à 
- +/- 300 m. sur la gauche.\n\nVérifiez toujours ces infos sur http://www.a
- bssa.be/
-GEO:50.6415282;4.7193257
-LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
-ORGANIZER;CN="Strade P.";ROLE=Secrétaire:MAILTO:stradepaul@hotmail.com
+SUMMARY:ABSSA D2A J6: PHARMA SC vs CHENOIS SC
+DTSTART;VALUE=DATE-TIME:20251004T133000Z
+DTEND;VALUE=DATE-TIME:20251004T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_2A_6_268_84
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
+ \n\nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.dumidi@s
+ carlet.be)\n\nAccès voiture : A partir du square des Archiducs\, prendre 
+ la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez toujours c
+ es infos sur http://www.abssa.be/
+GEO:50.80645209999999;4.4087184
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
+ e
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J6: BRAINE-TERMINUS FC vs HIGGINS-PUMAS
-DTSTART;VALUE=DATE-TIME:20241012T133000Z
-DTEND;VALUE=DATE-TIME:20241012T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_2A_6_537_416
-DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
- pale équipe domicile: Jaune et rouge\nCouleur principale équipe exterieu
- re: Rayé Bleu et Blanc\n\nContact équipe domicile: Dero G. (0479.81.83.2
- 7 - fcbraineterminus@gmail.com)\n\nAccès voiture : En venant de Bruxelles
-  : Autoroute Tournai - Lille (A8)\, prendre la sortie n° 24\, direction R
- ebecq\, puis la N 6 Bruxelles-Mons en direction de Mons. Entrer dans l'agg
- lomération de Braine-Le-Comte et prendre la 1ère rue à droite\, le terr
- ain se situe au bout de la rue.\nEn venant de Nivelles : Prendre la N533\,
-  Nivelles/Braine-Le-Comte. Entrer dans l'agglomération de Braine-Le-Comte
-  et suivre la direction de Bruxelles (N 6 Mons-Bruxelles)\, prendre la 1è
- re rue à gauche\, le terrain se situe au bout de la rue.\n\nVérifiez tou
- jours ces infos sur http://www.abssa.be/
-GEO:50.6194169;4.1351187
-LOCATION:Rue du Poseur 39\, 7090 Braine-Le-Comte\, Belgique
-ORGANIZER;CN="Dero G.";ROLE=Secrétaire:MAILTO:fcbraineterminus@gmail.com
+SUMMARY:ABSSA D2A J6: FRANGINOS (LOS) vs BRAINE-TERMINUS FC
+DTSTART;VALUE=DATE-TIME:20251004T133000Z
+DTEND;VALUE=DATE-TIME:20251004T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_2A_6_647_537
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Jaune
+  et rouge\n\nContact équipe domicile: Gerard S. (0487.22.81.20 - simonger
+ ard@hotmail.be)\n\nAccès voiture : Autoroute E 411 direction Namur / Luxe
+ mbourg\, prendre la sortie n° 6 Wavre\, à gauche N 238 direction Wavre. 
+ Au rond-	point 2ième sortie N238/Blvd. de l'Europe direction Wavre Centre
+ . Entrer dans Wavre puis à gauche N 238\, à gauche N 239. 	Au rond-point
+  prendre la première sortie Rue Haute\, continuer sur rue de Bruxelles\, 
+ continuer sur rue Saint-Roch\, continuer 	sur rue Joseph Joppart. Prendre 
+ à droite l'avenue du Centre Sportif.\n\nVérifiez toujours ces infos sur 
+ http://www.abssa.be/
+GEO:50.720927;4.617368
+LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
+  Belgique
+ORGANIZER;CN="Gerard S.";ROLE=Secrétaire:MAILTO:simongerard@hotmail.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J6: UNION TIGERS vs VETUSO FC.
-DTSTART;VALUE=DATE-TIME:20241012T133000Z
-DTEND;VALUE=DATE-TIME:20241012T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_2A_6_649_624
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A01\n\nCouleur princi
- pale équipe domicile: Bleu ciel et Blanc\nCouleur principale équipe exte
- rieure: Bleu\n\nContact équipe domicile: Thibaut L (0472.52.93.45 - union
- .tigers@hotmail.com)\n\nAccès voiture : Par le Ring Ouest\, direction Par
- is\, sortie Westland Shopping Center (n° 14) continuer tout droit\, remon
- ter vers le Ring et prendre à droite pour sortir vers Itterbeek. Prendre 
- l'avenue d'Itterbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. L
- e terrain se trouve à gauche\, entre l'école Van Belle et Veeweyde.\n\nV
- érifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.8354396;4.2768611
-LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
-ORGANIZER;CN="Thibaut L";ROLE=Secrétaire:MAILTO:union.tigers@hotmail.com
+SUMMARY:ABSSA D2A J6: BRUSSELS BRITISH R (Eq. 2) vs CHARLES-QUINT FC
+DTSTART;VALUE=DATE-TIME:20251004T133000Z
+DTEND;VALUE=DATE-TIME:20251004T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_2A_6_1_499
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
+ ciel\n\nContact équipe domicile: O'Connor G (0456.54.46.67 - abssa-sec@rb
+ bfc.org)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières.
+  Passer devant l'église\, longer l'autoroute et tourner à droite au cime
+ tière des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur 
+ http://www.abssa.be/
+GEO:50.7264542;4.5530681
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="O'Connor G";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J6: UNION JP vs IRLANDE FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20251004T133000Z
+DTEND;VALUE=DATE-TIME:20251004T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_2A_6_504_402
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Bleu et jaune\nCouleur principale équipe exterieur
+ e: Vert\n\nContact équipe domicile: Vanderweyen V (0497.35.33.49 - victor
+ .vanderweyen@gmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\,
+  après 300 m. en direction de Lennik\, prendre à droite.\nVenant de la c
+ haussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place V
+ erdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 
+ m. en direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.
+ abssa.be/
+GEO:50.8177358;4.2557195
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER;CN="Vanderweyen V";ROLE=Secrétaire:MAILTO:victor.vanderweyen@gm
+ ail.com
 END:VEVENT
 END:VCALENDAR

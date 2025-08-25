@@ -4,74 +4,32 @@ PRODID:93_1_mireille_wemmel
 X-WR-CALDESC:Les matches du club MIREILLE WEMMEL (equipe 1) en ABSSA.
 X-WR-CALNAME:ABSSA: MIREILLE WEMMEL (eq. 1)
 BEGIN:VEVENT
-SUMMARY:ABSSA D4B J23: MIREILLE WEMMEL vs VOLLENBACK FC
-DTSTART;VALUE=DATE-TIME:20240831T133000Z
-DTEND;VALUE=DATE-TIME:20240831T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4B_23_93_589
-DESCRIPTION:Terrain synthétique: non\nCode terrain: W16\n\nCouleur princi
- pale équipe domicile: Rouge et  Noir\nCouleur principale équipe exterieu
- re: Rose et noir\n\nContact équipe domicile: Vermeerbergen D. (0497.31.76
- .07 - daanvermeerbergen@hotmail.com)\n\nAccès voiture : Ring RO\, afrit W
- emmel-Merchtem (n° 9)\, richting Merchtem volgen via de Is. Meyskensstraa
- t tot aan de rotonde\, op de rotonde de 4de afslag nemen\, Diepstraat deze
-  vloeit over in de Steenweg op Brussel\, 50 m. voorbij het eerste kruispun
- t met verkeerslichten\, links van de steenweg\, bevindt zich het stadium (
- parking)\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir su
- r calabssa: https://calabssa.be/c/93_1_mireille_wemmel
-GEO:50.9077704;4.3065753
-LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
-  Wemmel\, Belgique
-ORGANIZER;CN="Vermeerbergen D.";ROLE=Secrétaire:MAILTO:daanvermeerbergen@
- hotmail.com
+SUMMARY:ABSSA D4C J1: SPARTA SCHEUT vs MIREILLE WEMMEL
+DTSTART;VALUE=DATE-TIME:20250830T133000Z
+DTEND;VALUE=DATE-TIME:20250830T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_4C_1_340_93
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Roug
+ e et  Noir\n\nContact équipe domicile: Vande Velde J. (0486.97.70.66 - sp
+ arta.scheut@hotmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\
+ , après 300 m. en direction de Lennik\, prendre à droite.\nVenant de la 
+ chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place 
+ Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400
+  m. en direction de Lennik.\n\nVérifiez toujours ces infos sur http://www
+ .abssa.be/\nVoir sur calabssa: https://calabssa.be/c/93_1_mireille_wemmel
+GEO:50.8177358;4.2557195
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER;CN="Vande Velde J.";ROLE=Secrétaire:MAILTO:sparta.scheut@hotmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4B J1: BIERGEOIS CS vs MIREILLE WEMMEL
-DTSTART;VALUE=DATE-TIME:20240907T123000Z
-DTEND;VALUE=DATE-TIME:20240907T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4B_1_70_93
-DESCRIPTION:Terrain synthétique: non\nCode terrain: B01\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge 
- et  Noir\n\nContact équipe domicile: Pirlet R (0476.38.58.37 - csbiergeoi
- s.abssa@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Namur\, sortie 
- Bierges\, prendre à droite\, le terrain se trouve à +/- 500 m. du côté
-  droit.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur
-  calabssa: https://calabssa.be/c/93_1_mireille_wemmel
-GEO:50.7113792;4.5897825
-LOCATION:Complexe Sportif J. Colette\, Rue des Combattants\, 1301 Bierges\
- , Belgique
-ORGANIZER;CN="Pirlet R";ROLE=Secrétaire:MAILTO:csbiergeois.abssa@gmail.co
- m
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J2: MIREILLE WEMMEL vs BRUSSELS LTC (Eq. 4)
-DTSTART;VALUE=DATE-TIME:20240914T133000Z
-DTEND;VALUE=DATE-TIME:20240914T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4B_2_93_39
-DESCRIPTION:Terrain synthétique: non\nCode terrain: W16\n\nCouleur princi
- pale équipe domicile: Rouge et  Noir\nCouleur principale équipe exterieu
- re: Bordeaux\n\nContact équipe domicile: Vermeerbergen D. (0497.31.76.07 
- - daanvermeerbergen@hotmail.com)\n\nAccès voiture : Ring RO\, afrit Wemme
- l-Merchtem (n° 9)\, richting Merchtem volgen via de Is. Meyskensstraat to
- t aan de rotonde\, op de rotonde de 4de afslag nemen\, Diepstraat deze vlo
- eit over in de Steenweg op Brussel\, 50 m. voorbij het eerste kruispunt me
- t verkeerslichten\, links van de steenweg\, bevindt zich het stadium (park
- ing)\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur ca
- labssa: https://calabssa.be/c/93_1_mireille_wemmel
-GEO:50.9077704;4.3065753
-LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
-  Wemmel\, Belgique
-ORGANIZER;CN="Vermeerbergen D.";ROLE=Secrétaire:MAILTO:daanvermeerbergen@
- hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J3: STRING PENELOPE (Eq. 2) vs MIREILLE WEMMEL
-DTSTART;VALUE=DATE-TIME:20240921T103000Z
-DTEND;VALUE=DATE-TIME:20240921T120000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4B_3_181_93
+SUMMARY:ABSSA D4C J3: STRING PENELOPE (Eq. 2) vs MIREILLE WEMMEL
+DTSTART;VALUE=DATE-TIME:20250913T103000Z
+DTEND;VALUE=DATE-TIME:20250913T120000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_4C_3_181_93
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
  pale équipe domicile: Orange\nCouleur principale équipe exterieure: Roug
  e et  Noir\n\nContact équipe domicile: Sbaiti Y (0487.54.95.27 - yo.sbait
@@ -99,149 +57,14 @@ LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
 ORGANIZER;CN="Sbaiti Y";ROLE=Secrétaire:MAILTO:yo.sbaiti@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4B J4: MIREILLE WEMMEL vs GAMBRINUS F.C.
-DTSTART;VALUE=DATE-TIME:20240928T133000Z
-DTEND;VALUE=DATE-TIME:20240928T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4B_4_93_645
+SUMMARY:ABSSA D4C J4: MIREILLE WEMMEL vs WINCHESTER F.C.
+DTSTART;VALUE=DATE-TIME:20250920T133000Z
+DTEND;VALUE=DATE-TIME:20250920T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_4C_4_93_653
 DESCRIPTION:Terrain synthétique: non\nCode terrain: W16\n\nCouleur princi
  pale équipe domicile: Rouge et  Noir\nCouleur principale équipe exterieu
- re: Noir\n\nContact équipe domicile: Vermeerbergen D. (0497.31.76.07 - da
- anvermeerbergen@hotmail.com)\n\nAccès voiture : Ring RO\, afrit Wemmel-Me
- rchtem (n° 9)\, richting Merchtem volgen via de Is. Meyskensstraat tot aa
- n de rotonde\, op de rotonde de 4de afslag nemen\, Diepstraat deze vloeit 
- over in de Steenweg op Brussel\, 50 m. voorbij het eerste kruispunt met ve
- rkeerslichten\, links van de steenweg\, bevindt zich het stadium (parking)
- \n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabs
- sa: https://calabssa.be/c/93_1_mireille_wemmel
-GEO:50.9077704;4.3065753
-LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
-  Wemmel\, Belgique
-ORGANIZER;CN="Vermeerbergen D.";ROLE=Secrétaire:MAILTO:daanvermeerbergen@
- hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J5: ZIJP FC vs MIREILLE WEMMEL
-DTSTART;VALUE=DATE-TIME:20241005T133000Z
-DTEND;VALUE=DATE-TIME:20241005T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4B_5_646_93
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: E04\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge 
- et  Noir\n\nContact équipe domicile: Salamone E. (0475.20.92.37 - fczijp@
- outlook.com)\n\nAccès voiture : De la Place Meiser\, remonter tous les bo
- ulevards. Au carrefour de la Chaussée de Wavre\, prendre celle-ci à droi
- te\, ensuite la 2ème rue à droite (Rue Général Fivé)\, puis la 3ème 
- à droite (rue Baron Dhanis).\n\nVérifiez toujours ces infos sur http://w
- ww.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/93_1_mireille_wemme
- l
-GEO:50.8287714;4.3975708
-LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
-ORGANIZER;CN="Salamone E.";ROLE=Secrétaire:MAILTO:fczijp@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J6: MIREILLE WEMMEL vs L'EKIP
-DTSTART;VALUE=DATE-TIME:20241012T133000Z
-DTEND;VALUE=DATE-TIME:20241012T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4B_6_93_662
-DESCRIPTION:Terrain synthétique: non\nCode terrain: W16\n\nCouleur princi
- pale équipe domicile: Rouge et  Noir\nCouleur principale équipe exterieu
- re: Blanc\n\nContact équipe domicile: Vermeerbergen D. (0497.31.76.07 - d
- aanvermeerbergen@hotmail.com)\n\nAccès voiture : Ring RO\, afrit Wemmel-M
- erchtem (n° 9)\, richting Merchtem volgen via de Is. Meyskensstraat tot a
- an de rotonde\, op de rotonde de 4de afslag nemen\, Diepstraat deze vloeit
-  over in de Steenweg op Brussel\, 50 m. voorbij het eerste kruispunt met v
- erkeerslichten\, links van de steenweg\, bevindt zich het stadium (parking
- )\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calab
- ssa: https://calabssa.be/c/93_1_mireille_wemmel
-GEO:50.9077704;4.3065753
-LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
-  Wemmel\, Belgique
-ORGANIZER;CN="Vermeerbergen D.";ROLE=Secrétaire:MAILTO:daanvermeerbergen@
- hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J25: MIREILLE WEMMEL vs SPORTING BW
-DTSTART;VALUE=DATE-TIME:20241019T133000Z
-DTEND;VALUE=DATE-TIME:20241019T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4B_25_93_673
-DESCRIPTION:Terrain synthétique: non\nCode terrain: W16\n\nCouleur princi
- pale équipe domicile: Rouge et  Noir\nCouleur principale équipe exterieu
- re: Blanc\n\nContact équipe domicile: Vermeerbergen D. (0497.31.76.07 - d
- aanvermeerbergen@hotmail.com)\n\nAccès voiture : Ring RO\, afrit Wemmel-M
- erchtem (n° 9)\, richting Merchtem volgen via de Is. Meyskensstraat tot a
- an de rotonde\, op de rotonde de 4de afslag nemen\, Diepstraat deze vloeit
-  over in de Steenweg op Brussel\, 50 m. voorbij het eerste kruispunt met v
- erkeerslichten\, links van de steenweg\, bevindt zich het stadium (parking
- )\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calab
- ssa: https://calabssa.be/c/93_1_mireille_wemmel
-GEO:50.9077704;4.3065753
-LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
-  Wemmel\, Belgique
-ORGANIZER;CN="Vermeerbergen D.";ROLE=Secrétaire:MAILTO:daanvermeerbergen@
- hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J26: BLACK STAR GENVAL vs MIREILLE WEMMEL
-DTSTART;VALUE=DATE-TIME:20241026T133000Z
-DTEND;VALUE=DATE-TIME:20241026T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4B_26_601_93
-DESCRIPTION:Terrain synthétique: non\nCode terrain: G01\n\nCouleur princi
- pale équipe domicile: Noir et Blanc\nCouleur principale équipe exterieur
- e: Rouge et  Noir\n\nContact équipe domicile: Van Bael J. (0479.36.69.79 
- - blackstargenval@gmail.com)\n\nAccès voiture : Prendre l'autoroute de Na
- mur (E411)\, sortie n° 4 - (Genval-Rosières). En bas de la sortie prendr
- e la deuxième rue à droite (rue de La Hulpe) direction "Genval - Maubrou
- x". Au premier rond point continuez à suivre la direction "Genval - Maubr
- oux" (continuation de la rue de La Hulpe). Au rond point suivant\, suivre 
- toujours la direction "Genval-Maubroux". Au troisième rond point (Café d
- u Lac sur la gauche) suivre toujours la direction "Genval-Maubroux" (3ème
-  sortie - rue de Genval). Continuez tout droit jusqu'au feu de signalisati
- on (Eglise de Genval) et tourner à droite (Avenue Albert 1èr). Après +/
- - 800 mètres\, à l'ancienne station service\, prendre à gauche et suivr
- e la route (rue Joseph Desmet) sur +/- 700 mètres\, puis tourner à droit
- e\, rue du Tilleul (panneau : Les Charmettes). Le terrain se trouve à env
- iron 200 mètres sur la droite.\n\nVérifiez toujours ces infos sur http:/
- /www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/93_1_mireille_wem
- mel
-GEO:50.724554;4.496792999999999
-LOCATION:Complexe du Tilleul\, Rue du Tilleul 50\, 1332 Genval (Rixensart)
- \, Belgique
-ORGANIZER;CN="Van Bael J.";ROLE=Secrétaire:MAILTO:blackstargenval@gmail.c
- om
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J7: CORNAC UNITED FC vs MIREILLE WEMMEL
-DTSTART;VALUE=DATE-TIME:20241102T133000Z
-DTEND;VALUE=DATE-TIME:20241102T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4B_7_151_93
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A01\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rouge
-  et  Noir\n\nContact équipe domicile: Denayer M. (0476.53.14.48 - marcden
- ayermd@gmail.com)\n\nAccès voiture : Par le Ring Ouest\, direction Paris\
- , sortie Westland Shopping Center (n° 14) continuer tout droit\, remonter
-  vers le Ring et prendre à droite pour sortir vers Itterbeek. Prendre l'a
- venue d'Itterbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. Le t
- errain se trouve à gauche\, entre l'école Van Belle et Veeweyde.\n\nVér
- ifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: http
- s://calabssa.be/c/93_1_mireille_wemmel
-GEO:50.8354396;4.2768611
-LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
-ORGANIZER;CN="Denayer M.";ROLE=Secrétaire:MAILTO:marcdenayermd@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J8: MIREILLE WEMMEL vs DOPA FC
-DTSTART;VALUE=DATE-TIME:20241109T143000Z
-DTEND;VALUE=DATE-TIME:20241109T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4B_8_93_666
-DESCRIPTION:Terrain synthétique: non\nCode terrain: W16\n\nCouleur princi
- pale équipe domicile: Rouge et  Noir\nCouleur principale équipe exterieu
- re: Noir et rouge\n\nContact équipe domicile: Vermeerbergen D. (0497.31.7
+ re: Bleu et blanc\n\nContact équipe domicile: Vermeerbergen D. (0497.31.7
  6.07 - daanvermeerbergen@hotmail.com)\n\nAccès voiture : Ring RO\, afrit 
  Wemmel-Merchtem (n° 9)\, richting Merchtem volgen via de Is. Meyskensstra
  at tot aan de rotonde\, op de rotonde de 4de afslag nemen\, Diepstraat dez
@@ -249,62 +72,44 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: W16\n\nCouleur princi
  nt met verkeerslichten\, links van de steenweg\, bevindt zich het stadium 
  (parking)\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir s
  ur calabssa: https://calabssa.be/c/93_1_mireille_wemmel
-GEO:50.9077704;4.3065753
+GEO:50.90024;4.4859439
 LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
   Wemmel\, Belgique
 ORGANIZER;CN="Vermeerbergen D.";ROLE=Secrétaire:MAILTO:daanvermeerbergen@
  hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4B J9: MIREILLE WEMMEL vs VIRGINAL ASF
-DTSTART;VALUE=DATE-TIME:20241116T143000Z
-DTEND;VALUE=DATE-TIME:20241116T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4B_9_93_497
-DESCRIPTION:Terrain synthétique: non\nCode terrain: W16\n\nCouleur princi
- pale équipe domicile: Rouge et  Noir\nCouleur principale équipe exterieu
- re: Vert\n\nContact équipe domicile: Vermeerbergen D. (0497.31.76.07 - da
- anvermeerbergen@hotmail.com)\n\nAccès voiture : Ring RO\, afrit Wemmel-Me
- rchtem (n° 9)\, richting Merchtem volgen via de Is. Meyskensstraat tot aa
- n de rotonde\, op de rotonde de 4de afslag nemen\, Diepstraat deze vloeit 
- over in de Steenweg op Brussel\, 50 m. voorbij het eerste kruispunt met ve
- rkeerslichten\, links van de steenweg\, bevindt zich het stadium (parking)
- \n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabs
- sa: https://calabssa.be/c/93_1_mireille_wemmel
-GEO:50.9077704;4.3065753
-LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
-  Wemmel\, Belgique
-ORGANIZER;CN="Vermeerbergen D.";ROLE=Secrétaire:MAILTO:daanvermeerbergen@
- hotmail.com
+SUMMARY:ABSSA D4C J5: BRUSSELS LTC (Eq. 4) vs MIREILLE WEMMEL
+DTSTART;VALUE=DATE-TIME:20250927T133000Z
+DTEND;VALUE=DATE-TIME:20250927T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_4C_5_39_93
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O01\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Ro
+ uge et  Noir\n\nContact équipe domicile: Prudhomme D (0478.49.26.08 - bru
+ sselsltc039@gmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre r
+ ing Est direction Waterloo. Sortir à la sortie n°27 Waterloo Centre.\n	P
+ rendre ensuite à gauche La Drève de Richelle jusqu'au 3ème rond-point e
+ t prendre à gauche la 	Chaussée de Louvain sur environ 2km et prendre à
+  droite la Rue des Saules toujours tout droit et 	qui devient ensuite la R
+ oute des Marnières. Continuer ensuite tout droit\, passer un premier rond
+ -point puis continuer tout droit jusqu'au rond-point du Messager où il fa
+ ut prendre la 2ème sortie. Vous êtes alors sur la Route de Genval et l'e
+ ntrée du Complexe se trouve à environ 200m sur la gauche.\n\nVérifiez t
+ oujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cal
+ abssa.be/c/93_1_mireille_wemmel
+GEO:50.70475570000001;4.4703447
+LOCATION:Route de Genval\, 26A - 1380 Ohain\, Route de Genval 20A\, 1380 O
+ hain\, Belgique
+ORGANIZER;CN="Prudhomme D";ROLE=Secrétaire:MAILTO:brusselsltc039@gmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4B J12: SPORTING BW vs MIREILLE WEMMEL
-DTSTART;VALUE=DATE-TIME:20241123T130000Z
-DTEND;VALUE=DATE-TIME:20241123T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4B_12_673_93
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: I03\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
-  et  Noir\n\nContact équipe domicile: Thumas A. (0472.60.28.90 - sporting
- .bw.abssa@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre 
- l’E411 en direction de Namur et prendre la sortie 11 Perwez-Gembloux\, p
- rendre à droite vers Perwez sur la N29 jusqu’au rond-point de Glimes qu
- i croise la N91 (7km depuis l’E411). Sortir à la 3ème sortie sur la N9
- 1 en\ndirection de Hamme-Mille. Prendre ensuite la 3ème rue à gauche et 
- le terrain se trouve directement sur la droite.\n\nVérifiez toujours ces 
- infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/9
- 3_1_mireille_wemmel
-GEO:50.6849677;4.8070879
-LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
-ORGANIZER;CN="Thumas A.";ROLE=Secrétaire:MAILTO:sporting.bw.abssa@gmail.c
- om
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J11: MIREILLE WEMMEL vs FAUBOURG-BRAINOISE
-DTSTART;VALUE=DATE-TIME:20241130T143000Z
-DTEND;VALUE=DATE-TIME:20241130T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4B_11_93_100
+SUMMARY:ABSSA D4C J6: MIREILLE WEMMEL vs CHENOIS SC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20251004T133000Z
+DTEND;VALUE=DATE-TIME:20251004T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_4C_6_93_84
 DESCRIPTION:Terrain synthétique: non\nCode terrain: W16\n\nCouleur princi
  pale équipe domicile: Rouge et  Noir\nCouleur principale équipe exterieu
  re: Rouge\n\nContact équipe domicile: Vermeerbergen D. (0497.31.76.07 - d
@@ -315,65 +120,39 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: W16\n\nCouleur princi
  erkeerslichten\, links van de steenweg\, bevindt zich het stadium (parking
  )\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calab
  ssa: https://calabssa.be/c/93_1_mireille_wemmel
-GEO:50.9077704;4.3065753
+GEO:50.90024;4.4859439
 LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
   Wemmel\, Belgique
 ORGANIZER;CN="Vermeerbergen D.";ROLE=Secrétaire:MAILTO:daanvermeerbergen@
  hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4B J10: VOLLENBACK FC vs MIREILLE WEMMEL
-DTSTART;VALUE=DATE-TIME:20241207T134500Z
-DTEND;VALUE=DATE-TIME:20241207T151500Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4B_10_589_93
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W16\n\nCouleur princi
- pale équipe domicile: Rose et noir\nCouleur principale équipe exterieure
- : Rouge et  Noir\n\nContact équipe domicile: Haimburger G. (0485.84.91.47
-  - Gregory.haimburger@gmail.com)\n\nAccès voiture : Ring RO\, afrit Wemme
- l-Merchtem (n° 9)\, richting Merchtem volgen via de Is. Meyskensstraat to
- t aan de rotonde\, op de rotonde de 4de afslag nemen\, Diepstraat deze vlo
- eit over in de Steenweg op Brussel\, 50 m. voorbij het eerste kruispunt me
- t verkeerslichten\, links van de steenweg\, bevindt zich het stadium (park
- ing)\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur ca
- labssa: https://calabssa.be/c/93_1_mireille_wemmel
-GEO:50.9077704;4.3065753
-LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
-  Wemmel\, Belgique
-ORGANIZER;CN="Haimburger G.";ROLE=Secrétaire:MAILTO:Gregory.haimburger@gm
- ail.com
+SUMMARY:ABSSA D4C J7: WELL TEAM vs MIREILLE WEMMEL
+DTSTART;VALUE=DATE-TIME:20251011T133000Z
+DTEND;VALUE=DATE-TIME:20251011T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_4C_7_544_93
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Rouge et  Noir\n\nContact équipe domicile: David L (0484.61.48.04 - davi
+ d.louis340@gmail.com)\n\nAccès voiture : A partir du square des Archiducs
+ \, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez
+  toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://c
+ alabssa.be/c/93_1_mireille_wemmel
+GEO:50.80645209999999;4.4087184
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="David L";ROLE=Secrétaire:MAILTO:david.louis340@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4B J13: MIREILLE WEMMEL vs BLACK STAR GENVAL
-DTSTART;VALUE=DATE-TIME:20241214T143000Z
-DTEND;VALUE=DATE-TIME:20241214T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4B_13_93_601
+SUMMARY:ABSSA D4C J8: MIREILLE WEMMEL vs SNEAKY BABOONS
+DTSTART;VALUE=DATE-TIME:20251018T133000Z
+DTEND;VALUE=DATE-TIME:20251018T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_4C_8_93_641
 DESCRIPTION:Terrain synthétique: non\nCode terrain: W16\n\nCouleur princi
  pale équipe domicile: Rouge et  Noir\nCouleur principale équipe exterieu
- re: Noir et Blanc\n\nContact équipe domicile: Vermeerbergen D. (0497.31.7
- 6.07 - daanvermeerbergen@hotmail.com)\n\nAccès voiture : Ring RO\, afrit 
- Wemmel-Merchtem (n° 9)\, richting Merchtem volgen via de Is. Meyskensstra
- at tot aan de rotonde\, op de rotonde de 4de afslag nemen\, Diepstraat dez
- e vloeit over in de Steenweg op Brussel\, 50 m. voorbij het eerste kruispu
- nt met verkeerslichten\, links van de steenweg\, bevindt zich het stadium 
- (parking)\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir s
- ur calabssa: https://calabssa.be/c/93_1_mireille_wemmel
-GEO:50.9077704;4.3065753
-LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
-  Wemmel\, Belgique
-ORGANIZER;CN="Vermeerbergen D.";ROLE=Secrétaire:MAILTO:daanvermeerbergen@
- hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J14: MIREILLE WEMMEL vs BIERGEOIS CS
-DTSTART;VALUE=DATE-TIME:20250111T143000Z
-DTEND;VALUE=DATE-TIME:20250111T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_4B_14_93_70
-DESCRIPTION:Terrain synthétique: non\nCode terrain: W16\n\nCouleur princi
- pale équipe domicile: Rouge et  Noir\nCouleur principale équipe exterieu
- re: Bleu\n\nContact équipe domicile: Vermeerbergen D. (0497.31.76.07 - da
+ re: Noir\n\nContact équipe domicile: Vermeerbergen D. (0497.31.76.07 - da
  anvermeerbergen@hotmail.com)\n\nAccès voiture : Ring RO\, afrit Wemmel-Me
  rchtem (n° 9)\, richting Merchtem volgen via de Is. Meyskensstraat tot aa
  n de rotonde\, op de rotonde de 4de afslag nemen\, Diepstraat deze vloeit 
@@ -381,40 +160,125 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: W16\n\nCouleur princi
  rkeerslichten\, links van de steenweg\, bevindt zich het stadium (parking)
  \n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabs
  sa: https://calabssa.be/c/93_1_mireille_wemmel
-GEO:50.9077704;4.3065753
+GEO:50.90024;4.4859439
 LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
   Wemmel\, Belgique
 ORGANIZER;CN="Vermeerbergen D.";ROLE=Secrétaire:MAILTO:daanvermeerbergen@
  hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4B J15: BRUSSELS LTC (Eq. 4) vs MIREILLE WEMMEL
-DTSTART;VALUE=DATE-TIME:20250118T140000Z
-DTEND;VALUE=DATE-TIME:20250118T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_4B_15_39_93
-DESCRIPTION:Terrain synthétique: non\nCode terrain: L09\n\nCouleur princi
- pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Ro
- uge et  Noir\n\nContact équipe domicile: Van Hacht O. (0475.96.43.03 - da
- nnyboffin@hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre l
- e Ring Est direction Waterloo. Sortir au pont de Groenendael\, direction L
- a Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\,
-  toujours tout droit. Au feu de signalisation et le carrefour de La Hulpe\
- , tout droit direction Genval. Au feu de signalisation prendre à gauche e
- t ensuite directement à droite\, l'avenue Soyer\, derrière le G.B. Le te
- rrain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.a
- bssa.be/\nVoir sur calabssa: https://calabssa.be/c/93_1_mireille_wemmel
-GEO:50.7308998;4.4944678
-LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:dannyboffin@hotmail.co
- m
+SUMMARY:ABSSA D4C J9: MOYEN RFC vs MIREILLE WEMMEL
+DTSTART;VALUE=DATE-TIME:20251025T133000Z
+DTEND;VALUE=DATE-TIME:20251025T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_4C_9_675_93
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rouge
+  et  Noir\n\nContact équipe domicile: Callant A. (0475.40.42.28 - rfcmoye
+ n@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Namur / Luxembo
+ urg\, prendre la sortie n° 6 Wavre\, à gauche N 238 direction Wavre. Au 
+ rond-	point 2ième sortie N238/Blvd. de l'Europe direction Wavre Centre. E
+ ntrer dans Wavre puis à gauche N 238\, à gauche N 239. 	Au rond-point pr
+ endre la première sortie Rue Haute\, continuer sur rue de Bruxelles\, con
+ tinuer sur rue Saint-Roch\, continuer 	sur rue Joseph Joppart. Prendre à 
+ droite l'avenue du Centre Sportif.\n\nVérifiez toujours ces infos sur htt
+ p://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/93_1_mireille_
+ wemmel
+GEO:50.720927;4.617368
+LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
+  Belgique
+ORGANIZER;CN="Callant A.";ROLE=Secrétaire:MAILTO:rfcmoyen@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4B J16: MIREILLE WEMMEL vs STRING PENELOPE (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20250125T143000Z
-DTEND;VALUE=DATE-TIME:20250125T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_4B_16_93_181
+SUMMARY:ABSSA D4C J10: MIREILLE WEMMEL vs MACAPSULES (LES)
+DTSTART;VALUE=DATE-TIME:20251108T143000Z
+DTEND;VALUE=DATE-TIME:20251108T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_4C_10_93_627
+DESCRIPTION:Terrain synthétique: non\nCode terrain: W16\n\nCouleur princi
+ pale équipe domicile: Rouge et  Noir\nCouleur principale équipe exterieu
+ re: Vert/blanc\n\nContact équipe domicile: Vermeerbergen D. (0497.31.76.0
+ 7 - daanvermeerbergen@hotmail.com)\n\nAccès voiture : Ring RO\, afrit Wem
+ mel-Merchtem (n° 9)\, richting Merchtem volgen via de Is. Meyskensstraat 
+ tot aan de rotonde\, op de rotonde de 4de afslag nemen\, Diepstraat deze v
+ loeit over in de Steenweg op Brussel\, 50 m. voorbij het eerste kruispunt 
+ met verkeerslichten\, links van de steenweg\, bevindt zich het stadium (pa
+ rking)\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur 
+ calabssa: https://calabssa.be/c/93_1_mireille_wemmel
+GEO:50.90024;4.4859439
+LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
+  Wemmel\, Belgique
+ORGANIZER;CN="Vermeerbergen D.";ROLE=Secrétaire:MAILTO:daanvermeerbergen@
+ hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4C J11: BRUSSELS LIONS vs MIREILLE WEMMEL
+DTSTART;VALUE=DATE-TIME:20251115T113000Z
+DTEND;VALUE=DATE-TIME:20251115T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_4C_11_682_93
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge 
+ et  Noir\n\nContact équipe domicile: El Halimi A. (0488.95.55.05 - brusse
+ lslionsfc@hotmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, 
+ après 300 m. en direction de Lennik\, prendre à droite.\nVenant de la ch
+ aussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Ve
+ rdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m
+ . en direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.a
+ bssa.be/\nVoir sur calabssa: https://calabssa.be/c/93_1_mireille_wemmel
+GEO:50.8177358;4.2557195
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER;CN="El Halimi A.";ROLE=Secrétaire:MAILTO:brusselslionsfc@hotmai
+ l.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4C J12: MIREILLE WEMMEL vs PANGLOSS FC
+DTSTART;VALUE=DATE-TIME:20251122T143000Z
+DTEND;VALUE=DATE-TIME:20251122T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_4C_12_93_123
+DESCRIPTION:Terrain synthétique: non\nCode terrain: W16\n\nCouleur princi
+ pale équipe domicile: Rouge et  Noir\nCouleur principale équipe exterieu
+ re: Rouge\n\nContact équipe domicile: Vermeerbergen D. (0497.31.76.07 - d
+ aanvermeerbergen@hotmail.com)\n\nAccès voiture : Ring RO\, afrit Wemmel-M
+ erchtem (n° 9)\, richting Merchtem volgen via de Is. Meyskensstraat tot a
+ an de rotonde\, op de rotonde de 4de afslag nemen\, Diepstraat deze vloeit
+  over in de Steenweg op Brussel\, 50 m. voorbij het eerste kruispunt met v
+ erkeerslichten\, links van de steenweg\, bevindt zich het stadium (parking
+ )\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calab
+ ssa: https://calabssa.be/c/93_1_mireille_wemmel
+GEO:50.90024;4.4859439
+LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
+  Wemmel\, Belgique
+ORGANIZER;CN="Vermeerbergen D.";ROLE=Secrétaire:MAILTO:daanvermeerbergen@
+ hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4C J13: PATRONS (LES) vs MIREILLE WEMMEL
+DTSTART;VALUE=DATE-TIME:20251129T143000Z
+DTEND;VALUE=DATE-TIME:20251129T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_4C_13_628_93
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rouge
+  et  Noir\n\nContact équipe domicile: Van Roey G. (0478.24.03.05 - lespat
+ rons.fc@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la
+  rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus
+  28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours 
+ ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be
+ /c/93_1_mireille_wemmel
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Van Roey G.";ROLE=Secrétaire:MAILTO:lespatrons.fc@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4C J14: MIREILLE WEMMEL vs SPARTA SCHEUT
+DTSTART;VALUE=DATE-TIME:20251206T143000Z
+DTEND;VALUE=DATE-TIME:20251206T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_4C_14_93_340
 DESCRIPTION:Terrain synthétique: non\nCode terrain: W16\n\nCouleur princi
  pale équipe domicile: Rouge et  Noir\nCouleur principale équipe exterieu
  re: Orange\n\nContact équipe domicile: Vermeerbergen D. (0497.31.76.07 - 
@@ -425,104 +289,144 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: W16\n\nCouleur princi
  verkeerslichten\, links van de steenweg\, bevindt zich het stadium (parkin
  g)\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur cala
  bssa: https://calabssa.be/c/93_1_mireille_wemmel
-GEO:50.9077704;4.3065753
+GEO:50.90024;4.4859439
 LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
   Wemmel\, Belgique
 ORGANIZER;CN="Vermeerbergen D.";ROLE=Secrétaire:MAILTO:daanvermeerbergen@
  hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4B J17: GAMBRINUS F.C. vs MIREILLE WEMMEL
-DTSTART;VALUE=DATE-TIME:20250201T130000Z
-DTEND;VALUE=DATE-TIME:20250201T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_4B_17_645_93
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: E10\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge 
- et  Noir\n\nContact équipe domicile: Brismee M (0474.68.53.85 - fcgambrin
- usfc@gmail.com)\n\nAccès voiture : Prendre la chaussée de Louvain\, Plac
- e Meiser\, Place de Paduwa\, prendre ensuite la 2ème rue à droite\, l' A
- venue des Communautés\, l'entrée au terrain est situé à 100 m.\n\nVér
- ifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: http
- s://calabssa.be/c/93_1_mireille_wemmel
-GEO:50.8582569;4.4251813
-LOCATION:Stade Communal G. Petre\, Avenue des Communautés\, 1140 Evere\, 
- Belgique
-ORGANIZER;CN="Brismee M";ROLE=Secrétaire:MAILTO:fcgambrinusfc@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J18: MIREILLE WEMMEL vs ZIJP FC
-DTSTART;VALUE=DATE-TIME:20250208T143000Z
-DTEND;VALUE=DATE-TIME:20250208T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_4B_18_93_646
+SUMMARY:ABSSA D4C J16: MIREILLE WEMMEL vs STRING PENELOPE (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260110T143000Z
+DTEND;VALUE=DATE-TIME:20260110T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_4C_16_93_181
 DESCRIPTION:Terrain synthétique: non\nCode terrain: W16\n\nCouleur princi
  pale équipe domicile: Rouge et  Noir\nCouleur principale équipe exterieu
- re: Noir\n\nContact équipe domicile: Vermeerbergen D. (0497.31.76.07 - da
- anvermeerbergen@hotmail.com)\n\nAccès voiture : Ring RO\, afrit Wemmel-Me
- rchtem (n° 9)\, richting Merchtem volgen via de Is. Meyskensstraat tot aa
- n de rotonde\, op de rotonde de 4de afslag nemen\, Diepstraat deze vloeit 
- over in de Steenweg op Brussel\, 50 m. voorbij het eerste kruispunt met ve
- rkeerslichten\, links van de steenweg\, bevindt zich het stadium (parking)
- \n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabs
- sa: https://calabssa.be/c/93_1_mireille_wemmel
-GEO:50.9077704;4.3065753
+ re: Orange\n\nContact équipe domicile: Vermeerbergen D. (0497.31.76.07 - 
+ daanvermeerbergen@hotmail.com)\n\nAccès voiture : Ring RO\, afrit Wemmel-
+ Merchtem (n° 9)\, richting Merchtem volgen via de Is. Meyskensstraat tot 
+ aan de rotonde\, op de rotonde de 4de afslag nemen\, Diepstraat deze vloei
+ t over in de Steenweg op Brussel\, 50 m. voorbij het eerste kruispunt met 
+ verkeerslichten\, links van de steenweg\, bevindt zich het stadium (parkin
+ g)\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur cala
+ bssa: https://calabssa.be/c/93_1_mireille_wemmel
+GEO:50.90024;4.4859439
 LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
   Wemmel\, Belgique
 ORGANIZER;CN="Vermeerbergen D.";ROLE=Secrétaire:MAILTO:daanvermeerbergen@
  hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4B J19: L'EKIP vs MIREILLE WEMMEL
-DTSTART;VALUE=DATE-TIME:20250215T140000Z
-DTEND;VALUE=DATE-TIME:20250215T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_4B_19_662_93
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: P02\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
-  et  Noir\n\nContact équipe domicile: De Meeûs A (0493.91.45.85 - lekipo
- fficielle@gmail.com)\n\nAccès voiture : a Partir de Bruxelles\, Prendre l
- a E 411 en Direction de Namur. Prendre la Sortie 11  Gembloux pour Rejoind
- re la N 29 en Direction de Gembloux / Tirlement / Jodoigne / Perwez. suivr
- e la N29 et Chaussée de Wavre (N243) en Direction de la Rue des Marronnie
- rs. au Rond-Point 1\, 2 et 3 Prendre chaque Fois la première Sortie.\nAu 
- Rond-Point suivant (4Ième) Prendre la deuxième Sortie et Continuer sur l
- a Chaussée de Wavre / N 243. Prendre à Droite sur la Rue des Marronniers
- \, le Terrain se Trouve à Droite\n\nVérifiez toujours ces infos sur http
- ://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/93_1_mireille_w
- emmel
-GEO:50.6429684;4.800823299999999
-LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
-ORGANIZER;CN="De Meeûs A";ROLE=Secrétaire:MAILTO:lekipofficielle@gmail.c
- om
+SUMMARY:ABSSA D4C J17: WINCHESTER F.C. vs MIREILLE WEMMEL
+DTSTART;VALUE=DATE-TIME:20260117T143000Z
+DTEND;VALUE=DATE-TIME:20260117T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_4C_17_653_93
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
+ pale équipe domicile: Bleu et blanc\nCouleur principale équipe exterieur
+ e: Rouge et  Noir\n\nContact équipe domicile: Descheemaeker M. (0488.92.8
+ 8.36 - winchesterfc@outlook.com)\n\nAccès voiture : A partir de Bruxelles
+ \, prendre la E 411 en direction de Namur. Prendre la sortie N° 8 puis à
+  droite la bretelle pour la N 25 vers Chaumont-Gistoux / Grez Doiceau / Lo
+ uvain. Après +/- 6\,5 km\, au rond-point\, prendre la sortie 1 vers la N 
+ 420 Chée. de la Libération\, puis à gauche dans la rue de la Grande lec
+ ke.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur cal
+ abssa: https://calabssa.be/c/93_1_mireille_wemmel
+GEO:50.7611768;4.7884455
+LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
+ORGANIZER;CN="Descheemaeker M.";ROLE=Secrétaire:MAILTO:winchesterfc@outlo
+ ok.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4B J24: FAUBOURG-BRAINOISE vs MIREILLE WEMMEL
-DTSTART;VALUE=DATE-TIME:20250222T123000Z
-DTEND;VALUE=DATE-TIME:20250222T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_4B_24_100_93
-DESCRIPTION:Terrain synthétique: non\nCode terrain: B03\n\nCouleur princi
+SUMMARY:ABSSA D4C J18: MIREILLE WEMMEL vs BRUSSELS LTC (Eq. 4)
+DTSTART;VALUE=DATE-TIME:20260124T143000Z
+DTEND;VALUE=DATE-TIME:20260124T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_4C_18_93_39
+DESCRIPTION:Terrain synthétique: non\nCode terrain: W16\n\nCouleur princi
+ pale équipe domicile: Rouge et  Noir\nCouleur principale équipe exterieu
+ re: Bordeaux\n\nContact équipe domicile: Vermeerbergen D. (0497.31.76.07 
+ - daanvermeerbergen@hotmail.com)\n\nAccès voiture : Ring RO\, afrit Wemme
+ l-Merchtem (n° 9)\, richting Merchtem volgen via de Is. Meyskensstraat to
+ t aan de rotonde\, op de rotonde de 4de afslag nemen\, Diepstraat deze vlo
+ eit over in de Steenweg op Brussel\, 50 m. voorbij het eerste kruispunt me
+ t verkeerslichten\, links van de steenweg\, bevindt zich het stadium (park
+ ing)\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur ca
+ labssa: https://calabssa.be/c/93_1_mireille_wemmel
+GEO:50.90024;4.4859439
+LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
+  Wemmel\, Belgique
+ORGANIZER;CN="Vermeerbergen D.";ROLE=Secrétaire:MAILTO:daanvermeerbergen@
+ hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4C J19: CHENOIS SC (Eq. 2) vs MIREILLE WEMMEL
+DTSTART;VALUE=DATE-TIME:20260131T123000Z
+DTEND;VALUE=DATE-TIME:20260131T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_4C_19_84_93
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W02\n\nCouleur princi
  pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rouge
-  et  Noir\n\nContact équipe domicile: Herpain D. (0474.79.02.18 - daniel.
- herpain@skynet.be)\n\nAccès voiture : En venant de Bruxelles\, emprunter 
- la chaussée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au 
- dit carrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur cette cha
- ussée\, au deuxième feu de signalisation\, prendre à droite\, le terrai
- n se trouve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur
-  http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/93_1_mirei
- lle_wemmel
-GEO:50.6827211;4.3844421
-LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
- ud\, Belgique
-ORGANIZER;CN="Herpain D.";ROLE=Secrétaire:MAILTO:daniel.herpain@skynet.be
+  et  Noir\n\nContact équipe domicile: Versmissen P. (0495.59.61.77 - sc.c
+ henois@waterloo.eu)\n\nAccès voiture : Venant d'Uccle\, prendre la chauss
+ ée de Waterloo\, ensuite la chaussée de Bruxelles\, continuer jusqu'à l
+ a place E. Vandevelde (intersection de la chaussée de Bruxelles avec la c
+ haussée de Tervuren à Joli-Bois). Au feu de signalisation prendre à dro
+ ite la chaussée Bara. Le terrain se trouve à droite à +/- 500 m.\n\nVé
+ rifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: htt
+ ps://calabssa.be/c/93_1_mireille_wemmel
+GEO:50.701676;4.397567
+LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
+ORGANIZER;CN="Versmissen P.";ROLE=Secrétaire:MAILTO:sc.chenois@waterloo.e
+ u
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4B J20: MIREILLE WEMMEL vs CORNAC UNITED FC
-DTSTART;VALUE=DATE-TIME:20250308T143000Z
-DTEND;VALUE=DATE-TIME:20250308T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_4B_20_93_151
+SUMMARY:ABSSA D4C J20: MIREILLE WEMMEL vs WELL TEAM
+DTSTART;VALUE=DATE-TIME:20260207T143000Z
+DTEND;VALUE=DATE-TIME:20260207T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_4C_20_93_544
+DESCRIPTION:Terrain synthétique: non\nCode terrain: W16\n\nCouleur princi
+ pale équipe domicile: Rouge et  Noir\nCouleur principale équipe exterieu
+ re: Bleu marine\n\nContact équipe domicile: Vermeerbergen D. (0497.31.76.
+ 07 - daanvermeerbergen@hotmail.com)\n\nAccès voiture : Ring RO\, afrit We
+ mmel-Merchtem (n° 9)\, richting Merchtem volgen via de Is. Meyskensstraat
+  tot aan de rotonde\, op de rotonde de 4de afslag nemen\, Diepstraat deze 
+ vloeit over in de Steenweg op Brussel\, 50 m. voorbij het eerste kruispunt
+  met verkeerslichten\, links van de steenweg\, bevindt zich het stadium (p
+ arking)\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur
+  calabssa: https://calabssa.be/c/93_1_mireille_wemmel
+GEO:50.90024;4.4859439
+LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
+  Wemmel\, Belgique
+ORGANIZER;CN="Vermeerbergen D.";ROLE=Secrétaire:MAILTO:daanvermeerbergen@
+ hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4C J21: SNEAKY BABOONS vs MIREILLE WEMMEL
+DTSTART;VALUE=DATE-TIME:20260214T113000Z
+DTEND;VALUE=DATE-TIME:20260214T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_4C_21_641_93
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge 
+ et  Noir\n\nContact équipe domicile: Stasse\, W (0473.95.76.80 - willstas
+ se@gmail.com)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosi
+ ères. Passer devant l'église\, longer l'autoroute et tourner à droite a
+ u cimetière des animaux. Terrain à 200 m.\n\nVérifiez toujours ces info
+ s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/93_1_
+ mireille_wemmel
+GEO:50.7264542;4.5530681
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="Stasse, W";ROLE=Secrétaire:MAILTO:willstasse@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4C J22: MIREILLE WEMMEL vs MOYEN RFC
+DTSTART;VALUE=DATE-TIME:20260221T143000Z
+DTEND;VALUE=DATE-TIME:20260221T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_4C_22_93_675
 DESCRIPTION:Terrain synthétique: non\nCode terrain: W16\n\nCouleur princi
  pale équipe domicile: Rouge et  Noir\nCouleur principale équipe exterieu
  re: Rouge\n\nContact équipe domicile: Vermeerbergen D. (0497.31.76.07 - d
@@ -533,53 +437,98 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: W16\n\nCouleur princi
  erkeerslichten\, links van de steenweg\, bevindt zich het stadium (parking
  )\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calab
  ssa: https://calabssa.be/c/93_1_mireille_wemmel
-GEO:50.9077704;4.3065753
+GEO:50.90024;4.4859439
 LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
   Wemmel\, Belgique
 ORGANIZER;CN="Vermeerbergen D.";ROLE=Secrétaire:MAILTO:daanvermeerbergen@
  hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4B J21: DOPA FC vs MIREILLE WEMMEL
-DTSTART;VALUE=DATE-TIME:20250315T130000Z
-DTEND;VALUE=DATE-TIME:20250315T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_4B_21_666_93
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
- pale équipe domicile: Noir et rouge\nCouleur principale équipe exterieur
- e: Rouge et  Noir\n\nContact équipe domicile: Aikar Y. (0484.86.90.44 - b
- ravm.abssa@gmail.com)\n\nAccès voiture : Chaussée de Haecht\, vers Diege
- m. Prendre la rue Harenheyde à gauche\, juste au feu de signalisation\, a
- près la station "JET"\, situé à gauche. Entrée du stade par la rue Har
- enheyde\, 100 m. au-delà du pont du chemin de fer.\n\nVérifiez toujours 
- ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be
- /c/93_1_mireille_wemmel
-GEO:50.8928227;4.425372
-LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
-ORGANIZER;CN="Aikar Y.";ROLE=Secrétaire:MAILTO:bravm.abssa@gmail.com
+SUMMARY:ABSSA D4C J23: MACAPSULES (LES) vs MIREILLE WEMMEL
+DTSTART;VALUE=DATE-TIME:20260228T123000Z
+DTEND;VALUE=DATE-TIME:20260228T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_4C_23_627_93
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
+ pale équipe domicile: Vert/blanc\nCouleur principale équipe exterieure: 
+ Rouge et  Noir\n\nContact équipe domicile: Daumont J. (0475.42.26.61 - ma
+ capsules@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Namur / 
+ Luxembourg\, prendre la sortie n° 6 Wavre\, à gauche N 238 direction Wav
+ re. Au rond-	point 2ième sortie N238/Blvd. de l'Europe direction Wavre Ce
+ ntre. Entrer dans Wavre puis à gauche N 238\, à gauche N 239. 	Au rond-p
+ oint prendre la première sortie Rue Haute\, continuer sur rue de Bruxelle
+ s\, continuer sur rue Saint-Roch\, continuer 	sur rue Joseph Joppart. Pren
+ dre à droite l'avenue du Centre Sportif.\n\nVérifiez toujours ces infos 
+ sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/93_1_mi
+ reille_wemmel
+GEO:50.720927;4.617368
+LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
+  Belgique
+ORGANIZER;CN="Daumont J.";ROLE=Secrétaire:MAILTO:macapsules@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4B J22: VIRGINAL ASF vs MIREILLE WEMMEL
-DTSTART;VALUE=DATE-TIME:20250322T140000Z
-DTEND;VALUE=DATE-TIME:20250322T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_4B_22_497_93
-DESCRIPTION:Terrain synthétique: non\nCode terrain: V02\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Rouge 
- et  Noir\n\nContact équipe domicile: Sempot A (0471.76.31.68 - sempot.ant
- oine@gmail.com)\n\nAccès voiture : Au départ de Bruxelles\, l'autoroute 
- E19 ou par le Ring RO\, sortir à Ittre. Suivre la direction Ittre-Virgina
- l. Traverser Haut-Ittre et Ittre et suivre la direction Virginal-Samme. Fr
- anchir le pont surplombant le canal Bruxelles-Charleroi. Poursuivre tout d
- roit par la rue de Catala\, ne pas suivre la direction Virginal Centre\, m
- ais poursuivre la route et prendre la 2ème rue à main droite (rue de Tub
- ize). Passer devant le château d'eau et un peu plus loin\, à l'incinéra
- teur\, prendre à droite en direction de Oisquercq. Le terrain se trouve 
- à droite dans la descente (panneau ASF Virginal).\n\nVérifiez toujours c
- es infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/
- c/93_1_mireille_wemmel
-GEO:50.6528899;4.2178077
-LOCATION:Rue de Tubize\, 1460 Virginal\, Belgique
-ORGANIZER;CN="Sempot A";ROLE=Secrétaire:MAILTO:sempot.antoine@gmail.com
+SUMMARY:ABSSA D4C J24: MIREILLE WEMMEL vs BRUSSELS LIONS
+DTSTART;VALUE=DATE-TIME:20260307T143000Z
+DTEND;VALUE=DATE-TIME:20260307T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_4C_24_93_682
+DESCRIPTION:Terrain synthétique: non\nCode terrain: W16\n\nCouleur princi
+ pale équipe domicile: Rouge et  Noir\nCouleur principale équipe exterieu
+ re: Noir\n\nContact équipe domicile: Vermeerbergen D. (0497.31.76.07 - da
+ anvermeerbergen@hotmail.com)\n\nAccès voiture : Ring RO\, afrit Wemmel-Me
+ rchtem (n° 9)\, richting Merchtem volgen via de Is. Meyskensstraat tot aa
+ n de rotonde\, op de rotonde de 4de afslag nemen\, Diepstraat deze vloeit 
+ over in de Steenweg op Brussel\, 50 m. voorbij het eerste kruispunt met ve
+ rkeerslichten\, links van de steenweg\, bevindt zich het stadium (parking)
+ \n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabs
+ sa: https://calabssa.be/c/93_1_mireille_wemmel
+GEO:50.90024;4.4859439
+LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
+  Wemmel\, Belgique
+ORGANIZER;CN="Vermeerbergen D.";ROLE=Secrétaire:MAILTO:daanvermeerbergen@
+ hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4C J25: PANGLOSS FC vs MIREILLE WEMMEL
+DTSTART;VALUE=DATE-TIME:20260314T130000Z
+DTEND;VALUE=DATE-TIME:20260314T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_4C_25_123_93
+DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rouge
+  et  Noir\n\nContact équipe domicile: De Paduwa P. (0475.67.06.50 - p.dep
+ aduwa@gmail.com)\n\nAccès voiture : Au départ de la Place Meiser\, l'aut
+ oroute Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous l
+ e viaduc prendre à droite\, l'avenue des Anciens Combattants. Juste aprè
+ s le carrefour avec des feux de signalisation prendre à droite vers la Pl
+ ace de la Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois
+ ). Le terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces
+  infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/
+ 93_1_mireille_wemmel
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="De Paduwa P.";ROLE=Secrétaire:MAILTO:p.depaduwa@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4C J26: MIREILLE WEMMEL vs PATRONS (LES)
+DTSTART;VALUE=DATE-TIME:20260321T143000Z
+DTEND;VALUE=DATE-TIME:20260321T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_4C_26_93_628
+DESCRIPTION:Terrain synthétique: non\nCode terrain: W16\n\nCouleur princi
+ pale équipe domicile: Rouge et  Noir\nCouleur principale équipe exterieu
+ re: Rouge\n\nContact équipe domicile: Vermeerbergen D. (0497.31.76.07 - d
+ aanvermeerbergen@hotmail.com)\n\nAccès voiture : Ring RO\, afrit Wemmel-M
+ erchtem (n° 9)\, richting Merchtem volgen via de Is. Meyskensstraat tot a
+ an de rotonde\, op de rotonde de 4de afslag nemen\, Diepstraat deze vloeit
+  over in de Steenweg op Brussel\, 50 m. voorbij het eerste kruispunt met v
+ erkeerslichten\, links van de steenweg\, bevindt zich het stadium (parking
+ )\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calab
+ ssa: https://calabssa.be/c/93_1_mireille_wemmel
+GEO:50.90024;4.4859439
+LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
+  Wemmel\, Belgique
+ORGANIZER;CN="Vermeerbergen D.";ROLE=Secrétaire:MAILTO:daanvermeerbergen@
+ hotmail.com
 END:VEVENT
 END:VCALENDAR

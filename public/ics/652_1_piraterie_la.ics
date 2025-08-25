@@ -4,57 +4,14 @@ PRODID:652_1_piraterie_la
 X-WR-CALDESC:Les matches du club PIRATERIE (LA) (equipe 1) en ABSSA.
 X-WR-CALNAME:ABSSA: PIRATERIE (LA) (eq. 1)
 BEGIN:VEVENT
-SUMMARY:ABSSA D4C J23: PIRATERIE (LA) vs LORGNETTE (LA)  FC
-DTSTART;VALUE=DATE-TIME:20240831T120000Z
-DTEND;VALUE=DATE-TIME:20240831T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4C_23_652_392
+SUMMARY:ABSSA D3C J1: PIRATERIE (LA) vs LORRAINE(LA)-MTM.R (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20250830T120000Z
+DTEND;VALUE=DATE-TIME:20250830T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_1_652_44
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bordea
- ux\n\nContact équipe domicile: Cook Z (0497.25.56.22 - lapirateriefc@outl
- ook.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoroute Brux
- elles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le pon
- t de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au rond-p
- oint (Shopping Center)\, tourner à droite en direction de Wavre (petit ri
- ng de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point du S
- hopping Center)\, tourner à gauche \, rue de l'Industrie et pénétrer da
- ns le zoning. Au bout de la rue\, avant le feu de signalisation\, tourner 
- à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérifiez to
- ujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cala
- bssa.be/c/652_1_piraterie_la
-GEO:50.5963705;4.3564539
-LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER;CN="Cook Z";ROLE=Secrétaire:MAILTO:lapirateriefc@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4C J1: DUDEN SPORT R vs PIRATERIE (LA)
-DTSTART;VALUE=DATE-TIME:20240907T133000Z
-DTEND;VALUE=DATE-TIME:20240907T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4C_1_22_652
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir\n
- \nContact équipe domicile: Isabeaux A (0472.34.00.24 - arnaud8684@hotmail
- .be)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 300 m. en d
- irection de Lennik\, prendre à droite.\nVenant de la chaussée de Mons\, 
- carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Théo L
- ambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en direction de 
- Lennik.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur
-  calabssa: https://calabssa.be/c/652_1_piraterie_la
-GEO:50.8177358;4.2557195
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER;CN="Isabeaux A";ROLE=Secrétaire:MAILTO:arnaud8684@hotmail.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4C J2: PIRATERIE (LA) vs FRAUDES (LES)
-DTSTART;VALUE=DATE-TIME:20240914T120000Z
-DTEND;VALUE=DATE-TIME:20240914T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4C_2_652_665
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir e
- t blanc\n\nContact équipe domicile: Cook Z (0497.25.56.22 - lapirateriefc
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Lopez Y Lopez P (0470.42.98.63 - lapirateriefc
  @outlook.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoroute
   Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous l
  e pont de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au r
@@ -65,64 +22,113 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
  rner à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérifi
  ez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:/
  /calabssa.be/c/652_1_piraterie_la
-GEO:50.5963705;4.3564539
+GEO:50.5959861;4.3562179
 LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER;CN="Cook Z";ROLE=Secrétaire:MAILTO:lapirateriefc@outlook.com
+ORGANIZER;CN="Lopez Y Lopez P";ROLE=Secrétaire:MAILTO:lapirateriefc@outlo
+ ok.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4C J3: INWENSSYS MOLDOVA vs PIRATERIE (LA)
-DTSTART;VALUE=DATE-TIME:20240921T090000Z
-DTEND;VALUE=DATE-TIME:20240921T103000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4C_3_671_652
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B13\n\nCouleur princi
- pale équipe domicile: Orange\nCouleur principale équipe exterieure: Noir
- \n\nContact équipe domicile: Simon M. (0484.88.58.77 - simionmarius670@gm
- ail.com)\n\nAccès voiture : A partir du Ring de Bruxelles prendre la E 19
-  direction Paris.\nQuitter le Ring par la sortie 19\, prendre à gauche su
- r Beerselsestraat\, après 900 m. prendre à gauche sur Lotsestraat\, apr
- ès 400 m. continuer sur Puttestraat\, puis prendre à droite sur Hoogstra
- at\, puis prendre à gauche sur Kerkveldstraat. Après prendre à droite s
- ur Schoolstraat\, le terrain se trouve sur la droite.\n\nVérifiez toujour
- s ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.
- be/c/652_1_piraterie_la
-GEO:50.76680529999999;4.3142201
-LOCATION:Schoolstraat 46\, 1650 Beersel\, Belgique
-ORGANIZER;CN="Simon M.";ROLE=Secrétaire:MAILTO:simionmarius670@gmail.com
+SUMMARY:ABSSA D3C J2: MIDI AS vs PIRATERIE (LA)
+DTSTART;VALUE=DATE-TIME:20250906T133000Z
+DTEND;VALUE=DATE-TIME:20250906T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_2_169_652
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Noir\
+ n\nContact équipe domicile: Cantiniau J-C. (0479.84.17.35 - standardmidi@
+ hotmail.com)\n\nAccès voiture : En venant de Bruxelles\, emprunter la cha
+ ussée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit ca
+ rrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chaussée
+ \, au deuxième feu de signalisation\, prendre à droite\, le terrain se t
+ rouve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur http:
+ //www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/652_1_piraterie_
+ la
+GEO:50.6827211;4.3844421
+LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud\, Belgique
+ORGANIZER;CN="Cantiniau J-C.";ROLE=Secrétaire:MAILTO:standardmidi@hotmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4C J4: PIRATERIE (LA) vs PINK PANTHERS
-DTSTART;VALUE=DATE-TIME:20240928T120000Z
-DTEND;VALUE=DATE-TIME:20240928T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4C_4_652_635
+SUMMARY:ABSSA D3C J3: PIRATERIE (LA) vs ETTEKIJS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20250913T120000Z
+DTEND;VALUE=DATE-TIME:20250913T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_3_652_343
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir/ 
- rose\n\nContact équipe domicile: Cook Z (0497.25.56.22 - lapirateriefc@ou
- tlook.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoroute Br
- uxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le p
- ont de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au rond
- -point (Shopping Center)\, tourner à droite en direction de Wavre (petit 
- ring de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point du
-  Shopping Center)\, tourner à gauche \, rue de l'Industrie et pénétrer 
- dans le zoning. Au bout de la rue\, avant le feu de signalisation\, tourne
- r à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérifiez 
- toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://ca
- labssa.be/c/652_1_piraterie_la
-GEO:50.5963705;4.3564539
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir r
+ ayé de blanc\n\nContact équipe domicile: Lopez Y Lopez P (0470.42.98.63 
+ - lapirateriefc@outlook.com)\n\nAccès voiture : En venant de Bruxelles\, 
+ par l'autoroute Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\
+ , passer sous le pont de l'autoroute et prendre la direction de Nivelles. 
+ A 200 m.\, au rond-point (Shopping Center)\, tourner à droite en directio
+ n de Wavre (petit ring de Nivelles).\nAu 4ème rond-point (en tenant compt
+ e du rond-point du Shopping Center)\, tourner à gauche \, rue de l'Indust
+ rie et pénétrer dans le zoning. Au bout de la rue\, avant le feu de sign
+ alisation\, tourner à gauche et prendre la rue du Progrès pendant +/- 40
+ 0 m.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur ca
+ labssa: https://calabssa.be/c/652_1_piraterie_la
+GEO:50.5959861;4.3562179
 LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER;CN="Cook Z";ROLE=Secrétaire:MAILTO:lapirateriefc@outlook.com
+ORGANIZER;CN="Lopez Y Lopez P";ROLE=Secrétaire:MAILTO:lapirateriefc@outlo
+ ok.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4C J5: BRITISH UNITED (Eq. 3) vs PIRATERIE (LA)
-DTSTART;VALUE=DATE-TIME:20241005T103000Z
-DTEND;VALUE=DATE-TIME:20241005T120000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4C_5_132_652
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+SUMMARY:ABSSA D3C J4: PHARMA SC (Eq. 2) vs PIRATERIE (LA)
+DTSTART;VALUE=DATE-TIME:20250920T133000Z
+DTEND;VALUE=DATE-TIME:20250920T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_4_268_652
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir\n
- \nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gillesvanders
- eypen@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la r
+ \nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.dumidi@sca
+ rlet.be)\n\nAccès voiture : Au départ de la Place St. Denis à Forest pr
+ endre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue 
+ à droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à g
+ auche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée 
+ du Complexe se trouve à hauteur de City Cart\, à gauche de la route.\n\n
+ Vérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: 
+ https://calabssa.be/c/652_1_piraterie_la
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J5: PIRATERIE (LA) vs BRUSSELS LTC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20250927T120000Z
+DTEND;VALUE=DATE-TIME:20250927T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_5_652_39
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bordea
+ ux\n\nContact équipe domicile: Lopez Y Lopez P (0470.42.98.63 - lapirater
+ iefc@outlook.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autor
+ oute Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer so
+ us le pont de l'autoroute et prendre la direction de Nivelles. A 200 m.\, 
+ au rond-point (Shopping Center)\, tourner à droite en direction de Wavre 
+ (petit ring de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-p
+ oint du Shopping Center)\, tourner à gauche \, rue de l'Industrie et pén
+ étrer dans le zoning. Au bout de la rue\, avant le feu de signalisation\,
+  tourner à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVé
+ rifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: htt
+ ps://calabssa.be/c/652_1_piraterie_la
+GEO:50.5959861;4.3562179
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Lopez Y Lopez P";ROLE=Secrétaire:MAILTO:lapirateriefc@outlo
+ ok.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J6: RAPID TAMTAM FC. vs PIRATERIE (LA)
+DTSTART;VALUE=DATE-TIME:20251004T120000Z
+DTEND;VALUE=DATE-TIME:20251004T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_6_600_652
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Jaune etRose\nCouleur principale équipe exterieure
+ : Noir\n\nContact équipe domicile: Mme Dubray M (0484.39.74.80 - fcrapidt
+ amtam@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la r
  ue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 2
  8). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ce
  s infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c
@@ -130,167 +136,104 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
 GEO:50.8423054;4.445628699999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
-ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
- gmail.com
+ORGANIZER;CN="Mme Dubray M";ROLE=Secrétaire:MAILTO:fcrapidtamtam@gmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4C J6: PIRATERIE (LA) vs PANGLOSS FC
-DTSTART;VALUE=DATE-TIME:20241012T120000Z
-DTEND;VALUE=DATE-TIME:20241012T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4C_6_652_123
+SUMMARY:ABSSA D3C J7: PIRATERIE (LA) vs PATJES FC
+DTSTART;VALUE=DATE-TIME:20251011T120000Z
+DTEND;VALUE=DATE-TIME:20251011T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_7_652_582
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge\
- n\nContact équipe domicile: Cook Z (0497.25.56.22 - lapirateriefc@outlook
- .com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoroute Bruxell
- es-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le pont d
- e l'autoroute et prendre la direction de Nivelles. A 200 m.\, au rond-poin
- t (Shopping Center)\, tourner à droite en direction de Wavre (petit ring 
- de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point du Shop
- ping Center)\, tourner à gauche \, rue de l'Industrie et pénétrer dans 
- le zoning. Au bout de la rue\, avant le feu de signalisation\, tourner à 
- gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérifiez toujo
- urs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabss
- a.be/c/652_1_piraterie_la
-GEO:50.5963705;4.3564539
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge 
+ et blanc.\n\nContact équipe domicile: Lopez Y Lopez P (0470.42.98.63 - la
+ pirateriefc@outlook.com)\n\nAccès voiture : En venant de Bruxelles\, par 
+ l'autoroute Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, pa
+ sser sous le pont de l'autoroute et prendre la direction de Nivelles. A 20
+ 0 m.\, au rond-point (Shopping Center)\, tourner à droite en direction de
+  Wavre (petit ring de Nivelles).\nAu 4ème rond-point (en tenant compte du
+  rond-point du Shopping Center)\, tourner à gauche \, rue de l'Industrie 
+ et pénétrer dans le zoning. Au bout de la rue\, avant le feu de signalis
+ ation\, tourner à gauche et prendre la rue du Progrès pendant +/- 400 m.
+ \n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabs
+ sa: https://calabssa.be/c/652_1_piraterie_la
+GEO:50.5959861;4.3562179
 LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER;CN="Cook Z";ROLE=Secrétaire:MAILTO:lapirateriefc@outlook.com
+ORGANIZER;CN="Lopez Y Lopez P";ROLE=Secrétaire:MAILTO:lapirateriefc@outlo
+ ok.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4C J25: PIRATERIE (LA) vs SNEAKY BABOONS
-DTSTART;VALUE=DATE-TIME:20241019T120000Z
-DTEND;VALUE=DATE-TIME:20241019T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4C_25_652_641
+SUMMARY:ABSSA D3C J8: TAURO FC (Eq. 2) vs PIRATERIE (LA)
+DTSTART;VALUE=DATE-TIME:20251018T130000Z
+DTEND;VALUE=DATE-TIME:20251018T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_8_574_652
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Lietaer Y. (0484.16.30.31 - ylietaer@gmail.com
+ )\n\nAccès voiture : Place Meiser\, descendre le boulevard Lambermont. Au
+  3ème feu de signalisation prendre à gauche\, puis la première à droit
+ e.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur cala
+ bssa: https://calabssa.be/c/652_1_piraterie_la
+GEO:50.8666341;4.3823667
+LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
+ aerbeek\, Belgique
+ORGANIZER;CN="Lietaer Y.";ROLE=Secrétaire:MAILTO:ylietaer@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J9: PIRATERIE (LA) vs STRING PENELOPE
+DTSTART;VALUE=DATE-TIME:20251025T120000Z
+DTEND;VALUE=DATE-TIME:20251025T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_9_652_181
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Orange
+ \n\nContact équipe domicile: Lopez Y Lopez P (0470.42.98.63 - lapiraterie
+ fc@outlook.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autorou
+ te Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous
+  le pont de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au
+  rond-point (Shopping Center)\, tourner à droite en direction de Wavre (p
+ etit ring de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-poi
+ nt du Shopping Center)\, tourner à gauche \, rue de l'Industrie et péné
+ trer dans le zoning. Au bout de la rue\, avant le feu de signalisation\, t
+ ourner à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVéri
+ fiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https
+ ://calabssa.be/c/652_1_piraterie_la
+GEO:50.5959861;4.3562179
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Lopez Y Lopez P";ROLE=Secrétaire:MAILTO:lapirateriefc@outlo
+ ok.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J10: BLOOD SPIKES vs PIRATERIE (LA)
+DTSTART;VALUE=DATE-TIME:20251108T130000Z
+DTEND;VALUE=DATE-TIME:20251108T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_10_660_652
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Otte J. (0486.41.87.42 - bloodspikes9@gmail.co
+ m)\n\nAccès voiture : A partir de Bruxelles\, prendre la E 411 en directi
+ on de Namur. Prendre la sortie N° 8 puis à droite la bretelle pour la N 
+ 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 km\, au
+  rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Libération\,
+  puis à gauche dans la rue de la Grande lecke.\n\nVérifiez toujours ces 
+ infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/6
+ 52_1_piraterie_la
+GEO:50.7611768;4.7884455
+LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
+ORGANIZER;CN="Otte J.";ROLE=Secrétaire:MAILTO:bloodspikes9@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J11: PIRATERIE (LA) vs FORESTOIS SC
+DTSTART;VALUE=DATE-TIME:20251115T130000Z
+DTEND;VALUE=DATE-TIME:20251115T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_11_652_152
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
  pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
- \nContact équipe domicile: Cook Z (0497.25.56.22 - lapirateriefc@outlook.
- com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoroute Bruxelle
- s-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le pont de
-  l'autoroute et prendre la direction de Nivelles. A 200 m.\, au rond-point
-  (Shopping Center)\, tourner à droite en direction de Wavre (petit ring d
- e Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point du Shopp
- ing Center)\, tourner à gauche \, rue de l'Industrie et pénétrer dans l
- e zoning. Au bout de la rue\, avant le feu de signalisation\, tourner à g
- auche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérifiez toujou
- rs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa
- .be/c/652_1_piraterie_la
-GEO:50.5963705;4.3564539
-LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER;CN="Cook Z";ROLE=Secrétaire:MAILTO:lapirateriefc@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4C J26: SPARTA SCHEUT vs PIRATERIE (LA)
-DTSTART;VALUE=DATE-TIME:20241026T133000Z
-DTEND;VALUE=DATE-TIME:20241026T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4C_26_340_652
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
- pale équipe domicile: Orange\nCouleur principale équipe exterieure: Noir
- \n\nContact équipe domicile: Vande Velde J. (0486.97.70.66 - sparta.scheu
- t@hotmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 3
- 00 m. en direction de Lennik\, prendre à droite.\nVenant de la chaussée 
- de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bl
- d. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en dir
- ection de Lennik.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
- \nVoir sur calabssa: https://calabssa.be/c/652_1_piraterie_la
-GEO:50.8177358;4.2557195
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER;CN="Vande Velde J.";ROLE=Secrétaire:MAILTO:sparta.scheut@hotmai
- l.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4C J7: SAINT GEORGES RCS (Eq. 2) vs PIRATERIE (LA)
-DTSTART;VALUE=DATE-TIME:20241102T143000Z
-DTEND;VALUE=DATE-TIME:20241102T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4C_7_221_652
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir\
- n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.destin@gmai
- l.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"avenue Parmentie
- r\, puis 1ère rue à main gauche.\n\nVérifiez toujours ces infos sur htt
- p://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/652_1_pirateri
- e_la
-GEO:50.8333897;4.4384038
-LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
- e\, Belgique
-ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4C J8: PIRATERIE (LA) vs TIEKSS WEMMEL
-DTSTART;VALUE=DATE-TIME:20241109T130000Z
-DTEND;VALUE=DATE-TIME:20241109T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4C_8_652_644
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
- \nContact équipe domicile: Cook Z (0497.25.56.22 - lapirateriefc@outlook.
- com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoroute Bruxelle
- s-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le pont de
-  l'autoroute et prendre la direction de Nivelles. A 200 m.\, au rond-point
-  (Shopping Center)\, tourner à droite en direction de Wavre (petit ring d
- e Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point du Shopp
- ing Center)\, tourner à gauche \, rue de l'Industrie et pénétrer dans l
- e zoning. Au bout de la rue\, avant le feu de signalisation\, tourner à g
- auche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérifiez toujou
- rs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa
- .be/c/652_1_piraterie_la
-GEO:50.5963705;4.3564539
-LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER;CN="Cook Z";ROLE=Secrétaire:MAILTO:lapirateriefc@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4C J9: PIRATERIE (LA) vs HELLAS BERCHEM FC.
-DTSTART;VALUE=DATE-TIME:20241116T130000Z
-DTEND;VALUE=DATE-TIME:20241116T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4C_9_652_488
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu\n
- \nContact équipe domicile: Cook Z (0497.25.56.22 - lapirateriefc@outlook.
- com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoroute Bruxelle
- s-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le pont de
-  l'autoroute et prendre la direction de Nivelles. A 200 m.\, au rond-point
-  (Shopping Center)\, tourner à droite en direction de Wavre (petit ring d
- e Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point du Shopp
- ing Center)\, tourner à gauche \, rue de l'Industrie et pénétrer dans l
- e zoning. Au bout de la rue\, avant le feu de signalisation\, tourner à g
- auche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérifiez toujou
- rs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa
- .be/c/652_1_piraterie_la
-GEO:50.5963705;4.3564539
-LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER;CN="Cook Z";ROLE=Secrétaire:MAILTO:lapirateriefc@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4C J12: SNEAKY BABOONS vs PIRATERIE (LA)
-DTSTART;VALUE=DATE-TIME:20241123T113000Z
-DTEND;VALUE=DATE-TIME:20241123T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4C_12_641_652
-DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
- \nContact équipe domicile: Stasse\, W (0473.95.76.80 - willstasse@gmail.c
- om)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Pass
- er devant l'église\, longer l'autoroute et tourner à droite au cimetièr
- e des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur http:
- //www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/652_1_piraterie_
- la
-GEO:50.7282426;4.5537189
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER;CN="Stasse, W";ROLE=Secrétaire:MAILTO:willstasse@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4C J11: PIRATERIE (LA) vs BEEKINGS F.C.
-DTSTART;VALUE=DATE-TIME:20241130T130000Z
-DTEND;VALUE=DATE-TIME:20241130T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4C_11_652_648
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Jaune 
- et noir\n\nContact équipe domicile: Cook Z (0497.25.56.22 - lapirateriefc
+ \nContact équipe domicile: Lopez Y Lopez P (0470.42.98.63 - lapirateriefc
  @outlook.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoroute
   Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous l
  e pont de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au r
@@ -301,266 +244,366 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
  rner à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérifi
  ez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:/
  /calabssa.be/c/652_1_piraterie_la
-GEO:50.5963705;4.3564539
+GEO:50.5959861;4.3562179
 LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER;CN="Cook Z";ROLE=Secrétaire:MAILTO:lapirateriefc@outlook.com
+ORGANIZER;CN="Lopez Y Lopez P";ROLE=Secrétaire:MAILTO:lapirateriefc@outlo
+ ok.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4C J10: LORGNETTE (LA)  FC vs PIRATERIE (LA)
-DTSTART;VALUE=DATE-TIME:20241207T130000Z
-DTEND;VALUE=DATE-TIME:20241207T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4C_10_392_652
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: E07\n\nCouleur princi
- pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: No
- ir\n\nContact équipe domicile: Van Der Linden A. (0485.19.06.92 - alexvdl
- 2000@yahoo.fr)\n\nAccès voiture : Boulevard Lambermont\, prendre le boule
- vard Léopold III\, direction aéroport de Bruxelles-National\, au 3ème f
- eu de signalisation prendre à droite. le terrain se trouve à 50 m.\n\nV
- érifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: h
- ttps://calabssa.be/c/652_1_piraterie_la
-GEO:50.8691994;4.406709999999999
-LOCATION:Complexe Sportif Evere\, Avenue des Anciens Combattants 300\, 114
- 0 Evere\, Belgique
-ORGANIZER;CN="Van Der Linden A.";ROLE=Secrétaire:MAILTO:alexvdl2000@yahoo
- .fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4C J13: PIRATERIE (LA) vs SPARTA SCHEUT
-DTSTART;VALUE=DATE-TIME:20241214T130000Z
-DTEND;VALUE=DATE-TIME:20241214T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4C_13_652_340
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Orange
- \n\nContact équipe domicile: Cook Z (0497.25.56.22 - lapirateriefc@outloo
- k.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoroute Bruxel
- les-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le pont 
- de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au rond-poi
- nt (Shopping Center)\, tourner à droite en direction de Wavre (petit ring
-  de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point du Sho
- pping Center)\, tourner à gauche \, rue de l'Industrie et pénétrer dans
-  le zoning. Au bout de la rue\, avant le feu de signalisation\, tourner à
-  gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérifiez touj
- ours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabs
- sa.be/c/652_1_piraterie_la
-GEO:50.5963705;4.3564539
-LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER;CN="Cook Z";ROLE=Secrétaire:MAILTO:lapirateriefc@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4C J14: PIRATERIE (LA) vs DUDEN SPORT R
-DTSTART;VALUE=DATE-TIME:20250111T130000Z
-DTEND;VALUE=DATE-TIME:20250111T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_4C_14_652_22
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu\n
- \nContact équipe domicile: Cook Z (0497.25.56.22 - lapirateriefc@outlook.
- com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoroute Bruxelle
- s-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le pont de
-  l'autoroute et prendre la direction de Nivelles. A 200 m.\, au rond-point
-  (Shopping Center)\, tourner à droite en direction de Wavre (petit ring d
- e Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point du Shopp
- ing Center)\, tourner à gauche \, rue de l'Industrie et pénétrer dans l
- e zoning. Au bout de la rue\, avant le feu de signalisation\, tourner à g
- auche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérifiez toujou
- rs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa
- .be/c/652_1_piraterie_la
-GEO:50.5963705;4.3564539
-LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER;CN="Cook Z";ROLE=Secrétaire:MAILTO:lapirateriefc@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4C J15: FRAUDES (LES) vs PIRATERIE (LA)
-DTSTART;VALUE=DATE-TIME:20250118T123000Z
-DTEND;VALUE=DATE-TIME:20250118T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_4C_15_665_652
-DESCRIPTION:Terrain synthétique: non\nCode terrain: A10\n\nCouleur princi
- pale équipe domicile: Noir et blanc\nCouleur principale équipe exterieur
- e: Noir\n\nContact équipe domicile: Struys L. (0491.84.27.37 - leo.struys
- @telenet.be)\n\nAccès voiture : L'accès au terrain se fait à partir du 
- n° 2057 de la chaussée de Wavre (en face du stade communal d'Auderghem).
-  L'accès au terrain se fait par l'arrière du bâtiment principal (où so
- nt situés les vestiaires) il faut parcourir environ 300 mètres avant d'a
- tteindre le terrain de football situé après la piste d'athlétisme et le
-  terrain de hockey.\n\nVérifiez toujours ces infos sur http://www.abssa.b
- e/\nVoir sur calabssa: https://calabssa.be/c/652_1_piraterie_la
-GEO:50.8093405;4.4437919
-LOCATION:Complexe de L'Adeps\, Chaussée de Wavre 2057\, 1160 Auderghem\, 
- Belgique
-ORGANIZER;CN="Struys L.";ROLE=Secrétaire:MAILTO:leo.struys@telenet.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4C J16: PIRATERIE (LA) vs INWENSSYS MOLDOVA
-DTSTART;VALUE=DATE-TIME:20250125T130000Z
-DTEND;VALUE=DATE-TIME:20250125T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_4C_16_652_671
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Orange
- \n\nContact équipe domicile: Cook Z (0497.25.56.22 - lapirateriefc@outloo
- k.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoroute Bruxel
- les-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le pont 
- de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au rond-poi
- nt (Shopping Center)\, tourner à droite en direction de Wavre (petit ring
-  de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point du Sho
- pping Center)\, tourner à gauche \, rue de l'Industrie et pénétrer dans
-  le zoning. Au bout de la rue\, avant le feu de signalisation\, tourner à
-  gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérifiez touj
- ours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabs
- sa.be/c/652_1_piraterie_la
-GEO:50.5963705;4.3564539
-LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER;CN="Cook Z";ROLE=Secrétaire:MAILTO:lapirateriefc@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4C J17: PINK PANTHERS vs PIRATERIE (LA)
-DTSTART;VALUE=DATE-TIME:20250201T113000Z
-DTEND;VALUE=DATE-TIME:20250201T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_4C_17_635_652
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
- pale équipe domicile: Noir/ rose\nCouleur principale équipe exterieure: 
- Noir\n\nContact équipe domicile: Argyrakis J. (0492.88.69.79 - pinkpanthe
- rs.abssa@gmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le Rin
- g Ouest\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles
- -Charleroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, t
- raverser le carrefour\, tout droit direction route du sucre.\n\nVérifiez 
- toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://ca
- labssa.be/c/652_1_piraterie_la
-GEO:50.6007528;4.4472782
-LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
-ORGANIZER;CN="Argyrakis J.";ROLE=Secrétaire:MAILTO:pinkpanthers.abssa@gma
- il.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4C J18: PIRATERIE (LA) vs BRITISH UNITED (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20250208T130000Z
-DTEND;VALUE=DATE-TIME:20250208T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_4C_18_652_132
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu\n
- \nContact équipe domicile: Cook Z (0497.25.56.22 - lapirateriefc@outlook.
- com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoroute Bruxelle
- s-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le pont de
-  l'autoroute et prendre la direction de Nivelles. A 200 m.\, au rond-point
-  (Shopping Center)\, tourner à droite en direction de Wavre (petit ring d
- e Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point du Shopp
- ing Center)\, tourner à gauche \, rue de l'Industrie et pénétrer dans l
- e zoning. Au bout de la rue\, avant le feu de signalisation\, tourner à g
- auche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérifiez toujou
- rs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa
- .be/c/652_1_piraterie_la
-GEO:50.5963705;4.3564539
-LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER;CN="Cook Z";ROLE=Secrétaire:MAILTO:lapirateriefc@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4C J19: PANGLOSS FC vs PIRATERIE (LA)
-DTSTART;VALUE=DATE-TIME:20250215T130000Z
-DTEND;VALUE=DATE-TIME:20250215T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_4C_19_123_652
-DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Noir\
- n\nContact équipe domicile: De Paduwa P. (0475.67.06.50 - p.depaduwa@gmai
- l.com)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute Bru
- xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
- rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
- four avec des feux de signalisation prendre à droite vers la Place de la 
- Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
- ain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces infos sur
-  http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/652_1_pira
- terie_la
+SUMMARY:ABSSA D3C J12: NEW INN FC (Eq. 2) vs PIRATERIE (LA)
+DTSTART;VALUE=DATE-TIME:20251122T130000Z
+DTEND;VALUE=DATE-TIME:20251122T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_12_359_652
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Rose\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Van Brabant V (0474.60.68.96 - vanbrabant.v@gm
+ ail.com)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute B
+ ruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc
+  prendre à droite\, l'avenue des Anciens Combattants. Juste après le car
+ refour avec des feux de signalisation prendre à droite vers la Place de l
+ a Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le te
+ rrain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces infos s
+ ur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/652_1_pi
+ raterie_la
 GEO:50.8588843;4.4603439
 LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER;CN="De Paduwa P.";ROLE=Secrétaire:MAILTO:p.depaduwa@gmail.com
+ORGANIZER;CN="Van Brabant V";ROLE=Secrétaire:MAILTO:vanbrabant.v@gmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4C J24: BEEKINGS F.C. vs PIRATERIE (LA)
-DTSTART;VALUE=DATE-TIME:20250222T123000Z
-DTEND;VALUE=DATE-TIME:20250222T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_4C_24_648_652
-DESCRIPTION:Terrain synthétique: non\nCode terrain: R03\n\nCouleur princi
- pale équipe domicile: Jaune et noir\nCouleur principale équipe exterieur
- e: Noir\n\nContact équipe domicile: Thonart W. (0475.96.36.63 - williamth
- onart@gmail.com)\n\nAccès voiture : Par la E411 Bruxelles-Namur\, prendre
-  la sortie n° 5 (Wavre Nord\, Rixensart\, Bierges).\nEnsuite prendre la N
- 257 pendant 700 mètres jusqu'au rond-point\, prendre la rue de l'Etoile e
- t ensuite la rue de Mérode jusqu'à Rixensart. Après 900 mètres\, à la
-  Place de la Perche\, prendre à droite l'avenue de la Paix et encore à d
- roite l'avenue Clermont Tonnerre.\n\nVérifiez toujours ces infos sur http
- ://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/652_1_piraterie
- _la
-GEO:50.7128483;4.5376972
-LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
- 30 Rixensart\, Belgique
-ORGANIZER;CN="Thonart W.";ROLE=Secrétaire:MAILTO:williamthonart@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4C J20: PIRATERIE (LA) vs SAINT GEORGES RCS (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20250308T130000Z
-DTEND;VALUE=DATE-TIME:20250308T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_4C_20_652_221
+SUMMARY:ABSSA D3C J13: PIRATERIE (LA) vs GOALOIS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20251129T130000Z
+DTEND;VALUE=DATE-TIME:20251129T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_13_652_345
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Blanc\
- n\nContact équipe domicile: Cook Z (0497.25.56.22 - lapirateriefc@outlook
- .com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoroute Bruxell
- es-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le pont d
- e l'autoroute et prendre la direction de Nivelles. A 200 m.\, au rond-poin
- t (Shopping Center)\, tourner à droite en direction de Wavre (petit ring 
- de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point du Shop
- ping Center)\, tourner à gauche \, rue de l'Industrie et pénétrer dans 
- le zoning. Au bout de la rue\, avant le feu de signalisation\, tourner à 
- gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérifiez toujo
- urs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabss
- a.be/c/652_1_piraterie_la
-GEO:50.5963705;4.3564539
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu c
+ iel-blanc\n\nContact équipe domicile: Lopez Y Lopez P (0470.42.98.63 - la
+ pirateriefc@outlook.com)\n\nAccès voiture : En venant de Bruxelles\, par 
+ l'autoroute Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, pa
+ sser sous le pont de l'autoroute et prendre la direction de Nivelles. A 20
+ 0 m.\, au rond-point (Shopping Center)\, tourner à droite en direction de
+  Wavre (petit ring de Nivelles).\nAu 4ème rond-point (en tenant compte du
+  rond-point du Shopping Center)\, tourner à gauche \, rue de l'Industrie 
+ et pénétrer dans le zoning. Au bout de la rue\, avant le feu de signalis
+ ation\, tourner à gauche et prendre la rue du Progrès pendant +/- 400 m.
+ \n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabs
+ sa: https://calabssa.be/c/652_1_piraterie_la
+GEO:50.5959861;4.3562179
 LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER;CN="Cook Z";ROLE=Secrétaire:MAILTO:lapirateriefc@outlook.com
+ORGANIZER;CN="Lopez Y Lopez P";ROLE=Secrétaire:MAILTO:lapirateriefc@outlo
+ ok.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4C J21: TIEKSS WEMMEL vs PIRATERIE (LA)
-DTSTART;VALUE=DATE-TIME:20250315T140000Z
-DTEND;VALUE=DATE-TIME:20250315T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_4C_21_644_652
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W16\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
- \nContact équipe domicile: Mad. De Decker N (0477.64.40.18 - info@tiekss.
- org)\n\nAccès voiture : Ring RO\, afrit Wemmel-Merchtem (n° 9)\, richtin
- g Merchtem volgen via de Is. Meyskensstraat tot aan de rotonde\, op de rot
- onde de 4de afslag nemen\, Diepstraat deze vloeit over in de Steenweg op B
- russel\, 50 m. voorbij het eerste kruispunt met verkeerslichten\, links va
- n de steenweg\, bevindt zich het stadium (parking)\n\nVérifiez toujours c
- es infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/
- c/652_1_piraterie_la
-GEO:50.9077704;4.3065753
-LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
-  Wemmel\, Belgique
-ORGANIZER;CN="Mad. De Decker N";ROLE=Secrétaire:MAILTO:info@tiekss.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4C J22: HELLAS BERCHEM FC. vs PIRATERIE (LA)
-DTSTART;VALUE=DATE-TIME:20250322T120000Z
-DTEND;VALUE=DATE-TIME:20250322T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_4C_22_488_652
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: S04\n\nCouleur princi
+SUMMARY:ABSSA D3C J14: LORRAINE(LA)-MTM.R (Eq. 2) vs PIRATERIE (LA)
+DTSTART;VALUE=DATE-TIME:20251206T130000Z
+DTEND;VALUE=DATE-TIME:20251206T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_14_44_652
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir\n
- \nContact équipe domicile: Hadjianestis A. (0475.31.23.80 - fchellas@gmai
- l.com)\n\nAccès voiture : A partir du boulevard Charles Quint à hauteur 
- de Basilix Shopping Center\, prendre la rue des Châlets (Lusthuizenstraat
- )\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calab
- ssa: https://calabssa.be/c/652_1_piraterie_la
-GEO:50.8696433;4.2873126
-LOCATION:Parc J. Monnet\, Lusthuizenstraat 1\, 1080 Sint-Agatha-Berchem\, 
- Belgique
-ORGANIZER;CN="Hadjianestis A.";ROLE=Secrétaire:MAILTO:fchellas@gmail.com
+ \nContact équipe domicile: Degimbe M. (0478.53.63.56 - lalorrainefc@gmail
+ .com)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Pa
+ sser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur ht
+ tp://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/652_1_pirater
+ ie_la
+GEO:50.7264542;4.5530681
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="Degimbe M.";ROLE=Secrétaire:MAILTO:lalorrainefc@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J15: PIRATERIE (LA) vs MIDI AS
+DTSTART;VALUE=DATE-TIME:20251213T130000Z
+DTEND;VALUE=DATE-TIME:20251213T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_15_652_169
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge\
+ n\nContact équipe domicile: Lopez Y Lopez P (0470.42.98.63 - lapiraterief
+ c@outlook.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autorout
+ e Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous 
+ le pont de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au 
+ rond-point (Shopping Center)\, tourner à droite en direction de Wavre (pe
+ tit ring de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-poin
+ t du Shopping Center)\, tourner à gauche \, rue de l'Industrie et pénét
+ rer dans le zoning. Au bout de la rue\, avant le feu de signalisation\, to
+ urner à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérif
+ iez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:
+ //calabssa.be/c/652_1_piraterie_la
+GEO:50.5959861;4.3562179
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Lopez Y Lopez P";ROLE=Secrétaire:MAILTO:lapirateriefc@outlo
+ ok.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J16: ETTEKIJS (Eq. 2) vs PIRATERIE (LA)
+DTSTART;VALUE=DATE-TIME:20260110T113000Z
+DTEND;VALUE=DATE-TIME:20260110T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3C_16_343_652
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Noir rayé de blanc\nCouleur principale équipe ext
+ erieure: Noir\n\nContact équipe domicile: Raes F. (0479.73.82.49 - freddy
+ .raes@gmail.com)\n\nAccès voiture : A partir du square des Archiducs\, pr
+ endre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez touj
+ ours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabs
+ sa.be/c/652_1_piraterie_la
+GEO:50.80645209999999;4.4087184
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J17: PIRATERIE (LA) vs PHARMA SC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260117T130000Z
+DTEND;VALUE=DATE-TIME:20260117T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3C_17_652_268
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Lopez Y Lopez P (0470.42.98.63 - lapirateriefc
+ @outlook.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoroute
+  Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous l
+ e pont de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au r
+ ond-point (Shopping Center)\, tourner à droite en direction de Wavre (pet
+ it ring de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point
+  du Shopping Center)\, tourner à gauche \, rue de l'Industrie et pénétr
+ er dans le zoning. Au bout de la rue\, avant le feu de signalisation\, tou
+ rner à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérifi
+ ez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:/
+ /calabssa.be/c/652_1_piraterie_la
+GEO:50.5959861;4.3562179
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Lopez Y Lopez P";ROLE=Secrétaire:MAILTO:lapirateriefc@outlo
+ ok.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J18: BRUSSELS LTC (Eq. 2) vs PIRATERIE (LA)
+DTSTART;VALUE=DATE-TIME:20260124T113000Z
+DTEND;VALUE=DATE-TIME:20260124T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3C_18_39_652
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O01\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: No
+ ir\n\nContact équipe domicile: Prudhomme D (0478.49.26.08 - brusselsltc03
+ 9@gmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre ring Est di
+ rection Waterloo. Sortir à la sortie n°27 Waterloo Centre.\n	Prendre ens
+ uite à gauche La Drève de Richelle jusqu'au 3ème rond-point et prendre 
+ à gauche la 	Chaussée de Louvain sur environ 2km et prendre à droite la
+  Rue des Saules toujours tout droit et 	qui devient ensuite la Route des M
+ arnières. Continuer ensuite tout droit\, passer un premier rond-point pui
+ s continuer tout droit jusqu'au rond-point du Messager où il faut prendre
+  la 2ème sortie. Vous êtes alors sur la Route de Genval et l'entrée du 
+ Complexe se trouve à environ 200m sur la gauche.\n\nVérifiez toujours ce
+ s infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c
+ /652_1_piraterie_la
+GEO:50.70475570000001;4.4703447
+LOCATION:Route de Genval\, 26A - 1380 Ohain\, Route de Genval 20A\, 1380 O
+ hain\, Belgique
+ORGANIZER;CN="Prudhomme D";ROLE=Secrétaire:MAILTO:brusselsltc039@gmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J19: PIRATERIE (LA) vs RAPID TAMTAM FC.
+DTSTART;VALUE=DATE-TIME:20260131T130000Z
+DTEND;VALUE=DATE-TIME:20260131T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3C_19_652_600
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Jaune 
+ etRose\n\nContact équipe domicile: Lopez Y Lopez P (0470.42.98.63 - lapir
+ ateriefc@outlook.com)\n\nAccès voiture : En venant de Bruxelles\, par l'a
+ utoroute Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passe
+ r sous le pont de l'autoroute et prendre la direction de Nivelles. A 200 m
+ .\, au rond-point (Shopping Center)\, tourner à droite en direction de Wa
+ vre (petit ring de Nivelles).\nAu 4ème rond-point (en tenant compte du ro
+ nd-point du Shopping Center)\, tourner à gauche \, rue de l'Industrie et 
+ pénétrer dans le zoning. Au bout de la rue\, avant le feu de signalisati
+ on\, tourner à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\
+ nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa:
+  https://calabssa.be/c/652_1_piraterie_la
+GEO:50.5959861;4.3562179
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Lopez Y Lopez P";ROLE=Secrétaire:MAILTO:lapirateriefc@outlo
+ ok.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J20: PATJES FC vs PIRATERIE (LA)
+DTSTART;VALUE=DATE-TIME:20260207T143000Z
+DTEND;VALUE=DATE-TIME:20260207T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3C_20_582_652
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc.\nCouleur principale équipe exterie
+ ure: Noir\n\nContact équipe domicile: Waucquez J-B (0472.08.73.90 - fcpat
+ jes@outlook.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'au
+ toroute E411 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, te
+ nir la droite et au bout de la bretelle\, prendre la direction d'Ottignies
+  par la N238. Au 1èr feu de signalisation continuer tout droit en passant
+  devant Walibi (qui se trouve sur la gauche) jusqu'à la sortie Limelette.
+  Au bout de cette sortie\, en face du Tennis Club La Palestre\, prendre à
+  droite la rue Charles Dubois\, jusqu'au carrefour principal. Continuer to
+ ut droit en traversant l'avenue Albert 1èr. Passer en dessous du 1èr pon
+ t du chemin de fer et prendre la rue de l'Europe jusqu'à la place de l'Eu
+ rope. Traverser cette place par la droite. Au bout à gauche\, suivre l'av
+ enue Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. L
+ imelette). Continuer cette rue et passer en dessous du 2ème pont du chemi
+ n de fer. Après ce pont\, prendre tout de suite à gauche l'avenue Demold
+ er (panneau F.C. Limelette)\, en face de l'étang du Buston. Suivre cette 
+ avenue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 5
+ 0 m. dans cette rue\, prendre à droite l'avenue des Sorbiers (panneau du 
+ F.C. Limelette). L'entrée du terrain est située 50 m. plus bas sur la ga
+ uche.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur c
+ alabssa: https://calabssa.be/c/652_1_piraterie_la
+GEO:50.67628029999999;4.562802
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Waucquez J-B";ROLE=Secrétaire:MAILTO:fcpatjes@outlook.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J21: PIRATERIE (LA) vs TAURO FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260214T130000Z
+DTEND;VALUE=DATE-TIME:20260214T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3C_21_652_574
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Lopez Y Lopez P (0470.42.98.63 - lapirateriefc
+ @outlook.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoroute
+  Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous l
+ e pont de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au r
+ ond-point (Shopping Center)\, tourner à droite en direction de Wavre (pet
+ it ring de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point
+  du Shopping Center)\, tourner à gauche \, rue de l'Industrie et pénétr
+ er dans le zoning. Au bout de la rue\, avant le feu de signalisation\, tou
+ rner à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérifi
+ ez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:/
+ /calabssa.be/c/652_1_piraterie_la
+GEO:50.5959861;4.3562179
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Lopez Y Lopez P";ROLE=Secrétaire:MAILTO:lapirateriefc@outlo
+ ok.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J22: STRING PENELOPE vs PIRATERIE (LA)
+DTSTART;VALUE=DATE-TIME:20260221T130000Z
+DTEND;VALUE=DATE-TIME:20260221T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3C_22_181_652
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Noir
+ \n\nContact équipe domicile: Sbaiti Y (0487.54.95.27 - yo.sbaiti@gmail.co
+ m)\n\nAccès voiture : En venant de Bruxelles\, prendre l'autoroute E411 e
+ n direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir la droite 
+ et au bout de la bretelle\, prendre la direction d'Ottignies par la N238. 
+ Au 1èr feu de signalisation continuer tout droit en passant devant Walibi
+  (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au bout de ce
+ tte sortie\, en face du Tennis Club La Palestre\, prendre à droite la rue
+  Charles Dubois\, jusqu'au carrefour principal. Continuer tout droit en tr
+ aversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du chemin de
+  fer et prendre la rue de l'Europe jusqu'à la place de l'Europe. Traverse
+ r cette place par la droite. Au bout à gauche\, suivre l'avenue Jassans. 
+ Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limelette). Con
+ tinuer cette rue et passer en dessous du 2ème pont du chemin de fer. Apr
+ ès ce pont\, prendre tout de suite à gauche l'avenue Demolder (panneau F
+ .C. Limelette)\, en face de l'étang du Buston. Suivre cette avenue jusqu'
+ à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m. dans cet
+ te rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C. Limelett
+ e). L'entrée du terrain est située 50 m. plus bas sur la gauche.\n\nVér
+ ifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: http
+ s://calabssa.be/c/652_1_piraterie_la
+GEO:50.67628029999999;4.562802
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Sbaiti Y";ROLE=Secrétaire:MAILTO:yo.sbaiti@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J23: PIRATERIE (LA) vs BLOOD SPIKES
+DTSTART;VALUE=DATE-TIME:20260228T130000Z
+DTEND;VALUE=DATE-TIME:20260228T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3C_23_652_660
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Lopez Y Lopez P (0470.42.98.63 - lapirateriefc
+ @outlook.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoroute
+  Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous l
+ e pont de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au r
+ ond-point (Shopping Center)\, tourner à droite en direction de Wavre (pet
+ it ring de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point
+  du Shopping Center)\, tourner à gauche \, rue de l'Industrie et pénétr
+ er dans le zoning. Au bout de la rue\, avant le feu de signalisation\, tou
+ rner à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérifi
+ ez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:/
+ /calabssa.be/c/652_1_piraterie_la
+GEO:50.5959861;4.3562179
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Lopez Y Lopez P";ROLE=Secrétaire:MAILTO:lapirateriefc@outlo
+ ok.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J24: FORESTOIS SC vs PIRATERIE (LA)
+DTSTART;VALUE=DATE-TIME:20260307T130000Z
+DTEND;VALUE=DATE-TIME:20260307T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3C_24_152_652
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Janssens P. (0484.44.21.41 - patj.scf@gmail.co
+ m)\n\nAccès voiture : Au départ de la Place St. Denis à Forest prendre 
+ la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à dro
+ ite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gauche 
+ (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du Com
+ plexe se trouve à hauteur de City Cart\, à gauche de la route.\n\nVérif
+ iez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:
+ //calabssa.be/c/652_1_piraterie_la
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J25: PIRATERIE (LA) vs NEW INN FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260314T130000Z
+DTEND;VALUE=DATE-TIME:20260314T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3C_25_652_359
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rose\n
+ \nContact équipe domicile: Lopez Y Lopez P (0470.42.98.63 - lapirateriefc
+ @outlook.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoroute
+  Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous l
+ e pont de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au r
+ ond-point (Shopping Center)\, tourner à droite en direction de Wavre (pet
+ it ring de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point
+  du Shopping Center)\, tourner à gauche \, rue de l'Industrie et pénétr
+ er dans le zoning. Au bout de la rue\, avant le feu de signalisation\, tou
+ rner à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérifi
+ ez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:/
+ /calabssa.be/c/652_1_piraterie_la
+GEO:50.5959861;4.3562179
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Lopez Y Lopez P";ROLE=Secrétaire:MAILTO:lapirateriefc@outlo
+ ok.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J26: GOALOIS (Eq. 2) vs PIRATERIE (LA)
+DTSTART;VALUE=DATE-TIME:20260321T130000Z
+DTEND;VALUE=DATE-TIME:20260321T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3C_26_345_652
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Bleu ciel-blanc\nCouleur principale équipe exterie
+ ure: Noir\n\nContact équipe domicile: Laruelle M. (0494.52.09.71 - martin
+ .laruelle@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre 
+ la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus b
+ us 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujour
+ s ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.
+ be/c/652_1_piraterie_la
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Laruelle M.";ROLE=Secrétaire:MAILTO:martin.laruelle@gmail.c
+ om
 END:VEVENT
 END:VCALENDAR

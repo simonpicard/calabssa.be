@@ -4,78 +4,67 @@ PRODID:395_1_alize_veterans_fc
 X-WR-CALDESC:Les matches du club ALIZE VETERANS FC (equipe 1) en ABSSA.
 X-WR-CALNAME:ABSSA: ALIZE VETERANS FC (eq. 1)
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J23: ALIZE VETERANS FC vs BRITISH UNITED (Eq. 5)
-DTSTART;VALUE=DATE-TIME:20240831T113000Z
-DTEND;VALUE=DATE-TIME:20240831T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_6C_23_395_132
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
- pale équipe domicile: Rouge et Noir\nCouleur principale équipe exterieur
- e: Bleu\n\nContact équipe domicile: Faid'Herbe T (0475.82.12.92 - thierry
- .faidherbe@outlook.be)\n\nAccès voiture : Via la chaussée de Mons jusqu'
- à Veeweyde (carrefour Fr. Van Kalken). Prendre à droite le boulevard  A.
-  Briand jusqu'à la Place Verdi\, puis le Bld. Théo Lambert.\n\nVérifiez
+SUMMARY:ABSSA D6C J1: IDEAL RANGERS R vs ALIZE VETERANS FC
+DTSTART;VALUE=DATE-TIME:20250830T133000Z
+DTEND;VALUE=DATE-TIME:20250830T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_6C_1_47_395
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: U04\n\nCouleur princi
+ pale équipe domicile: Orange et Noir\nCouleur principale équipe exterieu
+ re: Rouge et Noir\n\nContact équipe domicile: Simon A. (0477.87.83.33 - a
+ lain.si@skynet.be)\n\nAccès voiture : Par le Centre\, prendre la chaussé
+ e d'Alsemberg\, direction Alsemberg\, jusqu'à la gare d'Uccle-Calevoet. S
+ uivre les rails du tram\, passer en dessous du pont du chemin de fer et au
+  premier feu de signalisation prendre à gauche\, la rue du Bourdon\, puis
+  la 1ère rue à main gauche (rue des Bigarreaux)\, passer sous le pont du
+  chemin de fer et puis 1ère rue à main gauche (le complexe est fléché)
+ .\nPar le ring\, sortie Drogenbos-Ruisbroek\, prendre la direction Drogenb
+ os Centre (Grote Baan)\, au premier feu de signalisation\, passée l'égli
+ se\, prendre à gauche\, la chaussée de Drogenbos\, jusqu'au bout\, puis 
+ traverser la chaussée d'Alsemberg et prendre immédiatement à droite\, l
+ a rue du Bourdon\, pour continuer comme renseigné ci-dessus.\n\nVérifiez
   toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://c
  alabssa.be/c/395_1_alize_veterans_fc
-GEO:50.8275993;4.2964877
-LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
- \, Belgique
-ORGANIZER;CN="Faid'Herbe T";ROLE=Secrétaire:MAILTO:thierry.faidherbe@outl
- ook.be
+GEO:50.7833427;4.3345203
+LOCATION:Complexe Sportif de Ridder\, Rue des Griottes\, 1180 Uccle\, Belg
+ ique
+ORGANIZER;CN="Simon A.";ROLE=Secrétaire:MAILTO:alain.si@skynet.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J1: ALIZE VETERANS FC vs FAUBOURG-BRAINOISE (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20240907T113000Z
-DTEND;VALUE=DATE-TIME:20240907T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_6C_1_395_100
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
- pale équipe domicile: Rouge et Noir\nCouleur principale équipe exterieur
- e: Rouge\n\nContact équipe domicile: Faid'Herbe T (0475.82.12.92 - thierr
- y.faidherbe@outlook.be)\n\nAccès voiture : Via la chaussée de Mons jusqu
- 'à Veeweyde (carrefour Fr. Van Kalken). Prendre à droite le boulevard  A
- . Briand jusqu'à la Place Verdi\, puis le Bld. Théo Lambert.\n\nVérifie
- z toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://
- calabssa.be/c/395_1_alize_veterans_fc
-GEO:50.8275993;4.2964877
-LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
- \, Belgique
-ORGANIZER;CN="Faid'Herbe T";ROLE=Secrétaire:MAILTO:thierry.faidherbe@outl
- ook.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J2: CHIEFS WSL (Eq. 4) vs ALIZE VETERANS FC
-DTSTART;VALUE=DATE-TIME:20240914T090000Z
-DTEND;VALUE=DATE-TIME:20240914T103000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_6C_2_303_395
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
-  et Noir\n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan
- .be)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, pu
- is la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce
-  pont le terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur 
+SUMMARY:ABSSA D6C J3: FAUBOURG-BRAINOISE (Eq. 2) vs ALIZE VETERANS FC
+DTSTART;VALUE=DATE-TIME:20250913T113000Z
+DTEND;VALUE=DATE-TIME:20250913T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_6C_3_100_395
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rouge
+  et Noir\n\nContact équipe domicile: Herpain D. (0474.79.02.18 - daniel.h
+ erpain@skynet.be)\n\nAccès voiture : En venant de Bruxelles\, emprunter l
+ a chaussée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au d
+ it carrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chau
+ ssée\, au deuxième feu de signalisation\, prendre à droite\, le terrain
+  se trouve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur 
  http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/395_1_alize
  _veterans_fc
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
+GEO:50.6827211;4.3844421
+LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud\, Belgique
+ORGANIZER;CN="Herpain D.";ROLE=Secrétaire:MAILTO:daniel.herpain@skynet.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J3: ALIZE VETERANS FC vs CHOULE AUDERGHEM (Eq. 4)
-DTSTART;VALUE=DATE-TIME:20240921T113000Z
-DTEND;VALUE=DATE-TIME:20240921T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_6C_3_395_517
+SUMMARY:ABSSA D6C J4: ALIZE VETERANS FC vs TUBIFOOT AS
+DTSTART;VALUE=DATE-TIME:20250920T113000Z
+DTEND;VALUE=DATE-TIME:20250920T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_6C_4_395_451
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
  pale équipe domicile: Rouge et Noir\nCouleur principale équipe exterieur
- e: Rayé Bleu et Blanc\n\nContact équipe domicile: Faid'Herbe T (0475.82.
- 12.92 - thierry.faidherbe@outlook.be)\n\nAccès voiture : Via la chaussée
-  de Mons jusqu'à Veeweyde (carrefour Fr. Van Kalken). Prendre à droite l
- e boulevard  A. Briand jusqu'à la Place Verdi\, puis le Bld. Théo Lamber
- t.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur cala
- bssa: https://calabssa.be/c/395_1_alize_veterans_fc
+ e: Jaune et Rouge\n\nContact équipe domicile: Faid'Herbe T (0475.82.12.92
+  - thierry.faidherbe@outlook.be)\n\nAccès voiture : Via la chaussée de M
+ ons jusqu'à Veeweyde (carrefour Fr. Van Kalken). Prendre à droite le bou
+ levard  A. Briand jusqu'à la Place Verdi\, puis le Bld. Théo Lambert.\n\
+ nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa:
+  https://calabssa.be/c/395_1_alize_veterans_fc
 GEO:50.8275993;4.2964877
 LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
  \, Belgique
@@ -83,11 +72,11 @@ ORGANIZER;CN="Faid'Herbe T";ROLE=Secrétaire:MAILTO:thierry.faidherbe@outl
  ook.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J4: PHARMA SC (Eq. 4) vs ALIZE VETERANS FC
-DTSTART;VALUE=DATE-TIME:20240928T120000Z
-DTEND;VALUE=DATE-TIME:20240928T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_6C_4_268_395
+SUMMARY:ABSSA D6C J5: PHARMA SC (Eq. 4) vs ALIZE VETERANS FC
+DTSTART;VALUE=DATE-TIME:20250927T120000Z
+DTEND;VALUE=DATE-TIME:20250927T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_6C_5_268_395
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge 
  et Noir\n\nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.d
@@ -105,90 +94,11 @@ ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
  e
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J5: ALIZE VETERANS FC vs NIVELLOIS-ACLOT BS (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20241005T113000Z
-DTEND;VALUE=DATE-TIME:20241005T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_6C_5_395_503
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
- pale équipe domicile: Rouge et Noir\nCouleur principale équipe exterieur
- e: Rouge et noir\n\nContact équipe domicile: Faid'Herbe T (0475.82.12.92 
- - thierry.faidherbe@outlook.be)\n\nAccès voiture : Via la chaussée de Mo
- ns jusqu'à Veeweyde (carrefour Fr. Van Kalken). Prendre à droite le boul
- evard  A. Briand jusqu'à la Place Verdi\, puis le Bld. Théo Lambert.\n\n
- Vérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: 
- https://calabssa.be/c/395_1_alize_veterans_fc
-GEO:50.8275993;4.2964877
-LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
- \, Belgique
-ORGANIZER;CN="Faid'Herbe T";ROLE=Secrétaire:MAILTO:thierry.faidherbe@outl
- ook.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J6: ETTEKIJS (Eq. 3) vs ALIZE VETERANS FC
-DTSTART;VALUE=DATE-TIME:20241012T120000Z
-DTEND;VALUE=DATE-TIME:20241012T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_6C_6_343_395
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
- pale équipe domicile: Noir rayé de blanc\nCouleur principale équipe ext
- erieure: Rouge et Noir\n\nContact équipe domicile: Raes F. (0479.73.82.49
-  - freddy.raes@gmail.com)\n\nAccès voiture : A partir du square des Archi
- ducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVéri
- fiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https
- ://calabssa.be/c/395_1_alize_veterans_fc
-GEO:50.80645209999999;4.4087184
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J25: ALIZE VETERANS FC vs AZUR RCS (Eq. 6)
-DTSTART;VALUE=DATE-TIME:20241019T113000Z
-DTEND;VALUE=DATE-TIME:20241019T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_6C_25_395_109
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
- pale équipe domicile: Rouge et Noir\nCouleur principale équipe exterieur
- e: Bleu\n\nContact équipe domicile: Faid'Herbe T (0475.82.12.92 - thierry
- .faidherbe@outlook.be)\n\nAccès voiture : Via la chaussée de Mons jusqu'
- à Veeweyde (carrefour Fr. Van Kalken). Prendre à droite le boulevard  A.
-  Briand jusqu'à la Place Verdi\, puis le Bld. Théo Lambert.\n\nVérifiez
-  toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://c
- alabssa.be/c/395_1_alize_veterans_fc
-GEO:50.8275993;4.2964877
-LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
- \, Belgique
-ORGANIZER;CN="Faid'Herbe T";ROLE=Secrétaire:MAILTO:thierry.faidherbe@outl
- ook.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J26: ETINCELLE FC (Eq. 2) vs ALIZE VETERANS FC
-DTSTART;VALUE=DATE-TIME:20241026T103000Z
-DTEND;VALUE=DATE-TIME:20241026T120000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_6C_26_35_395
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
- pale équipe domicile: Jaune et bleu\nCouleur principale équipe exterieur
- e: Rouge et Noir\n\nContact équipe domicile: Kremer N (0471.37.59.81 - ni
- colas.kremer@gmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\,
-  après 300 m. en direction de Lennik\, prendre à droite.\nVenant de la c
- haussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place V
- erdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 
- m. en direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.
- abssa.be/\nVoir sur calabssa: https://calabssa.be/c/395_1_alize_veterans_f
- c
-GEO:50.8177358;4.2557195
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER;CN="Kremer N";ROLE=Secrétaire:MAILTO:nicolas.kremer@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J7: ALIZE VETERANS FC vs CHENOIS SC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20241102T123000Z
-DTEND;VALUE=DATE-TIME:20241102T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_6C_7_395_84
+SUMMARY:ABSSA D6C J6: ALIZE VETERANS FC vs CHENOIS SC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20251004T113000Z
+DTEND;VALUE=DATE-TIME:20251004T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_6C_6_395_84
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
  pale équipe domicile: Rouge et Noir\nCouleur principale équipe exterieur
  e: Noir et Rouge\n\nContact équipe domicile: Faid'Herbe T (0475.82.12.92 
@@ -204,11 +114,32 @@ ORGANIZER;CN="Faid'Herbe T";ROLE=Secrétaire:MAILTO:thierry.faidherbe@outl
  ook.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J9: ALIZE VETERANS FC vs BRAINE-TERMINUS FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20241116T123000Z
-DTEND;VALUE=DATE-TIME:20241116T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_6C_9_395_537
+SUMMARY:ABSSA D6C J7: NEW ARQUOIS FC (Eq. 3) vs ALIZE VETERANS FC
+DTSTART;VALUE=DATE-TIME:20251011T133000Z
+DTEND;VALUE=DATE-TIME:20251011T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_6C_7_263_395
+DESCRIPTION:Terrain synthétique: non\nCode terrain: A12\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge 
+ et Noir\n\nContact équipe domicile: Beka J-M. (0495.25.31.25 - jmbeka73@g
+ mail.com)\n\nAccès voiture : Autoroute E 19 (Bruxelles-Charleroi)\, sorti
+ e Arquennes. Direction Seneffe-La-Louvière. A la station d'essence Total\
+ , prendre à droite pendant +/- 700 mètres.\nAu rond point\, prendre à d
+ roite en direction du château de La Rocq\, passez sous le pont\, le terra
+ in se trouve à 100 mètres (à proximité du cimetière).\n\nVérifiez to
+ ujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cala
+ bssa.be/c/395_1_alize_veterans_fc
+GEO:50.570014;4.272457699999999
+LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion 22\, 7181 Arquennes\
+ , Belgique
+ORGANIZER;CN="Beka J-M.";ROLE=Secrétaire:MAILTO:jmbeka73@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J8: ALIZE VETERANS FC vs BRAINE-TERMINUS FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20251018T113000Z
+DTEND;VALUE=DATE-TIME:20251018T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_6C_8_395_537
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
  pale équipe domicile: Rouge et Noir\nCouleur principale équipe exterieur
  e: Jaune et rouge\n\nContact équipe domicile: Faid'Herbe T (0475.82.12.92
@@ -224,11 +155,11 @@ ORGANIZER;CN="Faid'Herbe T";ROLE=Secrétaire:MAILTO:thierry.faidherbe@outl
  ook.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J12: AZUR RCS (Eq. 6) vs ALIZE VETERANS FC
-DTSTART;VALUE=DATE-TIME:20241123T140000Z
-DTEND;VALUE=DATE-TIME:20241123T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_6C_12_109_395
+SUMMARY:ABSSA D6C J9: AZUR RCS (Eq. 6) vs ALIZE VETERANS FC
+DTSTART;VALUE=DATE-TIME:20251025T113000Z
+DTEND;VALUE=DATE-TIME:20251025T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_6C_9_109_395
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W12\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge 
  et Noir\n\nContact équipe domicile: Mad. Decamps N. (0477.27.39.66 - nath
@@ -238,18 +169,114 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: W12\n\nCouleur princi
  e la 2ème rue à main droite (Av. J. Dujardin). Ensuite 1ère rue à gauc
  he (Av. Salomé).\n\nVérifiez toujours ces infos sur http://www.abssa.be/
  \nVoir sur calabssa: https://calabssa.be/c/395_1_alize_veterans_fc
-GEO:50.830818;4.455442
+GEO:50.8308291;4.4555375
 LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
  elgique
 ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
  tmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J11: ALIZE VETERANS FC vs TOURINNOIS FC (Eq. 4)
-DTSTART;VALUE=DATE-TIME:20241130T123000Z
-DTEND;VALUE=DATE-TIME:20241130T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_6C_11_395_292
+SUMMARY:ABSSA D6C J10: ALIZE VETERANS FC vs COIN DU BALAI FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20251108T123000Z
+DTEND;VALUE=DATE-TIME:20251108T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_6C_10_395_229
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
+ pale équipe domicile: Rouge et Noir\nCouleur principale équipe exterieur
+ e: Bleu Marine\n\nContact équipe domicile: Faid'Herbe T (0475.82.12.92 - 
+ thierry.faidherbe@outlook.be)\n\nAccès voiture : Via la chaussée de Mons
+  jusqu'à Veeweyde (carrefour Fr. Van Kalken). Prendre à droite le boulev
+ ard  A. Briand jusqu'à la Place Verdi\, puis le Bld. Théo Lambert.\n\nV
+ érifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: h
+ ttps://calabssa.be/c/395_1_alize_veterans_fc
+GEO:50.8275993;4.2964877
+LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Faid'Herbe T";ROLE=Secrétaire:MAILTO:thierry.faidherbe@outl
+ ook.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J11: ELAN EVERE RAC (Eq. 2) vs ALIZE VETERANS FC
+DTSTART;VALUE=DATE-TIME:20251115T143000Z
+DTEND;VALUE=DATE-TIME:20251115T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_6C_11_7_395
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E08\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rouge
+  et Noir\n\nContact équipe domicile: Dubois J-J. (0486.47.10.49 - jjduboi
+ s58@gmail.com)\n\nAccès voiture : Le terrain se trouve derrière l'églis
+ e St. Vincent\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVo
+ ir sur calabssa: https://calabssa.be/c/395_1_alize_veterans_fc
+GEO:50.8803867;4.4003168
+LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue Stroobants 75\, 1140 Evere\,
+  Belgique
+ORGANIZER;CN="Dubois J-J.";ROLE=Secrétaire:MAILTO:jjdubois58@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J12: ALIZE VETERANS FC vs BRUSSELS LTC (Eq. 7)
+DTSTART;VALUE=DATE-TIME:20251122T123000Z
+DTEND;VALUE=DATE-TIME:20251122T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_6C_12_395_39
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
+ pale équipe domicile: Rouge et Noir\nCouleur principale équipe exterieur
+ e: Bordeaux\n\nContact équipe domicile: Faid'Herbe T (0475.82.12.92 - thi
+ erry.faidherbe@outlook.be)\n\nAccès voiture : Via la chaussée de Mons ju
+ squ'à Veeweyde (carrefour Fr. Van Kalken). Prendre à droite le boulevard
+   A. Briand jusqu'à la Place Verdi\, puis le Bld. Théo Lambert.\n\nVéri
+ fiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https
+ ://calabssa.be/c/395_1_alize_veterans_fc
+GEO:50.8275993;4.2964877
+LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Faid'Herbe T";ROLE=Secrétaire:MAILTO:thierry.faidherbe@outl
+ ook.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J13: CHIEFS WSL (Eq. 4) vs ALIZE VETERANS FC
+DTSTART;VALUE=DATE-TIME:20251129T100000Z
+DTEND;VALUE=DATE-TIME:20251129T113000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_6C_13_303_395
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
+  et Noir\n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan
+ .be)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, pu
+ is la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce
+  pont le terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur 
+ http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/395_1_alize
+ _veterans_fc
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J14: ALIZE VETERANS FC vs IDEAL RANGERS R
+DTSTART;VALUE=DATE-TIME:20251206T123000Z
+DTEND;VALUE=DATE-TIME:20251206T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_6C_14_395_47
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
+ pale équipe domicile: Rouge et Noir\nCouleur principale équipe exterieur
+ e: Orange et Noir\n\nContact équipe domicile: Faid'Herbe T (0475.82.12.92
+  - thierry.faidherbe@outlook.be)\n\nAccès voiture : Via la chaussée de M
+ ons jusqu'à Veeweyde (carrefour Fr. Van Kalken). Prendre à droite le bou
+ levard  A. Briand jusqu'à la Place Verdi\, puis le Bld. Théo Lambert.\n\
+ nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa:
+  https://calabssa.be/c/395_1_alize_veterans_fc
+GEO:50.8275993;4.2964877
+LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Faid'Herbe T";ROLE=Secrétaire:MAILTO:thierry.faidherbe@outl
+ ook.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J16: ALIZE VETERANS FC vs FAUBOURG-BRAINOISE (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260110T123000Z
+DTEND;VALUE=DATE-TIME:20260110T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_6C_16_395_100
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
  pale équipe domicile: Rouge et Noir\nCouleur principale équipe exterieur
  e: Rouge\n\nContact équipe domicile: Faid'Herbe T (0475.82.12.92 - thierr
@@ -265,114 +292,36 @@ ORGANIZER;CN="Faid'Herbe T";ROLE=Secrétaire:MAILTO:thierry.faidherbe@outl
  ook.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J10: BRITISH UNITED (Eq. 5) vs ALIZE VETERANS FC
-DTSTART;VALUE=DATE-TIME:20241207T113000Z
-DTEND;VALUE=DATE-TIME:20241207T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_6C_10_132_395
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge 
- et Noir\n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gill
- esvanderseypen@gmail.com)\n\nAccès voiture : A partir de Bruxelles\, pren
- dre la E 411 en direction de Namur. Prendre la sortie N° 8 puis à droite
-  la bretelle pour la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. 
- Après +/- 6\,5 km\, au rond-point\, prendre la sortie 1 vers la N 420 Ch
- ée. de la Libération\, puis à gauche dans la rue de la Grande lecke.\n\
- nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa:
-  https://calabssa.be/c/395_1_alize_veterans_fc
-GEO:50.7540176;4.7835618
-LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
-ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
- gmail.com
+SUMMARY:ABSSA D6C J17: TUBIFOOT AS vs ALIZE VETERANS FC
+DTSTART;VALUE=DATE-TIME:20260117T143000Z
+DTEND;VALUE=DATE-TIME:20260117T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_6C_17_451_395
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: T06\n\nCouleur princi
+ pale équipe domicile: Jaune et Rouge\nCouleur principale équipe exterieu
+ re: Rouge et Noir\n\nContact équipe domicile: Girardo. M (0491.35.69.81 -
+  astubifoot@gmail.com)\n\nAccès voiture : •En venant de Bruxelles : Pre
+ ndre le RO en direction Mons-Bergen / Charleroi - prendre la sortie 21 et 
+ continuer sur la E429 direction Lille/Rijsel. Prendre la sortie 23 Tubize 
+ / Tubeke et continuer sur la chaussée d’Hondzocht . Passer 2  ronds poi
+ nt jusqu’à la chaussée de Bruxelles (N6)\, prendre à droite Rue de Br
+ uxelles et traverser le centre de Tubize en direction de Braine-le-Comte :
+  rue de Bruxelles et Chaussée de Mons. Aprè IPES\, prendre la première 
+ rue à gauche (rue d’Atina) suivre le panneau cimetière-parc à contain
+ er-ferme Massart.  Continuer 10 m. jusqu’au parking du cimetière\, l’
+ entrée du stade se trouve en face du parking.\n\nVérifiez toujours ces i
+ nfos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/39
+ 5_1_alize_veterans_fc
+GEO:50.683352;4.1953276
+LOCATION:Rue d'Atina \, 1480  Tubize\, Belgique
+ORGANIZER;CN="Girardo. M";ROLE=Secrétaire:MAILTO:astubifoot@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J13: ALIZE VETERANS FC vs ETINCELLE FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20241214T123000Z
-DTEND;VALUE=DATE-TIME:20241214T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_6C_13_395_35
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
- pale équipe domicile: Rouge et Noir\nCouleur principale équipe exterieur
- e: Jaune et bleu\n\nContact équipe domicile: Faid'Herbe T (0475.82.12.92 
- - thierry.faidherbe@outlook.be)\n\nAccès voiture : Via la chaussée de Mo
- ns jusqu'à Veeweyde (carrefour Fr. Van Kalken). Prendre à droite le boul
- evard  A. Briand jusqu'à la Place Verdi\, puis le Bld. Théo Lambert.\n\n
- Vérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: 
- https://calabssa.be/c/395_1_alize_veterans_fc
-GEO:50.8275993;4.2964877
-LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
- \, Belgique
-ORGANIZER;CN="Faid'Herbe T";ROLE=Secrétaire:MAILTO:thierry.faidherbe@outl
- ook.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J14: FAUBOURG-BRAINOISE (Eq. 2) vs ALIZE VETERANS FC
-DTSTART;VALUE=DATE-TIME:20250111T123000Z
-DTEND;VALUE=DATE-TIME:20250111T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2025_6C_14_100_395
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rouge
-  et Noir\n\nContact équipe domicile: Herpain D. (0474.79.02.18 - daniel.h
- erpain@skynet.be)\n\nAccès voiture : En venant de Bruxelles\, emprunter l
- a chaussée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au d
- it carrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chau
- ssée\, au deuxième feu de signalisation\, prendre à droite\, le terrain
-  se trouve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur 
- http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/395_1_alize
- _veterans_fc
-GEO:50.6827211;4.3844421
-LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
- ud\, Belgique
-ORGANIZER;CN="Herpain D.";ROLE=Secrétaire:MAILTO:daniel.herpain@skynet.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J15: ALIZE VETERANS FC vs CHIEFS WSL (Eq. 4)
-DTSTART;VALUE=DATE-TIME:20250118T123000Z
-DTEND;VALUE=DATE-TIME:20250118T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2025_6C_15_395_303
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
- pale équipe domicile: Rouge et Noir\nCouleur principale équipe exterieur
- e: Blanc\n\nContact équipe domicile: Faid'Herbe T (0475.82.12.92 - thierr
- y.faidherbe@outlook.be)\n\nAccès voiture : Via la chaussée de Mons jusqu
- 'à Veeweyde (carrefour Fr. Van Kalken). Prendre à droite le boulevard  A
- . Briand jusqu'à la Place Verdi\, puis le Bld. Théo Lambert.\n\nVérifie
- z toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://
- calabssa.be/c/395_1_alize_veterans_fc
-GEO:50.8275993;4.2964877
-LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
- \, Belgique
-ORGANIZER;CN="Faid'Herbe T";ROLE=Secrétaire:MAILTO:thierry.faidherbe@outl
- ook.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J16: CHOULE AUDERGHEM (Eq. 4) vs ALIZE VETERANS FC
-DTSTART;VALUE=DATE-TIME:20250125T113000Z
-DTEND;VALUE=DATE-TIME:20250125T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2025_6C_16_517_395
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
- pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
- erieure: Rouge et Noir\n\nContact équipe domicile: Vandenplas D. (0476.54
- .48.01 - dav_54@hotmail.com)\n\nAccès voiture : En venant de Bruxelles pa
- r la chaussée de Wavre\, rejoindre le du début de l'autoroute Bruxelles-
- Namur\, utiliser la bande de droite pendant +/- 200 m. et descendre devant
-  le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (en dessous
-  de l'autoroute). Le terrain se trouve à 200 m. Le stade est fléché.\n\
- nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa:
-  https://calabssa.be/c/395_1_alize_veterans_fc
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J17: ALIZE VETERANS FC vs PHARMA SC (Eq. 4)
-DTSTART;VALUE=DATE-TIME:20250201T123000Z
-DTEND;VALUE=DATE-TIME:20250201T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2025_6C_17_395_268
+SUMMARY:ABSSA D6C J18: ALIZE VETERANS FC vs PHARMA SC (Eq. 4)
+DTSTART;VALUE=DATE-TIME:20260124T123000Z
+DTEND;VALUE=DATE-TIME:20260124T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_6C_18_395_268
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
  pale équipe domicile: Rouge et Noir\nCouleur principale équipe exterieur
  e: Bleu\n\nContact équipe domicile: Faid'Herbe T (0475.82.12.92 - thierry
@@ -388,74 +337,11 @@ ORGANIZER;CN="Faid'Herbe T";ROLE=Secrétaire:MAILTO:thierry.faidherbe@outl
  ook.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J18: NIVELLOIS-ACLOT BS (Eq. 2) vs ALIZE VETERANS FC
-DTSTART;VALUE=DATE-TIME:20250208T120000Z
-DTEND;VALUE=DATE-TIME:20250208T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2025_6C_18_503_395
-DESCRIPTION:Terrain synthétique: non\nCode terrain: N03\n\nCouleur princi
- pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
- e: Rouge et Noir\n\nContact équipe domicile: Draux N. (0472.40.01.22 - ni
- .draux@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autor
- oute Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer so
- us le pont de l'autoroute et prendre la direction de Nivelles. A 200 m.\, 
- au rond-point (Shopping Center)\, tourner à droite en direction de Wavre 
- (petit ring de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-p
- oint du Shopping Center)\, tourner à gauche \, rue de l'Industrie et pén
- étrer dans le zoning. Au bout de la rue\, avant le feu de signalisation\,
-  tourner à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVé
- rifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: htt
- ps://calabssa.be/c/395_1_alize_veterans_fc
-GEO:50.5963705;4.3564539
-LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER;CN="Draux N.";ROLE=Secrétaire:MAILTO:ni.draux@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J19: ALIZE VETERANS FC vs ETTEKIJS (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20250215T123000Z
-DTEND;VALUE=DATE-TIME:20250215T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2025_6C_19_395_343
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
- pale équipe domicile: Rouge et Noir\nCouleur principale équipe exterieur
- e: Noir rayé de blanc\n\nContact équipe domicile: Faid'Herbe T (0475.82.
- 12.92 - thierry.faidherbe@outlook.be)\n\nAccès voiture : Via la chaussée
-  de Mons jusqu'à Veeweyde (carrefour Fr. Van Kalken). Prendre à droite l
- e boulevard  A. Briand jusqu'à la Place Verdi\, puis le Bld. Théo Lamber
- t.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur cala
- bssa: https://calabssa.be/c/395_1_alize_veterans_fc
-GEO:50.8275993;4.2964877
-LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
- \, Belgique
-ORGANIZER;CN="Faid'Herbe T";ROLE=Secrétaire:MAILTO:thierry.faidherbe@outl
- ook.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J24: TOURINNOIS FC (Eq. 4) vs ALIZE VETERANS FC
-DTSTART;VALUE=DATE-TIME:20250222T140000Z
-DTEND;VALUE=DATE-TIME:20250222T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2025_6C_24_292_395
-DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rouge
-  et Noir\n\nContact équipe domicile: Strade P. (010.65.83.02 - stradepaul
- @hotmail.com)\n\nAccès voiture : A partir de l'autoroute Bruxelles-Namur 
- (E411)\, prendre la sortie  Walhain (n° 10). Au pied de la rampe d'accès
- \, suivre la direction Walhain vers la droite et après 200 m. prendre à 
- droite et 400 m. plus loin\, prendre à nouveau à droite. Le terrain se t
- rouve à +/- 300 m. sur la gauche.\n\nVérifiez toujours ces infos sur htt
- p://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/395_1_alize_ve
- terans_fc
-GEO:50.6415282;4.7193257
-LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
-ORGANIZER;CN="Strade P.";ROLE=Secrétaire:MAILTO:stradepaul@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J20: CHENOIS SC (Eq. 3) vs ALIZE VETERANS FC
-DTSTART;VALUE=DATE-TIME:20250308T140000Z
-DTEND;VALUE=DATE-TIME:20250308T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2025_6C_20_84_395
+SUMMARY:ABSSA D6C J19: CHENOIS SC (Eq. 3) vs ALIZE VETERANS FC
+DTSTART;VALUE=DATE-TIME:20260131T140000Z
+DTEND;VALUE=DATE-TIME:20260131T153000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_6C_19_84_395
 DESCRIPTION:Terrain synthétique: non\nCode terrain: W02\n\nCouleur princi
  pale équipe domicile: Noir et Rouge\nCouleur principale équipe exterieur
  e: Rouge et Noir\n\nContact équipe domicile: Versmissen P. (0495.59.61.77
@@ -472,11 +358,31 @@ ORGANIZER;CN="Versmissen P.";ROLE=Secrétaire:MAILTO:sc.chenois@waterloo.e
  u
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J22: BRAINE-TERMINUS FC (Eq. 2) vs ALIZE VETERANS FC
-DTSTART;VALUE=DATE-TIME:20250322T123000Z
-DTEND;VALUE=DATE-TIME:20250322T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2025_6C_22_537_395
+SUMMARY:ABSSA D6C J20: ALIZE VETERANS FC vs NEW ARQUOIS FC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20260207T123000Z
+DTEND;VALUE=DATE-TIME:20260207T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_6C_20_395_263
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
+ pale équipe domicile: Rouge et Noir\nCouleur principale équipe exterieur
+ e: Bleu\n\nContact équipe domicile: Faid'Herbe T (0475.82.12.92 - thierry
+ .faidherbe@outlook.be)\n\nAccès voiture : Via la chaussée de Mons jusqu'
+ à Veeweyde (carrefour Fr. Van Kalken). Prendre à droite le boulevard  A.
+  Briand jusqu'à la Place Verdi\, puis le Bld. Théo Lambert.\n\nVérifiez
+  toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://c
+ alabssa.be/c/395_1_alize_veterans_fc
+GEO:50.8275993;4.2964877
+LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Faid'Herbe T";ROLE=Secrétaire:MAILTO:thierry.faidherbe@outl
+ ook.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J21: BRAINE-TERMINUS FC (Eq. 2) vs ALIZE VETERANS FC
+DTSTART;VALUE=DATE-TIME:20260214T130000Z
+DTEND;VALUE=DATE-TIME:20260214T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_6C_21_537_395
 DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
  pale équipe domicile: Jaune et rouge\nCouleur principale équipe exterieu
  re: Rouge et Noir\n\nContact équipe domicile: Dero G. (0479.81.83.27 - fc
@@ -493,5 +399,106 @@ DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
 GEO:50.6194169;4.1351187
 LOCATION:Rue du Poseur 39\, 7090 Braine-Le-Comte\, Belgique
 ORGANIZER;CN="Dero G.";ROLE=Secrétaire:MAILTO:fcbraineterminus@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J22: ALIZE VETERANS FC vs AZUR RCS (Eq. 6)
+DTSTART;VALUE=DATE-TIME:20260221T123000Z
+DTEND;VALUE=DATE-TIME:20260221T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_6C_22_395_109
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
+ pale équipe domicile: Rouge et Noir\nCouleur principale équipe exterieur
+ e: Bleu\n\nContact équipe domicile: Faid'Herbe T (0475.82.12.92 - thierry
+ .faidherbe@outlook.be)\n\nAccès voiture : Via la chaussée de Mons jusqu'
+ à Veeweyde (carrefour Fr. Van Kalken). Prendre à droite le boulevard  A.
+  Briand jusqu'à la Place Verdi\, puis le Bld. Théo Lambert.\n\nVérifiez
+  toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://c
+ alabssa.be/c/395_1_alize_veterans_fc
+GEO:50.8275993;4.2964877
+LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Faid'Herbe T";ROLE=Secrétaire:MAILTO:thierry.faidherbe@outl
+ ook.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J23: COIN DU BALAI FC (Eq. 2) vs ALIZE VETERANS FC
+DTSTART;VALUE=DATE-TIME:20260228T143000Z
+DTEND;VALUE=DATE-TIME:20260228T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_6C_23_229_395
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
+  Rouge et Noir\n\nContact équipe domicile: Rosenfeld J. (0485.05.40.06 - 
+ rosenfeldjean@hotmail.com)\n\nAccès voiture : A partir du square des Arch
+ iducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVér
+ ifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: http
+ s://calabssa.be/c/395_1_alize_veterans_fc
+GEO:50.80645209999999;4.4087184
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Rosenfeld J.";ROLE=Secrétaire:MAILTO:rosenfeldjean@hotmail.
+ com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J24: ALIZE VETERANS FC vs ELAN EVERE RAC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260307T123000Z
+DTEND;VALUE=DATE-TIME:20260307T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_6C_24_395_7
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
+ pale équipe domicile: Rouge et Noir\nCouleur principale équipe exterieur
+ e: Rouge\n\nContact équipe domicile: Faid'Herbe T (0475.82.12.92 - thierr
+ y.faidherbe@outlook.be)\n\nAccès voiture : Via la chaussée de Mons jusqu
+ 'à Veeweyde (carrefour Fr. Van Kalken). Prendre à droite le boulevard  A
+ . Briand jusqu'à la Place Verdi\, puis le Bld. Théo Lambert.\n\nVérifie
+ z toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://
+ calabssa.be/c/395_1_alize_veterans_fc
+GEO:50.8275993;4.2964877
+LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Faid'Herbe T";ROLE=Secrétaire:MAILTO:thierry.faidherbe@outl
+ ook.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J25: BRUSSELS LTC (Eq. 7) vs ALIZE VETERANS FC
+DTSTART;VALUE=DATE-TIME:20260314T130000Z
+DTEND;VALUE=DATE-TIME:20260314T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_6C_25_39_395
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Ro
+ uge et Noir\n\nContact équipe domicile: Prudhomme D (0478.49.26.08 - brus
+ selsltc039@gmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre le
+  Ring Est direction Waterloo. Sortir au pont de Groenendael\, direction La
+  Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, 
+ toujours tout droit. Au feu de signalisation et le carrefour de La Hulpe\,
+  tout droit direction Genval. Au feu de signalisation prendre à gauche et
+  ensuite directement à droite\, l'avenue Soyer\, derrière le G.B. Le ter
+ rain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.ab
+ ssa.be/\nVoir sur calabssa: https://calabssa.be/c/395_1_alize_veterans_fc
+GEO:50.7308998;4.4944678
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Prudhomme D";ROLE=Secrétaire:MAILTO:brusselsltc039@gmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J26: ALIZE VETERANS FC vs CHIEFS WSL (Eq. 4)
+DTSTART;VALUE=DATE-TIME:20260321T123000Z
+DTEND;VALUE=DATE-TIME:20260321T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_6C_26_395_303
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
+ pale équipe domicile: Rouge et Noir\nCouleur principale équipe exterieur
+ e: Blanc\n\nContact équipe domicile: Faid'Herbe T (0475.82.12.92 - thierr
+ y.faidherbe@outlook.be)\n\nAccès voiture : Via la chaussée de Mons jusqu
+ 'à Veeweyde (carrefour Fr. Van Kalken). Prendre à droite le boulevard  A
+ . Briand jusqu'à la Place Verdi\, puis le Bld. Théo Lambert.\n\nVérifie
+ z toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://
+ calabssa.be/c/395_1_alize_veterans_fc
+GEO:50.8275993;4.2964877
+LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Faid'Herbe T";ROLE=Secrétaire:MAILTO:thierry.faidherbe@outl
+ ook.be
 END:VEVENT
 END:VCALENDAR

@@ -4,143 +4,112 @@ PRODID:abbsa_j_22_d_4a
 X-WR-CALDESC:Les matches de la journée 22 en divion 4A d'ABSSA.
 X-WR-CALNAME:D4A Journée 22
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J22: FRIENDS SPIRIT AUD vs LUNETTE (LA) FC
-DTSTART;VALUE=DATE-TIME:20250322T113000Z
-DTEND;VALUE=DATE-TIME:20250322T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_4A_22_522_130
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Noir\n
- \nContact équipe domicile: Rau L. (0471.06.77.33 - ludo-r@hotmail.com)\n\
- nAccès voiture : En venant de Bruxelles par la chaussée de Wavre\, rejoi
- ndre le du début de l'autoroute Bruxelles-Namur\, utiliser la bande de dr
- oite pendant +/- 200 m. et descendre devant le bâtiment de l'ADEPS\, puis
-  passer par le tunnel à gauche (en dessous de l'autoroute). Le terrain se
-  trouve à 200 m. Le stade est fléché.\n\nVérifiez toujours ces infos s
- ur http://www.abssa.be/
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER;CN="Rau L.";ROLE=Secrétaire:MAILTO:ludo-r@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J22: OMNISPORT BIERGHES vs BLUE THRILLS
-DTSTART;VALUE=DATE-TIME:20250322T120000Z
-DTEND;VALUE=DATE-TIME:20250322T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_4A_22_455_619
-DESCRIPTION:Terrain synthétique: non\nCode terrain: B02\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu M
- arine\n\nContact équipe domicile: Barbe L. (0495.21.74.14 - omnisportbier
- ghes1995@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Charleroi (E19
- )\, prendre la sortie Halle-Tournai-Lille (n° 21) pour rejoindre l'autoro
- ute Tournai-Lille\, ancienne route A8 (E429). Prendre la sortie Rebecq-Que
- nast (n° 24). En bas de la sortie\, prendre à droite\, direction Bierghe
- s. Rouler tout droit jusqu'au premier feu rouge. Tourner à droite en dire
- ction de Halle\, ensuite la deuxième rue à droite (rue du Sartiau)\, ens
- uite à gauche. Le terrain se trouve à 300 m.\n\nVérifiez toujours ces i
- nfos sur http://www.abssa.be/
-GEO:50.69576660000001;4.1292301
-LOCATION:Rue du Sartiau 3B\, 1430 Bierghes-Rebecq\, Belgique
-ORGANIZER;CN="Barbe L.";ROLE=Secrétaire:MAILTO:omnisportbierghes1995@gmai
- l.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J22: PATRONS (LES) vs COPAINS REUNIS
-DTSTART;VALUE=DATE-TIME:20250322T143000Z
-DTEND;VALUE=DATE-TIME:20250322T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_4A_22_628_49
+SUMMARY:ABSSA D4A J22: CHIEFS WSL (Eq. 3) vs NEPTUNE FC
+DTSTART;VALUE=DATE-TIME:20260221T113000Z
+DTEND;VALUE=DATE-TIME:20260221T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_4A_22_303_56
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu 
- foncé\n\nContact équipe domicile: Van Roey G. (0478.24.03.05 - lespatron
- s.fc@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la ru
- e Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28
- ). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ces
-  infos sur http://www.abssa.be/
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan.be)\n\nA
+ ccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, puis la cha
+ ussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce pont le 
+ terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur http://ww
+ w.abssa.be/
 GEO:50.8423054;4.445628699999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
-ORGANIZER;CN="Van Roey G.";ROLE=Secrétaire:MAILTO:lespatrons.fc@gmail.com
+ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J22: MACAPSULES (LES) vs WOKRASSE F.C.
-DTSTART;VALUE=DATE-TIME:20250322T143000Z
-DTEND;VALUE=DATE-TIME:20250322T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_4A_22_627_656
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
- pale équipe domicile: Vert/blanc\nCouleur principale équipe exterieure: 
- Bleu et Noir\n\nContact équipe domicile: Daumont J. (0475.42.26.61 - maca
- psules@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Namur / Lu
- xembourg\, prendre la sortie n° 6 Wavre\, à gauche N 238 direction Wavre
- . Au rond-	point 2ième sortie N238/Blvd. de l'Europe direction Wavre Cent
- re. Entrer dans Wavre puis à gauche N 238\, à gauche N 239. 	Au rond-poi
- nt prendre la première sortie Rue Haute\, continuer sur rue de Bruxelles\
- , continuer sur rue Saint-Roch\, continuer 	sur rue Joseph Joppart. Prendr
- e à droite l'avenue du Centre Sportif.\n\nVérifiez toujours ces infos su
- r http://www.abssa.be/
-GEO:50.72071949999999;4.617067899999999
-LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
+SUMMARY:ABSSA D4A J22: COMP. CINEMA R vs VIRGINAL ASF
+DTSTART;VALUE=DATE-TIME:20260221T113000Z
+DTEND;VALUE=DATE-TIME:20260221T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_4A_22_16_497
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E07\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Vert\n
+ \nContact équipe domicile: Ji  S.Y.K. (0479.05.84.70 - compagnonscinema01
+ 6@gmail.com)\n\nAccès voiture : Boulevard Lambermont\, prendre le bouleva
+ rd Léopold III\, direction aéroport de Bruxelles-National\, au 3ème feu
+  de signalisation prendre à droite. le terrain se trouve à 50 m.\n\nVér
+ ifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8691994;4.406709999999999
+LOCATION:Complexe Sportif Evere\, Avenue des Anciens Combattants 300\, 114
+ 0 Evere\, Belgique
+ORGANIZER;CN="Ji  S.Y.K.";ROLE=Secrétaire:MAILTO:compagnonscinema016@gmai
+ l.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4A J22: HELLAS BERCHEM FC. vs SAINT GEORGES RCS
+DTSTART;VALUE=DATE-TIME:20260221T120000Z
+DTEND;VALUE=DATE-TIME:20260221T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_4A_22_488_221
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S04\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Hadjianestis A. (0475.31.23.80 - fchellas@gma
+ il.com)\n\nAccès voiture : A partir du boulevard Charles Quint à hauteur
+  de Basilix Shopping Center\, prendre la rue des Châlets (Lusthuizenstraa
+ t)\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8696078;4.287300999999999
+LOCATION:Parc J. Monnet\, Lusthuizenstraat 1\, 1080 Sint-Agatha-Berchem\, 
+ Belgique
+ORGANIZER;CN="Hadjianestis A.";ROLE=Secrétaire:MAILTO:fchellas@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4A J22: BEETHOVEN FCS vs SPORTING BW
+DTSTART;VALUE=DATE-TIME:20260221T123000Z
+DTEND;VALUE=DATE-TIME:20260221T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_4A_22_493_673
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: B
+ lanc\n\nContact équipe domicile: Lopez Sanchez M. (0496.47.72.98 - Mygsi8
+ 7@gmail.com)\n\nAccès voiture : En venant de la Route de Lennik (Citroën
+ ) ou de la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d
+ 'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre
+  la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du comp
+ lexe et des terrains se situe à +/- 500 m. sur la gauche.\n\nVérifiez to
+ ujours ces infos sur http://www.abssa.be/
+GEO:50.8087468;4.277603
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Lopez Sanchez M.";ROLE=Secrétaire:MAILTO:Mygsi87@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4A J22: WOKRASSE F.C. vs BOUSVAL GENAPPE (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260221T143000Z
+DTEND;VALUE=DATE-TIME:20260221T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_4A_22_656_401
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E08\n\nCouleur princi
+ pale équipe domicile: Bleu et Noir\nCouleur principale équipe exterieure
+ : Orange et bleu\n\nContact équipe domicile: Thisse F (0476.35.49.20 - fe
+ lix.thisse@gmail.com)\n\nAccès voiture : Le terrain se trouve derrière l
+ 'église St. Vincent\n\nVérifiez toujours ces infos sur http://www.abssa.
+ be/
+GEO:50.8803867;4.4003168
+LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue Stroobants 75\, 1140 Evere\,
   Belgique
-ORGANIZER;CN="Daumont J.";ROLE=Secrétaire:MAILTO:macapsules@gmail.com
+ORGANIZER;CN="Thisse F";ROLE=Secrétaire:MAILTO:felix.thisse@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J22: UNION FOXES CLUB vs RAYO LATINO
-DTSTART;VALUE=DATE-TIME:20250322T143000Z
-DTEND;VALUE=DATE-TIME:20250322T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_4A_22_669_572
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: O02\n\nCouleur princi
- pale équipe domicile: Orange et noir\nCouleur principale équipe exterieu
- re: Rouge et noir\n\nContact équipe domicile: Mizrahi D. (0476.03.37.84 -
-  daniel_mizrahi96@hotmail.com)\n\nAccès voiture : Ring RO\, sortie Ophain
- \, prendre la direction de Ophain Village\, jusqu'à l'église. Ensuite à
-  droite. Le terrain se trouve à 200 m. à gauche.\n\nVérifiez toujours c
- es infos sur http://www.abssa.be/
-GEO:50.6648369;4.3506513
-LOCATION:Rue de Lillois 19\, 1421 Ophain/Braine-l'Alleud\, Belgique
-ORGANIZER;CN="Mizrahi D.";ROLE=Secrétaire:MAILTO:daniel_mizrahi96@hotmail
- .com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J22: BRUSSELS LTC (Eq. 3) vs WINCHESTER F.C.
-DTSTART;VALUE=DATE-TIME:20250322T143000Z
-DTEND;VALUE=DATE-TIME:20250322T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_4A_22_39_653
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
- pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bl
- eu et blanc\n\nContact équipe domicile: Van Hacht O. (0475.96.43.03 - dan
- nyboffin@hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre le
-  Ring Est direction Waterloo. Sortir au pont de Groenendael\, direction La
-  Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, 
- toujours tout droit. Au feu de signalisation et le carrefour de La Hulpe\,
-  tout droit direction Genval. Au feu de signalisation prendre à gauche et
-  ensuite directement à droite\, l'avenue Soyer\, derrière le G.B. Le ter
- rain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.ab
- ssa.be/
-GEO:50.7308998;4.4944678
-LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:dannyboffin@hotmail.co
- m
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J22: EXTRANOS (LOS) vs MOUSSES TACHENT
-DTSTART;VALUE=DATE-TIME:20250322T143000Z
-DTEND;VALUE=DATE-TIME:20250322T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_4A_22_569_643
+SUMMARY:ABSSA D4A J22: BLUE THRILLS vs IRLANDE FC (Eq. 4)
+DTSTART;VALUE=DATE-TIME:20260221T143000Z
+DTEND;VALUE=DATE-TIME:20260221T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_4A_22_619_402
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: E04\n\nCouleur princi
- pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
- e: Bordeaux\n\nContact équipe domicile: Raposo P (0476.68.32.15 - losextr
- anos569@gmail.com)\n\nAccès voiture : De la Place Meiser\, remonter tous 
- les boulevards. Au carrefour de la Chaussée de Wavre\, prendre celle-ci 
- à droite\, ensuite la 2ème rue à droite (Rue Général Fivé)\, puis la
-  3ème à droite (rue Baron Dhanis).\n\nVérifiez toujours ces infos sur h
- ttp://www.abssa.be/
+ pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
+  Vert\n\nContact équipe domicile: De Briey A. (0479.858.374 - alexdebriey
+ @hotmail.fr)\n\nAccès voiture : De la Place Meiser\, remonter tous les bo
+ ulevards. Au carrefour de la Chaussée de Wavre\, prendre celle-ci à droi
+ te\, ensuite la 2ème rue à droite (Rue Général Fivé)\, puis la 3ème 
+ à droite (rue Baron Dhanis).\n\nVérifiez toujours ces infos sur http://w
+ ww.abssa.be/
 GEO:50.8287714;4.3975708
 LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
-ORGANIZER;CN="Raposo P";ROLE=Secrétaire:MAILTO:losextranos569@gmail.com
+ORGANIZER;CN="De Briey A.";ROLE=Secrétaire:MAILTO:alexdebriey@hotmail.fr
 END:VEVENT
 END:VCALENDAR

@@ -4,155 +4,141 @@ PRODID:abbsa_j_25_d_3d
 X-WR-CALDESC:Les matches de la journée 25 en divion 3D d'ABSSA.
 X-WR-CALNAME:D3D Journée 25
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J25: ETTEKIJS (Eq. 2) vs GERMINAL CSA
-DTSTART;VALUE=DATE-TIME:20241019T103000Z
-DTEND;VALUE=DATE-TIME:20241019T120000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183934Z
-UID:2024_3D_25_343_235
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
- pale équipe domicile: Noir rayé de blanc\nCouleur principale équipe ext
- erieure: Vert\n\nContact équipe domicile: Raes F. (0479.73.82.49 - freddy
- .raes@gmail.com)\n\nAccès voiture : A partir du square des Archiducs\, pr
- endre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez touj
+SUMMARY:ABSSA D3D J25: HIGGINS-PUMAS (Eq. 2) vs BXL ALLIANCE JETTE
+DTSTART;VALUE=DATE-TIME:20260314T113000Z
+DTEND;VALUE=DATE-TIME:20260314T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_3D_25_416_566
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
+ erieure: Vert\n\nContact équipe domicile: De Biolley Ph. (0477.23.31.25 -
+  philippe.debiolley@gmail.com)\n\nAccès voiture : En venant de Bruxelles 
+ par la chaussée de Wavre\, rejoindre le du début de l'autoroute Bruxelle
+ s-Namur\, utiliser la bande de droite pendant +/- 200 m. et descendre deva
+ nt le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (en desso
+ us de l'autoroute). Le terrain se trouve à 200 m. Le stade est fléché.\
+ n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.81071379999999;4.4432209
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="De Biolley Ph.";ROLE=Secrétaire:MAILTO:philippe.debiolley@g
+ mail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J25: NEW ARQUOIS FC (Eq. 2) vs TRINQUANT
+DTSTART;VALUE=DATE-TIME:20260314T113000Z
+DTEND;VALUE=DATE-TIME:20260314T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_3D_25_263_445
+DESCRIPTION:Terrain synthétique: non\nCode terrain: A12\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu m
+ arine\n\nContact équipe domicile: Beka J-M. (0495.25.31.25 - jmbeka73@gma
+ il.com)\n\nAccès voiture : Autoroute E 19 (Bruxelles-Charleroi)\, sortie 
+ Arquennes. Direction Seneffe-La-Louvière. A la station d'essence Total\, 
+ prendre à droite pendant +/- 700 mètres.\nAu rond point\, prendre à dro
+ ite en direction du château de La Rocq\, passez sous le pont\, le terrain
+  se trouve à 100 mètres (à proximité du cimetière).\n\nVérifiez touj
  ours ces infos sur http://www.abssa.be/
-GEO:50.80645209999999;4.4087184
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
+GEO:50.570014;4.272457699999999
+LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion 22\, 7181 Arquennes\
+ , Belgique
+ORGANIZER;CN="Beka J-M.";ROLE=Secrétaire:MAILTO:jmbeka73@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J25: IRLANDE FC (Eq. 4) vs RHINOCEROS
-DTSTART;VALUE=DATE-TIME:20241019T120000Z
-DTEND;VALUE=DATE-TIME:20241019T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183934Z
-UID:2024_3D_25_402_654
-DESCRIPTION:Terrain synthétique: non\nCode terrain: N04\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Jaune\
- n\nContact équipe domicile: Penouilh S. (0474.97.79.48 - fci.secretary.me
- ns@outlook.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à Nossegem
- \, au premier croisement prendre à gauche la \nMechelsesteenweg. Le terra
- in est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\
- , prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelseste
- enweg\, traverser la chaussée de Louvain\, et suivre comme ci-avant.\n\nV
- érifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.88776559999999;4.50894
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER;CN="Penouilh S.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@outl
- ook.com
+SUMMARY:ABSSA D3D J25: GAMBRINUS F.C. vs GERMINAL CSA
+DTSTART;VALUE=DATE-TIME:20260314T123000Z
+DTEND;VALUE=DATE-TIME:20260314T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_3D_25_645_235
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E10\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Vert\n
+ \nContact équipe domicile: Brismee M (0474.68.53.85 - fcgambrinusfc@gmail
+ .com)\n\nAccès voiture : Prendre la chaussée de Louvain\, Place Meiser\,
+  Place de Paduwa\, prendre ensuite la 2ème rue à droite\, l' Avenue des 
+ Communautés\, l'entrée au terrain est situé à 100 m.\n\nVérifiez touj
+ ours ces infos sur http://www.abssa.be/
+GEO:50.8586469;4.4204206
+LOCATION:Stade Communal G. Petre\, Rue G. de Lombaerde 55\, 1140 Evere\, B
+ elgique
+ORGANIZER;CN="Brismee M";ROLE=Secrétaire:MAILTO:fcgambrinusfc@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J25: CURTIS L'AUSELE vs RAPID MYMOL
-DTSTART;VALUE=DATE-TIME:20241019T120000Z
-DTEND;VALUE=DATE-TIME:20241019T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183934Z
-UID:2024_3D_25_599_622
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: I03\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
- et Jaune\n\nContact équipe domicile: Lambricht T. (0474.20.64.38 - thomas
- .lambricht@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre
-  l’E411 en direction de Namur et prendre la sortie 11 Perwez-Gembloux\, 
- prendre à droite vers Perwez sur la N29 jusqu’au rond-point de Glimes q
- ui croise la N91 (7km depuis l’E411). Sortir à la 3ème sortie sur la N
- 91 en\ndirection de Hamme-Mille. Prendre ensuite la 3ème rue à gauche et
-  le terrain se trouve directement sur la droite.\n\nVérifiez toujours ces
-  infos sur http://www.abssa.be/
-GEO:50.6849677;4.8070879
-LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
-ORGANIZER;CN="Lambricht T.";ROLE=Secrétaire:MAILTO:thomas.lambricht@gmail
+SUMMARY:ABSSA D3D J25: PICARDIE AS vs WATERMAEL FC
+DTSTART;VALUE=DATE-TIME:20260314T123000Z
+DTEND;VALUE=DATE-TIME:20260314T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_3D_25_63_611
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Coopmans R. (0474.42.47.29 - coopmans_roland@y
+ ahoo.fr)\n\nAccès voiture : En venant de Bruxelles\, emprunter la chauss
+ ée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit carre
+ four (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chaussée\, 
+ au deuxième feu de signalisation\, prendre à droite\, le terrain se trou
+ ve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur http://w
+ ww.abssa.be/
+GEO:50.6827211;4.3844421
+LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud\, Belgique
+ORGANIZER;CN="Coopmans R.";ROLE=Secrétaire:MAILTO:coopmans_roland@yahoo.f
+ r
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3D J25: UNION FOXES CLUB vs CELTIC ROOSTERS
+DTSTART;VALUE=DATE-TIME:20260314T133000Z
+DTEND;VALUE=DATE-TIME:20260314T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_3D_25_669_626
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O02\n\nCouleur princi
+ pale équipe domicile: Orange et noir\nCouleur principale équipe exterieu
+ re: Vert et blanc\n\nContact équipe domicile: Mizrahi D. (0476.03.37.84 -
+  daniel_mizrahi96@hotmail.com)\n\nAccès voiture : Ring RO\, sortie Ophain
+ \, prendre la direction de Ophain Village\, jusqu'à l'église. Ensuite à
+  droite. Le terrain se trouve à 200 m. à gauche.\n\nVérifiez toujours c
+ es infos sur http://www.abssa.be/
+GEO:50.6648369;4.3506513
+LOCATION:Rue de Lillois 19\, 1421 Ophain/Braine-l'Alleud\, Belgique
+ORGANIZER;CN="Mizrahi D.";ROLE=Secrétaire:MAILTO:daniel_mizrahi96@hotmail
  .com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J25: SYB  RFC vs MIDI AS
-DTSTART;VALUE=DATE-TIME:20241019T133000Z
-DTEND;VALUE=DATE-TIME:20241019T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183934Z
-UID:2024_3D_25_48_169
-DESCRIPTION:Terrain synthétique: non\nCode terrain: A09\n\nCouleur princi
- pale équipe domicile: Rayé Vert et blanc\nCouleur principale équipe ext
- erieure: Rouge\n\nContact équipe domicile: Vanhalst M (0495.86.17.84 - ma
- xvanhalst@hotmail.com)\n\nAccès voiture : En venant de la Route de Lennik
-  (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre la direction du ci
- metière d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-poi
- nt prendre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entr
- ée du complexe et des terrains se situe à +/- 500 m. sur la gauche.\n\nV
- érifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.8114295;4.2763934
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER;CN="Vanhalst M";ROLE=Secrétaire:MAILTO:maxvanhalst@hotmail.com
+SUMMARY:ABSSA D3D J25: FOSSIS (LES) CS vs INWENSSYS MOLDOVA
+DTSTART;VALUE=DATE-TIME:20260314T140000Z
+DTEND;VALUE=DATE-TIME:20260314T153000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_3D_25_217_671
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: M08\n\nCouleur princi
+ pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Orang
+ e\n\nContact équipe domicile: Desmedt O. (0495.27.08.87 - oli.desmedt@gma
+ il.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'autoroute E
+ 411 en direction de Namur. Prendre la sortie 9 Corroy-le-Grand vers Louvai
+ n-la-Neuve  Sud / Nivelles / E 19. Rejoindre Chemin de Grez. Au rond-point
+ \, prendre la 2ième sortie sur Grand'Route / N 4. Après 1\,8 km.et au pr
+ ochain feu\, tourner à droite Rue de Corbais. Continuer tout droit pendan
+ t 2 km. et prendre à droite Avenue du Cérisier. 70 m. plus loin\, vous t
+ rouverez le parking sur la droite.\n\nVérifiez toujours ces infos sur htt
+ p://www.abssa.be/
+GEO:50.64104589999999;4.618380999999999
+LOCATION:Guibert Sports Arena\, Avenue du Cérisiers 3\, 1435 Mont-Saint-G
+ uibert\, Belgique
+ORGANIZER;CN="Desmedt O.";ROLE=Secrétaire:MAILTO:oli.desmedt@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J25: FORESTOISE E.J. vs PICARDIE AS
-DTSTART;VALUE=DATE-TIME:20241019T133000Z
-DTEND;VALUE=DATE-TIME:20241019T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183934Z
-UID:2024_3D_25_623_63
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
- pale équipe domicile: Bleu Ciel\nCouleur principale équipe exterieure: B
- leu\n\nContact équipe domicile: El Yamani Y. (0474.75.75.02 - yahyaelyama
- ni96@gmail.com)\n\nAccès voiture : Au départ de la Place St. Denis à Fo
- rest prendre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4è
- me rue à droite) et dans la rue de la Soierie rouler env. 100 m. puis 1è
- re à gauche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'e
- ntrée du Complexe se trouve à hauteur de City Cart\, à gauche de la rou
- te.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER;CN="El Yamani Y.";ROLE=Secrétaire:MAILTO:yahyaelyamani96@gmail.
- com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J25: PATJES FC vs NEW INN FC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20241019T133000Z
-DTEND;VALUE=DATE-TIME:20241019T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183934Z
-UID:2024_3D_25_582_359
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
- pale équipe domicile: Rouge et blanc.\nCouleur principale équipe exterie
- ure: Noir et Jaune\n\nContact équipe domicile: Waucquez J-B (0472.08.73.9
- 0 - fcpatjes@outlook.com)\n\nAccès voiture : En venant de Bruxelles\, pre
- ndre l'autoroute E411 en direction de Namur\, prendre la sortie  Wavre (n
- ° 6)\, tenir la droite et au bout de la bretelle\, prendre la direction d
- 'Ottignies par la N238. Au 1èr feu de signalisation continuer tout droit 
- en passant devant Walibi (qui se trouve sur la gauche) jusqu'à la sortie 
- Limelette. Au bout de cette sortie\, en face du Tennis Club La Palestre\, 
- prendre à droite la rue Charles Dubois\, jusqu'au carrefour principal. Co
- ntinuer tout droit en traversant l'avenue Albert 1èr. Passer en dessous d
- u 1èr pont du chemin de fer et prendre la rue de l'Europe jusqu'à la pla
- ce de l'Europe. Traverser cette place par la droite. Au bout à gauche\, s
- uivre l'avenue Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (pann
- eau F.C. Limelette). Continuer cette rue et passer en dessous du 2ème pon
- t du chemin de fer. Après ce pont\, prendre tout de suite à gauche l'ave
- nue Demolder (panneau F.C. Limelette)\, en face de l'étang du Buston. Sui
- vre cette avenue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers
- . Après 50 m. dans cette rue\, prendre à droite l'avenue des Sorbiers (p
- anneau du F.C. Limelette). L'entrée du terrain est située 50 m. plus bas
-  sur la gauche.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.67628029999999;4.562802
-LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER;CN="Waucquez J-B";ROLE=Secrétaire:MAILTO:fcpatjes@outlook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J25: VOGELPIK FC. vs TRICOTEUSES FC.
-DTSTART;VALUE=DATE-TIME:20241019T133000Z
-DTEND;VALUE=DATE-TIME:20241019T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183934Z
-UID:2024_3D_25_629_617
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L08\n\nCouleur princi
- pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
- e: Bordeaux\n\nContact équipe domicile: Arnould J (0499.51.32.29 - vogelp
- ikfc@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Namur E411\, aprè
- s Wavre prendre la sortie Louvain-la-Neuve\, continuer sur la N4 direction
-  Namur\, au premier rond-point prendre à droite vers la N250 et suivre "B
- locry/Hocaille". Après le second rond-point\, prendre à droite\, au carr
- efour\, la rue de l'Invasion\, puis de nouveau à droite. L'entrée du ter
- rain ROS se trouve au bout de l'avenue.\n\nVérifiez toujours ces infos su
- r http://www.abssa.be/
-GEO:50.6706953;4.5975173
-LOCATION:Terrain Royal Ottignies Stimont (Ros)\, Avenue de Lauzelle\, 1348
-  Louvain-La-Neuve\, Belgique
-ORGANIZER;CN="Arnould J";ROLE=Secrétaire:MAILTO:vogelpikfc@gmail.com
+SUMMARY:ABSSA D3D J25: BLEU-BLANC (ENT)R. vs CENTRAL PARK FC
+DTSTART;VALUE=DATE-TIME:20260314T143000Z
+DTEND;VALUE=DATE-TIME:20260314T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_3D_25_53_562
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Bleu rayé de Blanc\nCouleur principale équipe ext
+ erieure: Bleu et Blanc\n\nContact équipe domicile: Mineur X. (0471.56.08.
+ 07 - josexavier.mineur@gmail.com)\n\nAccès voiture : Avenue de Tervuren\,
+  prendre l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez
+  toujours ces infos sur http://www.abssa.be/
+GEO:50.8333897;4.4384038
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Mineur X.";ROLE=Secrétaire:MAILTO:josexavier.mineur@gmail.c
+ om
 END:VEVENT
 END:VCALENDAR

@@ -4,496 +4,481 @@ PRODID:593_1_deaf_brussels_fc
 X-WR-CALDESC:Les matches du club DEAF BRUSSELS FC (equipe 1) en ABSSA.
 X-WR-CALNAME:ABSSA: DEAF BRUSSELS FC (eq. 1)
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J23: CENTRAL PARK FC (Eq. 2) vs DEAF BRUSSELS FC
-DTSTART;VALUE=DATE-TIME:20240831T120000Z
-DTEND;VALUE=DATE-TIME:20240831T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_23_562_593
+SUMMARY:ABSSA D5A J2: DEAF BRUSSELS FC vs WATERMAEL FC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20250906T133000Z
+DTEND;VALUE=DATE-TIME:20250906T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_5A_2_593_611
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Van Brandt S. (0494.24.34.05 (SMS) - deaf.brus
+ sels.2011@gmail.com)\n\nAccès voiture : Chaussée de Haecht\, vers Diegem
+ . Prendre la rue de la Paroisse à gauche\, puis prendre la rue Harenheyde
+  (à gauche) pour l'entrée du stade.\n\nVérifiez toujours ces infos sur 
+ http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/593_1_deaf_
+ brussels_fc
+GEO:50.8929668;4.4236193
+LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
+ORGANIZER;CN="Van Brandt S.";ROLE=Secrétaire:MAILTO:deaf.brussels.2011@gm
+ ail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J3: INWENSSYS MOLDOVA (Eq. 2) vs DEAF BRUSSELS FC
+DTSTART;VALUE=DATE-TIME:20250913T110000Z
+DTEND;VALUE=DATE-TIME:20250913T123000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_5A_3_671_593
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B13\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Noir
+ \n\nContact équipe domicile: Simion M. (0484.88.58.77 - simionmarius670@g
+ mail.com)\n\nAccès voiture : A partir du Ring de Bruxelles prendre la E 1
+ 9 direction Paris.\nQuitter le Ring par la sortie 19\, prendre à gauche s
+ ur Beerselsestraat\, après 900 m. prendre à gauche sur Lotsestraat\, apr
+ ès 400 m. continuer sur Puttestraat\, puis prendre à droite sur Hoogstra
+ at\, puis prendre à gauche sur Kerkveldstraat. Après prendre à droite s
+ ur Schoolstraat\, le terrain se trouve sur la droite.\n\nVérifiez toujour
+ s ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.
+ be/c/593_1_deaf_brussels_fc
+GEO:50.76680529999999;4.3142201
+LOCATION:Schoolstraat 46\, 1650 Beersel\, Belgique
+ORGANIZER;CN="Simion M.";ROLE=Secrétaire:MAILTO:simionmarius670@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J4: DEAF BRUSSELS FC vs BAYERN DE MONIQUE
+DTSTART;VALUE=DATE-TIME:20250920T133000Z
+DTEND;VALUE=DATE-TIME:20250920T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_5A_4_593_417
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge 
+ et blanc\n\nContact équipe domicile: Van Brandt S. (0494.24.34.05 (SMS) -
+  deaf.brussels.2011@gmail.com)\n\nAccès voiture : Chaussée de Haecht\, v
+ ers Diegem. Prendre la rue de la Paroisse à gauche\, puis prendre la rue 
+ Harenheyde (à gauche) pour l'entrée du stade.\n\nVérifiez toujours ces 
+ infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/5
+ 93_1_deaf_brussels_fc
+GEO:50.8929668;4.4236193
+LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
+ORGANIZER;CN="Van Brandt S.";ROLE=Secrétaire:MAILTO:deaf.brussels.2011@gm
+ ail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J5: ZIJP FC vs DEAF BRUSSELS FC
+DTSTART;VALUE=DATE-TIME:20250927T133000Z
+DTEND;VALUE=DATE-TIME:20250927T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_5A_5_646_593
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W16\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Perez Y Doeste E (0472.34.61.81 - fczijp@outlo
+ ok.com)\n\nAccès voiture : Ring RO\, afrit Wemmel-Merchtem (n° 9)\, rich
+ ting Merchtem volgen via de Is. Meyskensstraat tot aan de rotonde\, op de 
+ rotonde de 4de afslag nemen\, Diepstraat deze vloeit over in de Steenweg o
+ p Brussel\, 50 m. voorbij het eerste kruispunt met verkeerslichten\, links
+  van de steenweg\, bevindt zich het stadium (parking)\n\nVérifiez toujour
+ s ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.
+ be/c/593_1_deaf_brussels_fc
+GEO:50.90024;4.4859439
+LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
+  Wemmel\, Belgique
+ORGANIZER;CN="Perez Y Doeste E";ROLE=Secrétaire:MAILTO:fczijp@outlook.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J6: DEAF BRUSSELS FC vs GOALOIS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20251004T133000Z
+DTEND;VALUE=DATE-TIME:20251004T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_5A_6_593_345
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Blanc-
+ Noir\n\nContact équipe domicile: Van Brandt S. (0494.24.34.05 (SMS) - dea
+ f.brussels.2011@gmail.com)\n\nAccès voiture : Chaussée de Haecht\, vers 
+ Diegem. Prendre la rue de la Paroisse à gauche\, puis prendre la rue Hare
+ nheyde (à gauche) pour l'entrée du stade.\n\nVérifiez toujours ces info
+ s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/593_1
+ _deaf_brussels_fc
+GEO:50.8929668;4.4236193
+LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
+ORGANIZER;CN="Van Brandt S.";ROLE=Secrétaire:MAILTO:deaf.brussels.2011@gm
+ ail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J7: EQUIPAGE vs DEAF BRUSSELS FC
+DTSTART;VALUE=DATE-TIME:20251011T090000Z
+DTEND;VALUE=DATE-TIME:20251011T103000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_5A_7_681_593
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir\
+ n\nContact équipe domicile: De Meulenaere C. (0473.76.57.11 - equipagefc2
+ 4@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'autoro
+ ute E411 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir 
+ la droite et au bout de la bretelle\, prendre la direction d'Ottignies par
+  la N238. Au 1èr feu de signalisation continuer tout droit en passant dev
+ ant Walibi (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au 
+ bout de cette sortie\, en face du Tennis Club La Palestre\, prendre à dro
+ ite la rue Charles Dubois\, jusqu'au carrefour principal. Continuer tout d
+ roit en traversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du
+  chemin de fer et prendre la rue de l'Europe jusqu'à la place de l'Europe
+ . Traverser cette place par la droite. Au bout à gauche\, suivre l'avenue
+  Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limel
+ ette). Continuer cette rue et passer en dessous du 2ème pont du chemin de
+  fer. Après ce pont\, prendre tout de suite à gauche l'avenue Demolder (
+ panneau F.C. Limelette)\, en face de l'étang du Buston. Suivre cette aven
+ ue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m.
+  dans cette rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C.
+  Limelette). L'entrée du terrain est située 50 m. plus bas sur la gauche
+ .\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calab
+ ssa: https://calabssa.be/c/593_1_deaf_brussels_fc
+GEO:50.67628029999999;4.562802
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="De Meulenaere C.";ROLE=Secrétaire:MAILTO:equipagefc24@gmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J8: DEAF BRUSSELS FC vs KARIA FC
+DTSTART;VALUE=DATE-TIME:20251018T133000Z
+DTEND;VALUE=DATE-TIME:20251018T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_5A_8_593_498
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Van Brandt S. (0494.24.34.05 (SMS) - deaf.brus
+ sels.2011@gmail.com)\n\nAccès voiture : Chaussée de Haecht\, vers Diegem
+ . Prendre la rue de la Paroisse à gauche\, puis prendre la rue Harenheyde
+  (à gauche) pour l'entrée du stade.\n\nVérifiez toujours ces infos sur 
+ http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/593_1_deaf_
+ brussels_fc
+GEO:50.8929668;4.4236193
+LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
+ORGANIZER;CN="Van Brandt S.";ROLE=Secrétaire:MAILTO:deaf.brussels.2011@gm
+ ail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J9: ELAN EVERE RAC vs DEAF BRUSSELS FC
+DTSTART;VALUE=DATE-TIME:20251025T120000Z
+DTEND;VALUE=DATE-TIME:20251025T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_5A_9_7_593
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E08\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Noir\
+ n\nContact équipe domicile: Dubois J-J. (0486.47.10.49 - jjdubois58@gmail
+ .com)\n\nAccès voiture : Le terrain se trouve derrière l'église St. Vin
+ cent\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur ca
+ labssa: https://calabssa.be/c/593_1_deaf_brussels_fc
+GEO:50.8803867;4.4003168
+LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue Stroobants 75\, 1140 Evere\,
+  Belgique
+ORGANIZER;CN="Dubois J-J.";ROLE=Secrétaire:MAILTO:jjdubois58@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J10: DEAF BRUSSELS FC vs SAINT GEORGES RCS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20251108T143000Z
+DTEND;VALUE=DATE-TIME:20251108T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_5A_10_593_221
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Van Brandt S. (0494.24.34.05 (SMS) - deaf.bru
+ ssels.2011@gmail.com)\n\nAccès voiture : Chaussée de Haecht\, vers Diege
+ m. Prendre la rue de la Paroisse à gauche\, puis prendre la rue Harenheyd
+ e (à gauche) pour l'entrée du stade.\n\nVérifiez toujours ces infos sur
+  http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/593_1_deaf
+ _brussels_fc
+GEO:50.8929668;4.4236193
+LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
+ORGANIZER;CN="Van Brandt S.";ROLE=Secrétaire:MAILTO:deaf.brussels.2011@gm
+ ail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J11: DEAF BRUSSELS FC vs BLUE OTTERS F.C.
+DTSTART;VALUE=DATE-TIME:20251115T143000Z
+DTEND;VALUE=DATE-TIME:20251115T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_5A_11_593_668
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Van Brandt S. (0494.24.34.05 (SMS) - deaf.brus
+ sels.2011@gmail.com)\n\nAccès voiture : Chaussée de Haecht\, vers Diegem
+ . Prendre la rue de la Paroisse à gauche\, puis prendre la rue Harenheyde
+  (à gauche) pour l'entrée du stade.\n\nVérifiez toujours ces infos sur 
+ http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/593_1_deaf_
+ brussels_fc
+GEO:50.8929668;4.4236193
+LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
+ORGANIZER;CN="Van Brandt S.";ROLE=Secrétaire:MAILTO:deaf.brussels.2011@gm
+ ail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J12: CHEVERNY SCHAERB vs DEAF BRUSSELS FC
+DTSTART;VALUE=DATE-TIME:20251122T130000Z
+DTEND;VALUE=DATE-TIME:20251122T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_5A_12_128_593
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Jaune & Noir\nCouleur principale équipe exterieure
+ : Noir\n\nContact équipe domicile: Bex V (0476.92.58.43 - vincentbex@gmai
+ l.com)\n\nAccès voiture : Direction cimetière de Jette\, ensuite prendre
+  la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Cr
+ ocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur h
+ ttp://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/593_1_deaf_b
+ russels_fc
+GEO:50.88794619999999;4.3264137
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
+ Belgique
+ORGANIZER;CN="Bex V";ROLE=Secrétaire:MAILTO:vincentbex@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J13: DEAF BRUSSELS FC vs OMNISPORT BIERGHES
+DTSTART;VALUE=DATE-TIME:20251129T143000Z
+DTEND;VALUE=DATE-TIME:20251129T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_5A_13_593_455
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Van Brandt S. (0494.24.34.05 (SMS) - deaf.brus
+ sels.2011@gmail.com)\n\nAccès voiture : Chaussée de Haecht\, vers Diegem
+ . Prendre la rue de la Paroisse à gauche\, puis prendre la rue Harenheyde
+  (à gauche) pour l'entrée du stade.\n\nVérifiez toujours ces infos sur 
+ http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/593_1_deaf_
+ brussels_fc
+GEO:50.8929668;4.4236193
+LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
+ORGANIZER;CN="Van Brandt S.";ROLE=Secrétaire:MAILTO:deaf.brussels.2011@gm
+ ail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J15: WATERMAEL FC (Eq. 3) vs DEAF BRUSSELS FC
+DTSTART;VALUE=DATE-TIME:20251213T113000Z
+DTEND;VALUE=DATE-TIME:20251213T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_5A_15_611_593
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Deschamps J. (0477.67.76.37 - jul_desch@hotmai
+ l.com)\n\nAccès voiture : A partir du square des Archiducs\, prendre la r
+ ue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez toujours ces i
+ nfos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/59
+ 3_1_deaf_brussels_fc
+GEO:50.80645209999999;4.4087184
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J16: DEAF BRUSSELS FC vs INWENSSYS MOLDOVA (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260110T143000Z
+DTEND;VALUE=DATE-TIME:20260110T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_5A_16_593_671
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Orange
+ \n\nContact équipe domicile: Van Brandt S. (0494.24.34.05 (SMS) - deaf.br
+ ussels.2011@gmail.com)\n\nAccès voiture : Chaussée de Haecht\, vers Dieg
+ em. Prendre la rue de la Paroisse à gauche\, puis prendre la rue Harenhey
+ de (à gauche) pour l'entrée du stade.\n\nVérifiez toujours ces infos su
+ r http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/593_1_dea
+ f_brussels_fc
+GEO:50.8929668;4.4236193
+LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
+ORGANIZER;CN="Van Brandt S.";ROLE=Secrétaire:MAILTO:deaf.brussels.2011@gm
+ ail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J17: BAYERN DE MONIQUE vs DEAF BRUSSELS FC
+DTSTART;VALUE=DATE-TIME:20260117T140000Z
+DTEND;VALUE=DATE-TIME:20260117T153000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_5A_17_417_593
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B03\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
+ re: Noir\n\nContact équipe domicile: Naud C (0485.82.95.67 - ascornoi@liv
+ e.fr)\n\nAccès voiture : En venant de Bruxelles\, emprunter la chaussée 
+ de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit carrefour
+  (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chaussée\, au d
+ euxième feu de signalisation\, prendre à droite\, le terrain se trouve 
+ à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur http://www.
+ abssa.be/\nVoir sur calabssa: https://calabssa.be/c/593_1_deaf_brussels_fc
+GEO:50.6827211;4.3844421
+LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud\, Belgique
+ORGANIZER;CN="Naud C";ROLE=Secrétaire:MAILTO:ascornoi@live.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J18: DEAF BRUSSELS FC vs ZIJP FC
+DTSTART;VALUE=DATE-TIME:20260124T143000Z
+DTEND;VALUE=DATE-TIME:20260124T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_5A_18_593_646
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Van Brandt S. (0494.24.34.05 (SMS) - deaf.brus
+ sels.2011@gmail.com)\n\nAccès voiture : Chaussée de Haecht\, vers Diegem
+ . Prendre la rue de la Paroisse à gauche\, puis prendre la rue Harenheyde
+  (à gauche) pour l'entrée du stade.\n\nVérifiez toujours ces infos sur 
+ http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/593_1_deaf_
+ brussels_fc
+GEO:50.8929668;4.4236193
+LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
+ORGANIZER;CN="Van Brandt S.";ROLE=Secrétaire:MAILTO:deaf.brussels.2011@gm
+ ail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J19: GOALOIS (Eq. 3) vs DEAF BRUSSELS FC
+DTSTART;VALUE=DATE-TIME:20260131T130000Z
+DTEND;VALUE=DATE-TIME:20260131T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_5A_19_345_593
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Ve
- rt et noir\n\nContact équipe domicile: Genot F. (0473.57.28.61 - genotflo
- rian@hotmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la 
- rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 
- 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours c
- es infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/
- c/593_1_deaf_brussels_fc
+ pale équipe domicile: Blanc-Noir\nCouleur principale équipe exterieure: 
+ Noir\n\nContact équipe domicile: Laruelle M. (0494.52.09.71 - martin.laru
+ elle@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la ru
+ e Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28
+ ). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ces
+  infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/
+ 593_1_deaf_brussels_fc
 GEO:50.8423054;4.445628699999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
-ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
+ORGANIZER;CN="Laruelle M.";ROLE=Secrétaire:MAILTO:martin.laruelle@gmail.c
+ om
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J1: DEAF BRUSSELS FC vs KARIA FC
-DTSTART;VALUE=DATE-TIME:20240907T133000Z
-DTEND;VALUE=DATE-TIME:20240907T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_1_593_498
+SUMMARY:ABSSA D5A J20: DEAF BRUSSELS FC vs EQUIPAGE
+DTSTART;VALUE=DATE-TIME:20260207T143000Z
+DTEND;VALUE=DATE-TIME:20260207T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_5A_20_593_681
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
- pale équipe domicile: Vert et noir\nCouleur principale équipe exterieure
- : Noir\n\nContact équipe domicile: Van Brandt S. (0494.24.34.05 (SMS) - d
- eaf.brussels.2011@gmail.com)\n\nAccès voiture : Chaussée de Haecht\, ver
- s Diegem. Prendre la rue Harenheyde à gauche\, juste au feu de signalisat
- ion\, après la station "JET"\, situé à gauche. Entrée du stade par la 
- rue Harenheyde\, 100 m. au-delà du pont du chemin de fer.\n\nVérifiez to
- ujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cala
- bssa.be/c/593_1_deaf_brussels_fc
-GEO:50.8928227;4.425372
-LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
-ORGANIZER;CN="Van Brandt S.";ROLE=Secrétaire:MAILTO:deaf.brussels.2011@gm
- ail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J2: BRUSSELS LIONS vs DEAF BRUSSELS FC
-DTSTART;VALUE=DATE-TIME:20240914T103000Z
-DTEND;VALUE=DATE-TIME:20240914T120000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_2_682_593
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
- pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: V
- ert et noir\n\nContact équipe domicile: El Halimi A. (0488.95.55.05 - bru
- sselslionsfc@hotmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme
- \, après 300 m. en direction de Lennik\, prendre à droite.\nVenant de la
-  chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place
-  Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 40
- 0 m. en direction de Lennik.\n\nVérifiez toujours ces infos sur http://ww
- w.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/593_1_deaf_brussels_
- fc
-GEO:50.8177358;4.2557195
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER;CN="El Halimi A.";ROLE=Secrétaire:MAILTO:brusselslionsfc@hotmai
- l.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J3: DEAF BRUSSELS FC vs CLAUDY F.C.
-DTSTART;VALUE=DATE-TIME:20240921T133000Z
-DTEND;VALUE=DATE-TIME:20240921T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_3_593_678
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
- pale équipe domicile: Vert et noir\nCouleur principale équipe exterieure
- : Noir\n\nContact équipe domicile: Van Brandt S. (0494.24.34.05 (SMS) - d
- eaf.brussels.2011@gmail.com)\n\nAccès voiture : Chaussée de Haecht\, ver
- s Diegem. Prendre la rue Harenheyde à gauche\, juste au feu de signalisat
- ion\, après la station "JET"\, situé à gauche. Entrée du stade par la 
- rue Harenheyde\, 100 m. au-delà du pont du chemin de fer.\n\nVérifiez to
- ujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cala
- bssa.be/c/593_1_deaf_brussels_fc
-GEO:50.8928227;4.425372
-LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
-ORGANIZER;CN="Van Brandt S.";ROLE=Secrétaire:MAILTO:deaf.brussels.2011@gm
- ail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J4: MILAN MIRAPIDE AC vs DEAF BRUSSELS FC
-DTSTART;VALUE=DATE-TIME:20240928T133000Z
-DTEND;VALUE=DATE-TIME:20240928T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_4_680_593
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: C02\n\nCouleur princi
- pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Ve
- rt et noir\n\nContact équipe domicile: Dubois B. (0498.46.80.76 - brieucd
- ub@gmail.com)\n\nAccès voiture : Ring ouest: Direction Waterloo\, prendre
-  la sortie "butte du lion" \, prendre à droite\, puis au feu rouge prendr
- e à droite\, rouler jusque Genappe et prendre la RN 25 en direction de Wa
- vre\, prendre la deuxième sortie (Court St. Etienne) et prendre à gauche
- \, le terrain se trouve à 1 km. a main droite.\nPar la E411: Prendre la E
- 411 direction Namur\, ensuite sortir a Wavre\, prendre ensuite la sortie V
- illers-La-Ville\, ensuite à droite puis directement à gauche a l'arbre e
- t descendre jusque dans le fond\, prendre a droite et le terrain se trouve
-  à 500 m. a main gauche.\n\nVérifiez toujours ces infos sur http://www.a
- bssa.be/\nVoir sur calabssa: https://calabssa.be/c/593_1_deaf_brussels_fc
-GEO:50.6417231;4.5547061
-LOCATION:Avenue des Combattants\, 1490 Court St. Etienne\, Belgique
-ORGANIZER;CN="Dubois B.";ROLE=Secrétaire:MAILTO:brieucdub@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J5: BRUSSELS LTC (Eq. 5) vs DEAF BRUSSELS FC
-DTSTART;VALUE=DATE-TIME:20241005T120000Z
-DTEND;VALUE=DATE-TIME:20241005T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_5_39_593
-DESCRIPTION:Terrain synthétique: non\nCode terrain: R03\n\nCouleur princi
- pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Ve
- rt et noir\n\nContact équipe domicile: Van Hacht O. (0475.96.43.03 - dann
- yboffin@hotmail.com)\n\nAccès voiture : Par la E411 Bruxelles-Namur\, pre
- ndre la sortie n° 5 (Wavre Nord\, Rixensart\, Bierges).\nEnsuite prendre 
- la N257 pendant 700 mètres jusqu'au rond-point\, prendre la rue de l'Etoi
- le et ensuite la rue de Mérode jusqu'à Rixensart. Après 900 mètres\, 
- à la Place de la Perche\, prendre à droite l'avenue de la Paix et encore
-  à droite l'avenue Clermont Tonnerre.\n\nVérifiez toujours ces infos sur
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Van Brandt S. (0494.24.34.05 (SMS) - deaf.bru
+ ssels.2011@gmail.com)\n\nAccès voiture : Chaussée de Haecht\, vers Diege
+ m. Prendre la rue de la Paroisse à gauche\, puis prendre la rue Harenheyd
+ e (à gauche) pour l'entrée du stade.\n\nVérifiez toujours ces infos sur
   http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/593_1_deaf
  _brussels_fc
-GEO:50.7128483;4.5376972
-LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
- 30 Rixensart\, Belgique
-ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:dannyboffin@hotmail.co
- m
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J6: DEAF BRUSSELS FC vs FOOT FRITESTYLE
-DTSTART;VALUE=DATE-TIME:20241012T133000Z
-DTEND;VALUE=DATE-TIME:20241012T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_6_593_679
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
- pale équipe domicile: Vert et noir\nCouleur principale équipe exterieure
- : Vert / noir\n\nContact équipe domicile: Van Brandt S. (0494.24.34.05 (S
- MS) - deaf.brussels.2011@gmail.com)\n\nAccès voiture : Chaussée de Haech
- t\, vers Diegem. Prendre la rue Harenheyde à gauche\, juste au feu de sig
- nalisation\, après la station "JET"\, situé à gauche. Entrée du stade 
- par la rue Harenheyde\, 100 m. au-delà du pont du chemin de fer.\n\nVéri
- fiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https
- ://calabssa.be/c/593_1_deaf_brussels_fc
-GEO:50.8928227;4.425372
+GEO:50.8929668;4.4236193
 LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
 ORGANIZER;CN="Van Brandt S.";ROLE=Secrétaire:MAILTO:deaf.brussels.2011@gm
  ail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J25: SAINT GEORGES RCS (Eq. 3) vs DEAF BRUSSELS FC
-DTSTART;VALUE=DATE-TIME:20241019T133000Z
-DTEND;VALUE=DATE-TIME:20241019T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_25_221_593
+SUMMARY:ABSSA D5A J21: KARIA FC vs DEAF BRUSSELS FC
+DTSTART;VALUE=DATE-TIME:20260214T143000Z
+DTEND;VALUE=DATE-TIME:20260214T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_5A_21_498_593
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Bercha  M (0477.69.27.28 - mohamedbercha@hotma
+ il.fr)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\, vers N
+ eder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-p
+ oint\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Ve
+ rt\, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://www.abss
+ a.be/\nVoir sur calabssa: https://calabssa.be/c/593_1_deaf_brussels_fc
+GEO:50.8996;4.393737199999999
+LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
+ORGANIZER;CN="Bercha  M";ROLE=Secrétaire:MAILTO:mohamedbercha@hotmail.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J22: DEAF BRUSSELS FC vs ELAN EVERE RAC
+DTSTART;VALUE=DATE-TIME:20260221T143000Z
+DTEND;VALUE=DATE-TIME:20260221T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_5A_22_593_7
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge\
+ n\nContact équipe domicile: Van Brandt S. (0494.24.34.05 (SMS) - deaf.bru
+ ssels.2011@gmail.com)\n\nAccès voiture : Chaussée de Haecht\, vers Diege
+ m. Prendre la rue de la Paroisse à gauche\, puis prendre la rue Harenheyd
+ e (à gauche) pour l'entrée du stade.\n\nVérifiez toujours ces infos sur
+  http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/593_1_deaf
+ _brussels_fc
+GEO:50.8929668;4.4236193
+LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
+ORGANIZER;CN="Van Brandt S.";ROLE=Secrétaire:MAILTO:deaf.brussels.2011@gm
+ ail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J23: SAINT GEORGES RCS (Eq. 3) vs DEAF BRUSSELS FC
+DTSTART;VALUE=DATE-TIME:20260228T143000Z
+DTEND;VALUE=DATE-TIME:20260228T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_5A_23_221_593
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W13\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Vert 
- et noir\n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.des
- tin@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue
-  Voot\, puis la chaussée de Stockel. Passer en dessous du petit pont et c
- ontinuer la chaussée de Stockel pendant env. 500 m. Le terrain est situé
-  sur la droite de la chaussée.\n\nVérifiez toujours ces infos sur http:/
- /www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/593_1_deaf_brusse
- ls_fc
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir\
+ n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.destin@gmai
+ l.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, 
+ puis la chaussée de Stockel. Passer en dessous du petit pont et continuer
+  la chaussée de Stockel pendant env. 500 m. Le terrain est situé sur la 
+ droite de la chaussée.\n\nVérifiez toujours ces infos sur http://www.abs
+ sa.be/\nVoir sur calabssa: https://calabssa.be/c/593_1_deaf_brussels_fc
 GEO:50.8417148;4.4547744
 LOCATION:Chaussée de Stockel 376\, 1150 Woluwé-Saint-Pierre\, Belgique
 ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J26: DEAF BRUSSELS FC vs CELTIC FORESTOIS
-DTSTART;VALUE=DATE-TIME:20241026T133000Z
-DTEND;VALUE=DATE-TIME:20241026T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_26_593_330
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
- pale équipe domicile: Vert et noir\nCouleur principale équipe exterieure
- : Vert et  blanc\n\nContact équipe domicile: Van Brandt S. (0494.24.34.05
-  (SMS) - deaf.brussels.2011@gmail.com)\n\nAccès voiture : Chaussée de Ha
- echt\, vers Diegem. Prendre la rue Harenheyde à gauche\, juste au feu de 
- signalisation\, après la station "JET"\, situé à gauche. Entrée du sta
- de par la rue Harenheyde\, 100 m. au-delà du pont du chemin de fer.\n\nV
- érifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: h
- ttps://calabssa.be/c/593_1_deaf_brussels_fc
-GEO:50.8928227;4.425372
-LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
-ORGANIZER;CN="Van Brandt S.";ROLE=Secrétaire:MAILTO:deaf.brussels.2011@gm
- ail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J7: UNION BRUXELLOISE vs DEAF BRUSSELS FC
-DTSTART;VALUE=DATE-TIME:20241102T113000Z
-DTEND;VALUE=DATE-TIME:20241102T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_7_655_593
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
- pale équipe domicile: Noir/ Bleu\nCouleur principale équipe exterieure: 
- Vert et noir\n\nContact équipe domicile: Herinckx C. (0472.83.06.56 - uni
- on.bruxelloise@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, par
-  l'autoroute Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, p
- asser sous le pont de l'autoroute et prendre la direction de Nivelles. A 2
- 00 m.\, au rond-point (Shopping Center)\, tourner à droite en direction d
- e Wavre (petit ring de Nivelles).\nAu 4ème rond-point (en tenant compte d
- u rond-point du Shopping Center)\, tourner à gauche \, rue de l'Industrie
-  et pénétrer dans le zoning. Au bout de la rue\, avant le feu de signali
- sation\, tourner à gauche et prendre la rue du Progrès pendant +/- 400 m
- .\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calab
- ssa: https://calabssa.be/c/593_1_deaf_brussels_fc
-GEO:50.5963705;4.3564539
-LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER;CN="Herinckx C.";ROLE=Secrétaire:MAILTO:union.bruxelloise@gmail
- .com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J9: PIRATE S.C. vs DEAF BRUSSELS FC
-DTSTART;VALUE=DATE-TIME:20241116T143000Z
-DTEND;VALUE=DATE-TIME:20241116T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_9_670_593
-DESCRIPTION:Terrain synthétique: non\nCode terrain: L11\n\nCouleur princi
- pale équipe domicile: Noir / doré\nCouleur principale équipe exterieure
- : Vert et noir\n\nContact équipe domicile: Gulbakan I. (0486.20.99.11 - i
- lhangulbakan@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Namu
- r / Luxembourg\, prendre la sortie n° 6 Wavre\, vers N238. Tourner à dro
- ite sur Boulevard de l'Europe/N238 sur 200 m. Prendre à droite sur Rue de
-  la Wastinne. Ensuite\, aprèsle passage à niveau\, prendre à gauche sur
-  Rue Provinciale/N239. Les terrains se trouvent sur la gauche de la route 
- en contre-bas (facilement visible de la route).\n\nVérifiez toujours ces 
- infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/5
- 93_1_deaf_brussels_fc
-GEO:50.7007516;4.582180999999999
-LOCATION:Charles Jaumotte 156\, 1300 Wavre (Limal)\, Belgique
-ORGANIZER;CN="Gulbakan I.";ROLE=Secrétaire:MAILTO:ilhangulbakan@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J12: DEAF BRUSSELS FC vs SAINT GEORGES RCS (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20241123T143000Z
-DTEND;VALUE=DATE-TIME:20241123T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_12_593_221
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
- pale équipe domicile: Vert et noir\nCouleur principale équipe exterieure
- : Blanc\n\nContact équipe domicile: Van Brandt S. (0494.24.34.05 (SMS) - 
- deaf.brussels.2011@gmail.com)\n\nAccès voiture : Chaussée de Haecht\, ve
- rs Diegem. Prendre la rue Harenheyde à gauche\, juste au feu de signalisa
- tion\, après la station "JET"\, situé à gauche. Entrée du stade par la
-  rue Harenheyde\, 100 m. au-delà du pont du chemin de fer.\n\nVérifiez t
- oujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cal
- abssa.be/c/593_1_deaf_brussels_fc
-GEO:50.8928227;4.425372
-LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
-ORGANIZER;CN="Van Brandt S.";ROLE=Secrétaire:MAILTO:deaf.brussels.2011@gm
- ail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J11: CHIEFS WSL (Eq. 3) vs DEAF BRUSSELS FC
-DTSTART;VALUE=DATE-TIME:20241130T113000Z
-DTEND;VALUE=DATE-TIME:20241130T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_11_303_593
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Vert 
- et noir\n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan.
- be)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, pui
- s la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce 
- pont le terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur h
- ttp://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/593_1_deaf_b
- russels_fc
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J10: DEAF BRUSSELS FC vs CENTRAL PARK FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20241207T143000Z
-DTEND;VALUE=DATE-TIME:20241207T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_10_593_562
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
- pale équipe domicile: Vert et noir\nCouleur principale équipe exterieure
- : Bordeaux\n\nContact équipe domicile: Van Brandt S. (0494.24.34.05 (SMS)
-  - deaf.brussels.2011@gmail.com)\n\nAccès voiture : Chaussée de Haecht\,
-  vers Diegem. Prendre la rue Harenheyde à gauche\, juste au feu de signal
- isation\, après la station "JET"\, situé à gauche. Entrée du stade par
-  la rue Harenheyde\, 100 m. au-delà du pont du chemin de fer.\n\nVérifie
- z toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://
- calabssa.be/c/593_1_deaf_brussels_fc
-GEO:50.8928227;4.425372
-LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
-ORGANIZER;CN="Van Brandt S.";ROLE=Secrétaire:MAILTO:deaf.brussels.2011@gm
- ail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J13: CELTIC FORESTOIS vs DEAF BRUSSELS FC
-DTSTART;VALUE=DATE-TIME:20241214T130000Z
-DTEND;VALUE=DATE-TIME:20241214T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_13_330_593
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
- pale équipe domicile: Vert et  blanc\nCouleur principale équipe exterieu
- re: Vert et noir\n\nContact équipe domicile: Ceuster J (0472.52.87.14 - c
- euster-jeremy@hotmail.be)\n\nAccès voiture : Au départ de la Place St. D
- enis à Forest prendre la chaussée de Neerstalle jusqu'à la rue de la So
- ierie (4ème rue à droite) et dans la rue de la Soierie rouler env. 100 m
- . puis 1ère à gauche (Bld. de la 2ème Armée Britannique) pendant env. 
- 500 m. L'entrée du Complexe se trouve à hauteur de City Cart\, à gauche
-  de la route.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVo
- ir sur calabssa: https://calabssa.be/c/593_1_deaf_brussels_fc
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER;CN="Ceuster J";ROLE=Secrétaire:MAILTO:ceuster-jeremy@hotmail.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J14: KARIA FC vs DEAF BRUSSELS FC
-DTSTART;VALUE=DATE-TIME:20250111T143000Z
-DTEND;VALUE=DATE-TIME:20250111T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_5C_14_498_593
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Vert e
- t noir\n\nContact équipe domicile: Bercha  M (0477.69.27.28 - mohamedberc
- ha@hotmail.fr)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\
- , vers Neder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'a
- u rond-point\, tout droit Chemin Vert\, puis première à gauche\, Petit C
- hemin Vert\, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://
- www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/593_1_deaf_brussel
- s_fc
-GEO:50.89983369999999;4.3936101
-LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
-ORGANIZER;CN="Bercha  M";ROLE=Secrétaire:MAILTO:mohamedbercha@hotmail.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J15: DEAF BRUSSELS FC vs BRUSSELS LIONS
-DTSTART;VALUE=DATE-TIME:20250118T143000Z
-DTEND;VALUE=DATE-TIME:20250118T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_5C_15_593_682
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
- pale équipe domicile: Vert et noir\nCouleur principale équipe exterieure
- : Bleu ciel\n\nContact équipe domicile: Van Brandt S. (0494.24.34.05 (SMS
- ) - deaf.brussels.2011@gmail.com)\n\nAccès voiture : Chaussée de Haecht\
- , vers Diegem. Prendre la rue Harenheyde à gauche\, juste au feu de signa
- lisation\, après la station "JET"\, situé à gauche. Entrée du stade pa
- r la rue Harenheyde\, 100 m. au-delà du pont du chemin de fer.\n\nVérifi
- ez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:/
- /calabssa.be/c/593_1_deaf_brussels_fc
-GEO:50.8928227;4.425372
-LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
-ORGANIZER;CN="Van Brandt S.";ROLE=Secrétaire:MAILTO:deaf.brussels.2011@gm
- ail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J16: CLAUDY F.C. vs DEAF BRUSSELS FC
-DTSTART;VALUE=DATE-TIME:20250125T113000Z
-DTEND;VALUE=DATE-TIME:20250125T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_5C_16_678_593
-DESCRIPTION:Terrain synthétique: non\nCode terrain: N04\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Vert e
- t noir\n\nContact équipe domicile: De Spirlet R. (0470.43.29.45 - rod.de.
- spirlet@gmail.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à Nosse
- gem\, au premier croisement prendre à gauche la \nMechelsesteenweg. Le te
- rrain est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liè
- ge\, prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelse
- steenweg\, traverser la chaussée de Louvain\, et suivre comme ci-avant.\n
- \nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa
- : https://calabssa.be/c/593_1_deaf_brussels_fc
-GEO:50.88776559999999;4.50894
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER;CN="De Spirlet R.";ROLE=Secrétaire:MAILTO:rod.de.spirlet@gmail.
- com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J17: DEAF BRUSSELS FC vs MILAN MIRAPIDE AC
-DTSTART;VALUE=DATE-TIME:20250201T143000Z
-DTEND;VALUE=DATE-TIME:20250201T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_5C_17_593_680
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
- pale équipe domicile: Vert et noir\nCouleur principale équipe exterieure
- : Bordeaux\n\nContact équipe domicile: Van Brandt S. (0494.24.34.05 (SMS)
-  - deaf.brussels.2011@gmail.com)\n\nAccès voiture : Chaussée de Haecht\,
-  vers Diegem. Prendre la rue Harenheyde à gauche\, juste au feu de signal
- isation\, après la station "JET"\, situé à gauche. Entrée du stade par
-  la rue Harenheyde\, 100 m. au-delà du pont du chemin de fer.\n\nVérifie
- z toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://
- calabssa.be/c/593_1_deaf_brussels_fc
-GEO:50.8928227;4.425372
-LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
-ORGANIZER;CN="Van Brandt S.";ROLE=Secrétaire:MAILTO:deaf.brussels.2011@gm
- ail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J18: DEAF BRUSSELS FC vs BRUSSELS LTC (Eq. 5)
-DTSTART;VALUE=DATE-TIME:20250208T143000Z
-DTEND;VALUE=DATE-TIME:20250208T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_5C_18_593_39
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
- pale équipe domicile: Vert et noir\nCouleur principale équipe exterieure
- : Bordeaux\n\nContact équipe domicile: Van Brandt S. (0494.24.34.05 (SMS)
-  - deaf.brussels.2011@gmail.com)\n\nAccès voiture : Chaussée de Haecht\,
-  vers Diegem. Prendre la rue Harenheyde à gauche\, juste au feu de signal
- isation\, après la station "JET"\, situé à gauche. Entrée du stade par
-  la rue Harenheyde\, 100 m. au-delà du pont du chemin de fer.\n\nVérifie
- z toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://
- calabssa.be/c/593_1_deaf_brussels_fc
-GEO:50.8928227;4.425372
-LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
-ORGANIZER;CN="Van Brandt S.";ROLE=Secrétaire:MAILTO:deaf.brussels.2011@gm
- ail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J19: FOOT FRITESTYLE vs DEAF BRUSSELS FC
-DTSTART;VALUE=DATE-TIME:20250215T130000Z
-DTEND;VALUE=DATE-TIME:20250215T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_5C_19_679_593
-DESCRIPTION:Terrain synthétique: non\nCode terrain: L11\n\nCouleur princi
- pale équipe domicile: Vert / noir\nCouleur principale équipe exterieure:
-  Vert et noir\n\nContact équipe domicile: Deformanoir O. (0473.62.46.25 -
-  darkotfc@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Namur /
-  Luxembourg\, prendre la sortie n° 6 Wavre\, vers N238. Tourner à droite
-  sur Boulevard de l'Europe/N238 sur 200 m. Prendre à droite sur Rue de la
-  Wastinne. Ensuite\, aprèsle passage à niveau\, prendre à gauche sur Ru
- e Provinciale/N239. Les terrains se trouvent sur la gauche de la route en 
- contre-bas (facilement visible de la route).\n\nVérifiez toujours ces inf
+SUMMARY:ABSSA D5A J24: BLUE OTTERS F.C. vs DEAF BRUSSELS FC
+DTSTART;VALUE=DATE-TIME:20260307T113000Z
+DTEND;VALUE=DATE-TIME:20260307T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_5A_24_668_593
+DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: De Crombrugghe A. (0491.63.38.39 - amaurydecro
+ m@yahoo.com)\n\nAccès voiture : Au départ de la Place Meiser\, l'autorou
+ te Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le vi
+ aduc prendre à droite\, l'avenue des Anciens Combattants. Juste après le
+  carrefour avec des feux de signalisation prendre à droite vers la Place 
+ de la Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). L
+ e terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces inf
  os sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/593_
  1_deaf_brussels_fc
-GEO:50.7007516;4.582180999999999
-LOCATION:Charles Jaumotte 156\, 1300 Wavre (Limal)\, Belgique
-ORGANIZER;CN="Deformanoir O.";ROLE=Secrétaire:MAILTO:darkotfc@gmail.com
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="De Crombrugghe A.";ROLE=Secrétaire:MAILTO:amaurydecrom@yaho
+ o.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J24: DEAF BRUSSELS FC vs CHIEFS WSL (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20250222T143000Z
-DTEND;VALUE=DATE-TIME:20250222T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_5C_24_593_303
+SUMMARY:ABSSA D5A J25: DEAF BRUSSELS FC vs CHEVERNY SCHAERB
+DTSTART;VALUE=DATE-TIME:20260314T143000Z
+DTEND;VALUE=DATE-TIME:20260314T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_5A_25_593_128
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
- pale équipe domicile: Vert et noir\nCouleur principale équipe exterieure
- : Blanc\n\nContact équipe domicile: Van Brandt S. (0494.24.34.05 (SMS) - 
- deaf.brussels.2011@gmail.com)\n\nAccès voiture : Chaussée de Haecht\, ve
- rs Diegem. Prendre la rue Harenheyde à gauche\, juste au feu de signalisa
- tion\, après la station "JET"\, situé à gauche. Entrée du stade par la
-  rue Harenheyde\, 100 m. au-delà du pont du chemin de fer.\n\nVérifiez t
- oujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cal
- abssa.be/c/593_1_deaf_brussels_fc
-GEO:50.8928227;4.425372
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Jaune 
+ & Noir\n\nContact équipe domicile: Van Brandt S. (0494.24.34.05 (SMS) - d
+ eaf.brussels.2011@gmail.com)\n\nAccès voiture : Chaussée de Haecht\, ver
+ s Diegem. Prendre la rue de la Paroisse à gauche\, puis prendre la rue Ha
+ renheyde (à gauche) pour l'entrée du stade.\n\nVérifiez toujours ces in
+ fos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/593
+ _1_deaf_brussels_fc
+GEO:50.8929668;4.4236193
 LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
 ORGANIZER;CN="Van Brandt S.";ROLE=Secrétaire:MAILTO:deaf.brussels.2011@gm
  ail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J20: DEAF BRUSSELS FC vs UNION BRUXELLOISE
-DTSTART;VALUE=DATE-TIME:20250308T143000Z
-DTEND;VALUE=DATE-TIME:20250308T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_5C_20_593_655
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
- pale équipe domicile: Vert et noir\nCouleur principale équipe exterieure
- : Noir/ Bleu\n\nContact équipe domicile: Van Brandt S. (0494.24.34.05 (SM
- S) - deaf.brussels.2011@gmail.com)\n\nAccès voiture : Chaussée de Haecht
- \, vers Diegem. Prendre la rue Harenheyde à gauche\, juste au feu de sign
- alisation\, après la station "JET"\, situé à gauche. Entrée du stade p
- ar la rue Harenheyde\, 100 m. au-delà du pont du chemin de fer.\n\nVérif
- iez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:
- //calabssa.be/c/593_1_deaf_brussels_fc
-GEO:50.8928227;4.425372
-LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
-ORGANIZER;CN="Van Brandt S.";ROLE=Secrétaire:MAILTO:deaf.brussels.2011@gm
- ail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J22: DEAF BRUSSELS FC vs PIRATE S.C.
-DTSTART;VALUE=DATE-TIME:20250322T143000Z
-DTEND;VALUE=DATE-TIME:20250322T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_5C_22_593_670
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
- pale équipe domicile: Vert et noir\nCouleur principale équipe exterieure
- : Noir / doré\n\nContact équipe domicile: Van Brandt S. (0494.24.34.05 (
- SMS) - deaf.brussels.2011@gmail.com)\n\nAccès voiture : Chaussée de Haec
- ht\, vers Diegem. Prendre la rue Harenheyde à gauche\, juste au feu de si
- gnalisation\, après la station "JET"\, situé à gauche. Entrée du stade
-  par la rue Harenheyde\, 100 m. au-delà du pont du chemin de fer.\n\nVér
- ifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: http
- s://calabssa.be/c/593_1_deaf_brussels_fc
-GEO:50.8928227;4.425372
-LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
-ORGANIZER;CN="Van Brandt S.";ROLE=Secrétaire:MAILTO:deaf.brussels.2011@gm
- ail.com
+SUMMARY:ABSSA D5A J26: OMNISPORT BIERGHES vs DEAF BRUSSELS FC
+DTSTART;VALUE=DATE-TIME:20260321T120000Z
+DTEND;VALUE=DATE-TIME:20260321T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_5A_26_455_593
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Barbe L. (0495.21.74.14 - omnisportbierghes199
+ 5@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Charleroi (E19)\, pre
+ ndre la sortie Halle-Tournai-Lille (n° 21) pour rejoindre l'autoroute Tou
+ rnai-Lille\, ancienne route A8 (E429). Prendre la sortie Rebecq-Quenast (n
+ ° 24). En bas de la sortie\, prendre à droite\, direction Bierghes. Roul
+ er tout droit jusqu'au premier feu rouge. Tourner à droite en direction d
+ e Halle\, ensuite la deuxième rue à droite (rue du Sartiau)\, ensuite à
+  gauche. Le terrain se trouve à 300 m.\n\nVérifiez toujours ces infos su
+ r http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/593_1_dea
+ f_brussels_fc
+GEO:50.69576660000001;4.1292301
+LOCATION:Rue du Sartiau 3B\, 1430 Bierghes-Rebecq\, Belgique
+ORGANIZER;CN="Barbe L.";ROLE=Secrétaire:MAILTO:omnisportbierghes1995@gmai
+ l.com
 END:VEVENT
 END:VCALENDAR

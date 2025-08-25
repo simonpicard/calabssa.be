@@ -4,64 +4,41 @@ PRODID:682_1_brussels_lions
 X-WR-CALDESC:Les matches du club BRUSSELS LIONS (equipe 1) en ABSSA.
 X-WR-CALNAME:ABSSA: BRUSSELS LIONS (eq. 1)
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J23: CELTIC FORESTOIS vs BRUSSELS LIONS
-DTSTART;VALUE=DATE-TIME:20240831T120000Z
-DTEND;VALUE=DATE-TIME:20240831T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_23_330_682
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
- pale équipe domicile: Vert et  blanc\nCouleur principale équipe exterieu
- re: Bleu ciel\n\nContact équipe domicile: Ceuster J (0472.52.87.14 - ceus
- ter-jeremy@hotmail.be)\n\nAccès voiture : Au départ de la Place St. Deni
- s à Forest prendre la chaussée de Neerstalle jusqu'à la rue de la Soier
- ie (4ème rue à droite) et dans la rue de la Soierie rouler env. 100 m. p
- uis 1ère à gauche (Bld. de la 2ème Armée Britannique) pendant env. 500
-  m. L'entrée du Complexe se trouve à hauteur de City Cart\, à gauche de
-  la route.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir 
- sur calabssa: https://calabssa.be/c/682_1_brussels_lions
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER;CN="Ceuster J";ROLE=Secrétaire:MAILTO:ceuster-jeremy@hotmail.be
+SUMMARY:ABSSA D4C J1: WINCHESTER F.C. vs BRUSSELS LIONS
+DTSTART;VALUE=DATE-TIME:20250830T133000Z
+DTEND;VALUE=DATE-TIME:20250830T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_4C_1_653_682
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
+ pale équipe domicile: Bleu et blanc\nCouleur principale équipe exterieur
+ e: Noir\n\nContact équipe domicile: Descheemaeker M. (0488.92.88.36 - win
+ chesterfc@outlook.com)\n\nAccès voiture : A partir de Bruxelles\, prendre
+  la E 411 en direction de Namur. Prendre la sortie N° 8 puis à droite la
+  bretelle pour la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Apr
+ ès +/- 6\,5 km\, au rond-point\, prendre la sortie 1 vers la N 420 Chée.
+  de la Libération\, puis à gauche dans la rue de la Grande lecke.\n\nVé
+ rifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: htt
+ ps://calabssa.be/c/682_1_brussels_lions
+GEO:50.7611768;4.7884455
+LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
+ORGANIZER;CN="Descheemaeker M.";ROLE=Secrétaire:MAILTO:winchesterfc@outlo
+ ok.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J1: MILAN MIRAPIDE AC vs BRUSSELS LIONS
-DTSTART;VALUE=DATE-TIME:20240907T133000Z
-DTEND;VALUE=DATE-TIME:20240907T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_1_680_682
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: C02\n\nCouleur princi
- pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bl
- eu ciel\n\nContact équipe domicile: Dubois B. (0498.46.80.76 - brieucdub@
- gmail.com)\n\nAccès voiture : Ring ouest: Direction Waterloo\, prendre la
-  sortie "butte du lion" \, prendre à droite\, puis au feu rouge prendre 
- à droite\, rouler jusque Genappe et prendre la RN 25 en direction de Wavr
- e\, prendre la deuxième sortie (Court St. Etienne) et prendre à gauche\,
-  le terrain se trouve à 1 km. a main droite.\nPar la E411: Prendre la E41
- 1 direction Namur\, ensuite sortir a Wavre\, prendre ensuite la sortie Vil
- lers-La-Ville\, ensuite à droite puis directement à gauche a l'arbre et 
- descendre jusque dans le fond\, prendre a droite et le terrain se trouve 
- à 500 m. a main gauche.\n\nVérifiez toujours ces infos sur http://www.ab
- ssa.be/\nVoir sur calabssa: https://calabssa.be/c/682_1_brussels_lions
-GEO:50.6417231;4.5547061
-LOCATION:Avenue des Combattants\, 1490 Court St. Etienne\, Belgique
-ORGANIZER;CN="Dubois B.";ROLE=Secrétaire:MAILTO:brieucdub@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J2: BRUSSELS LIONS vs DEAF BRUSSELS FC
-DTSTART;VALUE=DATE-TIME:20240914T103000Z
-DTEND;VALUE=DATE-TIME:20240914T120000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_2_682_593
+SUMMARY:ABSSA D4C J2: BRUSSELS LIONS vs BRUSSELS LTC (Eq. 4)
+DTSTART;VALUE=DATE-TIME:20250906T103000Z
+DTEND;VALUE=DATE-TIME:20250906T120000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_4C_2_682_39
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
- pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: V
- ert et noir\n\nContact équipe domicile: El Halimi A. (0488.95.55.05 - bru
- sselslionsfc@hotmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme
- \, après 300 m. en direction de Lennik\, prendre à droite.\nVenant de la
-  chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place
-  Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 40
- 0 m. en direction de Lennik.\n\nVérifiez toujours ces infos sur http://ww
- w.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/682_1_brussels_lions
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bordea
+ ux\n\nContact équipe domicile: El Halimi A. (0488.95.55.05 - brusselslion
+ sfc@hotmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après
+  300 m. en direction de Lennik\, prendre à droite.\nVenant de la chaussé
+ e de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, 
+ Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en d
+ irection de Lennik.\n\nVérifiez toujours ces infos sur http://www.abssa.b
+ e/\nVoir sur calabssa: https://calabssa.be/c/682_1_brussels_lions
 GEO:50.8177358;4.2557195
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
@@ -69,41 +46,185 @@ ORGANIZER;CN="El Halimi A.";ROLE=Secrétaire:MAILTO:brusselslionsfc@hotmai
  l.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J3: FOOT FRITESTYLE vs BRUSSELS LIONS
-DTSTART;VALUE=DATE-TIME:20240921T120000Z
-DTEND;VALUE=DATE-TIME:20240921T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_3_679_682
-DESCRIPTION:Terrain synthétique: non\nCode terrain: L11\n\nCouleur princi
- pale équipe domicile: Vert / noir\nCouleur principale équipe exterieure:
-  Bleu ciel\n\nContact équipe domicile: Deformanoir O. (0473.62.46.25 - da
- rkotfc@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Namur / Lu
- xembourg\, prendre la sortie n° 6 Wavre\, vers N238. Tourner à droite su
- r Boulevard de l'Europe/N238 sur 200 m. Prendre à droite sur Rue de la Wa
- stinne. Ensuite\, aprèsle passage à niveau\, prendre à gauche sur Rue P
- rovinciale/N239. Les terrains se trouvent sur la gauche de la route en con
- tre-bas (facilement visible de la route).\n\nVérifiez toujours ces infos 
+SUMMARY:ABSSA D4C J3: CHENOIS SC (Eq. 2) vs BRUSSELS LIONS
+DTSTART;VALUE=DATE-TIME:20250913T113000Z
+DTEND;VALUE=DATE-TIME:20250913T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_4C_3_84_682
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W02\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Noir\
+ n\nContact équipe domicile: Versmissen P. (0495.59.61.77 - sc.chenois@wat
+ erloo.eu)\n\nAccès voiture : Venant d'Uccle\, prendre la chaussée de Wat
+ erloo\, ensuite la chaussée de Bruxelles\, continuer jusqu'à la place E.
+  Vandevelde (intersection de la chaussée de Bruxelles avec la chaussée d
+ e Tervuren à Joli-Bois). Au feu de signalisation prendre à droite la cha
+ ussée Bara. Le terrain se trouve à droite à +/- 500 m.\n\nVérifiez tou
+ jours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calab
+ ssa.be/c/682_1_brussels_lions
+GEO:50.701676;4.397567
+LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
+ORGANIZER;CN="Versmissen P.";ROLE=Secrétaire:MAILTO:sc.chenois@waterloo.e
+ u
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4C J4: BRUSSELS LIONS vs WELL TEAM
+DTSTART;VALUE=DATE-TIME:20250920T103000Z
+DTEND;VALUE=DATE-TIME:20250920T120000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_4C_4_682_544
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu m
+ arine\n\nContact équipe domicile: El Halimi A. (0488.95.55.05 - brusselsl
+ ionsfc@hotmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, apr
+ ès 300 m. en direction de Lennik\, prendre à droite.\nVenant de la chaus
+ sée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi
+ \, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. e
+ n direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.abss
+ a.be/\nVoir sur calabssa: https://calabssa.be/c/682_1_brussels_lions
+GEO:50.8177358;4.2557195
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER;CN="El Halimi A.";ROLE=Secrétaire:MAILTO:brusselslionsfc@hotmai
+ l.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4C J5: SNEAKY BABOONS vs BRUSSELS LIONS
+DTSTART;VALUE=DATE-TIME:20250927T103000Z
+DTEND;VALUE=DATE-TIME:20250927T120000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_4C_5_641_682
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Stasse\, W (0473.95.76.80 - willstasse@gmail.c
+ om)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Pass
+ er devant l'église\, longer l'autoroute et tourner à droite au cimetièr
+ e des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur http:
+ //www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/682_1_brussels_l
+ ions
+GEO:50.7264542;4.5530681
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="Stasse, W";ROLE=Secrétaire:MAILTO:willstasse@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4C J6: BRUSSELS LIONS vs MOYEN RFC
+DTSTART;VALUE=DATE-TIME:20251004T103000Z
+DTEND;VALUE=DATE-TIME:20251004T120000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_4C_6_682_675
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge\
+ n\nContact équipe domicile: El Halimi A. (0488.95.55.05 - brusselslionsfc
+ @hotmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 30
+ 0 m. en direction de Lennik\, prendre à droite.\nVenant de la chaussée d
+ e Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld
+ . Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en dire
+ ction de Lennik.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\
+ nVoir sur calabssa: https://calabssa.be/c/682_1_brussels_lions
+GEO:50.8177358;4.2557195
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER;CN="El Halimi A.";ROLE=Secrétaire:MAILTO:brusselslionsfc@hotmai
+ l.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4C J7: MACAPSULES (LES) vs BRUSSELS LIONS
+DTSTART;VALUE=DATE-TIME:20251011T113000Z
+DTEND;VALUE=DATE-TIME:20251011T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_4C_7_627_682
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
+ pale équipe domicile: Vert/blanc\nCouleur principale équipe exterieure: 
+ Noir\n\nContact équipe domicile: Daumont J. (0475.42.26.61 - macapsules@g
+ mail.com)\n\nAccès voiture : Autoroute E 411 direction Namur / Luxembourg
+ \, prendre la sortie n° 6 Wavre\, à gauche N 238 direction Wavre. Au ron
+ d-	point 2ième sortie N238/Blvd. de l'Europe direction Wavre Centre. Entr
+ er dans Wavre puis à gauche N 238\, à gauche N 239. 	Au rond-point prend
+ re la première sortie Rue Haute\, continuer sur rue de Bruxelles\, contin
+ uer sur rue Saint-Roch\, continuer 	sur rue Joseph Joppart. Prendre à dro
+ ite l'avenue du Centre Sportif.\n\nVérifiez toujours ces infos sur http:/
+ /www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/682_1_brussels_li
+ ons
+GEO:50.720927;4.617368
+LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
+  Belgique
+ORGANIZER;CN="Daumont J.";ROLE=Secrétaire:MAILTO:macapsules@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4C J8: BRUSSELS LIONS vs SPARTA SCHEUT
+DTSTART;VALUE=DATE-TIME:20251018T103000Z
+DTEND;VALUE=DATE-TIME:20251018T120000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_4C_8_682_340
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Orange
+ \n\nContact équipe domicile: El Halimi A. (0488.95.55.05 - brusselslionsf
+ c@hotmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 3
+ 00 m. en direction de Lennik\, prendre à droite.\nVenant de la chaussée 
+ de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bl
+ d. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en dir
+ ection de Lennik.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+ \nVoir sur calabssa: https://calabssa.be/c/682_1_brussels_lions
+GEO:50.8177358;4.2557195
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER;CN="El Halimi A.";ROLE=Secrétaire:MAILTO:brusselslionsfc@hotmai
+ l.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4C J9: BRUSSELS LIONS vs PANGLOSS FC
+DTSTART;VALUE=DATE-TIME:20251025T103000Z
+DTEND;VALUE=DATE-TIME:20251025T120000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_4C_9_682_123
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge\
+ n\nContact équipe domicile: El Halimi A. (0488.95.55.05 - brusselslionsfc
+ @hotmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 30
+ 0 m. en direction de Lennik\, prendre à droite.\nVenant de la chaussée d
+ e Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld
+ . Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en dire
+ ction de Lennik.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\
+ nVoir sur calabssa: https://calabssa.be/c/682_1_brussels_lions
+GEO:50.8177358;4.2557195
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER;CN="El Halimi A.";ROLE=Secrétaire:MAILTO:brusselslionsfc@hotmai
+ l.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4C J10: PATRONS (LES) vs BRUSSELS LIONS
+DTSTART;VALUE=DATE-TIME:20251108T143000Z
+DTEND;VALUE=DATE-TIME:20251108T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_4C_10_628_682
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Noir\
+ n\nContact équipe domicile: Van Roey G. (0478.24.03.05 - lespatrons.fc@gm
+ ail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\
+ , puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avan
+ t ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ces infos 
  sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/682_1_b
  russels_lions
-GEO:50.7007516;4.582180999999999
-LOCATION:Charles Jaumotte 156\, 1300 Wavre (Limal)\, Belgique
-ORGANIZER;CN="Deformanoir O.";ROLE=Secrétaire:MAILTO:darkotfc@gmail.com
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Van Roey G.";ROLE=Secrétaire:MAILTO:lespatrons.fc@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J4: BRUSSELS LIONS vs UNION BRUXELLOISE
-DTSTART;VALUE=DATE-TIME:20240928T103000Z
-DTEND;VALUE=DATE-TIME:20240928T120000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_4_682_655
+SUMMARY:ABSSA D4C J11: BRUSSELS LIONS vs MIREILLE WEMMEL
+DTSTART;VALUE=DATE-TIME:20251115T113000Z
+DTEND;VALUE=DATE-TIME:20251115T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_4C_11_682_93
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
- pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: N
- oir/ Bleu\n\nContact équipe domicile: El Halimi A. (0488.95.55.05 - bruss
- elslionsfc@hotmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\,
-  après 300 m. en direction de Lennik\, prendre à droite.\nVenant de la c
- haussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place V
- erdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 
- m. en direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.
- abssa.be/\nVoir sur calabssa: https://calabssa.be/c/682_1_brussels_lions
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge 
+ et  Noir\n\nContact équipe domicile: El Halimi A. (0488.95.55.05 - brusse
+ lslionsfc@hotmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, 
+ après 300 m. en direction de Lennik\, prendre à droite.\nVenant de la ch
+ aussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Ve
+ rdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m
+ . en direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.a
+ bssa.be/\nVoir sur calabssa: https://calabssa.be/c/682_1_brussels_lions
 GEO:50.8177358;4.2557195
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
@@ -111,20 +232,20 @@ ORGANIZER;CN="El Halimi A.";ROLE=Secrétaire:MAILTO:brusselslionsfc@hotmai
  l.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J6: BRUSSELS LIONS vs PIRATE S.C.
-DTSTART;VALUE=DATE-TIME:20241012T103000Z
-DTEND;VALUE=DATE-TIME:20241012T120000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_6_682_670
+SUMMARY:ABSSA D4C J13: BRUSSELS LIONS vs STRING PENELOPE (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20251129T113000Z
+DTEND;VALUE=DATE-TIME:20251129T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_4C_13_682_181
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
- pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: N
- oir / doré\n\nContact équipe domicile: El Halimi A. (0488.95.55.05 - bru
- sselslionsfc@hotmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme
- \, après 300 m. en direction de Lennik\, prendre à droite.\nVenant de la
-  chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place
-  Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 40
- 0 m. en direction de Lennik.\n\nVérifiez toujours ces infos sur http://ww
- w.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/682_1_brussels_lions
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Orange
+ \n\nContact équipe domicile: El Halimi A. (0488.95.55.05 - brusselslionsf
+ c@hotmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 3
+ 00 m. en direction de Lennik\, prendre à droite.\nVenant de la chaussée 
+ de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bl
+ d. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en dir
+ ection de Lennik.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+ \nVoir sur calabssa: https://calabssa.be/c/682_1_brussels_lions
 GEO:50.8177358;4.2557195
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
@@ -132,14 +253,14 @@ ORGANIZER;CN="El Halimi A.";ROLE=Secrétaire:MAILTO:brusselslionsfc@hotmai
  l.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J25: BRUSSELS LIONS vs BRUSSELS LTC (Eq. 5)
-DTSTART;VALUE=DATE-TIME:20241019T103000Z
-DTEND;VALUE=DATE-TIME:20241019T120000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_25_682_39
+SUMMARY:ABSSA D4C J14: BRUSSELS LIONS vs WINCHESTER F.C.
+DTSTART;VALUE=DATE-TIME:20251206T113000Z
+DTEND;VALUE=DATE-TIME:20251206T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_4C_14_682_653
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
- pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: B
- ordeaux\n\nContact équipe domicile: El Halimi A. (0488.95.55.05 - brussel
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu e
+ t blanc\n\nContact équipe domicile: El Halimi A. (0488.95.55.05 - brussel
  slionsfc@hotmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, a
  près 300 m. en direction de Lennik\, prendre à droite.\nVenant de la cha
  ussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Ver
@@ -153,142 +274,46 @@ ORGANIZER;CN="El Halimi A.";ROLE=Secrétaire:MAILTO:brusselslionsfc@hotmai
  l.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J26: CLAUDY F.C. vs BRUSSELS LIONS
-DTSTART;VALUE=DATE-TIME:20241026T103000Z
-DTEND;VALUE=DATE-TIME:20241026T120000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_26_678_682
-DESCRIPTION:Terrain synthétique: non\nCode terrain: N04\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu c
- iel\n\nContact équipe domicile: De Spirlet R. (0470.43.29.45 - rod.de.spi
- rlet@gmail.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à Nossegem
- \, au premier croisement prendre à gauche la \nMechelsesteenweg. Le terra
- in est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\
- , prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelseste
- enweg\, traverser la chaussée de Louvain\, et suivre comme ci-avant.\n\nV
- érifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: h
- ttps://calabssa.be/c/682_1_brussels_lions
-GEO:50.88776559999999;4.50894
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER;CN="De Spirlet R.";ROLE=Secrétaire:MAILTO:rod.de.spirlet@gmail.
- com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J7: CENTRAL PARK FC (Eq. 2) vs BRUSSELS LIONS
-DTSTART;VALUE=DATE-TIME:20241102T130000Z
-DTEND;VALUE=DATE-TIME:20241102T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_7_562_682
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bl
- eu ciel\n\nContact équipe domicile: Genot F. (0473.57.28.61 - genotfloria
- n@hotmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue
-  Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28)
- . Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ces 
- infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/6
- 82_1_brussels_lions
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J8: BRUSSELS LIONS vs CHIEFS WSL (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20241109T113000Z
-DTEND;VALUE=DATE-TIME:20241109T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_8_682_303
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
- pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: B
- lanc\n\nContact équipe domicile: El Halimi A. (0488.95.55.05 - brusselsli
- onsfc@hotmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, apr
- ès 300 m. en direction de Lennik\, prendre à droite.\nVenant de la chaus
- sée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi
- \, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. e
- n direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.abss
- a.be/\nVoir sur calabssa: https://calabssa.be/c/682_1_brussels_lions
-GEO:50.8177358;4.2557195
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER;CN="El Halimi A.";ROLE=Secrétaire:MAILTO:brusselslionsfc@hotmai
- l.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J9: SAINT GEORGES RCS (Eq. 3) vs BRUSSELS LIONS
-DTSTART;VALUE=DATE-TIME:20241116T143000Z
-DTEND;VALUE=DATE-TIME:20241116T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_9_221_682
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W13\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
- ciel\n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.destin
- @gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Vo
- ot\, puis la chaussée de Stockel. Passer en dessous du petit pont et cont
- inuer la chaussée de Stockel pendant env. 500 m. Le terrain est situé su
- r la droite de la chaussée.\n\nVérifiez toujours ces infos sur http://ww
- w.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/682_1_brussels_lions
-GEO:50.8417148;4.4547744
-LOCATION:Chaussée de Stockel 376\, 1150 Woluwé-Saint-Pierre\, Belgique
-ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J12: BRUSSELS LTC (Eq. 5) vs BRUSSELS LIONS
-DTSTART;VALUE=DATE-TIME:20241123T130000Z
-DTEND;VALUE=DATE-TIME:20241123T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_12_39_682
-DESCRIPTION:Terrain synthétique: non\nCode terrain: R03\n\nCouleur princi
- pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bl
- eu ciel\n\nContact équipe domicile: Van Hacht O. (0475.96.43.03 - dannybo
- ffin@hotmail.com)\n\nAccès voiture : Par la E411 Bruxelles-Namur\, prendr
- e la sortie n° 5 (Wavre Nord\, Rixensart\, Bierges).\nEnsuite prendre la 
- N257 pendant 700 mètres jusqu'au rond-point\, prendre la rue de l'Etoile 
- et ensuite la rue de Mérode jusqu'à Rixensart. Après 900 mètres\, à l
- a Place de la Perche\, prendre à droite l'avenue de la Paix et encore à 
- droite l'avenue Clermont Tonnerre.\n\nVérifiez toujours ces infos sur htt
- p://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/682_1_brussels
- _lions
-GEO:50.7128483;4.5376972
-LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
- 30 Rixensart\, Belgique
-ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:dannyboffin@hotmail.co
+SUMMARY:ABSSA D4C J15: BRUSSELS LTC (Eq. 4) vs BRUSSELS LIONS
+DTSTART;VALUE=DATE-TIME:20251213T143000Z
+DTEND;VALUE=DATE-TIME:20251213T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_4C_15_39_682
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O01\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: No
+ ir\n\nContact équipe domicile: Prudhomme D (0478.49.26.08 - brusselsltc03
+ 9@gmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre ring Est di
+ rection Waterloo. Sortir à la sortie n°27 Waterloo Centre.\n	Prendre ens
+ uite à gauche La Drève de Richelle jusqu'au 3ème rond-point et prendre 
+ à gauche la 	Chaussée de Louvain sur environ 2km et prendre à droite la
+  Rue des Saules toujours tout droit et 	qui devient ensuite la Route des M
+ arnières. Continuer ensuite tout droit\, passer un premier rond-point pui
+ s continuer tout droit jusqu'au rond-point du Messager où il faut prendre
+  la 2ème sortie. Vous êtes alors sur la Route de Genval et l'entrée du 
+ Complexe se trouve à environ 200m sur la gauche.\n\nVérifiez toujours ce
+ s infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c
+ /682_1_brussels_lions
+GEO:50.70475570000001;4.4703447
+LOCATION:Route de Genval\, 26A - 1380 Ohain\, Route de Genval 20A\, 1380 O
+ hain\, Belgique
+ORGANIZER;CN="Prudhomme D";ROLE=Secrétaire:MAILTO:brusselsltc039@gmail.co
  m
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J11: KARIA FC vs BRUSSELS LIONS
-DTSTART;VALUE=DATE-TIME:20241130T143000Z
-DTEND;VALUE=DATE-TIME:20241130T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_11_498_682
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu c
- iel\n\nContact équipe domicile: Bercha  M (0477.69.27.28 - mohamedbercha@
- hotmail.fr)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\, v
- ers Neder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au r
- ond-point\, tout droit Chemin Vert\, puis première à gauche\, Petit Chem
- in Vert\, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://www
- .abssa.be/\nVoir sur calabssa: https://calabssa.be/c/682_1_brussels_lions
-GEO:50.89983369999999;4.3936101
-LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
-ORGANIZER;CN="Bercha  M";ROLE=Secrétaire:MAILTO:mohamedbercha@hotmail.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J10: BRUSSELS LIONS vs CELTIC FORESTOIS
-DTSTART;VALUE=DATE-TIME:20241207T113000Z
-DTEND;VALUE=DATE-TIME:20241207T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_10_682_330
+SUMMARY:ABSSA D4C J16: BRUSSELS LIONS vs CHENOIS SC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260110T113000Z
+DTEND;VALUE=DATE-TIME:20260110T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_4C_16_682_84
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
- pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: V
- ert et  blanc\n\nContact équipe domicile: El Halimi A. (0488.95.55.05 - b
- russelslionsfc@hotmail.com)\n\nAccès voiture : Ring\, sortie Hopital Eras
- me\, après 300 m. en direction de Lennik\, prendre à droite.\nVenant de 
- la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, pla
- ce Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 
- 400 m. en direction de Lennik.\n\nVérifiez toujours ces infos sur http://
- www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/682_1_brussels_lio
- ns
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge\
+ n\nContact équipe domicile: El Halimi A. (0488.95.55.05 - brusselslionsfc
+ @hotmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 30
+ 0 m. en direction de Lennik\, prendre à droite.\nVenant de la chaussée d
+ e Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld
+ . Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en dire
+ ction de Lennik.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\
+ nVoir sur calabssa: https://calabssa.be/c/682_1_brussels_lions
 GEO:50.8177358;4.2557195
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
@@ -296,20 +321,38 @@ ORGANIZER;CN="El Halimi A.";ROLE=Secrétaire:MAILTO:brusselslionsfc@hotmai
  l.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J13: BRUSSELS LIONS vs CLAUDY F.C.
-DTSTART;VALUE=DATE-TIME:20241214T113000Z
-DTEND;VALUE=DATE-TIME:20241214T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_13_682_678
+SUMMARY:ABSSA D4C J17: WELL TEAM vs BRUSSELS LIONS
+DTSTART;VALUE=DATE-TIME:20260117T143000Z
+DTEND;VALUE=DATE-TIME:20260117T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_4C_17_544_682
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Noir\n\nContact équipe domicile: David L (0484.61.48.04 - david.louis340
+ @gmail.com)\n\nAccès voiture : A partir du square des Archiducs\, prendre
+  la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez toujours 
+ ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be
+ /c/682_1_brussels_lions
+GEO:50.80645209999999;4.4087184
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="David L";ROLE=Secrétaire:MAILTO:david.louis340@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4C J18: BRUSSELS LIONS vs SNEAKY BABOONS
+DTSTART;VALUE=DATE-TIME:20260124T113000Z
+DTEND;VALUE=DATE-TIME:20260124T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_4C_18_682_641
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
- pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: N
- oir\n\nContact équipe domicile: El Halimi A. (0488.95.55.05 - brusselslio
- nsfc@hotmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, aprè
- s 300 m. en direction de Lennik\, prendre à droite.\nVenant de la chauss
- ée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\
- , Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en
-  direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.abssa
- .be/\nVoir sur calabssa: https://calabssa.be/c/682_1_brussels_lions
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: El Halimi A. (0488.95.55.05 - brusselslionsfc@
+ hotmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 300
+  m. en direction de Lennik\, prendre à droite.\nVenant de la chaussée de
+  Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld.
+  Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en direc
+ tion de Lennik.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\n
+ Voir sur calabssa: https://calabssa.be/c/682_1_brussels_lions
 GEO:50.8177358;4.2557195
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
@@ -317,181 +360,35 @@ ORGANIZER;CN="El Halimi A.";ROLE=Secrétaire:MAILTO:brusselslionsfc@hotmai
  l.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J14: BRUSSELS LIONS vs MILAN MIRAPIDE AC
-DTSTART;VALUE=DATE-TIME:20250111T113000Z
-DTEND;VALUE=DATE-TIME:20250111T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_5C_14_682_680
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
- pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: B
- ordeaux\n\nContact équipe domicile: El Halimi A. (0488.95.55.05 - brussel
- slionsfc@hotmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, a
- près 300 m. en direction de Lennik\, prendre à droite.\nVenant de la cha
- ussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Ver
- di\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m.
-  en direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.ab
+SUMMARY:ABSSA D4C J19: MOYEN RFC vs BRUSSELS LIONS
+DTSTART;VALUE=DATE-TIME:20260131T143000Z
+DTEND;VALUE=DATE-TIME:20260131T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_4C_19_675_682
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Noir\
+ n\nContact équipe domicile: Callant A. (0475.40.42.28 - rfcmoyen@gmail.co
+ m)\n\nAccès voiture : Autoroute E 411 direction Namur / Luxembourg\, pren
+ dre la sortie n° 6 Wavre\, à gauche N 238 direction Wavre. Au rond-	poin
+ t 2ième sortie N238/Blvd. de l'Europe direction Wavre Centre. Entrer dans
+  Wavre puis à gauche N 238\, à gauche N 239. 	Au rond-point prendre la p
+ remière sortie Rue Haute\, continuer sur rue de Bruxelles\, continuer sur
+  rue Saint-Roch\, continuer 	sur rue Joseph Joppart. Prendre à droite l'a
+ venue du Centre Sportif.\n\nVérifiez toujours ces infos sur http://www.ab
  ssa.be/\nVoir sur calabssa: https://calabssa.be/c/682_1_brussels_lions
-GEO:50.8177358;4.2557195
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER;CN="El Halimi A.";ROLE=Secrétaire:MAILTO:brusselslionsfc@hotmai
- l.com
+GEO:50.720927;4.617368
+LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
+  Belgique
+ORGANIZER;CN="Callant A.";ROLE=Secrétaire:MAILTO:rfcmoyen@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J15: DEAF BRUSSELS FC vs BRUSSELS LIONS
-DTSTART;VALUE=DATE-TIME:20250118T143000Z
-DTEND;VALUE=DATE-TIME:20250118T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_5C_15_593_682
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
- pale équipe domicile: Vert et noir\nCouleur principale équipe exterieure
- : Bleu ciel\n\nContact équipe domicile: Van Brandt S. (0494.24.34.05 (SMS
- ) - deaf.brussels.2011@gmail.com)\n\nAccès voiture : Chaussée de Haecht\
- , vers Diegem. Prendre la rue Harenheyde à gauche\, juste au feu de signa
- lisation\, après la station "JET"\, situé à gauche. Entrée du stade pa
- r la rue Harenheyde\, 100 m. au-delà du pont du chemin de fer.\n\nVérifi
- ez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:/
- /calabssa.be/c/682_1_brussels_lions
-GEO:50.8928227;4.425372
-LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
-ORGANIZER;CN="Van Brandt S.";ROLE=Secrétaire:MAILTO:deaf.brussels.2011@gm
- ail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J16: BRUSSELS LIONS vs FOOT FRITESTYLE
-DTSTART;VALUE=DATE-TIME:20250125T113000Z
-DTEND;VALUE=DATE-TIME:20250125T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_5C_16_682_679
+SUMMARY:ABSSA D4C J20: BRUSSELS LIONS vs MACAPSULES (LES)
+DTSTART;VALUE=DATE-TIME:20260207T113000Z
+DTEND;VALUE=DATE-TIME:20260207T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_4C_20_682_627
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
- pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: V
- ert / noir\n\nContact équipe domicile: El Halimi A. (0488.95.55.05 - brus
- selslionsfc@hotmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\
- , après 300 m. en direction de Lennik\, prendre à droite.\nVenant de la 
- chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place 
- Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400
-  m. en direction de Lennik.\n\nVérifiez toujours ces infos sur http://www
- .abssa.be/\nVoir sur calabssa: https://calabssa.be/c/682_1_brussels_lions
-GEO:50.8177358;4.2557195
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER;CN="El Halimi A.";ROLE=Secrétaire:MAILTO:brusselslionsfc@hotmai
- l.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J17: UNION BRUXELLOISE vs BRUSSELS LIONS
-DTSTART;VALUE=DATE-TIME:20250201T113000Z
-DTEND;VALUE=DATE-TIME:20250201T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_5C_17_655_682
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
- pale équipe domicile: Noir/ Bleu\nCouleur principale équipe exterieure: 
- Bleu ciel\n\nContact équipe domicile: Herinckx C. (0472.83.06.56 - union.
- bruxelloise@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'
- autoroute Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, pass
- er sous le pont de l'autoroute et prendre la direction de Nivelles. A 200 
- m.\, au rond-point (Shopping Center)\, tourner à droite en direction de W
- avre (petit ring de Nivelles).\nAu 4ème rond-point (en tenant compte du r
- ond-point du Shopping Center)\, tourner à gauche \, rue de l'Industrie et
-  pénétrer dans le zoning. Au bout de la rue\, avant le feu de signalisat
- ion\, tourner à gauche et prendre la rue du Progrès pendant +/- 400 m.\n
- \nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa
- : https://calabssa.be/c/682_1_brussels_lions
-GEO:50.5963705;4.3564539
-LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER;CN="Herinckx C.";ROLE=Secrétaire:MAILTO:union.bruxelloise@gmail
- .com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J19: PIRATE S.C. vs BRUSSELS LIONS
-DTSTART;VALUE=DATE-TIME:20250215T143000Z
-DTEND;VALUE=DATE-TIME:20250215T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_5C_19_670_682
-DESCRIPTION:Terrain synthétique: non\nCode terrain: L11\n\nCouleur princi
- pale équipe domicile: Noir / doré\nCouleur principale équipe exterieure
- : Bleu ciel\n\nContact équipe domicile: Gulbakan I. (0486.20.99.11 - ilha
- ngulbakan@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Namur /
-  Luxembourg\, prendre la sortie n° 6 Wavre\, vers N238. Tourner à droite
-  sur Boulevard de l'Europe/N238 sur 200 m. Prendre à droite sur Rue de la
-  Wastinne. Ensuite\, aprèsle passage à niveau\, prendre à gauche sur Ru
- e Provinciale/N239. Les terrains se trouvent sur la gauche de la route en 
- contre-bas (facilement visible de la route).\n\nVérifiez toujours ces inf
- os sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/682_
- 1_brussels_lions
-GEO:50.7007516;4.582180999999999
-LOCATION:Charles Jaumotte 156\, 1300 Wavre (Limal)\, Belgique
-ORGANIZER;CN="Gulbakan I.";ROLE=Secrétaire:MAILTO:ilhangulbakan@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J24: BRUSSELS LIONS vs KARIA FC
-DTSTART;VALUE=DATE-TIME:20250222T113000Z
-DTEND;VALUE=DATE-TIME:20250222T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_5C_24_682_498
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
- pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: N
- oir\n\nContact équipe domicile: El Halimi A. (0488.95.55.05 - brusselslio
- nsfc@hotmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, aprè
- s 300 m. en direction de Lennik\, prendre à droite.\nVenant de la chauss
- ée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\
- , Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en
-  direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.abssa
- .be/\nVoir sur calabssa: https://calabssa.be/c/682_1_brussels_lions
-GEO:50.8177358;4.2557195
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER;CN="El Halimi A.";ROLE=Secrétaire:MAILTO:brusselslionsfc@hotmai
- l.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J20: BRUSSELS LIONS vs CENTRAL PARK FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20250308T113000Z
-DTEND;VALUE=DATE-TIME:20250308T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_5C_20_682_562
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
- pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: B
- ordeaux\n\nContact équipe domicile: El Halimi A. (0488.95.55.05 - brussel
- slionsfc@hotmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, a
- près 300 m. en direction de Lennik\, prendre à droite.\nVenant de la cha
- ussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Ver
- di\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m.
-  en direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.ab
- ssa.be/\nVoir sur calabssa: https://calabssa.be/c/682_1_brussels_lions
-GEO:50.8177358;4.2557195
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER;CN="El Halimi A.";ROLE=Secrétaire:MAILTO:brusselslionsfc@hotmai
- l.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J21: CHIEFS WSL (Eq. 3) vs BRUSSELS LIONS
-DTSTART;VALUE=DATE-TIME:20250315T113000Z
-DTEND;VALUE=DATE-TIME:20250315T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_5C_21_303_682
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
- ciel\n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan.be)
- \n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, puis l
- a chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce pon
- t le terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur http
- ://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/682_1_brussels_
- lions
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J22: BRUSSELS LIONS vs SAINT GEORGES RCS (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20250322T113000Z
-DTEND;VALUE=DATE-TIME:20250322T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_5C_22_682_221
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
- pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: B
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Vert/b
  lanc\n\nContact équipe domicile: El Halimi A. (0488.95.55.05 - brusselsli
  onsfc@hotmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, apr
  ès 300 m. en direction de Lennik\, prendre à droite.\nVenant de la chaus
@@ -504,5 +401,122 @@ LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
 ORGANIZER;CN="El Halimi A.";ROLE=Secrétaire:MAILTO:brusselslionsfc@hotmai
  l.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4C J21: SPARTA SCHEUT vs BRUSSELS LIONS
+DTSTART;VALUE=DATE-TIME:20260214T143000Z
+DTEND;VALUE=DATE-TIME:20260214T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_4C_21_340_682
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Noir
+ \n\nContact équipe domicile: Vande Velde J. (0486.97.70.66 - sparta.scheu
+ t@hotmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 3
+ 00 m. en direction de Lennik\, prendre à droite.\nVenant de la chaussée 
+ de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bl
+ d. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en dir
+ ection de Lennik.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+ \nVoir sur calabssa: https://calabssa.be/c/682_1_brussels_lions
+GEO:50.8177358;4.2557195
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER;CN="Vande Velde J.";ROLE=Secrétaire:MAILTO:sparta.scheut@hotmai
+ l.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4C J22: PANGLOSS FC vs BRUSSELS LIONS
+DTSTART;VALUE=DATE-TIME:20260221T130000Z
+DTEND;VALUE=DATE-TIME:20260221T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_4C_22_123_682
+DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Noir\
+ n\nContact équipe domicile: De Paduwa P. (0475.67.06.50 - p.depaduwa@gmai
+ l.com)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute Bru
+ xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
+ rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
+ four avec des feux de signalisation prendre à droite vers la Place de la 
+ Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
+ ain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces infos sur
+  http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/682_1_brus
+ sels_lions
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="De Paduwa P.";ROLE=Secrétaire:MAILTO:p.depaduwa@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4C J23: BRUSSELS LIONS vs PATRONS (LES)
+DTSTART;VALUE=DATE-TIME:20260228T113000Z
+DTEND;VALUE=DATE-TIME:20260228T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_4C_23_682_628
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge\
+ n\nContact équipe domicile: El Halimi A. (0488.95.55.05 - brusselslionsfc
+ @hotmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 30
+ 0 m. en direction de Lennik\, prendre à droite.\nVenant de la chaussée d
+ e Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld
+ . Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en dire
+ ction de Lennik.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\
+ nVoir sur calabssa: https://calabssa.be/c/682_1_brussels_lions
+GEO:50.8177358;4.2557195
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER;CN="El Halimi A.";ROLE=Secrétaire:MAILTO:brusselslionsfc@hotmai
+ l.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4C J24: MIREILLE WEMMEL vs BRUSSELS LIONS
+DTSTART;VALUE=DATE-TIME:20260307T143000Z
+DTEND;VALUE=DATE-TIME:20260307T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_4C_24_93_682
+DESCRIPTION:Terrain synthétique: non\nCode terrain: W16\n\nCouleur princi
+ pale équipe domicile: Rouge et  Noir\nCouleur principale équipe exterieu
+ re: Noir\n\nContact équipe domicile: Vermeerbergen D. (0497.31.76.07 - da
+ anvermeerbergen@hotmail.com)\n\nAccès voiture : Ring RO\, afrit Wemmel-Me
+ rchtem (n° 9)\, richting Merchtem volgen via de Is. Meyskensstraat tot aa
+ n de rotonde\, op de rotonde de 4de afslag nemen\, Diepstraat deze vloeit 
+ over in de Steenweg op Brussel\, 50 m. voorbij het eerste kruispunt met ve
+ rkeerslichten\, links van de steenweg\, bevindt zich het stadium (parking)
+ \n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabs
+ sa: https://calabssa.be/c/682_1_brussels_lions
+GEO:50.90024;4.4859439
+LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
+  Wemmel\, Belgique
+ORGANIZER;CN="Vermeerbergen D.";ROLE=Secrétaire:MAILTO:daanvermeerbergen@
+ hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4C J26: STRING PENELOPE (Eq. 2) vs BRUSSELS LIONS
+DTSTART;VALUE=DATE-TIME:20260321T113000Z
+DTEND;VALUE=DATE-TIME:20260321T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_4C_26_181_682
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Noir
+ \n\nContact équipe domicile: Sbaiti Y (0487.54.95.27 - yo.sbaiti@gmail.co
+ m)\n\nAccès voiture : En venant de Bruxelles\, prendre l'autoroute E411 e
+ n direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir la droite 
+ et au bout de la bretelle\, prendre la direction d'Ottignies par la N238. 
+ Au 1èr feu de signalisation continuer tout droit en passant devant Walibi
+  (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au bout de ce
+ tte sortie\, en face du Tennis Club La Palestre\, prendre à droite la rue
+  Charles Dubois\, jusqu'au carrefour principal. Continuer tout droit en tr
+ aversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du chemin de
+  fer et prendre la rue de l'Europe jusqu'à la place de l'Europe. Traverse
+ r cette place par la droite. Au bout à gauche\, suivre l'avenue Jassans. 
+ Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limelette). Con
+ tinuer cette rue et passer en dessous du 2ème pont du chemin de fer. Apr
+ ès ce pont\, prendre tout de suite à gauche l'avenue Demolder (panneau F
+ .C. Limelette)\, en face de l'étang du Buston. Suivre cette avenue jusqu'
+ à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m. dans cet
+ te rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C. Limelett
+ e). L'entrée du terrain est située 50 m. plus bas sur la gauche.\n\nVér
+ ifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: http
+ s://calabssa.be/c/682_1_brussels_lions
+GEO:50.67628029999999;4.562802
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Sbaiti Y";ROLE=Secrétaire:MAILTO:yo.sbaiti@gmail.com
 END:VEVENT
 END:VCALENDAR

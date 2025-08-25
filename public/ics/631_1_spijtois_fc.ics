@@ -4,105 +4,34 @@ PRODID:631_1_spijtois_fc
 X-WR-CALDESC:Les matches du club SPIJTOIS FC (equipe 1) en ABSSA.
 X-WR-CALNAME:ABSSA: SPIJTOIS FC (eq. 1)
 BEGIN:VEVENT
-SUMMARY:ABSSA D5B J23: WATERMAEL FC (Eq. 3) vs SPIJTOIS FC
-DTSTART;VALUE=DATE-TIME:20240831T103000Z
-DTEND;VALUE=DATE-TIME:20240831T120000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_5B_23_611_631
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc 
- Bordeaux\n\nContact équipe domicile: Deschamps J. (0477.67.76.37 - jul_de
- sch@hotmail.com)\n\nAccès voiture : A partir du square des Archiducs\, pr
- endre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez touj
- ours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabs
- sa.be/c/631_1_spijtois_fc
-GEO:50.80645209999999;4.4087184
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
+SUMMARY:ABSSA D4D J1: MILAN MIRAPIDE AC vs SPIJTOIS FC
+DTSTART;VALUE=DATE-TIME:20250830T133000Z
+DTEND;VALUE=DATE-TIME:20250830T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_4D_1_680_631
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bl
+ anc Bordeaux\n\nContact équipe domicile: Dubois B. (0498.46.80.76 - brieu
+ cdub@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Namur / Luxe
+ mbourg\, prendre la sortie n° 6 Wavre\, à gauche N 238 direction Wavre. 
+ Au rond-	point 2ième sortie N238/Blvd. de l'Europe direction Wavre Centre
+ . Entrer dans Wavre puis à gauche N 238\, à gauche N 239. 	Au rond-point
+  prendre la première sortie Rue Haute\, continuer sur rue de Bruxelles\, 
+ continuer sur rue Saint-Roch\, continuer 	sur rue Joseph Joppart. Prendre 
+ à droite l'avenue du Centre Sportif.\n\nVérifiez toujours ces infos sur 
+ http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/631_1_spijt
+ ois_fc
+GEO:50.720927;4.617368
+LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
+  Belgique
+ORGANIZER;CN="Dubois B.";ROLE=Secrétaire:MAILTO:brieucdub@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5B J1: EQUIPAGE vs SPIJTOIS FC
-DTSTART;VALUE=DATE-TIME:20240907T090000Z
-DTEND;VALUE=DATE-TIME:20240907T103000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_5B_1_681_631
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Blanc
-  Bordeaux\n\nContact équipe domicile: De Meulenaere C. (0473.76.57.11 - e
- quipagefc24@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendr
- e l'autoroute E411 en direction de Namur\, prendre la sortie  Wavre (n° 6
- )\, tenir la droite et au bout de la bretelle\, prendre la direction d'Ott
- ignies par la N238. Au 1èr feu de signalisation continuer tout droit en p
- assant devant Walibi (qui se trouve sur la gauche) jusqu'à la sortie Lime
- lette. Au bout de cette sortie\, en face du Tennis Club La Palestre\, pren
- dre à droite la rue Charles Dubois\, jusqu'au carrefour principal. Contin
- uer tout droit en traversant l'avenue Albert 1èr. Passer en dessous du 1
- èr pont du chemin de fer et prendre la rue de l'Europe jusqu'à la place 
- de l'Europe. Traverser cette place par la droite. Au bout à gauche\, suiv
- re l'avenue Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau
-  F.C. Limelette). Continuer cette rue et passer en dessous du 2ème pont d
- u chemin de fer. Après ce pont\, prendre tout de suite à gauche l'avenue
-  Demolder (panneau F.C. Limelette)\, en face de l'étang du Buston. Suivre
-  cette avenue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. A
- près 50 m. dans cette rue\, prendre à droite l'avenue des Sorbiers (pann
- eau du F.C. Limelette). L'entrée du terrain est située 50 m. plus bas su
- r la gauche.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoi
- r sur calabssa: https://calabssa.be/c/631_1_spijtois_fc
-GEO:50.67628029999999;4.562802
-LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER;CN="De Meulenaere C.";ROLE=Secrétaire:MAILTO:equipagefc24@gmail
- .com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5B J2: SPIJTOIS FC vs BLUE OTTERS F.C.
-DTSTART;VALUE=DATE-TIME:20240914T120000Z
-DTEND;VALUE=DATE-TIME:20240914T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_5B_2_631_668
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: U02\n\nCouleur princi
- pale équipe domicile: Blanc Bordeaux\nCouleur principale équipe exterieu
- re: Bleu\n\nContact équipe domicile: Marchese G. (0496.53.66.37 - marches
- e.gregoire21@yahoo.be)\n\nAccès voiture : L'entrée se fait par la rue du
-  Zwartebeek.\nPar le ring\, prendre la sortie Drogenbos-Ruisbroek\, direct
- ion Uccle\, par la rue de Stalle prolongée.  Après le rond-point prendre
-  la 1ère rue à gauche\, la chaussée de Neerstalle.\nEnsuite la 2ème ru
- e à gauche\, rue du Zwartebeek\, l'entrée du complexe est située à +/-
-  200 mètres sur la droite.\n\nVérifiez toujours ces infos sur http://www
- .abssa.be/\nVoir sur calabssa: https://calabssa.be/c/631_1_spijtois_fc
-GEO:50.7970805;4.3177254
-LOCATION:Leopold-Uccle\, Rue du Zwartebeek\, 1180 Uccle\, Belgique
-ORGANIZER;CN="Marchese G.";ROLE=Secrétaire:MAILTO:marchese.gregoire21@yah
- oo.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5B J3: WOLUWE FC vs SPIJTOIS FC
-DTSTART;VALUE=DATE-TIME:20240921T133000Z
-DTEND;VALUE=DATE-TIME:20240921T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_5B_3_153_631
-DESCRIPTION:Terrain synthétique: non\nCode terrain: R03\n\nCouleur princi
- pale équipe domicile: Jaune et Bleu\nCouleur principale équipe exterieur
- e: Blanc Bordeaux\n\nContact équipe domicile: Purnelle K. (0491.08.24.67 
- - kevin.purnelle@ing.com)\n\nAccès voiture : Par la E411 Bruxelles-Namur\
- , prendre la sortie n° 5 (Wavre Nord\, Rixensart\, Bierges).\nEnsuite pre
- ndre la N257 pendant 700 mètres jusqu'au rond-point\, prendre la rue de l
- 'Etoile et ensuite la rue de Mérode jusqu'à Rixensart. Après 900 mètre
- s\, à la Place de la Perche\, prendre à droite l'avenue de la Paix et en
- core à droite l'avenue Clermont Tonnerre.\n\nVérifiez toujours ces infos
-  sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/631_1_
- spijtois_fc
-GEO:50.7128483;4.5376972
-LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
- 30 Rixensart\, Belgique
-ORGANIZER;CN="Purnelle K.";ROLE=Secrétaire:MAILTO:kevin.purnelle@ing.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5B J4: SPIJTOIS FC vs CELTIC ROOSTERS (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20240928T120000Z
-DTEND;VALUE=DATE-TIME:20240928T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_5B_4_631_626
+SUMMARY:ABSSA D4D J2: SPIJTOIS FC vs CELTIC ROOSTERS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20250906T120000Z
+DTEND;VALUE=DATE-TIME:20250906T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_4D_2_631_626
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: U02\n\nCouleur princi
  pale équipe domicile: Blanc Bordeaux\nCouleur principale équipe exterieu
  re: Vert et blanc\n\nContact équipe domicile: Marchese G. (0496.53.66.37 
@@ -120,94 +49,281 @@ ORGANIZER;CN="Marchese G.";ROLE=Secrétaire:MAILTO:marchese.gregoire21@yah
  oo.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5B J5: CAFARD F.C. vs SPIJTOIS FC
-DTSTART;VALUE=DATE-TIME:20241005T130000Z
-DTEND;VALUE=DATE-TIME:20241005T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_5B_5_674_631
-DESCRIPTION:Terrain synthétique: non\nCode terrain: A10\n\nCouleur princi
+SUMMARY:ABSSA D4D J3: SAINT GEORGES RCS (Eq. 2) vs SPIJTOIS FC
+DTSTART;VALUE=DATE-TIME:20250913T133000Z
+DTEND;VALUE=DATE-TIME:20250913T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_4D_3_221_631
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
  pale équipe domicile: Vert\nCouleur principale équipe exterieure: Blanc 
- Bordeaux\n\nContact équipe domicile: Gonzalez H. (0470.52.25.86 - fccafar
- d@gmail.com)\n\nAccès voiture : L'accès au terrain se fait à partir du 
- n° 2057 de la chaussée de Wavre (en face du stade communal d'Auderghem).
-  L'accès au terrain se fait par l'arrière du bâtiment principal (où so
- nt situés les vestiaires) il faut parcourir environ 300 mètres avant d'a
- tteindre le terrain de football situé après la piste d'athlétisme et le
-  terrain de hockey.\n\nVérifiez toujours ces infos sur http://www.abssa.b
- e/\nVoir sur calabssa: https://calabssa.be/c/631_1_spijtois_fc
-GEO:50.8093405;4.4437919
-LOCATION:Complexe de L'Adeps\, Chaussée de Wavre 2057\, 1160 Auderghem\, 
- Belgique
-ORGANIZER;CN="Gonzalez H.";ROLE=Secrétaire:MAILTO:fccafard@gmail.com
+ Bordeaux\n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.de
+ stin@gmail.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"avenue 
+ Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujours ces info
+ s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/631_1
+ _spijtois_fc
+GEO:50.8333897;4.4384038
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5B J6: SPIJTOIS FC vs RANGERS F.C.
-DTSTART;VALUE=DATE-TIME:20241012T120000Z
-DTEND;VALUE=DATE-TIME:20241012T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_5B_6_631_620
+SUMMARY:ABSSA D4D J4: SPIJTOIS FC vs WAPPERS FC
+DTSTART;VALUE=DATE-TIME:20250920T120000Z
+DTEND;VALUE=DATE-TIME:20250920T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_4D_4_631_67
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: U02\n\nCouleur princi
  pale équipe domicile: Blanc Bordeaux\nCouleur principale équipe exterieu
- re: Blanc\n\nContact équipe domicile: Marchese G. (0496.53.66.37 - marche
- se.gregoire21@yahoo.be)\n\nAccès voiture : L'entrée se fait par la rue d
- u Zwartebeek.\nPar le ring\, prendre la sortie Drogenbos-Ruisbroek\, direc
- tion Uccle\, par la rue de Stalle prolongée.  Après le rond-point prendr
- e la 1ère rue à gauche\, la chaussée de Neerstalle.\nEnsuite la 2ème r
- ue à gauche\, rue du Zwartebeek\, l'entrée du complexe est située à +/
- - 200 mètres sur la droite.\n\nVérifiez toujours ces infos sur http://ww
- w.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/631_1_spijtois_fc
+ re: Rayé noir et blanc\n\nContact équipe domicile: Marchese G. (0496.53.
+ 66.37 - marchese.gregoire21@yahoo.be)\n\nAccès voiture : L'entrée se fai
+ t par la rue du Zwartebeek.\nPar le ring\, prendre la sortie Drogenbos-Rui
+ sbroek\, direction Uccle\, par la rue de Stalle prolongée.  Après le ron
+ d-point prendre la 1ère rue à gauche\, la chaussée de Neerstalle.\nEnsu
+ ite la 2ème rue à gauche\, rue du Zwartebeek\, l'entrée du complexe est
+  située à +/- 200 mètres sur la droite.\n\nVérifiez toujours ces infos
+  sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/631_1_
+ spijtois_fc
 GEO:50.7970805;4.3177254
 LOCATION:Leopold-Uccle\, Rue du Zwartebeek\, 1180 Uccle\, Belgique
 ORGANIZER;CN="Marchese G.";ROLE=Secrétaire:MAILTO:marchese.gregoire21@yah
  oo.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5B J25: SPIJTOIS FC vs BLACK BEARS UNITED
-DTSTART;VALUE=DATE-TIME:20241019T120000Z
-DTEND;VALUE=DATE-TIME:20241019T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_5B_25_631_676
+SUMMARY:ABSSA D4D J5: FRAUDES (LES) vs SPIJTOIS FC
+DTSTART;VALUE=DATE-TIME:20250927T103000Z
+DTEND;VALUE=DATE-TIME:20250927T120000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_4D_5_665_631
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E08\n\nCouleur princi
+ pale équipe domicile: Noir et blanc\nCouleur principale équipe exterieur
+ e: Blanc Bordeaux\n\nContact équipe domicile: Grewal S (0487.40.46.72 - S
+ imrangrwl@outlook.com)\n\nAccès voiture : Le terrain se trouve derrière 
+ l'église St. Vincent\n\nVérifiez toujours ces infos sur http://www.abssa
+ .be/\nVoir sur calabssa: https://calabssa.be/c/631_1_spijtois_fc
+GEO:50.8803867;4.4003168
+LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue Stroobants 75\, 1140 Evere\,
+  Belgique
+ORGANIZER;CN="Grewal S";ROLE=Secrétaire:MAILTO:Simrangrwl@outlook.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J6: SPIJTOIS FC vs COSMOS BRUWOLF MJ
+DTSTART;VALUE=DATE-TIME:20251004T120000Z
+DTEND;VALUE=DATE-TIME:20251004T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_4D_6_631_338
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: U02\n\nCouleur princi
  pale équipe domicile: Blanc Bordeaux\nCouleur principale équipe exterieu
- re: Rose et noir\n\nContact équipe domicile: Marchese G. (0496.53.66.37 -
-  marchese.gregoire21@yahoo.be)\n\nAccès voiture : L'entrée se fait par l
- a rue du Zwartebeek.\nPar le ring\, prendre la sortie Drogenbos-Ruisbroek\
- , direction Uccle\, par la rue de Stalle prolongée.  Après le rond-point
-  prendre la 1ère rue à gauche\, la chaussée de Neerstalle.\nEnsuite la 
- 2ème rue à gauche\, rue du Zwartebeek\, l'entrée du complexe est situé
- e à +/- 200 mètres sur la droite.\n\nVérifiez toujours ces infos sur ht
- tp://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/631_1_spijtoi
- s_fc
+ re: Orange\n\nContact équipe domicile: Marchese G. (0496.53.66.37 - march
+ ese.gregoire21@yahoo.be)\n\nAccès voiture : L'entrée se fait par la rue 
+ du Zwartebeek.\nPar le ring\, prendre la sortie Drogenbos-Ruisbroek\, dire
+ ction Uccle\, par la rue de Stalle prolongée.  Après le rond-point prend
+ re la 1ère rue à gauche\, la chaussée de Neerstalle.\nEnsuite la 2ème 
+ rue à gauche\, rue du Zwartebeek\, l'entrée du complexe est située à +
+ /- 200 mètres sur la droite.\n\nVérifiez toujours ces infos sur http://w
+ ww.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/631_1_spijtois_fc
 GEO:50.7970805;4.3177254
 LOCATION:Leopold-Uccle\, Rue du Zwartebeek\, 1180 Uccle\, Belgique
 ORGANIZER;CN="Marchese G.";ROLE=Secrétaire:MAILTO:marchese.gregoire21@yah
  oo.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5B J7: COSMOS BRUWOLF MJ vs SPIJTOIS FC
-DTSTART;VALUE=DATE-TIME:20241102T143000Z
-DTEND;VALUE=DATE-TIME:20241102T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_5B_7_338_631
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
- pale équipe domicile: Orange\nCouleur principale équipe exterieure: Blan
- c Bordeaux\n\nContact équipe domicile: Dehaut A. (0476.26.26.87 - alain.d
- ehaut@skynet.be)\n\nAccès voiture : Direction cimetière de Jette\, ensui
- te prendre la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, aven
- ue J.J. Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces i
- nfos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/63
- 1_1_spijtois_fc
-GEO:50.8868564;4.3286963
-LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
- Belgique
-ORGANIZER;CN="Dehaut A.";ROLE=Secrétaire:MAILTO:alain.dehaut@skynet.be
+SUMMARY:ABSSA D4D J7: LORGNETTE (LA)  FC vs SPIJTOIS FC
+DTSTART;VALUE=DATE-TIME:20251011T103000Z
+DTEND;VALUE=DATE-TIME:20251011T120000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_4D_7_392_631
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E07\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bl
+ anc Bordeaux\n\nContact équipe domicile: El Khaldi K (0486.20.04.80 - kar
+ im.elkhaldi@hotmail.com)\n\nAccès voiture : Boulevard Lambermont\, prendr
+ e le boulevard Léopold III\, direction aéroport de Bruxelles-National\, 
+ au 3ème feu de signalisation prendre à droite. le terrain se trouve à 5
+ 0 m.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur ca
+ labssa: https://calabssa.be/c/631_1_spijtois_fc
+GEO:50.8691994;4.406709999999999
+LOCATION:Complexe Sportif Evere\, Avenue des Anciens Combattants 300\, 114
+ 0 Evere\, Belgique
+ORGANIZER;CN="El Khaldi K";ROLE=Secrétaire:MAILTO:karim.elkhaldi@hotmail.
+ com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5B J9: WAPPERS FC (Eq. 2) vs SPIJTOIS FC
-DTSTART;VALUE=DATE-TIME:20241116T140000Z
-DTEND;VALUE=DATE-TIME:20241116T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_5B_9_67_631
+SUMMARY:ABSSA D4D J8: SPIJTOIS FC vs AZUR RCS (Eq. 4)
+DTSTART;VALUE=DATE-TIME:20251018T120000Z
+DTEND;VALUE=DATE-TIME:20251018T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_4D_8_631_109
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: U02\n\nCouleur princi
+ pale équipe domicile: Blanc Bordeaux\nCouleur principale équipe exterieu
+ re: Bleu\n\nContact équipe domicile: Marchese G. (0496.53.66.37 - marches
+ e.gregoire21@yahoo.be)\n\nAccès voiture : L'entrée se fait par la rue du
+  Zwartebeek.\nPar le ring\, prendre la sortie Drogenbos-Ruisbroek\, direct
+ ion Uccle\, par la rue de Stalle prolongée.  Après le rond-point prendre
+  la 1ère rue à gauche\, la chaussée de Neerstalle.\nEnsuite la 2ème ru
+ e à gauche\, rue du Zwartebeek\, l'entrée du complexe est située à +/-
+  200 mètres sur la droite.\n\nVérifiez toujours ces infos sur http://www
+ .abssa.be/\nVoir sur calabssa: https://calabssa.be/c/631_1_spijtois_fc
+GEO:50.7970805;4.3177254
+LOCATION:Leopold-Uccle\, Rue du Zwartebeek\, 1180 Uccle\, Belgique
+ORGANIZER;CN="Marchese G.";ROLE=Secrétaire:MAILTO:marchese.gregoire21@yah
+ oo.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J9: MOUSSES TACHENT vs SPIJTOIS FC
+DTSTART;VALUE=DATE-TIME:20251025T113000Z
+DTEND;VALUE=DATE-TIME:20251025T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_4D_9_643_631
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bl
+ anc Bordeaux\n\nContact équipe domicile: Callant S (0478.61.90.26 - les.m
+ ousses.tachent@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Na
+ mur / Luxembourg\, prendre la sortie n° 6 Wavre\, à gauche N 238 directi
+ on Wavre. Au rond-	point 2ième sortie N238/Blvd. de l'Europe direction Wa
+ vre Centre. Entrer dans Wavre puis à gauche N 238\, à gauche N 239. 	Au 
+ rond-point prendre la première sortie Rue Haute\, continuer sur rue de Br
+ uxelles\, continuer sur rue Saint-Roch\, continuer 	sur rue Joseph Joppart
+ . Prendre à droite l'avenue du Centre Sportif.\n\nVérifiez toujours ces 
+ infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/6
+ 31_1_spijtois_fc
+GEO:50.720927;4.617368
+LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
+  Belgique
+ORGANIZER;CN="Callant S";ROLE=Secrétaire:MAILTO:les.mousses.tachent@gmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J10: SPIJTOIS FC vs RAPID MYMOL
+DTSTART;VALUE=DATE-TIME:20251108T130000Z
+DTEND;VALUE=DATE-TIME:20251108T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_4D_10_631_622
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: U02\n\nCouleur princi
+ pale équipe domicile: Blanc Bordeaux\nCouleur principale équipe exterieu
+ re: Bleu et Jaune\n\nContact équipe domicile: Marchese G. (0496.53.66.37 
+ - marchese.gregoire21@yahoo.be)\n\nAccès voiture : L'entrée se fait par 
+ la rue du Zwartebeek.\nPar le ring\, prendre la sortie Drogenbos-Ruisbroek
+ \, direction Uccle\, par la rue de Stalle prolongée.  Après le rond-poin
+ t prendre la 1ère rue à gauche\, la chaussée de Neerstalle.\nEnsuite la
+  2ème rue à gauche\, rue du Zwartebeek\, l'entrée du complexe est situ
+ ée à +/- 200 mètres sur la droite.\n\nVérifiez toujours ces infos sur 
+ http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/631_1_spijt
+ ois_fc
+GEO:50.7970805;4.3177254
+LOCATION:Leopold-Uccle\, Rue du Zwartebeek\, 1180 Uccle\, Belgique
+ORGANIZER;CN="Marchese G.";ROLE=Secrétaire:MAILTO:marchese.gregoire21@yah
+ oo.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J11: BRITISH UNITED (Eq. 4) vs SPIJTOIS FC
+DTSTART;VALUE=DATE-TIME:20251115T113000Z
+DTEND;VALUE=DATE-TIME:20251115T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_4D_11_132_631
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc 
+ Bordeaux\n\nContact équipe domicile: Caballero G (0479.79.86.54 - guillem
+ _955@hotmail.com)\n\nAccès voiture : A partir de Bruxelles\, prendre la E
+  411 en direction de Namur. Prendre la sortie N° 8 puis à droite la bret
+ elle pour la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +
+ /- 6\,5 km\, au rond-point\, prendre la sortie 1 vers la N 420 Chée. de l
+ a Libération\, puis à gauche dans la rue de la Grande lecke.\n\nVérifie
+ z toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://
+ calabssa.be/c/631_1_spijtois_fc
+GEO:50.7611768;4.7884455
+LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
+ORGANIZER;CN="Caballero G";ROLE=Secrétaire:MAILTO:guillem_955@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J12: CORNAC UNITED FC vs SPIJTOIS FC
+DTSTART;VALUE=DATE-TIME:20251122T130000Z
+DTEND;VALUE=DATE-TIME:20251122T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_4D_12_151_631
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A01\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Blanc
+  Bordeaux\n\nContact équipe domicile: Denayer M. (0476.53.14.48 - marcden
+ ayermd@gmail.com)\n\nAccès voiture : Par le Ring Ouest\, direction Paris\
+ , sortie Westland Shopping Center (n° 14) continuer tout droit\, remonter
+  vers le Ring et prendre à droite pour sortir vers Itterbeek. Prendre l'a
+ venue d'Itterbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. Le t
+ errain se trouve à gauche\, entre l'école Van Belle et Veeweyde.\n\nVér
+ ifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: http
+ s://calabssa.be/c/631_1_spijtois_fc
+GEO:50.8356088;4.2760612
+LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
+ORGANIZER;CN="Denayer M.";ROLE=Secrétaire:MAILTO:marcdenayermd@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J14: SPIJTOIS FC vs MILAN MIRAPIDE AC
+DTSTART;VALUE=DATE-TIME:20251206T130000Z
+DTEND;VALUE=DATE-TIME:20251206T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_4D_14_631_680
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: U02\n\nCouleur princi
+ pale équipe domicile: Blanc Bordeaux\nCouleur principale équipe exterieu
+ re: Bordeaux\n\nContact équipe domicile: Marchese G. (0496.53.66.37 - mar
+ chese.gregoire21@yahoo.be)\n\nAccès voiture : L'entrée se fait par la ru
+ e du Zwartebeek.\nPar le ring\, prendre la sortie Drogenbos-Ruisbroek\, di
+ rection Uccle\, par la rue de Stalle prolongée.  Après le rond-point pre
+ ndre la 1ère rue à gauche\, la chaussée de Neerstalle.\nEnsuite la 2èm
+ e rue à gauche\, rue du Zwartebeek\, l'entrée du complexe est située à
+  +/- 200 mètres sur la droite.\n\nVérifiez toujours ces infos sur http:/
+ /www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/631_1_spijtois_fc
+GEO:50.7970805;4.3177254
+LOCATION:Leopold-Uccle\, Rue du Zwartebeek\, 1180 Uccle\, Belgique
+ORGANIZER;CN="Marchese G.";ROLE=Secrétaire:MAILTO:marchese.gregoire21@yah
+ oo.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J15: CELTIC ROOSTERS (Eq. 2) vs SPIJTOIS FC
+DTSTART;VALUE=DATE-TIME:20251213T130000Z
+DTEND;VALUE=DATE-TIME:20251213T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_4D_15_626_631
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
+ pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
+ e: Blanc Bordeaux\n\nContact équipe domicile: Dubois S. (0479.04.13.70 - 
+ celticroosters@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Na
+ mur / Luxembourg\, prendre la sortie n° 6 Wavre\, à gauche N 238 directi
+ on Wavre. Au rond-	point 2ième sortie N238/Blvd. de l'Europe direction Wa
+ vre Centre. Entrer dans Wavre puis à gauche N 238\, à gauche N 239. 	Au 
+ rond-point prendre la première sortie Rue Haute\, continuer sur rue de Br
+ uxelles\, continuer sur rue Saint-Roch\, continuer 	sur rue Joseph Joppart
+ . Prendre à droite l'avenue du Centre Sportif.\n\nVérifiez toujours ces 
+ infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/6
+ 31_1_spijtois_fc
+GEO:50.720927;4.617368
+LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
+  Belgique
+ORGANIZER;CN="Dubois S.";ROLE=Secrétaire:MAILTO:celticroosters@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J16: SPIJTOIS FC vs SAINT GEORGES RCS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260110T130000Z
+DTEND;VALUE=DATE-TIME:20260110T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_4D_16_631_221
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: U02\n\nCouleur princi
+ pale équipe domicile: Blanc Bordeaux\nCouleur principale équipe exterieu
+ re: Vert\n\nContact équipe domicile: Marchese G. (0496.53.66.37 - marches
+ e.gregoire21@yahoo.be)\n\nAccès voiture : L'entrée se fait par la rue du
+  Zwartebeek.\nPar le ring\, prendre la sortie Drogenbos-Ruisbroek\, direct
+ ion Uccle\, par la rue de Stalle prolongée.  Après le rond-point prendre
+  la 1ère rue à gauche\, la chaussée de Neerstalle.\nEnsuite la 2ème ru
+ e à gauche\, rue du Zwartebeek\, l'entrée du complexe est située à +/-
+  200 mètres sur la droite.\n\nVérifiez toujours ces infos sur http://www
+ .abssa.be/\nVoir sur calabssa: https://calabssa.be/c/631_1_spijtois_fc
+GEO:50.7970805;4.3177254
+LOCATION:Leopold-Uccle\, Rue du Zwartebeek\, 1180 Uccle\, Belgique
+ORGANIZER;CN="Marchese G.";ROLE=Secrétaire:MAILTO:marchese.gregoire21@yah
+ oo.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J17: WAPPERS FC vs SPIJTOIS FC
+DTSTART;VALUE=DATE-TIME:20260117T123000Z
+DTEND;VALUE=DATE-TIME:20260117T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_4D_17_67_631
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W19\n\nCouleur princi
  pale équipe domicile: Rayé noir et blanc\nCouleur principale équipe ext
  erieure: Blanc Bordeaux\n\nContact équipe domicile: Vinck B. (0475.92.57.
@@ -227,40 +343,19 @@ LOCATION:Sportpleinstraat 20\, 1970 Wezembeek - Oppem\, Belgique
 ORGANIZER;CN="Vinck B.";ROLE=Secrétaire:MAILTO:bernard.vinck@belgacom.net
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5B J12: BLACK BEARS UNITED vs SPIJTOIS FC
-DTSTART;VALUE=DATE-TIME:20241123T130000Z
-DTEND;VALUE=DATE-TIME:20241123T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_5B_12_676_631
-DESCRIPTION:Terrain synthétique: non\nCode terrain: N04\n\nCouleur princi
- pale équipe domicile: Rose et noir\nCouleur principale équipe exterieure
- : Blanc Bordeaux\n\nContact équipe domicile: Demesmaecker J. (0483.53.94.
- 20 - bbu.abssa@gmail.com)\n\nAccès voiture : Chaussée de Louvain jusqu'
- à Nossegem\, au premier croisement prendre à gauche la \nMechelsesteenwe
- g. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxel
- les-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la 
- Mechelsesteenweg\, traverser la chaussée de Louvain\, et suivre comme ci-
- avant.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur 
- calabssa: https://calabssa.be/c/631_1_spijtois_fc
-GEO:50.88776559999999;4.50894
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER;CN="Demesmaecker J.";ROLE=Secrétaire:MAILTO:bbu.abssa@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5B J11: SPIJTOIS FC vs BAYERN DE MONIQUE
-DTSTART;VALUE=DATE-TIME:20241130T130000Z
-DTEND;VALUE=DATE-TIME:20241130T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_5B_11_631_417
+SUMMARY:ABSSA D4D J18: SPIJTOIS FC vs FRAUDES (LES)
+DTSTART;VALUE=DATE-TIME:20260124T130000Z
+DTEND;VALUE=DATE-TIME:20260124T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_4D_18_631_665
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: U02\n\nCouleur princi
  pale équipe domicile: Blanc Bordeaux\nCouleur principale équipe exterieu
- re: Rouge et blanc\n\nContact équipe domicile: Marchese G. (0496.53.66.37
-  - marchese.gregoire21@yahoo.be)\n\nAccès voiture : L'entrée se fait par
-  la rue du Zwartebeek.\nPar le ring\, prendre la sortie Drogenbos-Ruisbroe
- k\, direction Uccle\, par la rue de Stalle prolongée.  Après le rond-poi
- nt prendre la 1ère rue à gauche\, la chaussée de Neerstalle.\nEnsuite l
- a 2ème rue à gauche\, rue du Zwartebeek\, l'entrée du complexe est situ
+ re: Noir et blanc\n\nContact équipe domicile: Marchese G. (0496.53.66.37 
+ - marchese.gregoire21@yahoo.be)\n\nAccès voiture : L'entrée se fait par 
+ la rue du Zwartebeek.\nPar le ring\, prendre la sortie Drogenbos-Ruisbroek
+ \, direction Uccle\, par la rue de Stalle prolongée.  Après le rond-poin
+ t prendre la 1ère rue à gauche\, la chaussée de Neerstalle.\nEnsuite la
+  2ème rue à gauche\, rue du Zwartebeek\, l'entrée du complexe est situ
  ée à +/- 200 mètres sur la droite.\n\nVérifiez toujours ces infos sur 
  http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/631_1_spijt
  ois_fc
@@ -270,11 +365,118 @@ ORGANIZER;CN="Marchese G.";ROLE=Secrétaire:MAILTO:marchese.gregoire21@yah
  oo.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5B J10: SPIJTOIS FC vs WATERMAEL FC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20241207T130000Z
-DTEND;VALUE=DATE-TIME:20241207T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_5B_10_631_611
+SUMMARY:ABSSA D4D J19: COSMOS BRUWOLF MJ vs SPIJTOIS FC
+DTSTART;VALUE=DATE-TIME:20260131T143000Z
+DTEND;VALUE=DATE-TIME:20260131T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_4D_19_338_631
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Blan
+ c Bordeaux\n\nContact équipe domicile: Engels F (0479.88.25.84 - Pitchesw
+ a@msn.com)\n\nAccès voiture : Direction cimetière de Jette\, ensuite pre
+ ndre la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J
+ . Crocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces infos s
+ ur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/631_1_sp
+ ijtois_fc
+GEO:50.88794619999999;4.3264137
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
+ Belgique
+ORGANIZER;CN="Engels F";ROLE=Secrétaire:MAILTO:Pitcheswa@msn.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J20: SPIJTOIS FC vs LORGNETTE (LA)  FC
+DTSTART;VALUE=DATE-TIME:20260207T130000Z
+DTEND;VALUE=DATE-TIME:20260207T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_4D_20_631_392
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: U02\n\nCouleur princi
+ pale équipe domicile: Blanc Bordeaux\nCouleur principale équipe exterieu
+ re: Bordeaux\n\nContact équipe domicile: Marchese G. (0496.53.66.37 - mar
+ chese.gregoire21@yahoo.be)\n\nAccès voiture : L'entrée se fait par la ru
+ e du Zwartebeek.\nPar le ring\, prendre la sortie Drogenbos-Ruisbroek\, di
+ rection Uccle\, par la rue de Stalle prolongée.  Après le rond-point pre
+ ndre la 1ère rue à gauche\, la chaussée de Neerstalle.\nEnsuite la 2èm
+ e rue à gauche\, rue du Zwartebeek\, l'entrée du complexe est située à
+  +/- 200 mètres sur la droite.\n\nVérifiez toujours ces infos sur http:/
+ /www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/631_1_spijtois_fc
+GEO:50.7970805;4.3177254
+LOCATION:Leopold-Uccle\, Rue du Zwartebeek\, 1180 Uccle\, Belgique
+ORGANIZER;CN="Marchese G.";ROLE=Secrétaire:MAILTO:marchese.gregoire21@yah
+ oo.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J21: AZUR RCS (Eq. 4) vs SPIJTOIS FC
+DTSTART;VALUE=DATE-TIME:20260214T110000Z
+DTEND;VALUE=DATE-TIME:20260214T123000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_4D_21_109_631
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W12\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc 
+ Bordeaux\n\nContact équipe domicile: Mad. Decamps N. (0477.27.39.66 - nat
+ halie_decamps@hotmail.com)\n\nAccès voiture : Avenue de Tervuren\, direct
+ ion Tervuren. Passé le boulevard du Souverain prendre à gauche au premie
+ r feu de signalisation (Av. Madoux). Au feu de signalisation suivant prend
+ re la 2ème rue à main droite (Av. J. Dujardin). Ensuite 1ère rue à gau
+ che (Av. Salomé).\n\nVérifiez toujours ces infos sur http://www.abssa.be
+ /\nVoir sur calabssa: https://calabssa.be/c/631_1_spijtois_fc
+GEO:50.8308291;4.4555375
+LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
+ elgique
+ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
+ tmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J22: SPIJTOIS FC vs MOUSSES TACHENT
+DTSTART;VALUE=DATE-TIME:20260221T130000Z
+DTEND;VALUE=DATE-TIME:20260221T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_4D_22_631_643
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: U02\n\nCouleur princi
+ pale équipe domicile: Blanc Bordeaux\nCouleur principale équipe exterieu
+ re: Bordeaux\n\nContact équipe domicile: Marchese G. (0496.53.66.37 - mar
+ chese.gregoire21@yahoo.be)\n\nAccès voiture : L'entrée se fait par la ru
+ e du Zwartebeek.\nPar le ring\, prendre la sortie Drogenbos-Ruisbroek\, di
+ rection Uccle\, par la rue de Stalle prolongée.  Après le rond-point pre
+ ndre la 1ère rue à gauche\, la chaussée de Neerstalle.\nEnsuite la 2èm
+ e rue à gauche\, rue du Zwartebeek\, l'entrée du complexe est située à
+  +/- 200 mètres sur la droite.\n\nVérifiez toujours ces infos sur http:/
+ /www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/631_1_spijtois_fc
+GEO:50.7970805;4.3177254
+LOCATION:Leopold-Uccle\, Rue du Zwartebeek\, 1180 Uccle\, Belgique
+ORGANIZER;CN="Marchese G.";ROLE=Secrétaire:MAILTO:marchese.gregoire21@yah
+ oo.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J23: RAPID MYMOL vs SPIJTOIS FC
+DTSTART;VALUE=DATE-TIME:20260228T123000Z
+DTEND;VALUE=DATE-TIME:20260228T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_4D_23_622_631
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W19\n\nCouleur princi
+ pale équipe domicile: Bleu et Jaune\nCouleur principale équipe exterieur
+ e: Blanc Bordeaux\n\nContact équipe domicile: Delanghe A. (0498.42.21.39 
+ - rapidmymolabssa@gmail.com)\n\nAccès voiture : Ring de Bruxelles (RO)\, 
+ sortie n° 2. Prendre la direction Wezembeek-Oppem. Ensuite première rue 
+ à droite (Louis Marcelisstraat) puis la troisième à droite (Sportpleins
+ traat).\nL'entrée au terrain se trouve à gauche entre les n° 16 et 24.\
+ nPar la ville : A partir du rond point Montgomery\, prendre l'Avenue de Br
+ oqueville\, toujours tout droit. Passez devant le Shopping de Woluwé\, to
+ ujours tout droit\, passez devant le magasin "Carrefour"\, puis au 2ème f
+ eu de signalisation prendre à droite et ensuite tout droit. Au bout de la
+  rue prendre à droite\, le terrain se trouve à 100 mètres  sur la gauch
+ e.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur cala
+ bssa: https://calabssa.be/c/631_1_spijtois_fc
+GEO:50.8424578;4.486587999999999
+LOCATION:Sportpleinstraat 20\, 1970 Wezembeek - Oppem\, Belgique
+ORGANIZER;CN="Delanghe A.";ROLE=Secrétaire:MAILTO:rapidmymolabssa@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4D J24: SPIJTOIS FC vs BRITISH UNITED (Eq. 4)
+DTSTART;VALUE=DATE-TIME:20260307T130000Z
+DTEND;VALUE=DATE-TIME:20260307T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_4D_24_631_132
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: U02\n\nCouleur princi
  pale équipe domicile: Blanc Bordeaux\nCouleur principale équipe exterieu
  re: Bleu\n\nContact équipe domicile: Marchese G. (0496.53.66.37 - marches
@@ -291,36 +493,14 @@ ORGANIZER;CN="Marchese G.";ROLE=Secrétaire:MAILTO:marchese.gregoire21@yah
  oo.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5B J13: SPIJTOIS FC vs UNION VREDE
-DTSTART;VALUE=DATE-TIME:20241214T130000Z
-DTEND;VALUE=DATE-TIME:20241214T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_5B_13_631_683
+SUMMARY:ABSSA D4D J25: SPIJTOIS FC vs CORNAC UNITED FC
+DTSTART;VALUE=DATE-TIME:20260314T130000Z
+DTEND;VALUE=DATE-TIME:20260314T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_4D_25_631_151
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: U02\n\nCouleur princi
  pale équipe domicile: Blanc Bordeaux\nCouleur principale équipe exterieu
- re: noir et doré\n\nContact équipe domicile: Marchese G. (0496.53.66.37 
- - marchese.gregoire21@yahoo.be)\n\nAccès voiture : L'entrée se fait par 
- la rue du Zwartebeek.\nPar le ring\, prendre la sortie Drogenbos-Ruisbroek
- \, direction Uccle\, par la rue de Stalle prolongée.  Après le rond-poin
- t prendre la 1ère rue à gauche\, la chaussée de Neerstalle.\nEnsuite la
-  2ème rue à gauche\, rue du Zwartebeek\, l'entrée du complexe est situ
- ée à +/- 200 mètres sur la droite.\n\nVérifiez toujours ces infos sur 
- http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/631_1_spijt
- ois_fc
-GEO:50.7970805;4.3177254
-LOCATION:Leopold-Uccle\, Rue du Zwartebeek\, 1180 Uccle\, Belgique
-ORGANIZER;CN="Marchese G.";ROLE=Secrétaire:MAILTO:marchese.gregoire21@yah
- oo.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5B J14: SPIJTOIS FC vs EQUIPAGE
-DTSTART;VALUE=DATE-TIME:20250111T130000Z
-DTEND;VALUE=DATE-TIME:20250111T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_5B_14_631_681
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: U02\n\nCouleur princi
- pale équipe domicile: Blanc Bordeaux\nCouleur principale équipe exterieu
- re: Blanc\n\nContact équipe domicile: Marchese G. (0496.53.66.37 - marche
+ re: Rouge\n\nContact équipe domicile: Marchese G. (0496.53.66.37 - marche
  se.gregoire21@yahoo.be)\n\nAccès voiture : L'entrée se fait par la rue d
  u Zwartebeek.\nPar le ring\, prendre la sortie Drogenbos-Ruisbroek\, direc
  tion Uccle\, par la rue de Stalle prolongée.  Après le rond-point prendr
@@ -328,176 +508,6 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: U02\n\nCouleur princi
  ue à gauche\, rue du Zwartebeek\, l'entrée du complexe est située à +/
  - 200 mètres sur la droite.\n\nVérifiez toujours ces infos sur http://ww
  w.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/631_1_spijtois_fc
-GEO:50.7970805;4.3177254
-LOCATION:Leopold-Uccle\, Rue du Zwartebeek\, 1180 Uccle\, Belgique
-ORGANIZER;CN="Marchese G.";ROLE=Secrétaire:MAILTO:marchese.gregoire21@yah
- oo.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5B J15: BLUE OTTERS F.C. vs SPIJTOIS FC
-DTSTART;VALUE=DATE-TIME:20250118T113000Z
-DTEND;VALUE=DATE-TIME:20250118T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_5B_15_668_631
-DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc 
- Bordeaux\n\nContact équipe domicile: De Crombrugghe A. (0491.63.38.39 - a
- maurydecrom@yahoo.com)\n\nAccès voiture : Au départ de la Place Meiser\,
-  l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). 
- Sous le viaduc prendre à droite\, l'avenue des Anciens Combattants. Juste
-  après le carrefour avec des feux de signalisation prendre à droite vers
-  la Place de la Chapelle\, puis prendre la 4ème rue à main droite (rue a
- u Bois). Le terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujou
- rs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa
- .be/c/631_1_spijtois_fc
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER;CN="De Crombrugghe A.";ROLE=Secrétaire:MAILTO:amaurydecrom@yaho
- o.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5B J16: SPIJTOIS FC vs WOLUWE FC
-DTSTART;VALUE=DATE-TIME:20250125T130000Z
-DTEND;VALUE=DATE-TIME:20250125T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_5B_16_631_153
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: U02\n\nCouleur princi
- pale équipe domicile: Blanc Bordeaux\nCouleur principale équipe exterieu
- re: Jaune et Bleu\n\nContact équipe domicile: Marchese G. (0496.53.66.37 
- - marchese.gregoire21@yahoo.be)\n\nAccès voiture : L'entrée se fait par 
- la rue du Zwartebeek.\nPar le ring\, prendre la sortie Drogenbos-Ruisbroek
- \, direction Uccle\, par la rue de Stalle prolongée.  Après le rond-poin
- t prendre la 1ère rue à gauche\, la chaussée de Neerstalle.\nEnsuite la
-  2ème rue à gauche\, rue du Zwartebeek\, l'entrée du complexe est situ
- ée à +/- 200 mètres sur la droite.\n\nVérifiez toujours ces infos sur 
- http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/631_1_spijt
- ois_fc
-GEO:50.7970805;4.3177254
-LOCATION:Leopold-Uccle\, Rue du Zwartebeek\, 1180 Uccle\, Belgique
-ORGANIZER;CN="Marchese G.";ROLE=Secrétaire:MAILTO:marchese.gregoire21@yah
- oo.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5B J17: CELTIC ROOSTERS (Eq. 2) vs SPIJTOIS FC
-DTSTART;VALUE=DATE-TIME:20250201T130000Z
-DTEND;VALUE=DATE-TIME:20250201T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_5B_17_626_631
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
- pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
- e: Blanc Bordeaux\n\nContact équipe domicile: Dubois S. (0479.04.13.70 - 
- celticroosters@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Na
- mur / Luxembourg\, prendre la sortie n° 6 Wavre\, à gauche N 238 directi
- on Wavre. Au rond-	point 2ième sortie N238/Blvd. de l'Europe direction Wa
- vre Centre. Entrer dans Wavre puis à gauche N 238\, à gauche N 239. 	Au 
- rond-point prendre la première sortie Rue Haute\, continuer sur rue de Br
- uxelles\, continuer sur rue Saint-Roch\, continuer 	sur rue Joseph Joppart
- . Prendre à droite l'avenue du Centre Sportif.\n\nVérifiez toujours ces 
- infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/6
- 31_1_spijtois_fc
-GEO:50.72071949999999;4.617067899999999
-LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
-  Belgique
-ORGANIZER;CN="Dubois S.";ROLE=Secrétaire:MAILTO:celticroosters@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5B J18: SPIJTOIS FC vs CAFARD F.C.
-DTSTART;VALUE=DATE-TIME:20250208T130000Z
-DTEND;VALUE=DATE-TIME:20250208T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_5B_18_631_674
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: U02\n\nCouleur princi
- pale équipe domicile: Blanc Bordeaux\nCouleur principale équipe exterieu
- re: Vert\n\nContact équipe domicile: Marchese G. (0496.53.66.37 - marches
- e.gregoire21@yahoo.be)\n\nAccès voiture : L'entrée se fait par la rue du
-  Zwartebeek.\nPar le ring\, prendre la sortie Drogenbos-Ruisbroek\, direct
- ion Uccle\, par la rue de Stalle prolongée.  Après le rond-point prendre
-  la 1ère rue à gauche\, la chaussée de Neerstalle.\nEnsuite la 2ème ru
- e à gauche\, rue du Zwartebeek\, l'entrée du complexe est située à +/-
-  200 mètres sur la droite.\n\nVérifiez toujours ces infos sur http://www
- .abssa.be/\nVoir sur calabssa: https://calabssa.be/c/631_1_spijtois_fc
-GEO:50.7970805;4.3177254
-LOCATION:Leopold-Uccle\, Rue du Zwartebeek\, 1180 Uccle\, Belgique
-ORGANIZER;CN="Marchese G.";ROLE=Secrétaire:MAILTO:marchese.gregoire21@yah
- oo.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5B J19: RANGERS F.C. vs SPIJTOIS FC
-DTSTART;VALUE=DATE-TIME:20250215T130000Z
-DTEND;VALUE=DATE-TIME:20250215T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_5B_19_620_631
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: E04\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Blanc
-  Bordeaux\n\nContact équipe domicile: Lemaire N. (0499.43.18.70 - FCRange
- rs14@gmail.com)\n\nAccès voiture : De la Place Meiser\, remonter tous les
-  boulevards. Au carrefour de la Chaussée de Wavre\, prendre celle-ci à d
- roite\, ensuite la 2ème rue à droite (Rue Général Fivé)\, puis la 3è
- me à droite (rue Baron Dhanis).\n\nVérifiez toujours ces infos sur http:
- //www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/631_1_spijtois_f
- c
-GEO:50.8287714;4.3975708
-LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
-ORGANIZER;CN="Lemaire N.";ROLE=Secrétaire:MAILTO:FCRangers14@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5B J24: BAYERN DE MONIQUE vs SPIJTOIS FC
-DTSTART;VALUE=DATE-TIME:20250222T140000Z
-DTEND;VALUE=DATE-TIME:20250222T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_5B_24_417_631
-DESCRIPTION:Terrain synthétique: non\nCode terrain: B03\n\nCouleur princi
- pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
- re: Blanc Bordeaux\n\nContact équipe domicile: Bernard N (nan - ascornoi@
- live.fr)\n\nAccès voiture : En venant de Bruxelles\, emprunter la chauss
- ée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit carre
- four (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chaussée\, 
- au deuxième feu de signalisation\, prendre à droite\, le terrain se trou
- ve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur http://w
- ww.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/631_1_spijtois_fc
-GEO:50.6827211;4.3844421
-LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
- ud\, Belgique
-ORGANIZER;CN="Bernard N";ROLE=Secrétaire:MAILTO:ascornoi@live.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5B J20: SPIJTOIS FC vs COSMOS BRUWOLF MJ
-DTSTART;VALUE=DATE-TIME:20250308T130000Z
-DTEND;VALUE=DATE-TIME:20250308T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_5B_20_631_338
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: U02\n\nCouleur princi
- pale équipe domicile: Blanc Bordeaux\nCouleur principale équipe exterieu
- re: Orange\n\nContact équipe domicile: Marchese G. (0496.53.66.37 - march
- ese.gregoire21@yahoo.be)\n\nAccès voiture : L'entrée se fait par la rue 
- du Zwartebeek.\nPar le ring\, prendre la sortie Drogenbos-Ruisbroek\, dire
- ction Uccle\, par la rue de Stalle prolongée.  Après le rond-point prend
- re la 1ère rue à gauche\, la chaussée de Neerstalle.\nEnsuite la 2ème 
- rue à gauche\, rue du Zwartebeek\, l'entrée du complexe est située à +
- /- 200 mètres sur la droite.\n\nVérifiez toujours ces infos sur http://w
- ww.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/631_1_spijtois_fc
-GEO:50.7970805;4.3177254
-LOCATION:Leopold-Uccle\, Rue du Zwartebeek\, 1180 Uccle\, Belgique
-ORGANIZER;CN="Marchese G.";ROLE=Secrétaire:MAILTO:marchese.gregoire21@yah
- oo.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5B J22: SPIJTOIS FC vs WAPPERS FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20250322T130000Z
-DTEND;VALUE=DATE-TIME:20250322T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_5B_22_631_67
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: U02\n\nCouleur princi
- pale équipe domicile: Blanc Bordeaux\nCouleur principale équipe exterieu
- re: Rayé noir et blanc\n\nContact équipe domicile: Marchese G. (0496.53.
- 66.37 - marchese.gregoire21@yahoo.be)\n\nAccès voiture : L'entrée se fai
- t par la rue du Zwartebeek.\nPar le ring\, prendre la sortie Drogenbos-Rui
- sbroek\, direction Uccle\, par la rue de Stalle prolongée.  Après le ron
- d-point prendre la 1ère rue à gauche\, la chaussée de Neerstalle.\nEnsu
- ite la 2ème rue à gauche\, rue du Zwartebeek\, l'entrée du complexe est
-  située à +/- 200 mètres sur la droite.\n\nVérifiez toujours ces infos
-  sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/631_1_
- spijtois_fc
 GEO:50.7970805;4.3177254
 LOCATION:Leopold-Uccle\, Rue du Zwartebeek\, 1180 Uccle\, Belgique
 ORGANIZER;CN="Marchese G.";ROLE=Secrétaire:MAILTO:marchese.gregoire21@yah

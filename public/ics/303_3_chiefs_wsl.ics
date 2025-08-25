@@ -4,85 +4,170 @@ PRODID:303_3_chiefs_wsl
 X-WR-CALDESC:Les matches du club CHIEFS WSL (equipe 3) en ABSSA.
 X-WR-CALNAME:ABSSA: CHIEFS WSL (eq. 3)
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J23: CHIEFS WSL (Eq. 3) vs MILAN MIRAPIDE AC
-DTSTART;VALUE=DATE-TIME:20240831T103000Z
-DTEND;VALUE=DATE-TIME:20240831T120000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_23_303_680
+SUMMARY:ABSSA D4A J1: COMP. CINEMA R vs CHIEFS WSL (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20250830T103000Z
+DTEND;VALUE=DATE-TIME:20250830T120000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_4A_1_16_303
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E07\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Ji  S.Y.K. (0479.05.84.70 - compagnonscinema0
+ 16@gmail.com)\n\nAccès voiture : Boulevard Lambermont\, prendre le boulev
+ ard Léopold III\, direction aéroport de Bruxelles-National\, au 3ème fe
+ u de signalisation prendre à droite. le terrain se trouve à 50 m.\n\nVé
+ rifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: htt
+ ps://calabssa.be/c/303_3_chiefs_wsl
+GEO:50.8691994;4.406709999999999
+LOCATION:Complexe Sportif Evere\, Avenue des Anciens Combattants 300\, 114
+ 0 Evere\, Belgique
+ORGANIZER;CN="Ji  S.Y.K.";ROLE=Secrétaire:MAILTO:compagnonscinema016@gmai
+ l.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4A J2: CHIEFS WSL (Eq. 3) vs BLUE THRILLS
+DTSTART;VALUE=DATE-TIME:20250906T103000Z
+DTEND;VALUE=DATE-TIME:20250906T120000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_4A_2_303_619
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Borde
- aux\n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan.be)\
- n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, puis la
-  chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce pont
-  le terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur http:
- //www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/303_3_chiefs_wsl
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
+ Marine\n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan.b
+ e)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, puis
+  la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce p
+ ont le terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur ht
+ tp://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/303_3_chiefs_
+ wsl
 GEO:50.8423054;4.445628699999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
 ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J2: CHIEFS WSL (Eq. 3) vs PIRATE S.C.
-DTSTART;VALUE=DATE-TIME:20240914T103000Z
-DTEND;VALUE=DATE-TIME:20240914T120000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_2_303_670
+SUMMARY:ABSSA D4A J4: CHIEFS WSL (Eq. 3) vs HELLAS BERCHEM FC.
+DTSTART;VALUE=DATE-TIME:20250920T103000Z
+DTEND;VALUE=DATE-TIME:20250920T120000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_4A_4_303_488
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir 
- / doré\n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan.
- be)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, pui
- s la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce 
- pont le terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur h
- ttp://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/303_3_chiefs
- _wsl
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan.be)\n\nA
+ ccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, puis la cha
+ ussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce pont le 
+ terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur http://ww
+ w.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/303_3_chiefs_wsl
 GEO:50.8423054;4.445628699999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
 ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J3: CENTRAL PARK FC (Eq. 2) vs CHIEFS WSL (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20240921T120000Z
-DTEND;VALUE=DATE-TIME:20240921T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_3_562_303
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bl
- anc\n\nContact équipe domicile: Genot F. (0473.57.28.61 - genotflorian@ho
- tmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voo
- t\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Av
- ant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ces info
- s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/303_3
- _chiefs_wsl
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
+SUMMARY:ABSSA D4A J5: FRIENDS SPIRIT AUD vs CHIEFS WSL (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20250927T103000Z
+DTEND;VALUE=DATE-TIME:20250927T120000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_4A_5_522_303
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Rau L. (0471.06.77.33 - ludo-r@hotmail.com)\n
+ \nAccès voiture : En venant de Bruxelles par la chaussée de Wavre\, rejo
+ indre le du début de l'autoroute Bruxelles-Namur\, utiliser la bande de d
+ roite pendant +/- 200 m. et descendre devant le bâtiment de l'ADEPS\, pui
+ s passer par le tunnel à gauche (en dessous de l'autoroute). Le terrain s
+ e trouve à 200 m. Le stade est fléché.\n\nVérifiez toujours ces infos 
+ sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/303_3_c
+ hiefs_wsl
+GEO:50.81071379999999;4.4432209
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="Rau L.";ROLE=Secrétaire:MAILTO:ludo-r@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J4: CHIEFS WSL (Eq. 3) vs BRUSSELS LTC (Eq. 5)
-DTSTART;VALUE=DATE-TIME:20240928T103000Z
-DTEND;VALUE=DATE-TIME:20240928T120000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_4_303_39
+SUMMARY:ABSSA D4A J6: CHIEFS WSL (Eq. 3) vs IRLANDE FC (Eq. 4)
+DTSTART;VALUE=DATE-TIME:20251004T103000Z
+DTEND;VALUE=DATE-TIME:20251004T120000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_4A_6_303_402
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Borde
- aux\n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan.be)\
- n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, puis la
-  chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce pont
-  le terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur http:
- //www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/303_3_chiefs_wsl
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Vert\
+ n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan.be)\n\nA
+ ccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, puis la cha
+ ussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce pont le 
+ terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur http://ww
+ w.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/303_3_chiefs_wsl
 GEO:50.8423054;4.445628699999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
 ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J5: CHIEFS WSL (Eq. 3) vs SAINT GEORGES RCS (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20241005T103000Z
-DTEND;VALUE=DATE-TIME:20241005T120000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_5_303_221
+SUMMARY:ABSSA D4A J7: VIRGINAL ASF vs CHIEFS WSL (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20251011T120000Z
+DTEND;VALUE=DATE-TIME:20251011T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_4A_7_497_303
+DESCRIPTION:Terrain synthétique: non\nCode terrain: V02\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Verhoest P (0472.10.06.65 - secretariat@asfvi
+ rginal.be)\n\nAccès voiture : Au départ de Bruxelles\, l'autoroute E19 o
+ u par le Ring RO\, sortir à Ittre. Suivre la direction Ittre-Virginal. Tr
+ averser Haut-Ittre et Ittre et suivre la direction Virginal-Samme. Franchi
+ r le pont surplombant le canal Bruxelles-Charleroi. Poursuivre tout droit 
+ par la rue de Catala\, ne pas suivre la direction Virginal Centre\, mais p
+ oursuivre la route et prendre la 2ème rue à main droite (rue de Tubize).
+  Passer devant le château d'eau et un peu plus loin\, à l'incinérateur\
+ , prendre à droite en direction de Oisquercq. Le terrain se trouve à dro
+ ite dans la descente (panneau ASF Virginal).\n\nVérifiez toujours ces inf
+ os sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/303_
+ 3_chiefs_wsl
+GEO:50.6528899;4.2178077
+LOCATION:Rue de Tubize\, 1460 Virginal\, Belgique
+ORGANIZER;CN="Verhoest P";ROLE=Secrétaire:MAILTO:secretariat@asfvirginal.
+ be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4A J8: CHIEFS WSL (Eq. 3) vs BOUSVAL GENAPPE (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20251018T103000Z
+DTEND;VALUE=DATE-TIME:20251018T120000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_4A_8_303_401
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Orang
+ e et bleu\n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desa
+ n.be)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, p
+ uis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant c
+ e pont le terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur
+  http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/303_3_chie
+ fs_wsl
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4A J9: NEPTUNE FC vs CHIEFS WSL (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20251025T133000Z
+DTEND;VALUE=DATE-TIME:20251025T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_4A_9_56_303
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Louies S. (0474.55.15.41 - louiesstephane@gma
+ il.com)\n\nAccès voiture : Via la chaussée de Mons jusqu'à Veeweyde (ca
+ rrefour Fr. Van Kalken). Prendre à droite le boulevard  A. Briand jusqu'
+ à la Place Verdi\, puis le Bld. Théo Lambert.\n\nVérifiez toujours ces 
+ infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/3
+ 03_3_chiefs_wsl
+GEO:50.8275993;4.2964877
+LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Louies S.";ROLE=Secrétaire:MAILTO:louiesstephane@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4A J10: CHIEFS WSL (Eq. 3) vs SPORTING BW
+DTSTART;VALUE=DATE-TIME:20251108T113000Z
+DTEND;VALUE=DATE-TIME:20251108T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_4A_10_303_673
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
  pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Blanc
  \n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan.be)\n\n
@@ -96,156 +181,53 @@ LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
 ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J6: CELTIC FORESTOIS vs CHIEFS WSL (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20241012T120000Z
-DTEND;VALUE=DATE-TIME:20241012T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_6_330_303
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
- pale équipe domicile: Vert et  blanc\nCouleur principale équipe exterieu
- re: Blanc\n\nContact équipe domicile: Ceuster J (0472.52.87.14 - ceuster-
- jeremy@hotmail.be)\n\nAccès voiture : Au départ de la Place St. Denis à
-  Forest prendre la chaussée de Neerstalle jusqu'à la rue de la Soierie (
- 4ème rue à droite) et dans la rue de la Soierie rouler env. 100 m. puis 
- 1ère à gauche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. 
- L'entrée du Complexe se trouve à hauteur de City Cart\, à gauche de la 
- route.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur 
- calabssa: https://calabssa.be/c/303_3_chiefs_wsl
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER;CN="Ceuster J";ROLE=Secrétaire:MAILTO:ceuster-jeremy@hotmail.be
+SUMMARY:ABSSA D4A J11: BEETHOVEN FCS vs CHIEFS WSL (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20251115T123000Z
+DTEND;VALUE=DATE-TIME:20251115T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_4A_11_493_303
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: B
+ lanc\n\nContact équipe domicile: Lopez Sanchez M. (0496.47.72.98 - Mygsi8
+ 7@gmail.com)\n\nAccès voiture : En venant de la Route de Lennik (Citroën
+ ) ou de la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d
+ 'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre
+  la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du comp
+ lexe et des terrains se situe à +/- 500 m. sur la gauche.\n\nVérifiez to
+ ujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cala
+ bssa.be/c/303_3_chiefs_wsl
+GEO:50.8087468;4.277603
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Lopez Sanchez M.";ROLE=Secrétaire:MAILTO:Mygsi87@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J25: CHIEFS WSL (Eq. 3) vs FOOT FRITESTYLE
-DTSTART;VALUE=DATE-TIME:20241019T103000Z
-DTEND;VALUE=DATE-TIME:20241019T120000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_25_303_679
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Vert 
- / noir\n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan.b
- e)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, puis
-  la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce p
- ont le terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur ht
+SUMMARY:ABSSA D4A J12: SAINT GEORGES RCS vs CHIEFS WSL (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20251122T130000Z
+DTEND;VALUE=DATE-TIME:20251122T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_4A_12_221_303
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Blanc
+ \n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.destin@gma
+ il.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"avenue Parmenti
+ er\, puis 1ère rue à main gauche.\n\nVérifiez toujours ces infos sur ht
  tp://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/303_3_chiefs_
  wsl
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
+GEO:50.8333897;4.4384038
+LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
+ e\, Belgique
+ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J26: UNION BRUXELLOISE vs CHIEFS WSL (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20241026T103000Z
-DTEND;VALUE=DATE-TIME:20241026T120000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_26_655_303
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
- pale équipe domicile: Noir/ Bleu\nCouleur principale équipe exterieure: 
- Blanc\n\nContact équipe domicile: Herinckx C. (0472.83.06.56 - union.brux
- elloise@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'auto
- route Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer s
- ous le pont de l'autoroute et prendre la direction de Nivelles. A 200 m.\,
-  au rond-point (Shopping Center)\, tourner à droite en direction de Wavre
-  (petit ring de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-
- point du Shopping Center)\, tourner à gauche \, rue de l'Industrie et pé
- nétrer dans le zoning. Au bout de la rue\, avant le feu de signalisation\
- , tourner à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nV
- érifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: h
- ttps://calabssa.be/c/303_3_chiefs_wsl
-GEO:50.5963705;4.3564539
-LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER;CN="Herinckx C.";ROLE=Secrétaire:MAILTO:union.bruxelloise@gmail
- .com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J7: CHIEFS WSL (Eq. 3) vs KARIA FC
-DTSTART;VALUE=DATE-TIME:20241102T113000Z
-DTEND;VALUE=DATE-TIME:20241102T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_7_303_498
+SUMMARY:ABSSA D4A J13: CHIEFS WSL (Eq. 3) vs WOKRASSE F.C.
+DTSTART;VALUE=DATE-TIME:20251129T113000Z
+DTEND;VALUE=DATE-TIME:20251129T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_4A_13_303_656
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir\
- n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan.be)\n\nA
- ccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, puis la cha
- ussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce pont le 
- terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur http://ww
- w.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/303_3_chiefs_wsl
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J8: BRUSSELS LIONS vs CHIEFS WSL (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20241109T113000Z
-DTEND;VALUE=DATE-TIME:20241109T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_8_682_303
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
- pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: B
- lanc\n\nContact équipe domicile: El Halimi A. (0488.95.55.05 - brusselsli
- onsfc@hotmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, apr
- ès 300 m. en direction de Lennik\, prendre à droite.\nVenant de la chaus
- sée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi
- \, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. e
- n direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.abss
- a.be/\nVoir sur calabssa: https://calabssa.be/c/303_3_chiefs_wsl
-GEO:50.8177358;4.2557195
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER;CN="El Halimi A.";ROLE=Secrétaire:MAILTO:brusselslionsfc@hotmai
- l.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J9: CHIEFS WSL (Eq. 3) vs CLAUDY F.C.
-DTSTART;VALUE=DATE-TIME:20241116T113000Z
-DTEND;VALUE=DATE-TIME:20241116T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_9_303_678
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir\
- n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan.be)\n\nA
- ccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, puis la cha
- ussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce pont le 
- terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur http://ww
- w.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/303_3_chiefs_wsl
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J12: FOOT FRITESTYLE vs CHIEFS WSL (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20241123T130000Z
-DTEND;VALUE=DATE-TIME:20241123T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_12_679_303
-DESCRIPTION:Terrain synthétique: non\nCode terrain: L11\n\nCouleur princi
- pale équipe domicile: Vert / noir\nCouleur principale équipe exterieure:
-  Blanc\n\nContact équipe domicile: Deformanoir O. (0473.62.46.25 - darkot
- fc@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Namur / Luxemb
- ourg\, prendre la sortie n° 6 Wavre\, vers N238. Tourner à droite sur Bo
- ulevard de l'Europe/N238 sur 200 m. Prendre à droite sur Rue de la Wastin
- ne. Ensuite\, aprèsle passage à niveau\, prendre à gauche sur Rue Provi
- nciale/N239. Les terrains se trouvent sur la gauche de la route en contre-
- bas (facilement visible de la route).\n\nVérifiez toujours ces infos sur 
- http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/303_3_chief
- s_wsl
-GEO:50.7007516;4.582180999999999
-LOCATION:Charles Jaumotte 156\, 1300 Wavre (Limal)\, Belgique
-ORGANIZER;CN="Deformanoir O.";ROLE=Secrétaire:MAILTO:darkotfc@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J11: CHIEFS WSL (Eq. 3) vs DEAF BRUSSELS FC
-DTSTART;VALUE=DATE-TIME:20241130T113000Z
-DTEND;VALUE=DATE-TIME:20241130T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_11_303_593
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Vert 
- et noir\n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan.
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
+ et Noir\n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan.
  be)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, pui
  s la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce 
  pont le terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur h
@@ -257,189 +239,182 @@ LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
 ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J10: MILAN MIRAPIDE AC vs CHIEFS WSL (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20241207T143000Z
-DTEND;VALUE=DATE-TIME:20241207T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_10_680_303
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: C02\n\nCouleur princi
- pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bl
- anc\n\nContact équipe domicile: Dubois B. (0498.46.80.76 - brieucdub@gmai
- l.com)\n\nAccès voiture : Ring ouest: Direction Waterloo\, prendre la sor
- tie "butte du lion" \, prendre à droite\, puis au feu rouge prendre à dr
- oite\, rouler jusque Genappe et prendre la RN 25 en direction de Wavre\, p
- rendre la deuxième sortie (Court St. Etienne) et prendre à gauche\, le t
- errain se trouve à 1 km. a main droite.\nPar la E411: Prendre la E411 dir
- ection Namur\, ensuite sortir a Wavre\, prendre ensuite la sortie Villers-
- La-Ville\, ensuite à droite puis directement à gauche a l'arbre et desce
- ndre jusque dans le fond\, prendre a droite et le terrain se trouve à 500
-  m. a main gauche.\n\nVérifiez toujours ces infos sur http://www.abssa.be
- /\nVoir sur calabssa: https://calabssa.be/c/303_3_chiefs_wsl
-GEO:50.6417231;4.5547061
-LOCATION:Avenue des Combattants\, 1490 Court St. Etienne\, Belgique
-ORGANIZER;CN="Dubois B.";ROLE=Secrétaire:MAILTO:brieucdub@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J13: CHIEFS WSL (Eq. 3) vs UNION BRUXELLOISE
-DTSTART;VALUE=DATE-TIME:20241214T113000Z
-DTEND;VALUE=DATE-TIME:20241214T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_5C_13_303_655
+SUMMARY:ABSSA D4A J14: CHIEFS WSL (Eq. 3) vs COMP. CINEMA R
+DTSTART;VALUE=DATE-TIME:20251206T113000Z
+DTEND;VALUE=DATE-TIME:20251206T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_4A_14_303_16
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir/
-  Bleu\n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan.be
- )\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, puis 
- la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce po
- nt le terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur htt
- p://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/303_3_chiefs_w
- sl
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Vert\
+ n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan.be)\n\nA
+ ccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, puis la cha
+ ussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce pont le 
+ terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur http://ww
+ w.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/303_3_chiefs_wsl
 GEO:50.8423054;4.445628699999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
 ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J15: PIRATE S.C. vs CHIEFS WSL (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20250118T143000Z
-DTEND;VALUE=DATE-TIME:20250118T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_5C_15_670_303
-DESCRIPTION:Terrain synthétique: non\nCode terrain: L11\n\nCouleur princi
- pale équipe domicile: Noir / doré\nCouleur principale équipe exterieure
- : Blanc\n\nContact équipe domicile: Gulbakan I. (0486.20.99.11 - ilhangul
- bakan@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Namur / Lux
- embourg\, prendre la sortie n° 6 Wavre\, vers N238. Tourner à droite sur
-  Boulevard de l'Europe/N238 sur 200 m. Prendre à droite sur Rue de la Was
- tinne. Ensuite\, aprèsle passage à niveau\, prendre à gauche sur Rue Pr
- ovinciale/N239. Les terrains se trouvent sur la gauche de la route en cont
- re-bas (facilement visible de la route).\n\nVérifiez toujours ces infos s
- ur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/303_3_ch
- iefs_wsl
-GEO:50.7007516;4.582180999999999
-LOCATION:Charles Jaumotte 156\, 1300 Wavre (Limal)\, Belgique
-ORGANIZER;CN="Gulbakan I.";ROLE=Secrétaire:MAILTO:ilhangulbakan@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J16: CHIEFS WSL (Eq. 3) vs CENTRAL PARK FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20250125T113000Z
-DTEND;VALUE=DATE-TIME:20250125T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_5C_16_303_562
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Borde
- aux\n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan.be)\
- n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, puis la
-  chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce pont
-  le terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur http:
- //www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/303_3_chiefs_wsl
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J17: BRUSSELS LTC (Eq. 5) vs CHIEFS WSL (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20250201T130000Z
-DTEND;VALUE=DATE-TIME:20250201T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_5C_17_39_303
-DESCRIPTION:Terrain synthétique: non\nCode terrain: R03\n\nCouleur princi
- pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bl
- anc\n\nContact équipe domicile: Van Hacht O. (0475.96.43.03 - dannyboffin
- @hotmail.com)\n\nAccès voiture : Par la E411 Bruxelles-Namur\, prendre la
-  sortie n° 5 (Wavre Nord\, Rixensart\, Bierges).\nEnsuite prendre la N257
-  pendant 700 mètres jusqu'au rond-point\, prendre la rue de l'Etoile et e
- nsuite la rue de Mérode jusqu'à Rixensart. Après 900 mètres\, à la Pl
- ace de la Perche\, prendre à droite l'avenue de la Paix et encore à droi
- te l'avenue Clermont Tonnerre.\n\nVérifiez toujours ces infos sur http://
+SUMMARY:ABSSA D4A J15: BLUE THRILLS vs CHIEFS WSL (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20251213T143000Z
+DTEND;VALUE=DATE-TIME:20251213T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_4A_15_619_303
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E04\n\nCouleur princi
+ pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
+  Blanc\n\nContact équipe domicile: De Briey A. (0479.858.374 - alexdebrie
+ y@hotmail.fr)\n\nAccès voiture : De la Place Meiser\, remonter tous les b
+ oulevards. Au carrefour de la Chaussée de Wavre\, prendre celle-ci à dro
+ ite\, ensuite la 2ème rue à droite (Rue Général Fivé)\, puis la 3ème
+  à droite (rue Baron Dhanis).\n\nVérifiez toujours ces infos sur http://
  www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/303_3_chiefs_wsl
-GEO:50.7128483;4.5376972
-LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
- 30 Rixensart\, Belgique
-ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:dannyboffin@hotmail.co
- m
+GEO:50.8287714;4.3975708
+LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
+ORGANIZER;CN="De Briey A.";ROLE=Secrétaire:MAILTO:alexdebriey@hotmail.fr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J18: SAINT GEORGES RCS (Eq. 3) vs CHIEFS WSL (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20250208T143000Z
-DTEND;VALUE=DATE-TIME:20250208T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_5C_18_221_303
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W13\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Blanc
- \n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.destin@gma
- il.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\,
-  puis la chaussée de Stockel. Passer en dessous du petit pont et continue
- r la chaussée de Stockel pendant env. 500 m. Le terrain est situé sur la
-  droite de la chaussée.\n\nVérifiez toujours ces infos sur http://www.ab
- ssa.be/\nVoir sur calabssa: https://calabssa.be/c/303_3_chiefs_wsl
-GEO:50.8417148;4.4547744
-LOCATION:Chaussée de Stockel 376\, 1150 Woluwé-Saint-Pierre\, Belgique
-ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
+SUMMARY:ABSSA D4A J17: HELLAS BERCHEM FC. vs CHIEFS WSL (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20260117T120000Z
+DTEND;VALUE=DATE-TIME:20260117T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_4A_17_488_303
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S04\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Hadjianestis A. (0475.31.23.80 - fchellas@gma
+ il.com)\n\nAccès voiture : A partir du boulevard Charles Quint à hauteur
+  de Basilix Shopping Center\, prendre la rue des Châlets (Lusthuizenstraa
+ t)\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur cala
+ bssa: https://calabssa.be/c/303_3_chiefs_wsl
+GEO:50.8696078;4.287300999999999
+LOCATION:Parc J. Monnet\, Lusthuizenstraat 1\, 1080 Sint-Agatha-Berchem\, 
+ Belgique
+ORGANIZER;CN="Hadjianestis A.";ROLE=Secrétaire:MAILTO:fchellas@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J19: CHIEFS WSL (Eq. 3) vs CELTIC FORESTOIS
-DTSTART;VALUE=DATE-TIME:20250215T113000Z
-DTEND;VALUE=DATE-TIME:20250215T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_5C_19_303_330
+SUMMARY:ABSSA D4A J18: CHIEFS WSL (Eq. 3) vs FRIENDS SPIRIT AUD
+DTSTART;VALUE=DATE-TIME:20260124T113000Z
+DTEND;VALUE=DATE-TIME:20260124T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_4A_18_303_522
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Vert 
- et  blanc\n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desa
- n.be)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, p
- uis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant c
- e pont le terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan.be)\n\nA
+ ccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, puis la cha
+ ussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce pont le 
+ terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur http://ww
+ w.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/303_3_chiefs_wsl
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4A J19: IRLANDE FC (Eq. 4) vs CHIEFS WSL (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20260131T130000Z
+DTEND;VALUE=DATE-TIME:20260131T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_4A_19_402_303
+DESCRIPTION:Terrain synthétique: non\nCode terrain: N04\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Penouilh S. (0474.97.79.48 - fci.secretary.me
+ ns@outlook.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à Nossegem
+ \, au premier croisement prendre à gauche la \nMechelsesteenweg. Le terra
+ in est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\
+ , prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelseste
+ enweg\, traverser la chaussée de Louvain\, et suivre comme ci-avant.\n\nV
+ érifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: h
+ ttps://calabssa.be/c/303_3_chiefs_wsl
+GEO:50.88776559999999;4.50894
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER;CN="Penouilh S.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@outl
+ ook.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4A J20: CHIEFS WSL (Eq. 3) vs VIRGINAL ASF
+DTSTART;VALUE=DATE-TIME:20260207T113000Z
+DTEND;VALUE=DATE-TIME:20260207T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_4A_20_303_497
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Vert\
+ n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan.be)\n\nA
+ ccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, puis la cha
+ ussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce pont le 
+ terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur http://ww
+ w.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/303_3_chiefs_wsl
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4A J21: BOUSVAL GENAPPE (Eq. 2) vs CHIEFS WSL (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20260214T110000Z
+DTEND;VALUE=DATE-TIME:20260214T123000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_4A_21_401_303
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
+ pale équipe domicile: Orange et bleu\nCouleur principale équipe exterieu
+ re: Blanc\n\nContact équipe domicile: Toussaint Y (0475.42.41.78 - YUTTT1
+ 470@gmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring Oue
+ st\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Char
+ leroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traver
+ ser le carrefour\, tout droit direction route du sucre.\n\nVérifiez toujo
+ urs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabss
+ a.be/c/303_3_chiefs_wsl
+GEO:50.601458;4.44982
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER;CN="Toussaint Y";ROLE=Secrétaire:MAILTO:YUTTT1470@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4A J22: CHIEFS WSL (Eq. 3) vs NEPTUNE FC
+DTSTART;VALUE=DATE-TIME:20260221T113000Z
+DTEND;VALUE=DATE-TIME:20260221T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_4A_22_303_56
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan.be)\n\nA
+ ccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, puis la cha
+ ussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce pont le 
+ terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur http://ww
+ w.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/303_3_chiefs_wsl
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4A J23: SPORTING BW vs CHIEFS WSL (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20260228T130000Z
+DTEND;VALUE=DATE-TIME:20260228T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_4A_23_673_303
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: I03\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Blanc
+ \n\nContact équipe domicile: Thumas A. (0472.60.28.90 - sporting.bw.abssa
+ @gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l’E411 
+ en direction de Namur et prendre la sortie 11 Perwez-Gembloux\, prendre à
+  droite vers Perwez sur la N29 jusqu’au rond-point de Glimes qui croise 
+ la N91 (7km depuis l’E411). Sortir à la 3ème sortie sur la N91 en\ndir
+ ection de Hamme-Mille. Prendre ensuite la 3ème rue à gauche et le terrai
+ n se trouve directement sur la droite.\n\nVérifiez toujours ces infos sur
   http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/303_3_chie
  fs_wsl
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
+GEO:50.6849677;4.8070879
+LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
+ORGANIZER;CN="Thumas A.";ROLE=Secrétaire:MAILTO:sporting.bw.abssa@gmail.c
+ om
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J24: DEAF BRUSSELS FC vs CHIEFS WSL (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20250222T143000Z
-DTEND;VALUE=DATE-TIME:20250222T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_5C_24_593_303
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
- pale équipe domicile: Vert et noir\nCouleur principale équipe exterieure
- : Blanc\n\nContact équipe domicile: Van Brandt S. (0494.24.34.05 (SMS) - 
- deaf.brussels.2011@gmail.com)\n\nAccès voiture : Chaussée de Haecht\, ve
- rs Diegem. Prendre la rue Harenheyde à gauche\, juste au feu de signalisa
- tion\, après la station "JET"\, situé à gauche. Entrée du stade par la
-  rue Harenheyde\, 100 m. au-delà du pont du chemin de fer.\n\nVérifiez t
- oujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cal
- abssa.be/c/303_3_chiefs_wsl
-GEO:50.8928227;4.425372
-LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
-ORGANIZER;CN="Van Brandt S.";ROLE=Secrétaire:MAILTO:deaf.brussels.2011@gm
- ail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J20: KARIA FC vs CHIEFS WSL (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20250308T143000Z
-DTEND;VALUE=DATE-TIME:20250308T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_5C_20_498_303
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Blanc\
- n\nContact équipe domicile: Bercha  M (0477.69.27.28 - mohamedbercha@hotm
- ail.fr)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\, vers 
- Neder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-
- point\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin V
- ert\, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://www.abs
- sa.be/\nVoir sur calabssa: https://calabssa.be/c/303_3_chiefs_wsl
-GEO:50.89983369999999;4.3936101
-LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
-ORGANIZER;CN="Bercha  M";ROLE=Secrétaire:MAILTO:mohamedbercha@hotmail.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J21: CHIEFS WSL (Eq. 3) vs BRUSSELS LIONS
-DTSTART;VALUE=DATE-TIME:20250315T113000Z
-DTEND;VALUE=DATE-TIME:20250315T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_5C_21_303_682
+SUMMARY:ABSSA D4A J24: CHIEFS WSL (Eq. 3) vs BEETHOVEN FCS
+DTSTART;VALUE=DATE-TIME:20260307T113000Z
+DTEND;VALUE=DATE-TIME:20260307T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_4A_24_303_493
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
  pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
  ciel\n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan.be)
@@ -454,25 +429,38 @@ LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
 ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J22: CLAUDY F.C. vs CHIEFS WSL (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20250322T113000Z
-DTEND;VALUE=DATE-TIME:20250322T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_5C_22_678_303
-DESCRIPTION:Terrain synthétique: non\nCode terrain: N04\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Blanc\
- n\nContact équipe domicile: De Spirlet R. (0470.43.29.45 - rod.de.spirlet
- @gmail.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à Nossegem\, a
- u premier croisement prendre à gauche la \nMechelsesteenweg. Le terrain e
- st indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\, pr
- endre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelsesteenwe
- g\, traverser la chaussée de Louvain\, et suivre comme ci-avant.\n\nVéri
- fiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https
- ://calabssa.be/c/303_3_chiefs_wsl
-GEO:50.88776559999999;4.50894
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER;CN="De Spirlet R.";ROLE=Secrétaire:MAILTO:rod.de.spirlet@gmail.
- com
+SUMMARY:ABSSA D4A J25: CHIEFS WSL (Eq. 3) vs SAINT GEORGES RCS
+DTSTART;VALUE=DATE-TIME:20260314T113000Z
+DTEND;VALUE=DATE-TIME:20260314T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_4A_25_303_221
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Blanc
+ \n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan.be)\n\n
+ Accès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, puis la ch
+ aussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce pont le
+  terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur http://w
+ ww.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/303_3_chiefs_wsl
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4A J26: WOKRASSE F.C. vs CHIEFS WSL (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20260321T143000Z
+DTEND;VALUE=DATE-TIME:20260321T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_4A_26_656_303
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E08\n\nCouleur princi
+ pale équipe domicile: Bleu et Noir\nCouleur principale équipe exterieure
+ : Blanc\n\nContact équipe domicile: Thisse F (0476.35.49.20 - felix.thiss
+ e@gmail.com)\n\nAccès voiture : Le terrain se trouve derrière l'église 
+ St. Vincent\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir
+  sur calabssa: https://calabssa.be/c/303_3_chiefs_wsl
+GEO:50.8803867;4.4003168
+LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue Stroobants 75\, 1140 Evere\,
+  Belgique
+ORGANIZER;CN="Thisse F";ROLE=Secrétaire:MAILTO:felix.thisse@gmail.com
 END:VEVENT
 END:VCALENDAR

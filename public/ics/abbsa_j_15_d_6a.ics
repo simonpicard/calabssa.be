@@ -4,119 +4,99 @@ PRODID:abbsa_j_15_d_6a
 X-WR-CALDESC:Les matches de la journée 15 en divion 6A d'ABSSA.
 X-WR-CALNAME:D6A Journée 15
 BEGIN:VEVENT
-SUMMARY:ABSSA D6A J15: TOURINNOIS FC (Eq. 3) vs BRUSSELS BRITISH R (Eq. 5)
-DTSTART;VALUE=DATE-TIME:20250118T123000Z
-DTEND;VALUE=DATE-TIME:20250118T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_6A_15_292_1
-DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Blanc
- \n\nContact équipe domicile: Strade P. (010.65.83.02 - stradepaul@hotmail
- .com)\n\nAccès voiture : A partir de l'autoroute Bruxelles-Namur (E411)\,
-  prendre la sortie  Walhain (n° 10). Au pied de la rampe d'accès\, suivr
- e la direction Walhain vers la droite et après 200 m. prendre à droite e
- t 400 m. plus loin\, prendre à nouveau à droite. Le terrain se trouve à
-  +/- 300 m. sur la gauche.\n\nVérifiez toujours ces infos sur http://www.
- abssa.be/
-GEO:50.6415282;4.7193257
-LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
-ORGANIZER;CN="Strade P.";ROLE=Secrétaire:MAILTO:stradepaul@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6A J15: AMB. AUDERGHEM (Eq. 2) vs ITT - GECKO FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20250118T130000Z
-DTEND;VALUE=DATE-TIME:20250118T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_6A_15_249_92
+SUMMARY:ABSSA D6A J15: CHOULE AUDERGHEM (Eq. 5) vs BRITISH UNITED (Eq. 5)
+DTSTART;VALUE=DATE-TIME:20251213T113000Z
+DTEND;VALUE=DATE-TIME:20251213T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_6A_15_517_132
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir\
- n\nContact équipe domicile: Leclef R. (0473.13.76.27 - renaudleclef@hotma
- il.fr)\n\nAccès voiture : En venant de Bruxelles par la chaussée de Wavr
- e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
- nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
- PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
- errain se trouve à 200 m. Le stade est fléché.\n\nVérifiez toujours ce
- s infos sur http://www.abssa.be/
-GEO:50.8103473;4.443252699999999
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Vandenplas D. (0476.54.48.01 - dav_54@hotmail
+ .com)\n\nAccès voiture : En venant de Bruxelles par la chaussée de Wavre
+ \, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ban
+ de de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADEP
+ S\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le te
+ rrain se trouve à 200 m. Le stade est fléché.\n\nVérifiez toujours ces
+  infos sur http://www.abssa.be/
+GEO:50.81071379999999;4.4432209
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
-ORGANIZER;CN="Leclef R.";ROLE=Secrétaire:MAILTO:renaudleclef@hotmail.fr
+ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6A J15: METRASPORT R. vs J.ST-GILLOISE R.
-DTSTART;VALUE=DATE-TIME:20250118T130000Z
-DTEND;VALUE=DATE-TIME:20250118T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_6A_15_33_38
-DESCRIPTION:Terrain synthétique: non\nCode terrain: B07\n\nCouleur princi
+SUMMARY:ABSSA D6A J15: TOURINNOIS FC (Eq. 3) vs J.ST-GILLOISE R.
+DTSTART;VALUE=DATE-TIME:20251213T123000Z
+DTEND;VALUE=DATE-TIME:20251213T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_6A_15_292_38
+DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu 
+ foncé\n\nContact équipe domicile: Stas De Richelle M (0473.68.59.91 - FC
+ Tourinnois@outlook.com)\n\nAccès voiture : A partir de l'autoroute Bruxel
+ les-Namur (E411)\, prendre la sortie  Walhain (n° 10). Au pied de la ramp
+ e d'accès\, suivre la direction Walhain vers la droite et après 200 m. p
+ rendre à droite et 400 m. plus loin\, prendre à nouveau à droite. Le te
+ rrain se trouve à +/- 300 m. sur la gauche.\n\nVérifiez toujours ces inf
+ os sur http://www.abssa.be/
+GEO:50.6412308;4.7180724
+LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
+ORGANIZER;CN="Stas De Richelle M";ROLE=Secrétaire:MAILTO:FCTourinnois@out
+ look.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J15: METRASPORT R. vs AMB. AUDERGHEM (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20251213T130000Z
+DTEND;VALUE=DATE-TIME:20251213T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_6A_15_33_249
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B08\n\nCouleur princi
  pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
- e: Bleu foncé\n\nContact équipe domicile: Pirlot E. (0474.90.52.25 - emi
- lepirlot@outlook.be)\n\nAccès voiture : Ring de Bruxelles\, Sortie Wemmel
- \, prendre l'Avenue Houba de Strooper\, puis la rue à gauche\, avant le b
- âtiment de l'URBSFA\, direction Atomium.\n\nVérifiez toujours ces infos 
- sur http://www.abssa.be/
-GEO:50.8933845;4.3399807
-LOCATION:Heysel - Annexe 3\, Avenue de Bouchout (Atomium)\, 1020 Bruxelles
- \, Belgique
+ e: Blanc\n\nContact équipe domicile: Pirlot E. (0474.90.52.25 - emilepirl
+ ot@outlook.be)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\
+ , vers Neder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'a
+ u rond-point\, tout droit Chemin Vert\, puis première à gauche\, Petit C
+ hemin Vert\, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://
+ www.abssa.be/
+GEO:50.8996;4.393737199999999
+LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
 ORGANIZER;CN="Pirlot E.";ROLE=Secrétaire:MAILTO:emilepirlot@outlook.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6A J15: IRLANDE FC (Eq. 5) vs GAST FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20250118T143000Z
-DTEND;VALUE=DATE-TIME:20250118T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_6A_15_402_388
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: N04\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Noir\n
- \nContact équipe domicile: Penouilh S. (0474.97.79.48 - fci.secretary.men
- s@outlook.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à Nossegem\
- , au premier croisement prendre à gauche la \nMechelsesteenweg. Le terrai
- n est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\,
-  prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelsestee
- nweg\, traverser la chaussée de Louvain\, et suivre comme ci-avant.\n\nV
- érifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.88776559999999;4.50894
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER;CN="Penouilh S.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@outl
- ook.com
+SUMMARY:ABSSA D6A J15: AUDERGHEM RU vs GAST FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20251213T143000Z
+DTEND;VALUE=DATE-TIME:20251213T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_6A_15_376_388
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Gris\
+ n\nContact équipe domicile: Van Eycke R. (0479.27.27.46 - vaneycker@gmail
+ .com)\n\nAccès voiture : En venant de Bruxelles par la chaussée de Wavre
+ \, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ban
+ de de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADEP
+ S\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le te
+ rrain se trouve à 200 m. Le stade est fléché.\n\nVérifiez toujours ces
+  infos sur http://www.abssa.be/
+GEO:50.81071379999999;4.4432209
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="Van Eycke R.";ROLE=Secrétaire:MAILTO:vaneycker@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6A J15: FORESTOIS SC (Eq. 3) vs BRUSSELS LTC (Eq. 6)
-DTSTART;VALUE=DATE-TIME:20250118T143000Z
-DTEND;VALUE=DATE-TIME:20250118T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_6A_15_152_39
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bordea
- ux\n\nContact équipe domicile: Janssens P. (0479.95.08.14 - patj.scf@gmai
- l.com)\n\nAccès voiture : Au départ de la Place St. Denis à Forest pren
- dre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à
-  droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gau
- che (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du
-  Complexe se trouve à hauteur de City Cart\, à gauche de la route.\n\nV
- érifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6A J15: BIG JEFKE (Eq. 2) vs AUDERGHEM RU
-DTSTART;VALUE=DATE-TIME:20250118T143000Z
-DTEND;VALUE=DATE-TIME:20250118T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_6A_15_137_376
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Jaune\
- n\nContact équipe domicile: Pierard J. (0478.77.84.07 - pierard.j@hotmail
- .com)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\, vers Ne
- der-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-po
- int\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Ver
- t\, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa
- .be/
-GEO:50.89983369999999;4.3936101
-LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
-ORGANIZER;CN="Pierard J.";ROLE=Secrétaire:MAILTO:pierard.j@hotmail.com
+SUMMARY:ABSSA D6A J15: BRUSSELS BRITISH R (Eq. 5) vs ITT - CLAUDY  FC (Eq.
+  2)
+DTSTART;VALUE=DATE-TIME:20251213T143000Z
+DTEND;VALUE=DATE-TIME:20251213T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_6A_15_1_92
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir\
+ n\nContact équipe domicile: O'Connor G (0456.54.46.67 - abssa-sec@rbbfc.o
+ rg)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Pass
+ er devant l'église\, longer l'autoroute et tourner à droite au cimetièr
+ e des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur http:
+ //www.abssa.be/
+GEO:50.7264542;4.5530681
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="O'Connor G";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
 END:VEVENT
 END:VCALENDAR

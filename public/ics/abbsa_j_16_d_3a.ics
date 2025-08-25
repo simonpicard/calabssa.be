@@ -4,142 +4,139 @@ PRODID:abbsa_j_16_d_3a
 X-WR-CALDESC:Les matches de la journée 16 en divion 3A d'ABSSA.
 X-WR-CALNAME:D3A Journée 16
 BEGIN:VEVENT
-SUMMARY:ABSSA D3A J16: BEETHOVEN FCS vs TAURO FC
-DTSTART;VALUE=DATE-TIME:20250125T120000Z
-DTEND;VALUE=DATE-TIME:20250125T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_3A_16_493_574
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
- pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: N
- oir\n\nContact équipe domicile: Lopez Sanchez M. (0496.47.72.98 - Mygsi87
- @gmail.com)\n\nAccès voiture : En venant de la Route de Lennik (Citroën)
-  ou de la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'
- Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-point prendre 
- la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du compl
- exe et des terrains se situe à +/- 500 m. sur la gauche.\n\nVérifiez tou
- jours ces infos sur http://www.abssa.be/
-GEO:50.8114295;4.2763934
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER;CN="Lopez Sanchez M.";ROLE=Secrétaire:MAILTO:Mygsi87@gmail.com
+SUMMARY:ABSSA D3A J16: BRUSSELS BRITISH R (Eq. 3) vs VOGELPIK FC.
+DTSTART;VALUE=DATE-TIME:20260110T113000Z
+DTEND;VALUE=DATE-TIME:20260110T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_3A_16_1_629
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
+  et noir\n\nContact équipe domicile: O'Connor G (0456.54.46.67 - abssa-se
+ c@rbbfc.org)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosiè
+ res. Passer devant l'église\, longer l'autoroute et tourner à droite au 
+ cimetière des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos 
+ sur http://www.abssa.be/
+GEO:50.7264542;4.5530681
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="O'Connor G";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3A J16: FOSSIS (LES) CS vs CHIEFS WSL
-DTSTART;VALUE=DATE-TIME:20250125T140000Z
-DTEND;VALUE=DATE-TIME:20250125T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_3A_16_217_303
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: M08\n\nCouleur princi
- pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Blanc
- \n\nContact équipe domicile: Desmedt O. (0495.27.08.87 - oli.desmedt@gmai
- l.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'autoroute E4
- 11 en direction de Namur. Prendre la sortie 9 Corroy-le-Grand vers Louvain
- -la-Neuve  Sud / Nivelles / E 19. Rejoindre Chemin de Grez. Au rond-point\
- , prendre la 2ième sortie sur Grand'Route / N 4. Après 1\,8 km.et au pro
- chain feu\, tourner à droite Rue de Corbais. Continuer tout droit pendant
-  2 km. et prendre à droite Avenue du Cérisier. 70 m. plus loin\, vous tr
- ouverez le parking sur la droite.\n\nVérifiez toujours ces infos sur http
- ://www.abssa.be/
-GEO:50.6415118;4.6219049
-LOCATION:Guibert Sports Arena\, Avenue du Cérisiers 3\, 1435 Mont-Saint-G
- uibert\, Belgique
-ORGANIZER;CN="Desmedt O.";ROLE=Secrétaire:MAILTO:oli.desmedt@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J16: AMB. AUDERGHEM vs BRUSSELS LTC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20250125T143000Z
-DTEND;VALUE=DATE-TIME:20250125T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_3A_16_249_39
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bordea
- ux\n\nContact équipe domicile: Leclef R. (0473.13.76.27 - renaudleclef@ho
- tmail.fr)\n\nAccès voiture : En venant de Bruxelles par la chaussée de W
- avre\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la
-  bande de droite pendant +/- 200 m. et descendre devant le bâtiment de l'
- ADEPS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). L
- e terrain se trouve à 200 m. Le stade est fléché.\n\nVérifiez toujours
-  ces infos sur http://www.abssa.be/
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER;CN="Leclef R.";ROLE=Secrétaire:MAILTO:renaudleclef@hotmail.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3A J16: MACCABI BXL vs GOALOIS (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20250125T143000Z
-DTEND;VALUE=DATE-TIME:20250125T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_3A_16_634_345
+SUMMARY:ABSSA D3A J16: MACCABI BXL vs IRLANDE FC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20260110T130000Z
+DTEND;VALUE=DATE-TIME:20260110T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_3A_16_634_402
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge 
- et Blanc\n\nContact équipe domicile: Goudsmit G (0472.77.57.89 - maccabib
- xl@gmail.com)\n\nAccès voiture : Au départ de la Place St. Denis à Fore
- st prendre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème
-  rue à droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère
-  à gauche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'ent
- rée du Complexe se trouve à hauteur de City Cart\, à gauche de la route
- .\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Vert\
+ n\nContact équipe domicile: Goudsmit G (0472.77.57.89 - maccabibxl@gmail.
+ com)\n\nAccès voiture : Au départ de la Place St. Denis à Forest prendr
+ e la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à d
+ roite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gauch
+ e (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du C
+ omplexe se trouve à hauteur de City Cart\, à gauche de la route.\n\nVér
+ ifiez toujours ces infos sur http://www.abssa.be/
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
 ORGANIZER;CN="Goudsmit G";ROLE=Secrétaire:MAILTO:maccabibxl@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3A J16: BOUSVAL GENAPPE vs NEW ARQUOIS FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20250125T143000Z
-DTEND;VALUE=DATE-TIME:20250125T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_3A_16_401_263
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu\n
- \nContact équipe domicile: Toussaint Y (0475.42.41.78 - YUTTT1470@gmail.c
- om)\n\nAccès voiture : Venant de Bruxelles prendre le Ring Ouest\, sortie
-  Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi) dire
- ction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le carr
- efour\, tout droit direction route du sucre.\n\nVérifiez toujours ces inf
- os sur http://www.abssa.be/
-GEO:50.6007528;4.4472782
-LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
-ORGANIZER;CN="Toussaint Y";ROLE=Secrétaire:MAILTO:YUTTT1470@gmail.com
+SUMMARY:ABSSA D3A J16: TRICOTEUSES FC. vs NEW INN FC
+DTSTART;VALUE=DATE-TIME:20260110T140000Z
+DTEND;VALUE=DATE-TIME:20260110T153000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_3A_16_617_359
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W19\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Van Roey P. (0475.68.28.41 - pierrickvr4@gmai
+ l.com)\n\nAccès voiture : Ring de Bruxelles (RO)\, sortie n° 2. Prendre 
+ la direction Wezembeek-Oppem. Ensuite première rue à droite (Louis Marce
+ lisstraat) puis la troisième à droite (Sportpleinstraat).\nL'entrée au 
+ terrain se trouve à gauche entre les n° 16 et 24.\nPar la ville : A part
+ ir du rond point Montgomery\, prendre l'Avenue de Broqueville\, toujours t
+ out droit. Passez devant le Shopping de Woluwé\, toujours tout droit\, pa
+ ssez devant le magasin "Carrefour"\, puis au 2ème feu de signalisation pr
+ endre à droite et ensuite tout droit. Au bout de la rue prendre à droite
+ \, le terrain se trouve à 100 mètres  sur la gauche.\n\nVérifiez toujou
+ rs ces infos sur http://www.abssa.be/
+GEO:50.8424578;4.486587999999999
+LOCATION:Sportpleinstraat 20\, 1970 Wezembeek - Oppem\, Belgique
+ORGANIZER;CN="Van Roey P.";ROLE=Secrétaire:MAILTO:pierrickvr4@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3A J16: CHARLES-QUINT FC vs WELL TEAM
-DTSTART;VALUE=DATE-TIME:20250125T143000Z
-DTEND;VALUE=DATE-TIME:20250125T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_3A_16_499_544
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
+SUMMARY:ABSSA D3A J16: ASTURIAS SPORTING vs CURTIS L'AUSELE
+DTSTART;VALUE=DATE-TIME:20260110T143000Z
+DTEND;VALUE=DATE-TIME:20260110T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_3A_16_602_599
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
  pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: B
- leu marine\n\nContact équipe domicile: Calvo Gil P. (0474.84.33.90 - pabl
- o_calvo84@hotmail.com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Je
- tte.\nEn venant de Zaventem\, prendre à gauche à la sortie\, en venant d
- e Charleroi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'a
- u rond point. Le terrain se trouve en face de la pompe à essence Q8.\n\nV
- érifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.883299;4.316365
-LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
-ORGANIZER;CN="Calvo Gil P.";ROLE=Secrétaire:MAILTO:pablo_calvo84@hotmail.
+ lanc\n\nContact équipe domicile: Stulens K. (0474.62.61.41 - kevin.stulen
+ s@live.be)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 300 m
+ . en direction de Lennik\, prendre à droite.\nVenant de la chaussée de M
+ ons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. T
+ héo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en directi
+ on de Lennik.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8177358;4.2557195
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER;CN="Stulens K.";ROLE=Secrétaire:MAILTO:kevin.stulens@live.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J16: EXTRANOS (LOS) vs GAST FC
+DTSTART;VALUE=DATE-TIME:20260110T143000Z
+DTEND;VALUE=DATE-TIME:20260110T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_3A_16_569_388
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E04\n\nCouleur princi
+ pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
+ e: Jaune et bleu\n\nContact équipe domicile: Mme Scarano D (0488.69.74.44
+  - losextranos569@gmail.com)\n\nAccès voiture : De la Place Meiser\, remo
+ nter tous les boulevards. Au carrefour de la Chaussée de Wavre\, prendre 
+ celle-ci à droite\, ensuite la 2ème rue à droite (Rue Général Fivé)\
+ , puis la 3ème à droite (rue Baron Dhanis).\n\nVérifiez toujours ces in
+ fos sur http://www.abssa.be/
+GEO:50.8287714;4.3975708
+LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
+ORGANIZER;CN="Mme Scarano D";ROLE=Secrétaire:MAILTO:losextranos569@gmail.
  com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3A J16: JODOIGNOISE FC vs IRLANDE FC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20250125T143000Z
-DTEND;VALUE=DATE-TIME:20250125T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_3A_16_664_402
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: I03\n\nCouleur princi
- pale équipe domicile: Noir et jaune\nCouleur principale équipe exterieur
- e: Vert\n\nContact équipe domicile: Severin S. (0470.55.74.46 - severinsi
- mon00@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l’
- E411 en direction de Namur et prendre la sortie 11 Perwez-Gembloux\, prend
- re à droite vers Perwez sur la N29 jusqu’au rond-point de Glimes qui cr
- oise la N91 (7km depuis l’E411). Sortir à la 3ème sortie sur la N91 en
- \ndirection de Hamme-Mille. Prendre ensuite la 3ème rue à gauche et le t
- errain se trouve directement sur la droite.\n\nVérifiez toujours ces info
- s sur http://www.abssa.be/
-GEO:50.6849677;4.8070879
-LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
-ORGANIZER;CN="Severin S.";ROLE=Secrétaire:MAILTO:severinsimon00@gmail.com
+SUMMARY:ABSSA D3A J16: ITT - CLAUDY  FC vs SYB  RFC
+DTSTART;VALUE=DATE-TIME:20260110T143000Z
+DTEND;VALUE=DATE-TIME:20260110T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_3A_16_92_48
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: N04\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rayé 
+ Vert et blanc\n\nContact équipe domicile: Schmidt C (0475.61.97.33 - Chri
+ stian@Schmidt1.be)\n\nAccès voiture : Chaussée de Louvain jusqu'à Nosse
+ gem\, au premier croisement prendre à gauche la \nMechelsesteenweg. Le te
+ rrain est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liè
+ ge\, prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelse
+ steenweg\, traverser la chaussée de Louvain\, et suivre comme ci-avant.\n
+ \nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.88776559999999;4.50894
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER;CN="Schmidt C";ROLE=Secrétaire:MAILTO:Christian@Schmidt1.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J16: CHIEFS WSL vs CHOULE AUDERGHEM (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260110T143000Z
+DTEND;VALUE=DATE-TIME:20260110T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_3A_16_303_517
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir\
+ n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan.be)\n\nA
+ ccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, puis la cha
+ ussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce pont le 
+ terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur http://ww
+ w.abssa.be/
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
 END:VEVENT
 END:VCALENDAR

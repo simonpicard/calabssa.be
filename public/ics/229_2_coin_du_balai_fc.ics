@@ -4,18 +4,40 @@ PRODID:229_2_coin_du_balai_fc
 X-WR-CALDESC:Les matches du club COIN DU BALAI FC (equipe 2) en ABSSA.
 X-WR-CALNAME:ABSSA: COIN DU BALAI FC (eq. 2)
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J23: COIN DU BALAI FC (Eq. 2) vs TRINQUANT (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20240831T133000Z
-DTEND;VALUE=DATE-TIME:20240831T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_6B_23_229_445
+SUMMARY:ABSSA D6C J1: PHARMA SC (Eq. 4) vs COIN DU BALAI FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20250830T120000Z
+DTEND;VALUE=DATE-TIME:20250830T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_6C_1_268_229
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu M
+ arine\n\nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.dum
+ idi@scarlet.be)\n\nAccès voiture : Au départ de la Place St. Denis à Fo
+ rest prendre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4è
+ me rue à droite) et dans la rue de la Soierie rouler env. 100 m. puis 1è
+ re à gauche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'e
+ ntrée du Complexe se trouve à hauteur de City Cart\, à gauche de la rou
+ te.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur cal
+ abssa: https://calabssa.be/c/229_2_coin_du_balai_fc
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J2: COIN DU BALAI FC (Eq. 2) vs CHENOIS SC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20250906T133000Z
+DTEND;VALUE=DATE-TIME:20250906T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_6C_2_229_84
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
  pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
-  Bleu marine\n\nContact équipe domicile: Rosenfeld J. (0485.05.40.06 - ro
- senfeldjean@hotmail.com)\n\nAccès voiture : A partir du square des Archid
- ucs\, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérif
- iez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:
- //calabssa.be/c/229_2_coin_du_balai_fc
+  Noir et Rouge\n\nContact équipe domicile: Rosenfeld J. (0485.05.40.06 - 
+ rosenfeldjean@hotmail.com)\n\nAccès voiture : A partir du square des Arch
+ iducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVér
+ ifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: http
+ s://calabssa.be/c/229_2_coin_du_balai_fc
 GEO:50.80645209999999;4.4087184
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
@@ -23,114 +45,36 @@ ORGANIZER;CN="Rosenfeld J.";ROLE=Secrétaire:MAILTO:rosenfeldjean@hotmail.
  com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J1: CAMPOMAIORENSE SC vs COIN DU BALAI FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20240907T133000Z
-DTEND;VALUE=DATE-TIME:20240907T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_6B_1_467_229
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W13\n\nCouleur princi
- pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
- e: Bleu Marine\n\nContact équipe domicile: Cesar Paixao I. (0496.37.12.76
-  - ivocp1@hotmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendr
- e la rue Voot\, puis la chaussée de Stockel. Passer en dessous du petit p
- ont et continuer la chaussée de Stockel pendant env. 500 m. Le terrain es
- t situé sur la droite de la chaussée.\n\nVérifiez toujours ces infos su
- r http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/229_2_coi
- n_du_balai_fc
-GEO:50.8417148;4.4547744
-LOCATION:Chaussée de Stockel 376\, 1150 Woluwé-Saint-Pierre\, Belgique
-ORGANIZER;CN="Cesar Paixao I.";ROLE=Secrétaire:MAILTO:ivocp1@hotmail.com
+SUMMARY:ABSSA D6C J3: NEW ARQUOIS FC (Eq. 3) vs COIN DU BALAI FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20250913T133000Z
+DTEND;VALUE=DATE-TIME:20250913T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_6C_3_263_229
+DESCRIPTION:Terrain synthétique: non\nCode terrain: A12\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu M
+ arine\n\nContact équipe domicile: Beka J-M. (0495.25.31.25 - jmbeka73@gma
+ il.com)\n\nAccès voiture : Autoroute E 19 (Bruxelles-Charleroi)\, sortie 
+ Arquennes. Direction Seneffe-La-Louvière. A la station d'essence Total\, 
+ prendre à droite pendant +/- 700 mètres.\nAu rond point\, prendre à dro
+ ite en direction du château de La Rocq\, passez sous le pont\, le terrain
+  se trouve à 100 mètres (à proximité du cimetière).\n\nVérifiez touj
+ ours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabs
+ sa.be/c/229_2_coin_du_balai_fc
+GEO:50.570014;4.272457699999999
+LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion 22\, 7181 Arquennes\
+ , Belgique
+ORGANIZER;CN="Beka J-M.";ROLE=Secrétaire:MAILTO:jmbeka73@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J2: COIN DU BALAI FC (Eq. 2) vs FORESTOIS SC (Eq. 4)
-DTSTART;VALUE=DATE-TIME:20240914T133000Z
-DTEND;VALUE=DATE-TIME:20240914T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_6B_2_229_152
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
- pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
-  Noir\n\nContact équipe domicile: Rosenfeld J. (0485.05.40.06 - rosenfeld
- jean@hotmail.com)\n\nAccès voiture : A partir du square des Archiducs\, p
- rendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez tou
- jours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calab
- ssa.be/c/229_2_coin_du_balai_fc
-GEO:50.80645209999999;4.4087184
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER;CN="Rosenfeld J.";ROLE=Secrétaire:MAILTO:rosenfeldjean@hotmail.
- com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J3: NIVELLES CS (Eq. 2) vs COIN DU BALAI FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20240921T133000Z
-DTEND;VALUE=DATE-TIME:20240921T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_6B_3_306_229
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
- pale équipe domicile: Orange fluo\nCouleur principale équipe exterieure:
-  Bleu Marine\n\nContact équipe domicile: Couteau A (0497.63.11.19 - coute
- au.arnold.00@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, par l
- 'autoroute Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, pas
- ser sous le pont de l'autoroute et prendre la direction de Nivelles. A 200
-  m.\, au rond-point (Shopping Center)\, tourner à droite en direction de 
- Wavre (petit ring de Nivelles).\nAu 4ème rond-point (en tenant compte du 
- rond-point du Shopping Center)\, tourner à gauche \, rue de l'Industrie e
- t pénétrer dans le zoning. Au bout de la rue\, avant le feu de signalisa
- tion\, tourner à gauche et prendre la rue du Progrès pendant +/- 400 m.\
- n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabss
- a: https://calabssa.be/c/229_2_coin_du_balai_fc
-GEO:50.5963705;4.3564539
-LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER;CN="Couteau A";ROLE=Secrétaire:MAILTO:couteau.arnold.00@gmail.c
- om
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J4: COIN DU BALAI FC (Eq. 2) vs PHARMA SC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20240928T133000Z
-DTEND;VALUE=DATE-TIME:20240928T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_6B_4_229_268
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
- pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
-  Vert\n\nContact équipe domicile: Rosenfeld J. (0485.05.40.06 - rosenfeld
- jean@hotmail.com)\n\nAccès voiture : A partir du square des Archiducs\, p
- rendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez tou
- jours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calab
- ssa.be/c/229_2_coin_du_balai_fc
-GEO:50.80645209999999;4.4087184
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER;CN="Rosenfeld J.";ROLE=Secrétaire:MAILTO:rosenfeldjean@hotmail.
- com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J5: BRUSSELS BRITISH R (Eq. 6) vs COIN DU BALAI FC (Eq. 
+SUMMARY:ABSSA D6C J4: COIN DU BALAI FC (Eq. 2) vs BRAINE-TERMINUS FC (Eq. 
  2)
-DTSTART;VALUE=DATE-TIME:20241005T120000Z
-DTEND;VALUE=DATE-TIME:20241005T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_6B_5_1_229
-DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
- Marine\n\nContact équipe domicile: O'Connor G (0456.54.46.67 - abssa-sec@
- rbbfc.org)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosière
- s. Passer devant l'église\, longer l'autoroute et tourner à droite au ci
- metière des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos su
- r http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/229_2_coi
- n_du_balai_fc
-GEO:50.7282426;4.5537189
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER;CN="O'Connor G";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J25: COIN DU BALAI FC (Eq. 2) vs TUBIFOOT AS
-DTSTART;VALUE=DATE-TIME:20241019T133000Z
-DTEND;VALUE=DATE-TIME:20241019T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_6B_25_229_451
+DTSTART;VALUE=DATE-TIME:20250920T133000Z
+DTEND;VALUE=DATE-TIME:20250920T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_6C_4_229_537
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
  pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
-  Jaune et Rouge\n\nContact équipe domicile: Rosenfeld J. (0485.05.40.06 -
+  Jaune et rouge\n\nContact équipe domicile: Rosenfeld J. (0485.05.40.06 -
   rosenfeldjean@hotmail.com)\n\nAccès voiture : A partir du square des Arc
  hiducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVé
  rifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: htt
@@ -142,116 +86,32 @@ ORGANIZER;CN="Rosenfeld J.";ROLE=Secrétaire:MAILTO:rosenfeldjean@hotmail.
  com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J26: GOALOIS (Eq. 3) vs COIN DU BALAI FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20241026T120000Z
-DTEND;VALUE=DATE-TIME:20241026T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_6B_26_345_229
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Blanc-Noir\nCouleur principale équipe exterieure: 
- Bleu Marine\n\nContact équipe domicile: Laruelle M. (0494.52.09.71 - mart
- in.laruelle@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendr
- e la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus
-  bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujo
- urs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabss
- a.be/c/229_2_coin_du_balai_fc
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="Laruelle M.";ROLE=Secrétaire:MAILTO:martin.laruelle@gmail.c
- om
+SUMMARY:ABSSA D6C J5: AZUR RCS (Eq. 6) vs COIN DU BALAI FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20250927T113000Z
+DTEND;VALUE=DATE-TIME:20250927T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_6C_5_109_229
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W12\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu M
+ arine\n\nContact équipe domicile: Mad. Decamps N. (0477.27.39.66 - nathal
+ ie_decamps@hotmail.com)\n\nAccès voiture : Avenue de Tervuren\, direction
+  Tervuren. Passé le boulevard du Souverain prendre à gauche au premier f
+ eu de signalisation (Av. Madoux). Au feu de signalisation suivant prendre 
+ la 2ème rue à main droite (Av. J. Dujardin). Ensuite 1ère rue à gauche
+  (Av. Salomé).\n\nVérifiez toujours ces infos sur http://www.abssa.be/\n
+ Voir sur calabssa: https://calabssa.be/c/229_2_coin_du_balai_fc
+GEO:50.8308291;4.4555375
+LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
+ elgique
+ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
+ tmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J7: ECUSSON FC vs COIN DU BALAI FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20241102T143000Z
-DTEND;VALUE=DATE-TIME:20241102T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_6B_7_404_229
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
- pale équipe domicile: Jaune et Bleu\nCouleur principale équipe exterieur
- e: Bleu Marine\n\nContact équipe domicile: Mme. Mottar M. (0493.45.25.64 
- - Melissa42@hotmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\
- , après 300 m. en direction de Lennik\, prendre à droite.\nVenant de la 
- chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place 
- Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400
-  m. en direction de Lennik.\n\nVérifiez toujours ces infos sur http://www
- .abssa.be/\nVoir sur calabssa: https://calabssa.be/c/229_2_coin_du_balai_f
- c
-GEO:50.8177358;4.2557195
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER;CN="Mme. Mottar M.";ROLE=Secrétaire:MAILTO:Melissa42@hotmail.co
- m
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J8: COIN DU BALAI FC (Eq. 2) vs NEW ARQUOIS FC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20241109T143000Z
-DTEND;VALUE=DATE-TIME:20241109T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_6B_8_229_263
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
- pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
-  Bleu\n\nContact équipe domicile: Rosenfeld J. (0485.05.40.06 - rosenfeld
- jean@hotmail.com)\n\nAccès voiture : A partir du square des Archiducs\, p
- rendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez tou
- jours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calab
- ssa.be/c/229_2_coin_du_balai_fc
-GEO:50.80645209999999;4.4087184
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER;CN="Rosenfeld J.";ROLE=Secrétaire:MAILTO:rosenfeldjean@hotmail.
- com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J9: COIN DU BALAI FC (Eq. 2) vs AZUR RCS (Eq. 5)
-DTSTART;VALUE=DATE-TIME:20241116T143000Z
-DTEND;VALUE=DATE-TIME:20241116T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_6B_9_229_109
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
- pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
-  Bleu\n\nContact équipe domicile: Rosenfeld J. (0485.05.40.06 - rosenfeld
- jean@hotmail.com)\n\nAccès voiture : A partir du square des Archiducs\, p
- rendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez tou
- jours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calab
- ssa.be/c/229_2_coin_du_balai_fc
-GEO:50.80645209999999;4.4087184
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER;CN="Rosenfeld J.";ROLE=Secrétaire:MAILTO:rosenfeldjean@hotmail.
- com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J12: TUBIFOOT AS vs COIN DU BALAI FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20241123T143000Z
-DTEND;VALUE=DATE-TIME:20241123T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_6B_12_451_229
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: T06\n\nCouleur princi
- pale équipe domicile: Jaune et Rouge\nCouleur principale équipe exterieu
- re: Bleu Marine\n\nContact équipe domicile: Girardo. M (0491.35.69.81 - a
- stubifoot@gmail.com)\n\nAccès voiture : •En venant de Bruxelles : Prend
- re le RO en direction Mons-Bergen / Charleroi - prendre la sortie 21 et co
- ntinuer sur la E429 direction Lille/Rijsel. Prendre la sortie 23 Tubize / 
- Tubeke et continuer sur la chaussée d’Hondzocht . Passer 2  ronds point
-  jusqu’à la chaussée de Bruxelles (N6)\, prendre à droite Rue de Brux
- elles et traverser le centre de Tubize en direction de Braine-le-Comte : r
- ue de Bruxelles et Chaussée de Mons. Aprè IPES\, prendre la première ru
- e à gauche (rue d’Atina) suivre le panneau cimetière-parc à container
- -ferme Massart.  Continuer 10 m. jusqu’au parking du cimetière\, l’en
- trée du stade se trouve en face du parking.\n\nVérifiez toujours ces inf
- os sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/229_
- 2_coin_du_balai_fc
-GEO:50.683352;4.1953276
-LOCATION:Rue d'Atina \, 1480  Tubize\, Belgique
-ORGANIZER;CN="Girardo. M";ROLE=Secrétaire:MAILTO:astubifoot@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J11: COIN DU BALAI FC (Eq. 2) vs IDEAL RANGERS R
-DTSTART;VALUE=DATE-TIME:20241130T143000Z
-DTEND;VALUE=DATE-TIME:20241130T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_6B_11_229_47
+SUMMARY:ABSSA D6C J6: COIN DU BALAI FC (Eq. 2) vs IDEAL RANGERS R
+DTSTART;VALUE=DATE-TIME:20251004T133000Z
+DTEND;VALUE=DATE-TIME:20251004T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_6C_6_229_47
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
  pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
   Orange et Noir\n\nContact équipe domicile: Rosenfeld J. (0485.05.40.06 -
@@ -266,133 +126,52 @@ ORGANIZER;CN="Rosenfeld J.";ROLE=Secrétaire:MAILTO:rosenfeldjean@hotmail.
  com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J10: TRINQUANT (Eq. 2) vs COIN DU BALAI FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20241207T130000Z
-DTEND;VALUE=DATE-TIME:20241207T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_6B_10_445_229
+SUMMARY:ABSSA D6C J7: COIN DU BALAI FC (Eq. 2) vs ELAN EVERE RAC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20251011T133000Z
+DTEND;VALUE=DATE-TIME:20251011T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_6C_7_229_7
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
+  Rouge\n\nContact équipe domicile: Rosenfeld J. (0485.05.40.06 - rosenfel
+ djean@hotmail.com)\n\nAccès voiture : A partir du square des Archiducs\, 
+ prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez to
+ ujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cala
+ bssa.be/c/229_2_coin_du_balai_fc
+GEO:50.80645209999999;4.4087184
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Rosenfeld J.";ROLE=Secrétaire:MAILTO:rosenfeldjean@hotmail.
+ com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J8: BRUSSELS LTC (Eq. 7) vs COIN DU BALAI FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20251018T120000Z
+DTEND;VALUE=DATE-TIME:20251018T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_6C_8_39_229
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
- pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
-  Bleu Marine\n\nContact équipe domicile: Bernard J-M. (0476.66.08.14 - jm
- bernard.trinquant@yahoo.fr)\n\nAccès voiture : Venant de Bruxelles\, pren
- dre le Ring Est direction Waterloo. Sortir au pont de Groenendael\, direct
- ion La Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La Hu
- lpe\, toujours tout droit. Au feu de signalisation et le carrefour de La H
- ulpe\, tout droit direction Genval. Au feu de signalisation prendre à gau
- che et ensuite directement à droite\, l'avenue Soyer\, derrière le G.B. 
- Le terrain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://
- www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/229_2_coin_du_bala
- i_fc
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bl
+ eu Marine\n\nContact équipe domicile: Prudhomme D (0478.49.26.08 - brusse
+ lsltc039@gmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre le R
+ ing Est direction Waterloo. Sortir au pont de Groenendael\, direction La H
+ ulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, to
+ ujours tout droit. Au feu de signalisation et le carrefour de La Hulpe\, t
+ out droit direction Genval. Au feu de signalisation prendre à gauche et e
+ nsuite directement à droite\, l'avenue Soyer\, derrière le G.B. Le terra
+ in se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.abss
+ a.be/\nVoir sur calabssa: https://calabssa.be/c/229_2_coin_du_balai_fc
 GEO:50.7308998;4.4944678
 LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER;CN="Bernard J-M.";ROLE=Secrétaire:MAILTO:jmbernard.trinquant@ya
- hoo.fr
+ORGANIZER;CN="Prudhomme D";ROLE=Secrétaire:MAILTO:brusselsltc039@gmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J13: COIN DU BALAI FC (Eq. 2) vs GOALOIS (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20241214T143000Z
-DTEND;VALUE=DATE-TIME:20241214T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_6B_13_229_345
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
- pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
-  Blanc-Noir\n\nContact équipe domicile: Rosenfeld J. (0485.05.40.06 - ros
- enfeldjean@hotmail.com)\n\nAccès voiture : A partir du square des Archidu
- cs\, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifi
- ez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:/
- /calabssa.be/c/229_2_coin_du_balai_fc
-GEO:50.80645209999999;4.4087184
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER;CN="Rosenfeld J.";ROLE=Secrétaire:MAILTO:rosenfeldjean@hotmail.
- com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J14: COIN DU BALAI FC (Eq. 2) vs CAMPOMAIORENSE SC
-DTSTART;VALUE=DATE-TIME:20250111T143000Z
-DTEND;VALUE=DATE-TIME:20250111T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_6B_14_229_467
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
- pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
-  Vert et blanc\n\nContact équipe domicile: Rosenfeld J. (0485.05.40.06 - 
- rosenfeldjean@hotmail.com)\n\nAccès voiture : A partir du square des Arch
- iducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVér
- ifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: http
- s://calabssa.be/c/229_2_coin_du_balai_fc
-GEO:50.80645209999999;4.4087184
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER;CN="Rosenfeld J.";ROLE=Secrétaire:MAILTO:rosenfeldjean@hotmail.
- com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J15: FORESTOIS SC (Eq. 4) vs COIN DU BALAI FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20250118T130000Z
-DTEND;VALUE=DATE-TIME:20250118T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_6B_15_152_229
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu M
- arine\n\nContact équipe domicile: Janssens P. (0479.95.08.14 - patj.scf@g
- mail.com)\n\nAccès voiture : Au départ de la Place St. Denis à Forest p
- rendre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue
-  à droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à 
- gauche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée
-  du Complexe se trouve à hauteur de City Cart\, à gauche de la route.\n\
- nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa:
-  https://calabssa.be/c/229_2_coin_du_balai_fc
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J16: COIN DU BALAI FC (Eq. 2) vs NIVELLES CS (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20250125T143000Z
-DTEND;VALUE=DATE-TIME:20250125T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_6B_16_229_306
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
- pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
-  Orange fluo\n\nContact équipe domicile: Rosenfeld J. (0485.05.40.06 - ro
- senfeldjean@hotmail.com)\n\nAccès voiture : A partir du square des Archid
- ucs\, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérif
- iez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:
- //calabssa.be/c/229_2_coin_du_balai_fc
-GEO:50.80645209999999;4.4087184
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER;CN="Rosenfeld J.";ROLE=Secrétaire:MAILTO:rosenfeldjean@hotmail.
- com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J17: PHARMA SC (Eq. 3) vs COIN DU BALAI FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20250201T123000Z
-DTEND;VALUE=DATE-TIME:20250201T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_6B_17_268_229
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Bleu M
- arine\n\nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.dum
- idi@scarlet.be)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nE
- n venant de Zaventem\, prendre à gauche à la sortie\, en venant de Charl
- eroi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond 
- point. Le terrain se trouve en face de la pompe à essence Q8.\n\nVérifie
- z toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://
- calabssa.be/c/229_2_coin_du_balai_fc
-GEO:50.883299;4.316365
-LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
-ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
- e
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J18: COIN DU BALAI FC (Eq. 2) vs BRUSSELS BRITISH R (Eq.
-  6)
-DTSTART;VALUE=DATE-TIME:20250208T143000Z
-DTEND;VALUE=DATE-TIME:20250208T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_6B_18_229_1
+SUMMARY:ABSSA D6C J9: COIN DU BALAI FC (Eq. 2) vs CHIEFS WSL (Eq. 4)
+DTSTART;VALUE=DATE-TIME:20251025T133000Z
+DTEND;VALUE=DATE-TIME:20251025T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_6C_9_229_303
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
  pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
   Blanc\n\nContact équipe domicile: Rosenfeld J. (0485.05.40.06 - rosenfel
@@ -407,11 +186,174 @@ ORGANIZER;CN="Rosenfeld J.";ROLE=Secrétaire:MAILTO:rosenfeldjean@hotmail.
  com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J24: IDEAL RANGERS R vs COIN DU BALAI FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20250222T143000Z
-DTEND;VALUE=DATE-TIME:20250222T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_6B_24_47_229
+SUMMARY:ABSSA D6C J10: ALIZE VETERANS FC vs COIN DU BALAI FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20251108T123000Z
+DTEND;VALUE=DATE-TIME:20251108T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_6C_10_395_229
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
+ pale équipe domicile: Rouge et Noir\nCouleur principale équipe exterieur
+ e: Bleu Marine\n\nContact équipe domicile: Faid'Herbe T (0475.82.12.92 - 
+ thierry.faidherbe@outlook.be)\n\nAccès voiture : Via la chaussée de Mons
+  jusqu'à Veeweyde (carrefour Fr. Van Kalken). Prendre à droite le boulev
+ ard  A. Briand jusqu'à la Place Verdi\, puis le Bld. Théo Lambert.\n\nV
+ érifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: h
+ ttps://calabssa.be/c/229_2_coin_du_balai_fc
+GEO:50.8275993;4.2964877
+LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Faid'Herbe T";ROLE=Secrétaire:MAILTO:thierry.faidherbe@outl
+ ook.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J12: FAUBOURG-BRAINOISE (Eq. 2) vs COIN DU BALAI FC (Eq.
+  2)
+DTSTART;VALUE=DATE-TIME:20251122T123000Z
+DTEND;VALUE=DATE-TIME:20251122T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_6C_12_100_229
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu 
+ Marine\n\nContact équipe domicile: Herpain D. (0474.79.02.18 - daniel.her
+ pain@skynet.be)\n\nAccès voiture : En venant de Bruxelles\, emprunter la 
+ chaussée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit
+  carrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chauss
+ ée\, au deuxième feu de signalisation\, prendre à droite\, le terrain s
+ e trouve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur ht
+ tp://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/229_2_coin_du
+ _balai_fc
+GEO:50.6827211;4.3844421
+LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud\, Belgique
+ORGANIZER;CN="Herpain D.";ROLE=Secrétaire:MAILTO:daniel.herpain@skynet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J13: COIN DU BALAI FC (Eq. 2) vs TUBIFOOT AS
+DTSTART;VALUE=DATE-TIME:20251129T143000Z
+DTEND;VALUE=DATE-TIME:20251129T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_6C_13_229_451
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
+  Jaune et Rouge\n\nContact équipe domicile: Rosenfeld J. (0485.05.40.06 -
+  rosenfeldjean@hotmail.com)\n\nAccès voiture : A partir du square des Arc
+ hiducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVé
+ rifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: htt
+ ps://calabssa.be/c/229_2_coin_du_balai_fc
+GEO:50.80645209999999;4.4087184
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Rosenfeld J.";ROLE=Secrétaire:MAILTO:rosenfeldjean@hotmail.
+ com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J14: COIN DU BALAI FC (Eq. 2) vs PHARMA SC (Eq. 4)
+DTSTART;VALUE=DATE-TIME:20251206T143000Z
+DTEND;VALUE=DATE-TIME:20251206T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_6C_14_229_268
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
+  Bleu\n\nContact équipe domicile: Rosenfeld J. (0485.05.40.06 - rosenfeld
+ jean@hotmail.com)\n\nAccès voiture : A partir du square des Archiducs\, p
+ rendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez tou
+ jours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calab
+ ssa.be/c/229_2_coin_du_balai_fc
+GEO:50.80645209999999;4.4087184
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Rosenfeld J.";ROLE=Secrétaire:MAILTO:rosenfeldjean@hotmail.
+ com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J15: CHENOIS SC (Eq. 3) vs COIN DU BALAI FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20251213T140000Z
+DTEND;VALUE=DATE-TIME:20251213T153000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_6C_15_84_229
+DESCRIPTION:Terrain synthétique: non\nCode terrain: W02\n\nCouleur princi
+ pale équipe domicile: Noir et Rouge\nCouleur principale équipe exterieur
+ e: Bleu Marine\n\nContact équipe domicile: Versmissen P. (0495.59.61.77 -
+  sc.chenois@waterloo.eu)\n\nAccès voiture : Venant d'Uccle\, prendre la c
+ haussée de Waterloo\, ensuite la chaussée de Bruxelles\, continuer jusqu
+ 'à la place E. Vandevelde (intersection de la chaussée de Bruxelles avec
+  la chaussée de Tervuren à Joli-Bois). Au feu de signalisation prendre 
+ à droite la chaussée Bara. Le terrain se trouve à droite à +/- 500 m.\
+ n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabss
+ a: https://calabssa.be/c/229_2_coin_du_balai_fc
+GEO:50.701676;4.397567
+LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
+ORGANIZER;CN="Versmissen P.";ROLE=Secrétaire:MAILTO:sc.chenois@waterloo.e
+ u
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J16: COIN DU BALAI FC (Eq. 2) vs NEW ARQUOIS FC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20260110T143000Z
+DTEND;VALUE=DATE-TIME:20260110T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_6C_16_229_263
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
+  Bleu\n\nContact équipe domicile: Rosenfeld J. (0485.05.40.06 - rosenfeld
+ jean@hotmail.com)\n\nAccès voiture : A partir du square des Archiducs\, p
+ rendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez tou
+ jours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calab
+ ssa.be/c/229_2_coin_du_balai_fc
+GEO:50.80645209999999;4.4087184
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Rosenfeld J.";ROLE=Secrétaire:MAILTO:rosenfeldjean@hotmail.
+ com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J17: BRAINE-TERMINUS FC (Eq. 2) vs COIN DU BALAI FC (Eq.
+  2)
+DTSTART;VALUE=DATE-TIME:20260117T130000Z
+DTEND;VALUE=DATE-TIME:20260117T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_6C_17_537_229
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
+ pale équipe domicile: Jaune et rouge\nCouleur principale équipe exterieu
+ re: Bleu Marine\n\nContact équipe domicile: Dero G. (0479.81.83.27 - fcbr
+ aineterminus@gmail.com)\n\nAccès voiture : En venant de Bruxelles : Autor
+ oute Tournai - Lille (A8)\, prendre la sortie n° 24\, direction Rebecq\, 
+ puis la N 6 Bruxelles-Mons en direction de Mons. Entrer dans l'agglomérat
+ ion de Braine-Le-Comte et prendre la 1ère rue à droite\, le terrain se s
+ itue au bout de la rue.\nEn venant de Nivelles : Prendre la N533\, Nivelle
+ s/Braine-Le-Comte. Entrer dans l'agglomération de Braine-Le-Comte et suiv
+ re la direction de Bruxelles (N 6 Mons-Bruxelles)\, prendre la 1ère rue 
+ à gauche\, le terrain se situe au bout de la rue.\n\nVérifiez toujours c
+ es infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/
+ c/229_2_coin_du_balai_fc
+GEO:50.6194169;4.1351187
+LOCATION:Rue du Poseur 39\, 7090 Braine-Le-Comte\, Belgique
+ORGANIZER;CN="Dero G.";ROLE=Secrétaire:MAILTO:fcbraineterminus@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J18: COIN DU BALAI FC (Eq. 2) vs AZUR RCS (Eq. 6)
+DTSTART;VALUE=DATE-TIME:20260124T143000Z
+DTEND;VALUE=DATE-TIME:20260124T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_6C_18_229_109
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
+  Bleu\n\nContact équipe domicile: Rosenfeld J. (0485.05.40.06 - rosenfeld
+ jean@hotmail.com)\n\nAccès voiture : A partir du square des Archiducs\, p
+ rendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez tou
+ jours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calab
+ ssa.be/c/229_2_coin_du_balai_fc
+GEO:50.80645209999999;4.4087184
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Rosenfeld J.";ROLE=Secrétaire:MAILTO:rosenfeldjean@hotmail.
+ com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J19: IDEAL RANGERS R vs COIN DU BALAI FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260131T143000Z
+DTEND;VALUE=DATE-TIME:20260131T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_6C_19_47_229
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: U04\n\nCouleur princi
  pale équipe domicile: Orange et Noir\nCouleur principale équipe exterieu
  re: Bleu Marine\n\nContact équipe domicile: Simon A. (0477.87.83.33 - ala
@@ -434,14 +376,69 @@ LOCATION:Complexe Sportif de Ridder\, Rue des Griottes\, 1180 Uccle\, Belg
 ORGANIZER;CN="Simon A.";ROLE=Secrétaire:MAILTO:alain.si@skynet.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J20: COIN DU BALAI FC (Eq. 2) vs ECUSSON FC
-DTSTART;VALUE=DATE-TIME:20250308T143000Z
-DTEND;VALUE=DATE-TIME:20250308T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_6B_20_229_404
+SUMMARY:ABSSA D6C J20: ELAN EVERE RAC (Eq. 2) vs COIN DU BALAI FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260207T143000Z
+DTEND;VALUE=DATE-TIME:20260207T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_6C_20_7_229
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E08\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu 
+ Marine\n\nContact équipe domicile: Dubois J-J. (0486.47.10.49 - jjdubois5
+ 8@gmail.com)\n\nAccès voiture : Le terrain se trouve derrière l'église 
+ St. Vincent\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir
+  sur calabssa: https://calabssa.be/c/229_2_coin_du_balai_fc
+GEO:50.8803867;4.4003168
+LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue Stroobants 75\, 1140 Evere\,
+  Belgique
+ORGANIZER;CN="Dubois J-J.";ROLE=Secrétaire:MAILTO:jjdubois58@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J21: COIN DU BALAI FC (Eq. 2) vs BRUSSELS LTC (Eq. 7)
+DTSTART;VALUE=DATE-TIME:20260214T143000Z
+DTEND;VALUE=DATE-TIME:20260214T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_6C_21_229_39
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
  pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
-  Jaune et Bleu\n\nContact équipe domicile: Rosenfeld J. (0485.05.40.06 - 
+  Bordeaux\n\nContact équipe domicile: Rosenfeld J. (0485.05.40.06 - rosen
+ feldjean@hotmail.com)\n\nAccès voiture : A partir du square des Archiducs
+ \, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez
+  toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://c
+ alabssa.be/c/229_2_coin_du_balai_fc
+GEO:50.80645209999999;4.4087184
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Rosenfeld J.";ROLE=Secrétaire:MAILTO:rosenfeldjean@hotmail.
+ com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J22: CHIEFS WSL (Eq. 4) vs COIN DU BALAI FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260221T100000Z
+DTEND;VALUE=DATE-TIME:20260221T113000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_6C_22_303_229
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
+ Marine\n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan.b
+ e)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, puis
+  la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce p
+ ont le terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur ht
+ tp://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/229_2_coin_du
+ _balai_fc
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J23: COIN DU BALAI FC (Eq. 2) vs ALIZE VETERANS FC
+DTSTART;VALUE=DATE-TIME:20260228T143000Z
+DTEND;VALUE=DATE-TIME:20260228T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_6C_23_229_395
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
+  Rouge et Noir\n\nContact équipe domicile: Rosenfeld J. (0485.05.40.06 - 
  rosenfeldjean@hotmail.com)\n\nAccès voiture : A partir du square des Arch
  iducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVér
  ifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: http
@@ -453,45 +450,48 @@ ORGANIZER;CN="Rosenfeld J.";ROLE=Secrétaire:MAILTO:rosenfeldjean@hotmail.
  com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J21: NEW ARQUOIS FC (Eq. 3) vs COIN DU BALAI FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20250315T143000Z
-DTEND;VALUE=DATE-TIME:20250315T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_6B_21_263_229
-DESCRIPTION:Terrain synthétique: non\nCode terrain: A12\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu M
- arine\n\nContact équipe domicile: Beka J-M. (0495.25.31.25 - jmbeka73@gma
- il.com)\n\nAccès voiture : Autoroute E 19 (Bruxelles-Charleroi)\, sortie 
- Arquennes. Direction Seneffe-La-Louvière. A la station d'essence Total\, 
- prendre à droite pendant +/- 700 mètres.\nAu rond point\, prendre à dro
- ite en direction du château de La Rocq\, passez sous le pont\, le terrain
-  se trouve à 100 mètres (à proximité du cimetière).\n\nVérifiez touj
- ours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabs
- sa.be/c/229_2_coin_du_balai_fc
-GEO:50.5690988;4.2677281
-LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion\, 7181 Arquennes\, B
- elgique
-ORGANIZER;CN="Beka J-M.";ROLE=Secrétaire:MAILTO:jmbeka73@gmail.com
+SUMMARY:ABSSA D6C J25: COIN DU BALAI FC (Eq. 2) vs FAUBOURG-BRAINOISE (Eq.
+  2)
+DTSTART;VALUE=DATE-TIME:20260314T143000Z
+DTEND;VALUE=DATE-TIME:20260314T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_6C_25_229_100
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
+  Rouge\n\nContact équipe domicile: Rosenfeld J. (0485.05.40.06 - rosenfel
+ djean@hotmail.com)\n\nAccès voiture : A partir du square des Archiducs\, 
+ prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez to
+ ujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cala
+ bssa.be/c/229_2_coin_du_balai_fc
+GEO:50.80645209999999;4.4087184
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Rosenfeld J.";ROLE=Secrétaire:MAILTO:rosenfeldjean@hotmail.
+ com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J22: AZUR RCS (Eq. 5) vs COIN DU BALAI FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20250322T123000Z
-DTEND;VALUE=DATE-TIME:20250322T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_6B_22_109_229
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W12\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu M
- arine\n\nContact équipe domicile: Mad. Decamps N. (0477.27.39.66 - nathal
- ie_decamps@hotmail.com)\n\nAccès voiture : Avenue de Tervuren\, direction
-  Tervuren. Passé le boulevard du Souverain prendre à gauche au premier f
- eu de signalisation (Av. Madoux). Au feu de signalisation suivant prendre 
- la 2ème rue à main droite (Av. J. Dujardin). Ensuite 1ère rue à gauche
-  (Av. Salomé).\n\nVérifiez toujours ces infos sur http://www.abssa.be/\n
- Voir sur calabssa: https://calabssa.be/c/229_2_coin_du_balai_fc
-GEO:50.830818;4.455442
-LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
- elgique
-ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
- tmail.com
+SUMMARY:ABSSA D6C J26: TUBIFOOT AS vs COIN DU BALAI FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260321T143000Z
+DTEND;VALUE=DATE-TIME:20260321T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_6C_26_451_229
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: T06\n\nCouleur princi
+ pale équipe domicile: Jaune et Rouge\nCouleur principale équipe exterieu
+ re: Bleu Marine\n\nContact équipe domicile: Girardo. M (0491.35.69.81 - a
+ stubifoot@gmail.com)\n\nAccès voiture : •En venant de Bruxelles : Prend
+ re le RO en direction Mons-Bergen / Charleroi - prendre la sortie 21 et co
+ ntinuer sur la E429 direction Lille/Rijsel. Prendre la sortie 23 Tubize / 
+ Tubeke et continuer sur la chaussée d’Hondzocht . Passer 2  ronds point
+  jusqu’à la chaussée de Bruxelles (N6)\, prendre à droite Rue de Brux
+ elles et traverser le centre de Tubize en direction de Braine-le-Comte : r
+ ue de Bruxelles et Chaussée de Mons. Aprè IPES\, prendre la première ru
+ e à gauche (rue d’Atina) suivre le panneau cimetière-parc à container
+ -ferme Massart.  Continuer 10 m. jusqu’au parking du cimetière\, l’en
+ trée du stade se trouve en face du parking.\n\nVérifiez toujours ces inf
+ os sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/229_
+ 2_coin_du_balai_fc
+GEO:50.683352;4.1953276
+LOCATION:Rue d'Atina \, 1480  Tubize\, Belgique
+ORGANIZER;CN="Girardo. M";ROLE=Secrétaire:MAILTO:astubifoot@gmail.com
 END:VEVENT
 END:VCALENDAR

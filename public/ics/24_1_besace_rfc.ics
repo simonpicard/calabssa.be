@@ -4,50 +4,11 @@ PRODID:24_1_besace_rfc
 X-WR-CALDESC:Les matches du club BESACE RFC (equipe 1) en ABSSA.
 X-WR-CALNAME:ABSSA: BESACE RFC (eq. 1)
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J23: UNION TIGERS vs BESACE RFC
-DTSTART;VALUE=DATE-TIME:20240831T133000Z
-DTEND;VALUE=DATE-TIME:20240831T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_2A_23_649_24
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A01\n\nCouleur princi
- pale équipe domicile: Bleu ciel et Blanc\nCouleur principale équipe exte
- rieure: Bleu\n\nContact équipe domicile: Thibaut L (0472.52.93.45 - union
- .tigers@hotmail.com)\n\nAccès voiture : Par le Ring Ouest\, direction Par
- is\, sortie Westland Shopping Center (n° 14) continuer tout droit\, remon
- ter vers le Ring et prendre à droite pour sortir vers Itterbeek. Prendre 
- l'avenue d'Itterbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. L
- e terrain se trouve à gauche\, entre l'école Van Belle et Veeweyde.\n\nV
- érifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: h
- ttps://calabssa.be/c/24_1_besace_rfc
-GEO:50.8354396;4.2768611
-LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
-ORGANIZER;CN="Thibaut L";ROLE=Secrétaire:MAILTO:union.tigers@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J1: VETUSO FC. vs BESACE RFC
-DTSTART;VALUE=DATE-TIME:20240907T120000Z
-DTEND;VALUE=DATE-TIME:20240907T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_2A_1_624_24
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
- \nContact équipe domicile: Day N. (0494.57.83.26 - nicolas.day@ucb.com)\n
- \nAccès voiture : Venant de Bruxelles prendre le Ring Ouest\, sortie Gena
- ppe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi) direction
-  Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le carrefour
- \, tout droit direction route du sucre.\n\nVérifiez toujours ces infos su
- r http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/24_1_besa
- ce_rfc
-GEO:50.6007528;4.4472782
-LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
-ORGANIZER;CN="Day N.";ROLE=Secrétaire:MAILTO:nicolas.day@ucb.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J2: BESACE RFC vs BRITISH UNITED (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20240914T113000Z
-DTEND;VALUE=DATE-TIME:20240914T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_2A_2_24_132
+SUMMARY:ABSSA D1 J1: BESACE RFC vs BRITISH UNITED
+DTSTART;VALUE=DATE-TIME:20250830T113000Z
+DTEND;VALUE=DATE-TIME:20250830T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_1_24_132
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
  \nContact équipe domicile: Masset M. (0485.61.39.19 - rfcbesace.024@gmail
@@ -57,39 +18,42 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
  terrain se trouve en face de la pompe à essence Q8.\n\nVérifiez toujours
   ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.b
  e/c/24_1_besace_rfc
-GEO:50.883299;4.316365
+GEO:50.8833029;4.3163788
 LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
 ORGANIZER;CN="Masset M.";ROLE=Secrétaire:MAILTO:rfcbesace.024@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J3: BRAINE-TERMINUS FC vs BESACE RFC
-DTSTART;VALUE=DATE-TIME:20240921T133000Z
-DTEND;VALUE=DATE-TIME:20240921T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_2A_3_537_24
-DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
- pale équipe domicile: Jaune et rouge\nCouleur principale équipe exterieu
- re: Bleu\n\nContact équipe domicile: Dero G. (0479.81.83.27 - fcbraineter
- minus@gmail.com)\n\nAccès voiture : En venant de Bruxelles : Autoroute To
- urnai - Lille (A8)\, prendre la sortie n° 24\, direction Rebecq\, puis la
-  N 6 Bruxelles-Mons en direction de Mons. Entrer dans l'agglomération de 
- Braine-Le-Comte et prendre la 1ère rue à droite\, le terrain se situe au
-  bout de la rue.\nEn venant de Nivelles : Prendre la N533\, Nivelles/Brain
- e-Le-Comte. Entrer dans l'agglomération de Braine-Le-Comte et suivre la d
- irection de Bruxelles (N 6 Mons-Bruxelles)\, prendre la 1ère rue à gauch
- e\, le terrain se situe au bout de la rue.\n\nVérifiez toujours ces infos
-  sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/24_1_b
- esace_rfc
-GEO:50.6194169;4.1351187
-LOCATION:Rue du Poseur 39\, 7090 Braine-Le-Comte\, Belgique
-ORGANIZER;CN="Dero G.";ROLE=Secrétaire:MAILTO:fcbraineterminus@gmail.com
+SUMMARY:ABSSA D1 J2: BRUSSELS LTC vs BESACE RFC
+DTSTART;VALUE=DATE-TIME:20250906T113000Z
+DTEND;VALUE=DATE-TIME:20250906T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_2_39_24
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O01\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bl
+ eu\n\nContact équipe domicile: Prudhomme D (0478.49.26.08 - brusselsltc03
+ 9@gmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre ring Est di
+ rection Waterloo. Sortir à la sortie n°27 Waterloo Centre.\n	Prendre ens
+ uite à gauche La Drève de Richelle jusqu'au 3ème rond-point et prendre 
+ à gauche la 	Chaussée de Louvain sur environ 2km et prendre à droite la
+  Rue des Saules toujours tout droit et 	qui devient ensuite la Route des M
+ arnières. Continuer ensuite tout droit\, passer un premier rond-point pui
+ s continuer tout droit jusqu'au rond-point du Messager où il faut prendre
+  la 2ème sortie. Vous êtes alors sur la Route de Genval et l'entrée du 
+ Complexe se trouve à environ 200m sur la gauche.\n\nVérifiez toujours ce
+ s infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c
+ /24_1_besace_rfc
+GEO:50.70475570000001;4.4703447
+LOCATION:Route de Genval\, 26A - 1380 Ohain\, Route de Genval 20A\, 1380 O
+ hain\, Belgique
+ORGANIZER;CN="Prudhomme D";ROLE=Secrétaire:MAILTO:brusselsltc039@gmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J4: BESACE RFC vs HIGGINS-PUMAS
-DTSTART;VALUE=DATE-TIME:20240928T113000Z
-DTEND;VALUE=DATE-TIME:20240928T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_2A_4_24_416
+SUMMARY:ABSSA D1 J3: BESACE RFC vs CHOULE AUDERGHEM
+DTSTART;VALUE=DATE-TIME:20250913T113000Z
+DTEND;VALUE=DATE-TIME:20250913T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_3_24_517
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rayé 
  Bleu et Blanc\n\nContact équipe domicile: Masset M. (0485.61.39.19 - rfcb
@@ -99,74 +63,134 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
  rond point. Le terrain se trouve en face de la pompe à essence Q8.\n\nVé
  rifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: htt
  ps://calabssa.be/c/24_1_besace_rfc
-GEO:50.883299;4.316365
+GEO:50.8833029;4.3163788
 LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
 ORGANIZER;CN="Masset M.";ROLE=Secrétaire:MAILTO:rfcbesace.024@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J5: FORESTOIS SC vs BESACE RFC
-DTSTART;VALUE=DATE-TIME:20241005T120000Z
-DTEND;VALUE=DATE-TIME:20241005T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_2A_5_152_24
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu\n
- \nContact équipe domicile: Janssens P. (0479.95.08.14 - patj.scf@gmail.co
- m)\n\nAccès voiture : Au départ de la Place St. Denis à Forest prendre 
- la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à dro
- ite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gauche 
- (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du Com
- plexe se trouve à hauteur de City Cart\, à gauche de la route.\n\nVérif
- iez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:
- //calabssa.be/c/24_1_besace_rfc
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
+SUMMARY:ABSSA D1 J4: HIGGINS-PUMAS vs BESACE RFC
+DTSTART;VALUE=DATE-TIME:20250920T133000Z
+DTEND;VALUE=DATE-TIME:20250920T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_4_416_24
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
+ erieure: Bleu\n\nContact équipe domicile: De Biolley Ph. (0477.23.31.25 -
+  philippe.debiolley@gmail.com)\n\nAccès voiture : En venant de Bruxelles 
+ par la chaussée de Wavre\, rejoindre le du début de l'autoroute Bruxelle
+ s-Namur\, utiliser la bande de droite pendant +/- 200 m. et descendre deva
+ nt le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (en desso
+ us de l'autoroute). Le terrain se trouve à 200 m. Le stade est fléché.\
+ n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabss
+ a: https://calabssa.be/c/24_1_besace_rfc
+GEO:50.81071379999999;4.4432209
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="De Biolley Ph.";ROLE=Secrétaire:MAILTO:philippe.debiolley@g
+ mail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J6: BESACE RFC vs BIG JEFKE
-DTSTART;VALUE=DATE-TIME:20241012T113000Z
-DTEND;VALUE=DATE-TIME:20241012T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_2A_6_24_137
+SUMMARY:ABSSA D1 J5: BESACE RFC vs WONG A.S.
+DTSTART;VALUE=DATE-TIME:20250927T113000Z
+DTEND;VALUE=DATE-TIME:20250927T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_5_24_523
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
- n\nContact équipe domicile: Masset M. (0485.61.39.19 - rfcbesace.024@gmai
- l.com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nEn venant 
- de Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi pren
- dre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point. Le
-  terrain se trouve en face de la pompe à essence Q8.\n\nVérifiez toujour
- s ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.
- be/c/24_1_besace_rfc
-GEO:50.883299;4.316365
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Jaune 
+ et Noir\n\nContact équipe domicile: Masset M. (0485.61.39.19 - rfcbesace.
+ 024@gmail.com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nEn
+  venant de Zaventem\, prendre à gauche à la sortie\, en venant de Charle
+ roi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond p
+ oint. Le terrain se trouve en face de la pompe à essence Q8.\n\nVérifiez
+  toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://c
+ alabssa.be/c/24_1_besace_rfc
+GEO:50.8833029;4.3163788
 LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
 ORGANIZER;CN="Masset M.";ROLE=Secrétaire:MAILTO:rfcbesace.024@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J25: ENTENTE  RACB vs BESACE RFC
-DTSTART;VALUE=DATE-TIME:20241019T120000Z
-DTEND;VALUE=DATE-TIME:20241019T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_2A_25_2_24
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu\
- n\nContact équipe domicile: Dath D. (0473.47.15.41 - daniel.dath@hotmail.
- com)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\, vers Ned
- er-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-poi
- nt\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Vert
- \, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa.
- be/\nVoir sur calabssa: https://calabssa.be/c/24_1_besace_rfc
-GEO:50.89983369999999;4.3936101
-LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
-ORGANIZER;CN="Dath D.";ROLE=Secrétaire:MAILTO:daniel.dath@hotmail.com
+SUMMARY:ABSSA D1 J6: BRUSSELS BRITISH R vs BESACE RFC
+DTSTART;VALUE=DATE-TIME:20251004T120000Z
+DTEND;VALUE=DATE-TIME:20251004T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_6_1_24
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: O'Connor G (0456.54.46.67 - abssa-sec@rbbfc.o
+ rg)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Pass
+ er devant l'église\, longer l'autoroute et tourner à droite au cimetièr
+ e des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur http:
+ //www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/24_1_besace_rfc
+GEO:50.7264542;4.5530681
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="O'Connor G";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J26: BESACE RFC vs TOURINNOIS FC
-DTSTART;VALUE=DATE-TIME:20241026T113000Z
-DTEND;VALUE=DATE-TIME:20241026T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_2A_26_24_292
+SUMMARY:ABSSA D1 J7: BESACE RFC vs BRAINE STORMING
+DTSTART;VALUE=DATE-TIME:20251011T113000Z
+DTEND;VALUE=DATE-TIME:20251011T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_7_24_630
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bordea
+ ux\n\nContact équipe domicile: Masset M. (0485.61.39.19 - rfcbesace.024@g
+ mail.com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nEn vena
+ nt de Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi p
+ rendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point.
+  Le terrain se trouve en face de la pompe à essence Q8.\n\nVérifiez touj
+ ours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabs
+ sa.be/c/24_1_besace_rfc
+GEO:50.8833029;4.3163788
+LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
+ORGANIZER;CN="Masset M.";ROLE=Secrétaire:MAILTO:rfcbesace.024@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J8: HERMES FC vs BESACE RFC
+DTSTART;VALUE=DATE-TIME:20251018T120000Z
+DTEND;VALUE=DATE-TIME:20251018T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_8_357_24
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Jaune et Bleu\nCouleur principale équipe exterieur
+ e: Bleu\n\nContact équipe domicile: Antonakopoulos A (0494.88.34.72 - her
+ mesfc1984@gmail.com)\n\nAccès voiture : A partir du square des Archiducs\
+ , prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez 
+ toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://ca
+ labssa.be/c/24_1_besace_rfc
+GEO:50.80645209999999;4.4087184
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Antonakopoulos A";ROLE=Secrétaire:MAILTO:hermesfc1984@gmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J9: COLO-COLO UNITED vs BESACE RFC
+DTSTART;VALUE=DATE-TIME:20251025T103000Z
+DTEND;VALUE=DATE-TIME:20251025T120000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_9_625_24
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Bleu foncé et blanc\nCouleur principale équipe ex
+ terieure: Bleu\n\nContact équipe domicile: De Le Court Y. (0472.35.25.20 
+ - youdelecourt@gmail.com)\n\nAccès voiture : Au départ de la Place Meise
+ r\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2
+ ). Sous le viaduc prendre à droite\, l'avenue des Anciens Combattants. Ju
+ ste après le carrefour avec des feux de signalisation prendre à droite v
+ ers la Place de la Chapelle\, puis prendre la 4ème rue à main droite (ru
+ e au Bois). Le terrain se trouve à 300 m. sur la droite.\n\nVérifiez tou
+ jours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calab
+ ssa.be/c/24_1_besace_rfc
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="De Le Court Y.";ROLE=Secrétaire:MAILTO:youdelecourt@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J10: BESACE RFC vs PORTUGAL FC
+DTSTART;VALUE=DATE-TIME:20251108T123000Z
+DTEND;VALUE=DATE-TIME:20251108T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_10_24_403
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge\
  n\nContact équipe domicile: Masset M. (0485.61.39.19 - rfcbesace.024@gmai
@@ -176,16 +200,16 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
   terrain se trouve en face de la pompe à essence Q8.\n\nVérifiez toujour
  s ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.
  be/c/24_1_besace_rfc
-GEO:50.883299;4.316365
+GEO:50.8833029;4.3163788
 LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
 ORGANIZER;CN="Masset M.";ROLE=Secrétaire:MAILTO:rfcbesace.024@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J7: IRLANDE FC (Eq. 2) vs BESACE RFC
-DTSTART;VALUE=DATE-TIME:20241102T113000Z
-DTEND;VALUE=DATE-TIME:20241102T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_2A_7_402_24
+SUMMARY:ABSSA D1 J11: IRLANDE FC vs BESACE RFC
+DTSTART;VALUE=DATE-TIME:20251115T130000Z
+DTEND;VALUE=DATE-TIME:20251115T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_11_402_24
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: N04\n\nCouleur princi
  pale équipe domicile: Vert\nCouleur principale équipe exterieure: Bleu\n
  \nContact équipe domicile: Penouilh S. (0474.97.79.48 - fci.secretary.men
@@ -203,11 +227,155 @@ ORGANIZER;CN="Penouilh S.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@outl
  ook.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J8: BESACE RFC vs BRUSSELS BRITISH R (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20241109T123000Z
-DTEND;VALUE=DATE-TIME:20241109T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_2A_8_24_1
+SUMMARY:ABSSA D1 J12: BESACE RFC vs LXG CINQUANTENAIRE
+DTSTART;VALUE=DATE-TIME:20251122T123000Z
+DTEND;VALUE=DATE-TIME:20251122T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_12_24_542
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Jaune 
+ et Bleu.\n\nContact équipe domicile: Masset M. (0485.61.39.19 - rfcbesace
+ .024@gmail.com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nE
+ n venant de Zaventem\, prendre à gauche à la sortie\, en venant de Charl
+ eroi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond 
+ point. Le terrain se trouve en face de la pompe à essence Q8.\n\nVérifie
+ z toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://
+ calabssa.be/c/24_1_besace_rfc
+GEO:50.8833029;4.3163788
+LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
+ORGANIZER;CN="Masset M.";ROLE=Secrétaire:MAILTO:rfcbesace.024@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J13: AZUR RCS vs BESACE RFC
+DTSTART;VALUE=DATE-TIME:20251129T140000Z
+DTEND;VALUE=DATE-TIME:20251129T153000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_13_109_24
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W12\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Mad. Decamps N. (0477.27.39.66 - nathalie_deca
+ mps@hotmail.com)\n\nAccès voiture : Avenue de Tervuren\, direction Tervur
+ en. Passé le boulevard du Souverain prendre à gauche au premier feu de s
+ ignalisation (Av. Madoux). Au feu de signalisation suivant prendre la 2èm
+ e rue à main droite (Av. J. Dujardin). Ensuite 1ère rue à gauche (Av. S
+ alomé).\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir su
+ r calabssa: https://calabssa.be/c/24_1_besace_rfc
+GEO:50.8308291;4.4555375
+LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
+ elgique
+ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
+ tmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J14: BRITISH UNITED vs BESACE RFC
+DTSTART;VALUE=DATE-TIME:20251206T130000Z
+DTEND;VALUE=DATE-TIME:20251206T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_14_132_24
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Caballero G (0479.79.86.54 - guillem_955@hotma
+ il.com)\n\nAccès voiture : A partir de Bruxelles\, prendre la E 411 en di
+ rection de Namur. Prendre la sortie N° 8 puis à droite la bretelle pour 
+ la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 km
+ \, au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Libérat
+ ion\, puis à gauche dans la rue de la Grande lecke.\n\nVérifiez toujours
+  ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.b
+ e/c/24_1_besace_rfc
+GEO:50.7611768;4.7884455
+LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
+ORGANIZER;CN="Caballero G";ROLE=Secrétaire:MAILTO:guillem_955@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J15: BESACE RFC vs BRUSSELS LTC
+DTSTART;VALUE=DATE-TIME:20251213T123000Z
+DTEND;VALUE=DATE-TIME:20251213T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_15_24_39
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bordea
+ ux\n\nContact équipe domicile: Masset M. (0485.61.39.19 - rfcbesace.024@g
+ mail.com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nEn vena
+ nt de Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi p
+ rendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point.
+  Le terrain se trouve en face de la pompe à essence Q8.\n\nVérifiez touj
+ ours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabs
+ sa.be/c/24_1_besace_rfc
+GEO:50.8833029;4.3163788
+LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
+ORGANIZER;CN="Masset M.";ROLE=Secrétaire:MAILTO:rfcbesace.024@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J16: CHOULE AUDERGHEM vs BESACE RFC
+DTSTART;VALUE=DATE-TIME:20260110T113000Z
+DTEND;VALUE=DATE-TIME:20260110T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_1_16_517_24
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
+ erieure: Bleu\n\nContact équipe domicile: Vandenplas D. (0476.54.48.01 - 
+ dav_54@hotmail.com)\n\nAccès voiture : En venant de Bruxelles par la chau
+ ssée de Wavre\, rejoindre le du début de l'autoroute Bruxelles-Namur\, u
+ tiliser la bande de droite pendant +/- 200 m. et descendre devant le bâti
+ ment de l'ADEPS\, puis passer par le tunnel à gauche (en dessous de l'aut
+ oroute). Le terrain se trouve à 200 m. Le stade est fléché.\n\nVérifie
+ z toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://
+ calabssa.be/c/24_1_besace_rfc
+GEO:50.81071379999999;4.4432209
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J17: BESACE RFC vs HIGGINS-PUMAS
+DTSTART;VALUE=DATE-TIME:20260117T123000Z
+DTEND;VALUE=DATE-TIME:20260117T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_1_17_24_416
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rayé 
+ Bleu et Blanc\n\nContact équipe domicile: Masset M. (0485.61.39.19 - rfcb
+ esace.024@gmail.com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jett
+ e.\nEn venant de Zaventem\, prendre à gauche à la sortie\, en venant de 
+ Charleroi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au 
+ rond point. Le terrain se trouve en face de la pompe à essence Q8.\n\nVé
+ rifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: htt
+ ps://calabssa.be/c/24_1_besace_rfc
+GEO:50.8833029;4.3163788
+LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
+ORGANIZER;CN="Masset M.";ROLE=Secrétaire:MAILTO:rfcbesace.024@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J18: WONG A.S. vs BESACE RFC
+DTSTART;VALUE=DATE-TIME:20260124T130000Z
+DTEND;VALUE=DATE-TIME:20260124T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_1_18_523_24
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: T07\n\nCouleur princi
+ pale équipe domicile: Jaune et Noir\nCouleur principale équipe exterieur
+ e: Bleu\n\nContact équipe domicile: Van Impe J. (0476.78.52.59 - vanimpe-
+ julien@hotmail.be)\n\nAccès voiture : Aux quatre-Bras\, prendre direction
+  Tervuren via l’avenue de Tervuren(N3) pendant 750M\nAu rond-point\, pre
+ ndre la 1ère sortie et continuer sur l’avenue de Tervuren pendant 1\,2k
+ m puis prendre à droite sur la chaussée de Bruxelles pendant 500m. Ensui
+ te Prendre légèrement sur la droite dans la Wijngaardstraat pendant 400m
+  et tourner à gauche dans la Pepperstraat pendant 400m. Ensuite tourner 
+ à droite sur la chaussée de Duisburg et rouler pendant 1\,4 km... Contin
+ uer tout droit sur la chaussée de Tervuren pendant 1\,3 km et prendre à 
+ gauche dans la rue de destination ( Schonenboomstraat).\nLe terrain se sit
+ ue sur la droite de la route!\n\nVérifiez toujours ces infos sur http://w
+ ww.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/24_1_besace_rfc
+GEO:50.8107232;4.5492332
+LOCATION:Schonenboormstraat\, 3080 Tervuren\, Belgique
+ORGANIZER;CN="Van Impe J.";ROLE=Secrétaire:MAILTO:vanimpe-julien@hotmail.
+ be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J19: BESACE RFC vs BRUSSELS BRITISH R
+DTSTART;VALUE=DATE-TIME:20260131T123000Z
+DTEND;VALUE=DATE-TIME:20260131T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_1_19_24_1
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
  n\nContact équipe domicile: Masset M. (0485.61.39.19 - rfcbesace.024@gmai
@@ -217,251 +385,94 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
   terrain se trouve en face de la pompe à essence Q8.\n\nVérifiez toujour
  s ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.
  be/c/24_1_besace_rfc
-GEO:50.883299;4.316365
+GEO:50.8833029;4.3163788
 LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
 ORGANIZER;CN="Masset M.";ROLE=Secrétaire:MAILTO:rfcbesace.024@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J9: UNION JP vs BESACE RFC
-DTSTART;VALUE=DATE-TIME:20241116T143000Z
-DTEND;VALUE=DATE-TIME:20241116T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_2A_9_504_24
+SUMMARY:ABSSA D1 J20: BRAINE STORMING vs BESACE RFC
+DTSTART;VALUE=DATE-TIME:20260207T143000Z
+DTEND;VALUE=DATE-TIME:20260207T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_1_20_630_24
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bl
+ eu\n\nContact équipe domicile: Goethals E. (0492.43.68.79 - manu.goethals
+ @gmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring Ouest\
+ , sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charler
+ oi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser
+  le carrefour\, tout droit direction route du sucre.\n\nVérifiez toujours
+  ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.b
+ e/c/24_1_besace_rfc
+GEO:50.601458;4.44982
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER;CN="Goethals E.";ROLE=Secrétaire:MAILTO:manu.goethals@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J21: BESACE RFC vs HERMES FC
+DTSTART;VALUE=DATE-TIME:20260214T123000Z
+DTEND;VALUE=DATE-TIME:20260214T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_1_21_24_357
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Jaune 
+ et Bleu\n\nContact équipe domicile: Masset M. (0485.61.39.19 - rfcbesace.
+ 024@gmail.com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nEn
+  venant de Zaventem\, prendre à gauche à la sortie\, en venant de Charle
+ roi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond p
+ oint. Le terrain se trouve en face de la pompe à essence Q8.\n\nVérifiez
+  toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://c
+ alabssa.be/c/24_1_besace_rfc
+GEO:50.8833029;4.3163788
+LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
+ORGANIZER;CN="Masset M.";ROLE=Secrétaire:MAILTO:rfcbesace.024@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J22: BESACE RFC vs COLO-COLO UNITED
+DTSTART;VALUE=DATE-TIME:20260221T123000Z
+DTEND;VALUE=DATE-TIME:20260221T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_1_22_24_625
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu f
+ oncé et blanc\n\nContact équipe domicile: Masset M. (0485.61.39.19 - rfc
+ besace.024@gmail.com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jet
+ te.\nEn venant de Zaventem\, prendre à gauche à la sortie\, en venant de
+  Charleroi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au
+  rond point. Le terrain se trouve en face de la pompe à essence Q8.\n\nV
+ érifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: h
+ ttps://calabssa.be/c/24_1_besace_rfc
+GEO:50.8833029;4.3163788
+LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
+ORGANIZER;CN="Masset M.";ROLE=Secrétaire:MAILTO:rfcbesace.024@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J23: PORTUGAL FC vs BESACE RFC
+DTSTART;VALUE=DATE-TIME:20260228T143000Z
+DTEND;VALUE=DATE-TIME:20260228T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_1_23_403_24
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
- pale équipe domicile: Bleu et jaune\nCouleur principale équipe exterieur
- e: Bleu\n\nContact équipe domicile: Vanderweyen V (0497.35.33.49 - victor
- .vanderweyen@gmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\,
-  après 300 m. en direction de Lennik\, prendre à droite.\nVenant de la c
- haussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place V
- erdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 
- m. en direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.
- abssa.be/\nVoir sur calabssa: https://calabssa.be/c/24_1_besace_rfc
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Figueira De Carvalho M. (0476.40.68.33 - manu
+ el.figueira@mne.pt)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, apr
+ ès 300 m. en direction de Lennik\, prendre à droite.\nVenant de la chaus
+ sée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi
+ \, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. e
+ n direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.abss
+ a.be/\nVoir sur calabssa: https://calabssa.be/c/24_1_besace_rfc
 GEO:50.8177358;4.2557195
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
-ORGANIZER;CN="Vanderweyen V";ROLE=Secrétaire:MAILTO:victor.vanderweyen@gm
- ail.com
+ORGANIZER;CN="Figueira De Carvalho M.";ROLE=Secrétaire:MAILTO:manuel.figu
+ eira@mne.pt
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J12: BESACE RFC vs ENTENTE  RACB
-DTSTART;VALUE=DATE-TIME:20241123T123000Z
-DTEND;VALUE=DATE-TIME:20241123T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_2A_12_24_2
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge\
- n\nContact équipe domicile: Masset M. (0485.61.39.19 - rfcbesace.024@gmai
- l.com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nEn venant 
- de Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi pren
- dre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point. Le
-  terrain se trouve en face de la pompe à essence Q8.\n\nVérifiez toujour
- s ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.
- be/c/24_1_besace_rfc
-GEO:50.883299;4.316365
-LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
-ORGANIZER;CN="Masset M.";ROLE=Secrétaire:MAILTO:rfcbesace.024@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J11: SCHEUT FC vs BESACE RFC
-DTSTART;VALUE=DATE-TIME:20241130T133000Z
-DTEND;VALUE=DATE-TIME:20241130T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_2A_11_274_24
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu\n
- \nContact équipe domicile: Huys R. (0477.59.24.22 - fcscheut@yahoo.fr)\n\
- nAccès voiture : En venant de la Route de Lennik (Citroën) ou de la Chau
- ssée de Mons (Ikea)\, prendre la direction du cimetière d'Anderlecht\, e
- mprunter le Boulevard Josse Leemans\, au rond-point prendre la sortie pour
-  la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe et des ter
- rains se situe à +/- 500 m. sur la gauche.\n\nVérifiez toujours ces info
- s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/24_1_
- besace_rfc
-GEO:50.8114295;4.2763934
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER;CN="Huys R.";ROLE=Secrétaire:MAILTO:fcscheut@yahoo.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J10: BESACE RFC vs UNION TIGERS
-DTSTART;VALUE=DATE-TIME:20241207T123000Z
-DTEND;VALUE=DATE-TIME:20241207T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_2A_10_24_649
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu c
- iel et Blanc\n\nContact équipe domicile: Masset M. (0485.61.39.19 - rfcbe
- sace.024@gmail.com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette
- .\nEn venant de Zaventem\, prendre à gauche à la sortie\, en venant de C
- harleroi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au r
- ond point. Le terrain se trouve en face de la pompe à essence Q8.\n\nVér
- ifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: http
- s://calabssa.be/c/24_1_besace_rfc
-GEO:50.883299;4.316365
-LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
-ORGANIZER;CN="Masset M.";ROLE=Secrétaire:MAILTO:rfcbesace.024@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J13: TOURINNOIS FC vs BESACE RFC
-DTSTART;VALUE=DATE-TIME:20241214T140000Z
-DTEND;VALUE=DATE-TIME:20241214T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_2A_13_292_24
-DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu\
- n\nContact équipe domicile: Strade P. (010.65.83.02 - stradepaul@hotmail.
- com)\n\nAccès voiture : A partir de l'autoroute Bruxelles-Namur (E411)\, 
- prendre la sortie  Walhain (n° 10). Au pied de la rampe d'accès\, suivre
-  la direction Walhain vers la droite et après 200 m. prendre à droite et
-  400 m. plus loin\, prendre à nouveau à droite. Le terrain se trouve à 
- +/- 300 m. sur la gauche.\n\nVérifiez toujours ces infos sur http://www.a
- bssa.be/\nVoir sur calabssa: https://calabssa.be/c/24_1_besace_rfc
-GEO:50.6415282;4.7193257
-LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
-ORGANIZER;CN="Strade P.";ROLE=Secrétaire:MAILTO:stradepaul@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J14: BESACE RFC vs VETUSO FC.
-DTSTART;VALUE=DATE-TIME:20250111T123000Z
-DTEND;VALUE=DATE-TIME:20250111T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2025_2A_14_24_624
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
- \nContact équipe domicile: Masset M. (0485.61.39.19 - rfcbesace.024@gmail
- .com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nEn venant d
- e Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi prend
- re à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point. Le 
- terrain se trouve en face de la pompe à essence Q8.\n\nVérifiez toujours
-  ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.b
- e/c/24_1_besace_rfc
-GEO:50.883299;4.316365
-LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
-ORGANIZER;CN="Masset M.";ROLE=Secrétaire:MAILTO:rfcbesace.024@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J15: BRITISH UNITED (Eq. 2) vs BESACE RFC
-DTSTART;VALUE=DATE-TIME:20250118T113000Z
-DTEND;VALUE=DATE-TIME:20250118T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2025_2A_15_132_24
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
- \nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gillesvanders
- eypen@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la r
- ue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 2
- 8). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ce
- s infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c
- /24_1_besace_rfc
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
- gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J16: BESACE RFC vs BRAINE-TERMINUS FC
-DTSTART;VALUE=DATE-TIME:20250125T123000Z
-DTEND;VALUE=DATE-TIME:20250125T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2025_2A_16_24_537
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Jaune 
- et rouge\n\nContact équipe domicile: Masset M. (0485.61.39.19 - rfcbesace
- .024@gmail.com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nE
- n venant de Zaventem\, prendre à gauche à la sortie\, en venant de Charl
- eroi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond 
- point. Le terrain se trouve en face de la pompe à essence Q8.\n\nVérifie
- z toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://
- calabssa.be/c/24_1_besace_rfc
-GEO:50.883299;4.316365
-LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
-ORGANIZER;CN="Masset M.";ROLE=Secrétaire:MAILTO:rfcbesace.024@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J17: HIGGINS-PUMAS vs BESACE RFC
-DTSTART;VALUE=DATE-TIME:20250201T143000Z
-DTEND;VALUE=DATE-TIME:20250201T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2025_2A_17_416_24
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
- pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
- erieure: Bleu\n\nContact équipe domicile: De Biolley Ph. (0477.23.31.25 -
-  philippe.debiolley@gmail.com)\n\nAccès voiture : En venant de Bruxelles 
- par la chaussée de Wavre\, rejoindre le du début de l'autoroute Bruxelle
- s-Namur\, utiliser la bande de droite pendant +/- 200 m. et descendre deva
- nt le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (en desso
- us de l'autoroute). Le terrain se trouve à 200 m. Le stade est fléché.\
- n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabss
- a: https://calabssa.be/c/24_1_besace_rfc
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER;CN="De Biolley Ph.";ROLE=Secrétaire:MAILTO:philippe.debiolley@g
- mail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J18: BESACE RFC vs FORESTOIS SC
-DTSTART;VALUE=DATE-TIME:20250208T123000Z
-DTEND;VALUE=DATE-TIME:20250208T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2025_2A_18_24_152
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir\n
- \nContact équipe domicile: Masset M. (0485.61.39.19 - rfcbesace.024@gmail
- .com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nEn venant d
- e Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi prend
- re à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point. Le 
- terrain se trouve en face de la pompe à essence Q8.\n\nVérifiez toujours
-  ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.b
- e/c/24_1_besace_rfc
-GEO:50.883299;4.316365
-LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
-ORGANIZER;CN="Masset M.";ROLE=Secrétaire:MAILTO:rfcbesace.024@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J19: BIG JEFKE vs BESACE RFC
-DTSTART;VALUE=DATE-TIME:20250215T143000Z
-DTEND;VALUE=DATE-TIME:20250215T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2025_2A_19_137_24
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
- n\nContact équipe domicile: Pierard J. (0478.77.84.07 - pierard.j@hotmail
- .com)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\, vers Ne
- der-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-po
- int\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Ver
- t\, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa
- .be/\nVoir sur calabssa: https://calabssa.be/c/24_1_besace_rfc
-GEO:50.89983369999999;4.3936101
-LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
-ORGANIZER;CN="Pierard J.";ROLE=Secrétaire:MAILTO:pierard.j@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J24: BESACE RFC vs SCHEUT FC
-DTSTART;VALUE=DATE-TIME:20250222T123000Z
-DTEND;VALUE=DATE-TIME:20250222T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2025_2A_24_24_274
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir\n
- \nContact équipe domicile: Masset M. (0485.61.39.19 - rfcbesace.024@gmail
- .com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nEn venant d
- e Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi prend
- re à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point. Le 
- terrain se trouve en face de la pompe à essence Q8.\n\nVérifiez toujours
-  ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.b
- e/c/24_1_besace_rfc
-GEO:50.883299;4.316365
-LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
-ORGANIZER;CN="Masset M.";ROLE=Secrétaire:MAILTO:rfcbesace.024@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J20: BESACE RFC vs IRLANDE FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20250308T123000Z
-DTEND;VALUE=DATE-TIME:20250308T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2025_2A_20_24_402
+SUMMARY:ABSSA D1 J24: BESACE RFC vs IRLANDE FC
+DTSTART;VALUE=DATE-TIME:20260307T123000Z
+DTEND;VALUE=DATE-TIME:20260307T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_1_24_24_402
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Vert\n
  \nContact équipe domicile: Masset M. (0485.61.39.19 - rfcbesace.024@gmail
@@ -471,43 +482,47 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
  terrain se trouve en face de la pompe à essence Q8.\n\nVérifiez toujours
   ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.b
  e/c/24_1_besace_rfc
-GEO:50.883299;4.316365
+GEO:50.8833029;4.3163788
 LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
 ORGANIZER;CN="Masset M.";ROLE=Secrétaire:MAILTO:rfcbesace.024@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J21: BRUSSELS BRITISH R (Eq. 2) vs BESACE RFC
-DTSTART;VALUE=DATE-TIME:20250315T113000Z
-DTEND;VALUE=DATE-TIME:20250315T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2025_2A_21_1_24
-DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
- n\nContact équipe domicile: O'Connor G (0456.54.46.67 - abssa-sec@rbbfc.o
- rg)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Pass
- er devant l'église\, longer l'autoroute et tourner à droite au cimetièr
- e des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur http:
- //www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/24_1_besace_rfc
-GEO:50.7282426;4.5537189
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER;CN="O'Connor G";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
+SUMMARY:ABSSA D1 J25: LXG CINQUANTENAIRE vs BESACE RFC
+DTSTART;VALUE=DATE-TIME:20260314T123000Z
+DTEND;VALUE=DATE-TIME:20260314T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_1_25_542_24
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S09\n\nCouleur princi
+ pale équipe domicile: Jaune et Bleu.\nCouleur principale équipe exterieu
+ re: Bleu\n\nContact équipe domicile: Gimenez Villahoz M (0487.79.91.95 - 
+ lxgfc50@gmail.com)\n\nAccès voiture : Place Meiser\, descendre Bd. Géné
+ ral Wahis\, Bd Lambermont\, au deuxième carrefour prendre à gauche\, pui
+ s encore la première à gauche\nOu :  Place Meiser prendre Av Ernest Camb
+ ier. - Tram n° 7  - Bus 65 arrêt Chazal\n\nVérifiez toujours ces infos 
+ sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/24_1_be
+ sace_rfc
+GEO:50.8581504;4.3949295
+LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
+ ue
+ORGANIZER;CN="Gimenez Villahoz M";ROLE=Secrétaire:MAILTO:lxgfc50@gmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J22: BESACE RFC vs UNION JP
-DTSTART;VALUE=DATE-TIME:20250322T123000Z
-DTEND;VALUE=DATE-TIME:20250322T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2025_2A_22_24_504
+SUMMARY:ABSSA D1 J26: BESACE RFC vs AZUR RCS
+DTSTART;VALUE=DATE-TIME:20260321T123000Z
+DTEND;VALUE=DATE-TIME:20260321T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_1_26_24_109
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu e
- t jaune\n\nContact équipe domicile: Masset M. (0485.61.39.19 - rfcbesace.
- 024@gmail.com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nEn
-  venant de Zaventem\, prendre à gauche à la sortie\, en venant de Charle
- roi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond p
- oint. Le terrain se trouve en face de la pompe à essence Q8.\n\nVérifiez
-  toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://c
- alabssa.be/c/24_1_besace_rfc
-GEO:50.883299;4.316365
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Masset M. (0485.61.39.19 - rfcbesace.024@gmail
+ .com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nEn venant d
+ e Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi prend
+ re à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point. Le 
+ terrain se trouve en face de la pompe à essence Q8.\n\nVérifiez toujours
+  ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.b
+ e/c/24_1_besace_rfc
+GEO:50.8833029;4.3163788
 LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
 ORGANIZER;CN="Masset M.";ROLE=Secrétaire:MAILTO:rfcbesace.024@gmail.com
 END:VEVENT

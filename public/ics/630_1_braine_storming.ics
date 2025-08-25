@@ -4,318 +4,178 @@ PRODID:630_1_braine_storming
 X-WR-CALDESC:Les matches du club BRAINE STORMING (equipe 1) en ABSSA.
 X-WR-CALNAME:ABSSA: BRAINE STORMING (eq. 1)
 BEGIN:VEVENT
-SUMMARY:ABSSA D1 J23: BRAINE STORMING vs AZUR RCS
-DTSTART;VALUE=DATE-TIME:20240831T133000Z
-DTEND;VALUE=DATE-TIME:20240831T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_1_23_630_109
+SUMMARY:ABSSA D1 J1: BRAINE STORMING vs CHOULE AUDERGHEM
+DTSTART;VALUE=DATE-TIME:20250830T133000Z
+DTEND;VALUE=DATE-TIME:20250830T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_1_630_517
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
- pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
-  Bleu\n\nContact équipe domicile: Goethals E. (0492.43.68.79 - manu.goeth
- als@gmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring Oue
- st\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Char
- leroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traver
- ser le carrefour\, tout droit direction route du sucre.\n\nVérifiez toujo
- urs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabss
- a.be/c/630_1_braine_storming
-GEO:50.6007528;4.4472782
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Ra
+ yé Bleu et Blanc\n\nContact équipe domicile: Goethals E. (0492.43.68.79 
+ - manu.goethals@gmail.com)\n\nAccès voiture : Venant de Bruxelles prendre
+  le Ring Ouest\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Br
+ uxelles-Charleroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoi
+ gne\, traverser le carrefour\, tout droit direction route du sucre.\n\nVé
+ rifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: htt
+ ps://calabssa.be/c/630_1_braine_storming
+GEO:50.601458;4.44982
 LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
 ORGANIZER;CN="Goethals E.";ROLE=Secrétaire:MAILTO:manu.goethals@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D1 J1: BRAINE STORMING vs CHENOIS SC
-DTSTART;VALUE=DATE-TIME:20240907T133000Z
-DTEND;VALUE=DATE-TIME:20240907T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_1_1_630_84
+SUMMARY:ABSSA D1 J2: HIGGINS-PUMAS vs BRAINE STORMING
+DTSTART;VALUE=DATE-TIME:20250906T133000Z
+DTEND;VALUE=DATE-TIME:20250906T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_2_416_630
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
+ erieure: Bordeaux\n\nContact équipe domicile: De Biolley Ph. (0477.23.31.
+ 25 - philippe.debiolley@gmail.com)\n\nAccès voiture : En venant de Bruxel
+ les par la chaussée de Wavre\, rejoindre le du début de l'autoroute Brux
+ elles-Namur\, utiliser la bande de droite pendant +/- 200 m. et descendre 
+ devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (en d
+ essous de l'autoroute). Le terrain se trouve à 200 m. Le stade est fléch
+ é.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur cal
+ abssa: https://calabssa.be/c/630_1_braine_storming
+GEO:50.81071379999999;4.4432209
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="De Biolley Ph.";ROLE=Secrétaire:MAILTO:philippe.debiolley@g
+ mail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J3: BRAINE STORMING vs WONG A.S.
+DTSTART;VALUE=DATE-TIME:20250913T133000Z
+DTEND;VALUE=DATE-TIME:20250913T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_3_630_523
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
- pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
-  Rouge\n\nContact équipe domicile: Goethals E. (0492.43.68.79 - manu.goet
- hals@gmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring Ou
- est\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Cha
- rleroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, trave
- rser le carrefour\, tout droit direction route du sucre.\n\nVérifiez touj
- ours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabs
- sa.be/c/630_1_braine_storming
-GEO:50.6007528;4.4472782
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Ja
+ une et Noir\n\nContact équipe domicile: Goethals E. (0492.43.68.79 - manu
+ .goethals@gmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ri
+ ng Ouest\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelle
+ s-Charleroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, 
+ traverser le carrefour\, tout droit direction route du sucre.\n\nVérifiez
+  toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://c
+ alabssa.be/c/630_1_braine_storming
+GEO:50.601458;4.44982
 LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
 ORGANIZER;CN="Goethals E.";ROLE=Secrétaire:MAILTO:manu.goethals@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D1 J2: BRUSSELS BRITISH R vs BRAINE STORMING
-DTSTART;VALUE=DATE-TIME:20240914T120000Z
-DTEND;VALUE=DATE-TIME:20240914T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_1_2_1_630
+SUMMARY:ABSSA D1 J4: BRUSSELS BRITISH R vs BRAINE STORMING
+DTSTART;VALUE=DATE-TIME:20250920T120000Z
+DTEND;VALUE=DATE-TIME:20250920T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_4_1_630
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
- foncé\n\nContact équipe domicile: O'Connor G (0456.54.46.67 - abssa-sec@
- rbbfc.org)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosière
- s. Passer devant l'église\, longer l'autoroute et tourner à droite au ci
- metière des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos su
- r http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/630_1_bra
- ine_storming
-GEO:50.7282426;4.5537189
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Borde
+ aux\n\nContact équipe domicile: O'Connor G (0456.54.46.67 - abssa-sec@rbb
+ fc.org)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. 
+ Passer devant l'église\, longer l'autoroute et tourner à droite au cimet
+ ière des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur h
+ ttp://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/630_1_braine
+ _storming
+GEO:50.7264542;4.5530681
 LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
 ORGANIZER;CN="O'Connor G";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D1 J3: BRAINE STORMING vs BRITISH UNITED
-DTSTART;VALUE=DATE-TIME:20240921T133000Z
-DTEND;VALUE=DATE-TIME:20240921T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_1_3_630_132
+SUMMARY:ABSSA D1 J5: COLO-COLO UNITED vs BRAINE STORMING
+DTSTART;VALUE=DATE-TIME:20250927T103000Z
+DTEND;VALUE=DATE-TIME:20250927T120000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_5_625_630
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Bleu foncé et blanc\nCouleur principale équipe ex
+ terieure: Bordeaux\n\nContact équipe domicile: De Le Court Y. (0472.35.25
+ .20 - youdelecourt@gmail.com)\n\nAccès voiture : Au départ de la Place M
+ eiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n
+ ° 2). Sous le viaduc prendre à droite\, l'avenue des Anciens Combattants
+ . Juste après le carrefour avec des feux de signalisation prendre à droi
+ te vers la Place de la Chapelle\, puis prendre la 4ème rue à main droite
+  (rue au Bois). Le terrain se trouve à 300 m. sur la droite.\n\nVérifiez
+  toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://c
+ alabssa.be/c/630_1_braine_storming
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="De Le Court Y.";ROLE=Secrétaire:MAILTO:youdelecourt@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J6: BRAINE STORMING vs HERMES FC
+DTSTART;VALUE=DATE-TIME:20251004T133000Z
+DTEND;VALUE=DATE-TIME:20251004T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_6_630_357
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
- pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
-  Bleu\n\nContact équipe domicile: Goethals E. (0492.43.68.79 - manu.goeth
- als@gmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring Oue
- st\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Char
- leroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traver
- ser le carrefour\, tout droit direction route du sucre.\n\nVérifiez toujo
- urs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabss
- a.be/c/630_1_braine_storming
-GEO:50.6007528;4.4472782
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Ja
+ une et Bleu\n\nContact équipe domicile: Goethals E. (0492.43.68.79 - manu
+ .goethals@gmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ri
+ ng Ouest\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelle
+ s-Charleroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, 
+ traverser le carrefour\, tout droit direction route du sucre.\n\nVérifiez
+  toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://c
+ alabssa.be/c/630_1_braine_storming
+GEO:50.601458;4.44982
 LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
 ORGANIZER;CN="Goethals E.";ROLE=Secrétaire:MAILTO:manu.goethals@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D1 J4: LXG CINQUANTENAIRE vs BRAINE STORMING
-DTSTART;VALUE=DATE-TIME:20240928T113000Z
-DTEND;VALUE=DATE-TIME:20240928T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_1_4_542_630
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: S09\n\nCouleur princi
- pale équipe domicile: Jaune et Bleu.\nCouleur principale équipe exterieu
- re: Bleu foncé\n\nContact équipe domicile: Gimenez Villahoz M (0487.79.9
- 1.95 - lxgfc50@gmail.com)\n\nAccès voiture : Place Meiser\, descendre Bd.
-  Général Wahis\, Bd Lambermont\, au deuxième carrefour prendre à gauch
- e\, puis encore la première à gauche\nOu :  Place Meiser prendre Av Erne
- st Cambier. - Tram n° 7  - Bus 65 arrêt Chazal\n\nVérifiez toujours ces
-  infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/
- 630_1_braine_storming
-GEO:50.8592013;4.3921032
-LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
- ue
-ORGANIZER;CN="Gimenez Villahoz M";ROLE=Secrétaire:MAILTO:lxgfc50@gmail.co
- m
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D1 J5: BRAINE STORMING vs WONG A.S.
-DTSTART;VALUE=DATE-TIME:20241005T133000Z
-DTEND;VALUE=DATE-TIME:20241005T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_1_5_630_523
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
- pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
-  Jaune et Noir\n\nContact équipe domicile: Goethals E. (0492.43.68.79 - m
- anu.goethals@gmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le
-  Ring Ouest\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxe
- lles-Charleroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne
- \, traverser le carrefour\, tout droit direction route du sucre.\n\nVérif
- iez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:
- //calabssa.be/c/630_1_braine_storming
-GEO:50.6007528;4.4472782
-LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
-ORGANIZER;CN="Goethals E.";ROLE=Secrétaire:MAILTO:manu.goethals@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D1 J6: CHOULE AUDERGHEM vs BRAINE STORMING
-DTSTART;VALUE=DATE-TIME:20241012T103000Z
-DTEND;VALUE=DATE-TIME:20241012T120000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_1_6_517_630
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
- pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
- erieure: Bleu foncé\n\nContact équipe domicile: Vandenplas D. (0476.54.4
- 8.01 - dav_54@hotmail.com)\n\nAccès voiture : En venant de Bruxelles par 
- la chaussée de Wavre\, rejoindre le du début de l'autoroute Bruxelles-Na
- mur\, utiliser la bande de droite pendant +/- 200 m. et descendre devant l
- e bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (en dessous d
- e l'autoroute). Le terrain se trouve à 200 m. Le stade est fléché.\n\nV
- érifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: h
- ttps://calabssa.be/c/630_1_braine_storming
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D1 J25: BRUSSELS LTC vs BRAINE STORMING
-DTSTART;VALUE=DATE-TIME:20241019T113000Z
-DTEND;VALUE=DATE-TIME:20241019T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_1_25_39_630
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: O01\n\nCouleur princi
- pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bl
- eu foncé\n\nContact équipe domicile: Van Hacht O. (0475.96.43.03 - danny
- boffin@hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre ring
-  Est direction Waterloo. Sortir à la sortie n°27 Waterloo Centre.\n	Pren
- dre ensuite à gauche La Drève de Richelle jusqu'au 3ème rond-point et p
- rendre à gauche la 	Chaussée de Louvain sur environ 2km et prendre à dr
- oite la Rue des Saules toujours tout droit et 	qui devient ensuite la Rout
- e des Marnières. Continuer ensuite tout droit\, passer un premier rond-po
- int puis continuer tout droit jusqu'au rond-point du Messager où il faut 
- prendre la 2ème sortie. Vous êtes alors sur la Route de Genval et l'entr
- ée du Complexe se trouve à environ 200m sur la gauche.\n\nVérifiez touj
+SUMMARY:ABSSA D1 J7: BESACE RFC vs BRAINE STORMING
+DTSTART;VALUE=DATE-TIME:20251011T113000Z
+DTEND;VALUE=DATE-TIME:20251011T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_7_24_630
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bordea
+ ux\n\nContact équipe domicile: Masset M. (0485.61.39.19 - rfcbesace.024@g
+ mail.com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nEn vena
+ nt de Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi p
+ rendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point.
+  Le terrain se trouve en face de la pompe à essence Q8.\n\nVérifiez touj
  ours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabs
  sa.be/c/630_1_braine_storming
-GEO:50.7035641;4.469720199999999
-LOCATION:Route de Genval\, 26A - 1380 Ohain\, Route de Genval 20A\, 1380 O
- hain\, Belgique
-ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:dannyboffin@hotmail.co
- m
+GEO:50.8833029;4.3163788
+LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
+ORGANIZER;CN="Masset M.";ROLE=Secrétaire:MAILTO:rfcbesace.024@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D1 J26: BRAINE STORMING vs IRLANDE FC
-DTSTART;VALUE=DATE-TIME:20241026T133000Z
-DTEND;VALUE=DATE-TIME:20241026T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_1_26_630_402
+SUMMARY:ABSSA D1 J8: BRAINE STORMING vs PORTUGAL FC
+DTSTART;VALUE=DATE-TIME:20251018T133000Z
+DTEND;VALUE=DATE-TIME:20251018T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_8_630_403
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
- pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
-  Vert\n\nContact équipe domicile: Goethals E. (0492.43.68.79 - manu.goeth
- als@gmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring Oue
- st\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Char
- leroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traver
- ser le carrefour\, tout droit direction route du sucre.\n\nVérifiez toujo
- urs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabss
- a.be/c/630_1_braine_storming
-GEO:50.6007528;4.4472782
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Ro
+ uge\n\nContact équipe domicile: Goethals E. (0492.43.68.79 - manu.goethal
+ s@gmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring Ouest
+ \, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charle
+ roi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverse
+ r le carrefour\, tout droit direction route du sucre.\n\nVérifiez toujour
+ s ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.
+ be/c/630_1_braine_storming
+GEO:50.601458;4.44982
 LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
 ORGANIZER;CN="Goethals E.";ROLE=Secrétaire:MAILTO:manu.goethals@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D1 J7: BRAINE STORMING vs NEW ARQUOIS FC
-DTSTART;VALUE=DATE-TIME:20241102T143000Z
-DTEND;VALUE=DATE-TIME:20241102T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_1_7_630_263
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
- pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
-  Bleu\n\nContact équipe domicile: Goethals E. (0492.43.68.79 - manu.goeth
- als@gmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring Oue
- st\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Char
- leroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traver
- ser le carrefour\, tout droit direction route du sucre.\n\nVérifiez toujo
- urs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabss
- a.be/c/630_1_braine_storming
-GEO:50.6007528;4.4472782
-LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
-ORGANIZER;CN="Goethals E.";ROLE=Secrétaire:MAILTO:manu.goethals@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D1 J8: COIN DU BALAI FC vs BRAINE STORMING
-DTSTART;VALUE=DATE-TIME:20241109T130000Z
-DTEND;VALUE=DATE-TIME:20241109T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_1_8_229_630
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
- pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
-  Bleu foncé\n\nContact équipe domicile: Rosenfeld J. (0485.05.40.06 - ro
- senfeldjean@hotmail.com)\n\nAccès voiture : A partir du square des Archid
- ucs\, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérif
- iez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:
- //calabssa.be/c/630_1_braine_storming
-GEO:50.80645209999999;4.4087184
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER;CN="Rosenfeld J.";ROLE=Secrétaire:MAILTO:rosenfeldjean@hotmail.
- com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D1 J9: BRAINE STORMING vs HERMES FC
-DTSTART;VALUE=DATE-TIME:20241116T143000Z
-DTEND;VALUE=DATE-TIME:20241116T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_1_9_630_357
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
- pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
-  Jaune et Bleu\n\nContact équipe domicile: Goethals E. (0492.43.68.79 - m
- anu.goethals@gmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le
-  Ring Ouest\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxe
- lles-Charleroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne
- \, traverser le carrefour\, tout droit direction route du sucre.\n\nVérif
- iez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:
- //calabssa.be/c/630_1_braine_storming
-GEO:50.6007528;4.4472782
-LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
-ORGANIZER;CN="Goethals E.";ROLE=Secrétaire:MAILTO:manu.goethals@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D1 J12: BRAINE STORMING vs BRUSSELS LTC
-DTSTART;VALUE=DATE-TIME:20241123T143000Z
-DTEND;VALUE=DATE-TIME:20241123T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_1_12_630_39
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
- pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
-  Bordeaux\n\nContact équipe domicile: Goethals E. (0492.43.68.79 - manu.g
- oethals@gmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring
-  Ouest\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-
- Charleroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, tr
- averser le carrefour\, tout droit direction route du sucre.\n\nVérifiez t
- oujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cal
- abssa.be/c/630_1_braine_storming
-GEO:50.6007528;4.4472782
-LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
-ORGANIZER;CN="Goethals E.";ROLE=Secrétaire:MAILTO:manu.goethals@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D1 J11: BRAINE STORMING vs PORTUGAL FC
-DTSTART;VALUE=DATE-TIME:20241130T143000Z
-DTEND;VALUE=DATE-TIME:20241130T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_1_11_630_403
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
- pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
-  Rouge\n\nContact équipe domicile: Goethals E. (0492.43.68.79 - manu.goet
- hals@gmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring Ou
- est\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Cha
- rleroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, trave
- rser le carrefour\, tout droit direction route du sucre.\n\nVérifiez touj
- ours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabs
- sa.be/c/630_1_braine_storming
-GEO:50.6007528;4.4472782
-LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
-ORGANIZER;CN="Goethals E.";ROLE=Secrétaire:MAILTO:manu.goethals@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D1 J10: AZUR RCS vs BRAINE STORMING
-DTSTART;VALUE=DATE-TIME:20241207T140000Z
-DTEND;VALUE=DATE-TIME:20241207T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_1_10_109_630
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W12\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu f
- oncé\n\nContact équipe domicile: Mad. Decamps N. (0477.27.39.66 - nathal
- ie_decamps@hotmail.com)\n\nAccès voiture : Avenue de Tervuren\, direction
-  Tervuren. Passé le boulevard du Souverain prendre à gauche au premier f
- eu de signalisation (Av. Madoux). Au feu de signalisation suivant prendre 
- la 2ème rue à main droite (Av. J. Dujardin). Ensuite 1ère rue à gauche
-  (Av. Salomé).\n\nVérifiez toujours ces infos sur http://www.abssa.be/\n
- Voir sur calabssa: https://calabssa.be/c/630_1_braine_storming
-GEO:50.830818;4.455442
-LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
- elgique
-ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
- tmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D1 J13: IRLANDE FC vs BRAINE STORMING
-DTSTART;VALUE=DATE-TIME:20241214T130000Z
-DTEND;VALUE=DATE-TIME:20241214T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2024_1_13_402_630
+SUMMARY:ABSSA D1 J9: IRLANDE FC vs BRAINE STORMING
+DTSTART;VALUE=DATE-TIME:20251025T120000Z
+DTEND;VALUE=DATE-TIME:20251025T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_9_402_630
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: N04\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Bleu f
- oncé\n\nContact équipe domicile: Penouilh S. (0474.97.79.48 - fci.secret
- ary.mens@outlook.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à No
- ssegem\, au premier croisement prendre à gauche la \nMechelsesteenweg. Le
-  terrain est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-L
- iège\, prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Meche
- lsesteenweg\, traverser la chaussée de Louvain\, et suivre comme ci-avant
- .\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calab
- ssa: https://calabssa.be/c/630_1_braine_storming
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Bordea
+ ux\n\nContact équipe domicile: Penouilh S. (0474.97.79.48 - fci.secretary
+ .mens@outlook.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à Nosse
+ gem\, au premier croisement prendre à gauche la \nMechelsesteenweg. Le te
+ rrain est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liè
+ ge\, prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelse
+ steenweg\, traverser la chaussée de Louvain\, et suivre comme ci-avant.\n
+ \nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa
+ : https://calabssa.be/c/630_1_braine_storming
 GEO:50.88776559999999;4.50894
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
@@ -323,145 +183,247 @@ ORGANIZER;CN="Penouilh S.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@outl
  ook.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D1 J14: CHENOIS SC vs BRAINE STORMING
-DTSTART;VALUE=DATE-TIME:20250111T140000Z
-DTEND;VALUE=DATE-TIME:20250111T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2025_1_14_84_630
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W02\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu 
- foncé\n\nContact équipe domicile: Versmissen P. (0495.59.61.77 - sc.chen
- ois@waterloo.eu)\n\nAccès voiture : Venant d'Uccle\, prendre la chaussée
-  de Waterloo\, ensuite la chaussée de Bruxelles\, continuer jusqu'à la p
- lace E. Vandevelde (intersection de la chaussée de Bruxelles avec la chau
- ssée de Tervuren à Joli-Bois). Au feu de signalisation prendre à droite
-  la chaussée Bara. Le terrain se trouve à droite à +/- 500 m.\n\nVérif
- iez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:
- //calabssa.be/c/630_1_braine_storming
-GEO:50.701676;4.397567
-LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
-ORGANIZER;CN="Versmissen P.";ROLE=Secrétaire:MAILTO:sc.chenois@waterloo.e
- u
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D1 J15: BRAINE STORMING vs BRUSSELS BRITISH R
-DTSTART;VALUE=DATE-TIME:20250118T143000Z
-DTEND;VALUE=DATE-TIME:20250118T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2025_1_15_630_1
+SUMMARY:ABSSA D1 J10: BRAINE STORMING vs LXG CINQUANTENAIRE
+DTSTART;VALUE=DATE-TIME:20251108T143000Z
+DTEND;VALUE=DATE-TIME:20251108T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_10_630_542
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
- pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
-  Blanc\n\nContact équipe domicile: Goethals E. (0492.43.68.79 - manu.goet
- hals@gmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring Ou
- est\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Cha
- rleroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, trave
- rser le carrefour\, tout droit direction route du sucre.\n\nVérifiez touj
- ours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabs
- sa.be/c/630_1_braine_storming
-GEO:50.6007528;4.4472782
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Ja
+ une et Bleu.\n\nContact équipe domicile: Goethals E. (0492.43.68.79 - man
+ u.goethals@gmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le R
+ ing Ouest\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxell
+ es-Charleroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\,
+  traverser le carrefour\, tout droit direction route du sucre.\n\nVérifie
+ z toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://
+ calabssa.be/c/630_1_braine_storming
+GEO:50.601458;4.44982
 LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
 ORGANIZER;CN="Goethals E.";ROLE=Secrétaire:MAILTO:manu.goethals@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D1 J16: BRITISH UNITED vs BRAINE STORMING
-DTSTART;VALUE=DATE-TIME:20250125T130000Z
-DTEND;VALUE=DATE-TIME:20250125T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2025_1_16_132_630
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu f
- oncé\n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gilles
- vanderseypen@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prend
- re la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminu
- s bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez touj
- ours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabs
- sa.be/c/630_1_braine_storming
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
- gmail.com
+SUMMARY:ABSSA D1 J11: AZUR RCS vs BRAINE STORMING
+DTSTART;VALUE=DATE-TIME:20251115T140000Z
+DTEND;VALUE=DATE-TIME:20251115T153000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_11_109_630
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W12\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bordea
+ ux\n\nContact équipe domicile: Mad. Decamps N. (0477.27.39.66 - nathalie_
+ decamps@hotmail.com)\n\nAccès voiture : Avenue de Tervuren\, direction Te
+ rvuren. Passé le boulevard du Souverain prendre à gauche au premier feu 
+ de signalisation (Av. Madoux). Au feu de signalisation suivant prendre la 
+ 2ème rue à main droite (Av. J. Dujardin). Ensuite 1ère rue à gauche (A
+ v. Salomé).\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoi
+ r sur calabssa: https://calabssa.be/c/630_1_braine_storming
+GEO:50.8308291;4.4555375
+LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
+ elgique
+ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
+ tmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D1 J17: BRAINE STORMING vs LXG CINQUANTENAIRE
-DTSTART;VALUE=DATE-TIME:20250201T143000Z
-DTEND;VALUE=DATE-TIME:20250201T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2025_1_17_630_542
+SUMMARY:ABSSA D1 J12: BRAINE STORMING vs BRITISH UNITED
+DTSTART;VALUE=DATE-TIME:20251122T143000Z
+DTEND;VALUE=DATE-TIME:20251122T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_12_630_132
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
- pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
-  Jaune et Bleu.\n\nContact équipe domicile: Goethals E. (0492.43.68.79 - 
- manu.goethals@gmail.com)\n\nAccès voiture : Venant de Bruxelles prendre l
- e Ring Ouest\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Brux
- elles-Charleroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoign
- e\, traverser le carrefour\, tout droit direction route du sucre.\n\nVéri
- fiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https
- ://calabssa.be/c/630_1_braine_storming
-GEO:50.6007528;4.4472782
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bl
+ eu\n\nContact équipe domicile: Goethals E. (0492.43.68.79 - manu.goethals
+ @gmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring Ouest\
+ , sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charler
+ oi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser
+  le carrefour\, tout droit direction route du sucre.\n\nVérifiez toujours
+  ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.b
+ e/c/630_1_braine_storming
+GEO:50.601458;4.44982
 LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
 ORGANIZER;CN="Goethals E.";ROLE=Secrétaire:MAILTO:manu.goethals@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D1 J18: WONG A.S. vs BRAINE STORMING
-DTSTART;VALUE=DATE-TIME:20250208T113000Z
-DTEND;VALUE=DATE-TIME:20250208T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2025_1_18_523_630
+SUMMARY:ABSSA D1 J13: BRUSSELS LTC vs BRAINE STORMING
+DTSTART;VALUE=DATE-TIME:20251129T123000Z
+DTEND;VALUE=DATE-TIME:20251129T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_13_39_630
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O01\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bo
+ rdeaux\n\nContact équipe domicile: Prudhomme D (0478.49.26.08 - brusselsl
+ tc039@gmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre ring Es
+ t direction Waterloo. Sortir à la sortie n°27 Waterloo Centre.\n	Prendre
+  ensuite à gauche La Drève de Richelle jusqu'au 3ème rond-point et pren
+ dre à gauche la 	Chaussée de Louvain sur environ 2km et prendre à droit
+ e la Rue des Saules toujours tout droit et 	qui devient ensuite la Route d
+ es Marnières. Continuer ensuite tout droit\, passer un premier rond-point
+  puis continuer tout droit jusqu'au rond-point du Messager où il faut pre
+ ndre la 2ème sortie. Vous êtes alors sur la Route de Genval et l'entrée
+  du Complexe se trouve à environ 200m sur la gauche.\n\nVérifiez toujour
+ s ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.
+ be/c/630_1_braine_storming
+GEO:50.70475570000001;4.4703447
+LOCATION:Route de Genval\, 26A - 1380 Ohain\, Route de Genval 20A\, 1380 O
+ hain\, Belgique
+ORGANIZER;CN="Prudhomme D";ROLE=Secrétaire:MAILTO:brusselsltc039@gmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J14: CHOULE AUDERGHEM vs BRAINE STORMING
+DTSTART;VALUE=DATE-TIME:20251206T113000Z
+DTEND;VALUE=DATE-TIME:20251206T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_14_517_630
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
+ erieure: Bordeaux\n\nContact équipe domicile: Vandenplas D. (0476.54.48.0
+ 1 - dav_54@hotmail.com)\n\nAccès voiture : En venant de Bruxelles par la 
+ chaussée de Wavre\, rejoindre le du début de l'autoroute Bruxelles-Namur
+ \, utiliser la bande de droite pendant +/- 200 m. et descendre devant le b
+ âtiment de l'ADEPS\, puis passer par le tunnel à gauche (en dessous de l
+ 'autoroute). Le terrain se trouve à 200 m. Le stade est fléché.\n\nVér
+ ifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: http
+ s://calabssa.be/c/630_1_braine_storming
+GEO:50.81071379999999;4.4432209
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J15: BRAINE STORMING vs HIGGINS-PUMAS
+DTSTART;VALUE=DATE-TIME:20251213T143000Z
+DTEND;VALUE=DATE-TIME:20251213T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_1_15_630_416
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Ra
+ yé Bleu et Blanc\n\nContact équipe domicile: Goethals E. (0492.43.68.79 
+ - manu.goethals@gmail.com)\n\nAccès voiture : Venant de Bruxelles prendre
+  le Ring Ouest\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Br
+ uxelles-Charleroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoi
+ gne\, traverser le carrefour\, tout droit direction route du sucre.\n\nVé
+ rifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: htt
+ ps://calabssa.be/c/630_1_braine_storming
+GEO:50.601458;4.44982
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER;CN="Goethals E.";ROLE=Secrétaire:MAILTO:manu.goethals@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J16: WONG A.S. vs BRAINE STORMING
+DTSTART;VALUE=DATE-TIME:20260110T130000Z
+DTEND;VALUE=DATE-TIME:20260110T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_1_16_523_630
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: T07\n\nCouleur princi
  pale équipe domicile: Jaune et Noir\nCouleur principale équipe exterieur
- e: Bleu foncé\n\nContact équipe domicile: Van Impe J. (0476.78.52.59 - v
- animpe-julien@hotmail.be)\n\nAccès voiture : Aux quatre-Bras\, prendre di
- rection Tervuren via l’avenue de Tervuren(N3) pendant 750M\nAu rond-poin
- t\, prendre la 1ère sortie et continuer sur l’avenue de Tervuren pendan
- t 1\,2km puis prendre à droite sur la chaussée de Bruxelles pendant 500m
- . Ensuite Prendre légèrement sur la droite dans la Wijngaardstraat penda
- nt 400m et tourner à gauche dans la Pepperstraat pendant 400m. Ensuite to
- urner à droite sur la chaussée de Duisburg et rouler pendant 1\,4 km... 
- Continuer tout droit sur la chaussée de Tervuren pendant 1\,3 km et prend
- re à gauche dans la rue de destination ( Schonenboomstraat).\nLe terrain 
- se situe sur la droite de la route!\n\nVérifiez toujours ces infos sur ht
- tp://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/630_1_braine_
- storming
+ e: Bordeaux\n\nContact équipe domicile: Van Impe J. (0476.78.52.59 - vani
+ mpe-julien@hotmail.be)\n\nAccès voiture : Aux quatre-Bras\, prendre direc
+ tion Tervuren via l’avenue de Tervuren(N3) pendant 750M\nAu rond-point\,
+  prendre la 1ère sortie et continuer sur l’avenue de Tervuren pendant 1
+ \,2km puis prendre à droite sur la chaussée de Bruxelles pendant 500m. E
+ nsuite Prendre légèrement sur la droite dans la Wijngaardstraat pendant 
+ 400m et tourner à gauche dans la Pepperstraat pendant 400m. Ensuite tourn
+ er à droite sur la chaussée de Duisburg et rouler pendant 1\,4 km... Con
+ tinuer tout droit sur la chaussée de Tervuren pendant 1\,3 km et prendre 
+ à gauche dans la rue de destination ( Schonenboomstraat).\nLe terrain se 
+ situe sur la droite de la route!\n\nVérifiez toujours ces infos sur http:
+ //www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/630_1_braine_sto
+ rming
 GEO:50.8107232;4.5492332
 LOCATION:Schonenboormstraat\, 3080 Tervuren\, Belgique
 ORGANIZER;CN="Van Impe J.";ROLE=Secrétaire:MAILTO:vanimpe-julien@hotmail.
  be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D1 J19: BRAINE STORMING vs CHOULE AUDERGHEM
-DTSTART;VALUE=DATE-TIME:20250215T143000Z
-DTEND;VALUE=DATE-TIME:20250215T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2025_1_19_630_517
+SUMMARY:ABSSA D1 J17: BRAINE STORMING vs BRUSSELS BRITISH R
+DTSTART;VALUE=DATE-TIME:20260117T143000Z
+DTEND;VALUE=DATE-TIME:20260117T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_1_17_630_1
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
- pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
-  Rayé Bleu et Blanc\n\nContact équipe domicile: Goethals E. (0492.43.68.
- 79 - manu.goethals@gmail.com)\n\nAccès voiture : Venant de Bruxelles pren
- dre le Ring Ouest\, sortie Genappe (n° 25)\, prendre à droite sur la N5 
- (Bruxelles-Charleroi) direction Charleroi pendant +/- 10 min.\, sortie Lou
- poigne\, traverser le carrefour\, tout droit direction route du sucre.\n\n
- Vérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: 
- https://calabssa.be/c/630_1_braine_storming
-GEO:50.6007528;4.4472782
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bl
+ anc\n\nContact équipe domicile: Goethals E. (0492.43.68.79 - manu.goethal
+ s@gmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring Ouest
+ \, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charle
+ roi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverse
+ r le carrefour\, tout droit direction route du sucre.\n\nVérifiez toujour
+ s ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.
+ be/c/630_1_braine_storming
+GEO:50.601458;4.44982
 LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
 ORGANIZER;CN="Goethals E.";ROLE=Secrétaire:MAILTO:manu.goethals@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D1 J24: PORTUGAL FC vs BRAINE STORMING
-DTSTART;VALUE=DATE-TIME:20250222T143000Z
-DTEND;VALUE=DATE-TIME:20250222T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2025_1_24_403_630
+SUMMARY:ABSSA D1 J18: BRAINE STORMING vs COLO-COLO UNITED
+DTSTART;VALUE=DATE-TIME:20260124T143000Z
+DTEND;VALUE=DATE-TIME:20260124T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_1_18_630_625
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bl
+ eu foncé et blanc\n\nContact équipe domicile: Goethals E. (0492.43.68.79
+  - manu.goethals@gmail.com)\n\nAccès voiture : Venant de Bruxelles prendr
+ e le Ring Ouest\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (B
+ ruxelles-Charleroi) direction Charleroi pendant +/- 10 min.\, sortie Loupo
+ igne\, traverser le carrefour\, tout droit direction route du sucre.\n\nV
+ érifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: h
+ ttps://calabssa.be/c/630_1_braine_storming
+GEO:50.601458;4.44982
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER;CN="Goethals E.";ROLE=Secrétaire:MAILTO:manu.goethals@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J19: HERMES FC vs BRAINE STORMING
+DTSTART;VALUE=DATE-TIME:20260131T130000Z
+DTEND;VALUE=DATE-TIME:20260131T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_1_19_357_630
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Jaune et Bleu\nCouleur principale équipe exterieur
+ e: Bordeaux\n\nContact équipe domicile: Antonakopoulos A (0494.88.34.72 -
+  hermesfc1984@gmail.com)\n\nAccès voiture : A partir du square des Archid
+ ucs\, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérif
+ iez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:
+ //calabssa.be/c/630_1_braine_storming
+GEO:50.80645209999999;4.4087184
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Antonakopoulos A";ROLE=Secrétaire:MAILTO:hermesfc1984@gmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J20: BRAINE STORMING vs BESACE RFC
+DTSTART;VALUE=DATE-TIME:20260207T143000Z
+DTEND;VALUE=DATE-TIME:20260207T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_1_20_630_24
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bl
+ eu\n\nContact équipe domicile: Goethals E. (0492.43.68.79 - manu.goethals
+ @gmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring Ouest\
+ , sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charler
+ oi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser
+  le carrefour\, tout droit direction route du sucre.\n\nVérifiez toujours
+  ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.b
+ e/c/630_1_braine_storming
+GEO:50.601458;4.44982
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER;CN="Goethals E.";ROLE=Secrétaire:MAILTO:manu.goethals@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J21: PORTUGAL FC vs BRAINE STORMING
+DTSTART;VALUE=DATE-TIME:20260214T143000Z
+DTEND;VALUE=DATE-TIME:20260214T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_1_21_403_630
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu 
- foncé\n\nContact équipe domicile: Figueira De Carvalho M. (0476.40.68.33
-  - manuel.figueira@mne.pt)\n\nAccès voiture : Ring\, sortie Hopital Erasm
- e\, après 300 m. en direction de Lennik\, prendre à droite.\nVenant de l
- a chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, plac
- e Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 4
- 00 m. en direction de Lennik.\n\nVérifiez toujours ces infos sur http://w
- ww.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/630_1_braine_stormi
- ng
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Borde
+ aux\n\nContact équipe domicile: Figueira De Carvalho M. (0476.40.68.33 - 
+ manuel.figueira@mne.pt)\n\nAccès voiture : Ring\, sortie Hopital Erasme\,
+  après 300 m. en direction de Lennik\, prendre à droite.\nVenant de la c
+ haussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place V
+ erdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 
+ m. en direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.
+ abssa.be/\nVoir sur calabssa: https://calabssa.be/c/630_1_braine_storming
 GEO:50.8177358;4.2557195
 LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
   1070 Anderlecht\, Belgique
@@ -469,62 +431,101 @@ ORGANIZER;CN="Figueira De Carvalho M.";ROLE=Secrétaire:MAILTO:manuel.figu
  eira@mne.pt
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D1 J20: NEW ARQUOIS FC vs BRAINE STORMING
-DTSTART;VALUE=DATE-TIME:20250308T130000Z
-DTEND;VALUE=DATE-TIME:20250308T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2025_1_20_263_630
-DESCRIPTION:Terrain synthétique: non\nCode terrain: A12\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu f
- oncé\n\nContact équipe domicile: Beka J-M. (0495.25.31.25 - jmbeka73@gma
- il.com)\n\nAccès voiture : Autoroute E 19 (Bruxelles-Charleroi)\, sortie 
- Arquennes. Direction Seneffe-La-Louvière. A la station d'essence Total\, 
- prendre à droite pendant +/- 700 mètres.\nAu rond point\, prendre à dro
- ite en direction du château de La Rocq\, passez sous le pont\, le terrain
-  se trouve à 100 mètres (à proximité du cimetière).\n\nVérifiez touj
- ours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabs
- sa.be/c/630_1_braine_storming
-GEO:50.5690988;4.2677281
-LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion\, 7181 Arquennes\, B
- elgique
-ORGANIZER;CN="Beka J-M.";ROLE=Secrétaire:MAILTO:jmbeka73@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D1 J21: BRAINE STORMING vs COIN DU BALAI FC
-DTSTART;VALUE=DATE-TIME:20250315T143000Z
-DTEND;VALUE=DATE-TIME:20250315T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2025_1_21_630_229
+SUMMARY:ABSSA D1 J22: BRAINE STORMING vs IRLANDE FC
+DTSTART;VALUE=DATE-TIME:20260221T143000Z
+DTEND;VALUE=DATE-TIME:20260221T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_1_22_630_402
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
- pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
-  Bleu Marine\n\nContact équipe domicile: Goethals E. (0492.43.68.79 - man
- u.goethals@gmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le R
- ing Ouest\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxell
- es-Charleroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\,
-  traverser le carrefour\, tout droit direction route du sucre.\n\nVérifie
- z toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://
- calabssa.be/c/630_1_braine_storming
-GEO:50.6007528;4.4472782
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Ve
+ rt\n\nContact équipe domicile: Goethals E. (0492.43.68.79 - manu.goethals
+ @gmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring Ouest\
+ , sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charler
+ oi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser
+  le carrefour\, tout droit direction route du sucre.\n\nVérifiez toujours
+  ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.b
+ e/c/630_1_braine_storming
+GEO:50.601458;4.44982
 LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
 ORGANIZER;CN="Goethals E.";ROLE=Secrétaire:MAILTO:manu.goethals@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D1 J22: HERMES FC vs BRAINE STORMING
-DTSTART;VALUE=DATE-TIME:20250322T130000Z
-DTEND;VALUE=DATE-TIME:20250322T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183930Z
-UID:2025_1_22_357_630
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
- pale équipe domicile: Jaune et Bleu\nCouleur principale équipe exterieur
- e: Bleu foncé\n\nContact équipe domicile: Antonakopoulos A (0494.88.34.7
- 2 - hermesfc1984@gmail.com)\n\nAccès voiture : A partir du square des Arc
- hiducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVé
- rifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: htt
- ps://calabssa.be/c/630_1_braine_storming
-GEO:50.80645209999999;4.4087184
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER;CN="Antonakopoulos A";ROLE=Secrétaire:MAILTO:hermesfc1984@gmail
- .com
+SUMMARY:ABSSA D1 J23: LXG CINQUANTENAIRE vs BRAINE STORMING
+DTSTART;VALUE=DATE-TIME:20260228T123000Z
+DTEND;VALUE=DATE-TIME:20260228T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_1_23_542_630
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S09\n\nCouleur princi
+ pale équipe domicile: Jaune et Bleu.\nCouleur principale équipe exterieu
+ re: Bordeaux\n\nContact équipe domicile: Gimenez Villahoz M (0487.79.91.9
+ 5 - lxgfc50@gmail.com)\n\nAccès voiture : Place Meiser\, descendre Bd. G
+ énéral Wahis\, Bd Lambermont\, au deuxième carrefour prendre à gauche\
+ , puis encore la première à gauche\nOu :  Place Meiser prendre Av Ernest
+  Cambier. - Tram n° 7  - Bus 65 arrêt Chazal\n\nVérifiez toujours ces i
+ nfos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/63
+ 0_1_braine_storming
+GEO:50.8581504;4.3949295
+LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
+ ue
+ORGANIZER;CN="Gimenez Villahoz M";ROLE=Secrétaire:MAILTO:lxgfc50@gmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J24: BRAINE STORMING vs AZUR RCS
+DTSTART;VALUE=DATE-TIME:20260307T143000Z
+DTEND;VALUE=DATE-TIME:20260307T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_1_24_630_109
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bl
+ eu\n\nContact équipe domicile: Goethals E. (0492.43.68.79 - manu.goethals
+ @gmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring Ouest\
+ , sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charler
+ oi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser
+  le carrefour\, tout droit direction route du sucre.\n\nVérifiez toujours
+  ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.b
+ e/c/630_1_braine_storming
+GEO:50.601458;4.44982
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER;CN="Goethals E.";ROLE=Secrétaire:MAILTO:manu.goethals@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J25: BRITISH UNITED vs BRAINE STORMING
+DTSTART;VALUE=DATE-TIME:20260314T130000Z
+DTEND;VALUE=DATE-TIME:20260314T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_1_25_132_630
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bordea
+ ux\n\nContact équipe domicile: Caballero G (0479.79.86.54 - guillem_955@h
+ otmail.com)\n\nAccès voiture : A partir de Bruxelles\, prendre la E 411 e
+ n direction de Namur. Prendre la sortie N° 8 puis à droite la bretelle p
+ our la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,
+ 5 km\, au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Lib
+ ération\, puis à gauche dans la rue de la Grande lecke.\n\nVérifiez tou
+ jours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calab
+ ssa.be/c/630_1_braine_storming
+GEO:50.7611768;4.7884455
+LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
+ORGANIZER;CN="Caballero G";ROLE=Secrétaire:MAILTO:guillem_955@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J26: BRAINE STORMING vs BRUSSELS LTC
+DTSTART;VALUE=DATE-TIME:20260321T143000Z
+DTEND;VALUE=DATE-TIME:20260321T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_1_26_630_39
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bo
+ rdeaux\n\nContact équipe domicile: Goethals E. (0492.43.68.79 - manu.goet
+ hals@gmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring Ou
+ est\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Cha
+ rleroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, trave
+ rser le carrefour\, tout droit direction route du sucre.\n\nVérifiez touj
+ ours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabs
+ sa.be/c/630_1_braine_storming
+GEO:50.601458;4.44982
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER;CN="Goethals E.";ROLE=Secrétaire:MAILTO:manu.goethals@gmail.com
 END:VEVENT
 END:VCALENDAR

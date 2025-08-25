@@ -4,13 +4,13 @@ PRODID:624_1_vetuso_fc
 X-WR-CALDESC:Les matches du club VETUSO FC. (equipe 1) en ABSSA.
 X-WR-CALNAME:ABSSA: VETUSO FC. (eq. 1)
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J23: VETUSO FC. vs ENTENTE  RACB
-DTSTART;VALUE=DATE-TIME:20240831T120000Z
-DTEND;VALUE=DATE-TIME:20240831T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_2A_23_624_2
+SUMMARY:ABSSA D2A J1: VETUSO FC. vs FRANGINOS (LOS)
+DTSTART;VALUE=DATE-TIME:20250830T120000Z
+DTEND;VALUE=DATE-TIME:20250830T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_2A_1_624_647
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge\
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
  n\nContact équipe domicile: Day N. (0494.57.83.26 - nicolas.day@ucb.com)\
  n\nAccès voiture : Venant de Bruxelles prendre le Ring Ouest\, sortie Gen
  appe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi) directio
@@ -18,71 +18,16 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
  r\, tout droit direction route du sucre.\n\nVérifiez toujours ces infos s
  ur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/624_1_ve
  tuso_fc
-GEO:50.6007528;4.4472782
+GEO:50.601458;4.44982
 LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
 ORGANIZER;CN="Day N.";ROLE=Secrétaire:MAILTO:nicolas.day@ucb.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J1: VETUSO FC. vs BESACE RFC
-DTSTART;VALUE=DATE-TIME:20240907T120000Z
-DTEND;VALUE=DATE-TIME:20240907T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_2A_1_624_24
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
- \nContact équipe domicile: Day N. (0494.57.83.26 - nicolas.day@ucb.com)\n
- \nAccès voiture : Venant de Bruxelles prendre le Ring Ouest\, sortie Gena
- ppe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi) direction
-  Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le carrefour
- \, tout droit direction route du sucre.\n\nVérifiez toujours ces infos su
- r http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/624_1_vet
- uso_fc
-GEO:50.6007528;4.4472782
-LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
-ORGANIZER;CN="Day N.";ROLE=Secrétaire:MAILTO:nicolas.day@ucb.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J2: BRUSSELS BRITISH R (Eq. 2) vs VETUSO FC.
-DTSTART;VALUE=DATE-TIME:20240914T103000Z
-DTEND;VALUE=DATE-TIME:20240914T120000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_2A_2_1_624
-DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
- n\nContact équipe domicile: O'Connor G (0456.54.46.67 - abssa-sec@rbbfc.o
- rg)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Pass
- er devant l'église\, longer l'autoroute et tourner à droite au cimetièr
- e des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur http:
- //www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/624_1_vetuso_fc
-GEO:50.7282426;4.5537189
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER;CN="O'Connor G";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J3: VETUSO FC. vs BRITISH UNITED (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20240921T120000Z
-DTEND;VALUE=DATE-TIME:20240921T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_2A_3_624_132
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
- \nContact équipe domicile: Day N. (0494.57.83.26 - nicolas.day@ucb.com)\n
- \nAccès voiture : Venant de Bruxelles prendre le Ring Ouest\, sortie Gena
- ppe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi) direction
-  Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le carrefour
- \, tout droit direction route du sucre.\n\nVérifiez toujours ces infos su
- r http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/624_1_vet
- uso_fc
-GEO:50.6007528;4.4472782
-LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
-ORGANIZER;CN="Day N.";ROLE=Secrétaire:MAILTO:nicolas.day@ucb.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J4: UNION JP vs VETUSO FC.
-DTSTART;VALUE=DATE-TIME:20240928T133000Z
-DTEND;VALUE=DATE-TIME:20240928T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_2A_4_504_624
+SUMMARY:ABSSA D2A J2: UNION JP vs VETUSO FC.
+DTSTART;VALUE=DATE-TIME:20250906T133000Z
+DTEND;VALUE=DATE-TIME:20250906T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_2A_2_504_624
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
  pale équipe domicile: Bleu et jaune\nCouleur principale équipe exterieur
  e: Bleu\n\nContact équipe domicile: Vanderweyen V (0497.35.33.49 - victor
@@ -99,30 +44,47 @@ ORGANIZER;CN="Vanderweyen V";ROLE=Secrétaire:MAILTO:victor.vanderweyen@gm
  ail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J5: VETUSO FC. vs BRAINE-TERMINUS FC
-DTSTART;VALUE=DATE-TIME:20241005T120000Z
-DTEND;VALUE=DATE-TIME:20241005T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_2A_5_624_537
+SUMMARY:ABSSA D2A J3: VETUSO FC. vs PHARMA SC
+DTSTART;VALUE=DATE-TIME:20250913T120000Z
+DTEND;VALUE=DATE-TIME:20250913T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_2A_3_624_268
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Jaune 
- et rouge\n\nContact équipe domicile: Day N. (0494.57.83.26 - nicolas.day@
- ucb.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring Ouest\, s
- ortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi)
-  direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le
-  carrefour\, tout droit direction route du sucre.\n\nVérifiez toujours ce
- s infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c
- /624_1_vetuso_fc
-GEO:50.6007528;4.4472782
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Day N. (0494.57.83.26 - nicolas.day@ucb.com)\
+ n\nAccès voiture : Venant de Bruxelles prendre le Ring Ouest\, sortie Gen
+ appe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi) directio
+ n Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le carrefou
+ r\, tout droit direction route du sucre.\n\nVérifiez toujours ces infos s
+ ur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/624_1_ve
+ tuso_fc
+GEO:50.601458;4.44982
 LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
 ORGANIZER;CN="Day N.";ROLE=Secrétaire:MAILTO:nicolas.day@ucb.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J6: UNION TIGERS vs VETUSO FC.
-DTSTART;VALUE=DATE-TIME:20241012T133000Z
-DTEND;VALUE=DATE-TIME:20241012T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_2A_6_649_624
+SUMMARY:ABSSA D2A J4: BRUSSELS BRITISH R (Eq. 2) vs VETUSO FC.
+DTSTART;VALUE=DATE-TIME:20250920T133000Z
+DTEND;VALUE=DATE-TIME:20250920T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_2A_4_1_624
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: O'Connor G (0456.54.46.67 - abssa-sec@rbbfc.o
+ rg)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Pass
+ er devant l'église\, longer l'autoroute et tourner à droite au cimetièr
+ e des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur http:
+ //www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/624_1_vetuso_fc
+GEO:50.7264542;4.5530681
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="O'Connor G";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J5: UNION TIGERS vs VETUSO FC.
+DTSTART;VALUE=DATE-TIME:20250927T133000Z
+DTEND;VALUE=DATE-TIME:20250927T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_2A_5_649_624
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A01\n\nCouleur princi
  pale équipe domicile: Bleu ciel et Blanc\nCouleur principale équipe exte
  rieure: Bleu\n\nContact équipe domicile: Thibaut L (0472.52.93.45 - union
@@ -133,94 +95,16 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: A01\n\nCouleur princi
  e terrain se trouve à gauche\, entre l'école Van Belle et Veeweyde.\n\nV
  érifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: h
  ttps://calabssa.be/c/624_1_vetuso_fc
-GEO:50.8354396;4.2768611
+GEO:50.8356088;4.2760612
 LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
 ORGANIZER;CN="Thibaut L";ROLE=Secrétaire:MAILTO:union.tigers@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J25: TOURINNOIS FC vs VETUSO FC.
-DTSTART;VALUE=DATE-TIME:20241019T130000Z
-DTEND;VALUE=DATE-TIME:20241019T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_2A_25_292_624
-DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu\
- n\nContact équipe domicile: Strade P. (010.65.83.02 - stradepaul@hotmail.
- com)\n\nAccès voiture : A partir de l'autoroute Bruxelles-Namur (E411)\, 
- prendre la sortie  Walhain (n° 10). Au pied de la rampe d'accès\, suivre
-  la direction Walhain vers la droite et après 200 m. prendre à droite et
-  400 m. plus loin\, prendre à nouveau à droite. Le terrain se trouve à 
- +/- 300 m. sur la gauche.\n\nVérifiez toujours ces infos sur http://www.a
- bssa.be/\nVoir sur calabssa: https://calabssa.be/c/624_1_vetuso_fc
-GEO:50.6415282;4.7193257
-LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
-ORGANIZER;CN="Strade P.";ROLE=Secrétaire:MAILTO:stradepaul@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J26: VETUSO FC. vs IRLANDE FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20241026T120000Z
-DTEND;VALUE=DATE-TIME:20241026T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_2A_26_624_402
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Vert\n
- \nContact équipe domicile: Day N. (0494.57.83.26 - nicolas.day@ucb.com)\n
- \nAccès voiture : Venant de Bruxelles prendre le Ring Ouest\, sortie Gena
- ppe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi) direction
-  Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le carrefour
- \, tout droit direction route du sucre.\n\nVérifiez toujours ces infos su
- r http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/624_1_vet
- uso_fc
-GEO:50.6007528;4.4472782
-LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
-ORGANIZER;CN="Day N.";ROLE=Secrétaire:MAILTO:nicolas.day@ucb.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J7: VETUSO FC. vs HIGGINS-PUMAS
-DTSTART;VALUE=DATE-TIME:20241102T130000Z
-DTEND;VALUE=DATE-TIME:20241102T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_2A_7_624_416
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rayé 
- Bleu et Blanc\n\nContact équipe domicile: Day N. (0494.57.83.26 - nicolas
- .day@ucb.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring Oues
- t\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charl
- eroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, travers
- er le carrefour\, tout droit direction route du sucre.\n\nVérifiez toujou
- rs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa
- .be/c/624_1_vetuso_fc
-GEO:50.6007528;4.4472782
-LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
-ORGANIZER;CN="Day N.";ROLE=Secrétaire:MAILTO:nicolas.day@ucb.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J8: SCHEUT FC vs VETUSO FC.
-DTSTART;VALUE=DATE-TIME:20241109T133000Z
-DTEND;VALUE=DATE-TIME:20241109T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_2A_8_274_624
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu\n
- \nContact équipe domicile: Huys R. (0477.59.24.22 - fcscheut@yahoo.fr)\n\
- nAccès voiture : En venant de la Route de Lennik (Citroën) ou de la Chau
- ssée de Mons (Ikea)\, prendre la direction du cimetière d'Anderlecht\, e
- mprunter le Boulevard Josse Leemans\, au rond-point prendre la sortie pour
-  la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe et des ter
- rains se situe à +/- 500 m. sur la gauche.\n\nVérifiez toujours ces info
- s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/624_1
- _vetuso_fc
-GEO:50.8114295;4.2763934
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER;CN="Huys R.";ROLE=Secrétaire:MAILTO:fcscheut@yahoo.fr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J9: VETUSO FC. vs FORESTOIS SC
-DTSTART;VALUE=DATE-TIME:20241116T130000Z
-DTEND;VALUE=DATE-TIME:20241116T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_2A_9_624_152
+SUMMARY:ABSSA D2A J6: VETUSO FC. vs SCHEUT FC
+DTSTART;VALUE=DATE-TIME:20251004T120000Z
+DTEND;VALUE=DATE-TIME:20251004T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_2A_6_624_274
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir\n
  \nContact équipe domicile: Day N. (0494.57.83.26 - nicolas.day@ucb.com)\n
@@ -230,16 +114,36 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
  \, tout droit direction route du sucre.\n\nVérifiez toujours ces infos su
  r http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/624_1_vet
  uso_fc
-GEO:50.6007528;4.4472782
+GEO:50.601458;4.44982
 LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
 ORGANIZER;CN="Day N.";ROLE=Secrétaire:MAILTO:nicolas.day@ucb.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J12: VETUSO FC. vs TOURINNOIS FC
-DTSTART;VALUE=DATE-TIME:20241123T130000Z
-DTEND;VALUE=DATE-TIME:20241123T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_2A_12_624_292
+SUMMARY:ABSSA D2A J7: CHARLES-QUINT FC vs VETUSO FC.
+DTSTART;VALUE=DATE-TIME:20251011T130000Z
+DTEND;VALUE=DATE-TIME:20251011T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_2A_7_499_624
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
+ pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: B
+ leu\n\nContact équipe domicile: Calvo Gil P. (0474.84.33.90 - pablo_calvo
+ 84@hotmail.com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nE
+ n venant de Zaventem\, prendre à gauche à la sortie\, en venant de Charl
+ eroi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond 
+ point. Le terrain se trouve en face de la pompe à essence Q8.\n\nVérifie
+ z toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://
+ calabssa.be/c/624_1_vetuso_fc
+GEO:50.8833029;4.3163788
+LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
+ORGANIZER;CN="Calvo Gil P.";ROLE=Secrétaire:MAILTO:pablo_calvo84@hotmail.
+ com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J8: VETUSO FC. vs CHENOIS SC
+DTSTART;VALUE=DATE-TIME:20251018T120000Z
+DTEND;VALUE=DATE-TIME:20251018T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_2A_8_624_84
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge\
  n\nContact équipe domicile: Day N. (0494.57.83.26 - nicolas.day@ucb.com)\
@@ -249,53 +153,16 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
  r\, tout droit direction route du sucre.\n\nVérifiez toujours ces infos s
  ur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/624_1_ve
  tuso_fc
-GEO:50.6007528;4.4472782
+GEO:50.601458;4.44982
 LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
 ORGANIZER;CN="Day N.";ROLE=Secrétaire:MAILTO:nicolas.day@ucb.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J11: VETUSO FC. vs BIG JEFKE
-DTSTART;VALUE=DATE-TIME:20241130T130000Z
-DTEND;VALUE=DATE-TIME:20241130T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_2A_11_624_137
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
- n\nContact équipe domicile: Day N. (0494.57.83.26 - nicolas.day@ucb.com)\
- n\nAccès voiture : Venant de Bruxelles prendre le Ring Ouest\, sortie Gen
- appe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi) directio
- n Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le carrefou
- r\, tout droit direction route du sucre.\n\nVérifiez toujours ces infos s
- ur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/624_1_ve
- tuso_fc
-GEO:50.6007528;4.4472782
-LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
-ORGANIZER;CN="Day N.";ROLE=Secrétaire:MAILTO:nicolas.day@ucb.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J10: ENTENTE  RACB vs VETUSO FC.
-DTSTART;VALUE=DATE-TIME:20241207T130000Z
-DTEND;VALUE=DATE-TIME:20241207T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_2A_10_2_624
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu\
- n\nContact équipe domicile: Dath D. (0473.47.15.41 - daniel.dath@hotmail.
- com)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\, vers Ned
- er-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-poi
- nt\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Vert
- \, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa.
- be/\nVoir sur calabssa: https://calabssa.be/c/624_1_vetuso_fc
-GEO:50.89983369999999;4.3936101
-LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
-ORGANIZER;CN="Dath D.";ROLE=Secrétaire:MAILTO:daniel.dath@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J13: IRLANDE FC (Eq. 2) vs VETUSO FC.
-DTSTART;VALUE=DATE-TIME:20241214T113000Z
-DTEND;VALUE=DATE-TIME:20241214T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_2A_13_402_624
+SUMMARY:ABSSA D2A J9: IRLANDE FC (Eq. 2) vs VETUSO FC.
+DTSTART;VALUE=DATE-TIME:20251025T103000Z
+DTEND;VALUE=DATE-TIME:20251025T120000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_2A_9_402_624
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: N04\n\nCouleur princi
  pale équipe domicile: Vert\nCouleur principale équipe exterieure: Bleu\n
  \nContact équipe domicile: Penouilh S. (0474.97.79.48 - fci.secretary.men
@@ -313,32 +180,65 @@ ORGANIZER;CN="Penouilh S.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@outl
  ook.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J14: BESACE RFC vs VETUSO FC.
-DTSTART;VALUE=DATE-TIME:20250111T123000Z
-DTEND;VALUE=DATE-TIME:20250111T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_2A_14_24_624
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
- \nContact équipe domicile: Masset M. (0485.61.39.19 - rfcbesace.024@gmail
- .com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nEn venant d
- e Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi prend
- re à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point. Le 
- terrain se trouve en face de la pompe à essence Q8.\n\nVérifiez toujours
-  ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.b
- e/c/624_1_vetuso_fc
-GEO:50.883299;4.316365
-LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
-ORGANIZER;CN="Masset M.";ROLE=Secrétaire:MAILTO:rfcbesace.024@gmail.com
+SUMMARY:ABSSA D2A J10: VETUSO FC. vs BRAINE-TERMINUS FC
+DTSTART;VALUE=DATE-TIME:20251108T130000Z
+DTEND;VALUE=DATE-TIME:20251108T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_2A_10_624_537
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Jaune 
+ et rouge\n\nContact équipe domicile: Day N. (0494.57.83.26 - nicolas.day@
+ ucb.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring Ouest\, s
+ ortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi)
+  direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le
+  carrefour\, tout droit direction route du sucre.\n\nVérifiez toujours ce
+ s infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c
+ /624_1_vetuso_fc
+GEO:50.601458;4.44982
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER;CN="Day N.";ROLE=Secrétaire:MAILTO:nicolas.day@ucb.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J15: VETUSO FC. vs BRUSSELS BRITISH R (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20250118T130000Z
-DTEND;VALUE=DATE-TIME:20250118T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_2A_15_624_1
+SUMMARY:ABSSA D2A J11: STER'S vs VETUSO FC.
+DTSTART;VALUE=DATE-TIME:20251115T113000Z
+DTEND;VALUE=DATE-TIME:20251115T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_2A_11_598_624
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Vert et Blanc\nCouleur principale équipe exterieur
+ e: Bleu\n\nContact équipe domicile: Reginster T. (0477.58.02.89 - thomas.
+ reginster@live.be)\n\nAccès voiture : En venant de Bruxelles\, prendre l'
+ autoroute E411 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, 
+ tenir la droite et au bout de la bretelle\, prendre la direction d'Ottigni
+ es par la N238. Au 1èr feu de signalisation continuer tout droit en passa
+ nt devant Walibi (qui se trouve sur la gauche) jusqu'à la sortie Limelett
+ e. Au bout de cette sortie\, en face du Tennis Club La Palestre\, prendre 
+ à droite la rue Charles Dubois\, jusqu'au carrefour principal. Continuer 
+ tout droit en traversant l'avenue Albert 1èr. Passer en dessous du 1èr p
+ ont du chemin de fer et prendre la rue de l'Europe jusqu'à la place de l'
+ Europe. Traverser cette place par la droite. Au bout à gauche\, suivre l'
+ avenue Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C.
+  Limelette). Continuer cette rue et passer en dessous du 2ème pont du che
+ min de fer. Après ce pont\, prendre tout de suite à gauche l'avenue Demo
+ lder (panneau F.C. Limelette)\, en face de l'étang du Buston. Suivre cett
+ e avenue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après
+  50 m. dans cette rue\, prendre à droite l'avenue des Sorbiers (panneau d
+ u F.C. Limelette). L'entrée du terrain est située 50 m. plus bas sur la 
+ gauche.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur
+  calabssa: https://calabssa.be/c/624_1_vetuso_fc
+GEO:50.67628029999999;4.562802
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Reginster T.";ROLE=Secrétaire:MAILTO:thomas.reginster@live.
+ be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J12: VETUSO FC. vs ENTENTE  RACB
+DTSTART;VALUE=DATE-TIME:20251122T130000Z
+DTEND;VALUE=DATE-TIME:20251122T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_2A_12_624_2
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge\
  n\nContact équipe domicile: Day N. (0494.57.83.26 - nicolas.day@ucb.com)\
  n\nAccès voiture : Venant de Bruxelles prendre le Ring Ouest\, sortie Gen
  appe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi) directio
@@ -346,36 +246,59 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
  r\, tout droit direction route du sucre.\n\nVérifiez toujours ces infos s
  ur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/624_1_ve
  tuso_fc
-GEO:50.6007528;4.4472782
+GEO:50.601458;4.44982
 LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
 ORGANIZER;CN="Day N.";ROLE=Secrétaire:MAILTO:nicolas.day@ucb.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J16: BRITISH UNITED (Eq. 2) vs VETUSO FC.
-DTSTART;VALUE=DATE-TIME:20250125T113000Z
-DTEND;VALUE=DATE-TIME:20250125T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_2A_16_132_624
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
- \nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gillesvanders
- eypen@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la r
- ue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 2
- 8). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ce
- s infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c
- /624_1_vetuso_fc
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
- gmail.com
+SUMMARY:ABSSA D2A J13: TOURINNOIS FC vs VETUSO FC.
+DTSTART;VALUE=DATE-TIME:20251129T123000Z
+DTEND;VALUE=DATE-TIME:20251129T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_2A_13_292_624
+DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Stas De Richelle M (0473.68.59.91 - FCTourinn
+ ois@outlook.com)\n\nAccès voiture : A partir de l'autoroute Bruxelles-Nam
+ ur (E411)\, prendre la sortie  Walhain (n° 10). Au pied de la rampe d'acc
+ ès\, suivre la direction Walhain vers la droite et après 200 m. prendre 
+ à droite et 400 m. plus loin\, prendre à nouveau à droite. Le terrain s
+ e trouve à +/- 300 m. sur la gauche.\n\nVérifiez toujours ces infos sur 
+ http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/624_1_vetus
+ o_fc
+GEO:50.6412308;4.7180724
+LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
+ORGANIZER;CN="Stas De Richelle M";ROLE=Secrétaire:MAILTO:FCTourinnois@out
+ look.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J17: VETUSO FC. vs UNION JP
-DTSTART;VALUE=DATE-TIME:20250201T130000Z
-DTEND;VALUE=DATE-TIME:20250201T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_2A_17_624_504
+SUMMARY:ABSSA D2A J14: FRANGINOS (LOS) vs VETUSO FC.
+DTSTART;VALUE=DATE-TIME:20251206T143000Z
+DTEND;VALUE=DATE-TIME:20251206T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_2A_14_647_624
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Gerard S. (0487.22.81.20 - simongerard@hotmai
+ l.be)\n\nAccès voiture : Autoroute E 411 direction Namur / Luxembourg\, p
+ rendre la sortie n° 6 Wavre\, à gauche N 238 direction Wavre. Au rond-	p
+ oint 2ième sortie N238/Blvd. de l'Europe direction Wavre Centre. Entrer d
+ ans Wavre puis à gauche N 238\, à gauche N 239. 	Au rond-point prendre l
+ a première sortie Rue Haute\, continuer sur rue de Bruxelles\, continuer 
+ sur rue Saint-Roch\, continuer 	sur rue Joseph Joppart. Prendre à droite 
+ l'avenue du Centre Sportif.\n\nVérifiez toujours ces infos sur http://www
+ .abssa.be/\nVoir sur calabssa: https://calabssa.be/c/624_1_vetuso_fc
+GEO:50.720927;4.617368
+LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
+  Belgique
+ORGANIZER;CN="Gerard S.";ROLE=Secrétaire:MAILTO:simongerard@hotmail.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J15: VETUSO FC. vs UNION JP
+DTSTART;VALUE=DATE-TIME:20251213T130000Z
+DTEND;VALUE=DATE-TIME:20251213T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_2A_15_624_504
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu e
  t jaune\n\nContact équipe domicile: Day N. (0494.57.83.26 - nicolas.day@u
@@ -385,16 +308,150 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
  carrefour\, tout droit direction route du sucre.\n\nVérifiez toujours ces
   infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/
  624_1_vetuso_fc
-GEO:50.6007528;4.4472782
+GEO:50.601458;4.44982
 LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
 ORGANIZER;CN="Day N.";ROLE=Secrétaire:MAILTO:nicolas.day@ucb.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J18: BRAINE-TERMINUS FC vs VETUSO FC.
-DTSTART;VALUE=DATE-TIME:20250208T143000Z
-DTEND;VALUE=DATE-TIME:20250208T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_2A_18_537_624
+SUMMARY:ABSSA D2A J16: PHARMA SC vs VETUSO FC.
+DTSTART;VALUE=DATE-TIME:20260110T143000Z
+DTEND;VALUE=DATE-TIME:20260110T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_2A_16_268_624
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.dumidi@sc
+ arlet.be)\n\nAccès voiture : A partir du square des Archiducs\, prendre l
+ a rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez toujours ce
+ s infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c
+ /624_1_vetuso_fc
+GEO:50.80645209999999;4.4087184
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J17: VETUSO FC. vs BRUSSELS BRITISH R (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260117T130000Z
+DTEND;VALUE=DATE-TIME:20260117T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_2A_17_624_1
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Day N. (0494.57.83.26 - nicolas.day@ucb.com)\
+ n\nAccès voiture : Venant de Bruxelles prendre le Ring Ouest\, sortie Gen
+ appe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi) directio
+ n Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le carrefou
+ r\, tout droit direction route du sucre.\n\nVérifiez toujours ces infos s
+ ur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/624_1_ve
+ tuso_fc
+GEO:50.601458;4.44982
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER;CN="Day N.";ROLE=Secrétaire:MAILTO:nicolas.day@ucb.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J18: VETUSO FC. vs UNION TIGERS
+DTSTART;VALUE=DATE-TIME:20260124T130000Z
+DTEND;VALUE=DATE-TIME:20260124T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_2A_18_624_649
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu c
+ iel et Blanc\n\nContact équipe domicile: Day N. (0494.57.83.26 - nicolas.
+ day@ucb.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring Ouest
+ \, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charle
+ roi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverse
+ r le carrefour\, tout droit direction route du sucre.\n\nVérifiez toujour
+ s ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.
+ be/c/624_1_vetuso_fc
+GEO:50.601458;4.44982
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER;CN="Day N.";ROLE=Secrétaire:MAILTO:nicolas.day@ucb.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J19: SCHEUT FC vs VETUSO FC.
+DTSTART;VALUE=DATE-TIME:20260131T143000Z
+DTEND;VALUE=DATE-TIME:20260131T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_2A_19_274_624
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Huys R. (0477.59.24.22 - fcscheut@yahoo.fr)\n\
+ nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\, vers Neder-Over
+ -Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-point\, to
+ ut droit Chemin Vert\, puis première à gauche\, Petit Chemin Vert\, terr
+ ain à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVo
+ ir sur calabssa: https://calabssa.be/c/624_1_vetuso_fc
+GEO:50.8996;4.393737199999999
+LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
+ORGANIZER;CN="Huys R.";ROLE=Secrétaire:MAILTO:fcscheut@yahoo.fr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J20: VETUSO FC. vs CHARLES-QUINT FC
+DTSTART;VALUE=DATE-TIME:20260207T130000Z
+DTEND;VALUE=DATE-TIME:20260207T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_2A_20_624_499
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu c
+ iel\n\nContact équipe domicile: Day N. (0494.57.83.26 - nicolas.day@ucb.c
+ om)\n\nAccès voiture : Venant de Bruxelles prendre le Ring Ouest\, sortie
+  Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi) dire
+ ction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le carr
+ efour\, tout droit direction route du sucre.\n\nVérifiez toujours ces inf
+ os sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/624_
+ 1_vetuso_fc
+GEO:50.601458;4.44982
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER;CN="Day N.";ROLE=Secrétaire:MAILTO:nicolas.day@ucb.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J21: CHENOIS SC vs VETUSO FC.
+DTSTART;VALUE=DATE-TIME:20260214T140000Z
+DTEND;VALUE=DATE-TIME:20260214T153000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_2A_21_84_624
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W02\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Versmissen P. (0495.59.61.77 - sc.chenois@wat
+ erloo.eu)\n\nAccès voiture : Venant d'Uccle\, prendre la chaussée de Wat
+ erloo\, ensuite la chaussée de Bruxelles\, continuer jusqu'à la place E.
+  Vandevelde (intersection de la chaussée de Bruxelles avec la chaussée d
+ e Tervuren à Joli-Bois). Au feu de signalisation prendre à droite la cha
+ ussée Bara. Le terrain se trouve à droite à +/- 500 m.\n\nVérifiez tou
+ jours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calab
+ ssa.be/c/624_1_vetuso_fc
+GEO:50.701676;4.397567
+LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
+ORGANIZER;CN="Versmissen P.";ROLE=Secrétaire:MAILTO:sc.chenois@waterloo.e
+ u
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J22: VETUSO FC. vs IRLANDE FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260221T130000Z
+DTEND;VALUE=DATE-TIME:20260221T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_2A_22_624_402
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Vert\n
+ \nContact équipe domicile: Day N. (0494.57.83.26 - nicolas.day@ucb.com)\n
+ \nAccès voiture : Venant de Bruxelles prendre le Ring Ouest\, sortie Gena
+ ppe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi) direction
+  Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le carrefour
+ \, tout droit direction route du sucre.\n\nVérifiez toujours ces infos su
+ r http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/624_1_vet
+ uso_fc
+GEO:50.601458;4.44982
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER;CN="Day N.";ROLE=Secrétaire:MAILTO:nicolas.day@ucb.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D2A J23: BRAINE-TERMINUS FC vs VETUSO FC.
+DTSTART;VALUE=DATE-TIME:20260228T143000Z
+DTEND;VALUE=DATE-TIME:20260228T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_2A_23_537_624
 DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
  pale équipe domicile: Jaune et rouge\nCouleur principale équipe exterieu
  re: Bleu\n\nContact équipe domicile: Dero G. (0479.81.83.27 - fcbraineter
@@ -413,102 +470,59 @@ LOCATION:Rue du Poseur 39\, 7090 Braine-Le-Comte\, Belgique
 ORGANIZER;CN="Dero G.";ROLE=Secrétaire:MAILTO:fcbraineterminus@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J19: VETUSO FC. vs UNION TIGERS
-DTSTART;VALUE=DATE-TIME:20250215T130000Z
-DTEND;VALUE=DATE-TIME:20250215T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_2A_19_624_649
+SUMMARY:ABSSA D2A J24: VETUSO FC. vs STER'S
+DTSTART;VALUE=DATE-TIME:20260307T130000Z
+DTEND;VALUE=DATE-TIME:20260307T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_2A_24_624_598
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu c
- iel et Blanc\n\nContact équipe domicile: Day N. (0494.57.83.26 - nicolas.
- day@ucb.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring Ouest
- \, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charle
- roi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverse
- r le carrefour\, tout droit direction route du sucre.\n\nVérifiez toujour
- s ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.
- be/c/624_1_vetuso_fc
-GEO:50.6007528;4.4472782
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Vert e
+ t Blanc\n\nContact équipe domicile: Day N. (0494.57.83.26 - nicolas.day@u
+ cb.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring Ouest\, so
+ rtie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi) 
+ direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le 
+ carrefour\, tout droit direction route du sucre.\n\nVérifiez toujours ces
+  infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/
+ 624_1_vetuso_fc
+GEO:50.601458;4.44982
 LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
 ORGANIZER;CN="Day N.";ROLE=Secrétaire:MAILTO:nicolas.day@ucb.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J24: BIG JEFKE vs VETUSO FC.
-DTSTART;VALUE=DATE-TIME:20250222T143000Z
-DTEND;VALUE=DATE-TIME:20250222T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_2A_24_137_624
+SUMMARY:ABSSA D2A J25: ENTENTE  RACB vs VETUSO FC.
+DTSTART;VALUE=DATE-TIME:20260314T130000Z
+DTEND;VALUE=DATE-TIME:20260314T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_2A_25_2_624
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
- n\nContact équipe domicile: Pierard J. (0478.77.84.07 - pierard.j@hotmail
- .com)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\, vers Ne
- der-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-po
- int\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Ver
- t\, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa
- .be/\nVoir sur calabssa: https://calabssa.be/c/624_1_vetuso_fc
-GEO:50.89983369999999;4.3936101
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Dath D. (0473.47.15.41 - daniel.dath@hotmail.
+ com)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\, vers Ned
+ er-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-poi
+ nt\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Vert
+ \, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa.
+ be/\nVoir sur calabssa: https://calabssa.be/c/624_1_vetuso_fc
+GEO:50.8996;4.393737199999999
 LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
-ORGANIZER;CN="Pierard J.";ROLE=Secrétaire:MAILTO:pierard.j@hotmail.com
+ORGANIZER;CN="Dath D.";ROLE=Secrétaire:MAILTO:daniel.dath@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D2A J20: HIGGINS-PUMAS vs VETUSO FC.
-DTSTART;VALUE=DATE-TIME:20250308T143000Z
-DTEND;VALUE=DATE-TIME:20250308T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_2A_20_416_624
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
- pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
- erieure: Bleu\n\nContact équipe domicile: De Biolley Ph. (0477.23.31.25 -
-  philippe.debiolley@gmail.com)\n\nAccès voiture : En venant de Bruxelles 
- par la chaussée de Wavre\, rejoindre le du début de l'autoroute Bruxelle
- s-Namur\, utiliser la bande de droite pendant +/- 200 m. et descendre deva
- nt le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (en desso
- us de l'autoroute). Le terrain se trouve à 200 m. Le stade est fléché.\
- n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabss
- a: https://calabssa.be/c/624_1_vetuso_fc
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER;CN="De Biolley Ph.";ROLE=Secrétaire:MAILTO:philippe.debiolley@g
- mail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J21: VETUSO FC. vs SCHEUT FC
-DTSTART;VALUE=DATE-TIME:20250315T130000Z
-DTEND;VALUE=DATE-TIME:20250315T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_2A_21_624_274
+SUMMARY:ABSSA D2A J26: VETUSO FC. vs TOURINNOIS FC
+DTSTART;VALUE=DATE-TIME:20260321T130000Z
+DTEND;VALUE=DATE-TIME:20260321T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_2A_26_624_292
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir\n
- \nContact équipe domicile: Day N. (0494.57.83.26 - nicolas.day@ucb.com)\n
- \nAccès voiture : Venant de Bruxelles prendre le Ring Ouest\, sortie Gena
- ppe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi) direction
-  Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le carrefour
- \, tout droit direction route du sucre.\n\nVérifiez toujours ces infos su
- r http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/624_1_vet
- uso_fc
-GEO:50.6007528;4.4472782
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge\
+ n\nContact équipe domicile: Day N. (0494.57.83.26 - nicolas.day@ucb.com)\
+ n\nAccès voiture : Venant de Bruxelles prendre le Ring Ouest\, sortie Gen
+ appe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi) directio
+ n Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le carrefou
+ r\, tout droit direction route du sucre.\n\nVérifiez toujours ces infos s
+ ur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/624_1_ve
+ tuso_fc
+GEO:50.601458;4.44982
 LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
 ORGANIZER;CN="Day N.";ROLE=Secrétaire:MAILTO:nicolas.day@ucb.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D2A J22: FORESTOIS SC vs VETUSO FC.
-DTSTART;VALUE=DATE-TIME:20250322T130000Z
-DTEND;VALUE=DATE-TIME:20250322T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_2A_22_152_624
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu\n
- \nContact équipe domicile: Janssens P. (0479.95.08.14 - patj.scf@gmail.co
- m)\n\nAccès voiture : Au départ de la Place St. Denis à Forest prendre 
- la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à dro
- ite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gauche 
- (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du Com
- plexe se trouve à hauteur de City Cart\, à gauche de la route.\n\nVérif
- iez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:
- //calabssa.be/c/624_1_vetuso_fc
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
 END:VEVENT
 END:VCALENDAR

@@ -4,51 +4,186 @@ PRODID:637_1_spartak_synergy
 X-WR-CALDESC:Les matches du club SPARTAK SYNERGY (equipe 1) en ABSSA.
 X-WR-CALNAME:ABSSA: SPARTAK SYNERGY (eq. 1)
 BEGIN:VEVENT
-SUMMARY:ABSSA D4D J23: MASIA CITY vs SPARTAK SYNERGY
-DTSTART;VALUE=DATE-TIME:20240831T103000Z
-DTEND;VALUE=DATE-TIME:20240831T120000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4D_23_661_637
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
- pale équipe domicile: Rouge-Noir\nCouleur principale équipe exterieure: 
- Rouge et blanc\n\nContact équipe domicile: Arnould L (0471.01.18.14 - mas
- iacity@gmail.com)\n\nAccès voiture : A partir de Bruxelles\, prendre la E
-  411 en direction de Namur. Prendre la sortie N° 8 puis à droite la bret
- elle pour la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +
- /- 6\,5 km\, au rond-point\, prendre la sortie 1 vers la N 420 Chée. de l
- a Libération\, puis à gauche dans la rue de la Grande lecke.\n\nVérifie
- z toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://
- calabssa.be/c/637_1_spartak_synergy
-GEO:50.7540176;4.7835618
-LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
-ORGANIZER;CN="Arnould L";ROLE=Secrétaire:MAILTO:masiacity@gmail.com
+SUMMARY:ABSSA D4B J1: SPARTAK SYNERGY vs STENDHAL MADIP
+DTSTART;VALUE=DATE-TIME:20250830T133000Z
+DTEND;VALUE=DATE-TIME:20250830T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_4B_1_637_214
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: M07\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
+ re: Rouge rayé de noir\n\nContact équipe domicile: Bailly N. (0491.16.78
+ .27 - nm.bailly@gmail.com)\n\nAccès voiture : Ring de Bruxelles (RO)\, so
+ rtie Jette-Wemmel (n° 9)\, direction Merchtem. A Brussegem au carrefour A
+ sse-Wolvertem\, prendre direction Asse. Après l'église\, prendre la 1èr
+ e à main droite (direction Mollem). Après 2 km. prendre la Kouterstraat 
+ qui se trouve juste en face de l'église.\n\nVérifiez toujours ces infos 
+ sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/637_1_s
+ partak_synergy
+GEO:50.9278555;4.2227708
+LOCATION:Kouter 29\, 1730 Mollem\, Belgique
+ORGANIZER;CN="Bailly N.";ROLE=Secrétaire:MAILTO:nm.bailly@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4D J1: COMP. CINEMA R vs SPARTAK SYNERGY
-DTSTART;VALUE=DATE-TIME:20240907T103000Z
-DTEND;VALUE=DATE-TIME:20240907T120000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4D_1_16_637
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: E07\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Rouge 
- et blanc\n\nContact équipe domicile: El Maimouni F (0484.08.93.29 - compa
- gnonscinema016@gmail.com)\n\nAccès voiture : Boulevard Lambermont\, prend
- re le boulevard Léopold III\, direction aéroport de Bruxelles-National\,
-  au 3ème feu de signalisation prendre à droite. le terrain se trouve à 
- 50 m.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur c
- alabssa: https://calabssa.be/c/637_1_spartak_synergy
-GEO:50.8691994;4.406709999999999
-LOCATION:Complexe Sportif Evere\, Avenue des Anciens Combattants 300\, 114
- 0 Evere\, Belgique
-ORGANIZER;CN="El Maimouni F";ROLE=Secrétaire:MAILTO:compagnonscinema016@g
- mail.com
+SUMMARY:ABSSA D4B J2: RAYO LATINO vs SPARTAK SYNERGY
+DTSTART;VALUE=DATE-TIME:20250906T110000Z
+DTEND;VALUE=DATE-TIME:20250906T123000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_4B_2_572_637
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
+ pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
+ e: Rouge et blanc\n\nContact équipe domicile: Morales J. (0488.48.67.69 -
+  rayolatino@gmail.com)\n\nAccès voiture : Place Meiser\, descendre le bou
+ levard Lambermont. Au 3ème feu de signalisation prendre à gauche\, puis 
+ la première à droite.\n\nVérifiez toujours ces infos sur http://www.abs
+ sa.be/\nVoir sur calabssa: https://calabssa.be/c/637_1_spartak_synergy
+GEO:50.8666341;4.3823667
+LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
+ aerbeek\, Belgique
+ORGANIZER;CN="Morales J.";ROLE=Secrétaire:MAILTO:rayolatino@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4D J2: SPARTAK SYNERGY vs BRITISH UNITED (Eq. 4)
-DTSTART;VALUE=DATE-TIME:20240914T130000Z
-DTEND;VALUE=DATE-TIME:20240914T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4D_2_637_132
+SUMMARY:ABSSA D4B J3: SPARTAK SYNERGY vs BRUSSELS BRITISH R (Eq. 4)
+DTSTART;VALUE=DATE-TIME:20250913T133000Z
+DTEND;VALUE=DATE-TIME:20250913T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_4B_3_637_1
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: M07\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
+ re: Blanc\n\nContact équipe domicile: Bailly N. (0491.16.78.27 - nm.baill
+ y@gmail.com)\n\nAccès voiture : Ring de Bruxelles (RO)\, sortie Jette-Wem
+ mel (n° 9)\, direction Merchtem. A Brussegem au carrefour Asse-Wolvertem\
+ , prendre direction Asse. Après l'église\, prendre la 1ère à main droi
+ te (direction Mollem). Après 2 km. prendre la Kouterstraat qui se trouve 
+ juste en face de l'église.\n\nVérifiez toujours ces infos sur http://www
+ .abssa.be/\nVoir sur calabssa: https://calabssa.be/c/637_1_spartak_synergy
+GEO:50.9278555;4.2227708
+LOCATION:Kouter 29\, 1730 Mollem\, Belgique
+ORGANIZER;CN="Bailly N.";ROLE=Secrétaire:MAILTO:nm.bailly@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J4: DUDEN SPORT R vs SPARTAK SYNERGY
+DTSTART;VALUE=DATE-TIME:20250920T133000Z
+DTEND;VALUE=DATE-TIME:20250920T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_4B_4_22_637
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge 
+ et blanc\n\nContact équipe domicile: Isabeaux A (0472.34.00.24 - arnaud86
+ 84@hotmail.be)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 3
+ 00 m. en direction de Lennik\, prendre à droite.\nVenant de la chaussée 
+ de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bl
+ d. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en dir
+ ection de Lennik.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+ \nVoir sur calabssa: https://calabssa.be/c/637_1_spartak_synergy
+GEO:50.8177358;4.2557195
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER;CN="Isabeaux A";ROLE=Secrétaire:MAILTO:arnaud8684@hotmail.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J5: SPARTAK SYNERGY vs FAUBOURG-BRAINOISE
+DTSTART;VALUE=DATE-TIME:20250927T133000Z
+DTEND;VALUE=DATE-TIME:20250927T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_4B_5_637_100
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: M07\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
+ re: Rouge\n\nContact équipe domicile: Bailly N. (0491.16.78.27 - nm.baill
+ y@gmail.com)\n\nAccès voiture : Ring de Bruxelles (RO)\, sortie Jette-Wem
+ mel (n° 9)\, direction Merchtem. A Brussegem au carrefour Asse-Wolvertem\
+ , prendre direction Asse. Après l'église\, prendre la 1ère à main droi
+ te (direction Mollem). Après 2 km. prendre la Kouterstraat qui se trouve 
+ juste en face de l'église.\n\nVérifiez toujours ces infos sur http://www
+ .abssa.be/\nVoir sur calabssa: https://calabssa.be/c/637_1_spartak_synergy
+GEO:50.9278555;4.2227708
+LOCATION:Kouter 29\, 1730 Mollem\, Belgique
+ORGANIZER;CN="Bailly N.";ROLE=Secrétaire:MAILTO:nm.bailly@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J6: BRUSSELS LTC (Eq. 3) vs SPARTAK SYNERGY
+DTSTART;VALUE=DATE-TIME:20251004T130000Z
+DTEND;VALUE=DATE-TIME:20251004T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_4B_6_39_637
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Ro
+ uge et blanc\n\nContact équipe domicile: Prudhomme D (0478.49.26.08 - bru
+ sselsltc039@gmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre l
+ e Ring Est direction Waterloo. Sortir au pont de Groenendael\, direction L
+ a Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\,
+  toujours tout droit. Au feu de signalisation et le carrefour de La Hulpe\
+ , tout droit direction Genval. Au feu de signalisation prendre à gauche e
+ t ensuite directement à droite\, l'avenue Soyer\, derrière le G.B. Le te
+ rrain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.a
+ bssa.be/\nVoir sur calabssa: https://calabssa.be/c/637_1_spartak_synergy
+GEO:50.7308998;4.4944678
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Prudhomme D";ROLE=Secrétaire:MAILTO:brusselsltc039@gmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J7: SPARTAK SYNERGY vs L'EKIP
+DTSTART;VALUE=DATE-TIME:20251011T133000Z
+DTEND;VALUE=DATE-TIME:20251011T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_4B_7_637_662
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: M07\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
+ re: Blanc\n\nContact équipe domicile: Bailly N. (0491.16.78.27 - nm.baill
+ y@gmail.com)\n\nAccès voiture : Ring de Bruxelles (RO)\, sortie Jette-Wem
+ mel (n° 9)\, direction Merchtem. A Brussegem au carrefour Asse-Wolvertem\
+ , prendre direction Asse. Après l'église\, prendre la 1ère à main droi
+ te (direction Mollem). Après 2 km. prendre la Kouterstraat qui se trouve 
+ juste en face de l'église.\n\nVérifiez toujours ces infos sur http://www
+ .abssa.be/\nVoir sur calabssa: https://calabssa.be/c/637_1_spartak_synergy
+GEO:50.9278555;4.2227708
+LOCATION:Kouter 29\, 1730 Mollem\, Belgique
+ORGANIZER;CN="Bailly N.";ROLE=Secrétaire:MAILTO:nm.bailly@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J8: WATERMAEL FC (Eq. 2) vs SPARTAK SYNERGY
+DTSTART;VALUE=DATE-TIME:20251018T133000Z
+DTEND;VALUE=DATE-TIME:20251018T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_4B_8_611_637
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge 
+ et blanc\n\nContact équipe domicile: Deschamps J. (0477.67.76.37 - jul_de
+ sch@hotmail.com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\n
+ En venant de Zaventem\, prendre à gauche à la sortie\, en venant de Char
+ leroi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond
+  point. Le terrain se trouve en face de la pompe à essence Q8.\n\nVérifi
+ ez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:/
+ /calabssa.be/c/637_1_spartak_synergy
+GEO:50.8833029;4.3163788
+LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
+ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J9: SPARTAK SYNERGY vs FORESTOIS SC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20251025T133000Z
+DTEND;VALUE=DATE-TIME:20251025T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_4B_9_637_152
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: M07\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
+ re: Noir\n\nContact équipe domicile: Bailly N. (0491.16.78.27 - nm.bailly
+ @gmail.com)\n\nAccès voiture : Ring de Bruxelles (RO)\, sortie Jette-Wemm
+ el (n° 9)\, direction Merchtem. A Brussegem au carrefour Asse-Wolvertem\,
+  prendre direction Asse. Après l'église\, prendre la 1ère à main droit
+ e (direction Mollem). Après 2 km. prendre la Kouterstraat qui se trouve j
+ uste en face de l'église.\n\nVérifiez toujours ces infos sur http://www.
+ abssa.be/\nVoir sur calabssa: https://calabssa.be/c/637_1_spartak_synergy
+GEO:50.9278555;4.2227708
+LOCATION:Kouter 29\, 1730 Mollem\, Belgique
+ORGANIZER;CN="Bailly N.";ROLE=Secrétaire:MAILTO:nm.bailly@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J11: SPARTAK SYNERGY vs BOUKS  FC
+DTSTART;VALUE=DATE-TIME:20251115T143000Z
+DTEND;VALUE=DATE-TIME:20251115T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_4B_11_637_579
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: M07\n\nCouleur princi
  pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
  re: Bleu\n\nContact équipe domicile: Bailly N. (0491.16.78.27 - nm.bailly
@@ -58,37 +193,222 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: M07\n\nCouleur princi
  e (direction Mollem). Après 2 km. prendre la Kouterstraat qui se trouve j
  uste en face de l'église.\n\nVérifiez toujours ces infos sur http://www.
  abssa.be/\nVoir sur calabssa: https://calabssa.be/c/637_1_spartak_synergy
-GEO:50.9278393;4.2227906
+GEO:50.9278555;4.2227708
 LOCATION:Kouter 29\, 1730 Mollem\, Belgique
 ORGANIZER;CN="Bailly N.";ROLE=Secrétaire:MAILTO:nm.bailly@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4D J3: GREEN DEVILS vs SPARTAK SYNERGY
-DTSTART;VALUE=DATE-TIME:20240921T120000Z
-DTEND;VALUE=DATE-TIME:20240921T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4D_3_90_637
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: E08\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Rouge 
- et blanc\n\nContact équipe domicile: Vandenbroeck K. (0477.66.15.69 - gre
- endevils090@hotmail.com)\n\nAccès voiture : Le terrain se trouve derrièr
- e l'église St. Vincent\n\nVérifiez toujours ces infos sur http://www.abs
- sa.be/\nVoir sur calabssa: https://calabssa.be/c/637_1_spartak_synergy
-GEO:50.8803867;4.4003168
-LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue Stroobants 75\, 1140 Evere\,
-  Belgique
-ORGANIZER;CN="Vandenbroeck K.";ROLE=Secrétaire:MAILTO:greendevils090@hotm
- ail.com
+SUMMARY:ABSSA D4B J12: SPARTAK SYNERGY vs SANSERIF FC
+DTSTART;VALUE=DATE-TIME:20251122T143000Z
+DTEND;VALUE=DATE-TIME:20251122T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_4B_12_637_657
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: M07\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
+ re: Bleu marine\n\nContact équipe domicile: Bailly N. (0491.16.78.27 - nm
+ .bailly@gmail.com)\n\nAccès voiture : Ring de Bruxelles (RO)\, sortie Jet
+ te-Wemmel (n° 9)\, direction Merchtem. A Brussegem au carrefour Asse-Wolv
+ ertem\, prendre direction Asse. Après l'église\, prendre la 1ère à mai
+ n droite (direction Mollem). Après 2 km. prendre la Kouterstraat qui se t
+ rouve juste en face de l'église.\n\nVérifiez toujours ces infos sur http
+ ://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/637_1_spartak_s
+ ynergy
+GEO:50.9278555;4.2227708
+LOCATION:Kouter 29\, 1730 Mollem\, Belgique
+ORGANIZER;CN="Bailly N.";ROLE=Secrétaire:MAILTO:nm.bailly@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4D J5: FORESTOIS SC (Eq. 2) vs SPARTAK SYNERGY
-DTSTART;VALUE=DATE-TIME:20241005T133000Z
-DTEND;VALUE=DATE-TIME:20241005T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4D_5_152_637
+SUMMARY:ABSSA D4B J13: TIEKSS WEMMEL vs SPARTAK SYNERGY
+DTSTART;VALUE=DATE-TIME:20251129T134500Z
+DTEND;VALUE=DATE-TIME:20251129T151500Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_4B_13_644_637
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W16\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge 
+ et blanc\n\nContact équipe domicile: Mad. De Decker N (0477.64.40.18 - in
+ fo@tiekss.org)\n\nAccès voiture : Ring RO\, afrit Wemmel-Merchtem (n° 9)
+ \, richting Merchtem volgen via de Is. Meyskensstraat tot aan de rotonde\,
+  op de rotonde de 4de afslag nemen\, Diepstraat deze vloeit over in de Ste
+ enweg op Brussel\, 50 m. voorbij het eerste kruispunt met verkeerslichten\
+ , links van de steenweg\, bevindt zich het stadium (parking)\n\nVérifiez 
+ toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://ca
+ labssa.be/c/637_1_spartak_synergy
+GEO:50.90024;4.4859439
+LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
+  Wemmel\, Belgique
+ORGANIZER;CN="Mad. De Decker N";ROLE=Secrétaire:MAILTO:info@tiekss.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J14: STENDHAL MADIP vs SPARTAK SYNERGY
+DTSTART;VALUE=DATE-TIME:20251206T143000Z
+DTEND;VALUE=DATE-TIME:20251206T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_4B_14_214_637
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Rouge rayé de noir\nCouleur principale équipe ext
+ erieure: Rouge et blanc\n\nContact équipe domicile: Remiche R. (0483.70.0
+ 3.95 - Raphael.Remiche@gmail.com)\n\nAccès voiture : Au départ de la Pla
+ ce St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à la rue 
+ de la Soierie (4ème rue à droite) et dans la rue de la Soierie rouler en
+ v. 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique) penda
+ nt env. 500 m. L'entrée du Complexe se trouve à hauteur de City Cart\, 
+ à gauche de la route.\n\nVérifiez toujours ces infos sur http://www.abss
+ a.be/\nVoir sur calabssa: https://calabssa.be/c/637_1_spartak_synergy
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER;CN="Remiche R.";ROLE=Secrétaire:MAILTO:Raphael.Remiche@gmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J15: SPARTAK SYNERGY vs RAYO LATINO
+DTSTART;VALUE=DATE-TIME:20251213T143000Z
+DTEND;VALUE=DATE-TIME:20251213T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_4B_15_637_572
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: M07\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
+ re: Rouge et noir\n\nContact équipe domicile: Bailly N. (0491.16.78.27 - 
+ nm.bailly@gmail.com)\n\nAccès voiture : Ring de Bruxelles (RO)\, sortie J
+ ette-Wemmel (n° 9)\, direction Merchtem. A Brussegem au carrefour Asse-Wo
+ lvertem\, prendre direction Asse. Après l'église\, prendre la 1ère à m
+ ain droite (direction Mollem). Après 2 km. prendre la Kouterstraat qui se
+  trouve juste en face de l'église.\n\nVérifiez toujours ces infos sur ht
+ tp://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/637_1_spartak
+ _synergy
+GEO:50.9278555;4.2227708
+LOCATION:Kouter 29\, 1730 Mollem\, Belgique
+ORGANIZER;CN="Bailly N.";ROLE=Secrétaire:MAILTO:nm.bailly@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J16: BRUSSELS BRITISH R (Eq. 4) vs SPARTAK SYNERGY
+DTSTART;VALUE=DATE-TIME:20260110T113000Z
+DTEND;VALUE=DATE-TIME:20260110T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_4B_16_1_637
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
+  et blanc\n\nContact équipe domicile: O'Connor G (0456.54.46.67 - abssa-s
+ ec@rbbfc.org)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosi
+ ères. Passer devant l'église\, longer l'autoroute et tourner à droite a
+ u cimetière des animaux. Terrain à 200 m.\n\nVérifiez toujours ces info
+ s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/637_1
+ _spartak_synergy
+GEO:50.7264542;4.5530681
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="O'Connor G";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J17: SPARTAK SYNERGY vs DUDEN SPORT R
+DTSTART;VALUE=DATE-TIME:20260117T143000Z
+DTEND;VALUE=DATE-TIME:20260117T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_4B_17_637_22
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: M07\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
+ re: Bleu\n\nContact équipe domicile: Bailly N. (0491.16.78.27 - nm.bailly
+ @gmail.com)\n\nAccès voiture : Ring de Bruxelles (RO)\, sortie Jette-Wemm
+ el (n° 9)\, direction Merchtem. A Brussegem au carrefour Asse-Wolvertem\,
+  prendre direction Asse. Après l'église\, prendre la 1ère à main droit
+ e (direction Mollem). Après 2 km. prendre la Kouterstraat qui se trouve j
+ uste en face de l'église.\n\nVérifiez toujours ces infos sur http://www.
+ abssa.be/\nVoir sur calabssa: https://calabssa.be/c/637_1_spartak_synergy
+GEO:50.9278555;4.2227708
+LOCATION:Kouter 29\, 1730 Mollem\, Belgique
+ORGANIZER;CN="Bailly N.";ROLE=Secrétaire:MAILTO:nm.bailly@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J18: FAUBOURG-BRAINOISE vs SPARTAK SYNERGY
+DTSTART;VALUE=DATE-TIME:20260124T140000Z
+DTEND;VALUE=DATE-TIME:20260124T153000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_4B_18_100_637
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rouge
+  et blanc\n\nContact équipe domicile: Herpain D. (0474.79.02.18 - daniel.
+ herpain@skynet.be)\n\nAccès voiture : En venant de Bruxelles\, emprunter 
+ la chaussée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au 
+ dit carrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur cette cha
+ ussée\, au deuxième feu de signalisation\, prendre à droite\, le terrai
+ n se trouve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur
+  http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/637_1_spar
+ tak_synergy
+GEO:50.6827211;4.3844421
+LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud\, Belgique
+ORGANIZER;CN="Herpain D.";ROLE=Secrétaire:MAILTO:daniel.herpain@skynet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J19: SPARTAK SYNERGY vs BRUSSELS LTC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20260131T143000Z
+DTEND;VALUE=DATE-TIME:20260131T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_4B_19_637_39
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: M07\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
+ re: Bordeaux\n\nContact équipe domicile: Bailly N. (0491.16.78.27 - nm.ba
+ illy@gmail.com)\n\nAccès voiture : Ring de Bruxelles (RO)\, sortie Jette-
+ Wemmel (n° 9)\, direction Merchtem. A Brussegem au carrefour Asse-Wolvert
+ em\, prendre direction Asse. Après l'église\, prendre la 1ère à main d
+ roite (direction Mollem). Après 2 km. prendre la Kouterstraat qui se trou
+ ve juste en face de l'église.\n\nVérifiez toujours ces infos sur http://
+ www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/637_1_spartak_syne
+ rgy
+GEO:50.9278555;4.2227708
+LOCATION:Kouter 29\, 1730 Mollem\, Belgique
+ORGANIZER;CN="Bailly N.";ROLE=Secrétaire:MAILTO:nm.bailly@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J20: L'EKIP vs SPARTAK SYNERGY
+DTSTART;VALUE=DATE-TIME:20260207T123000Z
+DTEND;VALUE=DATE-TIME:20260207T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_4B_20_662_637
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
+  et blanc\n\nContact équipe domicile: Maes A (0471.66.04.74 - lekipoffici
+ elle@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Namur / Luxe
+ mbourg\, prendre la sortie n° 6 Wavre\, à gauche N 238 direction Wavre. 
+ Au rond-	point 2ième sortie N238/Blvd. de l'Europe direction Wavre Centre
+ . Entrer dans Wavre puis à gauche N 238\, à gauche N 239. 	Au rond-point
+  prendre la première sortie Rue Haute\, continuer sur rue de Bruxelles\, 
+ continuer sur rue Saint-Roch\, continuer 	sur rue Joseph Joppart. Prendre 
+ à droite l'avenue du Centre Sportif.\n\nVérifiez toujours ces infos sur 
+ http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/637_1_spart
+ ak_synergy
+GEO:50.720927;4.617368
+LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
+  Belgique
+ORGANIZER;CN="Maes A";ROLE=Secrétaire:MAILTO:lekipofficielle@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J21: SPARTAK SYNERGY vs WATERMAEL FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260214T143000Z
+DTEND;VALUE=DATE-TIME:20260214T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_4B_21_637_611
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: M07\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
+ re: Bleu\n\nContact équipe domicile: Bailly N. (0491.16.78.27 - nm.bailly
+ @gmail.com)\n\nAccès voiture : Ring de Bruxelles (RO)\, sortie Jette-Wemm
+ el (n° 9)\, direction Merchtem. A Brussegem au carrefour Asse-Wolvertem\,
+  prendre direction Asse. Après l'église\, prendre la 1ère à main droit
+ e (direction Mollem). Après 2 km. prendre la Kouterstraat qui se trouve j
+ uste en face de l'église.\n\nVérifiez toujours ces infos sur http://www.
+ abssa.be/\nVoir sur calabssa: https://calabssa.be/c/637_1_spartak_synergy
+GEO:50.9278555;4.2227708
+LOCATION:Kouter 29\, 1730 Mollem\, Belgique
+ORGANIZER;CN="Bailly N.";ROLE=Secrétaire:MAILTO:nm.bailly@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J22: FORESTOIS SC (Eq. 2) vs SPARTAK SYNERGY
+DTSTART;VALUE=DATE-TIME:20260221T143000Z
+DTEND;VALUE=DATE-TIME:20260221T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_4B_22_152_637
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
  pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge 
- et blanc\n\nContact équipe domicile: Janssens P. (0479.95.08.14 - patj.sc
+ et blanc\n\nContact équipe domicile: Janssens P. (0484.44.21.41 - patj.sc
  f@gmail.com)\n\nAccès voiture : Au départ de la Place St. Denis à Fores
  t prendre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème 
  rue à droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère 
@@ -102,31 +422,11 @@ LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\,
 ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4D J6: SPARTAK SYNERGY vs UCCLE STENDHAL
-DTSTART;VALUE=DATE-TIME:20241012T130000Z
-DTEND;VALUE=DATE-TIME:20241012T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4D_6_637_214
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: M07\n\nCouleur princi
- pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
- re: Rouge rayé de noir\n\nContact équipe domicile: Bailly N. (0491.16.78
- .27 - nm.bailly@gmail.com)\n\nAccès voiture : Ring de Bruxelles (RO)\, so
- rtie Jette-Wemmel (n° 9)\, direction Merchtem. A Brussegem au carrefour A
- sse-Wolvertem\, prendre direction Asse. Après l'église\, prendre la 1èr
- e à main droite (direction Mollem). Après 2 km. prendre la Kouterstraat 
- qui se trouve juste en face de l'église.\n\nVérifiez toujours ces infos 
- sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/637_1_s
- partak_synergy
-GEO:50.9278393;4.2227906
-LOCATION:Kouter 29\, 1730 Mollem\, Belgique
-ORGANIZER;CN="Bailly N.";ROLE=Secrétaire:MAILTO:nm.bailly@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J25: BOUKS  FC vs SPARTAK SYNERGY
-DTSTART;VALUE=DATE-TIME:20241019T133000Z
-DTEND;VALUE=DATE-TIME:20241019T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4D_25_579_637
+SUMMARY:ABSSA D4B J24: BOUKS  FC vs SPARTAK SYNERGY
+DTSTART;VALUE=DATE-TIME:20260307T143000Z
+DTEND;VALUE=DATE-TIME:20260307T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_4B_24_579_637
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge 
  et blanc\n\nContact équipe domicile: Schapira  F. (0485.60.96.01 - franco
@@ -145,228 +445,30 @@ ORGANIZER;CN="Schapira  F.";ROLE=Secrétaire:MAILTO:francois_schapira5@hot
  mail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4D J26: SPARTAK SYNERGY vs BOUSVAL GENAPPE (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20241026T130000Z
-DTEND;VALUE=DATE-TIME:20241026T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4D_26_637_401
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: M07\n\nCouleur princi
- pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
- re: Orange et bleu\n\nContact équipe domicile: Bailly N. (0491.16.78.27 -
-  nm.bailly@gmail.com)\n\nAccès voiture : Ring de Bruxelles (RO)\, sortie 
- Jette-Wemmel (n° 9)\, direction Merchtem. A Brussegem au carrefour Asse-W
- olvertem\, prendre direction Asse. Après l'église\, prendre la 1ère à 
- main droite (direction Mollem). Après 2 km. prendre la Kouterstraat qui s
- e trouve juste en face de l'église.\n\nVérifiez toujours ces infos sur h
- ttp://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/637_1_sparta
- k_synergy
-GEO:50.9278393;4.2227906
-LOCATION:Kouter 29\, 1730 Mollem\, Belgique
-ORGANIZER;CN="Bailly N.";ROLE=Secrétaire:MAILTO:nm.bailly@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J7: CHOULE AUDERGHEM (Eq. 2) vs SPARTAK SYNERGY
-DTSTART;VALUE=DATE-TIME:20241102T113000Z
-DTEND;VALUE=DATE-TIME:20241102T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4D_7_517_637
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge 
- et blanc\n\nContact équipe domicile: Vandenplas D. (0476.54.48.01 - dav_5
- 4@hotmail.com)\n\nAccès voiture : A partir du square des Archiducs\, pren
- dre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez toujou
- rs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa
- .be/c/637_1_spartak_synergy
-GEO:50.80645209999999;4.4087184
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J8: SPARTAK SYNERGY vs BRUSSELS BRITISH R (Eq. 4)
-DTSTART;VALUE=DATE-TIME:20241109T140000Z
-DTEND;VALUE=DATE-TIME:20241109T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4D_8_637_1
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: M07\n\nCouleur princi
- pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
- re: Blanc\n\nContact équipe domicile: Bailly N. (0491.16.78.27 - nm.baill
- y@gmail.com)\n\nAccès voiture : Ring de Bruxelles (RO)\, sortie Jette-Wem
- mel (n° 9)\, direction Merchtem. A Brussegem au carrefour Asse-Wolvertem\
- , prendre direction Asse. Après l'église\, prendre la 1ère à main droi
- te (direction Mollem). Après 2 km. prendre la Kouterstraat qui se trouve 
- juste en face de l'église.\n\nVérifiez toujours ces infos sur http://www
- .abssa.be/\nVoir sur calabssa: https://calabssa.be/c/637_1_spartak_synergy
-GEO:50.9278393;4.2227906
-LOCATION:Kouter 29\, 1730 Mollem\, Belgique
-ORGANIZER;CN="Bailly N.";ROLE=Secrétaire:MAILTO:nm.bailly@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J9: BLOOD SPIKES vs SPARTAK SYNERGY
-DTSTART;VALUE=DATE-TIME:20241116T130000Z
-DTEND;VALUE=DATE-TIME:20241116T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4D_9_660_637
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge 
- et blanc\n\nContact équipe domicile: Otte J. (0486.41.87.42 - bloodspikes
- 9@gmail.com)\n\nAccès voiture : A partir de Bruxelles\, prendre la E 411 
- en direction de Namur. Prendre la sortie N° 8 puis à droite la bretelle 
- pour la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\
- ,5 km\, au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Lib
- ération\, puis à gauche dans la rue de la Grande lecke.\n\nVérifiez tou
- jours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calab
- ssa.be/c/637_1_spartak_synergy
-GEO:50.7540176;4.7835618
-LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
-ORGANIZER;CN="Otte J.";ROLE=Secrétaire:MAILTO:bloodspikes9@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J12: SPARTAK SYNERGY vs BOUKS  FC
-DTSTART;VALUE=DATE-TIME:20241123T140000Z
-DTEND;VALUE=DATE-TIME:20241123T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4D_12_637_579
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: M07\n\nCouleur princi
- pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
- re: Bleu\n\nContact équipe domicile: Bailly N. (0491.16.78.27 - nm.bailly
- @gmail.com)\n\nAccès voiture : Ring de Bruxelles (RO)\, sortie Jette-Wemm
- el (n° 9)\, direction Merchtem. A Brussegem au carrefour Asse-Wolvertem\,
-  prendre direction Asse. Après l'église\, prendre la 1ère à main droit
- e (direction Mollem). Après 2 km. prendre la Kouterstraat qui se trouve j
- uste en face de l'église.\n\nVérifiez toujours ces infos sur http://www.
- abssa.be/\nVoir sur calabssa: https://calabssa.be/c/637_1_spartak_synergy
-GEO:50.9278393;4.2227906
-LOCATION:Kouter 29\, 1730 Mollem\, Belgique
-ORGANIZER;CN="Bailly N.";ROLE=Secrétaire:MAILTO:nm.bailly@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J11: WAPPERS FC vs SPARTAK SYNERGY
-DTSTART;VALUE=DATE-TIME:20241130T123000Z
-DTEND;VALUE=DATE-TIME:20241130T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4D_11_67_637
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W19\n\nCouleur princi
- pale équipe domicile: Rayé noir et blanc\nCouleur principale équipe ext
- erieure: Rouge et blanc\n\nContact équipe domicile: Vinck B. (0475.92.57.
- 30 - bernard.vinck@belgacom.net)\n\nAccès voiture : Ring de Bruxelles (RO
- )\, sortie n° 2. Prendre la direction Wezembeek-Oppem. Ensuite première 
- rue à droite (Louis Marcelisstraat) puis la troisième à droite (Sportpl
- einstraat).\nL'entrée au terrain se trouve à gauche entre les n° 16 et 
- 24.\nPar la ville : A partir du rond point Montgomery\, prendre l'Avenue d
- e Broqueville\, toujours tout droit. Passez devant le Shopping de Woluwé\
- , toujours tout droit\, passez devant le magasin "Carrefour"\, puis au 2è
- me feu de signalisation prendre à droite et ensuite tout droit. Au bout d
- e la rue prendre à droite\, le terrain se trouve à 100 mètres  sur la g
- auche.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur 
- calabssa: https://calabssa.be/c/637_1_spartak_synergy
-GEO:50.8424578;4.486587999999999
-LOCATION:Sportpleinstraat 20\, 1970 Wezembeek - Oppem\, Belgique
-ORGANIZER;CN="Vinck B.";ROLE=Secrétaire:MAILTO:bernard.vinck@belgacom.net
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J10: SPARTAK SYNERGY vs MASIA CITY
-DTSTART;VALUE=DATE-TIME:20241207T140000Z
-DTEND;VALUE=DATE-TIME:20241207T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4D_10_637_661
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: M07\n\nCouleur princi
- pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
- re: Rouge-Noir\n\nContact équipe domicile: Bailly N. (0491.16.78.27 - nm.
- bailly@gmail.com)\n\nAccès voiture : Ring de Bruxelles (RO)\, sortie Jett
- e-Wemmel (n° 9)\, direction Merchtem. A Brussegem au carrefour Asse-Wolve
- rtem\, prendre direction Asse. Après l'église\, prendre la 1ère à main
-  droite (direction Mollem). Après 2 km. prendre la Kouterstraat qui se tr
- ouve juste en face de l'église.\n\nVérifiez toujours ces infos sur http:
- //www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/637_1_spartak_sy
- nergy
-GEO:50.9278393;4.2227906
-LOCATION:Kouter 29\, 1730 Mollem\, Belgique
-ORGANIZER;CN="Bailly N.";ROLE=Secrétaire:MAILTO:nm.bailly@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J13: BOUSVAL GENAPPE (Eq. 2) vs SPARTAK SYNERGY
-DTSTART;VALUE=DATE-TIME:20241214T110000Z
-DTEND;VALUE=DATE-TIME:20241214T123000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_4D_13_401_637
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
- pale équipe domicile: Orange et bleu\nCouleur principale équipe exterieu
- re: Rouge et blanc\n\nContact équipe domicile: Toussaint Y (0475.42.41.78
-  - YUTTT1470@gmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le
-  Ring Ouest\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxe
- lles-Charleroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne
- \, traverser le carrefour\, tout droit direction route du sucre.\n\nVérif
- iez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:
- //calabssa.be/c/637_1_spartak_synergy
-GEO:50.6007528;4.4472782
-LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
-ORGANIZER;CN="Toussaint Y";ROLE=Secrétaire:MAILTO:YUTTT1470@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J14: SPARTAK SYNERGY vs COMP. CINEMA R
-DTSTART;VALUE=DATE-TIME:20250111T140000Z
-DTEND;VALUE=DATE-TIME:20250111T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_4D_14_637_16
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: M07\n\nCouleur princi
- pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
- re: Vert\n\nContact équipe domicile: Bailly N. (0491.16.78.27 - nm.bailly
- @gmail.com)\n\nAccès voiture : Ring de Bruxelles (RO)\, sortie Jette-Wemm
- el (n° 9)\, direction Merchtem. A Brussegem au carrefour Asse-Wolvertem\,
-  prendre direction Asse. Après l'église\, prendre la 1ère à main droit
- e (direction Mollem). Après 2 km. prendre la Kouterstraat qui se trouve j
- uste en face de l'église.\n\nVérifiez toujours ces infos sur http://www.
- abssa.be/\nVoir sur calabssa: https://calabssa.be/c/637_1_spartak_synergy
-GEO:50.9278393;4.2227906
-LOCATION:Kouter 29\, 1730 Mollem\, Belgique
-ORGANIZER;CN="Bailly N.";ROLE=Secrétaire:MAILTO:nm.bailly@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J15: BRITISH UNITED (Eq. 4) vs SPARTAK SYNERGY
-DTSTART;VALUE=DATE-TIME:20250118T143000Z
-DTEND;VALUE=DATE-TIME:20250118T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_4D_15_132_637
+SUMMARY:ABSSA D4B J25: SANSERIF FC vs SPARTAK SYNERGY
+DTSTART;VALUE=DATE-TIME:20260314T113000Z
+DTEND;VALUE=DATE-TIME:20260314T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_4B_25_657_637
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge 
- et blanc\n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gil
- lesvanderseypen@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, pr
- endre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (term
- inus bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez t
- oujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cal
- abssa.be/c/637_1_spartak_synergy
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Rouge et blanc\n\nContact équipe domicile: Karpowicz A. (0493.16.46.10 -
+  itsadonis0@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendr
+ e la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus
+  bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujo
+ urs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabss
+ a.be/c/637_1_spartak_synergy
 GEO:50.8423054;4.445628699999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
-ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
- gmail.com
+ORGANIZER;CN="Karpowicz A.";ROLE=Secrétaire:MAILTO:itsadonis0@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4D J16: SPARTAK SYNERGY vs GREEN DEVILS
-DTSTART;VALUE=DATE-TIME:20250125T140000Z
-DTEND;VALUE=DATE-TIME:20250125T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_4D_16_637_90
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: M07\n\nCouleur princi
- pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
- re: Vert\n\nContact équipe domicile: Bailly N. (0491.16.78.27 - nm.bailly
- @gmail.com)\n\nAccès voiture : Ring de Bruxelles (RO)\, sortie Jette-Wemm
- el (n° 9)\, direction Merchtem. A Brussegem au carrefour Asse-Wolvertem\,
-  prendre direction Asse. Après l'église\, prendre la 1ère à main droit
- e (direction Mollem). Après 2 km. prendre la Kouterstraat qui se trouve j
- uste en face de l'église.\n\nVérifiez toujours ces infos sur http://www.
- abssa.be/\nVoir sur calabssa: https://calabssa.be/c/637_1_spartak_synergy
-GEO:50.9278393;4.2227906
-LOCATION:Kouter 29\, 1730 Mollem\, Belgique
-ORGANIZER;CN="Bailly N.";ROLE=Secrétaire:MAILTO:nm.bailly@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J18: SPARTAK SYNERGY vs FORESTOIS SC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20250208T140000Z
-DTEND;VALUE=DATE-TIME:20250208T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_4D_18_637_152
+SUMMARY:ABSSA D4B J26: SPARTAK SYNERGY vs TIEKSS WEMMEL
+DTSTART;VALUE=DATE-TIME:20260321T143000Z
+DTEND;VALUE=DATE-TIME:20260321T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_4B_26_637_644
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: M07\n\nCouleur princi
  pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
  re: Noir\n\nContact équipe domicile: Bailly N. (0491.16.78.27 - nm.bailly
@@ -376,105 +478,7 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: M07\n\nCouleur princi
  e (direction Mollem). Après 2 km. prendre la Kouterstraat qui se trouve j
  uste en face de l'église.\n\nVérifiez toujours ces infos sur http://www.
  abssa.be/\nVoir sur calabssa: https://calabssa.be/c/637_1_spartak_synergy
-GEO:50.9278393;4.2227906
-LOCATION:Kouter 29\, 1730 Mollem\, Belgique
-ORGANIZER;CN="Bailly N.";ROLE=Secrétaire:MAILTO:nm.bailly@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J19: UCCLE STENDHAL vs SPARTAK SYNERGY
-DTSTART;VALUE=DATE-TIME:20250215T130000Z
-DTEND;VALUE=DATE-TIME:20250215T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_4D_19_214_637
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: U02\n\nCouleur princi
- pale équipe domicile: Rouge rayé de noir\nCouleur principale équipe ext
- erieure: Rouge et blanc\n\nContact équipe domicile: Remiche R. (0483.70.0
- 3.95 - Raphael.Remiche@gmail.com)\n\nAccès voiture : L'entrée se fait pa
- r la rue du Zwartebeek.\nPar le ring\, prendre la sortie Drogenbos-Ruisbro
- ek\, direction Uccle\, par la rue de Stalle prolongée.  Après le rond-po
- int prendre la 1ère rue à gauche\, la chaussée de Neerstalle.\nEnsuite 
- la 2ème rue à gauche\, rue du Zwartebeek\, l'entrée du complexe est sit
- uée à +/- 200 mètres sur la droite.\n\nVérifiez toujours ces infos sur
-  http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/637_1_spar
- tak_synergy
-GEO:50.7970805;4.3177254
-LOCATION:Leopold-Uccle\, Rue du Zwartebeek\, 1180 Uccle\, Belgique
-ORGANIZER;CN="Remiche R.";ROLE=Secrétaire:MAILTO:Raphael.Remiche@gmail.co
- m
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J24: SPARTAK SYNERGY vs WAPPERS FC
-DTSTART;VALUE=DATE-TIME:20250222T140000Z
-DTEND;VALUE=DATE-TIME:20250222T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_4D_24_637_67
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: M07\n\nCouleur princi
- pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
- re: Rayé noir et blanc\n\nContact équipe domicile: Bailly N. (0491.16.78
- .27 - nm.bailly@gmail.com)\n\nAccès voiture : Ring de Bruxelles (RO)\, so
- rtie Jette-Wemmel (n° 9)\, direction Merchtem. A Brussegem au carrefour A
- sse-Wolvertem\, prendre direction Asse. Après l'église\, prendre la 1èr
- e à main droite (direction Mollem). Après 2 km. prendre la Kouterstraat 
- qui se trouve juste en face de l'église.\n\nVérifiez toujours ces infos 
- sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/637_1_s
- partak_synergy
-GEO:50.9278393;4.2227906
-LOCATION:Kouter 29\, 1730 Mollem\, Belgique
-ORGANIZER;CN="Bailly N.";ROLE=Secrétaire:MAILTO:nm.bailly@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J20: SPARTAK SYNERGY vs CHOULE AUDERGHEM (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20250308T140000Z
-DTEND;VALUE=DATE-TIME:20250308T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_4D_20_637_517
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: M07\n\nCouleur princi
- pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
- re: Noir\n\nContact équipe domicile: Bailly N. (0491.16.78.27 - nm.bailly
- @gmail.com)\n\nAccès voiture : Ring de Bruxelles (RO)\, sortie Jette-Wemm
- el (n° 9)\, direction Merchtem. A Brussegem au carrefour Asse-Wolvertem\,
-  prendre direction Asse. Après l'église\, prendre la 1ère à main droit
- e (direction Mollem). Après 2 km. prendre la Kouterstraat qui se trouve j
- uste en face de l'église.\n\nVérifiez toujours ces infos sur http://www.
- abssa.be/\nVoir sur calabssa: https://calabssa.be/c/637_1_spartak_synergy
-GEO:50.9278393;4.2227906
-LOCATION:Kouter 29\, 1730 Mollem\, Belgique
-ORGANIZER;CN="Bailly N.";ROLE=Secrétaire:MAILTO:nm.bailly@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J21: BRUSSELS BRITISH R (Eq. 4) vs SPARTAK SYNERGY
-DTSTART;VALUE=DATE-TIME:20250315T113000Z
-DTEND;VALUE=DATE-TIME:20250315T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_4D_21_1_637
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
-  et blanc\n\nContact équipe domicile: O'Connor G (0456.54.46.67 - abssa-s
- ec@rbbfc.org)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosi
- ères. Passer devant l'église\, longer l'autoroute et tourner à droite a
- u cimetière des animaux. Terrain à 200 m.\n\nVérifiez toujours ces info
- s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/637_1
- _spartak_synergy
-GEO:50.7282426;4.5537189
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER;CN="O'Connor G";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4D J22: SPARTAK SYNERGY vs BLOOD SPIKES
-DTSTART;VALUE=DATE-TIME:20250322T140000Z
-DTEND;VALUE=DATE-TIME:20250322T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_4D_22_637_660
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: M07\n\nCouleur princi
- pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
- re: Noir\n\nContact équipe domicile: Bailly N. (0491.16.78.27 - nm.bailly
- @gmail.com)\n\nAccès voiture : Ring de Bruxelles (RO)\, sortie Jette-Wemm
- el (n° 9)\, direction Merchtem. A Brussegem au carrefour Asse-Wolvertem\,
-  prendre direction Asse. Après l'église\, prendre la 1ère à main droit
- e (direction Mollem). Après 2 km. prendre la Kouterstraat qui se trouve j
- uste en face de l'église.\n\nVérifiez toujours ces infos sur http://www.
- abssa.be/\nVoir sur calabssa: https://calabssa.be/c/637_1_spartak_synergy
-GEO:50.9278393;4.2227906
+GEO:50.9278555;4.2227708
 LOCATION:Kouter 29\, 1730 Mollem\, Belgique
 ORGANIZER;CN="Bailly N.";ROLE=Secrétaire:MAILTO:nm.bailly@gmail.com
 END:VEVENT

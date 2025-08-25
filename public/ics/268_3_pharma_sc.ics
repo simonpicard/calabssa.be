@@ -4,33 +4,32 @@ PRODID:268_3_pharma_sc
 X-WR-CALDESC:Les matches du club PHARMA SC (equipe 3) en ABSSA.
 X-WR-CALNAME:ABSSA: PHARMA SC (eq. 3)
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J23: PHARMA SC (Eq. 3) vs CAMPOMAIORENSE SC
-DTSTART;VALUE=DATE-TIME:20240831T113000Z
-DTEND;VALUE=DATE-TIME:20240831T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_6B_23_268_467
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Vert e
- t blanc\n\nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.d
- umidi@scarlet.be)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\
- nEn venant de Zaventem\, prendre à gauche à la sortie\, en venant de Cha
- rleroi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au ron
- d point. Le terrain se trouve en face de la pompe à essence Q8.\n\nVérif
- iez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:
- //calabssa.be/c/268_3_pharma_sc
-GEO:50.883299;4.316365
-LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
-ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
- e
+SUMMARY:ABSSA D6B J1: WATERMAEL CS vs PHARMA SC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20250830T133000Z
+DTEND;VALUE=DATE-TIME:20250830T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_6B_1_375_268
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Vert\
+ n\nContact équipe domicile: De Greve M. (0495.22.83.19 - micheldegreve08@
+ gmail.com)\n\nAccès voiture : A partir du square des Archiducs\, prendre 
+ la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez toujours c
+ es infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/
+ c/268_3_pharma_sc
+GEO:50.80645209999999;4.4087184
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="De Greve M.";ROLE=Secrétaire:MAILTO:micheldegreve08@gmail.c
+ om
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J1: PHARMA SC (Eq. 3) vs BRUSSELS BRITISH R (Eq. 6)
-DTSTART;VALUE=DATE-TIME:20240907T113000Z
-DTEND;VALUE=DATE-TIME:20240907T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_6B_1_268_1
+SUMMARY:ABSSA D6B J2: PHARMA SC (Eq. 3) vs TOURINNOIS FC (Eq. 4)
+DTSTART;VALUE=DATE-TIME:20250906T113000Z
+DTEND;VALUE=DATE-TIME:20250906T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_6B_2_268_292
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Blanc\
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Rouge\
  n\nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.dumidi@sc
  arlet.be)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nEn vena
  nt de Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi p
@@ -38,76 +37,17 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
   Le terrain se trouve en face de la pompe à essence Q8.\n\nVérifiez touj
  ours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabs
  sa.be/c/268_3_pharma_sc
-GEO:50.883299;4.316365
+GEO:50.8833029;4.3163788
 LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
 ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
  e
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J3: PHARMA SC (Eq. 3) vs ECUSSON FC
-DTSTART;VALUE=DATE-TIME:20240921T113000Z
-DTEND;VALUE=DATE-TIME:20240921T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_6B_3_268_404
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Jaune 
- et Bleu\n\nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.d
- umidi@scarlet.be)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\
- nEn venant de Zaventem\, prendre à gauche à la sortie\, en venant de Cha
- rleroi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au ron
- d point. Le terrain se trouve en face de la pompe à essence Q8.\n\nVérif
- iez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:
- //calabssa.be/c/268_3_pharma_sc
-GEO:50.883299;4.316365
-LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
-ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
- e
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J4: COIN DU BALAI FC (Eq. 2) vs PHARMA SC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20240928T133000Z
-DTEND;VALUE=DATE-TIME:20240928T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_6B_4_229_268
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
- pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
-  Vert\n\nContact équipe domicile: Rosenfeld J. (0485.05.40.06 - rosenfeld
- jean@hotmail.com)\n\nAccès voiture : A partir du square des Archiducs\, p
- rendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez tou
- jours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calab
- ssa.be/c/268_3_pharma_sc
-GEO:50.80645209999999;4.4087184
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER;CN="Rosenfeld J.";ROLE=Secrétaire:MAILTO:rosenfeldjean@hotmail.
- com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J5: PHARMA SC (Eq. 3) vs AZUR RCS (Eq. 5)
-DTSTART;VALUE=DATE-TIME:20241005T113000Z
-DTEND;VALUE=DATE-TIME:20241005T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_6B_5_268_109
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Bleu\n
- \nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.dumidi@sca
- rlet.be)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nEn venan
- t de Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi pr
- endre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point. 
- Le terrain se trouve en face de la pompe à essence Q8.\n\nVérifiez toujo
- urs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabss
- a.be/c/268_3_pharma_sc
-GEO:50.883299;4.316365
-LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
-ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
- e
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J6: TRINQUANT (Eq. 2) vs PHARMA SC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20241012T120000Z
-DTEND;VALUE=DATE-TIME:20241012T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_6B_6_445_268
+SUMMARY:ABSSA D6B J3: TRINQUANT (Eq. 2) vs PHARMA SC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20250913T120000Z
+DTEND;VALUE=DATE-TIME:20250913T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_6B_3_445_268
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
  pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
   Vert\n\nContact équipe domicile: Bernard J-M. (0476.66.08.14 - jmbernard
@@ -125,143 +65,148 @@ ORGANIZER;CN="Bernard J-M.";ROLE=Secrétaire:MAILTO:jmbernard.trinquant@ya
  hoo.fr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J25: PHARMA SC (Eq. 3) vs NIVELLES CS (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20241019T113000Z
-DTEND;VALUE=DATE-TIME:20241019T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_6B_25_268_306
+SUMMARY:ABSSA D6B J4: PHARMA SC (Eq. 3) vs COSMOS BRUWOLF MJ (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20250920T113000Z
+DTEND;VALUE=DATE-TIME:20250920T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_6B_4_268_338
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
  pale équipe domicile: Vert\nCouleur principale équipe exterieure: Orange
-  fluo\n\nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.dum
- idi@scarlet.be)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nE
- n venant de Zaventem\, prendre à gauche à la sortie\, en venant de Charl
- eroi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond 
- point. Le terrain se trouve en face de la pompe à essence Q8.\n\nVérifie
- z toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://
- calabssa.be/c/268_3_pharma_sc
-GEO:50.883299;4.316365
+ \n\nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.dumidi@s
+ carlet.be)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nEn ven
+ ant de Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi 
+ prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point
+ . Le terrain se trouve en face de la pompe à essence Q8.\n\nVérifiez tou
+ jours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calab
+ ssa.be/c/268_3_pharma_sc
+GEO:50.8833029;4.3163788
 LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
 ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
  e
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J26: NEW ARQUOIS FC (Eq. 3) vs PHARMA SC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20241026T133000Z
-DTEND;VALUE=DATE-TIME:20241026T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_6B_26_263_268
-DESCRIPTION:Terrain synthétique: non\nCode terrain: A12\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Vert\n
- \nContact équipe domicile: Beka J-M. (0495.25.31.25 - jmbeka73@gmail.com)
- \n\nAccès voiture : Autoroute E 19 (Bruxelles-Charleroi)\, sortie Arquenn
- es. Direction Seneffe-La-Louvière. A la station d'essence Total\, prendre
-  à droite pendant +/- 700 mètres.\nAu rond point\, prendre à droite en 
- direction du château de La Rocq\, passez sous le pont\, le terrain se tro
- uve à 100 mètres (à proximité du cimetière).\n\nVérifiez toujours ce
- s infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c
- /268_3_pharma_sc
-GEO:50.5690988;4.2677281
-LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion\, 7181 Arquennes\, B
- elgique
-ORGANIZER;CN="Beka J-M.";ROLE=Secrétaire:MAILTO:jmbeka73@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J7: PHARMA SC (Eq. 3) vs IDEAL RANGERS R
-DTSTART;VALUE=DATE-TIME:20241102T123000Z
-DTEND;VALUE=DATE-TIME:20241102T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_6B_7_268_47
+SUMMARY:ABSSA D6B J6: PHARMA SC (Eq. 3) vs CAMPOMAIORENSE SC
+DTSTART;VALUE=DATE-TIME:20251004T113000Z
+DTEND;VALUE=DATE-TIME:20251004T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_6B_6_268_467
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Orange
-  et Noir\n\nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.
- dumidi@scarlet.be)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.
- \nEn venant de Zaventem\, prendre à gauche à la sortie\, en venant de Ch
- arleroi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au ro
- nd point. Le terrain se trouve en face de la pompe à essence Q8.\n\nVéri
- fiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https
- ://calabssa.be/c/268_3_pharma_sc
-GEO:50.883299;4.316365
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Vert e
+ t blanc\n\nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.d
+ umidi@scarlet.be)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\
+ nEn venant de Zaventem\, prendre à gauche à la sortie\, en venant de Cha
+ rleroi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au ron
+ d point. Le terrain se trouve en face de la pompe à essence Q8.\n\nVérif
+ iez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:
+ //calabssa.be/c/268_3_pharma_sc
+GEO:50.8833029;4.3163788
 LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
 ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
  e
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J8: TUBIFOOT AS vs PHARMA SC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20241109T143000Z
-DTEND;VALUE=DATE-TIME:20241109T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_6B_8_451_268
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: T06\n\nCouleur princi
- pale équipe domicile: Jaune et Rouge\nCouleur principale équipe exterieu
- re: Vert\n\nContact équipe domicile: Girardo. M (0491.35.69.81 - astubifo
- ot@gmail.com)\n\nAccès voiture : •En venant de Bruxelles : Prendre le R
- O en direction Mons-Bergen / Charleroi - prendre la sortie 21 et continuer
-  sur la E429 direction Lille/Rijsel. Prendre la sortie 23 Tubize / Tubeke 
- et continuer sur la chaussée d’Hondzocht . Passer 2  ronds point jusqu
- ’à la chaussée de Bruxelles (N6)\, prendre à droite Rue de Bruxelles 
- et traverser le centre de Tubize en direction de Braine-le-Comte : rue de 
- Bruxelles et Chaussée de Mons. Aprè IPES\, prendre la première rue à g
- auche (rue d’Atina) suivre le panneau cimetière-parc à container-ferme
-  Massart.  Continuer 10 m. jusqu’au parking du cimetière\, l’entrée 
- du stade se trouve en face du parking.\n\nVérifiez toujours ces infos sur
-  http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/268_3_phar
- ma_sc
-GEO:50.683352;4.1953276
-LOCATION:Rue d'Atina \, 1480  Tubize\, Belgique
-ORGANIZER;CN="Girardo. M";ROLE=Secrétaire:MAILTO:astubifoot@gmail.com
+SUMMARY:ABSSA D6B J7: ETTEKIJS (Eq. 3) vs PHARMA SC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20251011T120000Z
+DTEND;VALUE=DATE-TIME:20251011T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_6B_7_343_268
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Noir rayé de blanc\nCouleur principale équipe ext
+ erieure: Vert\n\nContact équipe domicile: Raes F. (0479.73.82.49 - freddy
+ .raes@gmail.com)\n\nAccès voiture : A partir du square des Archiducs\, pr
+ endre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez touj
+ ours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabs
+ sa.be/c/268_3_pharma_sc
+GEO:50.80645209999999;4.4087184
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J9: PHARMA SC (Eq. 3) vs GOALOIS (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20241116T123000Z
-DTEND;VALUE=DATE-TIME:20241116T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_6B_9_268_345
+SUMMARY:ABSSA D6B J8: PHARMA SC (Eq. 3) vs NIVELLOIS-ACLOT BS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20251018T113000Z
+DTEND;VALUE=DATE-TIME:20251018T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_6B_8_268_503
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Blanc-
- Noir\n\nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.dumi
- di@scarlet.be)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nEn
-  venant de Zaventem\, prendre à gauche à la sortie\, en venant de Charle
- roi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond p
- oint. Le terrain se trouve en face de la pompe à essence Q8.\n\nVérifiez
-  toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://c
- alabssa.be/c/268_3_pharma_sc
-GEO:50.883299;4.316365
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Rouge 
+ et noir\n\nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.d
+ umidi@scarlet.be)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\
+ nEn venant de Zaventem\, prendre à gauche à la sortie\, en venant de Cha
+ rleroi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au ron
+ d point. Le terrain se trouve en face de la pompe à essence Q8.\n\nVérif
+ iez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:
+ //calabssa.be/c/268_3_pharma_sc
+GEO:50.8833029;4.3163788
 LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
 ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
  e
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J12: NIVELLES CS (Eq. 2) vs PHARMA SC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20241123T143000Z
-DTEND;VALUE=DATE-TIME:20241123T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_6B_12_306_268
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
- pale équipe domicile: Orange fluo\nCouleur principale équipe exterieure:
-  Vert\n\nContact équipe domicile: Couteau A (0497.63.11.19 - couteau.arno
- ld.00@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoro
- ute Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sou
- s le pont de l'autoroute et prendre la direction de Nivelles. A 200 m.\, a
- u rond-point (Shopping Center)\, tourner à droite en direction de Wavre (
- petit ring de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-po
- int du Shopping Center)\, tourner à gauche \, rue de l'Industrie et pén
- étrer dans le zoning. Au bout de la rue\, avant le feu de signalisation\,
-  tourner à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVé
- rifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: htt
- ps://calabssa.be/c/268_3_pharma_sc
-GEO:50.5963705;4.3564539
-LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER;CN="Couteau A";ROLE=Secrétaire:MAILTO:couteau.arnold.00@gmail.c
- om
+SUMMARY:ABSSA D6B J9: PHARMA SC (Eq. 3) vs BRUSSELS LTC (Eq. 6)
+DTSTART;VALUE=DATE-TIME:20251025T113000Z
+DTEND;VALUE=DATE-TIME:20251025T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_6B_9_268_39
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Bordea
+ ux\n\nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.dumidi
+ @scarlet.be)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nEn v
+ enant de Zaventem\, prendre à gauche à la sortie\, en venant de Charlero
+ i prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond poi
+ nt. Le terrain se trouve en face de la pompe à essence Q8.\n\nVérifiez t
+ oujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cal
+ abssa.be/c/268_3_pharma_sc
+GEO:50.8833029;4.3163788
+LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
+ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
+ e
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J11: PHARMA SC (Eq. 3) vs FORESTOIS SC (Eq. 4)
-DTSTART;VALUE=DATE-TIME:20241130T123000Z
-DTEND;VALUE=DATE-TIME:20241130T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_6B_11_268_152
+SUMMARY:ABSSA D6B J11: PHARMA SC (Eq. 3) vs CHEVERNY SCHAERB (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20251115T123000Z
+DTEND;VALUE=DATE-TIME:20251115T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_6B_11_268_128
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Noir\n
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Jaune 
+ & Noir\n\nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.du
+ midi@scarlet.be)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\n
+ En venant de Zaventem\, prendre à gauche à la sortie\, en venant de Char
+ leroi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond
+  point. Le terrain se trouve en face de la pompe à essence Q8.\n\nVérifi
+ ez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:/
+ /calabssa.be/c/268_3_pharma_sc
+GEO:50.8833029;4.3163788
+LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
+ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J12: BRUSSELS BRITISH R (Eq. 6) vs PHARMA SC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20251122T130000Z
+DTEND;VALUE=DATE-TIME:20251122T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_6B_12_1_268
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Vert\
+ n\nContact équipe domicile: O'Connor G (0456.54.46.67 - abssa-sec@rbbfc.o
+ rg)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Pass
+ er devant l'église\, longer l'autoroute et tourner à droite au cimetièr
+ e des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur http:
+ //www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/268_3_pharma_sc
+GEO:50.7264542;4.5530681
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="O'Connor G";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J13: PHARMA SC (Eq. 3) vs AZUR RCS (Eq. 5)
+DTSTART;VALUE=DATE-TIME:20251129T123000Z
+DTEND;VALUE=DATE-TIME:20251129T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_6B_13_268_109
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Bleu\n
  \nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.dumidi@sca
  rlet.be)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nEn venan
  t de Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi pr
@@ -269,17 +214,96 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
  Le terrain se trouve en face de la pompe à essence Q8.\n\nVérifiez toujo
  urs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabss
  a.be/c/268_3_pharma_sc
-GEO:50.883299;4.316365
+GEO:50.8833029;4.3163788
 LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
 ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
  e
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J10: CAMPOMAIORENSE SC vs PHARMA SC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20241207T143000Z
-DTEND;VALUE=DATE-TIME:20241207T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_6B_10_467_268
+SUMMARY:ABSSA D6B J14: PHARMA SC (Eq. 3) vs WATERMAEL CS
+DTSTART;VALUE=DATE-TIME:20251206T123000Z
+DTEND;VALUE=DATE-TIME:20251206T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_6B_14_268_375
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Rouge\
+ n\nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.dumidi@sc
+ arlet.be)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nEn vena
+ nt de Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi p
+ rendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point.
+  Le terrain se trouve en face de la pompe à essence Q8.\n\nVérifiez touj
+ ours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabs
+ sa.be/c/268_3_pharma_sc
+GEO:50.8833029;4.3163788
+LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
+ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J15: TOURINNOIS FC (Eq. 4) vs PHARMA SC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20251213T140000Z
+DTEND;VALUE=DATE-TIME:20251213T153000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_6B_15_292_268
+DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Vert\
+ n\nContact équipe domicile: Stas De Richelle M (0473.68.59.91 - FCTourinn
+ ois@outlook.com)\n\nAccès voiture : A partir de l'autoroute Bruxelles-Nam
+ ur (E411)\, prendre la sortie  Walhain (n° 10). Au pied de la rampe d'acc
+ ès\, suivre la direction Walhain vers la droite et après 200 m. prendre 
+ à droite et 400 m. plus loin\, prendre à nouveau à droite. Le terrain s
+ e trouve à +/- 300 m. sur la gauche.\n\nVérifiez toujours ces infos sur 
+ http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/268_3_pharm
+ a_sc
+GEO:50.6412308;4.7180724
+LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
+ORGANIZER;CN="Stas De Richelle M";ROLE=Secrétaire:MAILTO:FCTourinnois@out
+ look.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J16: PHARMA SC (Eq. 3) vs TRINQUANT (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260110T123000Z
+DTEND;VALUE=DATE-TIME:20260110T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_6B_16_268_445
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Bleu m
+ arine\n\nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.dum
+ idi@scarlet.be)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nE
+ n venant de Zaventem\, prendre à gauche à la sortie\, en venant de Charl
+ eroi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond 
+ point. Le terrain se trouve en face de la pompe à essence Q8.\n\nVérifie
+ z toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://
+ calabssa.be/c/268_3_pharma_sc
+GEO:50.8833029;4.3163788
+LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
+ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J17: COSMOS BRUWOLF MJ (Eq. 2) vs PHARMA SC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20260117T130000Z
+DTEND;VALUE=DATE-TIME:20260117T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_6B_17_338_268
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Vert
+ \n\nContact équipe domicile: Engels F (0479.88.25.84 - Pitcheswa@msn.com)
+ \n\nAccès voiture : Direction cimetière de Jette\, ensuite prendre la ru
+ e du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Crocq. L
+ e terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur http://
+ www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/268_3_pharma_sc
+GEO:50.88794619999999;4.3264137
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
+ Belgique
+ORGANIZER;CN="Engels F";ROLE=Secrétaire:MAILTO:Pitcheswa@msn.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J19: CAMPOMAIORENSE SC vs PHARMA SC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20260131T143000Z
+DTEND;VALUE=DATE-TIME:20260131T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_6B_19_467_268
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W13\n\nCouleur princi
  pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
  e: Vert\n\nContact équipe domicile: Cesar Paixao I. (0496.37.12.76 - ivoc
@@ -293,89 +317,115 @@ LOCATION:Chaussée de Stockel 376\, 1150 Woluwé-Saint-Pierre\, Belgique
 ORGANIZER;CN="Cesar Paixao I.";ROLE=Secrétaire:MAILTO:ivocp1@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J13: PHARMA SC (Eq. 3) vs NEW ARQUOIS FC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20241214T123000Z
-DTEND;VALUE=DATE-TIME:20241214T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_6B_13_268_263
+SUMMARY:ABSSA D6B J20: PHARMA SC (Eq. 3) vs ETTEKIJS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20260207T123000Z
+DTEND;VALUE=DATE-TIME:20260207T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_6B_20_268_343
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Bleu\n
- \nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.dumidi@sca
- rlet.be)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nEn venan
- t de Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi pr
- endre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point. 
- Le terrain se trouve en face de la pompe à essence Q8.\n\nVérifiez toujo
- urs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabss
- a.be/c/268_3_pharma_sc
-GEO:50.883299;4.316365
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Noir r
+ ayé de blanc\n\nContact équipe domicile: Van Durme Th. (0477.71.89.93 - 
+ phie.dumidi@scarlet.be)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 J
+ ette.\nEn venant de Zaventem\, prendre à gauche à la sortie\, en venant 
+ de Charleroi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'
+ au rond point. Le terrain se trouve en face de la pompe à essence Q8.\n\n
+ Vérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: 
+ https://calabssa.be/c/268_3_pharma_sc
+GEO:50.8833029;4.3163788
 LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
 ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
  e
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J14: BRUSSELS BRITISH R (Eq. 6) vs PHARMA SC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20250111T130000Z
-DTEND;VALUE=DATE-TIME:20250111T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_6B_14_1_268
-DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Vert\
- n\nContact équipe domicile: O'Connor G (0456.54.46.67 - abssa-sec@rbbfc.o
- rg)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Pass
- er devant l'église\, longer l'autoroute et tourner à droite au cimetièr
- e des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur http:
- //www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/268_3_pharma_sc
-GEO:50.7282426;4.5537189
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER;CN="O'Connor G";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
+SUMMARY:ABSSA D6B J21: NIVELLOIS-ACLOT BS (Eq. 2) vs PHARMA SC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20260214T120000Z
+DTEND;VALUE=DATE-TIME:20260214T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_6B_21_503_268
+DESCRIPTION:Terrain synthétique: non\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
+ e: Vert\n\nContact équipe domicile: Draux N. (0472.40.01.22 - ni.draux@gm
+ ail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoroute Brux
+ elles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le pon
+ t de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au rond-p
+ oint (Shopping Center)\, tourner à droite en direction de Wavre (petit ri
+ ng de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point du S
+ hopping Center)\, tourner à gauche \, rue de l'Industrie et pénétrer da
+ ns le zoning. Au bout de la rue\, avant le feu de signalisation\, tourner 
+ à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérifiez to
+ ujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cala
+ bssa.be/c/268_3_pharma_sc
+GEO:50.5959861;4.3562179
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Draux N.";ROLE=Secrétaire:MAILTO:ni.draux@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J16: ECUSSON FC vs PHARMA SC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20250125T143000Z
-DTEND;VALUE=DATE-TIME:20250125T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_6B_16_404_268
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
- pale équipe domicile: Jaune et Bleu\nCouleur principale équipe exterieur
- e: Vert\n\nContact équipe domicile: Mme. Mottar M. (0493.45.25.64 - Melis
- sa42@hotmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, aprè
- s 300 m. en direction de Lennik\, prendre à droite.\nVenant de la chauss
- ée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\
- , Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en
-  direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.abssa
- .be/\nVoir sur calabssa: https://calabssa.be/c/268_3_pharma_sc
-GEO:50.8177358;4.2557195
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER;CN="Mme. Mottar M.";ROLE=Secrétaire:MAILTO:Melissa42@hotmail.co
+SUMMARY:ABSSA D6B J22: BRUSSELS LTC (Eq. 6) vs PHARMA SC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20260221T143000Z
+DTEND;VALUE=DATE-TIME:20260221T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_6B_22_39_268
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Ve
+ rt\n\nContact équipe domicile: Prudhomme D (0478.49.26.08 - brusselsltc03
+ 9@gmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre le Ring Est
+  direction Waterloo. Sortir au pont de Groenendael\, direction La Hulpe\, 
+ Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, toujours 
+ tout droit. Au feu de signalisation et le carrefour de La Hulpe\, tout dro
+ it direction Genval. Au feu de signalisation prendre à gauche et ensuite 
+ directement à droite\, l'avenue Soyer\, derrière le G.B. Le terrain se t
+ rouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\n
+ Voir sur calabssa: https://calabssa.be/c/268_3_pharma_sc
+GEO:50.7308998;4.4944678
+LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
+ORGANIZER;CN="Prudhomme D";ROLE=Secrétaire:MAILTO:brusselsltc039@gmail.co
  m
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J17: PHARMA SC (Eq. 3) vs COIN DU BALAI FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20250201T123000Z
-DTEND;VALUE=DATE-TIME:20250201T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_6B_17_268_229
+SUMMARY:ABSSA D6B J24: CHEVERNY SCHAERB (Eq. 2) vs PHARMA SC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20260307T143000Z
+DTEND;VALUE=DATE-TIME:20260307T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_6B_24_128_268
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
+ pale équipe domicile: Jaune & Noir\nCouleur principale équipe exterieure
+ : Vert\n\nContact équipe domicile: Bex V (0476.92.58.43 - vincentbex@gmai
+ l.com)\n\nAccès voiture : Direction cimetière de Jette\, ensuite prendre
+  la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Cr
+ ocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur h
+ ttp://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/268_3_pharma
+ _sc
+GEO:50.88794619999999;4.3264137
+LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
+ Belgique
+ORGANIZER;CN="Bex V";ROLE=Secrétaire:MAILTO:vincentbex@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6B J25: PHARMA SC (Eq. 3) vs BRUSSELS BRITISH R (Eq. 6)
+DTSTART;VALUE=DATE-TIME:20260314T123000Z
+DTEND;VALUE=DATE-TIME:20260314T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_6B_25_268_1
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Bleu M
- arine\n\nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.dum
- idi@scarlet.be)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nE
- n venant de Zaventem\, prendre à gauche à la sortie\, en venant de Charl
- eroi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond 
- point. Le terrain se trouve en face de la pompe à essence Q8.\n\nVérifie
- z toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://
- calabssa.be/c/268_3_pharma_sc
-GEO:50.883299;4.316365
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.dumidi@sc
+ arlet.be)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nEn vena
+ nt de Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi p
+ rendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point.
+  Le terrain se trouve en face de la pompe à essence Q8.\n\nVérifiez touj
+ ours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabs
+ sa.be/c/268_3_pharma_sc
+GEO:50.8833029;4.3163788
 LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
 ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
  e
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6B J18: AZUR RCS (Eq. 5) vs PHARMA SC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20250208T123000Z
-DTEND;VALUE=DATE-TIME:20250208T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_6B_18_109_268
+SUMMARY:ABSSA D6B J26: AZUR RCS (Eq. 5) vs PHARMA SC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20260321T140000Z
+DTEND;VALUE=DATE-TIME:20260321T153000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_6B_26_109_268
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W12\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Vert\n
  \nContact équipe domicile: Mad. Decamps N. (0477.27.39.66 - nathalie_deca
@@ -385,118 +435,10 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: W12\n\nCouleur princi
  e rue à main droite (Av. J. Dujardin). Ensuite 1ère rue à gauche (Av. S
  alomé).\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir su
  r calabssa: https://calabssa.be/c/268_3_pharma_sc
-GEO:50.830818;4.455442
+GEO:50.8308291;4.4555375
 LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
  elgique
 ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
  tmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J19: PHARMA SC (Eq. 3) vs TRINQUANT (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20250215T123000Z
-DTEND;VALUE=DATE-TIME:20250215T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_6B_19_268_445
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Bleu m
- arine\n\nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.dum
- idi@scarlet.be)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nE
- n venant de Zaventem\, prendre à gauche à la sortie\, en venant de Charl
- eroi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond 
- point. Le terrain se trouve en face de la pompe à essence Q8.\n\nVérifie
- z toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://
- calabssa.be/c/268_3_pharma_sc
-GEO:50.883299;4.316365
-LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
-ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
- e
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J24: FORESTOIS SC (Eq. 4) vs PHARMA SC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20250222T130000Z
-DTEND;VALUE=DATE-TIME:20250222T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_6B_24_152_268
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Vert\n
- \nContact équipe domicile: Janssens P. (0479.95.08.14 - patj.scf@gmail.co
- m)\n\nAccès voiture : Au départ de la Place St. Denis à Forest prendre 
- la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à dro
- ite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gauche 
- (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du Com
- plexe se trouve à hauteur de City Cart\, à gauche de la route.\n\nVérif
- iez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:
- //calabssa.be/c/268_3_pharma_sc
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J20: IDEAL RANGERS R vs PHARMA SC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20250308T143000Z
-DTEND;VALUE=DATE-TIME:20250308T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_6B_20_47_268
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: U04\n\nCouleur princi
- pale équipe domicile: Orange et Noir\nCouleur principale équipe exterieu
- re: Vert\n\nContact équipe domicile: Simon A. (0477.87.83.33 - alain.si@s
- kynet.be)\n\nAccès voiture : Par le Centre\, prendre la chaussée d'Alsem
- berg\, direction Alsemberg\, jusqu'à la gare d'Uccle-Calevoet. Suivre les
-  rails du tram\, passer en dessous du pont du chemin de fer et au premier 
- feu de signalisation prendre à gauche\, la rue du Bourdon\, puis la 1ère
-  rue à main gauche (rue des Bigarreaux)\, passer sous le pont du chemin d
- e fer et puis 1ère rue à main gauche (le complexe est fléché).\nPar le
-  ring\, sortie Drogenbos-Ruisbroek\, prendre la direction Drogenbos Centre
-  (Grote Baan)\, au premier feu de signalisation\, passée l'église\, pren
- dre à gauche\, la chaussée de Drogenbos\, jusqu'au bout\, puis traverser
-  la chaussée d'Alsemberg et prendre immédiatement à droite\, la rue du 
- Bourdon\, pour continuer comme renseigné ci-dessus.\n\nVérifiez toujours
-  ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.b
- e/c/268_3_pharma_sc
-GEO:50.7833427;4.3345203
-LOCATION:Complexe Sportif de Ridder\, Rue des Griottes\, 1180 Uccle\, Belg
- ique
-ORGANIZER;CN="Simon A.";ROLE=Secrétaire:MAILTO:alain.si@skynet.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J21: PHARMA SC (Eq. 3) vs TUBIFOOT AS
-DTSTART;VALUE=DATE-TIME:20250315T123000Z
-DTEND;VALUE=DATE-TIME:20250315T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_6B_21_268_451
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Jaune 
- et Rouge\n\nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.
- dumidi@scarlet.be)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.
- \nEn venant de Zaventem\, prendre à gauche à la sortie\, en venant de Ch
- arleroi prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au ro
- nd point. Le terrain se trouve en face de la pompe à essence Q8.\n\nVéri
- fiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https
- ://calabssa.be/c/268_3_pharma_sc
-GEO:50.883299;4.316365
-LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
-ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
- e
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6B J22: GOALOIS (Eq. 3) vs PHARMA SC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20250322T130000Z
-DTEND;VALUE=DATE-TIME:20250322T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_6B_22_345_268
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Blanc-Noir\nCouleur principale équipe exterieure: 
- Vert\n\nContact équipe domicile: Laruelle M. (0494.52.09.71 - martin.laru
- elle@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la ru
- e Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28
- ). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ces
-  infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/
- 268_3_pharma_sc
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="Laruelle M.";ROLE=Secrétaire:MAILTO:martin.laruelle@gmail.c
- om
 END:VEVENT
 END:VCALENDAR

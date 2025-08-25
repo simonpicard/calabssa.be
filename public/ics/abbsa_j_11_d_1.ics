@@ -4,60 +4,106 @@ PRODID:abbsa_j_11_d_1
 X-WR-CALDESC:Les matches de la journée 11 en divion 1 d'ABSSA.
 X-WR-CALNAME:D1 Journée 11
 BEGIN:VEVENT
-SUMMARY:ABSSA D1 J11: CHOULE AUDERGHEM vs BRITISH UNITED
-DTSTART;VALUE=DATE-TIME:20241130T113000Z
-DTEND;VALUE=DATE-TIME:20241130T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_1_11_517_132
+SUMMARY:ABSSA D1 J11: COLO-COLO UNITED vs PORTUGAL FC
+DTSTART;VALUE=DATE-TIME:20251115T113000Z
+DTEND;VALUE=DATE-TIME:20251115T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_1_11_625_403
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Bleu foncé et blanc\nCouleur principale équipe ex
+ terieure: Rouge\n\nContact équipe domicile: De Le Court Y. (0472.35.25.20
+  - youdelecourt@gmail.com)\n\nAccès voiture : Au départ de la Place Meis
+ er\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 
+ 2). Sous le viaduc prendre à droite\, l'avenue des Anciens Combattants. J
+ uste après le carrefour avec des feux de signalisation prendre à droite 
+ vers la Place de la Chapelle\, puis prendre la 4ème rue à main droite (r
+ ue au Bois). Le terrain se trouve à 300 m. sur la droite.\n\nVérifiez to
+ ujours ces infos sur http://www.abssa.be/
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="De Le Court Y.";ROLE=Secrétaire:MAILTO:youdelecourt@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J11: CHOULE AUDERGHEM vs HIGGINS-PUMAS
+DTSTART;VALUE=DATE-TIME:20251115T113000Z
+DTEND;VALUE=DATE-TIME:20251115T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_1_11_517_416
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
  pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
- erieure: Bleu\n\nContact équipe domicile: Vandenplas D. (0476.54.48.01 - 
- dav_54@hotmail.com)\n\nAccès voiture : En venant de Bruxelles par la chau
- ssée de Wavre\, rejoindre le du début de l'autoroute Bruxelles-Namur\, u
- tiliser la bande de droite pendant +/- 200 m. et descendre devant le bâti
- ment de l'ADEPS\, puis passer par le tunnel à gauche (en dessous de l'aut
- oroute). Le terrain se trouve à 200 m. Le stade est fléché.\n\nVérifie
- z toujours ces infos sur http://www.abssa.be/
-GEO:50.8103473;4.443252699999999
+ erieure: Rayé Bleu et Blanc\n\nContact équipe domicile: Vandenplas D. (0
+ 476.54.48.01 - dav_54@hotmail.com)\n\nAccès voiture : En venant de Bruxel
+ les par la chaussée de Wavre\, rejoindre le du début de l'autoroute Brux
+ elles-Namur\, utiliser la bande de droite pendant +/- 200 m. et descendre 
+ devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (en d
+ essous de l'autoroute). Le terrain se trouve à 200 m. Le stade est fléch
+ é.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.81071379999999;4.4432209
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D1 J11: LXG CINQUANTENAIRE vs WONG A.S.
-DTSTART;VALUE=DATE-TIME:20241130T123000Z
-DTEND;VALUE=DATE-TIME:20241130T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_1_11_542_523
+SUMMARY:ABSSA D1 J11: BRUSSELS LTC vs WONG A.S.
+DTSTART;VALUE=DATE-TIME:20251115T123000Z
+DTEND;VALUE=DATE-TIME:20251115T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_1_11_39_523
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O01\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Ja
+ une et Noir\n\nContact équipe domicile: Prudhomme D (0478.49.26.08 - brus
+ selsltc039@gmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre ri
+ ng Est direction Waterloo. Sortir à la sortie n°27 Waterloo Centre.\n	Pr
+ endre ensuite à gauche La Drève de Richelle jusqu'au 3ème rond-point et
+  prendre à gauche la 	Chaussée de Louvain sur environ 2km et prendre à 
+ droite la Rue des Saules toujours tout droit et 	qui devient ensuite la Ro
+ ute des Marnières. Continuer ensuite tout droit\, passer un premier rond-
+ point puis continuer tout droit jusqu'au rond-point du Messager où il fau
+ t prendre la 2ème sortie. Vous êtes alors sur la Route de Genval et l'en
+ trée du Complexe se trouve à environ 200m sur la gauche.\n\nVérifiez to
+ ujours ces infos sur http://www.abssa.be/
+GEO:50.70475570000001;4.4703447
+LOCATION:Route de Genval\, 26A - 1380 Ohain\, Route de Genval 20A\, 1380 O
+ hain\, Belgique
+ORGANIZER;CN="Prudhomme D";ROLE=Secrétaire:MAILTO:brusselsltc039@gmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D1 J11: LXG CINQUANTENAIRE vs HERMES FC
+DTSTART;VALUE=DATE-TIME:20251115T123000Z
+DTEND;VALUE=DATE-TIME:20251115T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_1_11_542_357
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: S09\n\nCouleur princi
  pale équipe domicile: Jaune et Bleu.\nCouleur principale équipe exterieu
- re: Jaune et Noir\n\nContact équipe domicile: Gimenez Villahoz M (0487.79
+ re: Jaune et Bleu\n\nContact équipe domicile: Gimenez Villahoz M (0487.79
  .91.95 - lxgfc50@gmail.com)\n\nAccès voiture : Place Meiser\, descendre B
  d. Général Wahis\, Bd Lambermont\, au deuxième carrefour prendre à gau
  che\, puis encore la première à gauche\nOu :  Place Meiser prendre Av Er
  nest Cambier. - Tram n° 7  - Bus 65 arrêt Chazal\n\nVérifiez toujours c
  es infos sur http://www.abssa.be/
-GEO:50.8592013;4.3921032
+GEO:50.8581504;4.3949295
 LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
  ue
 ORGANIZER;CN="Gimenez Villahoz M";ROLE=Secrétaire:MAILTO:lxgfc50@gmail.co
  m
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D1 J11: IRLANDE FC vs HERMES FC
-DTSTART;VALUE=DATE-TIME:20241130T130000Z
-DTEND;VALUE=DATE-TIME:20241130T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_1_11_402_357
+SUMMARY:ABSSA D1 J11: IRLANDE FC vs BESACE RFC
+DTSTART;VALUE=DATE-TIME:20251115T130000Z
+DTEND;VALUE=DATE-TIME:20251115T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_1_11_402_24
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: N04\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Jaune 
- et Bleu\n\nContact équipe domicile: Penouilh S. (0474.97.79.48 - fci.secr
- etary.mens@outlook.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à 
- Nossegem\, au premier croisement prendre à gauche la \nMechelsesteenweg. 
- Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles
- -Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mec
- helsesteenweg\, traverser la chaussée de Louvain\, et suivre comme ci-ava
- nt.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Penouilh S. (0474.97.79.48 - fci.secretary.men
+ s@outlook.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à Nossegem\
+ , au premier croisement prendre à gauche la \nMechelsesteenweg. Le terrai
+ n est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\,
+  prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelsestee
+ nweg\, traverser la chaussée de Louvain\, et suivre comme ci-avant.\n\nV
+ érifiez toujours ces infos sur http://www.abssa.be/
 GEO:50.88776559999999;4.50894
 LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
  e
@@ -65,46 +111,30 @@ ORGANIZER;CN="Penouilh S.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@outl
  ook.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D1 J11: COIN DU BALAI FC vs CHENOIS SC
-DTSTART;VALUE=DATE-TIME:20241130T130000Z
-DTEND;VALUE=DATE-TIME:20241130T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_1_11_229_84
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
- pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
-  Rouge\n\nContact équipe domicile: Rosenfeld J. (0485.05.40.06 - rosenfel
- djean@hotmail.com)\n\nAccès voiture : A partir du square des Archiducs\, 
- prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez to
- ujours ces infos sur http://www.abssa.be/
-GEO:50.80645209999999;4.4087184
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER;CN="Rosenfeld J.";ROLE=Secrétaire:MAILTO:rosenfeldjean@hotmail.
- com
+SUMMARY:ABSSA D1 J11: BRITISH UNITED vs BRUSSELS BRITISH R
+DTSTART;VALUE=DATE-TIME:20251115T130000Z
+DTEND;VALUE=DATE-TIME:20251115T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_1_11_132_1
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Caballero G (0479.79.86.54 - guillem_955@hotm
+ ail.com)\n\nAccès voiture : A partir de Bruxelles\, prendre la E 411 en d
+ irection de Namur. Prendre la sortie N° 8 puis à droite la bretelle pour
+  la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 k
+ m\, au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Libéra
+ tion\, puis à gauche dans la rue de la Grande lecke.\n\nVérifiez toujour
+ s ces infos sur http://www.abssa.be/
+GEO:50.7611768;4.7884455
+LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
+ORGANIZER;CN="Caballero G";ROLE=Secrétaire:MAILTO:guillem_955@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D1 J11: BRUSSELS BRITISH R vs NEW ARQUOIS FC
-DTSTART;VALUE=DATE-TIME:20241130T130000Z
-DTEND;VALUE=DATE-TIME:20241130T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_1_11_1_263
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
- n\nContact équipe domicile: O'Connor G (0456.54.46.67 - abssa-sec@rbbfc.o
- rg)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Pass
- er devant l'église\, longer l'autoroute et tourner à droite au cimetièr
- e des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur http:
- //www.abssa.be/
-GEO:50.7282426;4.5537189
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER;CN="O'Connor G";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D1 J11: AZUR RCS vs BRUSSELS LTC
-DTSTART;VALUE=DATE-TIME:20241130T140000Z
-DTEND;VALUE=DATE-TIME:20241130T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_1_11_109_39
+SUMMARY:ABSSA D1 J11: AZUR RCS vs BRAINE STORMING
+DTSTART;VALUE=DATE-TIME:20251115T140000Z
+DTEND;VALUE=DATE-TIME:20251115T153000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_1_11_109_630
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W12\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bordea
  ux\n\nContact équipe domicile: Mad. Decamps N. (0477.27.39.66 - nathalie_
@@ -113,28 +143,10 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: W12\n\nCouleur princi
  de signalisation (Av. Madoux). Au feu de signalisation suivant prendre la 
  2ème rue à main droite (Av. J. Dujardin). Ensuite 1ère rue à gauche (A
  v. Salomé).\n\nVérifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.830818;4.455442
+GEO:50.8308291;4.4555375
 LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
  elgique
 ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
  tmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D1 J11: BRAINE STORMING vs PORTUGAL FC
-DTSTART;VALUE=DATE-TIME:20241130T143000Z
-DTEND;VALUE=DATE-TIME:20241130T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_1_11_630_403
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
- pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
-  Rouge\n\nContact équipe domicile: Goethals E. (0492.43.68.79 - manu.goet
- hals@gmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring Ou
- est\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Cha
- rleroi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, trave
- rser le carrefour\, tout droit direction route du sucre.\n\nVérifiez touj
- ours ces infos sur http://www.abssa.be/
-GEO:50.6007528;4.4472782
-LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
-ORGANIZER;CN="Goethals E.";ROLE=Secrétaire:MAILTO:manu.goethals@gmail.com
 END:VEVENT
 END:VCALENDAR

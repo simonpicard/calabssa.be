@@ -189,35 +189,15 @@
     "caldesc": "Les matches du club BESACE RFC (equipe 1) en ABSSA.",
     "search_name": "024 - BESACE RFC (eq. 1)"
   },
-  "70_1_biergeois_cs": {
-    "club_name": "BIERGEOIS CS",
-    "club_id": 70,
-    "team_id": 1,
-    "club_team_id": "70_1",
-    "club_team_name": "BIERGEOIS CS",
-    "calname": "ABSSA: BIERGEOIS CS (eq. 1)",
-    "caldesc": "Les matches du club BIERGEOIS CS (equipe 1) en ABSSA.",
-    "search_name": "070 - BIERGEOIS CS (eq. 1)"
-  },
-  "137_1_big_jefke": {
-    "club_name": "BIG JEFKE",
+  "137_1_big_vollenback": {
+    "club_name": "BIG VOLLENBACK",
     "club_id": 137,
     "team_id": 1,
     "club_team_id": "137_1",
-    "club_team_name": "BIG JEFKE",
-    "calname": "ABSSA: BIG JEFKE (eq. 1)",
-    "caldesc": "Les matches du club BIG JEFKE (equipe 1) en ABSSA.",
-    "search_name": "137 - BIG JEFKE (eq. 1)"
-  },
-  "137_2_big_jefke": {
-    "club_name": "BIG JEFKE",
-    "club_id": 137,
-    "team_id": 2,
-    "club_team_id": "137_2",
-    "club_team_name": "BIG JEFKE (Eq. 2)",
-    "calname": "ABSSA: BIG JEFKE (eq. 2)",
-    "caldesc": "Les matches du club BIG JEFKE (equipe 2) en ABSSA.",
-    "search_name": "137 - BIG JEFKE (eq. 2)"
+    "club_team_name": "BIG VOLLENBACK",
+    "calname": "ABSSA: BIG VOLLENBACK (eq. 1)",
+    "caldesc": "Les matches du club BIG VOLLENBACK (equipe 1) en ABSSA.",
+    "search_name": "137 - BIG VOLLENBACK (eq. 1)"
   },
   "676_1_black_bears_united": {
     "club_name": "BLACK BEARS UNITED",
@@ -228,16 +208,6 @@
     "calname": "ABSSA: BLACK BEARS UNITED (eq. 1)",
     "caldesc": "Les matches du club BLACK BEARS UNITED (equipe 1) en ABSSA.",
     "search_name": "676 - BLACK BEARS UNITED (eq. 1)"
-  },
-  "601_1_black_star_genval": {
-    "club_name": "BLACK STAR GENVAL",
-    "club_id": 601,
-    "team_id": 1,
-    "club_team_id": "601_1",
-    "club_team_name": "BLACK STAR GENVAL",
-    "calname": "ABSSA: BLACK STAR GENVAL (eq. 1)",
-    "caldesc": "Les matches du club BLACK STAR GENVAL (equipe 1) en ABSSA.",
-    "search_name": "601 - BLACK STAR GENVAL (eq. 1)"
   },
   "53_1_bleu_blanc_ent_r": {
     "club_name": "BLEU-BLANC (ENT)R.",
@@ -569,6 +539,16 @@
     "caldesc": "Les matches du club BRUSSELS LTC (equipe 7) en ABSSA.",
     "search_name": "039 - BRUSSELS LTC (eq. 7)"
   },
+  "690_1_brussels_united": {
+    "club_name": "BRUSSELS UNITED",
+    "club_id": 690,
+    "team_id": 1,
+    "club_team_id": "690_1",
+    "club_team_name": "BRUSSELS UNITED",
+    "calname": "ABSSA: BRUSSELS UNITED (eq. 1)",
+    "caldesc": "Les matches du club BRUSSELS UNITED (equipe 1) en ABSSA.",
+    "search_name": "690 - BRUSSELS UNITED (eq. 1)"
+  },
   "566_1_bxl_alliance_jette": {
     "club_name": "BXL ALLIANCE JETTE",
     "club_id": 566,
@@ -598,16 +578,6 @@
     "calname": "ABSSA: CAMPOMAIORENSE SC (eq. 1)",
     "caldesc": "Les matches du club CAMPOMAIORENSE SC (equipe 1) en ABSSA.",
     "search_name": "467 - CAMPOMAIORENSE SC (eq. 1)"
-  },
-  "330_1_celtic_forestois": {
-    "club_name": "CELTIC FORESTOIS",
-    "club_id": 330,
-    "team_id": 1,
-    "club_team_id": "330_1",
-    "club_team_name": "CELTIC FORESTOIS",
-    "calname": "ABSSA: CELTIC FORESTOIS (eq. 1)",
-    "caldesc": "Les matches du club CELTIC FORESTOIS (equipe 1) en ABSSA.",
-    "search_name": "330 - CELTIC FORESTOIS (eq. 1)"
   },
   "626_1_celtic_roosters": {
     "club_name": "CELTIC ROOSTERS",
@@ -819,15 +789,15 @@
     "caldesc": "Les matches du club CHOULE AUDERGHEM (equipe 5) en ABSSA.",
     "search_name": "517 - CHOULE AUDERGHEM (eq. 5)"
   },
-  "678_1_claudy_f_c": {
-    "club_name": "CLAUDY F.C.",
-    "club_id": 678,
-    "team_id": 1,
-    "club_team_id": "678_1",
-    "club_team_name": "CLAUDY F.C.",
-    "calname": "ABSSA: CLAUDY F.C. (eq. 1)",
-    "caldesc": "Les matches du club CLAUDY F.C. (equipe 1) en ABSSA.",
-    "search_name": "678 - CLAUDY F.C. (eq. 1)"
+  "517_6_choule_auderghem": {
+    "club_name": "CHOULE AUDERGHEM",
+    "club_id": 517,
+    "team_id": 6,
+    "club_team_id": "517_6",
+    "club_team_name": "CHOULE AUDERGHEM (Eq. 6)",
+    "calname": "ABSSA: CHOULE AUDERGHEM (eq. 6)",
+    "caldesc": "Les matches du club CHOULE AUDERGHEM (equipe 6) en ABSSA.",
+    "search_name": "517 - CHOULE AUDERGHEM (eq. 6)"
   },
   "229_1_coin_du_balai_fc": {
     "club_name": "COIN DU BALAI FC",
@@ -868,16 +838,6 @@
     "calname": "ABSSA: COMP. CINEMA R (eq. 1)",
     "caldesc": "Les matches du club COMP. CINEMA R (equipe 1) en ABSSA.",
     "search_name": "016 - COMP. CINEMA R (eq. 1)"
-  },
-  "49_1_copains_reunis": {
-    "club_name": "COPAINS REUNIS",
-    "club_id": 49,
-    "team_id": 1,
-    "club_team_id": "49_1",
-    "club_team_name": "COPAINS REUNIS",
-    "calname": "ABSSA: COPAINS REUNIS (eq. 1)",
-    "caldesc": "Les matches du club COPAINS REUNIS (equipe 1) en ABSSA.",
-    "search_name": "049 - COPAINS REUNIS (eq. 1)"
   },
   "151_1_cornac_united_fc": {
     "club_name": "CORNAC UNITED FC",
@@ -939,16 +899,6 @@
     "caldesc": "Les matches du club DEAF BRUSSELS FC (equipe 1) en ABSSA.",
     "search_name": "593 - DEAF BRUSSELS FC (eq. 1)"
   },
-  "666_1_dopa_fc": {
-    "club_name": "DOPA FC",
-    "club_id": 666,
-    "team_id": 1,
-    "club_team_id": "666_1",
-    "club_team_name": "DOPA FC",
-    "calname": "ABSSA: DOPA FC (eq. 1)",
-    "caldesc": "Les matches du club DOPA FC (equipe 1) en ABSSA.",
-    "search_name": "666 - DOPA FC (eq. 1)"
-  },
   "22_1_duden_sport_r": {
     "club_name": "DUDEN SPORT R",
     "club_id": 22,
@@ -968,6 +918,16 @@
     "calname": "ABSSA: ECUSSON FC (eq. 1)",
     "caldesc": "Les matches du club ECUSSON FC (equipe 1) en ABSSA.",
     "search_name": "404 - ECUSSON FC (eq. 1)"
+  },
+  "404_2_ecusson_fc": {
+    "club_name": "ECUSSON FC",
+    "club_id": 404,
+    "team_id": 2,
+    "club_team_id": "404_2",
+    "club_team_name": "ECUSSON FC (Eq. 2)",
+    "calname": "ABSSA: ECUSSON FC (eq. 2)",
+    "caldesc": "Les matches du club ECUSSON FC (equipe 2) en ABSSA.",
+    "search_name": "404 - ECUSSON FC (eq. 2)"
   },
   "516_1_effeta_fc": {
     "club_name": "EFFETA FC",
@@ -1119,6 +1079,16 @@
     "caldesc": "Les matches du club FAUBOURG-BRAINOISE (equipe 2) en ABSSA.",
     "search_name": "100 - FAUBOURG-BRAINOISE (eq. 2)"
   },
+  "686_1_fc_phoenix": {
+    "club_name": "FC PHOENIX",
+    "club_id": 686,
+    "team_id": 1,
+    "club_team_id": "686_1",
+    "club_team_name": "FC PHOENIX",
+    "calname": "ABSSA: FC PHOENIX (eq. 1)",
+    "caldesc": "Les matches du club FC PHOENIX (equipe 1) en ABSSA.",
+    "search_name": "686 - FC PHOENIX (eq. 1)"
+  },
   "679_1_foot_fritestyle": {
     "club_name": "FOOT FRITESTYLE",
     "club_id": 679,
@@ -1158,26 +1128,6 @@
     "calname": "ABSSA: FORESTOIS SC (eq. 2)",
     "caldesc": "Les matches du club FORESTOIS SC (equipe 2) en ABSSA.",
     "search_name": "152 - FORESTOIS SC (eq. 2)"
-  },
-  "152_3_forestois_sc": {
-    "club_name": "FORESTOIS SC",
-    "club_id": 152,
-    "team_id": 3,
-    "club_team_id": "152_3",
-    "club_team_name": "FORESTOIS SC (Eq. 3)",
-    "calname": "ABSSA: FORESTOIS SC (eq. 3)",
-    "caldesc": "Les matches du club FORESTOIS SC (equipe 3) en ABSSA.",
-    "search_name": "152 - FORESTOIS SC (eq. 3)"
-  },
-  "152_4_forestois_sc": {
-    "club_name": "FORESTOIS SC",
-    "club_id": 152,
-    "team_id": 4,
-    "club_team_id": "152_4",
-    "club_team_name": "FORESTOIS SC (Eq. 4)",
-    "calname": "ABSSA: FORESTOIS SC (eq. 4)",
-    "caldesc": "Les matches du club FORESTOIS SC (equipe 4) en ABSSA.",
-    "search_name": "152 - FORESTOIS SC (eq. 4)"
   },
   "623_1_forestoise_e_j": {
     "club_name": "FORESTOISE E.J.",
@@ -1299,16 +1249,6 @@
     "caldesc": "Les matches du club GOALOIS (equipe 3) en ABSSA.",
     "search_name": "345 - GOALOIS (eq. 3)"
   },
-  "90_1_green_devils": {
-    "club_name": "GREEN DEVILS",
-    "club_id": 90,
-    "team_id": 1,
-    "club_team_id": "90_1",
-    "club_team_name": "GREEN DEVILS",
-    "calname": "ABSSA: GREEN DEVILS (eq. 1)",
-    "caldesc": "Les matches du club GREEN DEVILS (equipe 1) en ABSSA.",
-    "search_name": "090 - GREEN DEVILS (eq. 1)"
-  },
   "488_1_hellas_berchem_fc": {
     "club_name": "HELLAS BERCHEM FC.",
     "club_id": 488,
@@ -1369,6 +1309,16 @@
     "caldesc": "Les matches du club IDEAL RANGERS R (equipe 1) en ABSSA.",
     "search_name": "047 - IDEAL RANGERS R (eq. 1)"
   },
+  "687_1_interim_milan": {
+    "club_name": "INTERIM MILAN",
+    "club_id": 687,
+    "team_id": 1,
+    "club_team_id": "687_1",
+    "club_team_name": "INTERIM MILAN",
+    "calname": "ABSSA: INTERIM MILAN (eq. 1)",
+    "caldesc": "Les matches du club INTERIM MILAN (equipe 1) en ABSSA.",
+    "search_name": "687 - INTERIM MILAN (eq. 1)"
+  },
   "671_1_inwenssys_moldova": {
     "club_name": "INWENSSYS MOLDOVA",
     "club_id": 671,
@@ -1378,6 +1328,16 @@
     "calname": "ABSSA: INWENSSYS MOLDOVA (eq. 1)",
     "caldesc": "Les matches du club INWENSSYS MOLDOVA (equipe 1) en ABSSA.",
     "search_name": "671 - INWENSSYS MOLDOVA (eq. 1)"
+  },
+  "671_2_inwenssys_moldova": {
+    "club_name": "INWENSSYS MOLDOVA",
+    "club_id": 671,
+    "team_id": 2,
+    "club_team_id": "671_2",
+    "club_team_name": "INWENSSYS MOLDOVA (Eq. 2)",
+    "calname": "ABSSA: INWENSSYS MOLDOVA (eq. 2)",
+    "caldesc": "Les matches du club INWENSSYS MOLDOVA (equipe 2) en ABSSA.",
+    "search_name": "671 - INWENSSYS MOLDOVA (eq. 2)"
   },
   "402_1_irlande_fc": {
     "club_name": "IRLANDE FC",
@@ -1439,25 +1399,25 @@
     "caldesc": "Les matches du club IRLANDE FC (equipe 6) en ABSSA.",
     "search_name": "402 - IRLANDE FC (eq. 6)"
   },
-  "92_1_itt_gecko_fc": {
-    "club_name": "ITT - GECKO FC",
+  "92_1_itt_claudy_fc": {
+    "club_name": "ITT - CLAUDY  FC",
     "club_id": 92,
     "team_id": 1,
     "club_team_id": "92_1",
-    "club_team_name": "ITT - GECKO FC",
-    "calname": "ABSSA: ITT - GECKO FC (eq. 1)",
-    "caldesc": "Les matches du club ITT - GECKO FC (equipe 1) en ABSSA.",
-    "search_name": "092 - ITT - GECKO FC (eq. 1)"
+    "club_team_name": "ITT - CLAUDY  FC",
+    "calname": "ABSSA: ITT - CLAUDY  FC (eq. 1)",
+    "caldesc": "Les matches du club ITT - CLAUDY  FC (equipe 1) en ABSSA.",
+    "search_name": "092 - ITT - CLAUDY  FC (eq. 1)"
   },
-  "92_2_itt_gecko_fc": {
-    "club_name": "ITT - GECKO FC",
+  "92_2_itt_claudy_fc": {
+    "club_name": "ITT - CLAUDY  FC",
     "club_id": 92,
     "team_id": 2,
     "club_team_id": "92_2",
-    "club_team_name": "ITT - GECKO FC (Eq. 2)",
-    "calname": "ABSSA: ITT - GECKO FC (eq. 2)",
-    "caldesc": "Les matches du club ITT - GECKO FC (equipe 2) en ABSSA.",
-    "search_name": "092 - ITT - GECKO FC (eq. 2)"
+    "club_team_name": "ITT - CLAUDY  FC (Eq. 2)",
+    "calname": "ABSSA: ITT - CLAUDY  FC (eq. 2)",
+    "caldesc": "Les matches du club ITT - CLAUDY  FC (equipe 2) en ABSSA.",
+    "search_name": "092 - ITT - CLAUDY  FC (eq. 2)"
   },
   "38_1_j_st_gilloise_r": {
     "club_name": "J.ST-GILLOISE R.",
@@ -1519,36 +1479,6 @@
     "caldesc": "Les matches du club L'EKIP (equipe 1) en ABSSA.",
     "search_name": "662 - L'EKIP (eq. 1)"
   },
-  "44_1_la_lorraine_mtm_r": {
-    "club_name": "LA LORRAINE-MTM.R",
-    "club_id": 44,
-    "team_id": 1,
-    "club_team_id": "44_1",
-    "club_team_name": "LA LORRAINE-MTM.R",
-    "calname": "ABSSA: LA LORRAINE-MTM.R (eq. 1)",
-    "caldesc": "Les matches du club LA LORRAINE-MTM.R (equipe 1) en ABSSA.",
-    "search_name": "044 - LA LORRAINE-MTM.R (eq. 1)"
-  },
-  "44_2_la_lorraine_mtm_r": {
-    "club_name": "LA LORRAINE-MTM.R",
-    "club_id": 44,
-    "team_id": 2,
-    "club_team_id": "44_2",
-    "club_team_name": "LA LORRAINE-MTM.R (Eq. 2)",
-    "calname": "ABSSA: LA LORRAINE-MTM.R (eq. 2)",
-    "caldesc": "Les matches du club LA LORRAINE-MTM.R (equipe 2) en ABSSA.",
-    "search_name": "044 - LA LORRAINE-MTM.R (eq. 2)"
-  },
-  "44_3_la_lorraine_mtm_r": {
-    "club_name": "LA LORRAINE-MTM.R",
-    "club_id": 44,
-    "team_id": 3,
-    "club_team_id": "44_3",
-    "club_team_name": "LA LORRAINE-MTM.R (Eq. 3)",
-    "calname": "ABSSA: LA LORRAINE-MTM.R (eq. 3)",
-    "caldesc": "Les matches du club LA LORRAINE-MTM.R (equipe 3) en ABSSA.",
-    "search_name": "044 - LA LORRAINE-MTM.R (eq. 3)"
-  },
   "392_1_lorgnette_la_fc": {
     "club_name": "LORGNETTE (LA)  FC",
     "club_id": 392,
@@ -1559,15 +1489,45 @@
     "caldesc": "Les matches du club LORGNETTE (LA)  FC (equipe 1) en ABSSA.",
     "search_name": "392 - LORGNETTE (LA)  FC (eq. 1)"
   },
-  "130_1_lunette_la_fc": {
-    "club_name": "LUNETTE (LA) FC",
-    "club_id": 130,
+  "44_1_lorraine_la_mtm_r": {
+    "club_name": "LORRAINE(LA)-MTM.R",
+    "club_id": 44,
     "team_id": 1,
-    "club_team_id": "130_1",
-    "club_team_name": "LUNETTE (LA) FC",
-    "calname": "ABSSA: LUNETTE (LA) FC (eq. 1)",
-    "caldesc": "Les matches du club LUNETTE (LA) FC (equipe 1) en ABSSA.",
-    "search_name": "130 - LUNETTE (LA) FC (eq. 1)"
+    "club_team_id": "44_1",
+    "club_team_name": "LORRAINE(LA)-MTM.R",
+    "calname": "ABSSA: LORRAINE(LA)-MTM.R (eq. 1)",
+    "caldesc": "Les matches du club LORRAINE(LA)-MTM.R (equipe 1) en ABSSA.",
+    "search_name": "044 - LORRAINE(LA)-MTM.R (eq. 1)"
+  },
+  "44_2_lorraine_la_mtm_r": {
+    "club_name": "LORRAINE(LA)-MTM.R",
+    "club_id": 44,
+    "team_id": 2,
+    "club_team_id": "44_2",
+    "club_team_name": "LORRAINE(LA)-MTM.R (Eq. 2)",
+    "calname": "ABSSA: LORRAINE(LA)-MTM.R (eq. 2)",
+    "caldesc": "Les matches du club LORRAINE(LA)-MTM.R (equipe 2) en ABSSA.",
+    "search_name": "044 - LORRAINE(LA)-MTM.R (eq. 2)"
+  },
+  "44_3_lorraine_la_mtm_r": {
+    "club_name": "LORRAINE(LA)-MTM.R",
+    "club_id": 44,
+    "team_id": 3,
+    "club_team_id": "44_3",
+    "club_team_name": "LORRAINE(LA)-MTM.R (Eq. 3)",
+    "calname": "ABSSA: LORRAINE(LA)-MTM.R (eq. 3)",
+    "caldesc": "Les matches du club LORRAINE(LA)-MTM.R (equipe 3) en ABSSA.",
+    "search_name": "044 - LORRAINE(LA)-MTM.R (eq. 3)"
+  },
+  "44_4_lorraine_la_mtm_r": {
+    "club_name": "LORRAINE(LA)-MTM.R",
+    "club_id": 44,
+    "team_id": 4,
+    "club_team_id": "44_4",
+    "club_team_name": "LORRAINE(LA)-MTM.R (Eq. 4)",
+    "calname": "ABSSA: LORRAINE(LA)-MTM.R (eq. 4)",
+    "caldesc": "Les matches du club LORRAINE(LA)-MTM.R (equipe 4) en ABSSA.",
+    "search_name": "044 - LORRAINE(LA)-MTM.R (eq. 4)"
   },
   "542_1_lxg_cinquantenaire": {
     "club_name": "LXG CINQUANTENAIRE",
@@ -1599,15 +1559,15 @@
     "caldesc": "Les matches du club MACCABI BXL (equipe 1) en ABSSA.",
     "search_name": "634 - MACCABI BXL (eq. 1)"
   },
-  "661_1_masia_city": {
-    "club_name": "MASIA CITY",
-    "club_id": 661,
+  "688_1_marinel_a_s": {
+    "club_name": "MARINEL A.S.",
+    "club_id": 688,
     "team_id": 1,
-    "club_team_id": "661_1",
-    "club_team_name": "MASIA CITY",
-    "calname": "ABSSA: MASIA CITY (eq. 1)",
-    "caldesc": "Les matches du club MASIA CITY (equipe 1) en ABSSA.",
-    "search_name": "661 - MASIA CITY (eq. 1)"
+    "club_team_id": "688_1",
+    "club_team_name": "MARINEL A.S.",
+    "calname": "ABSSA: MARINEL A.S. (eq. 1)",
+    "caldesc": "Les matches du club MARINEL A.S. (equipe 1) en ABSSA.",
+    "search_name": "688 - MARINEL A.S. (eq. 1)"
   },
   "33_1_metrasport_r": {
     "club_name": "METRASPORT R.",
@@ -1749,16 +1709,6 @@
     "caldesc": "Les matches du club NEW INN FC (equipe 2) en ABSSA.",
     "search_name": "359 - NEW INN FC (eq. 2)"
   },
-  "359_3_new_inn_fc": {
-    "club_name": "NEW INN FC",
-    "club_id": 359,
-    "team_id": 3,
-    "club_team_id": "359_3",
-    "club_team_name": "NEW INN FC (Eq. 3)",
-    "calname": "ABSSA: NEW INN FC (eq. 3)",
-    "caldesc": "Les matches du club NEW INN FC (equipe 3) en ABSSA.",
-    "search_name": "359 - NEW INN FC (eq. 3)"
-  },
   "306_1_nivelles_cs": {
     "club_name": "NIVELLES CS",
     "club_id": 306,
@@ -1839,16 +1789,6 @@
     "caldesc": "Les matches du club PANGLOSS FC (equipe 2) en ABSSA.",
     "search_name": "123 - PANGLOSS FC (eq. 2)"
   },
-  "428_1_pantoufles_fc": {
-    "club_name": "PANTOUFLES FC",
-    "club_id": 428,
-    "team_id": 1,
-    "club_team_id": "428_1",
-    "club_team_name": "PANTOUFLES FC",
-    "calname": "ABSSA: PANTOUFLES FC (eq. 1)",
-    "caldesc": "Les matches du club PANTOUFLES FC (equipe 1) en ABSSA.",
-    "search_name": "428 - PANTOUFLES FC (eq. 1)"
-  },
   "582_1_patjes_fc": {
     "club_name": "PATJES FC",
     "club_id": 582,
@@ -1928,16 +1868,6 @@
     "calname": "ABSSA: PICARDIE AS (eq. 1)",
     "caldesc": "Les matches du club PICARDIE AS (equipe 1) en ABSSA.",
     "search_name": "063 - PICARDIE AS (eq. 1)"
-  },
-  "63_2_picardie_as": {
-    "club_name": "PICARDIE AS",
-    "club_id": 63,
-    "team_id": 2,
-    "club_team_id": "63_2",
-    "club_team_name": "PICARDIE AS (Eq. 2)",
-    "calname": "ABSSA: PICARDIE AS (eq. 2)",
-    "caldesc": "Les matches du club PICARDIE AS (equipe 2) en ABSSA.",
-    "search_name": "063 - PICARDIE AS (eq. 2)"
   },
   "635_1_pink_panthers": {
     "club_name": "PINK PANTHERS",
@@ -2129,6 +2059,16 @@
     "caldesc": "Les matches du club SCHEUT FC (equipe 1) en ABSSA.",
     "search_name": "274 - SCHEUT FC (eq. 1)"
   },
+  "689_1_selessao_la": {
+    "club_name": "SELESSAO (LA)",
+    "club_id": 689,
+    "team_id": 1,
+    "club_team_id": "689_1",
+    "club_team_name": "SELESSAO (LA)",
+    "calname": "ABSSA: SELESSAO (LA) (eq. 1)",
+    "caldesc": "Les matches du club SELESSAO (LA) (equipe 1) en ABSSA.",
+    "search_name": "689 - SELESSAO (LA) (eq. 1)"
+  },
   "641_1_sneaky_baboons": {
     "club_name": "SNEAKY BABOONS",
     "club_id": 641,
@@ -2138,6 +2078,16 @@
     "calname": "ABSSA: SNEAKY BABOONS (eq. 1)",
     "caldesc": "Les matches du club SNEAKY BABOONS (equipe 1) en ABSSA.",
     "search_name": "641 - SNEAKY BABOONS (eq. 1)"
+  },
+  "685_1_south_project": {
+    "club_name": "SOUTH PROJECT",
+    "club_id": 685,
+    "team_id": 1,
+    "club_team_id": "685_1",
+    "club_team_name": "SOUTH PROJECT",
+    "calname": "ABSSA: SOUTH PROJECT (eq. 1)",
+    "caldesc": "Les matches du club SOUTH PROJECT (equipe 1) en ABSSA.",
+    "search_name": "685 - SOUTH PROJECT (eq. 1)"
   },
   "340_1_sparta_scheut": {
     "club_name": "SPARTA SCHEUT",
@@ -2178,6 +2128,16 @@
     "calname": "ABSSA: SPORTING BW (eq. 1)",
     "caldesc": "Les matches du club SPORTING BW (equipe 1) en ABSSA.",
     "search_name": "673 - SPORTING BW (eq. 1)"
+  },
+  "214_1_stendhal_madip": {
+    "club_name": "STENDHAL MADIP",
+    "club_id": 214,
+    "team_id": 1,
+    "club_team_id": "214_1",
+    "club_team_name": "STENDHAL MADIP",
+    "calname": "ABSSA: STENDHAL MADIP (eq. 1)",
+    "caldesc": "Les matches du club STENDHAL MADIP (equipe 1) en ABSSA.",
+    "search_name": "214 - STENDHAL MADIP (eq. 1)"
   },
   "598_1_ster_s": {
     "club_name": "STER'S",
@@ -2349,16 +2309,6 @@
     "caldesc": "Les matches du club TUBIFOOT AS (equipe 1) en ABSSA.",
     "search_name": "451 - TUBIFOOT AS (eq. 1)"
   },
-  "214_1_uccle_stendhal": {
-    "club_name": "UCCLE STENDHAL",
-    "club_id": 214,
-    "team_id": 1,
-    "club_team_id": "214_1",
-    "club_team_name": "UCCLE STENDHAL",
-    "calname": "ABSSA: UCCLE STENDHAL (eq. 1)",
-    "caldesc": "Les matches du club UCCLE STENDHAL (equipe 1) en ABSSA.",
-    "search_name": "214 - UCCLE STENDHAL (eq. 1)"
-  },
   "655_1_union_bruxelloise": {
     "club_name": "UNION BRUXELLOISE",
     "club_id": 655,
@@ -2399,16 +2349,6 @@
     "caldesc": "Les matches du club UNION TIGERS (equipe 1) en ABSSA.",
     "search_name": "649 - UNION TIGERS (eq. 1)"
   },
-  "683_1_union_vrede": {
-    "club_name": "UNION VREDE",
-    "club_id": 683,
-    "team_id": 1,
-    "club_team_id": "683_1",
-    "club_team_name": "UNION VREDE",
-    "calname": "ABSSA: UNION VREDE (eq. 1)",
-    "caldesc": "Les matches du club UNION VREDE (equipe 1) en ABSSA.",
-    "search_name": "683 - UNION VREDE (eq. 1)"
-  },
   "624_1_vetuso_fc": {
     "club_name": "VETUSO FC.",
     "club_id": 624,
@@ -2438,16 +2378,6 @@
     "calname": "ABSSA: VOGELPIK FC. (eq. 1)",
     "caldesc": "Les matches du club VOGELPIK FC. (equipe 1) en ABSSA.",
     "search_name": "629 - VOGELPIK FC. (eq. 1)"
-  },
-  "589_1_vollenback_fc": {
-    "club_name": "VOLLENBACK FC",
-    "club_id": 589,
-    "team_id": 1,
-    "club_team_id": "589_1",
-    "club_team_name": "VOLLENBACK FC",
-    "calname": "ABSSA: VOLLENBACK FC (eq. 1)",
-    "caldesc": "Les matches du club VOLLENBACK FC (equipe 1) en ABSSA.",
-    "search_name": "589 - VOLLENBACK FC (eq. 1)"
   },
   "67_1_wappers_fc": {
     "club_name": "WAPPERS FC",

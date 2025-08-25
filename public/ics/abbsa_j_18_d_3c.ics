@@ -4,107 +4,122 @@ PRODID:abbsa_j_18_d_3c
 X-WR-CALDESC:Les matches de la journée 18 en divion 3C d'ABSSA.
 X-WR-CALNAME:D3C Journée 18
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J18: ETTEKIJS vs NIVELLES CS
-DTSTART;VALUE=DATE-TIME:20250208T113000Z
-DTEND;VALUE=DATE-TIME:20250208T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_3C_18_343_306
+SUMMARY:ABSSA D3C J18: ETTEKIJS (Eq. 2) vs MIDI AS
+DTSTART;VALUE=DATE-TIME:20260124T113000Z
+DTEND;VALUE=DATE-TIME:20260124T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_3C_18_343_169
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: noir e
- t jaune\n\nContact équipe domicile: Raes F. (0479.73.82.49 - freddy.raes@
- gmail.com)\n\nAccès voiture : A partir du square des Archiducs\, prendre 
- la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez toujours c
- es infos sur http://www.abssa.be/
+ pale équipe domicile: Noir rayé de blanc\nCouleur principale équipe ext
+ erieure: Rouge\n\nContact équipe domicile: Raes F. (0479.73.82.49 - fredd
+ y.raes@gmail.com)\n\nAccès voiture : A partir du square des Archiducs\, p
+ rendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez tou
+ jours ces infos sur http://www.abssa.be/
 GEO:50.80645209999999;4.4087184
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
 ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J18: RAPID TAMTAM FC. vs GAST FC
-DTSTART;VALUE=DATE-TIME:20250208T130000Z
-DTEND;VALUE=DATE-TIME:20250208T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_3C_18_600_388
+SUMMARY:ABSSA D3C J18: BRUSSELS LTC (Eq. 2) vs PIRATERIE (LA)
+DTSTART;VALUE=DATE-TIME:20260124T113000Z
+DTEND;VALUE=DATE-TIME:20260124T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_3C_18_39_652
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O01\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: No
+ ir\n\nContact équipe domicile: Prudhomme D (0478.49.26.08 - brusselsltc03
+ 9@gmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre ring Est di
+ rection Waterloo. Sortir à la sortie n°27 Waterloo Centre.\n	Prendre ens
+ uite à gauche La Drève de Richelle jusqu'au 3ème rond-point et prendre 
+ à gauche la 	Chaussée de Louvain sur environ 2km et prendre à droite la
+  Rue des Saules toujours tout droit et 	qui devient ensuite la Route des M
+ arnières. Continuer ensuite tout droit\, passer un premier rond-point pui
+ s continuer tout droit jusqu'au rond-point du Messager où il faut prendre
+  la 2ème sortie. Vous êtes alors sur la Route de Genval et l'entrée du 
+ Complexe se trouve à environ 200m sur la gauche.\n\nVérifiez toujours ce
+ s infos sur http://www.abssa.be/
+GEO:50.70475570000001;4.4703447
+LOCATION:Route de Genval\, 26A - 1380 Ohain\, Route de Genval 20A\, 1380 O
+ hain\, Belgique
+ORGANIZER;CN="Prudhomme D";ROLE=Secrétaire:MAILTO:brusselsltc039@gmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J18: RAPID TAMTAM FC. vs NEW INN FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260124T130000Z
+DTEND;VALUE=DATE-TIME:20260124T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_3C_18_600_359
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Jaune et rose\nCouleur principale équipe exterieur
- e: Ligné Jaune et bleu\n\nContact équipe domicile: Barbay T. (0477.57.99
- .43 - fcrapidtamtam@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\
- , prendre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (
- terminus bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifi
- ez toujours ces infos sur http://www.abssa.be/
+ pale équipe domicile: Jaune etRose\nCouleur principale équipe exterieure
+ : Rose\n\nContact équipe domicile: Mme Dubray M (0484.39.74.80 - fcrapidt
+ amtam@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la r
+ ue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 2
+ 8). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ce
+ s infos sur http://www.abssa.be/
 GEO:50.8423054;4.445628699999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
-ORGANIZER;CN="Barbay T.";ROLE=Secrétaire:MAILTO:fcrapidtamtam@gmail.com
+ORGANIZER;CN="Mme Dubray M";ROLE=Secrétaire:MAILTO:fcrapidtamtam@gmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J18: FRANGINOS (LOS) vs FOOT JOSAPHAT
-DTSTART;VALUE=DATE-TIME:20250208T140000Z
-DTEND;VALUE=DATE-TIME:20250208T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_3C_18_647_597
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: P02\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Gris\
- n\nContact équipe domicile: Gerard S. (0487.22.81.20 - simongerard@hotmai
- l.be)\n\nAccès voiture : a Partir de Bruxelles\, Prendre la E 411 en Dire
- ction de Namur. Prendre la Sortie 11  Gembloux pour Rejoindre la N 29 en D
- irection de Gembloux / Tirlement / Jodoigne / Perwez. suivre la N29 et Cha
- ussée de Wavre (N243) en Direction de la Rue des Marronniers. au Rond-Poi
- nt 1\, 2 et 3 Prendre chaque Fois la première Sortie.\nAu Rond-Point suiv
- ant (4Ième) Prendre la deuxième Sortie et Continuer sur la Chaussée de 
- Wavre / N 243. Prendre à Droite sur la Rue des Marronniers\, le Terrain s
- e Trouve à Droite\n\nVérifiez toujours ces infos sur http://www.abssa.be
- /
-GEO:50.6429684;4.800823299999999
-LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
-ORGANIZER;CN="Gerard S.";ROLE=Secrétaire:MAILTO:simongerard@hotmail.be
+SUMMARY:ABSSA D3C J18: STRING PENELOPE vs GOALOIS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260124T130000Z
+DTEND;VALUE=DATE-TIME:20260124T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_3C_18_181_345
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Bleu
+  ciel-blanc\n\nContact équipe domicile: Sbaiti Y (0487.54.95.27 - yo.sbai
+ ti@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'autor
+ oute E411 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir
+  la droite et au bout de la bretelle\, prendre la direction d'Ottignies pa
+ r la N238. Au 1èr feu de signalisation continuer tout droit en passant de
+ vant Walibi (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au
+  bout de cette sortie\, en face du Tennis Club La Palestre\, prendre à dr
+ oite la rue Charles Dubois\, jusqu'au carrefour principal. Continuer tout 
+ droit en traversant l'avenue Albert 1èr. Passer en dessous du 1èr pont d
+ u chemin de fer et prendre la rue de l'Europe jusqu'à la place de l'Europ
+ e. Traverser cette place par la droite. Au bout à gauche\, suivre l'avenu
+ e Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Lime
+ lette). Continuer cette rue et passer en dessous du 2ème pont du chemin d
+ e fer. Après ce pont\, prendre tout de suite à gauche l'avenue Demolder 
+ (panneau F.C. Limelette)\, en face de l'étang du Buston. Suivre cette ave
+ nue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m
+ . dans cette rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C
+ . Limelette). L'entrée du terrain est située 50 m. plus bas sur la gauch
+ e.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.67628029999999;4.562802
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Sbaiti Y";ROLE=Secrétaire:MAILTO:yo.sbaiti@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J18: NEPTUNE FC vs CELTIC ROOSTERS
-DTSTART;VALUE=DATE-TIME:20250208T143000Z
-DTEND;VALUE=DATE-TIME:20250208T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_3C_18_56_626
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Vert e
- t blanc\n\nContact équipe domicile: Louies S. (0474.55.15.41 - louiesstep
- hane@gmail.com)\n\nAccès voiture : Via la chaussée de Mons jusqu'à Veew
- eyde (carrefour Fr. Van Kalken). Prendre à droite le boulevard  A. Briand
-  jusqu'à la Place Verdi\, puis le Bld. Théo Lambert.\n\nVérifiez toujou
- rs ces infos sur http://www.abssa.be/
-GEO:50.8275993;4.2964877
-LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
- \, Belgique
-ORGANIZER;CN="Louies S.";ROLE=Secrétaire:MAILTO:louiesstephane@gmail.com
+SUMMARY:ABSSA D3C J18: TAURO FC (Eq. 2) vs BLOOD SPIKES
+DTSTART;VALUE=DATE-TIME:20260124T140000Z
+DTEND;VALUE=DATE-TIME:20260124T153000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_3C_18_574_660
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Lietaer Y. (0484.16.30.31 - ylietaer@gmail.com
+ )\n\nAccès voiture : Place Meiser\, descendre le boulevard Lambermont. Au
+  3ème feu de signalisation prendre à gauche\, puis la première à droit
+ e.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8666341;4.3823667
+LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
+ aerbeek\, Belgique
+ORGANIZER;CN="Lietaer Y.";ROLE=Secrétaire:MAILTO:ylietaer@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J18: ASTURIAS SPORTING vs NEW INN FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20250208T143000Z
-DTEND;VALUE=DATE-TIME:20250208T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_3C_18_602_359
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
- pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: R
- ose\n\nContact équipe domicile: Stulens K. (0474.62.61.41 - kevin.stulens
- @live.be)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 300 m.
-  en direction de Lennik\, prendre à droite.\nVenant de la chaussée de Mo
- ns\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Th
- éo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en directio
- n de Lennik.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.8177358;4.2557195
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER;CN="Stulens K.";ROLE=Secrétaire:MAILTO:kevin.stulens@live.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J18: PHARMA SC (Eq. 2) vs BXL ALLIANCE JETTE
-DTSTART;VALUE=DATE-TIME:20250208T143000Z
-DTEND;VALUE=DATE-TIME:20250208T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_3C_18_268_566
+SUMMARY:ABSSA D3C J18: PHARMA SC (Eq. 2) vs LORRAINE(LA)-MTM.R (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260124T143000Z
+DTEND;VALUE=DATE-TIME:20260124T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_3C_18_268_44
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Vert\n
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
  \nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.dumidi@sca
  rlet.be)\n\nAccès voiture : Au départ de la Place St. Denis à Forest pr
  endre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue 
@@ -119,21 +134,34 @@ ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
  e
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J18: CENTRAL PARK FC vs BLEU-BLANC (ENT)R.
-DTSTART;VALUE=DATE-TIME:20250208T143000Z
-DTEND;VALUE=DATE-TIME:20250208T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_3C_18_562_53
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Bleu et Blanc\nCouleur principale équipe exterieur
- e: Bleu rayé de Blanc\n\nContact équipe domicile: Genot F. (0473.57.28.6
- 1 - genotflorian@hotmail.com)\n\nAccès voiture : Boulevard de la Woluwe\,
-  prendre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (t
- erminus bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifie
- z toujours ces infos sur http://www.abssa.be/
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
+SUMMARY:ABSSA D3C J18: PATJES FC vs FORESTOIS SC
+DTSTART;VALUE=DATE-TIME:20260124T143000Z
+DTEND;VALUE=DATE-TIME:20260124T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_3C_18_582_152
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc.\nCouleur principale équipe exterie
+ ure: Noir\n\nContact équipe domicile: Waucquez J-B (0472.08.73.90 - fcpat
+ jes@outlook.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'au
+ toroute E411 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, te
+ nir la droite et au bout de la bretelle\, prendre la direction d'Ottignies
+  par la N238. Au 1èr feu de signalisation continuer tout droit en passant
+  devant Walibi (qui se trouve sur la gauche) jusqu'à la sortie Limelette.
+  Au bout de cette sortie\, en face du Tennis Club La Palestre\, prendre à
+  droite la rue Charles Dubois\, jusqu'au carrefour principal. Continuer to
+ ut droit en traversant l'avenue Albert 1èr. Passer en dessous du 1èr pon
+ t du chemin de fer et prendre la rue de l'Europe jusqu'à la place de l'Eu
+ rope. Traverser cette place par la droite. Au bout à gauche\, suivre l'av
+ enue Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. L
+ imelette). Continuer cette rue et passer en dessous du 2ème pont du chemi
+ n de fer. Après ce pont\, prendre tout de suite à gauche l'avenue Demold
+ er (panneau F.C. Limelette)\, en face de l'étang du Buston. Suivre cette 
+ avenue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 5
+ 0 m. dans cette rue\, prendre à droite l'avenue des Sorbiers (panneau du 
+ F.C. Limelette). L'entrée du terrain est située 50 m. plus bas sur la ga
+ uche.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.67628029999999;4.562802
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Waucquez J-B";ROLE=Secrétaire:MAILTO:fcpatjes@outlook.com
 END:VEVENT
 END:VCALENDAR

@@ -4,18 +4,38 @@ PRODID:597_1_foot_josaphat
 X-WR-CALDESC:Les matches du club FOOT JOSAPHAT (equipe 1) en ABSSA.
 X-WR-CALNAME:ABSSA: FOOT JOSAPHAT (eq. 1)
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J23: FOOT JOSAPHAT vs ASTURIAS SPORTING
-DTSTART;VALUE=DATE-TIME:20240831T130000Z
-DTEND;VALUE=DATE-TIME:20240831T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_3C_23_597_602
+SUMMARY:ABSSA D3B J1: BRITISH UNITED (Eq. 3) vs FOOT JOSAPHAT
+DTSTART;VALUE=DATE-TIME:20250830T090000Z
+DTEND;VALUE=DATE-TIME:20250830T103000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3B_1_132_597
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B14\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Gris\n
+ \nContact équipe domicile: Caballero G (0479.79.86.54 - guillem_955@hotma
+ il.com)\n\nAccès voiture : A partir de Bruxelles\, prendre la E 411 en di
+ rection de Namur. Prendre la sortie N° 8 puis à droite la bretelle pour 
+ la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 km
+ \, au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Libérat
+ ion\, puis à gauche dans la rue de la Grande lecke.\n\nVérifiez toujours
+  ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.b
+ e/c/597_1_foot_josaphat
+GEO:50.7611768;4.7884455
+LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
+ORGANIZER;CN="Caballero G";ROLE=Secrétaire:MAILTO:guillem_955@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J2: FOOT JOSAPHAT vs JODOIGNOISE FC
+DTSTART;VALUE=DATE-TIME:20250906T130000Z
+DTEND;VALUE=DATE-TIME:20250906T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3B_2_597_664
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
- pale équipe domicile: Gris\nCouleur principale équipe exterieure: Bleu c
- iel\n\nContact équipe domicile: El Youssefi J. (0488.30.74.66 - jawad.ely
- @hotmail.com)\n\nAccès voiture : Place Meiser\, descendre le boulevard La
- mbermont. Au 3ème feu de signalisation prendre à gauche\, puis la premi
- ère à droite.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\n
- Voir sur calabssa: https://calabssa.be/c/597_1_foot_josaphat
+ pale équipe domicile: Gris\nCouleur principale équipe exterieure: Noir e
+ t jaune\n\nContact équipe domicile: El Youssefi J. (0488.30.74.66 - jawad
+ .ely@hotmail.com)\n\nAccès voiture : Place Meiser\, descendre le boulevar
+ d Lambermont. Au 3ème feu de signalisation prendre à gauche\, puis la pr
+ emière à droite.\n\nVérifiez toujours ces infos sur http://www.abssa.be
+ /\nVoir sur calabssa: https://calabssa.be/c/597_1_foot_josaphat
 GEO:50.8666341;4.3823667
 LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
  aerbeek\, Belgique
@@ -23,11 +43,69 @@ ORGANIZER;CN="El Youssefi J.";ROLE=Secrétaire:MAILTO:jawad.ely@hotmail.co
  m
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J1: FOOT JOSAPHAT vs ETTEKIJS
-DTSTART;VALUE=DATE-TIME:20240907T130000Z
-DTEND;VALUE=DATE-TIME:20240907T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_3C_1_597_343
+SUMMARY:ABSSA D3B J3: MOON SHOOTERS vs FOOT JOSAPHAT
+DTSTART;VALUE=DATE-TIME:20250913T133000Z
+DTEND;VALUE=DATE-TIME:20250913T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3B_3_606_597
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Gris\
+ n\nContact équipe domicile: Morelle M. (0478.68.42.14 - max.morelle@gmail
+ .com)\n\nAccès voiture : En venant de Bruxelles par la chaussée de Wavre
+ \, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ban
+ de de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADEP
+ S\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le te
+ rrain se trouve à 200 m. Le stade est fléché.\n\nVérifiez toujours ces
+  infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/
+ 597_1_foot_josaphat
+GEO:50.81071379999999;4.4432209
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="Morelle M.";ROLE=Secrétaire:MAILTO:max.morelle@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J4: FOOT JOSAPHAT vs RHINOCEROS
+DTSTART;VALUE=DATE-TIME:20250920T130000Z
+DTEND;VALUE=DATE-TIME:20250920T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3B_4_597_654
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
+ pale équipe domicile: Gris\nCouleur principale équipe exterieure: Bordea
+ ux\n\nContact équipe domicile: El Youssefi J. (0488.30.74.66 - jawad.ely@
+ hotmail.com)\n\nAccès voiture : Place Meiser\, descendre le boulevard Lam
+ bermont. Au 3ème feu de signalisation prendre à gauche\, puis la premiè
+ re à droite.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVo
+ ir sur calabssa: https://calabssa.be/c/597_1_foot_josaphat
+GEO:50.8666341;4.3823667
+LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
+ aerbeek\, Belgique
+ORGANIZER;CN="El Youssefi J.";ROLE=Secrétaire:MAILTO:jawad.ely@hotmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J5: LORRAINE(LA)-MTM.R vs FOOT JOSAPHAT
+DTSTART;VALUE=DATE-TIME:20250927T103000Z
+DTEND;VALUE=DATE-TIME:20250927T120000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3B_5_44_597
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Bordeaux/bleu\nCouleur principale équipe exterieur
+ e: Gris\n\nContact équipe domicile: Degimbe M. (0478.53.63.56 - lalorrain
+ efc@gmail.com)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosi
+ ères. Passer devant l'église\, longer l'autoroute et tourner à droite a
+ u cimetière des animaux. Terrain à 200 m.\n\nVérifiez toujours ces info
+ s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/597_1
+ _foot_josaphat
+GEO:50.7264542;4.5530681
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="Degimbe M.";ROLE=Secrétaire:MAILTO:lalorrainefc@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J6: FOOT JOSAPHAT vs BOUSVAL GENAPPE
+DTSTART;VALUE=DATE-TIME:20251004T130000Z
+DTEND;VALUE=DATE-TIME:20251004T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3B_6_597_401
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
  pale équipe domicile: Gris\nCouleur principale équipe exterieure: Noir\n
  \nContact équipe domicile: El Youssefi J. (0488.30.74.66 - jawad.ely@hotm
@@ -42,33 +120,32 @@ ORGANIZER;CN="El Youssefi J.";ROLE=Secrétaire:MAILTO:jawad.ely@hotmail.co
  m
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J2: BXL ALLIANCE JETTE vs FOOT JOSAPHAT
-DTSTART;VALUE=DATE-TIME:20240914T120000Z
-DTEND;VALUE=DATE-TIME:20240914T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_3C_2_566_597
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Gris\n
- \nContact équipe domicile: Zaleski S. (0473.34.57.81 - zal.stan@hotmail.c
- om)\n\nAccès voiture : Direction cimetière de Jette\, ensuite prendre la
-  rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. Crocq
- . Le terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur http
- ://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/597_1_foot_josa
- phat
-GEO:50.8868564;4.3286963
-LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
- Belgique
-ORGANIZER;CN="Zaleski S.";ROLE=Secrétaire:MAILTO:zal.stan@hotmail.com
+SUMMARY:ABSSA D3B J7: ETTEKIJS vs FOOT JOSAPHAT
+DTSTART;VALUE=DATE-TIME:20251011T103000Z
+DTEND;VALUE=DATE-TIME:20251011T120000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3B_7_343_597
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Gris\n
+ \nContact équipe domicile: Raes F. (0479.73.82.49 - freddy.raes@gmail.com
+ )\n\nAccès voiture : A partir du square des Archiducs\, prendre la rue Be
+ rensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez toujours ces infos 
+ sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/597_1_f
+ oot_josaphat
+GEO:50.80645209999999;4.4087184
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J3: FOOT JOSAPHAT vs CENTRAL PARK FC
-DTSTART;VALUE=DATE-TIME:20240921T130000Z
-DTEND;VALUE=DATE-TIME:20240921T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_3C_3_597_562
+SUMMARY:ABSSA D3B J8: FOOT JOSAPHAT vs NIVELLOIS-ACLOT BS
+DTSTART;VALUE=DATE-TIME:20251018T130000Z
+DTEND;VALUE=DATE-TIME:20251018T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3B_8_597_503
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
- pale équipe domicile: Gris\nCouleur principale équipe exterieure: Bleu e
- t Blanc\n\nContact équipe domicile: El Youssefi J. (0488.30.74.66 - jawad
+ pale équipe domicile: Gris\nCouleur principale équipe exterieure: Rouge 
+ et noir\n\nContact équipe domicile: El Youssefi J. (0488.30.74.66 - jawad
  .ely@hotmail.com)\n\nAccès voiture : Place Meiser\, descendre le boulevar
  d Lambermont. Au 3ème feu de signalisation prendre à gauche\, puis la pr
  emière à droite.\n\nVérifiez toujours ces infos sur http://www.abssa.be
@@ -80,38 +157,18 @@ ORGANIZER;CN="El Youssefi J.";ROLE=Secrétaire:MAILTO:jawad.ely@hotmail.co
  m
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J4: GAST FC vs FOOT JOSAPHAT
-DTSTART;VALUE=DATE-TIME:20240928T114500Z
-DTEND;VALUE=DATE-TIME:20240928T131500Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_3C_4_388_597
-DESCRIPTION:Terrain synthétique: non\nCode terrain: D01\n\nCouleur princi
- pale équipe domicile: Ligné Jaune et bleu\nCouleur principale équipe ex
- terieure: Gris\n\nContact équipe domicile: Clais D. (0476.99.88.10 - davi
- dclais@hotmail.com)\n\nAccès voiture : Prendre l'Autoroute ou le ring Bru
- xelles-Mons-Paris\, sortie Drogenbos. Prendre direction Drogenbos-Centre\,
-  passer devant la Maison Communale et le terminus du tram\, ensuite à la 
- 3ème rue tourner à main droite (Le terrain se trouve au bout de la rue a
- u Bois).\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir su
- r calabssa: https://calabssa.be/c/597_1_foot_josaphat
-GEO:50.7815061;4.3192196
-LOCATION:Stade Communal de Drogenbos\, Rue au Bois\, 1620 Drogenbos\, Belg
- ique
-ORGANIZER;CN="Clais D.";ROLE=Secrétaire:MAILTO:davidclais@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J5: FOOT JOSAPHAT vs FRANGINOS (LOS)
-DTSTART;VALUE=DATE-TIME:20241005T130000Z
-DTEND;VALUE=DATE-TIME:20241005T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_3C_5_597_647
+SUMMARY:ABSSA D3B J9: FOOT JOSAPHAT vs AMB. AUDERGHEM
+DTSTART;VALUE=DATE-TIME:20251025T130000Z
+DTEND;VALUE=DATE-TIME:20251025T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3B_9_597_249
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
- pale équipe domicile: Gris\nCouleur principale équipe exterieure: Blanc\
- n\nContact équipe domicile: El Youssefi J. (0488.30.74.66 - jawad.ely@hot
- mail.com)\n\nAccès voiture : Place Meiser\, descendre le boulevard Lamber
- mont. Au 3ème feu de signalisation prendre à gauche\, puis la première 
- à droite.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir 
- sur calabssa: https://calabssa.be/c/597_1_foot_josaphat
+ pale équipe domicile: Gris\nCouleur principale équipe exterieure: Or\n\n
+ Contact équipe domicile: El Youssefi J. (0488.30.74.66 - jawad.ely@hotmai
+ l.com)\n\nAccès voiture : Place Meiser\, descendre le boulevard Lambermon
+ t. Au 3ème feu de signalisation prendre à gauche\, puis la première à 
+ droite.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur
+  calabssa: https://calabssa.be/c/597_1_foot_josaphat
 GEO:50.8666341;4.3823667
 LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
  aerbeek\, Belgique
@@ -119,109 +176,29 @@ ORGANIZER;CN="El Youssefi J.";ROLE=Secrétaire:MAILTO:jawad.ely@hotmail.co
  m
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J6: RAPID TAMTAM FC. vs FOOT JOSAPHAT
-DTSTART;VALUE=DATE-TIME:20241012T120000Z
-DTEND;VALUE=DATE-TIME:20241012T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_3C_6_600_597
+SUMMARY:ABSSA D3B J10: CHIEFS WSL (Eq. 2) vs FOOT JOSAPHAT
+DTSTART;VALUE=DATE-TIME:20251108T130000Z
+DTEND;VALUE=DATE-TIME:20251108T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3B_10_303_597
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Jaune et rose\nCouleur principale équipe exterieur
- e: Gris\n\nContact équipe domicile: Barbay T. (0477.57.99.43 - fcrapidtam
- tam@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue
-  Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28)
- . Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ces 
- infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/5
- 97_1_foot_josaphat
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Gris\
+ n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan.be)\n\nA
+ ccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, puis la cha
+ ussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce pont le 
+ terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur http://ww
+ w.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/597_1_foot_josaphat
 GEO:50.8423054;4.445628699999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
-ORGANIZER;CN="Barbay T.";ROLE=Secrétaire:MAILTO:fcrapidtamtam@gmail.com
+ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J25: NEPTUNE FC vs FOOT JOSAPHAT
-DTSTART;VALUE=DATE-TIME:20241019T133000Z
-DTEND;VALUE=DATE-TIME:20241019T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_3C_25_56_597
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Gris\n
- \nContact équipe domicile: Louies S. (0474.55.15.41 - louiesstephane@gmai
- l.com)\n\nAccès voiture : Via la chaussée de Mons jusqu'à Veeweyde (car
- refour Fr. Van Kalken). Prendre à droite le boulevard  A. Briand jusqu'à
-  la Place Verdi\, puis le Bld. Théo Lambert.\n\nVérifiez toujours ces in
- fos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/597
- _1_foot_josaphat
-GEO:50.8275993;4.2964877
-LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
- \, Belgique
-ORGANIZER;CN="Louies S.";ROLE=Secrétaire:MAILTO:louiesstephane@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J26: FOOT JOSAPHAT vs NEW INN FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20241026T130000Z
-DTEND;VALUE=DATE-TIME:20241026T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_3C_26_597_359
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
- pale équipe domicile: Gris\nCouleur principale équipe exterieure: Rose\n
- \nContact équipe domicile: El Youssefi J. (0488.30.74.66 - jawad.ely@hotm
- ail.com)\n\nAccès voiture : Place Meiser\, descendre le boulevard Lamberm
- ont. Au 3ème feu de signalisation prendre à gauche\, puis la première 
- à droite.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir 
- sur calabssa: https://calabssa.be/c/597_1_foot_josaphat
-GEO:50.8666341;4.3823667
-LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
- aerbeek\, Belgique
-ORGANIZER;CN="El Youssefi J.";ROLE=Secrétaire:MAILTO:jawad.ely@hotmail.co
- m
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J7: FOOT JOSAPHAT vs BLEU-BLANC (ENT)R.
-DTSTART;VALUE=DATE-TIME:20241102T140000Z
-DTEND;VALUE=DATE-TIME:20241102T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_3C_7_597_53
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
- pale équipe domicile: Gris\nCouleur principale équipe exterieure: Bleu r
- ayé de Blanc\n\nContact équipe domicile: El Youssefi J. (0488.30.74.66 -
-  jawad.ely@hotmail.com)\n\nAccès voiture : Place Meiser\, descendre le bo
- ulevard Lambermont. Au 3ème feu de signalisation prendre à gauche\, puis
-  la première à droite.\n\nVérifiez toujours ces infos sur http://www.ab
- ssa.be/\nVoir sur calabssa: https://calabssa.be/c/597_1_foot_josaphat
-GEO:50.8666341;4.3823667
-LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
- aerbeek\, Belgique
-ORGANIZER;CN="El Youssefi J.";ROLE=Secrétaire:MAILTO:jawad.ely@hotmail.co
- m
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J8: PHARMA SC (Eq. 2) vs FOOT JOSAPHAT
-DTSTART;VALUE=DATE-TIME:20241109T143000Z
-DTEND;VALUE=DATE-TIME:20241109T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_3C_8_268_597
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Gris\n
- \nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.dumidi@sca
- rlet.be)\n\nAccès voiture : Au départ de la Place St. Denis à Forest pr
- endre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue 
- à droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à g
- auche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée 
- du Complexe se trouve à hauteur de City Cart\, à gauche de la route.\n\n
- Vérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: 
- https://calabssa.be/c/597_1_foot_josaphat
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
- e
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J9: FOOT JOSAPHAT vs NIVELLES CS
-DTSTART;VALUE=DATE-TIME:20241116T140000Z
-DTEND;VALUE=DATE-TIME:20241116T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_3C_9_597_306
+SUMMARY:ABSSA D3B J11: FOOT JOSAPHAT vs NIVELLES CS
+DTSTART;VALUE=DATE-TIME:20251115T140000Z
+DTEND;VALUE=DATE-TIME:20251115T153000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3B_11_597_306
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
  pale équipe domicile: Gris\nCouleur principale équipe exterieure: noir e
  t jaune\n\nContact équipe domicile: El Youssefi J. (0488.30.74.66 - jawad
@@ -236,249 +213,30 @@ ORGANIZER;CN="El Youssefi J.";ROLE=Secrétaire:MAILTO:jawad.ely@hotmail.co
  m
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J12: FOOT JOSAPHAT vs NEPTUNE FC
-DTSTART;VALUE=DATE-TIME:20241123T140000Z
-DTEND;VALUE=DATE-TIME:20241123T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_3C_12_597_56
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
- pale équipe domicile: Gris\nCouleur principale équipe exterieure: Bleu\n
- \nContact équipe domicile: El Youssefi J. (0488.30.74.66 - jawad.ely@hotm
- ail.com)\n\nAccès voiture : Place Meiser\, descendre le boulevard Lamberm
- ont. Au 3ème feu de signalisation prendre à gauche\, puis la première 
- à droite.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir 
- sur calabssa: https://calabssa.be/c/597_1_foot_josaphat
-GEO:50.8666341;4.3823667
-LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
- aerbeek\, Belgique
-ORGANIZER;CN="El Youssefi J.";ROLE=Secrétaire:MAILTO:jawad.ely@hotmail.co
- m
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J11: FOOT JOSAPHAT vs CELTIC ROOSTERS
-DTSTART;VALUE=DATE-TIME:20241130T140000Z
-DTEND;VALUE=DATE-TIME:20241130T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_3C_11_597_626
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
- pale équipe domicile: Gris\nCouleur principale équipe exterieure: Vert e
- t blanc\n\nContact équipe domicile: El Youssefi J. (0488.30.74.66 - jawad
- .ely@hotmail.com)\n\nAccès voiture : Place Meiser\, descendre le boulevar
- d Lambermont. Au 3ème feu de signalisation prendre à gauche\, puis la pr
- emière à droite.\n\nVérifiez toujours ces infos sur http://www.abssa.be
- /\nVoir sur calabssa: https://calabssa.be/c/597_1_foot_josaphat
-GEO:50.8666341;4.3823667
-LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
- aerbeek\, Belgique
-ORGANIZER;CN="El Youssefi J.";ROLE=Secrétaire:MAILTO:jawad.ely@hotmail.co
- m
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J10: ASTURIAS SPORTING vs FOOT JOSAPHAT
-DTSTART;VALUE=DATE-TIME:20241207T143000Z
-DTEND;VALUE=DATE-TIME:20241207T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_3C_10_602_597
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
- pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: G
- ris\n\nContact équipe domicile: Stulens K. (0474.62.61.41 - kevin.stulens
- @live.be)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 300 m.
-  en direction de Lennik\, prendre à droite.\nVenant de la chaussée de Mo
- ns\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. Th
- éo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en directio
- n de Lennik.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoi
- r sur calabssa: https://calabssa.be/c/597_1_foot_josaphat
-GEO:50.8177358;4.2557195
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER;CN="Stulens K.";ROLE=Secrétaire:MAILTO:kevin.stulens@live.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J13: NEW INN FC (Eq. 2) vs FOOT JOSAPHAT
-DTSTART;VALUE=DATE-TIME:20241214T143000Z
-DTEND;VALUE=DATE-TIME:20241214T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_3C_13_359_597
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
- pale équipe domicile: Rose\nCouleur principale équipe exterieure: Gris\n
- \nContact équipe domicile: Van Brabant V (0474.60.68.96 - vanbrabant.v@gm
- ail.com)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute B
- ruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc
-  prendre à droite\, l'avenue des Anciens Combattants. Juste après le car
- refour avec des feux de signalisation prendre à droite vers la Place de l
- a Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le te
- rrain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces infos s
- ur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/597_1_fo
- ot_josaphat
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER;CN="Van Brabant V";ROLE=Secrétaire:MAILTO:vanbrabant.v@gmail.co
- m
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J14: ETTEKIJS vs FOOT JOSAPHAT
-DTSTART;VALUE=DATE-TIME:20250111T113000Z
-DTEND;VALUE=DATE-TIME:20250111T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_3C_14_343_597
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+SUMMARY:ABSSA D3B J12: TAURO FC vs FOOT JOSAPHAT
+DTSTART;VALUE=DATE-TIME:20251122T123000Z
+DTEND;VALUE=DATE-TIME:20251122T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3B_12_574_597
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S09\n\nCouleur princi
  pale équipe domicile: Noir\nCouleur principale équipe exterieure: Gris\n
- \nContact équipe domicile: Raes F. (0479.73.82.49 - freddy.raes@gmail.com
- )\n\nAccès voiture : A partir du square des Archiducs\, prendre la rue Be
- rensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez toujours ces infos 
- sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/597_1_f
- oot_josaphat
-GEO:50.80645209999999;4.4087184
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
+ \nContact équipe domicile: Lietaer Y. (0484.16.30.31 - ylietaer@gmail.com
+ )\n\nAccès voiture : Place Meiser\, descendre Bd. Général Wahis\, Bd La
+ mbermont\, au deuxième carrefour prendre à gauche\, puis encore la premi
+ ère à gauche\nOu :  Place Meiser prendre Av Ernest Cambier. - Tram n° 7
+   - Bus 65 arrêt Chazal\n\nVérifiez toujours ces infos sur http://www.ab
+ ssa.be/\nVoir sur calabssa: https://calabssa.be/c/597_1_foot_josaphat
+GEO:50.8581504;4.3949295
+LOCATION:Complexe Chazal\, Rue Ernest Cambier 2\, 1030 Schaerbeek\, Belgiq
+ ue
+ORGANIZER;CN="Lietaer Y.";ROLE=Secrétaire:MAILTO:ylietaer@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J15: FOOT JOSAPHAT vs BXL ALLIANCE JETTE
-DTSTART;VALUE=DATE-TIME:20250118T140000Z
-DTEND;VALUE=DATE-TIME:20250118T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_3C_15_597_566
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
- pale équipe domicile: Gris\nCouleur principale équipe exterieure: Vert\n
- \nContact équipe domicile: El Youssefi J. (0488.30.74.66 - jawad.ely@hotm
- ail.com)\n\nAccès voiture : Place Meiser\, descendre le boulevard Lamberm
- ont. Au 3ème feu de signalisation prendre à gauche\, puis la première 
- à droite.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir 
- sur calabssa: https://calabssa.be/c/597_1_foot_josaphat
-GEO:50.8666341;4.3823667
-LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
- aerbeek\, Belgique
-ORGANIZER;CN="El Youssefi J.";ROLE=Secrétaire:MAILTO:jawad.ely@hotmail.co
- m
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J16: CENTRAL PARK FC vs FOOT JOSAPHAT
-DTSTART;VALUE=DATE-TIME:20250125T143000Z
-DTEND;VALUE=DATE-TIME:20250125T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_3C_16_562_597
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Bleu et Blanc\nCouleur principale équipe exterieur
- e: Gris\n\nContact équipe domicile: Genot F. (0473.57.28.61 - genotfloria
- n@hotmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue
-  Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28)
- . Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ces 
- infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/5
- 97_1_foot_josaphat
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J17: FOOT JOSAPHAT vs GAST FC
-DTSTART;VALUE=DATE-TIME:20250201T140000Z
-DTEND;VALUE=DATE-TIME:20250201T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_3C_17_597_388
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
- pale équipe domicile: Gris\nCouleur principale équipe exterieure: Ligné
-  Jaune et bleu\n\nContact équipe domicile: El Youssefi J. (0488.30.74.66 
- - jawad.ely@hotmail.com)\n\nAccès voiture : Place Meiser\, descendre le b
- oulevard Lambermont. Au 3ème feu de signalisation prendre à gauche\, pui
- s la première à droite.\n\nVérifiez toujours ces infos sur http://www.a
- bssa.be/\nVoir sur calabssa: https://calabssa.be/c/597_1_foot_josaphat
-GEO:50.8666341;4.3823667
-LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
- aerbeek\, Belgique
-ORGANIZER;CN="El Youssefi J.";ROLE=Secrétaire:MAILTO:jawad.ely@hotmail.co
- m
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J18: FRANGINOS (LOS) vs FOOT JOSAPHAT
-DTSTART;VALUE=DATE-TIME:20250208T140000Z
-DTEND;VALUE=DATE-TIME:20250208T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_3C_18_647_597
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: P02\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Gris\
- n\nContact équipe domicile: Gerard S. (0487.22.81.20 - simongerard@hotmai
- l.be)\n\nAccès voiture : a Partir de Bruxelles\, Prendre la E 411 en Dire
- ction de Namur. Prendre la Sortie 11  Gembloux pour Rejoindre la N 29 en D
- irection de Gembloux / Tirlement / Jodoigne / Perwez. suivre la N29 et Cha
- ussée de Wavre (N243) en Direction de la Rue des Marronniers. au Rond-Poi
- nt 1\, 2 et 3 Prendre chaque Fois la première Sortie.\nAu Rond-Point suiv
- ant (4Ième) Prendre la deuxième Sortie et Continuer sur la Chaussée de 
- Wavre / N 243. Prendre à Droite sur la Rue des Marronniers\, le Terrain s
- e Trouve à Droite\n\nVérifiez toujours ces infos sur http://www.abssa.be
- /\nVoir sur calabssa: https://calabssa.be/c/597_1_foot_josaphat
-GEO:50.6429684;4.800823299999999
-LOCATION:Av. des Marronniers 17\, 1360 Perwez\, Belgique
-ORGANIZER;CN="Gerard S.";ROLE=Secrétaire:MAILTO:simongerard@hotmail.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J19: FOOT JOSAPHAT vs RAPID TAMTAM FC.
-DTSTART;VALUE=DATE-TIME:20250215T140000Z
-DTEND;VALUE=DATE-TIME:20250215T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_3C_19_597_600
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
- pale équipe domicile: Gris\nCouleur principale équipe exterieure: Jaune 
- et rose\n\nContact équipe domicile: El Youssefi J. (0488.30.74.66 - jawad
- .ely@hotmail.com)\n\nAccès voiture : Place Meiser\, descendre le boulevar
- d Lambermont. Au 3ème feu de signalisation prendre à gauche\, puis la pr
- emière à droite.\n\nVérifiez toujours ces infos sur http://www.abssa.be
- /\nVoir sur calabssa: https://calabssa.be/c/597_1_foot_josaphat
-GEO:50.8666341;4.3823667
-LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
- aerbeek\, Belgique
-ORGANIZER;CN="El Youssefi J.";ROLE=Secrétaire:MAILTO:jawad.ely@hotmail.co
- m
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J24: CELTIC ROOSTERS vs FOOT JOSAPHAT
-DTSTART;VALUE=DATE-TIME:20250222T143000Z
-DTEND;VALUE=DATE-TIME:20250222T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_3C_24_626_597
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
- pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
- e: Gris\n\nContact équipe domicile: Dubois S. (0479.04.13.70 - celticroos
- ters@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Namur / Luxe
- mbourg\, prendre la sortie n° 6 Wavre\, à gauche N 238 direction Wavre. 
- Au rond-	point 2ième sortie N238/Blvd. de l'Europe direction Wavre Centre
- . Entrer dans Wavre puis à gauche N 238\, à gauche N 239. 	Au rond-point
-  prendre la première sortie Rue Haute\, continuer sur rue de Bruxelles\, 
- continuer sur rue Saint-Roch\, continuer 	sur rue Joseph Joppart. Prendre 
- à droite l'avenue du Centre Sportif.\n\nVérifiez toujours ces infos sur 
- http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/597_1_foot_
- josaphat
-GEO:50.72071949999999;4.617067899999999
-LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
-  Belgique
-ORGANIZER;CN="Dubois S.";ROLE=Secrétaire:MAILTO:celticroosters@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J20: BLEU-BLANC (ENT)R. vs FOOT JOSAPHAT
-DTSTART;VALUE=DATE-TIME:20250308T143000Z
-DTEND;VALUE=DATE-TIME:20250308T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_3C_20_53_597
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
- pale équipe domicile: Bleu rayé de Blanc\nCouleur principale équipe ext
- erieure: Gris\n\nContact équipe domicile: Mineur X. (0471.56.08.07 - jose
- xavier.mineur@gmail.com)\n\nAccès voiture : Avenue de Tervuren\, prendre 
- l"avenue Parmentier\, puis 1ère rue à main gauche.\n\nVérifiez toujours
-  ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.b
- e/c/597_1_foot_josaphat
-GEO:50.8333897;4.4384038
-LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
- e\, Belgique
-ORGANIZER;CN="Mineur X.";ROLE=Secrétaire:MAILTO:josexavier.mineur@gmail.c
- om
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3C J21: FOOT JOSAPHAT vs PHARMA SC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20250315T140000Z
-DTEND;VALUE=DATE-TIME:20250315T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_3C_21_597_268
+SUMMARY:ABSSA D3B J13: FOOT JOSAPHAT vs AZUR RCS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20251129T140000Z
+DTEND;VALUE=DATE-TIME:20251129T153000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3B_13_597_109
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
  pale équipe domicile: Gris\nCouleur principale équipe exterieure: Bleu\n
  \nContact équipe domicile: El Youssefi J. (0488.30.74.66 - jawad.ely@hotm
@@ -493,11 +251,223 @@ ORGANIZER;CN="El Youssefi J.";ROLE=Secrétaire:MAILTO:jawad.ely@hotmail.co
  m
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3C J22: NIVELLES CS vs FOOT JOSAPHAT
-DTSTART;VALUE=DATE-TIME:20250322T130000Z
-DTEND;VALUE=DATE-TIME:20250322T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_3C_22_306_597
+SUMMARY:ABSSA D3B J14: FOOT JOSAPHAT vs BRITISH UNITED (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20251206T140000Z
+DTEND;VALUE=DATE-TIME:20251206T153000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3B_14_597_132
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
+ pale équipe domicile: Gris\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: El Youssefi J. (0488.30.74.66 - jawad.ely@hotm
+ ail.com)\n\nAccès voiture : Place Meiser\, descendre le boulevard Lamberm
+ ont. Au 3ème feu de signalisation prendre à gauche\, puis la première 
+ à droite.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir 
+ sur calabssa: https://calabssa.be/c/597_1_foot_josaphat
+GEO:50.8666341;4.3823667
+LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
+ aerbeek\, Belgique
+ORGANIZER;CN="El Youssefi J.";ROLE=Secrétaire:MAILTO:jawad.ely@hotmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J15: JODOIGNOISE FC vs FOOT JOSAPHAT
+DTSTART;VALUE=DATE-TIME:20251213T143000Z
+DTEND;VALUE=DATE-TIME:20251213T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3B_15_664_597
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: I03\n\nCouleur princi
+ pale équipe domicile: Noir et jaune\nCouleur principale équipe exterieur
+ e: Gris\n\nContact équipe domicile: Severin S. (0470.55.74.46 - severinsi
+ mon00@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l’
+ E411 en direction de Namur et prendre la sortie 11 Perwez-Gembloux\, prend
+ re à droite vers Perwez sur la N29 jusqu’au rond-point de Glimes qui cr
+ oise la N91 (7km depuis l’E411). Sortir à la 3ème sortie sur la N91 en
+ \ndirection de Hamme-Mille. Prendre ensuite la 3ème rue à gauche et le t
+ errain se trouve directement sur la droite.\n\nVérifiez toujours ces info
+ s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/597_1
+ _foot_josaphat
+GEO:50.6849677;4.8070879
+LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
+ORGANIZER;CN="Severin S.";ROLE=Secrétaire:MAILTO:severinsimon00@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J16: FOOT JOSAPHAT vs MOON SHOOTERS
+DTSTART;VALUE=DATE-TIME:20260110T140000Z
+DTEND;VALUE=DATE-TIME:20260110T153000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3B_16_597_606
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
+ pale équipe domicile: Gris\nCouleur principale équipe exterieure: Jaune\
+ n\nContact équipe domicile: El Youssefi J. (0488.30.74.66 - jawad.ely@hot
+ mail.com)\n\nAccès voiture : Place Meiser\, descendre le boulevard Lamber
+ mont. Au 3ème feu de signalisation prendre à gauche\, puis la première 
+ à droite.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir 
+ sur calabssa: https://calabssa.be/c/597_1_foot_josaphat
+GEO:50.8666341;4.3823667
+LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
+ aerbeek\, Belgique
+ORGANIZER;CN="El Youssefi J.";ROLE=Secrétaire:MAILTO:jawad.ely@hotmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J17: RHINOCEROS vs FOOT JOSAPHAT
+DTSTART;VALUE=DATE-TIME:20260117T143000Z
+DTEND;VALUE=DATE-TIME:20260117T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3B_17_654_597
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Gr
+ is\n\nContact équipe domicile: Watteyne R. (0498.16.13.01 - robin@watteyn
+ e.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'autoroute E4
+ 11 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir la dro
+ ite et au bout de la bretelle\, prendre la direction d'Ottignies par la N2
+ 38. Au 1èr feu de signalisation continuer tout droit en passant devant Wa
+ libi (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au bout d
+ e cette sortie\, en face du Tennis Club La Palestre\, prendre à droite la
+  rue Charles Dubois\, jusqu'au carrefour principal. Continuer tout droit e
+ n traversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du chemi
+ n de fer et prendre la rue de l'Europe jusqu'à la place de l'Europe. Trav
+ erser cette place par la droite. Au bout à gauche\, suivre l'avenue Jassa
+ ns. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limelette).
+  Continuer cette rue et passer en dessous du 2ème pont du chemin de fer. 
+ Après ce pont\, prendre tout de suite à gauche l'avenue Demolder (pannea
+ u F.C. Limelette)\, en face de l'étang du Buston. Suivre cette avenue jus
+ qu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m. dans 
+ cette rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C. Limel
+ ette). L'entrée du terrain est située 50 m. plus bas sur la gauche.\n\nV
+ érifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: h
+ ttps://calabssa.be/c/597_1_foot_josaphat
+GEO:50.67628029999999;4.562802
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Watteyne R.";ROLE=Secrétaire:MAILTO:robin@watteyne.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J18: FOOT JOSAPHAT vs LORRAINE(LA)-MTM.R
+DTSTART;VALUE=DATE-TIME:20260124T140000Z
+DTEND;VALUE=DATE-TIME:20260124T153000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3B_18_597_44
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
+ pale équipe domicile: Gris\nCouleur principale équipe exterieure: Bordea
+ ux/bleu\n\nContact équipe domicile: El Youssefi J. (0488.30.74.66 - jawad
+ .ely@hotmail.com)\n\nAccès voiture : Place Meiser\, descendre le boulevar
+ d Lambermont. Au 3ème feu de signalisation prendre à gauche\, puis la pr
+ emière à droite.\n\nVérifiez toujours ces infos sur http://www.abssa.be
+ /\nVoir sur calabssa: https://calabssa.be/c/597_1_foot_josaphat
+GEO:50.8666341;4.3823667
+LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
+ aerbeek\, Belgique
+ORGANIZER;CN="El Youssefi J.";ROLE=Secrétaire:MAILTO:jawad.ely@hotmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J19: BOUSVAL GENAPPE vs FOOT JOSAPHAT
+DTSTART;VALUE=DATE-TIME:20260131T143000Z
+DTEND;VALUE=DATE-TIME:20260131T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3B_19_401_597
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Gris\n
+ \nContact équipe domicile: Toussaint Y (0475.42.41.78 - YUTTT1470@gmail.c
+ om)\n\nAccès voiture : Venant de Bruxelles prendre le Ring Ouest\, sortie
+  Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charleroi) dire
+ ction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverser le carr
+ efour\, tout droit direction route du sucre.\n\nVérifiez toujours ces inf
+ os sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/597_
+ 1_foot_josaphat
+GEO:50.601458;4.44982
+LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
+ORGANIZER;CN="Toussaint Y";ROLE=Secrétaire:MAILTO:YUTTT1470@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J20: FOOT JOSAPHAT vs ETTEKIJS
+DTSTART;VALUE=DATE-TIME:20260207T140000Z
+DTEND;VALUE=DATE-TIME:20260207T153000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3B_20_597_343
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
+ pale équipe domicile: Gris\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: El Youssefi J. (0488.30.74.66 - jawad.ely@hotm
+ ail.com)\n\nAccès voiture : Place Meiser\, descendre le boulevard Lamberm
+ ont. Au 3ème feu de signalisation prendre à gauche\, puis la première 
+ à droite.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir 
+ sur calabssa: https://calabssa.be/c/597_1_foot_josaphat
+GEO:50.8666341;4.3823667
+LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
+ aerbeek\, Belgique
+ORGANIZER;CN="El Youssefi J.";ROLE=Secrétaire:MAILTO:jawad.ely@hotmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J21: NIVELLOIS-ACLOT BS vs FOOT JOSAPHAT
+DTSTART;VALUE=DATE-TIME:20260214T140000Z
+DTEND;VALUE=DATE-TIME:20260214T153000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3B_21_503_597
+DESCRIPTION:Terrain synthétique: non\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
+ e: Gris\n\nContact équipe domicile: Draux N. (0472.40.01.22 - ni.draux@gm
+ ail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoroute Brux
+ elles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le pon
+ t de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au rond-p
+ oint (Shopping Center)\, tourner à droite en direction de Wavre (petit ri
+ ng de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point du S
+ hopping Center)\, tourner à gauche \, rue de l'Industrie et pénétrer da
+ ns le zoning. Au bout de la rue\, avant le feu de signalisation\, tourner 
+ à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérifiez to
+ ujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cala
+ bssa.be/c/597_1_foot_josaphat
+GEO:50.5959861;4.3562179
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Draux N.";ROLE=Secrétaire:MAILTO:ni.draux@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J22: AMB. AUDERGHEM vs FOOT JOSAPHAT
+DTSTART;VALUE=DATE-TIME:20260221T143000Z
+DTEND;VALUE=DATE-TIME:20260221T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3B_22_249_597
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Or\nCouleur principale équipe exterieure: Gris\n\n
+ Contact équipe domicile: Mad. Plasman T (0497.52.19.81 - tiffany-plasman@
+ hotmail.com)\n\nAccès voiture : En venant de Bruxelles par la chaussée d
+ e Wavre\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser
+  la bande de droite pendant +/- 200 m. et descendre devant le bâtiment de
+  l'ADEPS\, puis passer par le tunnel à gauche (en dessous de l'autoroute)
+ . Le terrain se trouve à 200 m. Le stade est fléché.\n\nVérifiez toujo
+ urs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabss
+ a.be/c/597_1_foot_josaphat
+GEO:50.81071379999999;4.4432209
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="Mad. Plasman T";ROLE=Secrétaire:MAILTO:tiffany-plasman@hotm
+ ail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J23: FOOT JOSAPHAT vs CHIEFS WSL (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260228T140000Z
+DTEND;VALUE=DATE-TIME:20260228T153000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3B_23_597_303
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
+ pale équipe domicile: Gris\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: El Youssefi J. (0488.30.74.66 - jawad.ely@hot
+ mail.com)\n\nAccès voiture : Place Meiser\, descendre le boulevard Lamber
+ mont. Au 3ème feu de signalisation prendre à gauche\, puis la première 
+ à droite.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir 
+ sur calabssa: https://calabssa.be/c/597_1_foot_josaphat
+GEO:50.8666341;4.3823667
+LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
+ aerbeek\, Belgique
+ORGANIZER;CN="El Youssefi J.";ROLE=Secrétaire:MAILTO:jawad.ely@hotmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J24: NIVELLES CS vs FOOT JOSAPHAT
+DTSTART;VALUE=DATE-TIME:20260307T130000Z
+DTEND;VALUE=DATE-TIME:20260307T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3B_24_306_597
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
  pale équipe domicile: noir et jaune\nCouleur principale équipe exterieur
  e: Gris\n\nContact équipe domicile: Couteau A (0497.63.11.19 - couteau.ar
@@ -511,9 +481,49 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
  , tourner à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nV
  érifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: h
  ttps://calabssa.be/c/597_1_foot_josaphat
-GEO:50.5963705;4.3564539
+GEO:50.5959861;4.3562179
 LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
 ORGANIZER;CN="Couteau A";ROLE=Secrétaire:MAILTO:couteau.arnold.00@gmail.c
  om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J25: FOOT JOSAPHAT vs TAURO FC
+DTSTART;VALUE=DATE-TIME:20260314T140000Z
+DTEND;VALUE=DATE-TIME:20260314T153000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3B_25_597_574
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
+ pale équipe domicile: Gris\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: El Youssefi J. (0488.30.74.66 - jawad.ely@hotm
+ ail.com)\n\nAccès voiture : Place Meiser\, descendre le boulevard Lamberm
+ ont. Au 3ème feu de signalisation prendre à gauche\, puis la première 
+ à droite.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir 
+ sur calabssa: https://calabssa.be/c/597_1_foot_josaphat
+GEO:50.8666341;4.3823667
+LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
+ aerbeek\, Belgique
+ORGANIZER;CN="El Youssefi J.";ROLE=Secrétaire:MAILTO:jawad.ely@hotmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3B J26: AZUR RCS (Eq. 3) vs FOOT JOSAPHAT
+DTSTART;VALUE=DATE-TIME:20260321T110000Z
+DTEND;VALUE=DATE-TIME:20260321T123000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3B_26_109_597
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W12\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Gris\n
+ \nContact équipe domicile: Mad. Decamps N. (0477.27.39.66 - nathalie_deca
+ mps@hotmail.com)\n\nAccès voiture : Avenue de Tervuren\, direction Tervur
+ en. Passé le boulevard du Souverain prendre à gauche au premier feu de s
+ ignalisation (Av. Madoux). Au feu de signalisation suivant prendre la 2èm
+ e rue à main droite (Av. J. Dujardin). Ensuite 1ère rue à gauche (Av. S
+ alomé).\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir su
+ r calabssa: https://calabssa.be/c/597_1_foot_josaphat
+GEO:50.8308291;4.4555375
+LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
+ elgique
+ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
+ tmail.com
 END:VEVENT
 END:VCALENDAR

@@ -4,176 +4,96 @@ PRODID:569_1_extranos_los
 X-WR-CALDESC:Les matches du club EXTRANOS (LOS) (equipe 1) en ABSSA.
 X-WR-CALNAME:ABSSA: EXTRANOS (LOS) (eq. 1)
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J23: BLUE THRILLS vs EXTRANOS (LOS)
-DTSTART;VALUE=DATE-TIME:20240831T133000Z
-DTEND;VALUE=DATE-TIME:20240831T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_4A_23_619_569
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
- pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
-  Rouge et Bleu\n\nContact équipe domicile: De Briey A. (0479.858.374 - al
- exdebriey@hotmail.fr)\n\nAccès voiture : Chaussée de Haecht\, vers Diege
- m. Prendre la rue Harenheyde à gauche\, juste au feu de signalisation\, a
- près la station "JET"\, situé à gauche. Entrée du stade par la rue Har
- enheyde\, 100 m. au-delà du pont du chemin de fer.\n\nVérifiez toujours 
- ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be
- /c/569_1_extranos_los
-GEO:50.8928227;4.425372
-LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
-ORGANIZER;CN="De Briey A.";ROLE=Secrétaire:MAILTO:alexdebriey@hotmail.fr
+SUMMARY:ABSSA D3A J1: NEW INN FC vs EXTRANOS (LOS)
+DTSTART;VALUE=DATE-TIME:20250830T133000Z
+DTEND;VALUE=DATE-TIME:20250830T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3A_1_359_569
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
+  et Bleu\n\nContact équipe domicile: Van Brabant V (0474.60.68.96 - vanbr
+ abant.v@gmail.com)\n\nAccès voiture : Au départ de la Place Meiser\, l'a
+ utoroute Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous
+  le viaduc prendre à droite\, l'avenue des Anciens Combattants. Juste apr
+ ès le carrefour avec des feux de signalisation prendre à droite vers la 
+ Place de la Chapelle\, puis prendre la 4ème rue à main droite (rue au Bo
+ is). Le terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujours c
+ es infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/
+ c/569_1_extranos_los
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="Van Brabant V";ROLE=Secrétaire:MAILTO:vanbrabant.v@gmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J1: EXTRANOS (LOS) vs BRUSSELS LTC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20240907T133000Z
-DTEND;VALUE=DATE-TIME:20240907T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_4A_1_569_39
+SUMMARY:ABSSA D3A J2: EXTRANOS (LOS) vs IRLANDE FC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20250906T133000Z
+DTEND;VALUE=DATE-TIME:20250906T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3A_2_569_402
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: E04\n\nCouleur princi
  pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
- e: Bordeaux\n\nContact équipe domicile: Raposo P (0476.68.32.15 - losextr
- anos569@gmail.com)\n\nAccès voiture : De la Place Meiser\, remonter tous 
- les boulevards. Au carrefour de la Chaussée de Wavre\, prendre celle-ci 
+ e: Vert\n\nContact équipe domicile: Mme Scarano D (0488.69.74.44 - losext
+ ranos569@gmail.com)\n\nAccès voiture : De la Place Meiser\, remonter tous
+  les boulevards. Au carrefour de la Chaussée de Wavre\, prendre celle-ci 
  à droite\, ensuite la 2ème rue à droite (Rue Général Fivé)\, puis la
   3ème à droite (rue Baron Dhanis).\n\nVérifiez toujours ces infos sur h
  ttp://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/569_1_extran
  os_los
 GEO:50.8287714;4.3975708
 LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
-ORGANIZER;CN="Raposo P";ROLE=Secrétaire:MAILTO:losextranos569@gmail.com
+ORGANIZER;CN="Mme Scarano D";ROLE=Secrétaire:MAILTO:losextranos569@gmail.
+ com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J2: OMNISPORT BIERGHES vs EXTRANOS (LOS)
-DTSTART;VALUE=DATE-TIME:20240914T110000Z
-DTEND;VALUE=DATE-TIME:20240914T123000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_4A_2_455_569
-DESCRIPTION:Terrain synthétique: non\nCode terrain: B02\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge 
- et Bleu\n\nContact équipe domicile: Barbe L. (0495.21.74.14 - omnisportbi
- erghes1995@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Charleroi (E
- 19)\, prendre la sortie Halle-Tournai-Lille (n° 21) pour rejoindre l'auto
- route Tournai-Lille\, ancienne route A8 (E429). Prendre la sortie Rebecq-Q
- uenast (n° 24). En bas de la sortie\, prendre à droite\, direction Bierg
- hes. Rouler tout droit jusqu'au premier feu rouge. Tourner à droite en di
- rection de Halle\, ensuite la deuxième rue à droite (rue du Sartiau)\, e
- nsuite à gauche. Le terrain se trouve à 300 m.\n\nVérifiez toujours ces
-  infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/
- 569_1_extranos_los
-GEO:50.69576660000001;4.1292301
-LOCATION:Rue du Sartiau 3B\, 1430 Bierghes-Rebecq\, Belgique
-ORGANIZER;CN="Barbe L.";ROLE=Secrétaire:MAILTO:omnisportbierghes1995@gmai
- l.com
+SUMMARY:ABSSA D3A J3: GAST FC vs EXTRANOS (LOS)
+DTSTART;VALUE=DATE-TIME:20250913T114500Z
+DTEND;VALUE=DATE-TIME:20250913T131500Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3A_3_388_569
+DESCRIPTION:Terrain synthétique: non\nCode terrain: D01\n\nCouleur princi
+ pale équipe domicile: Jaune et bleu\nCouleur principale équipe exterieur
+ e: Rouge et Bleu\n\nContact équipe domicile: Clais D. (0476.99.88.10 - da
+ vidclais@hotmail.com)\n\nAccès voiture : Prendre l'Autoroute ou le ring B
+ ruxelles-Mons-Paris\, sortie Drogenbos. Prendre direction Drogenbos-Centre
+ \, passer devant la Maison Communale et le terminus du tram\, ensuite à l
+ a 3ème rue tourner à main droite (Le terrain se trouve au bout de la rue
+  au Bois).\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir 
+ sur calabssa: https://calabssa.be/c/569_1_extranos_los
+GEO:50.7815238;4.3192196
+LOCATION:Stade Communal de Drogenbos\, Rue au Bois\, 1620 Drogenbos\, Belg
+ ique
+ORGANIZER;CN="Clais D.";ROLE=Secrétaire:MAILTO:davidclais@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J3: COPAINS REUNIS vs EXTRANOS (LOS)
-DTSTART;VALUE=DATE-TIME:20240921T133000Z
-DTEND;VALUE=DATE-TIME:20240921T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_4A_3_49_569
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
- pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
-  Rouge et Bleu\n\nContact équipe domicile: Vandermeulen J. (0477.50.45.95
-  - meulenj@hotmail.com)\n\nAccès voiture : En venant de la Route de Lenni
- k (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre la direction du c
- imetière d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-po
- int prendre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entr
- ée du complexe et des terrains se situe à +/- 500 m. sur la gauche.\n\nV
- érifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: h
- ttps://calabssa.be/c/569_1_extranos_los
-GEO:50.8114295;4.2763934
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER;CN="Vandermeulen J.";ROLE=Secrétaire:MAILTO:meulenj@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J4: EXTRANOS (LOS) vs UNION FOXES CLUB
-DTSTART;VALUE=DATE-TIME:20240928T133000Z
-DTEND;VALUE=DATE-TIME:20240928T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_4A_4_569_669
+SUMMARY:ABSSA D3A J4: EXTRANOS (LOS) vs VOGELPIK FC.
+DTSTART;VALUE=DATE-TIME:20250920T133000Z
+DTEND;VALUE=DATE-TIME:20250920T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3A_4_569_629
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: E04\n\nCouleur princi
  pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
- e: Orange et noir\n\nContact équipe domicile: Raposo P (0476.68.32.15 - l
- osextranos569@gmail.com)\n\nAccès voiture : De la Place Meiser\, remonter
-  tous les boulevards. Au carrefour de la Chaussée de Wavre\, prendre cell
- e-ci à droite\, ensuite la 2ème rue à droite (Rue Général Fivé)\, pu
- is la 3ème à droite (rue Baron Dhanis).\n\nVérifiez toujours ces infos 
- sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/569_1_e
- xtranos_los
+ e: Rouge et noir\n\nContact équipe domicile: Mme Scarano D (0488.69.74.44
+  - losextranos569@gmail.com)\n\nAccès voiture : De la Place Meiser\, remo
+ nter tous les boulevards. Au carrefour de la Chaussée de Wavre\, prendre 
+ celle-ci à droite\, ensuite la 2ème rue à droite (Rue Général Fivé)\
+ , puis la 3ème à droite (rue Baron Dhanis).\n\nVérifiez toujours ces in
+ fos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/569
+ _1_extranos_los
 GEO:50.8287714;4.3975708
 LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
-ORGANIZER;CN="Raposo P";ROLE=Secrétaire:MAILTO:losextranos569@gmail.com
+ORGANIZER;CN="Mme Scarano D";ROLE=Secrétaire:MAILTO:losextranos569@gmail.
+ com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J5: FRIENDS SPIRIT AUD vs EXTRANOS (LOS)
-DTSTART;VALUE=DATE-TIME:20241005T103000Z
-DTEND;VALUE=DATE-TIME:20241005T120000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_4A_5_522_569
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Rouge 
- et Bleu\n\nContact équipe domicile: Rau L. (0471.06.77.33 - ludo-r@hotmai
- l.com)\n\nAccès voiture : En venant de Bruxelles par la chaussée de Wavr
- e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
- nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
- PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
- errain se trouve à 200 m. Le stade est fléché.\n\nVérifiez toujours ce
- s infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c
- /569_1_extranos_los
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER;CN="Rau L.";ROLE=Secrétaire:MAILTO:ludo-r@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J6: EXTRANOS (LOS) vs PATRONS (LES)
-DTSTART;VALUE=DATE-TIME:20241012T133000Z
-DTEND;VALUE=DATE-TIME:20241012T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_4A_6_569_628
+SUMMARY:ABSSA D3A J5: EXTRANOS (LOS) vs MACCABI BXL
+DTSTART;VALUE=DATE-TIME:20250927T133000Z
+DTEND;VALUE=DATE-TIME:20250927T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3A_5_569_634
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: E04\n\nCouleur princi
  pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
- e: Rouge\n\nContact équipe domicile: Raposo P (0476.68.32.15 - losextrano
- s569@gmail.com)\n\nAccès voiture : De la Place Meiser\, remonter tous les
-  boulevards. Au carrefour de la Chaussée de Wavre\, prendre celle-ci à d
- roite\, ensuite la 2ème rue à droite (Rue Général Fivé)\, puis la 3è
- me à droite (rue Baron Dhanis).\n\nVérifiez toujours ces infos sur http:
- //www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/569_1_extranos_l
- os
-GEO:50.8287714;4.3975708
-LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
-ORGANIZER;CN="Raposo P";ROLE=Secrétaire:MAILTO:losextranos569@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J25: WOKRASSE F.C. vs EXTRANOS (LOS)
-DTSTART;VALUE=DATE-TIME:20241019T103000Z
-DTEND;VALUE=DATE-TIME:20241019T120000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_4A_25_656_569
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
- pale équipe domicile: Bleu et Noir\nCouleur principale équipe exterieure
- : Rouge et Bleu\n\nContact équipe domicile: Thisse F (0476.35.49.20 - fel
- ix.thisse@gmail.com)\n\nAccès voiture : Au départ de la Place Meiser\, l
- 'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). So
- us le viaduc prendre à droite\, l'avenue des Anciens Combattants. Juste a
- près le carrefour avec des feux de signalisation prendre à droite vers l
- a Place de la Chapelle\, puis prendre la 4ème rue à main droite (rue au 
- Bois). Le terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujours
-  ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.b
- e/c/569_1_extranos_los
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER;CN="Thisse F";ROLE=Secrétaire:MAILTO:felix.thisse@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J26: EXTRANOS (LOS) vs MACAPSULES (LES)
-DTSTART;VALUE=DATE-TIME:20241026T133000Z
-DTEND;VALUE=DATE-TIME:20241026T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_4A_26_569_627
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: E04\n\nCouleur princi
- pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
- e: Vert/blanc\n\nContact équipe domicile: Raposo P (0476.68.32.15 - losex
+ e: Blanc\n\nContact équipe domicile: Mme Scarano D (0488.69.74.44 - losex
  tranos569@gmail.com)\n\nAccès voiture : De la Place Meiser\, remonter tou
  s les boulevards. Au carrefour de la Chaussée de Wavre\, prendre celle-ci
   à droite\, ensuite la 2ème rue à droite (Rue Général Fivé)\, puis l
@@ -182,346 +102,435 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: E04\n\nCouleur princi
  nos_los
 GEO:50.8287714;4.3975708
 LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
-ORGANIZER;CN="Raposo P";ROLE=Secrétaire:MAILTO:losextranos569@gmail.com
+ORGANIZER;CN="Mme Scarano D";ROLE=Secrétaire:MAILTO:losextranos569@gmail.
+ com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J7: LUNETTE (LA) FC vs EXTRANOS (LOS)
-DTSTART;VALUE=DATE-TIME:20241102T130000Z
-DTEND;VALUE=DATE-TIME:20241102T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_4A_7_130_569
-DESCRIPTION:Terrain synthétique: non\nCode terrain: A09\n\nCouleur princi
+SUMMARY:ABSSA D3A J6: TRICOTEUSES FC. vs EXTRANOS (LOS)
+DTSTART;VALUE=DATE-TIME:20251004T130000Z
+DTEND;VALUE=DATE-TIME:20251004T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3A_6_617_569
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W19\n\nCouleur princi
  pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge 
- et Bleu\n\nContact équipe domicile: Bonifazio R. (0488.31.38.10 - bonifaz
- io.raphael@gmail.com)\n\nAccès voiture : En venant de la Route de Lennik 
- (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre la direction du cim
- etière d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-poin
- t prendre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entré
- e du complexe et des terrains se situe à +/- 500 m. sur la gauche.\n\nVé
- rifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: htt
- ps://calabssa.be/c/569_1_extranos_los
-GEO:50.8114295;4.2763934
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER;CN="Bonifazio R.";ROLE=Secrétaire:MAILTO:bonifazio.raphael@gmai
- l.com
+ et Bleu\n\nContact équipe domicile: Van Roey P. (0475.68.28.41 - pierrick
+ vr4@gmail.com)\n\nAccès voiture : Ring de Bruxelles (RO)\, sortie n° 2. 
+ Prendre la direction Wezembeek-Oppem. Ensuite première rue à droite (Lou
+ is Marcelisstraat) puis la troisième à droite (Sportpleinstraat).\nL'ent
+ rée au terrain se trouve à gauche entre les n° 16 et 24.\nPar la ville 
+ : A partir du rond point Montgomery\, prendre l'Avenue de Broqueville\, to
+ ujours tout droit. Passez devant le Shopping de Woluwé\, toujours tout dr
+ oit\, passez devant le magasin "Carrefour"\, puis au 2ème feu de signalis
+ ation prendre à droite et ensuite tout droit. Au bout de la rue prendre 
+ à droite\, le terrain se trouve à 100 mètres  sur la gauche.\n\nVérifi
+ ez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:/
+ /calabssa.be/c/569_1_extranos_los
+GEO:50.8424578;4.486587999999999
+LOCATION:Sportpleinstraat 20\, 1970 Wezembeek - Oppem\, Belgique
+ORGANIZER;CN="Van Roey P.";ROLE=Secrétaire:MAILTO:pierrickvr4@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J8: EXTRANOS (LOS) vs RAYO LATINO
-DTSTART;VALUE=DATE-TIME:20241109T143000Z
-DTEND;VALUE=DATE-TIME:20241109T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_4A_8_569_572
+SUMMARY:ABSSA D3A J7: EXTRANOS (LOS) vs ASTURIAS SPORTING
+DTSTART;VALUE=DATE-TIME:20251011T133000Z
+DTEND;VALUE=DATE-TIME:20251011T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3A_7_569_602
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: E04\n\nCouleur princi
  pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
- e: Rouge et noir\n\nContact équipe domicile: Raposo P (0476.68.32.15 - lo
- sextranos569@gmail.com)\n\nAccès voiture : De la Place Meiser\, remonter 
- tous les boulevards. Au carrefour de la Chaussée de Wavre\, prendre celle
- -ci à droite\, ensuite la 2ème rue à droite (Rue Général Fivé)\, pui
- s la 3ème à droite (rue Baron Dhanis).\n\nVérifiez toujours ces infos s
- ur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/569_1_ex
- tranos_los
+ e: Bleu ciel\n\nContact équipe domicile: Mme Scarano D (0488.69.74.44 - l
+ osextranos569@gmail.com)\n\nAccès voiture : De la Place Meiser\, remonter
+  tous les boulevards. Au carrefour de la Chaussée de Wavre\, prendre cell
+ e-ci à droite\, ensuite la 2ème rue à droite (Rue Général Fivé)\, pu
+ is la 3ème à droite (rue Baron Dhanis).\n\nVérifiez toujours ces infos 
+ sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/569_1_e
+ xtranos_los
 GEO:50.8287714;4.3975708
 LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
-ORGANIZER;CN="Raposo P";ROLE=Secrétaire:MAILTO:losextranos569@gmail.com
+ORGANIZER;CN="Mme Scarano D";ROLE=Secrétaire:MAILTO:losextranos569@gmail.
+ com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J9: MOUSSES TACHENT vs EXTRANOS (LOS)
-DTSTART;VALUE=DATE-TIME:20241116T143000Z
-DTEND;VALUE=DATE-TIME:20241116T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_4A_9_643_569
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: C02\n\nCouleur princi
- pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Ro
- uge et Bleu\n\nContact équipe domicile: Callant S (0478.61.90.26 - les.mo
- usses.tachent@gmail.com)\n\nAccès voiture : Ring ouest: Direction Waterlo
- o\, prendre la sortie "butte du lion" \, prendre à droite\, puis au feu r
- ouge prendre à droite\, rouler jusque Genappe et prendre la RN 25 en dire
- ction de Wavre\, prendre la deuxième sortie (Court St. Etienne) et prendr
- e à gauche\, le terrain se trouve à 1 km. a main droite.\nPar la E411: P
- rendre la E411 direction Namur\, ensuite sortir a Wavre\, prendre ensuite 
- la sortie Villers-La-Ville\, ensuite à droite puis directement à gauche 
- a l'arbre et descendre jusque dans le fond\, prendre a droite et le terrai
- n se trouve à 500 m. a main gauche.\n\nVérifiez toujours ces infos sur h
- ttp://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/569_1_extran
- os_los
-GEO:50.6417231;4.5547061
-LOCATION:Avenue des Combattants\, 1490 Court St. Etienne\, Belgique
-ORGANIZER;CN="Callant S";ROLE=Secrétaire:MAILTO:les.mousses.tachent@gmail
- .com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J12: EXTRANOS (LOS) vs WOKRASSE F.C.
-DTSTART;VALUE=DATE-TIME:20241123T143000Z
-DTEND;VALUE=DATE-TIME:20241123T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_4A_12_569_656
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: E04\n\nCouleur princi
- pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
- e: Bleu et Noir\n\nContact équipe domicile: Raposo P (0476.68.32.15 - los
- extranos569@gmail.com)\n\nAccès voiture : De la Place Meiser\, remonter t
- ous les boulevards. Au carrefour de la Chaussée de Wavre\, prendre celle-
- ci à droite\, ensuite la 2ème rue à droite (Rue Général Fivé)\, puis
-  la 3ème à droite (rue Baron Dhanis).\n\nVérifiez toujours ces infos su
- r http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/569_1_ext
- ranos_los
-GEO:50.8287714;4.3975708
-LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
-ORGANIZER;CN="Raposo P";ROLE=Secrétaire:MAILTO:losextranos569@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J11: WINCHESTER F.C. vs EXTRANOS (LOS)
-DTSTART;VALUE=DATE-TIME:20241130T143000Z
-DTEND;VALUE=DATE-TIME:20241130T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_4A_11_653_569
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
- pale équipe domicile: Bleu et blanc\nCouleur principale équipe exterieur
- e: Rouge et Bleu\n\nContact équipe domicile: Descheemaeker M. (0488.92.88
- .36 - winchesterfc@outlook.com)\n\nAccès voiture : A partir de Bruxelles\
- , prendre la E 411 en direction de Namur. Prendre la sortie N° 8 puis à 
- droite la bretelle pour la N 25 vers Chaumont-Gistoux / Grez Doiceau / Lou
- vain. Après +/- 6\,5 km\, au rond-point\, prendre la sortie 1 vers la N 4
- 20 Chée. de la Libération\, puis à gauche dans la rue de la Grande leck
- e.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur cala
- bssa: https://calabssa.be/c/569_1_extranos_los
-GEO:50.7540176;4.7835618
-LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
-ORGANIZER;CN="Descheemaeker M.";ROLE=Secrétaire:MAILTO:winchesterfc@outlo
- ok.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J10: EXTRANOS (LOS) vs BLUE THRILLS
-DTSTART;VALUE=DATE-TIME:20241207T143000Z
-DTEND;VALUE=DATE-TIME:20241207T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_4A_10_569_619
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: E04\n\nCouleur princi
- pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
- e: Bleu Marine\n\nContact équipe domicile: Raposo P (0476.68.32.15 - lose
- xtranos569@gmail.com)\n\nAccès voiture : De la Place Meiser\, remonter to
- us les boulevards. Au carrefour de la Chaussée de Wavre\, prendre celle-c
- i à droite\, ensuite la 2ème rue à droite (Rue Général Fivé)\, puis 
- la 3ème à droite (rue Baron Dhanis).\n\nVérifiez toujours ces infos sur
-  http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/569_1_extr
- anos_los
-GEO:50.8287714;4.3975708
-LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
-ORGANIZER;CN="Raposo P";ROLE=Secrétaire:MAILTO:losextranos569@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J13: MACAPSULES (LES) vs EXTRANOS (LOS)
-DTSTART;VALUE=DATE-TIME:20241214T143000Z
-DTEND;VALUE=DATE-TIME:20241214T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_4A_13_627_569
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
- pale équipe domicile: Vert/blanc\nCouleur principale équipe exterieure: 
- Rouge et Bleu\n\nContact équipe domicile: Daumont J. (0475.42.26.61 - mac
- apsules@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Namur / L
- uxembourg\, prendre la sortie n° 6 Wavre\, à gauche N 238 direction Wavr
- e. Au rond-	point 2ième sortie N238/Blvd. de l'Europe direction Wavre Cen
- tre. Entrer dans Wavre puis à gauche N 238\, à gauche N 239. 	Au rond-po
- int prendre la première sortie Rue Haute\, continuer sur rue de Bruxelles
- \, continuer sur rue Saint-Roch\, continuer 	sur rue Joseph Joppart. Prend
- re à droite l'avenue du Centre Sportif.\n\nVérifiez toujours ces infos s
- ur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/569_1_ex
- tranos_los
-GEO:50.72071949999999;4.617067899999999
-LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
-  Belgique
-ORGANIZER;CN="Daumont J.";ROLE=Secrétaire:MAILTO:macapsules@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J14: BRUSSELS LTC (Eq. 3) vs EXTRANOS (LOS)
-DTSTART;VALUE=DATE-TIME:20250111T143000Z
-DTEND;VALUE=DATE-TIME:20250111T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_4A_14_39_569
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L09\n\nCouleur princi
- pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Ro
- uge et Bleu\n\nContact équipe domicile: Van Hacht O. (0475.96.43.03 - dan
- nyboffin@hotmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre le
-  Ring Est direction Waterloo. Sortir au pont de Groenendael\, direction La
-  Hulpe\, Genval. Tout droit pendant 2 km. Après le chateau de La Hulpe\, 
- toujours tout droit. Au feu de signalisation et le carrefour de La Hulpe\,
-  tout droit direction Genval. Au feu de signalisation prendre à gauche et
-  ensuite directement à droite\, l'avenue Soyer\, derrière le G.B. Le ter
- rain se trouve à 300 m.\n\nVérifiez toujours ces infos sur http://www.ab
- ssa.be/\nVoir sur calabssa: https://calabssa.be/c/569_1_extranos_los
-GEO:50.7308998;4.4944678
-LOCATION:Stade Soyer\, Avenue Soyer 4\, 1310  La Hulpe\, Belgique
-ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:dannyboffin@hotmail.co
- m
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J15: EXTRANOS (LOS) vs OMNISPORT BIERGHES
-DTSTART;VALUE=DATE-TIME:20250118T143000Z
-DTEND;VALUE=DATE-TIME:20250118T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_4A_15_569_455
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: E04\n\nCouleur princi
- pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
- e: Bleu\n\nContact équipe domicile: Raposo P (0476.68.32.15 - losextranos
- 569@gmail.com)\n\nAccès voiture : De la Place Meiser\, remonter tous les 
- boulevards. Au carrefour de la Chaussée de Wavre\, prendre celle-ci à dr
- oite\, ensuite la 2ème rue à droite (Rue Général Fivé)\, puis la 3èm
- e à droite (rue Baron Dhanis).\n\nVérifiez toujours ces infos sur http:/
- /www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/569_1_extranos_lo
- s
-GEO:50.8287714;4.3975708
-LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
-ORGANIZER;CN="Raposo P";ROLE=Secrétaire:MAILTO:losextranos569@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J16: EXTRANOS (LOS) vs COPAINS REUNIS
-DTSTART;VALUE=DATE-TIME:20250125T143000Z
-DTEND;VALUE=DATE-TIME:20250125T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_4A_16_569_49
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: E04\n\nCouleur princi
- pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
- e: Bleu foncé\n\nContact équipe domicile: Raposo P (0476.68.32.15 - lose
- xtranos569@gmail.com)\n\nAccès voiture : De la Place Meiser\, remonter to
- us les boulevards. Au carrefour de la Chaussée de Wavre\, prendre celle-c
- i à droite\, ensuite la 2ème rue à droite (Rue Général Fivé)\, puis 
- la 3ème à droite (rue Baron Dhanis).\n\nVérifiez toujours ces infos sur
-  http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/569_1_extr
- anos_los
-GEO:50.8287714;4.3975708
-LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
-ORGANIZER;CN="Raposo P";ROLE=Secrétaire:MAILTO:losextranos569@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J17: UNION FOXES CLUB vs EXTRANOS (LOS)
-DTSTART;VALUE=DATE-TIME:20250201T143000Z
-DTEND;VALUE=DATE-TIME:20250201T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_4A_17_669_569
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: O02\n\nCouleur princi
- pale équipe domicile: Orange et noir\nCouleur principale équipe exterieu
- re: Rouge et Bleu\n\nContact équipe domicile: Mizrahi D. (0476.03.37.84 -
-  daniel_mizrahi96@hotmail.com)\n\nAccès voiture : Ring RO\, sortie Ophain
- \, prendre la direction de Ophain Village\, jusqu'à l'église. Ensuite à
-  droite. Le terrain se trouve à 200 m. à gauche.\n\nVérifiez toujours c
- es infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/
- c/569_1_extranos_los
-GEO:50.6648369;4.3506513
-LOCATION:Rue de Lillois 19\, 1421 Ophain/Braine-l'Alleud\, Belgique
-ORGANIZER;CN="Mizrahi D.";ROLE=Secrétaire:MAILTO:daniel_mizrahi96@hotmail
- .com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J18: EXTRANOS (LOS) vs FRIENDS SPIRIT AUD
-DTSTART;VALUE=DATE-TIME:20250208T143000Z
-DTEND;VALUE=DATE-TIME:20250208T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_4A_18_569_522
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: E04\n\nCouleur princi
- pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
- e: Vert\n\nContact équipe domicile: Raposo P (0476.68.32.15 - losextranos
- 569@gmail.com)\n\nAccès voiture : De la Place Meiser\, remonter tous les 
- boulevards. Au carrefour de la Chaussée de Wavre\, prendre celle-ci à dr
- oite\, ensuite la 2ème rue à droite (Rue Général Fivé)\, puis la 3èm
- e à droite (rue Baron Dhanis).\n\nVérifiez toujours ces infos sur http:/
- /www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/569_1_extranos_lo
- s
-GEO:50.8287714;4.3975708
-LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
-ORGANIZER;CN="Raposo P";ROLE=Secrétaire:MAILTO:losextranos569@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J19: PATRONS (LES) vs EXTRANOS (LOS)
-DTSTART;VALUE=DATE-TIME:20250215T143000Z
-DTEND;VALUE=DATE-TIME:20250215T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_4A_19_628_569
+SUMMARY:ABSSA D3A J8: CHIEFS WSL vs EXTRANOS (LOS)
+DTSTART;VALUE=DATE-TIME:20251018T133000Z
+DTEND;VALUE=DATE-TIME:20251018T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3A_8_303_569
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rouge
-  et Bleu\n\nContact équipe domicile: Van Roey G. (0478.24.03.05 - lespatr
- ons.fc@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la 
- rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 
- 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours c
- es infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/
- c/569_1_extranos_los
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
+  et Bleu\n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan
+ .be)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, pu
+ is la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce
+  pont le terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur 
+ http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/569_1_extra
+ nos_los
 GEO:50.8423054;4.445628699999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
-ORGANIZER;CN="Van Roey G.";ROLE=Secrétaire:MAILTO:lespatrons.fc@gmail.com
+ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4A J24: EXTRANOS (LOS) vs WINCHESTER F.C.
-DTSTART;VALUE=DATE-TIME:20250222T143000Z
-DTEND;VALUE=DATE-TIME:20250222T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_4A_24_569_653
+SUMMARY:ABSSA D3A J9: EXTRANOS (LOS) vs ITT - CLAUDY  FC
+DTSTART;VALUE=DATE-TIME:20251025T133000Z
+DTEND;VALUE=DATE-TIME:20251025T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3A_9_569_92
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: E04\n\nCouleur princi
  pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
- e: Bleu et blanc\n\nContact équipe domicile: Raposo P (0476.68.32.15 - lo
- sextranos569@gmail.com)\n\nAccès voiture : De la Place Meiser\, remonter 
- tous les boulevards. Au carrefour de la Chaussée de Wavre\, prendre celle
- -ci à droite\, ensuite la 2ème rue à droite (Rue Général Fivé)\, pui
- s la 3ème à droite (rue Baron Dhanis).\n\nVérifiez toujours ces infos s
- ur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/569_1_ex
- tranos_los
-GEO:50.8287714;4.3975708
-LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
-ORGANIZER;CN="Raposo P";ROLE=Secrétaire:MAILTO:losextranos569@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J20: EXTRANOS (LOS) vs LUNETTE (LA) FC
-DTSTART;VALUE=DATE-TIME:20250308T143000Z
-DTEND;VALUE=DATE-TIME:20250308T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_4A_20_569_130
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: E04\n\nCouleur princi
- pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
- e: Noir\n\nContact équipe domicile: Raposo P (0476.68.32.15 - losextranos
- 569@gmail.com)\n\nAccès voiture : De la Place Meiser\, remonter tous les 
- boulevards. Au carrefour de la Chaussée de Wavre\, prendre celle-ci à dr
- oite\, ensuite la 2ème rue à droite (Rue Général Fivé)\, puis la 3èm
- e à droite (rue Baron Dhanis).\n\nVérifiez toujours ces infos sur http:/
- /www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/569_1_extranos_lo
- s
-GEO:50.8287714;4.3975708
-LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
-ORGANIZER;CN="Raposo P";ROLE=Secrétaire:MAILTO:losextranos569@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J21: RAYO LATINO vs EXTRANOS (LOS)
-DTSTART;VALUE=DATE-TIME:20250315T120000Z
-DTEND;VALUE=DATE-TIME:20250315T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_4A_21_572_569
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
- pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
- e: Rouge et Bleu\n\nContact équipe domicile: Leporcq N (0485.64.31.86 - r
- ayolatino@gmail.com)\n\nAccès voiture : Place Meiser\, descendre le boule
- vard Lambermont. Au 3ème feu de signalisation prendre à gauche\, puis la
-  première à droite.\n\nVérifiez toujours ces infos sur http://www.abssa
- .be/\nVoir sur calabssa: https://calabssa.be/c/569_1_extranos_los
-GEO:50.8666341;4.3823667
-LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
- aerbeek\, Belgique
-ORGANIZER;CN="Leporcq N";ROLE=Secrétaire:MAILTO:rayolatino@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4A J22: EXTRANOS (LOS) vs MOUSSES TACHENT
-DTSTART;VALUE=DATE-TIME:20250322T143000Z
-DTEND;VALUE=DATE-TIME:20250322T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_4A_22_569_643
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: E04\n\nCouleur princi
- pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
- e: Bordeaux\n\nContact équipe domicile: Raposo P (0476.68.32.15 - losextr
- anos569@gmail.com)\n\nAccès voiture : De la Place Meiser\, remonter tous 
- les boulevards. Au carrefour de la Chaussée de Wavre\, prendre celle-ci 
+ e: Noir\n\nContact équipe domicile: Mme Scarano D (0488.69.74.44 - losext
+ ranos569@gmail.com)\n\nAccès voiture : De la Place Meiser\, remonter tous
+  les boulevards. Au carrefour de la Chaussée de Wavre\, prendre celle-ci 
  à droite\, ensuite la 2ème rue à droite (Rue Général Fivé)\, puis la
   3ème à droite (rue Baron Dhanis).\n\nVérifiez toujours ces infos sur h
  ttp://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/569_1_extran
  os_los
 GEO:50.8287714;4.3975708
 LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
-ORGANIZER;CN="Raposo P";ROLE=Secrétaire:MAILTO:losextranos569@gmail.com
+ORGANIZER;CN="Mme Scarano D";ROLE=Secrétaire:MAILTO:losextranos569@gmail.
+ com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J10: BRUSSELS BRITISH R (Eq. 3) vs EXTRANOS (LOS)
+DTSTART;VALUE=DATE-TIME:20251108T113000Z
+DTEND;VALUE=DATE-TIME:20251108T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3A_10_1_569
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
+  et Bleu\n\nContact équipe domicile: O'Connor G (0456.54.46.67 - abssa-se
+ c@rbbfc.org)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosiè
+ res. Passer devant l'église\, longer l'autoroute et tourner à droite au 
+ cimetière des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos 
+ sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/569_1_e
+ xtranos_los
+GEO:50.7264542;4.5530681
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="O'Connor G";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J11: EXTRANOS (LOS) vs SYB  RFC
+DTSTART;VALUE=DATE-TIME:20251115T143000Z
+DTEND;VALUE=DATE-TIME:20251115T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3A_11_569_48
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E04\n\nCouleur princi
+ pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
+ e: Rayé Vert et blanc\n\nContact équipe domicile: Mme Scarano D (0488.69
+ .74.44 - losextranos569@gmail.com)\n\nAccès voiture : De la Place Meiser\
+ , remonter tous les boulevards. Au carrefour de la Chaussée de Wavre\, pr
+ endre celle-ci à droite\, ensuite la 2ème rue à droite (Rue Général F
+ ivé)\, puis la 3ème à droite (rue Baron Dhanis).\n\nVérifiez toujours 
+ ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be
+ /c/569_1_extranos_los
+GEO:50.8287714;4.3975708
+LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
+ORGANIZER;CN="Mme Scarano D";ROLE=Secrétaire:MAILTO:losextranos569@gmail.
+ com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J12: CHOULE AUDERGHEM (Eq. 2) vs EXTRANOS (LOS)
+DTSTART;VALUE=DATE-TIME:20251122T113000Z
+DTEND;VALUE=DATE-TIME:20251122T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3A_12_517_569
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge 
+ et Bleu\n\nContact équipe domicile: Vandenplas D. (0476.54.48.01 - dav_54
+ @hotmail.com)\n\nAccès voiture : A partir du square des Archiducs\, prend
+ re la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez toujour
+ s ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.
+ be/c/569_1_extranos_los
+GEO:50.80645209999999;4.4087184
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J13: EXTRANOS (LOS) vs CURTIS L'AUSELE
+DTSTART;VALUE=DATE-TIME:20251129T143000Z
+DTEND;VALUE=DATE-TIME:20251129T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3A_13_569_599
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E04\n\nCouleur princi
+ pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
+ e: Blanc\n\nContact équipe domicile: Mme Scarano D (0488.69.74.44 - losex
+ tranos569@gmail.com)\n\nAccès voiture : De la Place Meiser\, remonter tou
+ s les boulevards. Au carrefour de la Chaussée de Wavre\, prendre celle-ci
+  à droite\, ensuite la 2ème rue à droite (Rue Général Fivé)\, puis l
+ a 3ème à droite (rue Baron Dhanis).\n\nVérifiez toujours ces infos sur 
+ http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/569_1_extra
+ nos_los
+GEO:50.8287714;4.3975708
+LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
+ORGANIZER;CN="Mme Scarano D";ROLE=Secrétaire:MAILTO:losextranos569@gmail.
+ com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J14: EXTRANOS (LOS) vs NEW INN FC
+DTSTART;VALUE=DATE-TIME:20251206T143000Z
+DTEND;VALUE=DATE-TIME:20251206T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3A_14_569_359
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E04\n\nCouleur princi
+ pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
+ e: Blanc\n\nContact équipe domicile: Mme Scarano D (0488.69.74.44 - losex
+ tranos569@gmail.com)\n\nAccès voiture : De la Place Meiser\, remonter tou
+ s les boulevards. Au carrefour de la Chaussée de Wavre\, prendre celle-ci
+  à droite\, ensuite la 2ème rue à droite (Rue Général Fivé)\, puis l
+ a 3ème à droite (rue Baron Dhanis).\n\nVérifiez toujours ces infos sur 
+ http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/569_1_extra
+ nos_los
+GEO:50.8287714;4.3975708
+LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
+ORGANIZER;CN="Mme Scarano D";ROLE=Secrétaire:MAILTO:losextranos569@gmail.
+ com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J15: IRLANDE FC (Eq. 3) vs EXTRANOS (LOS)
+DTSTART;VALUE=DATE-TIME:20251213T113000Z
+DTEND;VALUE=DATE-TIME:20251213T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3A_15_402_569
+DESCRIPTION:Terrain synthétique: non\nCode terrain: N04\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Rouge 
+ et Bleu\n\nContact équipe domicile: Penouilh S. (0474.97.79.48 - fci.secr
+ etary.mens@outlook.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à 
+ Nossegem\, au premier croisement prendre à gauche la \nMechelsesteenweg. 
+ Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles
+ -Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mec
+ helsesteenweg\, traverser la chaussée de Louvain\, et suivre comme ci-ava
+ nt.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur cal
+ abssa: https://calabssa.be/c/569_1_extranos_los
+GEO:50.88776559999999;4.50894
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER;CN="Penouilh S.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@outl
+ ook.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J16: EXTRANOS (LOS) vs GAST FC
+DTSTART;VALUE=DATE-TIME:20260110T143000Z
+DTEND;VALUE=DATE-TIME:20260110T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3A_16_569_388
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E04\n\nCouleur princi
+ pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
+ e: Jaune et bleu\n\nContact équipe domicile: Mme Scarano D (0488.69.74.44
+  - losextranos569@gmail.com)\n\nAccès voiture : De la Place Meiser\, remo
+ nter tous les boulevards. Au carrefour de la Chaussée de Wavre\, prendre 
+ celle-ci à droite\, ensuite la 2ème rue à droite (Rue Général Fivé)\
+ , puis la 3ème à droite (rue Baron Dhanis).\n\nVérifiez toujours ces in
+ fos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/569
+ _1_extranos_los
+GEO:50.8287714;4.3975708
+LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
+ORGANIZER;CN="Mme Scarano D";ROLE=Secrétaire:MAILTO:losextranos569@gmail.
+ com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J17: VOGELPIK FC. vs EXTRANOS (LOS)
+DTSTART;VALUE=DATE-TIME:20260117T143000Z
+DTEND;VALUE=DATE-TIME:20260117T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3A_17_629_569
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: L08\n\nCouleur princi
+ pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
+ e: Rouge et Bleu\n\nContact équipe domicile: Arnould J (0499.51.32.29 - v
+ ogelpikfc@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Namur E411\, 
+ après Wavre prendre la sortie Louvain-la-Neuve\, continuer sur la N4 dire
+ ction Namur\, au premier rond-point prendre à droite vers la N250 et suiv
+ re "Blocry/Hocaille". Après le second rond-point\, prendre à droite\, au
+  carrefour\, la rue de l'Invasion\, puis de nouveau à droite. L'entrée d
+ u terrain ROS se trouve au bout de l'avenue.\n\nVérifiez toujours ces inf
+ os sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/569_
+ 1_extranos_los
+GEO:50.6706953;4.5975173
+LOCATION:Terrain Royal Ottignies Stimont (Ros)\, Avenue de Lauzelle\, 1348
+  Louvain-La-Neuve\, Belgique
+ORGANIZER;CN="Arnould J";ROLE=Secrétaire:MAILTO:vogelpikfc@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J18: MACCABI BXL vs EXTRANOS (LOS)
+DTSTART;VALUE=DATE-TIME:20260124T130000Z
+DTEND;VALUE=DATE-TIME:20260124T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3A_18_634_569
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
+  et Bleu\n\nContact équipe domicile: Goudsmit G (0472.77.57.89 - maccabib
+ xl@gmail.com)\n\nAccès voiture : Au départ de la Place St. Denis à Fore
+ st prendre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème
+  rue à droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère
+  à gauche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'ent
+ rée du Complexe se trouve à hauteur de City Cart\, à gauche de la route
+ .\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calab
+ ssa: https://calabssa.be/c/569_1_extranos_los
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER;CN="Goudsmit G";ROLE=Secrétaire:MAILTO:maccabibxl@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J19: EXTRANOS (LOS) vs TRICOTEUSES FC.
+DTSTART;VALUE=DATE-TIME:20260131T143000Z
+DTEND;VALUE=DATE-TIME:20260131T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3A_19_569_617
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E04\n\nCouleur princi
+ pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
+ e: Noir\n\nContact équipe domicile: Mme Scarano D (0488.69.74.44 - losext
+ ranos569@gmail.com)\n\nAccès voiture : De la Place Meiser\, remonter tous
+  les boulevards. Au carrefour de la Chaussée de Wavre\, prendre celle-ci 
+ à droite\, ensuite la 2ème rue à droite (Rue Général Fivé)\, puis la
+  3ème à droite (rue Baron Dhanis).\n\nVérifiez toujours ces infos sur h
+ ttp://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/569_1_extran
+ os_los
+GEO:50.8287714;4.3975708
+LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
+ORGANIZER;CN="Mme Scarano D";ROLE=Secrétaire:MAILTO:losextranos569@gmail.
+ com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J20: ASTURIAS SPORTING vs EXTRANOS (LOS)
+DTSTART;VALUE=DATE-TIME:20260207T143000Z
+DTEND;VALUE=DATE-TIME:20260207T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3A_20_602_569
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Bleu ciel\nCouleur principale équipe exterieure: R
+ ouge et Bleu\n\nContact équipe domicile: Stulens K. (0474.62.61.41 - kevi
+ n.stulens@live.be)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, apr
+ ès 300 m. en direction de Lennik\, prendre à droite.\nVenant de la chaus
+ sée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi
+ \, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. e
+ n direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.abss
+ a.be/\nVoir sur calabssa: https://calabssa.be/c/569_1_extranos_los
+GEO:50.8177358;4.2557195
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER;CN="Stulens K.";ROLE=Secrétaire:MAILTO:kevin.stulens@live.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J21: EXTRANOS (LOS) vs CHIEFS WSL
+DTSTART;VALUE=DATE-TIME:20260214T143000Z
+DTEND;VALUE=DATE-TIME:20260214T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3A_21_569_303
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E04\n\nCouleur princi
+ pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
+ e: Blanc\n\nContact équipe domicile: Mme Scarano D (0488.69.74.44 - losex
+ tranos569@gmail.com)\n\nAccès voiture : De la Place Meiser\, remonter tou
+ s les boulevards. Au carrefour de la Chaussée de Wavre\, prendre celle-ci
+  à droite\, ensuite la 2ème rue à droite (Rue Général Fivé)\, puis l
+ a 3ème à droite (rue Baron Dhanis).\n\nVérifiez toujours ces infos sur 
+ http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/569_1_extra
+ nos_los
+GEO:50.8287714;4.3975708
+LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
+ORGANIZER;CN="Mme Scarano D";ROLE=Secrétaire:MAILTO:losextranos569@gmail.
+ com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J22: ITT - CLAUDY  FC vs EXTRANOS (LOS)
+DTSTART;VALUE=DATE-TIME:20260221T143000Z
+DTEND;VALUE=DATE-TIME:20260221T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3A_22_92_569
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: N04\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge 
+ et Bleu\n\nContact équipe domicile: Schmidt C (0475.61.97.33 - Christian@
+ Schmidt1.be)\n\nAccès voiture : Chaussée de Louvain jusqu'à Nossegem\, 
+ au premier croisement prendre à gauche la \nMechelsesteenweg. Le terrain 
+ est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\, p
+ rendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelsesteenw
+ eg\, traverser la chaussée de Louvain\, et suivre comme ci-avant.\n\nVér
+ ifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: http
+ s://calabssa.be/c/569_1_extranos_los
+GEO:50.88776559999999;4.50894
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER;CN="Schmidt C";ROLE=Secrétaire:MAILTO:Christian@Schmidt1.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J23: EXTRANOS (LOS) vs BRUSSELS BRITISH R (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20260228T143000Z
+DTEND;VALUE=DATE-TIME:20260228T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3A_23_569_1
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E04\n\nCouleur princi
+ pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
+ e: Blanc\n\nContact équipe domicile: Mme Scarano D (0488.69.74.44 - losex
+ tranos569@gmail.com)\n\nAccès voiture : De la Place Meiser\, remonter tou
+ s les boulevards. Au carrefour de la Chaussée de Wavre\, prendre celle-ci
+  à droite\, ensuite la 2ème rue à droite (Rue Général Fivé)\, puis l
+ a 3ème à droite (rue Baron Dhanis).\n\nVérifiez toujours ces infos sur 
+ http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/569_1_extra
+ nos_los
+GEO:50.8287714;4.3975708
+LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
+ORGANIZER;CN="Mme Scarano D";ROLE=Secrétaire:MAILTO:losextranos569@gmail.
+ com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J24: SYB  RFC vs EXTRANOS (LOS)
+DTSTART;VALUE=DATE-TIME:20260307T143000Z
+DTEND;VALUE=DATE-TIME:20260307T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3A_24_48_569
+DESCRIPTION:Terrain synthétique: non\nCode terrain: A09\n\nCouleur princi
+ pale équipe domicile: Rayé Vert et blanc\nCouleur principale équipe ext
+ erieure: Rouge et Bleu\n\nContact équipe domicile: Vanhalst M (0495.86.17
+ .84 - maxvanhalst@hotmail.com)\n\nAccès voiture : En venant de la Route d
+ e Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre la directi
+ on du cimetière d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au 
+ rond-point prendre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang).
+  L'entrée du complexe et des terrains se situe à +/- 500 m. sur la gauch
+ e.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur cala
+ bssa: https://calabssa.be/c/569_1_extranos_los
+GEO:50.8087468;4.277603
+LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+ \, Belgique
+ORGANIZER;CN="Vanhalst M";ROLE=Secrétaire:MAILTO:maxvanhalst@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J25: EXTRANOS (LOS) vs CHOULE AUDERGHEM (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260314T143000Z
+DTEND;VALUE=DATE-TIME:20260314T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3A_25_569_517
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E04\n\nCouleur princi
+ pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
+ e: Noir\n\nContact équipe domicile: Mme Scarano D (0488.69.74.44 - losext
+ ranos569@gmail.com)\n\nAccès voiture : De la Place Meiser\, remonter tous
+  les boulevards. Au carrefour de la Chaussée de Wavre\, prendre celle-ci 
+ à droite\, ensuite la 2ème rue à droite (Rue Général Fivé)\, puis la
+  3ème à droite (rue Baron Dhanis).\n\nVérifiez toujours ces infos sur h
+ ttp://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/569_1_extran
+ os_los
+GEO:50.8287714;4.3975708
+LOCATION:Rue Baron Dhanis\, 1040 Etterbeek\, Belgique
+ORGANIZER;CN="Mme Scarano D";ROLE=Secrétaire:MAILTO:losextranos569@gmail.
+ com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3A J26: CURTIS L'AUSELE vs EXTRANOS (LOS)
+DTSTART;VALUE=DATE-TIME:20260321T130000Z
+DTEND;VALUE=DATE-TIME:20260321T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3A_26_599_569
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: I03\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
+  et Bleu\n\nContact équipe domicile: Lambricht T. (0474.20.64.38 - thomas
+ .lambricht@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre
+  l’E411 en direction de Namur et prendre la sortie 11 Perwez-Gembloux\, 
+ prendre à droite vers Perwez sur la N29 jusqu’au rond-point de Glimes q
+ ui croise la N91 (7km depuis l’E411). Sortir à la 3ème sortie sur la N
+ 91 en\ndirection de Hamme-Mille. Prendre ensuite la 3ème rue à gauche et
+  le terrain se trouve directement sur la droite.\n\nVérifiez toujours ces
+  infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/
+ 569_1_extranos_los
+GEO:50.6849677;4.8070879
+LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
+ORGANIZER;CN="Lambricht T.";ROLE=Secrétaire:MAILTO:thomas.lambricht@gmail
+ .com
 END:VEVENT
 END:VCALENDAR

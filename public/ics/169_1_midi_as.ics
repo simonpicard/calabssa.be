@@ -4,11 +4,454 @@ PRODID:169_1_midi_as
 X-WR-CALDESC:Les matches du club MIDI AS (equipe 1) en ABSSA.
 X-WR-CALNAME:ABSSA: MIDI AS (eq. 1)
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J23: PATJES FC vs MIDI AS
-DTSTART;VALUE=DATE-TIME:20240831T133000Z
-DTEND;VALUE=DATE-TIME:20240831T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_3D_23_582_169
+SUMMARY:ABSSA D3C J1: NEW INN FC (Eq. 2) vs MIDI AS
+DTSTART;VALUE=DATE-TIME:20250830T120000Z
+DTEND;VALUE=DATE-TIME:20250830T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_1_359_169
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Rose\nCouleur principale équipe exterieure: Rouge\
+ n\nContact équipe domicile: Van Brabant V (0474.60.68.96 - vanbrabant.v@g
+ mail.com)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute 
+ Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viadu
+ c prendre à droite\, l'avenue des Anciens Combattants. Juste après le ca
+ rrefour avec des feux de signalisation prendre à droite vers la Place de 
+ la Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le t
+ errain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces infos 
+ sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/169_1_m
+ idi_as
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="Van Brabant V";ROLE=Secrétaire:MAILTO:vanbrabant.v@gmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J2: MIDI AS vs PIRATERIE (LA)
+DTSTART;VALUE=DATE-TIME:20250906T133000Z
+DTEND;VALUE=DATE-TIME:20250906T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_2_169_652
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Noir\
+ n\nContact équipe domicile: Cantiniau J-C. (0479.84.17.35 - standardmidi@
+ hotmail.com)\n\nAccès voiture : En venant de Bruxelles\, emprunter la cha
+ ussée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit ca
+ rrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chaussée
+ \, au deuxième feu de signalisation\, prendre à droite\, le terrain se t
+ rouve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur http:
+ //www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/169_1_midi_as
+GEO:50.6827211;4.3844421
+LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud\, Belgique
+ORGANIZER;CN="Cantiniau J-C.";ROLE=Secrétaire:MAILTO:standardmidi@hotmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J3: LORRAINE(LA)-MTM.R (Eq. 2) vs MIDI AS
+DTSTART;VALUE=DATE-TIME:20250913T120000Z
+DTEND;VALUE=DATE-TIME:20250913T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_3_44_169
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge\
+ n\nContact équipe domicile: Degimbe M. (0478.53.63.56 - lalorrainefc@gmai
+ l.com)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. P
+ asser devant l'église\, longer l'autoroute et tourner à droite au cimeti
+ ère des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur ht
+ tp://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/169_1_midi_as
+GEO:50.7264542;4.5530681
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="Degimbe M.";ROLE=Secrétaire:MAILTO:lalorrainefc@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J4: MIDI AS vs GOALOIS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20250920T133000Z
+DTEND;VALUE=DATE-TIME:20250920T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_4_169_345
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu 
+ ciel-blanc\n\nContact équipe domicile: Cantiniau J-C. (0479.84.17.35 - st
+ andardmidi@hotmail.com)\n\nAccès voiture : En venant de Bruxelles\, empru
+ nter la chaussée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour"
+ . Au dit carrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur cett
+ e chaussée\, au deuxième feu de signalisation\, prendre à droite\, le t
+ errain se trouve à 500 m. et est fléché.\n\nVérifiez toujours ces info
+ s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/169_1
+ _midi_as
+GEO:50.6827211;4.3844421
+LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud\, Belgique
+ORGANIZER;CN="Cantiniau J-C.";ROLE=Secrétaire:MAILTO:standardmidi@hotmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J5: MIDI AS vs ETTEKIJS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20250927T133000Z
+DTEND;VALUE=DATE-TIME:20250927T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_5_169_343
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Noir 
+ rayé de blanc\n\nContact équipe domicile: Cantiniau J-C. (0479.84.17.35 
+ - standardmidi@hotmail.com)\n\nAccès voiture : En venant de Bruxelles\, e
+ mprunter la chaussée de Bruxelles ou de Waterloo jusqu'au magasin "Carref
+ our". Au dit carrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur 
+ cette chaussée\, au deuxième feu de signalisation\, prendre à droite\, 
+ le terrain se trouve à 500 m. et est fléché.\n\nVérifiez toujours ces 
+ infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/1
+ 69_1_midi_as
+GEO:50.6827211;4.3844421
+LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud\, Belgique
+ORGANIZER;CN="Cantiniau J-C.";ROLE=Secrétaire:MAILTO:standardmidi@hotmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J6: PHARMA SC (Eq. 2) vs MIDI AS
+DTSTART;VALUE=DATE-TIME:20251004T133000Z
+DTEND;VALUE=DATE-TIME:20251004T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_6_268_169
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge\
+ n\nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.dumidi@sc
+ arlet.be)\n\nAccès voiture : Au départ de la Place St. Denis à Forest p
+ rendre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue
+  à droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à 
+ gauche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée
+  du Complexe se trouve à hauteur de City Cart\, à gauche de la route.\n\
+ nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa:
+  https://calabssa.be/c/169_1_midi_as
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
+ e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J7: MIDI AS vs BRUSSELS LTC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20251011T133000Z
+DTEND;VALUE=DATE-TIME:20251011T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_7_169_39
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Borde
+ aux\n\nContact équipe domicile: Cantiniau J-C. (0479.84.17.35 - standardm
+ idi@hotmail.com)\n\nAccès voiture : En venant de Bruxelles\, emprunter la
+  chaussée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au di
+ t carrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chaus
+ sée\, au deuxième feu de signalisation\, prendre à droite\, le terrain 
+ se trouve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur h
+ ttp://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/169_1_midi_a
+ s
+GEO:50.6827211;4.3844421
+LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud\, Belgique
+ORGANIZER;CN="Cantiniau J-C.";ROLE=Secrétaire:MAILTO:standardmidi@hotmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J8: RAPID TAMTAM FC. vs MIDI AS
+DTSTART;VALUE=DATE-TIME:20251018T120000Z
+DTEND;VALUE=DATE-TIME:20251018T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_8_600_169
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Jaune etRose\nCouleur principale équipe exterieure
+ : Rouge\n\nContact équipe domicile: Mme Dubray M (0484.39.74.80 - fcrapid
+ tamtam@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la 
+ rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 
+ 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours c
+ es infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/
+ c/169_1_midi_as
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Mme Dubray M";ROLE=Secrétaire:MAILTO:fcrapidtamtam@gmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J9: MIDI AS vs PATJES FC
+DTSTART;VALUE=DATE-TIME:20251025T133000Z
+DTEND;VALUE=DATE-TIME:20251025T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_9_169_582
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rouge
+  et blanc.\n\nContact équipe domicile: Cantiniau J-C. (0479.84.17.35 - st
+ andardmidi@hotmail.com)\n\nAccès voiture : En venant de Bruxelles\, empru
+ nter la chaussée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour"
+ . Au dit carrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur cett
+ e chaussée\, au deuxième feu de signalisation\, prendre à droite\, le t
+ errain se trouve à 500 m. et est fléché.\n\nVérifiez toujours ces info
+ s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/169_1
+ _midi_as
+GEO:50.6827211;4.3844421
+LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud\, Belgique
+ORGANIZER;CN="Cantiniau J-C.";ROLE=Secrétaire:MAILTO:standardmidi@hotmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J10: TAURO FC (Eq. 2) vs MIDI AS
+DTSTART;VALUE=DATE-TIME:20251108T140000Z
+DTEND;VALUE=DATE-TIME:20251108T153000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_10_574_169
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge\
+ n\nContact équipe domicile: Lietaer Y. (0484.16.30.31 - ylietaer@gmail.co
+ m)\n\nAccès voiture : Place Meiser\, descendre le boulevard Lambermont. A
+ u 3ème feu de signalisation prendre à gauche\, puis la première à droi
+ te.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur cal
+ abssa: https://calabssa.be/c/169_1_midi_as
+GEO:50.8666341;4.3823667
+LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
+ aerbeek\, Belgique
+ORGANIZER;CN="Lietaer Y.";ROLE=Secrétaire:MAILTO:ylietaer@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J11: MIDI AS vs STRING PENELOPE
+DTSTART;VALUE=DATE-TIME:20251115T143000Z
+DTEND;VALUE=DATE-TIME:20251115T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_11_169_181
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Orang
+ e\n\nContact équipe domicile: Cantiniau J-C. (0479.84.17.35 - standardmid
+ i@hotmail.com)\n\nAccès voiture : En venant de Bruxelles\, emprunter la c
+ haussée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit 
+ carrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chauss
+ ée\, au deuxième feu de signalisation\, prendre à droite\, le terrain s
+ e trouve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur ht
+ tp://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/169_1_midi_as
+GEO:50.6827211;4.3844421
+LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud\, Belgique
+ORGANIZER;CN="Cantiniau J-C.";ROLE=Secrétaire:MAILTO:standardmidi@hotmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J12: BLOOD SPIKES vs MIDI AS
+DTSTART;VALUE=DATE-TIME:20251122T130000Z
+DTEND;VALUE=DATE-TIME:20251122T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_12_660_169
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge\
+ n\nContact équipe domicile: Otte J. (0486.41.87.42 - bloodspikes9@gmail.c
+ om)\n\nAccès voiture : A partir de Bruxelles\, prendre la E 411 en direct
+ ion de Namur. Prendre la sortie N° 8 puis à droite la bretelle pour la N
+  25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 km\, a
+ u rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Libération\
+ , puis à gauche dans la rue de la Grande lecke.\n\nVérifiez toujours ces
+  infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/
+ 169_1_midi_as
+GEO:50.7611768;4.7884455
+LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
+ORGANIZER;CN="Otte J.";ROLE=Secrétaire:MAILTO:bloodspikes9@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J13: MIDI AS vs FORESTOIS SC
+DTSTART;VALUE=DATE-TIME:20251129T143000Z
+DTEND;VALUE=DATE-TIME:20251129T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_13_169_152
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Noir\
+ n\nContact équipe domicile: Cantiniau J-C. (0479.84.17.35 - standardmidi@
+ hotmail.com)\n\nAccès voiture : En venant de Bruxelles\, emprunter la cha
+ ussée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit ca
+ rrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chaussée
+ \, au deuxième feu de signalisation\, prendre à droite\, le terrain se t
+ rouve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur http:
+ //www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/169_1_midi_as
+GEO:50.6827211;4.3844421
+LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud\, Belgique
+ORGANIZER;CN="Cantiniau J-C.";ROLE=Secrétaire:MAILTO:standardmidi@hotmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J14: MIDI AS vs NEW INN FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20251206T143000Z
+DTEND;VALUE=DATE-TIME:20251206T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_14_169_359
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rose\
+ n\nContact équipe domicile: Cantiniau J-C. (0479.84.17.35 - standardmidi@
+ hotmail.com)\n\nAccès voiture : En venant de Bruxelles\, emprunter la cha
+ ussée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit ca
+ rrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chaussée
+ \, au deuxième feu de signalisation\, prendre à droite\, le terrain se t
+ rouve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur http:
+ //www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/169_1_midi_as
+GEO:50.6827211;4.3844421
+LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud\, Belgique
+ORGANIZER;CN="Cantiniau J-C.";ROLE=Secrétaire:MAILTO:standardmidi@hotmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J15: PIRATERIE (LA) vs MIDI AS
+DTSTART;VALUE=DATE-TIME:20251213T130000Z
+DTEND;VALUE=DATE-TIME:20251213T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_15_652_169
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge\
+ n\nContact équipe domicile: Lopez Y Lopez P (0470.42.98.63 - lapiraterief
+ c@outlook.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autorout
+ e Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous 
+ le pont de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au 
+ rond-point (Shopping Center)\, tourner à droite en direction de Wavre (pe
+ tit ring de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-poin
+ t du Shopping Center)\, tourner à gauche \, rue de l'Industrie et pénét
+ rer dans le zoning. Au bout de la rue\, avant le feu de signalisation\, to
+ urner à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérif
+ iez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:
+ //calabssa.be/c/169_1_midi_as
+GEO:50.5959861;4.3562179
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Lopez Y Lopez P";ROLE=Secrétaire:MAILTO:lapirateriefc@outlo
+ ok.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J16: MIDI AS vs LORRAINE(LA)-MTM.R (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260110T143000Z
+DTEND;VALUE=DATE-TIME:20260110T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3C_16_169_44
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Cantiniau J-C. (0479.84.17.35 - standardmidi@
+ hotmail.com)\n\nAccès voiture : En venant de Bruxelles\, emprunter la cha
+ ussée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit ca
+ rrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chaussée
+ \, au deuxième feu de signalisation\, prendre à droite\, le terrain se t
+ rouve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur http:
+ //www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/169_1_midi_as
+GEO:50.6827211;4.3844421
+LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud\, Belgique
+ORGANIZER;CN="Cantiniau J-C.";ROLE=Secrétaire:MAILTO:standardmidi@hotmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J17: GOALOIS (Eq. 2) vs MIDI AS
+DTSTART;VALUE=DATE-TIME:20260117T130000Z
+DTEND;VALUE=DATE-TIME:20260117T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3C_17_345_169
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Bleu ciel-blanc\nCouleur principale équipe exterie
+ ure: Rouge\n\nContact équipe domicile: Laruelle M. (0494.52.09.71 - marti
+ n.laruelle@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre
+  la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus 
+ bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujou
+ rs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa
+ .be/c/169_1_midi_as
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Laruelle M.";ROLE=Secrétaire:MAILTO:martin.laruelle@gmail.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J18: ETTEKIJS (Eq. 2) vs MIDI AS
+DTSTART;VALUE=DATE-TIME:20260124T113000Z
+DTEND;VALUE=DATE-TIME:20260124T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3C_18_343_169
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Noir rayé de blanc\nCouleur principale équipe ext
+ erieure: Rouge\n\nContact équipe domicile: Raes F. (0479.73.82.49 - fredd
+ y.raes@gmail.com)\n\nAccès voiture : A partir du square des Archiducs\, p
+ rendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez tou
+ jours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calab
+ ssa.be/c/169_1_midi_as
+GEO:50.80645209999999;4.4087184
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J19: MIDI AS vs PHARMA SC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260131T143000Z
+DTEND;VALUE=DATE-TIME:20260131T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3C_19_169_268
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Cantiniau J-C. (0479.84.17.35 - standardmidi@
+ hotmail.com)\n\nAccès voiture : En venant de Bruxelles\, emprunter la cha
+ ussée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit ca
+ rrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chaussée
+ \, au deuxième feu de signalisation\, prendre à droite\, le terrain se t
+ rouve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur http:
+ //www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/169_1_midi_as
+GEO:50.6827211;4.3844421
+LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud\, Belgique
+ORGANIZER;CN="Cantiniau J-C.";ROLE=Secrétaire:MAILTO:standardmidi@hotmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J20: BRUSSELS LTC (Eq. 2) vs MIDI AS
+DTSTART;VALUE=DATE-TIME:20260207T113000Z
+DTEND;VALUE=DATE-TIME:20260207T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3C_20_39_169
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O01\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Ro
+ uge\n\nContact équipe domicile: Prudhomme D (0478.49.26.08 - brusselsltc0
+ 39@gmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre ring Est d
+ irection Waterloo. Sortir à la sortie n°27 Waterloo Centre.\n	Prendre en
+ suite à gauche La Drève de Richelle jusqu'au 3ème rond-point et prendre
+  à gauche la 	Chaussée de Louvain sur environ 2km et prendre à droite l
+ a Rue des Saules toujours tout droit et 	qui devient ensuite la Route des 
+ Marnières. Continuer ensuite tout droit\, passer un premier rond-point pu
+ is continuer tout droit jusqu'au rond-point du Messager où il faut prendr
+ e la 2ème sortie. Vous êtes alors sur la Route de Genval et l'entrée du
+  Complexe se trouve à environ 200m sur la gauche.\n\nVérifiez toujours c
+ es infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/
+ c/169_1_midi_as
+GEO:50.70475570000001;4.4703447
+LOCATION:Route de Genval\, 26A - 1380 Ohain\, Route de Genval 20A\, 1380 O
+ hain\, Belgique
+ORGANIZER;CN="Prudhomme D";ROLE=Secrétaire:MAILTO:brusselsltc039@gmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J21: MIDI AS vs RAPID TAMTAM FC.
+DTSTART;VALUE=DATE-TIME:20260214T143000Z
+DTEND;VALUE=DATE-TIME:20260214T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3C_21_169_600
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Jaune
+  etRose\n\nContact équipe domicile: Cantiniau J-C. (0479.84.17.35 - stand
+ ardmidi@hotmail.com)\n\nAccès voiture : En venant de Bruxelles\, emprunte
+ r la chaussée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". A
+ u dit carrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur cette c
+ haussée\, au deuxième feu de signalisation\, prendre à droite\, le terr
+ ain se trouve à 500 m. et est fléché.\n\nVérifiez toujours ces infos s
+ ur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/169_1_mi
+ di_as
+GEO:50.6827211;4.3844421
+LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
+ ud\, Belgique
+ORGANIZER;CN="Cantiniau J-C.";ROLE=Secrétaire:MAILTO:standardmidi@hotmail
+ .com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J22: PATJES FC vs MIDI AS
+DTSTART;VALUE=DATE-TIME:20260221T143000Z
+DTEND;VALUE=DATE-TIME:20260221T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3C_22_582_169
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
  pale équipe domicile: Rouge et blanc.\nCouleur principale équipe exterie
  ure: Rouge\n\nContact équipe domicile: Waucquez J-B (0472.08.73.90 - fcpa
@@ -36,32 +479,13 @@ LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
 ORGANIZER;CN="Waucquez J-B";ROLE=Secrétaire:MAILTO:fcpatjes@outlook.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J1: GERMINAL CSA vs MIDI AS
-DTSTART;VALUE=DATE-TIME:20240907T120000Z
-DTEND;VALUE=DATE-TIME:20240907T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_3D_1_235_169
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: E07\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Rouge\
- n\nContact équipe domicile: Naniot M. (0477.47.14.56 - m.naniot@skynet.be
- )\n\nAccès voiture : Boulevard Lambermont\, prendre le boulevard Léopold
-  III\, direction aéroport de Bruxelles-National\, au 3ème feu de signali
- sation prendre à droite. le terrain se trouve à 50 m.\n\nVérifiez toujo
- urs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabss
- a.be/c/169_1_midi_as
-GEO:50.8691994;4.406709999999999
-LOCATION:Complexe Sportif Evere\, Avenue des Anciens Combattants 300\, 114
- 0 Evere\, Belgique
-ORGANIZER;CN="Naniot M.";ROLE=Secrétaire:MAILTO:m.naniot@skynet.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J2: MIDI AS vs PICARDIE AS
-DTSTART;VALUE=DATE-TIME:20240914T133000Z
-DTEND;VALUE=DATE-TIME:20240914T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_3D_2_169_63
+SUMMARY:ABSSA D3C J23: MIDI AS vs TAURO FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260228T143000Z
+DTEND;VALUE=DATE-TIME:20260228T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3C_23_169_574
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu\
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Noir\
  n\nContact équipe domicile: Cantiniau J-C. (0479.84.17.35 - standardmidi@
  hotmail.com)\n\nAccès voiture : En venant de Bruxelles\, emprunter la cha
  ussée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit ca
@@ -76,43 +500,52 @@ ORGANIZER;CN="Cantiniau J-C.";ROLE=Secrétaire:MAILTO:standardmidi@hotmail
  .com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J3: NEW INN FC (Eq. 3) vs MIDI AS
-DTSTART;VALUE=DATE-TIME:20240921T120000Z
-DTEND;VALUE=DATE-TIME:20240921T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_3D_3_359_169
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
- pale équipe domicile: Noir et Jaune\nCouleur principale équipe exterieur
- e: Rouge\n\nContact équipe domicile: Van Brabant V (0474.60.68.96 - vanbr
- abant.v@gmail.com)\n\nAccès voiture : Au départ de la Place Meiser\, l'a
- utoroute Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous
-  le viaduc prendre à droite\, l'avenue des Anciens Combattants. Juste apr
- ès le carrefour avec des feux de signalisation prendre à droite vers la 
- Place de la Chapelle\, puis prendre la 4ème rue à main droite (rue au Bo
- is). Le terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujours c
- es infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/
- c/169_1_midi_as
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER;CN="Van Brabant V";ROLE=Secrétaire:MAILTO:vanbrabant.v@gmail.co
- m
+SUMMARY:ABSSA D3C J24: STRING PENELOPE vs MIDI AS
+DTSTART;VALUE=DATE-TIME:20260307T130000Z
+DTEND;VALUE=DATE-TIME:20260307T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3C_24_181_169
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Roug
+ e\n\nContact équipe domicile: Sbaiti Y (0487.54.95.27 - yo.sbaiti@gmail.c
+ om)\n\nAccès voiture : En venant de Bruxelles\, prendre l'autoroute E411 
+ en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir la droite
+  et au bout de la bretelle\, prendre la direction d'Ottignies par la N238.
+  Au 1èr feu de signalisation continuer tout droit en passant devant Walib
+ i (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au bout de c
+ ette sortie\, en face du Tennis Club La Palestre\, prendre à droite la ru
+ e Charles Dubois\, jusqu'au carrefour principal. Continuer tout droit en t
+ raversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du chemin d
+ e fer et prendre la rue de l'Europe jusqu'à la place de l'Europe. Travers
+ er cette place par la droite. Au bout à gauche\, suivre l'avenue Jassans.
+  Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limelette). Co
+ ntinuer cette rue et passer en dessous du 2ème pont du chemin de fer. Apr
+ ès ce pont\, prendre tout de suite à gauche l'avenue Demolder (panneau F
+ .C. Limelette)\, en face de l'étang du Buston. Suivre cette avenue jusqu'
+ à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m. dans cet
+ te rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C. Limelett
+ e). L'entrée du terrain est située 50 m. plus bas sur la gauche.\n\nVér
+ ifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: http
+ s://calabssa.be/c/169_1_midi_as
+GEO:50.67628029999999;4.562802
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Sbaiti Y";ROLE=Secrétaire:MAILTO:yo.sbaiti@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J4: MIDI AS vs TRICOTEUSES FC.
-DTSTART;VALUE=DATE-TIME:20240928T133000Z
-DTEND;VALUE=DATE-TIME:20240928T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_3D_4_169_617
+SUMMARY:ABSSA D3C J25: MIDI AS vs BLOOD SPIKES
+DTSTART;VALUE=DATE-TIME:20260314T143000Z
+DTEND;VALUE=DATE-TIME:20260314T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3C_25_169_660
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Borde
- aux\n\nContact équipe domicile: Cantiniau J-C. (0479.84.17.35 - standardm
- idi@hotmail.com)\n\nAccès voiture : En venant de Bruxelles\, emprunter la
-  chaussée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au di
- t carrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chaus
- sée\, au deuxième feu de signalisation\, prendre à droite\, le terrain 
- se trouve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur h
- ttp://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/169_1_midi_a
- s
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Noir\
+ n\nContact équipe domicile: Cantiniau J-C. (0479.84.17.35 - standardmidi@
+ hotmail.com)\n\nAccès voiture : En venant de Bruxelles\, emprunter la cha
+ ussée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit ca
+ rrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chaussée
+ \, au deuxième feu de signalisation\, prendre à droite\, le terrain se t
+ rouve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur http:
+ //www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/169_1_midi_as
 GEO:50.6827211;4.3844421
 LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
  ud\, Belgique
@@ -120,470 +553,24 @@ ORGANIZER;CN="Cantiniau J-C.";ROLE=Secrétaire:MAILTO:standardmidi@hotmail
  .com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J5: RAPID MYMOL vs MIDI AS
-DTSTART;VALUE=DATE-TIME:20241005T120000Z
-DTEND;VALUE=DATE-TIME:20241005T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_3D_5_622_169
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W19\n\nCouleur princi
- pale équipe domicile: Bleu et Jaune\nCouleur principale équipe exterieur
- e: Rouge\n\nContact équipe domicile: Delanghe A. (0498.42.21.39 - rapidmy
- molabssa@gmail.com)\n\nAccès voiture : Ring de Bruxelles (RO)\, sortie n
- ° 2. Prendre la direction Wezembeek-Oppem. Ensuite première rue à droit
- e (Louis Marcelisstraat) puis la troisième à droite (Sportpleinstraat).\
- nL'entrée au terrain se trouve à gauche entre les n° 16 et 24.\nPar la 
- ville : A partir du rond point Montgomery\, prendre l'Avenue de Broquevill
- e\, toujours tout droit. Passez devant le Shopping de Woluwé\, toujours t
- out droit\, passez devant le magasin "Carrefour"\, puis au 2ème feu de si
- gnalisation prendre à droite et ensuite tout droit. Au bout de la rue pre
- ndre à droite\, le terrain se trouve à 100 mètres  sur la gauche.\n\nV
- érifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: h
- ttps://calabssa.be/c/169_1_midi_as
-GEO:50.8424578;4.486587999999999
-LOCATION:Sportpleinstraat 20\, 1970 Wezembeek - Oppem\, Belgique
-ORGANIZER;CN="Delanghe A.";ROLE=Secrétaire:MAILTO:rapidmymolabssa@gmail.c
- om
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J6: MIDI AS vs RHINOCEROS
-DTSTART;VALUE=DATE-TIME:20241012T133000Z
-DTEND;VALUE=DATE-TIME:20241012T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_3D_6_169_654
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Jaune
- \n\nContact équipe domicile: Cantiniau J-C. (0479.84.17.35 - standardmidi
- @hotmail.com)\n\nAccès voiture : En venant de Bruxelles\, emprunter la ch
- aussée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit c
- arrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chaussé
- e\, au deuxième feu de signalisation\, prendre à droite\, le terrain se 
- trouve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur http
- ://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/169_1_midi_as
-GEO:50.6827211;4.3844421
-LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
- ud\, Belgique
-ORGANIZER;CN="Cantiniau J-C.";ROLE=Secrétaire:MAILTO:standardmidi@hotmail
- .com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J25: SYB  RFC vs MIDI AS
-DTSTART;VALUE=DATE-TIME:20241019T133000Z
-DTEND;VALUE=DATE-TIME:20241019T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_3D_25_48_169
-DESCRIPTION:Terrain synthétique: non\nCode terrain: A09\n\nCouleur princi
- pale équipe domicile: Rayé Vert et blanc\nCouleur principale équipe ext
- erieure: Rouge\n\nContact équipe domicile: Vanhalst M (0495.86.17.84 - ma
- xvanhalst@hotmail.com)\n\nAccès voiture : En venant de la Route de Lennik
-  (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre la direction du ci
- metière d'Anderlecht\, emprunter le Boulevard Josse Leemans\, au rond-poi
- nt prendre la sortie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entr
- ée du complexe et des terrains se situe à +/- 500 m. sur la gauche.\n\nV
- érifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: h
- ttps://calabssa.be/c/169_1_midi_as
-GEO:50.8114295;4.2763934
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER;CN="Vanhalst M";ROLE=Secrétaire:MAILTO:maxvanhalst@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J26: MIDI AS vs ETTEKIJS (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20241026T133000Z
-DTEND;VALUE=DATE-TIME:20241026T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_3D_26_169_343
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Noir 
- rayé de blanc\n\nContact équipe domicile: Cantiniau J-C. (0479.84.17.35 
- - standardmidi@hotmail.com)\n\nAccès voiture : En venant de Bruxelles\, e
- mprunter la chaussée de Bruxelles ou de Waterloo jusqu'au magasin "Carref
- our". Au dit carrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur 
- cette chaussée\, au deuxième feu de signalisation\, prendre à droite\, 
- le terrain se trouve à 500 m. et est fléché.\n\nVérifiez toujours ces 
- infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/1
- 69_1_midi_as
-GEO:50.6827211;4.3844421
-LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
- ud\, Belgique
-ORGANIZER;CN="Cantiniau J-C.";ROLE=Secrétaire:MAILTO:standardmidi@hotmail
- .com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J7: IRLANDE FC (Eq. 4) vs MIDI AS
-DTSTART;VALUE=DATE-TIME:20241102T130000Z
-DTEND;VALUE=DATE-TIME:20241102T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_3D_7_402_169
-DESCRIPTION:Terrain synthétique: non\nCode terrain: N04\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Rouge\
- n\nContact équipe domicile: Penouilh S. (0474.97.79.48 - fci.secretary.me
- ns@outlook.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à Nossegem
- \, au premier croisement prendre à gauche la \nMechelsesteenweg. Le terra
- in est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\
- , prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelseste
- enweg\, traverser la chaussée de Louvain\, et suivre comme ci-avant.\n\nV
- érifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: h
- ttps://calabssa.be/c/169_1_midi_as
-GEO:50.88776559999999;4.50894
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER;CN="Penouilh S.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@outl
- ook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J8: MIDI AS vs CURTIS L'AUSELE
-DTSTART;VALUE=DATE-TIME:20241109T143000Z
-DTEND;VALUE=DATE-TIME:20241109T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_3D_8_169_599
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Blanc
- \n\nContact équipe domicile: Cantiniau J-C. (0479.84.17.35 - standardmidi
- @hotmail.com)\n\nAccès voiture : En venant de Bruxelles\, emprunter la ch
- aussée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit c
- arrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chaussé
- e\, au deuxième feu de signalisation\, prendre à droite\, le terrain se 
- trouve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur http
- ://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/169_1_midi_as
-GEO:50.6827211;4.3844421
-LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
- ud\, Belgique
-ORGANIZER;CN="Cantiniau J-C.";ROLE=Secrétaire:MAILTO:standardmidi@hotmail
- .com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J9: VOGELPIK FC. vs MIDI AS
-DTSTART;VALUE=DATE-TIME:20241116T143000Z
-DTEND;VALUE=DATE-TIME:20241116T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_3D_9_629_169
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L08\n\nCouleur princi
- pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
- e: Rouge\n\nContact équipe domicile: Arnould J (0499.51.32.29 - vogelpikf
- c@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Namur E411\, après W
- avre prendre la sortie Louvain-la-Neuve\, continuer sur la N4 direction Na
- mur\, au premier rond-point prendre à droite vers la N250 et suivre "Bloc
- ry/Hocaille". Après le second rond-point\, prendre à droite\, au carrefo
- ur\, la rue de l'Invasion\, puis de nouveau à droite. L'entrée du terrai
- n ROS se trouve au bout de l'avenue.\n\nVérifiez toujours ces infos sur h
- ttp://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/169_1_midi_a
- s
-GEO:50.6706953;4.5975173
-LOCATION:Terrain Royal Ottignies Stimont (Ros)\, Avenue de Lauzelle\, 1348
-  Louvain-La-Neuve\, Belgique
-ORGANIZER;CN="Arnould J";ROLE=Secrétaire:MAILTO:vogelpikfc@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J12: MIDI AS vs SYB  RFC
-DTSTART;VALUE=DATE-TIME:20241123T143000Z
-DTEND;VALUE=DATE-TIME:20241123T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_3D_12_169_48
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rayé
-  Vert et blanc\n\nContact équipe domicile: Cantiniau J-C. (0479.84.17.35 
- - standardmidi@hotmail.com)\n\nAccès voiture : En venant de Bruxelles\, e
- mprunter la chaussée de Bruxelles ou de Waterloo jusqu'au magasin "Carref
- our". Au dit carrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur 
- cette chaussée\, au deuxième feu de signalisation\, prendre à droite\, 
- le terrain se trouve à 500 m. et est fléché.\n\nVérifiez toujours ces 
- infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/1
- 69_1_midi_as
-GEO:50.6827211;4.3844421
-LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
- ud\, Belgique
-ORGANIZER;CN="Cantiniau J-C.";ROLE=Secrétaire:MAILTO:standardmidi@hotmail
- .com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J11: FORESTOISE E.J. vs MIDI AS
-DTSTART;VALUE=DATE-TIME:20241130T143000Z
-DTEND;VALUE=DATE-TIME:20241130T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_3D_11_623_169
+SUMMARY:ABSSA D3C J26: FORESTOIS SC vs MIDI AS
+DTSTART;VALUE=DATE-TIME:20260321T130000Z
+DTEND;VALUE=DATE-TIME:20260321T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3C_26_152_169
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
- pale équipe domicile: Bleu Ciel\nCouleur principale équipe exterieure: R
- ouge\n\nContact équipe domicile: El Yamani Y. (0474.75.75.02 - yahyaelyam
- ani96@gmail.com)\n\nAccès voiture : Au départ de la Place St. Denis à F
- orest prendre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4
- ème rue à droite) et dans la rue de la Soierie rouler env. 100 m. puis 1
- ère à gauche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L
- 'entrée du Complexe se trouve à hauteur de City Cart\, à gauche de la r
- oute.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur c
- alabssa: https://calabssa.be/c/169_1_midi_as
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge\
+ n\nContact équipe domicile: Janssens P. (0484.44.21.41 - patj.scf@gmail.c
+ om)\n\nAccès voiture : Au départ de la Place St. Denis à Forest prendre
+  la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue à dr
+ oite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à gauche
+  (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée du Co
+ mplexe se trouve à hauteur de City Cart\, à gauche de la route.\n\nVéri
+ fiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https
+ ://calabssa.be/c/169_1_midi_as
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
-ORGANIZER;CN="El Yamani Y.";ROLE=Secrétaire:MAILTO:yahyaelyamani96@gmail.
- com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J10: MIDI AS vs PATJES FC
-DTSTART;VALUE=DATE-TIME:20241207T143000Z
-DTEND;VALUE=DATE-TIME:20241207T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_3D_10_169_582
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rouge
-  et blanc.\n\nContact équipe domicile: Cantiniau J-C. (0479.84.17.35 - st
- andardmidi@hotmail.com)\n\nAccès voiture : En venant de Bruxelles\, empru
- nter la chaussée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour"
- . Au dit carrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur cett
- e chaussée\, au deuxième feu de signalisation\, prendre à droite\, le t
- errain se trouve à 500 m. et est fléché.\n\nVérifiez toujours ces info
- s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/169_1
- _midi_as
-GEO:50.6827211;4.3844421
-LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
- ud\, Belgique
-ORGANIZER;CN="Cantiniau J-C.";ROLE=Secrétaire:MAILTO:standardmidi@hotmail
- .com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J13: ETTEKIJS (Eq. 2) vs MIDI AS
-DTSTART;VALUE=DATE-TIME:20241214T113000Z
-DTEND;VALUE=DATE-TIME:20241214T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2024_3D_13_343_169
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
- pale équipe domicile: Noir rayé de blanc\nCouleur principale équipe ext
- erieure: Rouge\n\nContact équipe domicile: Raes F. (0479.73.82.49 - fredd
- y.raes@gmail.com)\n\nAccès voiture : A partir du square des Archiducs\, p
- rendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez tou
- jours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calab
- ssa.be/c/169_1_midi_as
-GEO:50.80645209999999;4.4087184
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J14: MIDI AS vs GERMINAL CSA
-DTSTART;VALUE=DATE-TIME:20250111T143000Z
-DTEND;VALUE=DATE-TIME:20250111T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_3D_14_169_235
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Vert\
- n\nContact équipe domicile: Cantiniau J-C. (0479.84.17.35 - standardmidi@
- hotmail.com)\n\nAccès voiture : En venant de Bruxelles\, emprunter la cha
- ussée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit ca
- rrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chaussée
- \, au deuxième feu de signalisation\, prendre à droite\, le terrain se t
- rouve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur http:
- //www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/169_1_midi_as
-GEO:50.6827211;4.3844421
-LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
- ud\, Belgique
-ORGANIZER;CN="Cantiniau J-C.";ROLE=Secrétaire:MAILTO:standardmidi@hotmail
- .com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J15: PICARDIE AS vs MIDI AS
-DTSTART;VALUE=DATE-TIME:20250118T123000Z
-DTEND;VALUE=DATE-TIME:20250118T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_3D_15_63_169
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge\
- n\nContact équipe domicile: Coopmans R. (0474.42.47.29 - coopmans_roland@
- yahoo.fr)\n\nAccès voiture : En venant de Bruxelles\, emprunter la chauss
- ée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit carre
- four (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chaussée\, 
- au deuxième feu de signalisation\, prendre à droite\, le terrain se trou
- ve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur http://w
- ww.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/169_1_midi_as
-GEO:50.6827211;4.3844421
-LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
- ud\, Belgique
-ORGANIZER;CN="Coopmans R.";ROLE=Secrétaire:MAILTO:coopmans_roland@yahoo.f
- r
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J16: MIDI AS vs NEW INN FC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20250125T143000Z
-DTEND;VALUE=DATE-TIME:20250125T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_3D_16_169_359
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Noir 
- et Jaune\n\nContact équipe domicile: Cantiniau J-C. (0479.84.17.35 - stan
- dardmidi@hotmail.com)\n\nAccès voiture : En venant de Bruxelles\, emprunt
- er la chaussée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". 
- Au dit carrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur cette 
- chaussée\, au deuxième feu de signalisation\, prendre à droite\, le ter
- rain se trouve à 500 m. et est fléché.\n\nVérifiez toujours ces infos 
- sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/169_1_m
- idi_as
-GEO:50.6827211;4.3844421
-LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
- ud\, Belgique
-ORGANIZER;CN="Cantiniau J-C.";ROLE=Secrétaire:MAILTO:standardmidi@hotmail
- .com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J17: TRICOTEUSES FC. vs MIDI AS
-DTSTART;VALUE=DATE-TIME:20250201T143000Z
-DTEND;VALUE=DATE-TIME:20250201T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_3D_17_617_169
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W19\n\nCouleur princi
- pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Ro
- uge\n\nContact équipe domicile: Van Roey P. (0475.68.28.41 - pierrickvr4@
- gmail.com)\n\nAccès voiture : Ring de Bruxelles (RO)\, sortie n° 2. Pren
- dre la direction Wezembeek-Oppem. Ensuite première rue à droite (Louis M
- arcelisstraat) puis la troisième à droite (Sportpleinstraat).\nL'entrée
-  au terrain se trouve à gauche entre les n° 16 et 24.\nPar la ville : A 
- partir du rond point Montgomery\, prendre l'Avenue de Broqueville\, toujou
- rs tout droit. Passez devant le Shopping de Woluwé\, toujours tout droit\
- , passez devant le magasin "Carrefour"\, puis au 2ème feu de signalisatio
- n prendre à droite et ensuite tout droit. Au bout de la rue prendre à dr
- oite\, le terrain se trouve à 100 mètres  sur la gauche.\n\nVérifiez to
- ujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cala
- bssa.be/c/169_1_midi_as
-GEO:50.8424578;4.486587999999999
-LOCATION:Sportpleinstraat 20\, 1970 Wezembeek - Oppem\, Belgique
-ORGANIZER;CN="Van Roey P.";ROLE=Secrétaire:MAILTO:pierrickvr4@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J18: MIDI AS vs RAPID MYMOL
-DTSTART;VALUE=DATE-TIME:20250208T143000Z
-DTEND;VALUE=DATE-TIME:20250208T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_3D_18_169_622
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu 
- et Jaune\n\nContact équipe domicile: Cantiniau J-C. (0479.84.17.35 - stan
- dardmidi@hotmail.com)\n\nAccès voiture : En venant de Bruxelles\, emprunt
- er la chaussée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". 
- Au dit carrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur cette 
- chaussée\, au deuxième feu de signalisation\, prendre à droite\, le ter
- rain se trouve à 500 m. et est fléché.\n\nVérifiez toujours ces infos 
- sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/169_1_m
- idi_as
-GEO:50.6827211;4.3844421
-LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
- ud\, Belgique
-ORGANIZER;CN="Cantiniau J-C.";ROLE=Secrétaire:MAILTO:standardmidi@hotmail
- .com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J19: RHINOCEROS vs MIDI AS
-DTSTART;VALUE=DATE-TIME:20250215T143000Z
-DTEND;VALUE=DATE-TIME:20250215T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_3D_19_654_169
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
- pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Rouge
- \n\nContact équipe domicile: Watteyne R. (0498.16.13.01 - robin@watteyne.
- com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'autoroute E411
-  en direction de Namur\, prendre la sortie  Wavre (n° 6)\, tenir la droit
- e et au bout de la bretelle\, prendre la direction d'Ottignies par la N238
- . Au 1èr feu de signalisation continuer tout droit en passant devant Wali
- bi (qui se trouve sur la gauche) jusqu'à la sortie Limelette. Au bout de 
- cette sortie\, en face du Tennis Club La Palestre\, prendre à droite la r
- ue Charles Dubois\, jusqu'au carrefour principal. Continuer tout droit en 
- traversant l'avenue Albert 1èr. Passer en dessous du 1èr pont du chemin 
- de fer et prendre la rue de l'Europe jusqu'à la place de l'Europe. Traver
- ser cette place par la droite. Au bout à gauche\, suivre l'avenue Jassans
- . Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C. Limelette). C
- ontinuer cette rue et passer en dessous du 2ème pont du chemin de fer. Ap
- rès ce pont\, prendre tout de suite à gauche l'avenue Demolder (panneau 
- F.C. Limelette)\, en face de l'étang du Buston. Suivre cette avenue jusqu
- 'à la 4ème rue à droite\, l'avenue des Mérisiers. Après 50 m. dans ce
- tte rue\, prendre à droite l'avenue des Sorbiers (panneau du F.C. Limelet
- te). L'entrée du terrain est située 50 m. plus bas sur la gauche.\n\nVé
- rifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: htt
- ps://calabssa.be/c/169_1_midi_as
-GEO:50.67628029999999;4.562802
-LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER;CN="Watteyne R.";ROLE=Secrétaire:MAILTO:robin@watteyne.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J24: MIDI AS vs FORESTOISE E.J.
-DTSTART;VALUE=DATE-TIME:20250222T143000Z
-DTEND;VALUE=DATE-TIME:20250222T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_3D_24_169_623
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu 
- Ciel\n\nContact équipe domicile: Cantiniau J-C. (0479.84.17.35 - standard
- midi@hotmail.com)\n\nAccès voiture : En venant de Bruxelles\, emprunter l
- a chaussée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au d
- it carrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chau
- ssée\, au deuxième feu de signalisation\, prendre à droite\, le terrain
-  se trouve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur 
- http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/169_1_midi_
- as
-GEO:50.6827211;4.3844421
-LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
- ud\, Belgique
-ORGANIZER;CN="Cantiniau J-C.";ROLE=Secrétaire:MAILTO:standardmidi@hotmail
- .com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J20: MIDI AS vs IRLANDE FC (Eq. 4)
-DTSTART;VALUE=DATE-TIME:20250308T143000Z
-DTEND;VALUE=DATE-TIME:20250308T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_3D_20_169_402
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Vert\
- n\nContact équipe domicile: Cantiniau J-C. (0479.84.17.35 - standardmidi@
- hotmail.com)\n\nAccès voiture : En venant de Bruxelles\, emprunter la cha
- ussée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit ca
- rrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chaussée
- \, au deuxième feu de signalisation\, prendre à droite\, le terrain se t
- rouve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur http:
- //www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/169_1_midi_as
-GEO:50.6827211;4.3844421
-LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
- ud\, Belgique
-ORGANIZER;CN="Cantiniau J-C.";ROLE=Secrétaire:MAILTO:standardmidi@hotmail
- .com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J21: CURTIS L'AUSELE vs MIDI AS
-DTSTART;VALUE=DATE-TIME:20250315T130000Z
-DTEND;VALUE=DATE-TIME:20250315T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_3D_21_599_169
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: I03\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
- \n\nContact équipe domicile: Lambricht T. (0474.20.64.38 - thomas.lambric
- ht@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l’E41
- 1 en direction de Namur et prendre la sortie 11 Perwez-Gembloux\, prendre 
- à droite vers Perwez sur la N29 jusqu’au rond-point de Glimes qui crois
- e la N91 (7km depuis l’E411). Sortir à la 3ème sortie sur la N91 en\nd
- irection de Hamme-Mille. Prendre ensuite la 3ème rue à gauche et le terr
- ain se trouve directement sur la droite.\n\nVérifiez toujours ces infos s
- ur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/169_1_mi
- di_as
-GEO:50.6849677;4.8070879
-LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
-ORGANIZER;CN="Lambricht T.";ROLE=Secrétaire:MAILTO:thomas.lambricht@gmail
- .com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J22: MIDI AS vs VOGELPIK FC.
-DTSTART;VALUE=DATE-TIME:20250322T143000Z
-DTEND;VALUE=DATE-TIME:20250322T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183932Z
-UID:2025_3D_22_169_629
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rouge
-  et noir\n\nContact équipe domicile: Cantiniau J-C. (0479.84.17.35 - stan
- dardmidi@hotmail.com)\n\nAccès voiture : En venant de Bruxelles\, emprunt
- er la chaussée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". 
- Au dit carrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur cette 
- chaussée\, au deuxième feu de signalisation\, prendre à droite\, le ter
- rain se trouve à 500 m. et est fléché.\n\nVérifiez toujours ces infos 
- sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/169_1_m
- idi_as
-GEO:50.6827211;4.3844421
-LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
- ud\, Belgique
-ORGANIZER;CN="Cantiniau J-C.";ROLE=Secrétaire:MAILTO:standardmidi@hotmail
- .com
+ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
 END:VEVENT
 END:VCALENDAR

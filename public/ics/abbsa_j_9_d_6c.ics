@@ -4,121 +4,123 @@ PRODID:abbsa_j_9_d_6c
 X-WR-CALDESC:Les matches de la journée 9 en divion 6C d'ABSSA.
 X-WR-CALNAME:D6C Journée 9
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J9: CHIEFS WSL (Eq. 4) vs CHENOIS SC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20241116T100000Z
-DTEND;VALUE=DATE-TIME:20241116T113000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_6C_9_303_84
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir 
- et Rouge\n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan
- .be)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, pu
- is la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce
-  pont le terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur 
- http://www.abssa.be/
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J9: ETINCELLE FC (Eq. 2) vs TOURINNOIS FC (Eq. 4)
-DTSTART;VALUE=DATE-TIME:20241116T113000Z
-DTEND;VALUE=DATE-TIME:20241116T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_6C_9_35_292
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
- pale équipe domicile: Jaune et bleu\nCouleur principale équipe exterieur
- e: Rouge\n\nContact équipe domicile: Kremer N (0471.37.59.81 - nicolas.kr
- emer@gmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 
- 300 m. en direction de Lennik\, prendre à droite.\nVenant de la chaussée
-  de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, B
- ld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en di
- rection de Lennik.\n\nVérifiez toujours ces infos sur http://www.abssa.be
- /
-GEO:50.8177358;4.2557195
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER;CN="Kremer N";ROLE=Secrétaire:MAILTO:nicolas.kremer@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J9: CHOULE AUDERGHEM (Eq. 4) vs ETTEKIJS (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20241116T113000Z
-DTEND;VALUE=DATE-TIME:20241116T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_6C_9_517_343
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
- pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
- erieure: Noir rayé de blanc\n\nContact équipe domicile: Vandenplas D. (0
- 476.54.48.01 - dav_54@hotmail.com)\n\nAccès voiture : En venant de Bruxel
- les par la chaussée de Wavre\, rejoindre le du début de l'autoroute Brux
- elles-Namur\, utiliser la bande de droite pendant +/- 200 m. et descendre 
- devant le bâtiment de l'ADEPS\, puis passer par le tunnel à gauche (en d
- essous de l'autoroute). Le terrain se trouve à 200 m. Le stade est fléch
- é.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J9: ALIZE VETERANS FC vs BRAINE-TERMINUS FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20241116T123000Z
-DTEND;VALUE=DATE-TIME:20241116T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_6C_9_395_537
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
- pale équipe domicile: Rouge et Noir\nCouleur principale équipe exterieur
- e: Jaune et rouge\n\nContact équipe domicile: Faid'Herbe T (0475.82.12.92
-  - thierry.faidherbe@outlook.be)\n\nAccès voiture : Via la chaussée de M
- ons jusqu'à Veeweyde (carrefour Fr. Van Kalken). Prendre à droite le bou
- levard  A. Briand jusqu'à la Place Verdi\, puis le Bld. Théo Lambert.\n\
- nVérifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.8275993;4.2964877
-LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
- \, Belgique
-ORGANIZER;CN="Faid'Herbe T";ROLE=Secrétaire:MAILTO:thierry.faidherbe@outl
- ook.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J9: PHARMA SC (Eq. 4) vs NIVELLOIS-ACLOT BS (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20241116T130000Z
-DTEND;VALUE=DATE-TIME:20241116T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_6C_9_268_503
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge 
- et noir\n\nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.d
- umidi@scarlet.be)\n\nAccès voiture : Au départ de la Place St. Denis à 
- Forest prendre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4
- ème rue à droite) et dans la rue de la Soierie rouler env. 100 m. puis 1
- ère à gauche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L
- 'entrée du Complexe se trouve à hauteur de City Cart\, à gauche de la r
- oute.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
- e
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J9: AZUR RCS (Eq. 6) vs BRITISH UNITED (Eq. 5)
-DTSTART;VALUE=DATE-TIME:20241116T140000Z
-DTEND;VALUE=DATE-TIME:20241116T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_6C_9_109_132
+SUMMARY:ABSSA D6C J9: AZUR RCS (Eq. 6) vs ALIZE VETERANS FC
+DTSTART;VALUE=DATE-TIME:20251025T113000Z
+DTEND;VALUE=DATE-TIME:20251025T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_6C_9_109_395
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W12\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
- \nContact équipe domicile: Mad. Decamps N. (0477.27.39.66 - nathalie_deca
- mps@hotmail.com)\n\nAccès voiture : Avenue de Tervuren\, direction Tervur
- en. Passé le boulevard du Souverain prendre à gauche au premier feu de s
- ignalisation (Av. Madoux). Au feu de signalisation suivant prendre la 2èm
- e rue à main droite (Av. J. Dujardin). Ensuite 1ère rue à gauche (Av. S
- alomé).\n\nVérifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.830818;4.455442
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge 
+ et Noir\n\nContact équipe domicile: Mad. Decamps N. (0477.27.39.66 - nath
+ alie_decamps@hotmail.com)\n\nAccès voiture : Avenue de Tervuren\, directi
+ on Tervuren. Passé le boulevard du Souverain prendre à gauche au premier
+  feu de signalisation (Av. Madoux). Au feu de signalisation suivant prendr
+ e la 2ème rue à main droite (Av. J. Dujardin). Ensuite 1ère rue à gauc
+ he (Av. Salomé).\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8308291;4.4555375
 LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
  elgique
 ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
  tmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J9: CHENOIS SC (Eq. 3) vs TUBIFOOT AS
+DTSTART;VALUE=DATE-TIME:20251025T130000Z
+DTEND;VALUE=DATE-TIME:20251025T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_6C_9_84_451
+DESCRIPTION:Terrain synthétique: non\nCode terrain: W02\n\nCouleur princi
+ pale équipe domicile: Noir et Rouge\nCouleur principale équipe exterieur
+ e: Jaune et Rouge\n\nContact équipe domicile: Versmissen P. (0495.59.61.7
+ 7 - sc.chenois@waterloo.eu)\n\nAccès voiture : Venant d'Uccle\, prendre l
+ a chaussée de Waterloo\, ensuite la chaussée de Bruxelles\, continuer ju
+ squ'à la place E. Vandevelde (intersection de la chaussée de Bruxelles a
+ vec la chaussée de Tervuren à Joli-Bois). Au feu de signalisation prendr
+ e à droite la chaussée Bara. Le terrain se trouve à droite à +/- 500 m
+ .\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.701676;4.397567
+LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
+ORGANIZER;CN="Versmissen P.";ROLE=Secrétaire:MAILTO:sc.chenois@waterloo.e
+ u
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J9: IDEAL RANGERS R vs PHARMA SC (Eq. 4)
+DTSTART;VALUE=DATE-TIME:20251025T133000Z
+DTEND;VALUE=DATE-TIME:20251025T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_6C_9_47_268
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: U04\n\nCouleur princi
+ pale équipe domicile: Orange et Noir\nCouleur principale équipe exterieu
+ re: Bleu\n\nContact équipe domicile: Simon A. (0477.87.83.33 - alain.si@s
+ kynet.be)\n\nAccès voiture : Par le Centre\, prendre la chaussée d'Alsem
+ berg\, direction Alsemberg\, jusqu'à la gare d'Uccle-Calevoet. Suivre les
+  rails du tram\, passer en dessous du pont du chemin de fer et au premier 
+ feu de signalisation prendre à gauche\, la rue du Bourdon\, puis la 1ère
+  rue à main gauche (rue des Bigarreaux)\, passer sous le pont du chemin d
+ e fer et puis 1ère rue à main gauche (le complexe est fléché).\nPar le
+  ring\, sortie Drogenbos-Ruisbroek\, prendre la direction Drogenbos Centre
+  (Grote Baan)\, au premier feu de signalisation\, passée l'église\, pren
+ dre à gauche\, la chaussée de Drogenbos\, jusqu'au bout\, puis traverser
+  la chaussée d'Alsemberg et prendre immédiatement à droite\, la rue du 
+ Bourdon\, pour continuer comme renseigné ci-dessus.\n\nVérifiez toujours
+  ces infos sur http://www.abssa.be/
+GEO:50.7833427;4.3345203
+LOCATION:Complexe Sportif de Ridder\, Rue des Griottes\, 1180 Uccle\, Belg
+ ique
+ORGANIZER;CN="Simon A.";ROLE=Secrétaire:MAILTO:alain.si@skynet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J9: NEW ARQUOIS FC (Eq. 3) vs FAUBOURG-BRAINOISE (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20251025T133000Z
+DTEND;VALUE=DATE-TIME:20251025T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_6C_9_263_100
+DESCRIPTION:Terrain synthétique: non\nCode terrain: A12\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge\
+ n\nContact équipe domicile: Beka J-M. (0495.25.31.25 - jmbeka73@gmail.com
+ )\n\nAccès voiture : Autoroute E 19 (Bruxelles-Charleroi)\, sortie Arquen
+ nes. Direction Seneffe-La-Louvière. A la station d'essence Total\, prendr
+ e à droite pendant +/- 700 mètres.\nAu rond point\, prendre à droite en
+  direction du château de La Rocq\, passez sous le pont\, le terrain se tr
+ ouve à 100 mètres (à proximité du cimetière).\n\nVérifiez toujours c
+ es infos sur http://www.abssa.be/
+GEO:50.570014;4.272457699999999
+LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion 22\, 7181 Arquennes\
+ , Belgique
+ORGANIZER;CN="Beka J-M.";ROLE=Secrétaire:MAILTO:jmbeka73@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J9: COIN DU BALAI FC (Eq. 2) vs CHIEFS WSL (Eq. 4)
+DTSTART;VALUE=DATE-TIME:20251025T133000Z
+DTEND;VALUE=DATE-TIME:20251025T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_6C_9_229_303
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Bleu Marine\nCouleur principale équipe exterieure:
+  Blanc\n\nContact équipe domicile: Rosenfeld J. (0485.05.40.06 - rosenfel
+ djean@hotmail.com)\n\nAccès voiture : A partir du square des Archiducs\, 
+ prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez to
+ ujours ces infos sur http://www.abssa.be/
+GEO:50.80645209999999;4.4087184
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Rosenfeld J.";ROLE=Secrétaire:MAILTO:rosenfeldjean@hotmail.
+ com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J9: ELAN EVERE RAC (Eq. 2) vs BRUSSELS LTC (Eq. 7)
+DTSTART;VALUE=DATE-TIME:20251025T133000Z
+DTEND;VALUE=DATE-TIME:20251025T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_6C_9_7_39
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: E08\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Borde
+ aux\n\nContact équipe domicile: Dubois J-J. (0486.47.10.49 - jjdubois58@g
+ mail.com)\n\nAccès voiture : Le terrain se trouve derrière l'église St.
+  Vincent\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8803867;4.4003168
+LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue Stroobants 75\, 1140 Evere\,
+  Belgique
+ORGANIZER;CN="Dubois J-J.";ROLE=Secrétaire:MAILTO:jjdubois58@gmail.com
 END:VEVENT
 END:VCALENDAR

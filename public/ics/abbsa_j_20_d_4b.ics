@@ -4,12 +4,69 @@ PRODID:abbsa_j_20_d_4b
 X-WR-CALDESC:Les matches de la journée 20 en divion 4B d'ABSSA.
 X-WR-CALNAME:D4B Journée 20
 BEGIN:VEVENT
-SUMMARY:ABSSA D4B J20: FAUBOURG-BRAINOISE vs GAMBRINUS F.C.
-DTSTART;VALUE=DATE-TIME:20250308T123000Z
-DTEND;VALUE=DATE-TIME:20250308T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_4B_20_100_645
-DESCRIPTION:Terrain synthétique: non\nCode terrain: B03\n\nCouleur princi
+SUMMARY:ABSSA D4B J20: BRUSSELS BRITISH R (Eq. 4) vs BOUKS  FC
+DTSTART;VALUE=DATE-TIME:20260207T113000Z
+DTEND;VALUE=DATE-TIME:20260207T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_4B_20_1_579
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: O'Connor G (0456.54.46.67 - abssa-sec@rbbfc.o
+ rg)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Pass
+ er devant l'église\, longer l'autoroute et tourner à droite au cimetièr
+ e des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur http:
+ //www.abssa.be/
+GEO:50.7264542;4.5530681
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="O'Connor G";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J20: SANSERIF FC vs RAYO LATINO
+DTSTART;VALUE=DATE-TIME:20260207T113000Z
+DTEND;VALUE=DATE-TIME:20260207T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_4B_20_657_572
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Rouge et noir\n\nContact équipe domicile: Karpowicz A. (0493.16.46.10 - 
+ itsadonis0@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre
+  la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus 
+ bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujou
+ rs ces infos sur http://www.abssa.be/
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Karpowicz A.";ROLE=Secrétaire:MAILTO:itsadonis0@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J20: L'EKIP vs SPARTAK SYNERGY
+DTSTART;VALUE=DATE-TIME:20260207T123000Z
+DTEND;VALUE=DATE-TIME:20260207T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_4B_20_662_637
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rouge
+  et blanc\n\nContact équipe domicile: Maes A (0471.66.04.74 - lekipoffici
+ elle@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Namur / Luxe
+ mbourg\, prendre la sortie n° 6 Wavre\, à gauche N 238 direction Wavre. 
+ Au rond-	point 2ième sortie N238/Blvd. de l'Europe direction Wavre Centre
+ . Entrer dans Wavre puis à gauche N 238\, à gauche N 239. 	Au rond-point
+  prendre la première sortie Rue Haute\, continuer sur rue de Bruxelles\, 
+ continuer sur rue Saint-Roch\, continuer 	sur rue Joseph Joppart. Prendre 
+ à droite l'avenue du Centre Sportif.\n\nVérifiez toujours ces infos sur 
+ http://www.abssa.be/
+GEO:50.720927;4.617368
+LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
+  Belgique
+ORGANIZER;CN="Maes A";ROLE=Secrétaire:MAILTO:lekipofficielle@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D4B J20: FAUBOURG-BRAINOISE vs FORESTOIS SC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260207T140000Z
+DTEND;VALUE=DATE-TIME:20260207T153000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_4B_20_100_152
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
  pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Noir\
  n\nContact équipe domicile: Herpain D. (0474.79.02.18 - daniel.herpain@sk
  ynet.be)\n\nAccès voiture : En venant de Bruxelles\, emprunter la chauss
@@ -24,136 +81,42 @@ LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
 ORGANIZER;CN="Herpain D.";ROLE=Secrétaire:MAILTO:daniel.herpain@skynet.be
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4B J20: SPORTING BW vs STRING PENELOPE (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20250308T130000Z
-DTEND;VALUE=DATE-TIME:20250308T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_4B_20_673_181
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: I03\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Orang
- e\n\nContact équipe domicile: Thumas A. (0472.60.28.90 - sporting.bw.abss
- a@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l’E411
-  en direction de Namur et prendre la sortie 11 Perwez-Gembloux\, prendre 
- à droite vers Perwez sur la N29 jusqu’au rond-point de Glimes qui crois
- e la N91 (7km depuis l’E411). Sortir à la 3ème sortie sur la N91 en\nd
- irection de Hamme-Mille. Prendre ensuite la 3ème rue à gauche et le terr
- ain se trouve directement sur la droite.\n\nVérifiez toujours ces infos s
- ur http://www.abssa.be/
-GEO:50.6849677;4.8070879
-LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
-ORGANIZER;CN="Thumas A.";ROLE=Secrétaire:MAILTO:sporting.bw.abssa@gmail.c
- om
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J20: BIERGEOIS CS vs DOPA FC
-DTSTART;VALUE=DATE-TIME:20250308T133000Z
-DTEND;VALUE=DATE-TIME:20250308T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_4B_20_70_666
-DESCRIPTION:Terrain synthétique: non\nCode terrain: B01\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir e
- t rouge\n\nContact équipe domicile: Pirlet R (0476.38.58.37 - csbiergeois
- .abssa@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Namur\, sortie B
- ierges\, prendre à droite\, le terrain se trouve à +/- 500 m. du côté 
- droit.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.7113792;4.5897825
-LOCATION:Complexe Sportif J. Colette\, Rue des Combattants\, 1301 Bierges\
- , Belgique
-ORGANIZER;CN="Pirlet R";ROLE=Secrétaire:MAILTO:csbiergeois.abssa@gmail.co
+SUMMARY:ABSSA D4B J20: STENDHAL MADIP vs TIEKSS WEMMEL
+DTSTART;VALUE=DATE-TIME:20260207T143000Z
+DTEND;VALUE=DATE-TIME:20260207T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_4B_20_214_644
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Rouge rayé de noir\nCouleur principale équipe ext
+ erieure: Noir\n\nContact équipe domicile: Remiche R. (0483.70.03.95 - Rap
+ hael.Remiche@gmail.com)\n\nAccès voiture : Au départ de la Place St. Den
+ is à Forest prendre la chaussée de Neerstalle jusqu'à la rue de la Soie
+ rie (4ème rue à droite) et dans la rue de la Soierie rouler env. 100 m. 
+ puis 1ère à gauche (Bld. de la 2ème Armée Britannique) pendant env. 50
+ 0 m. L'entrée du Complexe se trouve à hauteur de City Cart\, à gauche d
+ e la route.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER;CN="Remiche R.";ROLE=Secrétaire:MAILTO:Raphael.Remiche@gmail.co
  m
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4B J20: VOLLENBACK FC vs ZIJP FC
-DTSTART;VALUE=DATE-TIME:20250308T134500Z
-DTEND;VALUE=DATE-TIME:20250308T151500Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_4B_20_589_646
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W16\n\nCouleur princi
- pale équipe domicile: Rose et noir\nCouleur principale équipe exterieure
- : Noir\n\nContact équipe domicile: Haimburger G. (0485.84.91.47 - Gregory
- .haimburger@gmail.com)\n\nAccès voiture : Ring RO\, afrit Wemmel-Merchtem
-  (n° 9)\, richting Merchtem volgen via de Is. Meyskensstraat tot aan de r
- otonde\, op de rotonde de 4de afslag nemen\, Diepstraat deze vloeit over i
- n de Steenweg op Brussel\, 50 m. voorbij het eerste kruispunt met verkeers
- lichten\, links van de steenweg\, bevindt zich het stadium (parking)\n\nV
- érifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.9077704;4.3065753
-LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
-  Wemmel\, Belgique
-ORGANIZER;CN="Haimburger G.";ROLE=Secrétaire:MAILTO:Gregory.haimburger@gm
- ail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J20: VIRGINAL ASF vs L'EKIP
-DTSTART;VALUE=DATE-TIME:20250308T140000Z
-DTEND;VALUE=DATE-TIME:20250308T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_4B_20_497_662
-DESCRIPTION:Terrain synthétique: non\nCode terrain: V02\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Blanc\
- n\nContact équipe domicile: Sempot A (0471.76.31.68 - sempot.antoine@gmai
- l.com)\n\nAccès voiture : Au départ de Bruxelles\, l'autoroute E19 ou pa
- r le Ring RO\, sortir à Ittre. Suivre la direction Ittre-Virginal. Traver
- ser Haut-Ittre et Ittre et suivre la direction Virginal-Samme. Franchir le
-  pont surplombant le canal Bruxelles-Charleroi. Poursuivre tout droit par 
- la rue de Catala\, ne pas suivre la direction Virginal Centre\, mais pours
- uivre la route et prendre la 2ème rue à main droite (rue de Tubize). Pas
- ser devant le château d'eau et un peu plus loin\, à l'incinérateur\, pr
- endre à droite en direction de Oisquercq. Le terrain se trouve à droite 
- dans la descente (panneau ASF Virginal).\n\nVérifiez toujours ces infos s
- ur http://www.abssa.be/
-GEO:50.6528899;4.2178077
-LOCATION:Rue de Tubize\, 1460 Virginal\, Belgique
-ORGANIZER;CN="Sempot A";ROLE=Secrétaire:MAILTO:sempot.antoine@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J20: MIREILLE WEMMEL vs CORNAC UNITED FC
-DTSTART;VALUE=DATE-TIME:20250308T143000Z
-DTEND;VALUE=DATE-TIME:20250308T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_4B_20_93_151
-DESCRIPTION:Terrain synthétique: non\nCode terrain: W16\n\nCouleur princi
- pale équipe domicile: Rouge et  Noir\nCouleur principale équipe exterieu
- re: Rouge\n\nContact équipe domicile: Vermeerbergen D. (0497.31.76.07 - d
- aanvermeerbergen@hotmail.com)\n\nAccès voiture : Ring RO\, afrit Wemmel-M
- erchtem (n° 9)\, richting Merchtem volgen via de Is. Meyskensstraat tot a
- an de rotonde\, op de rotonde de 4de afslag nemen\, Diepstraat deze vloeit
-  over in de Steenweg op Brussel\, 50 m. voorbij het eerste kruispunt met v
- erkeerslichten\, links van de steenweg\, bevindt zich het stadium (parking
- )\n\nVérifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.9077704;4.3065753
-LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
-  Wemmel\, Belgique
-ORGANIZER;CN="Vermeerbergen D.";ROLE=Secrétaire:MAILTO:daanvermeerbergen@
- hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4B J20: BLACK STAR GENVAL vs BRUSSELS LTC (Eq. 4)
-DTSTART;VALUE=DATE-TIME:20250308T143000Z
-DTEND;VALUE=DATE-TIME:20250308T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_4B_20_601_39
-DESCRIPTION:Terrain synthétique: non\nCode terrain: G01\n\nCouleur princi
- pale équipe domicile: Noir et Blanc\nCouleur principale équipe exterieur
- e: Bordeaux\n\nContact équipe domicile: Van Bael J. (0479.36.69.79 - blac
- kstargenval@gmail.com)\n\nAccès voiture : Prendre l'autoroute de Namur (E
- 411)\, sortie n° 4 - (Genval-Rosières). En bas de la sortie prendre la d
- euxième rue à droite (rue de La Hulpe) direction "Genval - Maubroux". Au
-  premier rond point continuez à suivre la direction "Genval - Maubroux" (
- continuation de la rue de La Hulpe). Au rond point suivant\, suivre toujou
- rs la direction "Genval-Maubroux". Au troisième rond point (Café du Lac 
- sur la gauche) suivre toujours la direction "Genval-Maubroux" (3ème sorti
- e - rue de Genval). Continuez tout droit jusqu'au feu de signalisation (Eg
- lise de Genval) et tourner à droite (Avenue Albert 1èr). Après +/- 800 
- mètres\, à l'ancienne station service\, prendre à gauche et suivre la r
- oute (rue Joseph Desmet) sur +/- 700 mètres\, puis tourner à droite\, ru
- e du Tilleul (panneau : Les Charmettes). Le terrain se trouve à environ 2
- 00 mètres sur la droite.\n\nVérifiez toujours ces infos sur http://www.a
- bssa.be/
-GEO:50.724554;4.496792999999999
-LOCATION:Complexe du Tilleul\, Rue du Tilleul 50\, 1332 Genval (Rixensart)
- \, Belgique
-ORGANIZER;CN="Van Bael J.";ROLE=Secrétaire:MAILTO:blackstargenval@gmail.c
- om
+SUMMARY:ABSSA D4B J20: WATERMAEL FC (Eq. 2) vs BRUSSELS LTC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20260207T143000Z
+DTEND;VALUE=DATE-TIME:20260207T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_4B_20_611_39
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: J02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bordea
+ ux\n\nContact équipe domicile: Deschamps J. (0477.67.76.37 - jul_desch@ho
+ tmail.com)\n\nAccès voiture : Ring de Bruxelles\, sortie 9 Jette.\nEn ven
+ ant de Zaventem\, prendre à gauche à la sortie\, en venant de Charleroi 
+ prendre à droite. Au feu rouge continuer sur +/- 1 km jusqu'au rond point
+ . Le terrain se trouve en face de la pompe à essence Q8.\n\nVérifiez tou
+ jours ces infos sur http://www.abssa.be/
+GEO:50.8833029;4.3163788
+LOCATION:Avenue de l'Exposition 257\, 1090 Jette\, Belgique
+ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
 END:VEVENT
 END:VCALENDAR

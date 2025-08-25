@@ -4,88 +4,31 @@ PRODID:abbsa_j_13_d_6d
 X-WR-CALDESC:Les matches de la journée 13 en divion 6D d'ABSSA.
 X-WR-CALNAME:D6D Journée 13
 BEGIN:VEVENT
-SUMMARY:ABSSA D6D J13: AUDERGHEM R.CF vs BRUSSELS LTC (Eq. 7)
-DTSTART;VALUE=DATE-TIME:20241214T130000Z
-DTEND;VALUE=DATE-TIME:20241214T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_6D_13_72_39
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bordea
- ux\n\nContact équipe domicile: Pleck P. (0475.82.01.41 - ppleckson@hotmai
- l.com)\n\nAccès voiture : En venant de Bruxelles par la chaussée de Wavr
- e\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ba
- nde de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADE
- PS\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le t
- errain se trouve à 200 m. Le stade est fléché.\n\nVérifiez toujours ce
- s infos sur http://www.abssa.be/
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER;CN="Pleck P.";ROLE=Secrétaire:MAILTO:ppleckson@hotmail.com
+SUMMARY:ABSSA D6D J13: PANGLOSS FC (Eq. 2) vs OMNISPORT BIERGHES (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20251129T113000Z
+DTEND;VALUE=DATE-TIME:20251129T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_6D_13_123_455
+DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Borde
+ aux\n\nContact équipe domicile: De Paduwa P. (0475.67.06.50 - p.depaduwa@
+ gmail.com)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute
+  Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viad
+ uc prendre à droite\, l'avenue des Anciens Combattants. Juste après le c
+ arrefour avec des feux de signalisation prendre à droite vers la Place de
+  la Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le 
+ terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces infos
+  sur http://www.abssa.be/
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="De Paduwa P.";ROLE=Secrétaire:MAILTO:p.depaduwa@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6D J13: SAINT GEORGES RCS (Eq. 4) vs HIGGINS-PUMAS (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20241214T130000Z
-DTEND;VALUE=DATE-TIME:20241214T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_6D_13_221_416
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W13\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Rayé
-  Bleu et Blanc\n\nContact équipe domicile: Destin C. (0483.33.01.12 - ced
- ric.destin@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre
-  la rue Voot\, puis la chaussée de Stockel. Passer en dessous du petit po
- nt et continuer la chaussée de Stockel pendant env. 500 m. Le terrain est
-  situé sur la droite de la chaussée.\n\nVérifiez toujours ces infos sur
-  http://www.abssa.be/
-GEO:50.8417148;4.4547744
-LOCATION:Chaussée de Stockel 376\, 1150 Woluwé-Saint-Pierre\, Belgique
-ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6D J13: MIREILLE WEMMEL (Eq. 2) vs BRITISH UNITED (Eq. 6)
-DTSTART;VALUE=DATE-TIME:20241214T130000Z
-DTEND;VALUE=DATE-TIME:20241214T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_6D_13_93_132
-DESCRIPTION:Terrain synthétique: non\nCode terrain: W16\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu\n
- \nContact équipe domicile: Vermeerbergen D. (0497.31.76.07 - daanvermeerb
- ergen@hotmail.com)\n\nAccès voiture : Ring RO\, afrit Wemmel-Merchtem (n
- ° 9)\, richting Merchtem volgen via de Is. Meyskensstraat tot aan de roto
- nde\, op de rotonde de 4de afslag nemen\, Diepstraat deze vloeit over in d
- e Steenweg op Brussel\, 50 m. voorbij het eerste kruispunt met verkeerslic
- hten\, links van de steenweg\, bevindt zich het stadium (parking)\n\nVéri
- fiez toujours ces infos sur http://www.abssa.be/
-GEO:50.9077704;4.3065753
-LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
-  Wemmel\, Belgique
-ORGANIZER;CN="Vermeerbergen D.";ROLE=Secrétaire:MAILTO:daanvermeerbergen@
- hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6D J13: BOUSVAL GENAPPE (Eq. 3) vs AEMA VETERANS
-DTSTART;VALUE=DATE-TIME:20241214T130000Z
-DTEND;VALUE=DATE-TIME:20241214T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_6D_13_401_427
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Jaune 
- et bleu\n\nContact équipe domicile: Toussaint Y (0475.42.41.78 - YUTTT147
- 0@gmail.com)\n\nAccès voiture : Venant de Bruxelles prendre le Ring Ouest
- \, sortie Genappe (n° 25)\, prendre à droite sur la N5 (Bruxelles-Charle
- roi) direction Charleroi pendant +/- 10 min.\, sortie Loupoigne\, traverse
- r le carrefour\, tout droit direction route du sucre.\n\nVérifiez toujour
- s ces infos sur http://www.abssa.be/
-GEO:50.6007528;4.4472782
-LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
-ORGANIZER;CN="Toussaint Y";ROLE=Secrétaire:MAILTO:YUTTT1470@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6D J13: ENTENTE  RACB (Eq. 2) vs LA LORRAINE-MTM.R (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20241214T130000Z
-DTEND;VALUE=DATE-TIME:20241214T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_6D_13_2_44
+SUMMARY:ABSSA D6D J13: ENTENTE  RACB (Eq. 2) vs BRITISH UNITED (Eq. 6)
+DTSTART;VALUE=DATE-TIME:20251129T130000Z
+DTEND;VALUE=DATE-TIME:20251129T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_6D_13_2_132
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
  pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu\
  n\nContact équipe domicile: Dath D. (0473.47.15.41 - daniel.dath@hotmail.
@@ -94,18 +37,56 @@ DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
  nt\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Vert
  \, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://www.abssa.
  be/
-GEO:50.89983369999999;4.3936101
+GEO:50.8996;4.393737199999999
 LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
 ORGANIZER;CN="Dath D.";ROLE=Secrétaire:MAILTO:daniel.dath@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6D J13: IRLANDE FC (Eq. 6) vs WATERMAEL CS
-DTSTART;VALUE=DATE-TIME:20241214T143000Z
-DTEND;VALUE=DATE-TIME:20241214T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_6D_13_402_375
+SUMMARY:ABSSA D6D J13: MIREILLE WEMMEL (Eq. 2) vs STRING PENELOPE (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20251129T130000Z
+DTEND;VALUE=DATE-TIME:20251129T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_6D_13_93_181
+DESCRIPTION:Terrain synthétique: non\nCode terrain: W16\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Orange
+ \n\nContact équipe domicile: Vermeerbergen D. (0497.31.76.07 - daanvermee
+ rbergen@hotmail.com)\n\nAccès voiture : Ring RO\, afrit Wemmel-Merchtem (
+ n° 9)\, richting Merchtem volgen via de Is. Meyskensstraat tot aan de rot
+ onde\, op de rotonde de 4de afslag nemen\, Diepstraat deze vloeit over in 
+ de Steenweg op Brussel\, 50 m. voorbij het eerste kruispunt met verkeersli
+ chten\, links van de steenweg\, bevindt zich het stadium (parking)\n\nVér
+ ifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.90024;4.4859439
+LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
+  Wemmel\, Belgique
+ORGANIZER;CN="Vermeerbergen D.";ROLE=Secrétaire:MAILTO:daanvermeerbergen@
+ hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J13: LORRAINE(LA)-MTM.R (Eq. 4) vs AUDERGHEM R.CF
+DTSTART;VALUE=DATE-TIME:20251129T130000Z
+DTEND;VALUE=DATE-TIME:20251129T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_6D_13_44_72
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Bleu/Blanc\nCouleur principale équipe exterieure: 
+ Bleu\n\nContact équipe domicile: Degimbe M. (0478.53.63.56 - lalorrainefc
+ @gmail.com)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosièr
+ es. Passer devant l'église\, longer l'autoroute et tourner à droite au c
+ imetière des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos s
+ ur http://www.abssa.be/
+GEO:50.7264542;4.5530681
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="Degimbe M.";ROLE=Secrétaire:MAILTO:lalorrainefc@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6D J13: IRLANDE FC (Eq. 6) vs CHOULE AUDERGHEM (Eq. 6)
+DTSTART;VALUE=DATE-TIME:20251129T143000Z
+DTEND;VALUE=DATE-TIME:20251129T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_6D_13_402_517
 DESCRIPTION:Terrain synthétique: non\nCode terrain: N04\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Rouge\
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Blanc\
  n\nContact équipe domicile: Penouilh S. (0474.97.79.48 - fci.secretary.me
  ns@outlook.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à Nossegem
  \, au premier croisement prendre à gauche la \nMechelsesteenweg. Le terra

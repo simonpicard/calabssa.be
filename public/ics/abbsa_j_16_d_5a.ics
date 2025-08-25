@@ -4,120 +4,130 @@ PRODID:abbsa_j_16_d_5a
 X-WR-CALDESC:Les matches de la journée 16 en divion 5A d'ABSSA.
 X-WR-CALNAME:D5A Journée 16
 BEGIN:VEVENT
-SUMMARY:ABSSA D5A J16: CHOULE AUDERGHEM (Eq. 3) vs EFFETA FC
-DTSTART;VALUE=DATE-TIME:20250125T113000Z
-DTEND;VALUE=DATE-TIME:20250125T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_5A_16_517_516
-DESCRIPTION:Terrain synthétique: non\nCode terrain: A11\n\nCouleur princi
- pale équipe domicile: Rose\nCouleur principale équipe exterieure: Rouge 
- et noir\n\nContact équipe domicile: Vandenplas D. (0476.54.48.01 - dav_54
- @hotmail.com)\n\nAccès voiture : En venant de Bruxelles par la chaussée 
- de Wavre\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utilise
- r la bande de droite pendant +/- 200 m. et descendre devant le bâtiment d
- e l'ADEPS\, puis passer par le tunnel à gauche (en dessous de l'autoroute
- ). Le terrain se trouve à 200 m. Le stade est fléché.\n\nVérifiez touj
- ours ces infos sur http://www.abssa.be/
-GEO:50.8103473;4.443252699999999
-LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
- lgique
-ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
+SUMMARY:ABSSA D5A J16: EQUIPAGE vs GOALOIS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20260110T100000Z
+DTEND;VALUE=DATE-TIME:20260110T113000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_5A_16_681_345
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Blanc
+ -Noir\n\nContact équipe domicile: De Meulenaere C. (0473.76.57.11 - equip
+ agefc24@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'
+ autoroute E411 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, 
+ tenir la droite et au bout de la bretelle\, prendre la direction d'Ottigni
+ es par la N238. Au 1èr feu de signalisation continuer tout droit en passa
+ nt devant Walibi (qui se trouve sur la gauche) jusqu'à la sortie Limelett
+ e. Au bout de cette sortie\, en face du Tennis Club La Palestre\, prendre 
+ à droite la rue Charles Dubois\, jusqu'au carrefour principal. Continuer 
+ tout droit en traversant l'avenue Albert 1èr. Passer en dessous du 1èr p
+ ont du chemin de fer et prendre la rue de l'Europe jusqu'à la place de l'
+ Europe. Traverser cette place par la droite. Au bout à gauche\, suivre l'
+ avenue Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C.
+  Limelette). Continuer cette rue et passer en dessous du 2ème pont du che
+ min de fer. Après ce pont\, prendre tout de suite à gauche l'avenue Demo
+ lder (panneau F.C. Limelette)\, en face de l'étang du Buston. Suivre cett
+ e avenue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après
+  50 m. dans cette rue\, prendre à droite l'avenue des Sorbiers (panneau d
+ u F.C. Limelette). L'entrée du terrain est située 50 m. plus bas sur la 
+ gauche.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.67628029999999;4.562802
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="De Meulenaere C.";ROLE=Secrétaire:MAILTO:equipagefc24@gmail
+ .com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5A J16: ELAN EVERE RAC vs CHEVERNY SCHAERB
-DTSTART;VALUE=DATE-TIME:20250125T120000Z
-DTEND;VALUE=DATE-TIME:20250125T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_5A_16_7_128
+SUMMARY:ABSSA D5A J16: BLUE OTTERS F.C. vs WATERMAEL FC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20260110T113000Z
+DTEND;VALUE=DATE-TIME:20260110T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_5A_16_668_611
+DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: De Crombrugghe A. (0491.63.38.39 - amaurydecro
+ m@yahoo.com)\n\nAccès voiture : Au départ de la Place Meiser\, l'autorou
+ te Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le vi
+ aduc prendre à droite\, l'avenue des Anciens Combattants. Juste après le
+  carrefour avec des feux de signalisation prendre à droite vers la Place 
+ de la Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). L
+ e terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces inf
+ os sur http://www.abssa.be/
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="De Crombrugghe A.";ROLE=Secrétaire:MAILTO:amaurydecrom@yaho
+ o.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J16: OMNISPORT BIERGHES vs SAINT GEORGES RCS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20260110T120000Z
+DTEND;VALUE=DATE-TIME:20260110T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_5A_16_455_221
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Barbe L. (0495.21.74.14 - omnisportbierghes19
+ 95@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Charleroi (E19)\, pr
+ endre la sortie Halle-Tournai-Lille (n° 21) pour rejoindre l'autoroute To
+ urnai-Lille\, ancienne route A8 (E429). Prendre la sortie Rebecq-Quenast (
+ n° 24). En bas de la sortie\, prendre à droite\, direction Bierghes. Rou
+ ler tout droit jusqu'au premier feu rouge. Tourner à droite en direction 
+ de Halle\, ensuite la deuxième rue à droite (rue du Sartiau)\, ensuite 
+ à gauche. Le terrain se trouve à 300 m.\n\nVérifiez toujours ces infos 
+ sur http://www.abssa.be/
+GEO:50.69576660000001;4.1292301
+LOCATION:Rue du Sartiau 3B\, 1430 Bierghes-Rebecq\, Belgique
+ORGANIZER;CN="Barbe L.";ROLE=Secrétaire:MAILTO:omnisportbierghes1995@gmai
+ l.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5A J16: ELAN EVERE RAC vs BAYERN DE MONIQUE
+DTSTART;VALUE=DATE-TIME:20260110T130000Z
+DTEND;VALUE=DATE-TIME:20260110T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_5A_16_7_417
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: E08\n\nCouleur princi
- pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
- re: Jaune & Noir\n\nContact équipe domicile: Dubois J-J. (0486.47.10.49 -
-  jjdubois58@gmail.com)\n\nAccès voiture : Le terrain se trouve derrière 
- l'église St. Vincent\n\nVérifiez toujours ces infos sur http://www.abssa
- .be/
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rouge
+  et blanc\n\nContact équipe domicile: Dubois J-J. (0486.47.10.49 - jjdubo
+ is58@gmail.com)\n\nAccès voiture : Le terrain se trouve derrière l'égli
+ se St. Vincent\n\nVérifiez toujours ces infos sur http://www.abssa.be/
 GEO:50.8803867;4.4003168
 LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue Stroobants 75\, 1140 Evere\,
   Belgique
 ORGANIZER;CN="Dubois J-J.";ROLE=Secrétaire:MAILTO:jjdubois58@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5A J16: WATERMAEL FC (Eq. 2) vs AZUR RCS (Eq. 4)
-DTSTART;VALUE=DATE-TIME:20250125T123000Z
-DTEND;VALUE=DATE-TIME:20250125T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_5A_16_611_109
-DESCRIPTION:Terrain synthétique: non\nCode terrain: A10\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
- \nContact équipe domicile: Deschamps J. (0477.67.76.37 - jul_desch@hotmai
- l.com)\n\nAccès voiture : L'accès au terrain se fait à partir du n° 20
- 57 de la chaussée de Wavre (en face du stade communal d'Auderghem). L'acc
- ès au terrain se fait par l'arrière du bâtiment principal (où sont sit
- ués les vestiaires) il faut parcourir environ 300 mètres avant d'atteind
- re le terrain de football situé après la piste d'athlétisme et le terra
- in de hockey.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.8093405;4.4437919
-LOCATION:Complexe de L'Adeps\, Chaussée de Wavre 2057\, 1160 Auderghem\, 
- Belgique
-ORGANIZER;CN="Deschamps J.";ROLE=Secrétaire:MAILTO:jul_desch@hotmail.com
+SUMMARY:ABSSA D5A J16: DEAF BRUSSELS FC vs INWENSSYS MOLDOVA (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260110T143000Z
+DTEND;VALUE=DATE-TIME:20260110T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_5A_16_593_671
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B05\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Orange
+ \n\nContact équipe domicile: Van Brandt S. (0494.24.34.05 (SMS) - deaf.br
+ ussels.2011@gmail.com)\n\nAccès voiture : Chaussée de Haecht\, vers Dieg
+ em. Prendre la rue de la Paroisse à gauche\, puis prendre la rue Harenhey
+ de (à gauche) pour l'entrée du stade.\n\nVérifiez toujours ces infos su
+ r http://www.abssa.be/
+GEO:50.8929668;4.4236193
+LOCATION:Rue de la Paroisse\, 1130 Haeren\, Belgique
+ORGANIZER;CN="Van Brandt S.";ROLE=Secrétaire:MAILTO:deaf.brussels.2011@gm
+ ail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5A J16: PINTE BUZZ FC vs BEA WOLUWE
-DTSTART;VALUE=DATE-TIME:20250125T130000Z
-DTEND;VALUE=DATE-TIME:20250125T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_5A_16_684_459
-DESCRIPTION:Terrain synthétique: non\nCode terrain: R03\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu 
- foncé\n\nContact équipe domicile: De Roubaix H. (0493.14.44.24 - hadelin
- .dr@gmail.com)\n\nAccès voiture : Par la E411 Bruxelles-Namur\, prendre l
- a sortie n° 5 (Wavre Nord\, Rixensart\, Bierges).\nEnsuite prendre la N25
- 7 pendant 700 mètres jusqu'au rond-point\, prendre la rue de l'Etoile et 
- ensuite la rue de Mérode jusqu'à Rixensart. Après 900 mètres\, à la P
- lace de la Perche\, prendre à droite l'avenue de la Paix et encore à dro
- ite l'avenue Clermont Tonnerre.\n\nVérifiez toujours ces infos sur http:/
- /www.abssa.be/
-GEO:50.7128483;4.5376972
-LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
- 30 Rixensart\, Belgique
-ORGANIZER;CN="De Roubaix H.";ROLE=Secrétaire:MAILTO:hadelin.dr@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J16: PANTOUFLES FC vs PICARDIE AS (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20250125T143000Z
-DTEND;VALUE=DATE-TIME:20250125T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_5A_16_428_63
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
- pale équipe domicile: Bleu-Blanc\nCouleur principale équipe exterieure: 
- Bleu rayé de Rouge\n\nContact équipe domicile: Laurent F (0478.68.80.02 
- - florimond.laurent@outlook.com)\n\nAccès voiture : Autoroute E411\, pren
- dre la sortie Rosières. Passer devant l'église\, longer l'autoroute et t
- ourner à droite au cimetière des animaux. Terrain à 200 m.\n\nVérifiez
-  toujours ces infos sur http://www.abssa.be/
-GEO:50.7282426;4.5537189
-LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
-ORGANIZER;CN="Laurent F";ROLE=Secrétaire:MAILTO:florimond.laurent@outlook
- .com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5A J16: PECHEUR F.C. vs SANSERIF FC
-DTSTART;VALUE=DATE-TIME:20250125T143000Z
-DTEND;VALUE=DATE-TIME:20250125T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_5A_16_677_657
-DESCRIPTION:Terrain synthétique: non\nCode terrain: N04\n\nCouleur princi
- pale équipe domicile: Vert et blanc\nCouleur principale équipe exterieur
- e: Bleu marine\n\nContact équipe domicile: Delannoy I. (0471.59.00.22 - i
- gnace.delannoyc@gmail.com)\n\nAccès voiture : Chaussée de Louvain jusqu'
- à Nossegem\, au premier croisement prendre à gauche la \nMechelsesteenwe
- g. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxel
- les-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la 
- Mechelsesteenweg\, traverser la chaussée de Louvain\, et suivre comme ci-
- avant.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.88776559999999;4.50894
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER;CN="Delannoy I.";ROLE=Secrétaire:MAILTO:ignace.delannoyc@gmail.
- com
+SUMMARY:ABSSA D5A J16: KARIA FC vs ZIJP FC
+DTSTART;VALUE=DATE-TIME:20260110T143000Z
+DTEND;VALUE=DATE-TIME:20260110T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_5A_16_498_646
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B08\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Bercha  M (0477.69.27.28 - mohamedbercha@hotma
+ il.fr)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\, vers N
+ eder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au rond-p
+ oint\, tout droit Chemin Vert\, puis première à gauche\, Petit Chemin Ve
+ rt\, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://www.abss
+ a.be/
+GEO:50.8996;4.393737199999999
+LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
+ORGANIZER;CN="Bercha  M";ROLE=Secrétaire:MAILTO:mohamedbercha@hotmail.fr
 END:VEVENT
 END:VCALENDAR

@@ -4,122 +4,135 @@ PRODID:abbsa_j_19_d_6c
 X-WR-CALDESC:Les matches de la journée 19 en divion 6C d'ABSSA.
 X-WR-CALNAME:D6C Journée 19
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J19: CHIEFS WSL (Eq. 4) vs PHARMA SC (Eq. 4)
-DTSTART;VALUE=DATE-TIME:20250215T100000Z
-DTEND;VALUE=DATE-TIME:20250215T113000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_6C_19_303_268
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
- n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan.be)\n\nA
- ccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, puis la cha
- ussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce pont le 
- terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur http://ww
- w.abssa.be/
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J19: ETINCELLE FC (Eq. 2) vs CHOULE AUDERGHEM (Eq. 4)
-DTSTART;VALUE=DATE-TIME:20250215T113000Z
-DTEND;VALUE=DATE-TIME:20250215T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_6C_19_35_517
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
- pale équipe domicile: Jaune et bleu\nCouleur principale équipe exterieur
- e: Rayé Bleu et Blanc\n\nContact équipe domicile: Kremer N (0471.37.59.8
- 1 - nicolas.kremer@gmail.com)\n\nAccès voiture : Ring\, sortie Hopital Er
- asme\, après 300 m. en direction de Lennik\, prendre à droite.\nVenant d
- e la chaussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, p
- lace Verdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasm
- e 400 m. en direction de Lennik.\n\nVérifiez toujours ces infos sur http:
- //www.abssa.be/
-GEO:50.8177358;4.2557195
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER;CN="Kremer N";ROLE=Secrétaire:MAILTO:nicolas.kremer@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J19: BRITISH UNITED (Eq. 5) vs BRAINE-TERMINUS FC (Eq. 2
- )
-DTSTART;VALUE=DATE-TIME:20250215T113000Z
-DTEND;VALUE=DATE-TIME:20250215T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_6C_19_132_537
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Jaune 
- et rouge\n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gil
- lesvanderseypen@gmail.com)\n\nAccès voiture : A partir de Bruxelles\, pre
- ndre la E 411 en direction de Namur. Prendre la sortie N° 8 puis à droit
- e la bretelle pour la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain.
-  Après +/- 6\,5 km\, au rond-point\, prendre la sortie 1 vers la N 420 Ch
- ée. de la Libération\, puis à gauche dans la rue de la Grande lecke.\n\
- nVérifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.7540176;4.7835618
-LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
-ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
- gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J19: ALIZE VETERANS FC vs ETTEKIJS (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20250215T123000Z
-DTEND;VALUE=DATE-TIME:20250215T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_6C_19_395_343
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
- pale équipe domicile: Rouge et Noir\nCouleur principale équipe exterieur
- e: Noir rayé de blanc\n\nContact équipe domicile: Faid'Herbe T (0475.82.
- 12.92 - thierry.faidherbe@outlook.be)\n\nAccès voiture : Via la chaussée
-  de Mons jusqu'à Veeweyde (carrefour Fr. Van Kalken). Prendre à droite l
- e boulevard  A. Briand jusqu'à la Place Verdi\, puis le Bld. Théo Lamber
- t.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.8275993;4.2964877
-LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
- \, Belgique
-ORGANIZER;CN="Faid'Herbe T";ROLE=Secrétaire:MAILTO:thierry.faidherbe@outl
- ook.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J19: FAUBOURG-BRAINOISE (Eq. 2) vs NIVELLOIS-ACLOT BS (E
- q. 2)
-DTSTART;VALUE=DATE-TIME:20250215T123000Z
-DTEND;VALUE=DATE-TIME:20250215T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_6C_19_100_503
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rouge
-  et noir\n\nContact équipe domicile: Herpain D. (0474.79.02.18 - daniel.h
- erpain@skynet.be)\n\nAccès voiture : En venant de Bruxelles\, emprunter l
- a chaussée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au d
- it carrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chau
- ssée\, au deuxième feu de signalisation\, prendre à droite\, le terrain
-  se trouve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur 
- http://www.abssa.be/
-GEO:50.6827211;4.3844421
-LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
- ud\, Belgique
-ORGANIZER;CN="Herpain D.";ROLE=Secrétaire:MAILTO:daniel.herpain@skynet.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J19: AZUR RCS (Eq. 6) vs CHENOIS SC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20250215T140000Z
-DTEND;VALUE=DATE-TIME:20250215T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2025_6C_19_109_84
+SUMMARY:ABSSA D6C J19: AZUR RCS (Eq. 6) vs ELAN EVERE RAC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260131T123000Z
+DTEND;VALUE=DATE-TIME:20260131T140000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_6C_19_109_7
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W12\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir e
- t Rouge\n\nContact équipe domicile: Mad. Decamps N. (0477.27.39.66 - nath
- alie_decamps@hotmail.com)\n\nAccès voiture : Avenue de Tervuren\, directi
- on Tervuren. Passé le boulevard du Souverain prendre à gauche au premier
-  feu de signalisation (Av. Madoux). Au feu de signalisation suivant prendr
- e la 2ème rue à main droite (Av. J. Dujardin). Ensuite 1ère rue à gauc
- he (Av. Salomé).\n\nVérifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.830818;4.455442
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge\
+ n\nContact équipe domicile: Mad. Decamps N. (0477.27.39.66 - nathalie_dec
+ amps@hotmail.com)\n\nAccès voiture : Avenue de Tervuren\, direction Tervu
+ ren. Passé le boulevard du Souverain prendre à gauche au premier feu de 
+ signalisation (Av. Madoux). Au feu de signalisation suivant prendre la 2è
+ me rue à main droite (Av. J. Dujardin). Ensuite 1ère rue à gauche (Av. 
+ Salomé).\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8308291;4.4555375
 LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
  elgique
 ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
  tmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J19: BRAINE-TERMINUS FC (Eq. 2) vs BRUSSELS LTC (Eq. 7)
+DTSTART;VALUE=DATE-TIME:20260131T130000Z
+DTEND;VALUE=DATE-TIME:20260131T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_6C_19_537_39
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
+ pale équipe domicile: Jaune et rouge\nCouleur principale équipe exterieu
+ re: Bordeaux\n\nContact équipe domicile: Dero G. (0479.81.83.27 - fcbrain
+ eterminus@gmail.com)\n\nAccès voiture : En venant de Bruxelles : Autorout
+ e Tournai - Lille (A8)\, prendre la sortie n° 24\, direction Rebecq\, pui
+ s la N 6 Bruxelles-Mons en direction de Mons. Entrer dans l'agglomération
+  de Braine-Le-Comte et prendre la 1ère rue à droite\, le terrain se situ
+ e au bout de la rue.\nEn venant de Nivelles : Prendre la N533\, Nivelles/B
+ raine-Le-Comte. Entrer dans l'agglomération de Braine-Le-Comte et suivre 
+ la direction de Bruxelles (N 6 Mons-Bruxelles)\, prendre la 1ère rue à g
+ auche\, le terrain se situe au bout de la rue.\n\nVérifiez toujours ces i
+ nfos sur http://www.abssa.be/
+GEO:50.6194169;4.1351187
+LOCATION:Rue du Poseur 39\, 7090 Braine-Le-Comte\, Belgique
+ORGANIZER;CN="Dero G.";ROLE=Secrétaire:MAILTO:fcbraineterminus@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J19: CHENOIS SC (Eq. 3) vs ALIZE VETERANS FC
+DTSTART;VALUE=DATE-TIME:20260131T140000Z
+DTEND;VALUE=DATE-TIME:20260131T153000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_6C_19_84_395
+DESCRIPTION:Terrain synthétique: non\nCode terrain: W02\n\nCouleur princi
+ pale équipe domicile: Noir et Rouge\nCouleur principale équipe exterieur
+ e: Rouge et Noir\n\nContact équipe domicile: Versmissen P. (0495.59.61.77
+  - sc.chenois@waterloo.eu)\n\nAccès voiture : Venant d'Uccle\, prendre la
+  chaussée de Waterloo\, ensuite la chaussée de Bruxelles\, continuer jus
+ qu'à la place E. Vandevelde (intersection de la chaussée de Bruxelles av
+ ec la chaussée de Tervuren à Joli-Bois). Au feu de signalisation prendre
+  à droite la chaussée Bara. Le terrain se trouve à droite à +/- 500 m.
+ \n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.701676;4.397567
+LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
+ORGANIZER;CN="Versmissen P.";ROLE=Secrétaire:MAILTO:sc.chenois@waterloo.e
+ u
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J19: TUBIFOOT AS vs FAUBOURG-BRAINOISE (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260131T143000Z
+DTEND;VALUE=DATE-TIME:20260131T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_6C_19_451_100
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: T06\n\nCouleur princi
+ pale équipe domicile: Jaune et Rouge\nCouleur principale équipe exterieu
+ re: Rouge\n\nContact équipe domicile: Girardo. M (0491.35.69.81 - astubif
+ oot@gmail.com)\n\nAccès voiture : •En venant de Bruxelles : Prendre le 
+ RO en direction Mons-Bergen / Charleroi - prendre la sortie 21 et continue
+ r sur la E429 direction Lille/Rijsel. Prendre la sortie 23 Tubize / Tubeke
+  et continuer sur la chaussée d’Hondzocht . Passer 2  ronds point jusqu
+ ’à la chaussée de Bruxelles (N6)\, prendre à droite Rue de Bruxelles 
+ et traverser le centre de Tubize en direction de Braine-le-Comte : rue de 
+ Bruxelles et Chaussée de Mons. Aprè IPES\, prendre la première rue à g
+ auche (rue d’Atina) suivre le panneau cimetière-parc à container-ferme
+  Massart.  Continuer 10 m. jusqu’au parking du cimetière\, l’entrée 
+ du stade se trouve en face du parking.\n\nVérifiez toujours ces infos sur
+  http://www.abssa.be/
+GEO:50.683352;4.1953276
+LOCATION:Rue d'Atina \, 1480  Tubize\, Belgique
+ORGANIZER;CN="Girardo. M";ROLE=Secrétaire:MAILTO:astubifoot@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J19: IDEAL RANGERS R vs COIN DU BALAI FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260131T143000Z
+DTEND;VALUE=DATE-TIME:20260131T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_6C_19_47_229
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: U04\n\nCouleur princi
+ pale équipe domicile: Orange et Noir\nCouleur principale équipe exterieu
+ re: Bleu Marine\n\nContact équipe domicile: Simon A. (0477.87.83.33 - ala
+ in.si@skynet.be)\n\nAccès voiture : Par le Centre\, prendre la chaussée 
+ d'Alsemberg\, direction Alsemberg\, jusqu'à la gare d'Uccle-Calevoet. Sui
+ vre les rails du tram\, passer en dessous du pont du chemin de fer et au p
+ remier feu de signalisation prendre à gauche\, la rue du Bourdon\, puis l
+ a 1ère rue à main gauche (rue des Bigarreaux)\, passer sous le pont du c
+ hemin de fer et puis 1ère rue à main gauche (le complexe est fléché).\
+ nPar le ring\, sortie Drogenbos-Ruisbroek\, prendre la direction Drogenbos
+  Centre (Grote Baan)\, au premier feu de signalisation\, passée l'église
+ \, prendre à gauche\, la chaussée de Drogenbos\, jusqu'au bout\, puis tr
+ averser la chaussée d'Alsemberg et prendre immédiatement à droite\, la 
+ rue du Bourdon\, pour continuer comme renseigné ci-dessus.\n\nVérifiez t
+ oujours ces infos sur http://www.abssa.be/
+GEO:50.7833427;4.3345203
+LOCATION:Complexe Sportif de Ridder\, Rue des Griottes\, 1180 Uccle\, Belg
+ ique
+ORGANIZER;CN="Simon A.";ROLE=Secrétaire:MAILTO:alain.si@skynet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6C J19: NEW ARQUOIS FC (Eq. 3) vs CHIEFS WSL (Eq. 4)
+DTSTART;VALUE=DATE-TIME:20260131T143000Z
+DTEND;VALUE=DATE-TIME:20260131T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2026_6C_19_263_303
+DESCRIPTION:Terrain synthétique: non\nCode terrain: A12\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Beka J-M. (0495.25.31.25 - jmbeka73@gmail.com
+ )\n\nAccès voiture : Autoroute E 19 (Bruxelles-Charleroi)\, sortie Arquen
+ nes. Direction Seneffe-La-Louvière. A la station d'essence Total\, prendr
+ e à droite pendant +/- 700 mètres.\nAu rond point\, prendre à droite en
+  direction du château de La Rocq\, passez sous le pont\, le terrain se tr
+ ouve à 100 mètres (à proximité du cimetière).\n\nVérifiez toujours c
+ es infos sur http://www.abssa.be/
+GEO:50.570014;4.272457699999999
+LOCATION:Stade Communal A. Plennevaux\, Rue Omer Lion 22\, 7181 Arquennes\
+ , Belgique
+ORGANIZER;CN="Beka J-M.";ROLE=Secrétaire:MAILTO:jmbeka73@gmail.com
 END:VEVENT
 END:VCALENDAR

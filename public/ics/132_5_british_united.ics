@@ -4,506 +4,451 @@ PRODID:132_5_british_united
 X-WR-CALDESC:Les matches du club BRITISH UNITED (equipe 5) en ABSSA.
 X-WR-CALNAME:ABSSA: BRITISH UNITED (eq. 5)
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J23: ALIZE VETERANS FC vs BRITISH UNITED (Eq. 5)
-DTSTART;VALUE=DATE-TIME:20240831T113000Z
-DTEND;VALUE=DATE-TIME:20240831T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_6C_23_395_132
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
- pale équipe domicile: Rouge et Noir\nCouleur principale équipe exterieur
- e: Bleu\n\nContact équipe domicile: Faid'Herbe T (0475.82.12.92 - thierry
- .faidherbe@outlook.be)\n\nAccès voiture : Via la chaussée de Mons jusqu'
- à Veeweyde (carrefour Fr. Van Kalken). Prendre à droite le boulevard  A.
-  Briand jusqu'à la Place Verdi\, puis le Bld. Théo Lambert.\n\nVérifiez
-  toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://c
- alabssa.be/c/132_5_british_united
-GEO:50.8275993;4.2964877
-LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
- \, Belgique
-ORGANIZER;CN="Faid'Herbe T";ROLE=Secrétaire:MAILTO:thierry.faidherbe@outl
- ook.be
+SUMMARY:ABSSA D6A J1: TOURINNOIS FC (Eq. 3) vs BRITISH UNITED (Eq. 5)
+DTSTART;VALUE=DATE-TIME:20250830T113000Z
+DTEND;VALUE=DATE-TIME:20250830T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_6A_1_292_132
+DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Stas De Richelle M (0473.68.59.91 - FCTourinn
+ ois@outlook.com)\n\nAccès voiture : A partir de l'autoroute Bruxelles-Nam
+ ur (E411)\, prendre la sortie  Walhain (n° 10). Au pied de la rampe d'acc
+ ès\, suivre la direction Walhain vers la droite et après 200 m. prendre 
+ à droite et 400 m. plus loin\, prendre à nouveau à droite. Le terrain s
+ e trouve à +/- 300 m. sur la gauche.\n\nVérifiez toujours ces infos sur 
+ http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/132_5_briti
+ sh_united
+GEO:50.6412308;4.7180724
+LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
+ORGANIZER;CN="Stas De Richelle M";ROLE=Secrétaire:MAILTO:FCTourinnois@out
+ look.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J1: BRITISH UNITED (Eq. 5) vs PHARMA SC (Eq. 4)
-DTSTART;VALUE=DATE-TIME:20240907T103000Z
-DTEND;VALUE=DATE-TIME:20240907T120000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_6C_1_132_268
+SUMMARY:ABSSA D6A J2: BRITISH UNITED (Eq. 5) vs CHOULE AUDERGHEM (Eq. 5)
+DTSTART;VALUE=DATE-TIME:20250906T133000Z
+DTEND;VALUE=DATE-TIME:20250906T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_6A_2_132_517
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
- \nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gillesvanders
- eypen@gmail.com)\n\nAccès voiture : A partir de Bruxelles\, prendre la E 
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Caballero G (0479.79.86.54 - guillem_955@hotm
+ ail.com)\n\nAccès voiture : A partir de Bruxelles\, prendre la E 411 en d
+ irection de Namur. Prendre la sortie N° 8 puis à droite la bretelle pour
+  la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 k
+ m\, au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Libéra
+ tion\, puis à gauche dans la rue de la Grande lecke.\n\nVérifiez toujour
+ s ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.
+ be/c/132_5_british_united
+GEO:50.7611768;4.7884455
+LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
+ORGANIZER;CN="Caballero G";ROLE=Secrétaire:MAILTO:guillem_955@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J3: IRLANDE FC (Eq. 5) vs BRITISH UNITED (Eq. 5)
+DTSTART;VALUE=DATE-TIME:20250913T133000Z
+DTEND;VALUE=DATE-TIME:20250913T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_6A_3_402_132
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: N04\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Penouilh S. (0474.97.79.48 - fci.secretary.men
+ s@outlook.com)\n\nAccès voiture : Chaussée de Louvain jusqu'à Nossegem\
+ , au premier croisement prendre à gauche la \nMechelsesteenweg. Le terrai
+ n est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\,
+  prendre la sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelsestee
+ nweg\, traverser la chaussée de Louvain\, et suivre comme ci-avant.\n\nV
+ érifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: h
+ ttps://calabssa.be/c/132_5_british_united
+GEO:50.88776559999999;4.50894
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER;CN="Penouilh S.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@outl
+ ook.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J4: BRITISH UNITED (Eq. 5) vs GAST FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20250920T133000Z
+DTEND;VALUE=DATE-TIME:20250920T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_6A_4_132_388
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Gris\n
+ \nContact équipe domicile: Caballero G (0479.79.86.54 - guillem_955@hotma
+ il.com)\n\nAccès voiture : A partir de Bruxelles\, prendre la E 411 en di
+ rection de Namur. Prendre la sortie N° 8 puis à droite la bretelle pour 
+ la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 km
+ \, au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Libérat
+ ion\, puis à gauche dans la rue de la Grande lecke.\n\nVérifiez toujours
+  ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.b
+ e/c/132_5_british_united
+GEO:50.7611768;4.7884455
+LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
+ORGANIZER;CN="Caballero G";ROLE=Secrétaire:MAILTO:guillem_955@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J6: BRITISH UNITED (Eq. 5) vs AUDERGHEM RU
+DTSTART;VALUE=DATE-TIME:20251004T133000Z
+DTEND;VALUE=DATE-TIME:20251004T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_6A_6_132_376
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Jaune\
+ n\nContact équipe domicile: Caballero G (0479.79.86.54 - guillem_955@hotm
+ ail.com)\n\nAccès voiture : A partir de Bruxelles\, prendre la E 411 en d
+ irection de Namur. Prendre la sortie N° 8 puis à droite la bretelle pour
+  la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 k
+ m\, au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Libéra
+ tion\, puis à gauche dans la rue de la Grande lecke.\n\nVérifiez toujour
+ s ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.
+ be/c/132_5_british_united
+GEO:50.7611768;4.7884455
+LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
+ORGANIZER;CN="Caballero G";ROLE=Secrétaire:MAILTO:guillem_955@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J7: BRITISH UNITED (Eq. 5) vs J.ST-GILLOISE R.
+DTSTART;VALUE=DATE-TIME:20251011T133000Z
+DTEND;VALUE=DATE-TIME:20251011T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_6A_7_132_38
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu f
+ oncé\n\nContact équipe domicile: Caballero G (0479.79.86.54 - guillem_95
+ 5@hotmail.com)\n\nAccès voiture : A partir de Bruxelles\, prendre la E 41
+ 1 en direction de Namur. Prendre la sortie N° 8 puis à droite la bretell
+ e pour la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 
+ 6\,5 km\, au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la L
+ ibération\, puis à gauche dans la rue de la Grande lecke.\n\nVérifiez t
+ oujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cal
+ abssa.be/c/132_5_british_united
+GEO:50.7611768;4.7884455
+LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
+ORGANIZER;CN="Caballero G";ROLE=Secrétaire:MAILTO:guillem_955@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J8: AMB. AUDERGHEM (Eq. 2) vs BRITISH UNITED (Eq. 5)
+DTSTART;VALUE=DATE-TIME:20251018T120000Z
+DTEND;VALUE=DATE-TIME:20251018T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_6A_8_249_132
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Mad. Plasman T (0497.52.19.81 - tiffany-plasm
+ an@hotmail.com)\n\nAccès voiture : En venant de Bruxelles par la chaussé
+ e de Wavre\, rejoindre le du début de l'autoroute Bruxelles-Namur\, utili
+ ser la bande de droite pendant +/- 200 m. et descendre devant le bâtiment
+  de l'ADEPS\, puis passer par le tunnel à gauche (en dessous de l'autorou
+ te). Le terrain se trouve à 200 m. Le stade est fléché.\n\nVérifiez to
+ ujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cala
+ bssa.be/c/132_5_british_united
+GEO:50.81071379999999;4.4432209
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="Mad. Plasman T";ROLE=Secrétaire:MAILTO:tiffany-plasman@hotm
+ ail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J10: ITT - CLAUDY  FC (Eq. 2) vs BRITISH UNITED (Eq. 5)
+DTSTART;VALUE=DATE-TIME:20251108T130000Z
+DTEND;VALUE=DATE-TIME:20251108T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_6A_10_92_132
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: N04\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Schmidt C (0475.61.97.33 - Christian@Schmidt1.
+ be)\n\nAccès voiture : Chaussée de Louvain jusqu'à Nossegem\, au premie
+ r croisement prendre à gauche la \nMechelsesteenweg. Le terrain est indiq
+ ué à +/- 1 km. à gauche.\nPar l'autoroute Bruxelles-Liège\, prendre la
+  sortie Nossegem-Sterrebeek\, prendre à gauche la Mechelsesteenweg\, trav
+ erser la chaussée de Louvain\, et suivre comme ci-avant.\n\nVérifiez tou
+ jours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calab
+ ssa.be/c/132_5_british_united
+GEO:50.88776559999999;4.50894
+LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
+ e
+ORGANIZER;CN="Schmidt C";ROLE=Secrétaire:MAILTO:Christian@Schmidt1.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J11: BRITISH UNITED (Eq. 5) vs BRUSSELS BRITISH R (Eq. 5
+ )
+DTSTART;VALUE=DATE-TIME:20251115T143000Z
+DTEND;VALUE=DATE-TIME:20251115T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_6A_11_132_1
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Caballero G (0479.79.86.54 - guillem_955@hotm
+ ail.com)\n\nAccès voiture : A partir de Bruxelles\, prendre la E 411 en d
+ irection de Namur. Prendre la sortie N° 8 puis à droite la bretelle pour
+  la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 k
+ m\, au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Libéra
+ tion\, puis à gauche dans la rue de la Grande lecke.\n\nVérifiez toujour
+ s ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.
+ be/c/132_5_british_united
+GEO:50.7611768;4.7884455
+LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
+ORGANIZER;CN="Caballero G";ROLE=Secrétaire:MAILTO:guillem_955@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J12: ECUSSON FC (Eq. 2) vs BRITISH UNITED (Eq. 5)
+DTSTART;VALUE=DATE-TIME:20251122T143000Z
+DTEND;VALUE=DATE-TIME:20251122T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_6A_12_404_132
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Jaune et Bleu\nCouleur principale équipe exterieur
+ e: Bleu\n\nContact équipe domicile: Mme. Mottar M. (0493.45.25.64 - Melis
+ sa42@hotmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, aprè
+ s 300 m. en direction de Lennik\, prendre à droite.\nVenant de la chauss
+ ée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\
+ , Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en
+  direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.abssa
+ .be/\nVoir sur calabssa: https://calabssa.be/c/132_5_british_united
+GEO:50.8177358;4.2557195
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER;CN="Mme. Mottar M.";ROLE=Secrétaire:MAILTO:Melissa42@hotmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J13: BRITISH UNITED (Eq. 5) vs METRASPORT R.
+DTSTART;VALUE=DATE-TIME:20251129T143000Z
+DTEND;VALUE=DATE-TIME:20251129T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_6A_13_132_33
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge 
+ et Bleu\n\nContact équipe domicile: Caballero G (0479.79.86.54 - guillem_
+ 955@hotmail.com)\n\nAccès voiture : A partir de Bruxelles\, prendre la E 
  411 en direction de Namur. Prendre la sortie N° 8 puis à droite la brete
  lle pour la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/
  - 6\,5 km\, au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la
   Libération\, puis à gauche dans la rue de la Grande lecke.\n\nVérifiez
   toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://c
  alabssa.be/c/132_5_british_united
-GEO:50.7540176;4.7835618
+GEO:50.7611768;4.7884455
 LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
-ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
- gmail.com
+ORGANIZER;CN="Caballero G";ROLE=Secrétaire:MAILTO:guillem_955@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J2: NIVELLOIS-ACLOT BS (Eq. 2) vs BRITISH UNITED (Eq. 5)
-DTSTART;VALUE=DATE-TIME:20240914T110000Z
-DTEND;VALUE=DATE-TIME:20240914T123000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_6C_2_503_132
-DESCRIPTION:Terrain synthétique: non\nCode terrain: N03\n\nCouleur princi
- pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
- e: Bleu\n\nContact équipe domicile: Draux N. (0472.40.01.22 - ni.draux@gm
- ail.com)\n\nAccès voiture : En venant de Bruxelles\, par l'autoroute Brux
- elles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\, passer sous le pon
- t de l'autoroute et prendre la direction de Nivelles. A 200 m.\, au rond-p
- oint (Shopping Center)\, tourner à droite en direction de Wavre (petit ri
- ng de Nivelles).\nAu 4ème rond-point (en tenant compte du rond-point du S
- hopping Center)\, tourner à gauche \, rue de l'Industrie et pénétrer da
- ns le zoning. Au bout de la rue\, avant le feu de signalisation\, tourner 
- à gauche et prendre la rue du Progrès pendant +/- 400 m.\n\nVérifiez to
- ujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cala
- bssa.be/c/132_5_british_united
-GEO:50.5963705;4.3564539
-LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
-ORGANIZER;CN="Draux N.";ROLE=Secrétaire:MAILTO:ni.draux@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J3: BRITISH UNITED (Eq. 5) vs ETTEKIJS (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20240921T103000Z
-DTEND;VALUE=DATE-TIME:20240921T120000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_6C_3_132_343
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir r
- ayé de blanc\n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 
- - gillesvanderseypen@gmail.com)\n\nAccès voiture : A partir de Bruxelles\
- , prendre la E 411 en direction de Namur. Prendre la sortie N° 8 puis à 
- droite la bretelle pour la N 25 vers Chaumont-Gistoux / Grez Doiceau / Lou
- vain. Après +/- 6\,5 km\, au rond-point\, prendre la sortie 1 vers la N 4
- 20 Chée. de la Libération\, puis à gauche dans la rue de la Grande leck
- e.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur cala
- bssa: https://calabssa.be/c/132_5_british_united
-GEO:50.7540176;4.7835618
-LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
-ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
- gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J4: CHENOIS SC (Eq. 3) vs BRITISH UNITED (Eq. 5)
-DTSTART;VALUE=DATE-TIME:20240928T130000Z
-DTEND;VALUE=DATE-TIME:20240928T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_6C_4_84_132
-DESCRIPTION:Terrain synthétique: non\nCode terrain: W02\n\nCouleur princi
- pale équipe domicile: Noir et Rouge\nCouleur principale équipe exterieur
- e: Bleu\n\nContact équipe domicile: Versmissen P. (0495.59.61.77 - sc.che
- nois@waterloo.eu)\n\nAccès voiture : Venant d'Uccle\, prendre la chaussé
- e de Waterloo\, ensuite la chaussée de Bruxelles\, continuer jusqu'à la 
- place E. Vandevelde (intersection de la chaussée de Bruxelles avec la cha
- ussée de Tervuren à Joli-Bois). Au feu de signalisation prendre à droit
- e la chaussée Bara. Le terrain se trouve à droite à +/- 500 m.\n\nVéri
- fiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https
- ://calabssa.be/c/132_5_british_united
-GEO:50.701676;4.397567
-LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
-ORGANIZER;CN="Versmissen P.";ROLE=Secrétaire:MAILTO:sc.chenois@waterloo.e
- u
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J6: BRAINE-TERMINUS FC (Eq. 2) vs BRITISH UNITED (Eq. 5)
-DTSTART;VALUE=DATE-TIME:20241012T113000Z
-DTEND;VALUE=DATE-TIME:20241012T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_6C_6_537_132
-DESCRIPTION:Terrain synthétique: non\nCode terrain: B11\n\nCouleur princi
- pale équipe domicile: Jaune et rouge\nCouleur principale équipe exterieu
- re: Bleu\n\nContact équipe domicile: Dero G. (0479.81.83.27 - fcbraineter
- minus@gmail.com)\n\nAccès voiture : En venant de Bruxelles : Autoroute To
- urnai - Lille (A8)\, prendre la sortie n° 24\, direction Rebecq\, puis la
-  N 6 Bruxelles-Mons en direction de Mons. Entrer dans l'agglomération de 
- Braine-Le-Comte et prendre la 1ère rue à droite\, le terrain se situe au
-  bout de la rue.\nEn venant de Nivelles : Prendre la N533\, Nivelles/Brain
- e-Le-Comte. Entrer dans l'agglomération de Braine-Le-Comte et suivre la d
- irection de Bruxelles (N 6 Mons-Bruxelles)\, prendre la 1ère rue à gauch
- e\, le terrain se situe au bout de la rue.\n\nVérifiez toujours ces infos
-  sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/132_5_
- british_united
-GEO:50.6194169;4.1351187
-LOCATION:Rue du Poseur 39\, 7090 Braine-Le-Comte\, Belgique
-ORGANIZER;CN="Dero G.";ROLE=Secrétaire:MAILTO:fcbraineterminus@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J25: CHIEFS WSL (Eq. 4) vs BRITISH UNITED (Eq. 5)
-DTSTART;VALUE=DATE-TIME:20241019T090000Z
-DTEND;VALUE=DATE-TIME:20241019T103000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_6C_25_303_132
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
- n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan.be)\n\nA
- ccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, puis la cha
- ussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce pont le 
- terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur http://ww
- w.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/132_5_british_united
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J26: BRITISH UNITED (Eq. 5) vs CHOULE AUDERGHEM (Eq. 4)
-DTSTART;VALUE=DATE-TIME:20241026T103000Z
-DTEND;VALUE=DATE-TIME:20241026T120000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_6C_26_132_517
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rayé 
- Bleu et Blanc\n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 
- - gillesvanderseypen@gmail.com)\n\nAccès voiture : A partir de Bruxelles\
- , prendre la E 411 en direction de Namur. Prendre la sortie N° 8 puis à 
- droite la bretelle pour la N 25 vers Chaumont-Gistoux / Grez Doiceau / Lou
- vain. Après +/- 6\,5 km\, au rond-point\, prendre la sortie 1 vers la N 4
- 20 Chée. de la Libération\, puis à gauche dans la rue de la Grande leck
- e.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur cala
- bssa: https://calabssa.be/c/132_5_british_united
-GEO:50.7540176;4.7835618
-LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
-ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
- gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J7: ETINCELLE FC (Eq. 2) vs BRITISH UNITED (Eq. 5)
-DTSTART;VALUE=DATE-TIME:20241102T113000Z
-DTEND;VALUE=DATE-TIME:20241102T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_6C_7_35_132
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
- pale équipe domicile: Jaune et bleu\nCouleur principale équipe exterieur
- e: Bleu\n\nContact équipe domicile: Kremer N (0471.37.59.81 - nicolas.kre
- mer@gmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 3
- 00 m. en direction de Lennik\, prendre à droite.\nVenant de la chaussée 
- de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bl
- d. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en dir
- ection de Lennik.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
- \nVoir sur calabssa: https://calabssa.be/c/132_5_british_united
-GEO:50.8177358;4.2557195
-LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
-  1070 Anderlecht\, Belgique
-ORGANIZER;CN="Kremer N";ROLE=Secrétaire:MAILTO:nicolas.kremer@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J8: BRITISH UNITED (Eq. 5) vs TOURINNOIS FC (Eq. 4)
-DTSTART;VALUE=DATE-TIME:20241109T113000Z
-DTEND;VALUE=DATE-TIME:20241109T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_6C_8_132_292
+SUMMARY:ABSSA D6A J14: BRITISH UNITED (Eq. 5) vs TOURINNOIS FC (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20251206T143000Z
+DTEND;VALUE=DATE-TIME:20251206T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_6A_14_132_292
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge\
- n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gillesvander
- seypen@gmail.com)\n\nAccès voiture : A partir de Bruxelles\, prendre la E
-  411 en direction de Namur. Prendre la sortie N° 8 puis à droite la bret
- elle pour la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +
- /- 6\,5 km\, au rond-point\, prendre la sortie 1 vers la N 420 Chée. de l
- a Libération\, puis à gauche dans la rue de la Grande lecke.\n\nVérifie
- z toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://
- calabssa.be/c/132_5_british_united
-GEO:50.7540176;4.7835618
+ n\nContact équipe domicile: Caballero G (0479.79.86.54 - guillem_955@hotm
+ ail.com)\n\nAccès voiture : A partir de Bruxelles\, prendre la E 411 en d
+ irection de Namur. Prendre la sortie N° 8 puis à droite la bretelle pour
+  la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 k
+ m\, au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Libéra
+ tion\, puis à gauche dans la rue de la Grande lecke.\n\nVérifiez toujour
+ s ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.
+ be/c/132_5_british_united
+GEO:50.7611768;4.7884455
 LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
-ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
- gmail.com
+ORGANIZER;CN="Caballero G";ROLE=Secrétaire:MAILTO:guillem_955@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J9: AZUR RCS (Eq. 6) vs BRITISH UNITED (Eq. 5)
-DTSTART;VALUE=DATE-TIME:20241116T140000Z
-DTEND;VALUE=DATE-TIME:20241116T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_6C_9_109_132
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W12\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
- \nContact équipe domicile: Mad. Decamps N. (0477.27.39.66 - nathalie_deca
- mps@hotmail.com)\n\nAccès voiture : Avenue de Tervuren\, direction Tervur
- en. Passé le boulevard du Souverain prendre à gauche au premier feu de s
- ignalisation (Av. Madoux). Au feu de signalisation suivant prendre la 2èm
- e rue à main droite (Av. J. Dujardin). Ensuite 1ère rue à gauche (Av. S
- alomé).\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir su
- r calabssa: https://calabssa.be/c/132_5_british_united
-GEO:50.830818;4.455442
-LOCATION:Centre Sportif\, Avenue Salomé 2\, 1150 Woluwé-Saint-Pierre\, B
- elgique
-ORGANIZER;CN="Mad. Decamps N.";ROLE=Secrétaire:MAILTO:nathalie_decamps@ho
- tmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J12: BRITISH UNITED (Eq. 5) vs CHIEFS WSL (Eq. 4)
-DTSTART;VALUE=DATE-TIME:20241123T113000Z
-DTEND;VALUE=DATE-TIME:20241123T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_6C_12_132_303
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
- n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gillesvander
- seypen@gmail.com)\n\nAccès voiture : A partir de Bruxelles\, prendre la E
-  411 en direction de Namur. Prendre la sortie N° 8 puis à droite la bret
- elle pour la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +
- /- 6\,5 km\, au rond-point\, prendre la sortie 1 vers la N 420 Chée. de l
- a Libération\, puis à gauche dans la rue de la Grande lecke.\n\nVérifie
- z toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://
- calabssa.be/c/132_5_british_united
-GEO:50.7540176;4.7835618
-LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
-ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
- gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J11: FAUBOURG-BRAINOISE (Eq. 2) vs BRITISH UNITED (Eq. 5
- )
-DTSTART;VALUE=DATE-TIME:20241130T123000Z
-DTEND;VALUE=DATE-TIME:20241130T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_6C_11_100_132
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu\
- n\nContact équipe domicile: Herpain D. (0474.79.02.18 - daniel.herpain@sk
- ynet.be)\n\nAccès voiture : En venant de Bruxelles\, emprunter la chauss
- ée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour". Au dit carre
- four (Mont-St.-Jean) prendre la direction Nivelles. Sur cette chaussée\, 
- au deuxième feu de signalisation\, prendre à droite\, le terrain se trou
- ve à 500 m. et est fléché.\n\nVérifiez toujours ces infos sur http://w
- ww.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/132_5_british_unite
- d
-GEO:50.6827211;4.3844421
-LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
- ud\, Belgique
-ORGANIZER;CN="Herpain D.";ROLE=Secrétaire:MAILTO:daniel.herpain@skynet.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J10: BRITISH UNITED (Eq. 5) vs ALIZE VETERANS FC
-DTSTART;VALUE=DATE-TIME:20241207T113000Z
-DTEND;VALUE=DATE-TIME:20241207T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_6C_10_132_395
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge 
- et Noir\n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gill
- esvanderseypen@gmail.com)\n\nAccès voiture : A partir de Bruxelles\, pren
- dre la E 411 en direction de Namur. Prendre la sortie N° 8 puis à droite
-  la bretelle pour la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. 
- Après +/- 6\,5 km\, au rond-point\, prendre la sortie 1 vers la N 420 Ch
- ée. de la Libération\, puis à gauche dans la rue de la Grande lecke.\n\
- nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa:
-  https://calabssa.be/c/132_5_british_united
-GEO:50.7540176;4.7835618
-LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
-ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
- gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J13: CHOULE AUDERGHEM (Eq. 4) vs BRITISH UNITED (Eq. 5)
-DTSTART;VALUE=DATE-TIME:20241214T113000Z
-DTEND;VALUE=DATE-TIME:20241214T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_6C_13_517_132
+SUMMARY:ABSSA D6A J15: CHOULE AUDERGHEM (Eq. 5) vs BRITISH UNITED (Eq. 5)
+DTSTART;VALUE=DATE-TIME:20251213T113000Z
+DTEND;VALUE=DATE-TIME:20251213T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2025_6A_15_517_132
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
- pale équipe domicile: Rayé Bleu et Blanc\nCouleur principale équipe ext
- erieure: Bleu\n\nContact équipe domicile: Vandenplas D. (0476.54.48.01 - 
- dav_54@hotmail.com)\n\nAccès voiture : En venant de Bruxelles par la chau
- ssée de Wavre\, rejoindre le du début de l'autoroute Bruxelles-Namur\, u
- tiliser la bande de droite pendant +/- 200 m. et descendre devant le bâti
- ment de l'ADEPS\, puis passer par le tunnel à gauche (en dessous de l'aut
- oroute). Le terrain se trouve à 200 m. Le stade est fléché.\n\nVérifie
- z toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://
- calabssa.be/c/132_5_british_united
-GEO:50.8103473;4.443252699999999
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Vandenplas D. (0476.54.48.01 - dav_54@hotmail
+ .com)\n\nAccès voiture : En venant de Bruxelles par la chaussée de Wavre
+ \, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ban
+ de de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADEP
+ S\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le te
+ rrain se trouve à 200 m. Le stade est fléché.\n\nVérifiez toujours ces
+  infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/
+ 132_5_british_united
+GEO:50.81071379999999;4.4432209
 LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
  lgique
 ORGANIZER;CN="Vandenplas D.";ROLE=Secrétaire:MAILTO:dav_54@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J14: PHARMA SC (Eq. 4) vs BRITISH UNITED (Eq. 5)
-DTSTART;VALUE=DATE-TIME:20250111T130000Z
-DTEND;VALUE=DATE-TIME:20250111T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_6C_14_268_132
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
- \nContact équipe domicile: Van Durme Th. (0477.71.89.93 - phie.dumidi@sca
- rlet.be)\n\nAccès voiture : Au départ de la Place St. Denis à Forest pr
- endre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4ème rue 
- à droite) et dans la rue de la Soierie rouler env. 100 m. puis 1ère à g
- auche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L'entrée 
- du Complexe se trouve à hauteur de City Cart\, à gauche de la route.\n\n
- Vérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: 
- https://calabssa.be/c/132_5_british_united
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
- e
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J15: BRITISH UNITED (Eq. 5) vs NIVELLOIS-ACLOT BS (Eq. 2
- )
-DTSTART;VALUE=DATE-TIME:20250118T113000Z
-DTEND;VALUE=DATE-TIME:20250118T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_6C_15_132_503
+SUMMARY:ABSSA D6A J16: BRITISH UNITED (Eq. 5) vs IRLANDE FC (Eq. 5)
+DTSTART;VALUE=DATE-TIME:20260110T143000Z
+DTEND;VALUE=DATE-TIME:20260110T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_6A_16_132_402
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge 
- et noir\n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gill
- esvanderseypen@gmail.com)\n\nAccès voiture : A partir de Bruxelles\, pren
- dre la E 411 en direction de Namur. Prendre la sortie N° 8 puis à droite
-  la bretelle pour la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. 
- Après +/- 6\,5 km\, au rond-point\, prendre la sortie 1 vers la N 420 Ch
- ée. de la Libération\, puis à gauche dans la rue de la Grande lecke.\n\
- nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa:
-  https://calabssa.be/c/132_5_british_united
-GEO:50.7540176;4.7835618
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Vert\n
+ \nContact équipe domicile: Caballero G (0479.79.86.54 - guillem_955@hotma
+ il.com)\n\nAccès voiture : A partir de Bruxelles\, prendre la E 411 en di
+ rection de Namur. Prendre la sortie N° 8 puis à droite la bretelle pour 
+ la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 km
+ \, au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Libérat
+ ion\, puis à gauche dans la rue de la Grande lecke.\n\nVérifiez toujours
+  ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.b
+ e/c/132_5_british_united
+GEO:50.7611768;4.7884455
 LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
-ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
- gmail.com
+ORGANIZER;CN="Caballero G";ROLE=Secrétaire:MAILTO:guillem_955@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J16: ETTEKIJS (Eq. 3) vs BRITISH UNITED (Eq. 5)
-DTSTART;VALUE=DATE-TIME:20250125T130000Z
-DTEND;VALUE=DATE-TIME:20250125T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_6C_16_343_132
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
- pale équipe domicile: Noir rayé de blanc\nCouleur principale équipe ext
- erieure: Bleu\n\nContact équipe domicile: Raes F. (0479.73.82.49 - freddy
- .raes@gmail.com)\n\nAccès voiture : A partir du square des Archiducs\, pr
- endre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez touj
- ours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabs
- sa.be/c/132_5_british_united
-GEO:50.80645209999999;4.4087184
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
+SUMMARY:ABSSA D6A J17: GAST FC (Eq. 2) vs BRITISH UNITED (Eq. 5)
+DTSTART;VALUE=DATE-TIME:20260117T143000Z
+DTEND;VALUE=DATE-TIME:20260117T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_6A_17_388_132
+DESCRIPTION:Terrain synthétique: non\nCode terrain: D01\n\nCouleur princi
+ pale équipe domicile: Gris\nCouleur principale équipe exterieure: Bleu\n
+ \nContact équipe domicile: Clais D. (0476.99.88.10 - davidclais@hotmail.c
+ om)\n\nAccès voiture : Prendre l'Autoroute ou le ring Bruxelles-Mons-Pari
+ s\, sortie Drogenbos. Prendre direction Drogenbos-Centre\, passer devant l
+ a Maison Communale et le terminus du tram\, ensuite à la 3ème rue tourne
+ r à main droite (Le terrain se trouve au bout de la rue au Bois).\n\nVér
+ ifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: http
+ s://calabssa.be/c/132_5_british_united
+GEO:50.7815238;4.3192196
+LOCATION:Stade Communal de Drogenbos\, Rue au Bois\, 1620 Drogenbos\, Belg
+ ique
+ORGANIZER;CN="Clais D.";ROLE=Secrétaire:MAILTO:davidclais@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J17: BRITISH UNITED (Eq. 5) vs CHENOIS SC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20250201T113000Z
-DTEND;VALUE=DATE-TIME:20250201T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_6C_17_132_84
+SUMMARY:ABSSA D6A J19: AUDERGHEM RU vs BRITISH UNITED (Eq. 5)
+DTSTART;VALUE=DATE-TIME:20260131T143000Z
+DTEND;VALUE=DATE-TIME:20260131T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_6A_19_376_132
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A11\n\nCouleur princi
+ pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: Van Eycke R. (0479.27.27.46 - vaneycker@gmail
+ .com)\n\nAccès voiture : En venant de Bruxelles par la chaussée de Wavre
+ \, rejoindre le du début de l'autoroute Bruxelles-Namur\, utiliser la ban
+ de de droite pendant +/- 200 m. et descendre devant le bâtiment de l'ADEP
+ S\, puis passer par le tunnel à gauche (en dessous de l'autoroute). Le te
+ rrain se trouve à 200 m. Le stade est fléché.\n\nVérifiez toujours ces
+  infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/
+ 132_5_british_united
+GEO:50.81071379999999;4.4432209
+LOCATION:Complexe Communal\, Chaussée de Wavre 1854\, 1160 Auderghem\, Be
+ lgique
+ORGANIZER;CN="Van Eycke R.";ROLE=Secrétaire:MAILTO:vaneycker@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J20: J.ST-GILLOISE R. vs BRITISH UNITED (Eq. 5)
+DTSTART;VALUE=DATE-TIME:20260207T130000Z
+DTEND;VALUE=DATE-TIME:20260207T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_6A_20_38_132
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Bleu foncé\nCouleur principale équipe exterieure:
+  Bleu\n\nContact équipe domicile: Thierry D. (0476.80.14.40 - bolithiery@
+ gmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, après 300 m
+ . en direction de Lennik\, prendre à droite.\nVenant de la chaussée de M
+ ons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Verdi\, Bld. T
+ héo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m. en directi
+ on de Lennik.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVo
+ ir sur calabssa: https://calabssa.be/c/132_5_british_united
+GEO:50.8177358;4.2557195
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER;CN="Thierry D.";ROLE=Secrétaire:MAILTO:bolithiery@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J21: BRITISH UNITED (Eq. 5) vs AMB. AUDERGHEM (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260214T143000Z
+DTEND;VALUE=DATE-TIME:20260214T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_6A_21_132_249
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir e
- t Rouge\n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gill
- esvanderseypen@gmail.com)\n\nAccès voiture : A partir de Bruxelles\, pren
- dre la E 411 en direction de Namur. Prendre la sortie N° 8 puis à droite
-  la bretelle pour la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. 
- Après +/- 6\,5 km\, au rond-point\, prendre la sortie 1 vers la N 420 Ch
- ée. de la Libération\, puis à gauche dans la rue de la Grande lecke.\n\
- nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa:
-  https://calabssa.be/c/132_5_british_united
-GEO:50.7540176;4.7835618
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
+ n\nContact équipe domicile: Caballero G (0479.79.86.54 - guillem_955@hotm
+ ail.com)\n\nAccès voiture : A partir de Bruxelles\, prendre la E 411 en d
+ irection de Namur. Prendre la sortie N° 8 puis à droite la bretelle pour
+  la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 k
+ m\, au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Libéra
+ tion\, puis à gauche dans la rue de la Grande lecke.\n\nVérifiez toujour
+ s ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.
+ be/c/132_5_british_united
+GEO:50.7611768;4.7884455
 LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
-ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
- gmail.com
+ORGANIZER;CN="Caballero G";ROLE=Secrétaire:MAILTO:guillem_955@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6C J19: BRITISH UNITED (Eq. 5) vs BRAINE-TERMINUS FC (Eq. 2
+SUMMARY:ABSSA D6A J23: BRITISH UNITED (Eq. 5) vs ITT - CLAUDY  FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260228T143000Z
+DTEND;VALUE=DATE-TIME:20260228T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_6A_23_132_92
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir\n
+ \nContact équipe domicile: Caballero G (0479.79.86.54 - guillem_955@hotma
+ il.com)\n\nAccès voiture : A partir de Bruxelles\, prendre la E 411 en di
+ rection de Namur. Prendre la sortie N° 8 puis à droite la bretelle pour 
+ la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/- 6\,5 km
+ \, au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la Libérat
+ ion\, puis à gauche dans la rue de la Grande lecke.\n\nVérifiez toujours
+  ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.b
+ e/c/132_5_british_united
+GEO:50.7611768;4.7884455
+LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
+ORGANIZER;CN="Caballero G";ROLE=Secrétaire:MAILTO:guillem_955@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J24: BRUSSELS BRITISH R (Eq. 5) vs BRITISH UNITED (Eq. 5
  )
-DTSTART;VALUE=DATE-TIME:20250215T113000Z
-DTEND;VALUE=DATE-TIME:20250215T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_6C_19_132_537
+DTSTART;VALUE=DATE-TIME:20260307T143000Z
+DTEND;VALUE=DATE-TIME:20260307T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_6A_24_1_132
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu\
+ n\nContact équipe domicile: O'Connor G (0456.54.46.67 - abssa-sec@rbbfc.o
+ rg)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Pass
+ er devant l'église\, longer l'autoroute et tourner à droite au cimetièr
+ e des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur http:
+ //www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/132_5_british_un
+ ited
+GEO:50.7264542;4.5530681
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="O'Connor G";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J25: BRITISH UNITED (Eq. 5) vs ECUSSON FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260314T143000Z
+DTEND;VALUE=DATE-TIME:20260314T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_6A_25_132_404
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
  pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Jaune 
- et rouge\n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gil
- lesvanderseypen@gmail.com)\n\nAccès voiture : A partir de Bruxelles\, pre
- ndre la E 411 en direction de Namur. Prendre la sortie N° 8 puis à droit
- e la bretelle pour la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain.
-  Après +/- 6\,5 km\, au rond-point\, prendre la sortie 1 vers la N 420 Ch
- ée. de la Libération\, puis à gauche dans la rue de la Grande lecke.\n\
- nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa:
-  https://calabssa.be/c/132_5_british_united
-GEO:50.7540176;4.7835618
-LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
-ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
- gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J24: BRITISH UNITED (Eq. 5) vs FAUBOURG-BRAINOISE (Eq. 2
- )
-DTSTART;VALUE=DATE-TIME:20250222T113000Z
-DTEND;VALUE=DATE-TIME:20250222T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_6C_24_132_100
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rouge\
- n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gillesvander
- seypen@gmail.com)\n\nAccès voiture : A partir de Bruxelles\, prendre la E
-  411 en direction de Namur. Prendre la sortie N° 8 puis à droite la bret
- elle pour la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +
- /- 6\,5 km\, au rond-point\, prendre la sortie 1 vers la N 420 Chée. de l
- a Libération\, puis à gauche dans la rue de la Grande lecke.\n\nVérifie
- z toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://
- calabssa.be/c/132_5_british_united
-GEO:50.7540176;4.7835618
-LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
-ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
- gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J20: BRITISH UNITED (Eq. 5) vs ETINCELLE FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20250308T113000Z
-DTEND;VALUE=DATE-TIME:20250308T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_6C_20_132_35
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Jaune 
- et bleu\n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gill
- esvanderseypen@gmail.com)\n\nAccès voiture : A partir de Bruxelles\, pren
- dre la E 411 en direction de Namur. Prendre la sortie N° 8 puis à droite
-  la bretelle pour la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. 
- Après +/- 6\,5 km\, au rond-point\, prendre la sortie 1 vers la N 420 Ch
- ée. de la Libération\, puis à gauche dans la rue de la Grande lecke.\n\
- nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa:
-  https://calabssa.be/c/132_5_british_united
-GEO:50.7540176;4.7835618
-LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
-ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
- gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J21: TOURINNOIS FC (Eq. 4) vs BRITISH UNITED (Eq. 5)
-DTSTART;VALUE=DATE-TIME:20250315T140000Z
-DTEND;VALUE=DATE-TIME:20250315T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_6C_21_292_132
-DESCRIPTION:Terrain synthétique: non\nCode terrain: T02\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu\
- n\nContact équipe domicile: Strade P. (010.65.83.02 - stradepaul@hotmail.
- com)\n\nAccès voiture : A partir de l'autoroute Bruxelles-Namur (E411)\, 
- prendre la sortie  Walhain (n° 10). Au pied de la rampe d'accès\, suivre
-  la direction Walhain vers la droite et après 200 m. prendre à droite et
-  400 m. plus loin\, prendre à nouveau à droite. Le terrain se trouve à 
- +/- 300 m. sur la gauche.\n\nVérifiez toujours ces infos sur http://www.a
- bssa.be/\nVoir sur calabssa: https://calabssa.be/c/132_5_british_united
-GEO:50.6415282;4.7193257
-LOCATION:Rue des Cortils\, 1457 Walhain\, Belgique
-ORGANIZER;CN="Strade P.";ROLE=Secrétaire:MAILTO:stradepaul@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6C J22: BRITISH UNITED (Eq. 5) vs AZUR RCS (Eq. 6)
-DTSTART;VALUE=DATE-TIME:20250322T113000Z
-DTEND;VALUE=DATE-TIME:20250322T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_6C_22_132_109
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bleu\n
- \nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gillesvanders
- eypen@gmail.com)\n\nAccès voiture : A partir de Bruxelles\, prendre la E 
+ et Bleu\n\nContact équipe domicile: Caballero G (0479.79.86.54 - guillem_
+ 955@hotmail.com)\n\nAccès voiture : A partir de Bruxelles\, prendre la E 
  411 en direction de Namur. Prendre la sortie N° 8 puis à droite la brete
  lle pour la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +/
  - 6\,5 km\, au rond-point\, prendre la sortie 1 vers la N 420 Chée. de la
   Libération\, puis à gauche dans la rue de la Grande lecke.\n\nVérifiez
   toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://c
  alabssa.be/c/132_5_british_united
-GEO:50.7540176;4.7835618
+GEO:50.7611768;4.7884455
 LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
-ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
- gmail.com
+ORGANIZER;CN="Caballero G";ROLE=Secrétaire:MAILTO:guillem_955@hotmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6A J26: METRASPORT R. vs BRITISH UNITED (Eq. 5)
+DTSTART;VALUE=DATE-TIME:20260321T130000Z
+DTEND;VALUE=DATE-TIME:20260321T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162931Z
+UID:2026_6A_26_33_132
+DESCRIPTION:Terrain synthétique: non\nCode terrain: B08\n\nCouleur princi
+ pale équipe domicile: Rouge et Bleu\nCouleur principale équipe exterieur
+ e: Bleu\n\nContact équipe domicile: Pirlot E. (0474.90.52.25 - emilepirlo
+ t@outlook.be)\n\nAccès voiture : Pont de Laeken\, Chaussée de Vilvorde\,
+  vers Neder-Over-Heembeek\, prendre l' Avenue des Croix de Guerre jusqu'au
+  rond-point\, tout droit Chemin Vert\, puis première à gauche\, Petit Ch
+ emin Vert\, terrain à 300 m.\n\nVérifiez toujours ces infos sur http://w
+ ww.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/132_5_british_unite
+ d
+GEO:50.8996;4.393737199999999
+LOCATION:Petit Chemin Vert 99\, 1120 Neder-Over-Heembeek\, Belgique
+ORGANIZER;CN="Pirlot E.";ROLE=Secrétaire:MAILTO:emilepirlot@outlook.be
 END:VEVENT
 END:VCALENDAR

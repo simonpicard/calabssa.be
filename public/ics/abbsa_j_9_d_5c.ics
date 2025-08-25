@@ -4,119 +4,122 @@ PRODID:abbsa_j_9_d_5c
 X-WR-CALDESC:Les matches de la journée 9 en divion 5C d'ABSSA.
 X-WR-CALNAME:D5C Journée 9
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J9: CHIEFS WSL (Eq. 3) vs CLAUDY F.C.
-DTSTART;VALUE=DATE-TIME:20241116T113000Z
-DTEND;VALUE=DATE-TIME:20241116T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_5C_9_303_678
+SUMMARY:ABSSA D5C J9: CENTRAL PARK FC (Eq. 2) vs CHOULE AUDERGHEM (Eq. 4)
+DTSTART;VALUE=DATE-TIME:20251025T103000Z
+DTEND;VALUE=DATE-TIME:20251025T120000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_5C_9_562_517
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir\
- n\nContact équipe domicile: De San G. (0477.42.23.84 - guy@desan.be)\n\nA
- ccès voiture : Boulevard de la Woluwe\, prendre la rue Voot\, puis la cha
- ussée de Stockel jusqu'au Petit Pont (terminus bus 28). Avant ce pont le 
- terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur http://ww
- w.abssa.be/
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="De San G.";ROLE=Secrétaire:MAILTO:guy@desan.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D5C J9: CENTRAL PARK FC (Eq. 2) vs MILAN MIRAPIDE AC
-DTSTART;VALUE=DATE-TIME:20241116T130000Z
-DTEND;VALUE=DATE-TIME:20241116T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_5C_9_562_680
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Bo
- rdeaux\n\nContact équipe domicile: Genot F. (0473.57.28.61 - genotflorian
- @hotmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue 
- Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus bus 28).
-  Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujours ces i
- nfos sur http://www.abssa.be/
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Ra
+ yé Bleu et Blanc\n\nContact équipe domicile: Genot F. (0473.57.28.61 - g
+ enotflorian@hotmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, pren
+ dre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (termin
+ us bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez tou
+ jours ces infos sur http://www.abssa.be/
 GEO:50.8423054;4.445628699999999
 LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
  -Saint-Lambert\, Belgique
 ORGANIZER;CN="Genot F.";ROLE=Secrétaire:MAILTO:genotflorian@hotmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J9: BRUSSELS LTC (Eq. 5) vs UNION BRUXELLOISE
-DTSTART;VALUE=DATE-TIME:20241116T130000Z
-DTEND;VALUE=DATE-TIME:20241116T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_5C_9_39_655
-DESCRIPTION:Terrain synthétique: non\nCode terrain: R03\n\nCouleur princi
- pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: No
- ir/ Bleu\n\nContact équipe domicile: Van Hacht O. (0475.96.43.03 - dannyb
- offin@hotmail.com)\n\nAccès voiture : Par la E411 Bruxelles-Namur\, prend
- re la sortie n° 5 (Wavre Nord\, Rixensart\, Bierges).\nEnsuite prendre la
-  N257 pendant 700 mètres jusqu'au rond-point\, prendre la rue de l'Etoile
-  et ensuite la rue de Mérode jusqu'à Rixensart. Après 900 mètres\, à 
- la Place de la Perche\, prendre à droite l'avenue de la Paix et encore à
-  droite l'avenue Clermont Tonnerre.\n\nVérifiez toujours ces infos sur ht
- tp://www.abssa.be/
-GEO:50.7128483;4.5376972
-LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
- 30 Rixensart\, Belgique
-ORGANIZER;CN="Van Hacht O.";ROLE=Secrétaire:MAILTO:dannyboffin@hotmail.co
+SUMMARY:ABSSA D5C J9: CAFARD F.C. vs PINTE BUZZ FC
+DTSTART;VALUE=DATE-TIME:20251025T130000Z
+DTEND;VALUE=DATE-TIME:20251025T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_5C_9_674_684
+DESCRIPTION:Terrain synthétique: non\nCode terrain: A10\n\nCouleur princi
+ pale équipe domicile: Vert\nCouleur principale équipe exterieure: Rouge 
+ et orange\n\nContact équipe domicile: Gonzalez H. (0470.52.25.86 - fccafa
+ rd@gmail.com)\n\nAccès voiture : L'accès au terrain se fait à partir du
+  n° 2057 de la chaussée de Wavre (en face du stade communal d'Auderghem)
+ . L'accès au terrain se fait par l'arrière du bâtiment principal (où s
+ ont situés les vestiaires) il faut parcourir environ 300 mètres avant d'
+ atteindre le terrain de football situé après la piste d'athlétisme et l
+ e terrain de hockey.\n\nVérifiez toujours ces infos sur http://www.abssa.
+ be/
+GEO:50.8093405;4.4437919
+LOCATION:Complexe de L'Adeps\, Chaussée de Wavre 2057\, 1160 Auderghem\, 
+ Belgique
+ORGANIZER;CN="Gonzalez H.";ROLE=Secrétaire:MAILTO:fccafard@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D5C J9: ECUSSON FC vs BLACK BEARS UNITED
+DTSTART;VALUE=DATE-TIME:20251025T133000Z
+DTEND;VALUE=DATE-TIME:20251025T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_5C_9_404_676
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: R04\n\nCouleur princi
+ pale équipe domicile: Jaune et Bleu\nCouleur principale équipe exterieur
+ e: Rose et noir\n\nContact équipe domicile: Mme. Mottar M. (0493.45.25.64
+  - Melissa42@hotmail.com)\n\nAccès voiture : Par le Ring Ouest (R0) en di
+ rection de Mons / Charleroi\, prendre la sortie 24 (Tubize - Rebecq). Au r
+ ond-point suivre la N 6 en direction de Rebecq\, puis prendre la rue de la
+  Station et continuer pendant +/- 2 km. Tourner à droite dans la Ruelle d
+ u Gobard. Le Complexe du Gobard se trouve au n° 5 sur la gauche.\n\nVéri
+ fiez toujours ces infos sur http://www.abssa.be/
+GEO:50.6623801;4.143759699999999
+LOCATION:Complexe du Gobard\, Ruelle du Gobard 5\, 1430 Rebecq\, Belgique
+ORGANIZER;CN="Mme. Mottar M.";ROLE=Secrétaire:MAILTO:Melissa42@hotmail.co
  m
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J9: CELTIC FORESTOIS vs KARIA FC
-DTSTART;VALUE=DATE-TIME:20241116T130000Z
-DTEND;VALUE=DATE-TIME:20241116T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_5C_9_330_498
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
- pale équipe domicile: Vert et  blanc\nCouleur principale équipe exterieu
- re: Noir\n\nContact équipe domicile: Ceuster J (0472.52.87.14 - ceuster-j
- eremy@hotmail.be)\n\nAccès voiture : Au départ de la Place St. Denis à 
- Forest prendre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4
- ème rue à droite) et dans la rue de la Soierie rouler env. 100 m. puis 1
- ère à gauche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L
- 'entrée du Complexe se trouve à hauteur de City Cart\, à gauche de la r
- oute.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.8005447;4.3095283
-LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
- 1190 Forest\, Belgique
-ORGANIZER;CN="Ceuster J";ROLE=Secrétaire:MAILTO:ceuster-jeremy@hotmail.be
+SUMMARY:ABSSA D5C J9: EFFETA FC vs PINK PANTHERS
+DTSTART;VALUE=DATE-TIME:20251025T133000Z
+DTEND;VALUE=DATE-TIME:20251025T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_5C_9_516_635
+DESCRIPTION:Terrain synthétique: non\nCode terrain: L05\n\nCouleur princi
+ pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
+ re: Noir/ rose\n\nContact équipe domicile: Eryuruk K. (0487.34.08.40 - ef
+ fetafc@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Anvers (A12)\, a
+ u premier feu de signalisation\, prendre à gauche\, direction Londerzeel.
+  Suivre la plaque Stationstraat. Passée la gare (après env. 1200 m.) pre
+ ndre à gauche au " Monument aux Morts". Le terrain se trouve à 50 m.\n\n
+ Vérifiez toujours ces infos sur http://www.abssa.be/
+GEO:51.0192214;4.2904455
+LOCATION:Verma\, Blauwenhoek 76\, 1840 Londerzeel\, Belgique
+ORGANIZER;CN="Eryuruk K.";ROLE=Secrétaire:MAILTO:effetafc@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J9: PIRATE S.C. vs DEAF BRUSSELS FC
-DTSTART;VALUE=DATE-TIME:20241116T143000Z
-DTEND;VALUE=DATE-TIME:20241116T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_5C_9_670_593
-DESCRIPTION:Terrain synthétique: non\nCode terrain: L11\n\nCouleur princi
- pale équipe domicile: Noir / doré\nCouleur principale équipe exterieure
- : Vert et noir\n\nContact équipe domicile: Gulbakan I. (0486.20.99.11 - i
- lhangulbakan@gmail.com)\n\nAccès voiture : Autoroute E 411 direction Namu
- r / Luxembourg\, prendre la sortie n° 6 Wavre\, vers N238. Tourner à dro
- ite sur Boulevard de l'Europe/N238 sur 200 m. Prendre à droite sur Rue de
-  la Wastinne. Ensuite\, aprèsle passage à niveau\, prendre à gauche sur
-  Rue Provinciale/N239. Les terrains se trouvent sur la gauche de la route 
- en contre-bas (facilement visible de la route).\n\nVérifiez toujours ces 
- infos sur http://www.abssa.be/
-GEO:50.7007516;4.582180999999999
-LOCATION:Charles Jaumotte 156\, 1300 Wavre (Limal)\, Belgique
-ORGANIZER;CN="Gulbakan I.";ROLE=Secrétaire:MAILTO:ilhangulbakan@gmail.com
+SUMMARY:ABSSA D5C J9: SOUTH PROJECT vs BEEKINGS F.C.
+DTSTART;VALUE=DATE-TIME:20251025T133000Z
+DTEND;VALUE=DATE-TIME:20251025T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_5C_9_685_648
+DESCRIPTION:Terrain synthétique: non\nCode terrain: I03\n\nCouleur princi
+ pale équipe domicile: Rose et blanc\nCouleur principale équipe exterieur
+ e: Jaune et noir\n\nContact équipe domicile: Ernotte A. (0470.12.81.40 - 
+ achille.ernotte@icloud.com)\n\nAccès voiture : En venant de Bruxelles\, p
+ rendre l’E411 en direction de Namur et prendre la sortie 11 Perwez-Gembl
+ oux\, prendre à droite vers Perwez sur la N29 jusqu’au rond-point de Gl
+ imes qui croise la N91 (7km depuis l’E411). Sortir à la 3ème sortie su
+ r la N91 en\ndirection de Hamme-Mille. Prendre ensuite la 3ème rue à gau
+ che et le terrain se trouve directement sur la droite.\n\nVérifiez toujou
+ rs ces infos sur http://www.abssa.be/
+GEO:50.6849677;4.8070879
+LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
+ORGANIZER;CN="Ernotte A.";ROLE=Secrétaire:MAILTO:achille.ernotte@icloud.c
+ om
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D5C J9: SAINT GEORGES RCS (Eq. 3) vs BRUSSELS LIONS
-DTSTART;VALUE=DATE-TIME:20241116T143000Z
-DTEND;VALUE=DATE-TIME:20241116T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_5C_9_221_682
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W13\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Bleu 
- ciel\n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.destin
- @gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre la rue Vo
- ot\, puis la chaussée de Stockel. Passer en dessous du petit pont et cont
- inuer la chaussée de Stockel pendant env. 500 m. Le terrain est situé su
- r la droite de la chaussée.\n\nVérifiez toujours ces infos sur http://ww
- w.abssa.be/
-GEO:50.8417148;4.4547744
-LOCATION:Chaussée de Stockel 376\, 1150 Woluwé-Saint-Pierre\, Belgique
-ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
+SUMMARY:ABSSA D5C J9: WOLUWE FC vs WAPPERS FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20251025T133000Z
+DTEND;VALUE=DATE-TIME:20251025T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_5C_9_153_67
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R03\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Rayé 
+ noir et blanc\n\nContact équipe domicile: Purnelle K. (0491.08.24.67 - ke
+ vin.purnelle@ing.com)\n\nAccès voiture : Par la E411 Bruxelles-Namur\, pr
+ endre la sortie n° 5 (Wavre Nord\, Rixensart\, Bierges).\nEnsuite prendre
+  la N257 pendant 700 mètres jusqu'au rond-point\, prendre la rue de l'Eto
+ ile et ensuite la rue de Mérode jusqu'à Rixensart. Après 900 mètres\, 
+ à la Place de la Perche\, prendre à droite l'avenue de la Paix et encore
+  à droite l'avenue Clermont Tonnerre.\n\nVérifiez toujours ces infos sur
+  http://www.abssa.be/
+GEO:50.7128483;4.5376972
+LOCATION:Complexe Sportif de Rixensart\, Avenue Clermont Tonnerre 26A\, 13
+ 30 Rixensart\, Belgique
+ORGANIZER;CN="Purnelle K.";ROLE=Secrétaire:MAILTO:kevin.purnelle@ing.com
 END:VEVENT
 END:VCALENDAR

@@ -4,139 +4,127 @@ PRODID:abbsa_j_7_d_4c
 X-WR-CALDESC:Les matches de la journée 7 en divion 4C d'ABSSA.
 X-WR-CALNAME:D4C Journée 7
 BEGIN:VEVENT
-SUMMARY:ABSSA D4C J7: INWENSSYS MOLDOVA vs SNEAKY BABOONS
-DTSTART;VALUE=DATE-TIME:20241102T100000Z
-DTEND;VALUE=DATE-TIME:20241102T113000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_4C_7_671_641
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B13\n\nCouleur princi
- pale équipe domicile: Orange\nCouleur principale équipe exterieure: Noir
- \n\nContact équipe domicile: Simon M. (0484.88.58.77 - simionmarius670@gm
- ail.com)\n\nAccès voiture : A partir du Ring de Bruxelles prendre la E 19
-  direction Paris.\nQuitter le Ring par la sortie 19\, prendre à gauche su
- r Beerselsestraat\, après 900 m. prendre à gauche sur Lotsestraat\, apr
- ès 400 m. continuer sur Puttestraat\, puis prendre à droite sur Hoogstra
- at\, puis prendre à gauche sur Kerkveldstraat. Après prendre à droite s
- ur Schoolstraat\, le terrain se trouve sur la droite.\n\nVérifiez toujour
- s ces infos sur http://www.abssa.be/
-GEO:50.76680529999999;4.3142201
-LOCATION:Schoolstraat 46\, 1650 Beersel\, Belgique
-ORGANIZER;CN="Simon M.";ROLE=Secrétaire:MAILTO:simionmarius670@gmail.com
+SUMMARY:ABSSA D4C J7: SNEAKY BABOONS vs PATRONS (LES)
+DTSTART;VALUE=DATE-TIME:20251011T103000Z
+DTEND;VALUE=DATE-TIME:20251011T120000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_4C_7_641_628
+DESCRIPTION:Terrain synthétique: non\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Rouge\
+ n\nContact équipe domicile: Stasse\, W (0473.95.76.80 - willstasse@gmail.
+ com)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Pas
+ ser devant l'église\, longer l'autoroute et tourner à droite au cimetiè
+ re des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur http
+ ://www.abssa.be/
+GEO:50.7264542;4.5530681
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="Stasse, W";ROLE=Secrétaire:MAILTO:willstasse@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4C J7: BRITISH UNITED (Eq. 3) vs LORGNETTE (LA)  FC
-DTSTART;VALUE=DATE-TIME:20241102T113000Z
-DTEND;VALUE=DATE-TIME:20241102T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_4C_7_132_392
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Bordea
- ux\n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gillesvan
- derseypen@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe\, prendre 
- la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont (terminus b
- us 28). Avant ce pont le terrain se trouve à gauche.\n\nVérifiez toujour
- s ces infos sur http://www.abssa.be/
-GEO:50.8423054;4.445628699999999
-LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
- -Saint-Lambert\, Belgique
-ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
- gmail.com
+SUMMARY:ABSSA D4C J7: MACAPSULES (LES) vs BRUSSELS LIONS
+DTSTART;VALUE=DATE-TIME:20251011T113000Z
+DTEND;VALUE=DATE-TIME:20251011T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_4C_7_627_682
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
+ pale équipe domicile: Vert/blanc\nCouleur principale équipe exterieure: 
+ Noir\n\nContact équipe domicile: Daumont J. (0475.42.26.61 - macapsules@g
+ mail.com)\n\nAccès voiture : Autoroute E 411 direction Namur / Luxembourg
+ \, prendre la sortie n° 6 Wavre\, à gauche N 238 direction Wavre. Au ron
+ d-	point 2ième sortie N238/Blvd. de l'Europe direction Wavre Centre. Entr
+ er dans Wavre puis à gauche N 238\, à gauche N 239. 	Au rond-point prend
+ re la première sortie Rue Haute\, continuer sur rue de Bruxelles\, contin
+ uer sur rue Saint-Roch\, continuer 	sur rue Joseph Joppart. Prendre à dro
+ ite l'avenue du Centre Sportif.\n\nVérifiez toujours ces infos sur http:/
+ /www.abssa.be/
+GEO:50.720927;4.617368
+LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
+  Belgique
+ORGANIZER;CN="Daumont J.";ROLE=Secrétaire:MAILTO:macapsules@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4C J7: PINK PANTHERS vs BEEKINGS F.C.
-DTSTART;VALUE=DATE-TIME:20241102T113000Z
-DTEND;VALUE=DATE-TIME:20241102T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_4C_7_635_648
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L01\n\nCouleur princi
- pale équipe domicile: Noir/ rose\nCouleur principale équipe exterieure: 
- Jaune et noir\n\nContact équipe domicile: Argyrakis J. (0492.88.69.79 - p
- inkpanthers.abssa@gmail.com)\n\nAccès voiture : Venant de Bruxelles prend
- re le Ring Ouest\, sortie Genappe (n° 25)\, prendre à droite sur la N5 (
- Bruxelles-Charleroi) direction Charleroi pendant +/- 10 min.\, sortie Loup
- oigne\, traverser le carrefour\, tout droit direction route du sucre.\n\nV
- érifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.6007528;4.4472782
-LOCATION:Stade J.C. Flamend\, Route du sucre 1\, 1471 Loupoigne\, Belgique
-ORGANIZER;CN="Argyrakis J.";ROLE=Secrétaire:MAILTO:pinkpanthers.abssa@gma
- il.com
+SUMMARY:ABSSA D4C J7: MOYEN RFC vs PANGLOSS FC
+DTSTART;VALUE=DATE-TIME:20251011T133000Z
+DTEND;VALUE=DATE-TIME:20251011T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_4C_7_675_123
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W07\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Rouge
+ \n\nContact équipe domicile: Callant A. (0475.40.42.28 - rfcmoyen@gmail.c
+ om)\n\nAccès voiture : Autoroute E 411 direction Namur / Luxembourg\, pre
+ ndre la sortie n° 6 Wavre\, à gauche N 238 direction Wavre. Au rond-	poi
+ nt 2ième sortie N238/Blvd. de l'Europe direction Wavre Centre. Entrer dan
+ s Wavre puis à gauche N 238\, à gauche N 239. 	Au rond-point prendre la 
+ première sortie Rue Haute\, continuer sur rue de Bruxelles\, continuer su
+ r rue Saint-Roch\, continuer 	sur rue Joseph Joppart. Prendre à droite l'
+ avenue du Centre Sportif.\n\nVérifiez toujours ces infos sur http://www.a
+ bssa.be/
+GEO:50.720927;4.617368
+LOCATION:Stade Justin Peeters\, Avenue du Centre Sportif 20\, 1300 Wavre\,
+  Belgique
+ORGANIZER;CN="Callant A.";ROLE=Secrétaire:MAILTO:rfcmoyen@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4C J7: FRAUDES (LES) vs SPARTA SCHEUT
-DTSTART;VALUE=DATE-TIME:20241102T123000Z
-DTEND;VALUE=DATE-TIME:20241102T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_4C_7_665_340
-DESCRIPTION:Terrain synthétique: non\nCode terrain: A10\n\nCouleur princi
- pale équipe domicile: Noir et blanc\nCouleur principale équipe exterieur
- e: Orange\n\nContact équipe domicile: Struys L. (0491.84.27.37 - leo.stru
- ys@telenet.be)\n\nAccès voiture : L'accès au terrain se fait à partir d
- u n° 2057 de la chaussée de Wavre (en face du stade communal d'Auderghem
- ). L'accès au terrain se fait par l'arrière du bâtiment principal (où 
- sont situés les vestiaires) il faut parcourir environ 300 mètres avant d
- 'atteindre le terrain de football situé après la piste d'athlétisme et 
- le terrain de hockey.\n\nVérifiez toujours ces infos sur http://www.abssa
- .be/
-GEO:50.8093405;4.4437919
-LOCATION:Complexe de L'Adeps\, Chaussée de Wavre 2057\, 1160 Auderghem\, 
- Belgique
-ORGANIZER;CN="Struys L.";ROLE=Secrétaire:MAILTO:leo.struys@telenet.be
+SUMMARY:ABSSA D4C J7: SPARTA SCHEUT vs WINCHESTER F.C.
+DTSTART;VALUE=DATE-TIME:20251011T133000Z
+DTEND;VALUE=DATE-TIME:20251011T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_4C_7_340_653
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Bleu
+  et blanc\n\nContact équipe domicile: Vande Velde J. (0486.97.70.66 - spa
+ rta.scheut@hotmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\,
+  après 300 m. en direction de Lennik\, prendre à droite.\nVenant de la c
+ haussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place V
+ erdi\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 
+ m. en direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.
+ abssa.be/
+GEO:50.8177358;4.2557195
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER;CN="Vande Velde J.";ROLE=Secrétaire:MAILTO:sparta.scheut@hotmai
+ l.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4C J7: PANGLOSS FC vs HELLAS BERCHEM FC.
-DTSTART;VALUE=DATE-TIME:20241102T130000Z
-DTEND;VALUE=DATE-TIME:20241102T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_4C_7_123_488
-DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
- pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Bleu\
- n\nContact équipe domicile: De Paduwa P. (0475.67.06.50 - p.depaduwa@gmai
- l.com)\n\nAccès voiture : Au départ de la Place Meiser\, l'autoroute Bru
- xelles-Liège (E40)\, prendre la sortie Kraainem (n° 2). Sous le viaduc p
- rendre à droite\, l'avenue des Anciens Combattants. Juste après le carre
- four avec des feux de signalisation prendre à droite vers la Place de la 
- Chapelle\, puis prendre la 4ème rue à main droite (rue au Bois). Le terr
- ain se trouve à 300 m. sur la droite.\n\nVérifiez toujours ces infos sur
-  http://www.abssa.be/
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER;CN="De Paduwa P.";ROLE=Secrétaire:MAILTO:p.depaduwa@gmail.com
+SUMMARY:ABSSA D4C J7: WELL TEAM vs MIREILLE WEMMEL
+DTSTART;VALUE=DATE-TIME:20251011T133000Z
+DTEND;VALUE=DATE-TIME:20251011T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_4C_7_544_93
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Bleu marine\nCouleur principale équipe exterieure:
+  Rouge et  Noir\n\nContact équipe domicile: David L (0484.61.48.04 - davi
+ d.louis340@gmail.com)\n\nAccès voiture : A partir du square des Archiducs
+ \, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez
+  toujours ces infos sur http://www.abssa.be/
+GEO:50.80645209999999;4.4087184
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="David L";ROLE=Secrétaire:MAILTO:david.louis340@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D4C J7: TIEKSS WEMMEL vs DUDEN SPORT R
-DTSTART;VALUE=DATE-TIME:20241102T140000Z
-DTEND;VALUE=DATE-TIME:20241102T153000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_4C_7_644_22
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W16\n\nCouleur princi
- pale équipe domicile: Noir\nCouleur principale équipe exterieure: Bleu\n
- \nContact équipe domicile: Mad. De Decker N (0477.64.40.18 - info@tiekss.
- org)\n\nAccès voiture : Ring RO\, afrit Wemmel-Merchtem (n° 9)\, richtin
- g Merchtem volgen via de Is. Meyskensstraat tot aan de rotonde\, op de rot
- onde de 4de afslag nemen\, Diepstraat deze vloeit over in de Steenweg op B
- russel\, 50 m. voorbij het eerste kruispunt met verkeerslichten\, links va
- n de steenweg\, bevindt zich het stadium (parking)\n\nVérifiez toujours c
- es infos sur http://www.abssa.be/
-GEO:50.9077704;4.3065753
-LOCATION:Stadium (Stade) Van Langenhove\, Steenweg naar Brussel 111\, 1780
-  Wemmel\, Belgique
-ORGANIZER;CN="Mad. De Decker N";ROLE=Secrétaire:MAILTO:info@tiekss.org
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D4C J7: SAINT GEORGES RCS (Eq. 2) vs PIRATERIE (LA)
-DTSTART;VALUE=DATE-TIME:20241102T143000Z
-DTEND;VALUE=DATE-TIME:20241102T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_4C_7_221_652
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W15\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir\
- n\nContact équipe domicile: Destin C. (0483.33.01.12 - cedric.destin@gmai
- l.com)\n\nAccès voiture : Avenue de Tervuren\, prendre l"avenue Parmentie
- r\, puis 1ère rue à main gauche.\n\nVérifiez toujours ces infos sur htt
- p://www.abssa.be/
-GEO:50.8333897;4.4384038
-LOCATION:Kelle (Ancien White Star).\, Rue Kelle\, 1150 Woluwé-Saint-Pierr
- e\, Belgique
-ORGANIZER;CN="Destin C.";ROLE=Secrétaire:MAILTO:cedric.destin@gmail.com
+SUMMARY:ABSSA D4C J7: BRUSSELS LTC (Eq. 4) vs STRING PENELOPE (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20251011T133000Z
+DTEND;VALUE=DATE-TIME:20251011T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162933Z
+UID:2025_4C_7_39_181
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O01\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: Or
+ ange\n\nContact équipe domicile: Prudhomme D (0478.49.26.08 - brusselsltc
+ 039@gmail.com)\n\nAccès voiture : Venant de Bruxelles\, prendre ring Est 
+ direction Waterloo. Sortir à la sortie n°27 Waterloo Centre.\n	Prendre e
+ nsuite à gauche La Drève de Richelle jusqu'au 3ème rond-point et prendr
+ e à gauche la 	Chaussée de Louvain sur environ 2km et prendre à droite 
+ la Rue des Saules toujours tout droit et 	qui devient ensuite la Route des
+  Marnières. Continuer ensuite tout droit\, passer un premier rond-point p
+ uis continuer tout droit jusqu'au rond-point du Messager où il faut prend
+ re la 2ème sortie. Vous êtes alors sur la Route de Genval et l'entrée d
+ u Complexe se trouve à environ 200m sur la gauche.\n\nVérifiez toujours 
+ ces infos sur http://www.abssa.be/
+GEO:50.70475570000001;4.4703447
+LOCATION:Route de Genval\, 26A - 1380 Ohain\, Route de Genval 20A\, 1380 O
+ hain\, Belgique
+ORGANIZER;CN="Prudhomme D";ROLE=Secrétaire:MAILTO:brusselsltc039@gmail.co
+ m
 END:VEVENT
 END:VCALENDAR

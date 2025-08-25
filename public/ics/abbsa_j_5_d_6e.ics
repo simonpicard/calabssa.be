@@ -4,121 +4,98 @@ PRODID:abbsa_j_5_d_6e
 X-WR-CALDESC:Les matches de la journée 5 en divion 6E d'ABSSA.
 X-WR-CALNAME:D6E Journée 5
 BEGIN:VEVENT
-SUMMARY:ABSSA D6E J5: ANDERLECHT US vs OMNISPORT BIERGHES (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20241005T120000Z
-DTEND;VALUE=DATE-TIME:20241005T133000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_6E_5_280_455
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: A09\n\nCouleur princi
- pale équipe domicile: Mauve\nCouleur principale équipe exterieure: Borde
- aux\n\nContact équipe domicile: Sadin D. (0477.76.34.69 - rscadan12@gmail
- .com)\n\nAccès voiture : En venant de la Route de Lennik (Citroën) ou de
-  la Chaussée de Mons (Ikea)\, prendre la direction du cimetière d'Anderl
- echt\, emprunter le Boulevard Josse Leemans\, au rond-point prendre la sor
- tie pour la rue du Chant d'Oiseaux (Vogelenzang). L'entrée du complexe et
-  des terrains se situe à +/- 500 m. sur la gauche.\n\nVérifiez toujours 
- ces infos sur http://www.abssa.be/
-GEO:50.8114295;4.2763934
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
+SUMMARY:ABSSA D6E J5: ETINCELLE FC (Eq. 2) vs NIVELLES CS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20250927T103000Z
+DTEND;VALUE=DATE-TIME:20250927T120000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_6E_5_35_306
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A03\n\nCouleur princi
+ pale équipe domicile: Jaune et bleu\nCouleur principale équipe exterieur
+ e: Orange fluo\n\nContact équipe domicile: Kremer N (0471.37.59.81 - nico
+ las.kremer@gmail.com)\n\nAccès voiture : Ring\, sortie Hopital Erasme\, a
+ près 300 m. en direction de Lennik\, prendre à droite.\nVenant de la cha
+ ussée de Mons\, carrefour Av. Fr. Van Kalken\, Bld. A. Briand\, place Ver
+ di\, Bld. Théo Lambert\, Bld. M. Carème\, après l'hopital Erasme 400 m.
+  en direction de Lennik.\n\nVérifiez toujours ces infos sur http://www.ab
+ ssa.be/
+GEO:50.8177358;4.2557195
+LOCATION:Complexe Sportif de Saint Gilles (Barka)\, Route de Lennik 1015\,
+  1070 Anderlecht\, Belgique
+ORGANIZER;CN="Kremer N";ROLE=Secrétaire:MAILTO:nicolas.kremer@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J5: CORNAC UNITED FC (Eq. 2) vs ANDERLECHT US
+DTSTART;VALUE=DATE-TIME:20250927T103000Z
+DTEND;VALUE=DATE-TIME:20250927T120000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_6E_5_151_280
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A01\n\nCouleur princi
+ pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Mauve
+ \n\nContact équipe domicile: Denayer M. (0476.53.14.48 - marcdenayermd@gm
+ ail.com)\n\nAccès voiture : Par le Ring Ouest\, direction Paris\, sortie 
+ Westland Shopping Center (n° 14) continuer tout droit\, remonter vers le 
+ Ring et prendre à droite pour sortir vers Itterbeek. Prendre l'avenue d'I
+ tterbeek au parc d'Anderlecht\, passer le ring\, reste 2 km. Le terrain se
+  trouve à gauche\, entre l'école Van Belle et Veeweyde.\n\nVérifiez tou
+ jours ces infos sur http://www.abssa.be/
+GEO:50.8356088;4.2760612
+LOCATION:Bon Air\, Avenue d'Itterbeek\, 1070 Anderlecht\, Belgique
+ORGANIZER;CN="Denayer M.";ROLE=Secrétaire:MAILTO:marcdenayermd@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J5: TIGRE (LE) FC vs HIGGINS-PUMAS (Eq. 3)
+DTSTART;VALUE=DATE-TIME:20250927T103000Z
+DTEND;VALUE=DATE-TIME:20250927T120000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_6E_5_237_416
+DESCRIPTION:Terrain synthétique: non\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Ray
+ é Bleu et Blanc\n\nContact équipe domicile: Goetghebuer G. (0494.46.63.3
+ 2 - sportetvie@skynet.be)\n\nAccès voiture : Au départ de la Place Meise
+ r\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2
+ ). Sous le viaduc prendre à droite\, l'avenue des Anciens Combattants. Ju
+ ste après le carrefour avec des feux de signalisation prendre à droite v
+ ers la Place de la Chapelle\, puis prendre la 4ème rue à main droite (ru
+ e au Bois). Le terrain se trouve à 300 m. sur la droite.\n\nVérifiez tou
+ jours ces infos sur http://www.abssa.be/
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="Goetghebuer G.";ROLE=Secrétaire:MAILTO:sportetvie@skynet.be
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D6E J5: AEMA VETERANS vs CHENOIS (ESPER) (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20250927T113000Z
+DTEND;VALUE=DATE-TIME:20250927T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_6E_5_427_412
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: A08\n\nCouleur princi
+ pale équipe domicile: Jaune et bleu\nCouleur principale équipe exterieur
+ e: Blanc et rouge\n\nContact équipe domicile: Van Ingelgom J. (0475.36.44
+ .88 - vaningelgom_w_j@hotmail.com)\n\nAccès voiture : Via la chaussée de
+  Mons jusqu'à Veeweyde (carrefour Fr. Van Kalken). Prendre à droite le b
+ oulevard  A. Briand jusqu'à la Place Verdi\, puis le Bld. Théo Lambert.\
+ n\nVérifiez toujours ces infos sur http://www.abssa.be/
+GEO:50.8275993;4.2964877
+LOCATION:Stade Verdi (Stadium)\, Boulevard Théo Lambert\, 1070 Anderlecht
  \, Belgique
-ORGANIZER;CN="Sadin D.";ROLE=Secrétaire:MAILTO:rscadan12@gmail.com
+ORGANIZER;CN="Van Ingelgom J.";ROLE=Secrétaire:MAILTO:vaningelgom_w_j@hot
+ mail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D6E J5: ELAN EVERE RAC (Eq. 2) vs TIGRE (LE) FC
-DTSTART;VALUE=DATE-TIME:20241005T123000Z
-DTEND;VALUE=DATE-TIME:20241005T140000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_6E_5_7_237
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: E08\n\nCouleur princi
- pale équipe domicile: Rouge et blanc\nCouleur principale équipe exterieu
- re: Orange\n\nContact équipe domicile: Dubois J-J. (0486.47.10.49 - jjdub
- ois58@gmail.com)\n\nAccès voiture : Le terrain se trouve derrière l'égl
- ise St. Vincent\n\nVérifiez toujours ces infos sur http://www.abssa.be/
-GEO:50.8803867;4.4003168
-LOCATION:Parc St. Vincent (Bon Pasteur)\, Rue Stroobants 75\, 1140 Evere\,
-  Belgique
-ORGANIZER;CN="Dubois J-J.";ROLE=Secrétaire:MAILTO:jjdubois58@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6E J5: CHENOIS (ESPER) (Eq. 2) vs CHOULE AUDERGHEM (Eq. 5)
-DTSTART;VALUE=DATE-TIME:20241005T130000Z
-DTEND;VALUE=DATE-TIME:20241005T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_6E_5_412_517
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W02\n\nCouleur princi
- pale équipe domicile: Blanc et rouge\nCouleur principale équipe exterieu
- re: Blanc\n\nContact équipe domicile: Mento M (0477.83.27.83 - 412fcec@gm
- ail.com)\n\nAccès voiture : Venant d'Uccle\, prendre la chaussée de Wate
- rloo\, ensuite la chaussée de Bruxelles\, continuer jusqu'à la place E. 
- Vandevelde (intersection de la chaussée de Bruxelles avec la chaussée de
-  Tervuren à Joli-Bois). Au feu de signalisation prendre à droite la chau
- ssée Bara. Le terrain se trouve à droite à +/- 500 m.\n\nVérifiez touj
- ours ces infos sur http://www.abssa.be/
-GEO:50.701676;4.397567
-LOCATION:Joli-Bois\, Chemin des Noces 87\, 1410 Waterloo\, Belgique
-ORGANIZER;CN="Mento M";ROLE=Secrétaire:MAILTO:412fcec@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6E J5: STRING PENELOPE (Eq. 3) vs KARIA FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20241005T130000Z
-DTEND;VALUE=DATE-TIME:20241005T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_6E_5_181_498
-DESCRIPTION:Terrain synthétique: non\nCode terrain: O04\n\nCouleur princi
- pale équipe domicile: Orange\nCouleur principale équipe exterieure: Noir
- \n\nContact équipe domicile: Sbaiti Y (0487.54.95.27 - yo.sbaiti@gmail.co
- m)\n\nAccès voiture : Au départ de Bruxelles\, prendre l'autoroute E411 
- en direction de Namur. Prendre la sortie  Wavre ( n° 6) ensuite à droite
-  la N238 en direction d'Ottignies. Prendre la sortie Ottignies/Louvain-La-
- Neuve (N237) et suivre la direction Ottignies. Passer sous les 2 ponts du 
- chemin de fer et\, au feu de signalisation\, continuer tout droit. Au feu 
- suivant\, toujours tout droit par l'avenue des Combattants. Franchir le pa
- ssage protégé pour piétons (feu clignotant) et au feu de signalisation 
- suivant\, prendre à droite direction Ceroux-Mousty par la rue des Coquer
- ées. Le terrain se trouve sur la droite à env. 400 m. Au n° 50A \, pann
- eau "Coca-Cola" l'entrée du centre sportif.\n\nVérifiez toujours ces inf
- os sur http://www.abssa.be/
-GEO:50.6630401;4.5569959
-LOCATION:Centre Sportif des Coquerees\, Rue des Coquerées 50A\, 1341 Otti
- gnies-Ceroux-Mousty\, Belgique
-ORGANIZER;CN="Sbaiti Y";ROLE=Secrétaire:MAILTO:yo.sbaiti@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6E J5: BRITISH UNITED (Eq. 7) vs BRUSSELS BRITISH R (Eq. 7)
-DTSTART;VALUE=DATE-TIME:20241005T133000Z
-DTEND;VALUE=DATE-TIME:20241005T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_6E_5_132_1
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Blanc\
- n\nContact équipe domicile: Vanderseypen G. (0476.58.89.77 - gillesvander
- seypen@gmail.com)\n\nAccès voiture : A partir de Bruxelles\, prendre la E
-  411 en direction de Namur. Prendre la sortie N° 8 puis à droite la bret
- elle pour la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +
- /- 6\,5 km\, au rond-point\, prendre la sortie 1 vers la N 420 Chée. de l
- a Libération\, puis à gauche dans la rue de la Grande lecke.\n\nVérifie
- z toujours ces infos sur http://www.abssa.be/
-GEO:50.7540176;4.7835618
-LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
-ORGANIZER;CN="Vanderseypen G.";ROLE=Secrétaire:MAILTO:gillesvanderseypen@
- gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D6E J5: CHEVERNY SCHAERB (Eq. 2) vs CORNAC UNITED FC (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20241005T133000Z
-DTEND;VALUE=DATE-TIME:20241005T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183933Z
-UID:2024_6E_5_128_151
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: J01\n\nCouleur princi
- pale équipe domicile: Jaune & Noir\nCouleur principale équipe exterieure
- : Rouge\n\nContact équipe domicile: Bex V (0476.92.58.43 - vincentbex@gma
- il.com)\n\nAccès voiture : Direction cimetière de Jette\, ensuite prendr
- e la rue du "Sacré-Coeur" jusqu'au bout\, puis tout droit\, avenue J.J. C
- rocq. Le terrain se trouve à gauche.\n\nVérifiez toujours ces infos sur 
- http://www.abssa.be/
-GEO:50.8868564;4.3286963
-LOCATION:Complexe Sportif du Heymbosch\, Avenue J.J. Crocq\, 1090 Jette\, 
- Belgique
-ORGANIZER;CN="Bex V";ROLE=Secrétaire:MAILTO:vincentbex@gmail.com
+SUMMARY:ABSSA D6E J5: BRUSSELS BRITISH R (Eq. 7) vs KARIA FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20250927T133000Z
+DTEND;VALUE=DATE-TIME:20250927T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_6E_5_1_498
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir\
+ n\nContact équipe domicile: O'Connor G (0456.54.46.67 - abssa-sec@rbbfc.o
+ rg)\n\nAccès voiture : Autoroute E411\, prendre la sortie Rosières. Pass
+ er devant l'église\, longer l'autoroute et tourner à droite au cimetièr
+ e des animaux. Terrain à 200 m.\n\nVérifiez toujours ces infos sur http:
+ //www.abssa.be/
+GEO:50.7264542;4.5530681
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="O'Connor G";ROLE=Secrétaire:MAILTO:abssa-sec@rbbfc.org
 END:VEVENT
 END:VCALENDAR

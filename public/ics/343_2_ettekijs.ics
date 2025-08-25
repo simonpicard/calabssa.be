@@ -4,150 +4,35 @@ PRODID:343_2_ettekijs
 X-WR-CALDESC:Les matches du club ETTEKIJS (equipe 2) en ABSSA.
 X-WR-CALNAME:ABSSA: ETTEKIJS (eq. 2)
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J23: FORESTOISE E.J. vs ETTEKIJS (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20240831T133000Z
-DTEND;VALUE=DATE-TIME:20240831T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_3D_23_623_343
+SUMMARY:ABSSA D3C J1: FORESTOIS SC vs ETTEKIJS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20250830T120000Z
+DTEND;VALUE=DATE-TIME:20250830T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_1_152_343
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
- pale équipe domicile: Bleu Ciel\nCouleur principale équipe exterieure: N
- oir rayé de blanc\n\nContact équipe domicile: El Yamani Y. (0474.75.75.0
- 2 - yahyaelyamani96@gmail.com)\n\nAccès voiture : Au départ de la Place 
- St. Denis à Forest prendre la chaussée de Neerstalle jusqu'à la rue de 
- la Soierie (4ème rue à droite) et dans la rue de la Soierie rouler env. 
- 100 m. puis 1ère à gauche (Bld. de la 2ème Armée Britannique) pendant 
- env. 500 m. L'entrée du Complexe se trouve à hauteur de City Cart\, à g
- auche de la route.\n\nVérifiez toujours ces infos sur http://www.abssa.be
- /\nVoir sur calabssa: https://calabssa.be/c/343_2_ettekijs
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir r
+ ayé de blanc\n\nContact équipe domicile: Janssens P. (0484.44.21.41 - pa
+ tj.scf@gmail.com)\n\nAccès voiture : Au départ de la Place St. Denis à 
+ Forest prendre la chaussée de Neerstalle jusqu'à la rue de la Soierie (4
+ ème rue à droite) et dans la rue de la Soierie rouler env. 100 m. puis 1
+ ère à gauche (Bld. de la 2ème Armée Britannique) pendant env. 500 m. L
+ 'entrée du Complexe se trouve à hauteur de City Cart\, à gauche de la r
+ oute.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur c
+ alabssa: https://calabssa.be/c/343_2_ettekijs
 GEO:50.8005447;4.3095283
 LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
  1190 Forest\, Belgique
-ORGANIZER;CN="El Yamani Y.";ROLE=Secrétaire:MAILTO:yahyaelyamani96@gmail.
- com
+ORGANIZER;CN="Janssens P.";ROLE=Secrétaire:MAILTO:patj.scf@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J1: PICARDIE AS vs ETTEKIJS (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20240907T113000Z
-DTEND;VALUE=DATE-TIME:20240907T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_3D_1_63_343
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
- pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir r
- ayé de blanc\n\nContact équipe domicile: Coopmans R. (0474.42.47.29 - co
- opmans_roland@yahoo.fr)\n\nAccès voiture : En venant de Bruxelles\, empru
- nter la chaussée de Bruxelles ou de Waterloo jusqu'au magasin "Carrefour"
- . Au dit carrefour (Mont-St.-Jean) prendre la direction Nivelles. Sur cett
- e chaussée\, au deuxième feu de signalisation\, prendre à droite\, le t
- errain se trouve à 500 m. et est fléché.\n\nVérifiez toujours ces info
- s sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c/343_2
- _ettekijs
-GEO:50.6827211;4.3844421
-LOCATION:Stade Gaston Reiff\, Boulevard de l'Europe\, 1420 Braine - l'Alle
- ud\, Belgique
-ORGANIZER;CN="Coopmans R.";ROLE=Secrétaire:MAILTO:coopmans_roland@yahoo.f
- r
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J2: ETTEKIJS (Eq. 2) vs NEW INN FC (Eq. 3)
-DTSTART;VALUE=DATE-TIME:20240914T103000Z
-DTEND;VALUE=DATE-TIME:20240914T120000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_3D_2_343_359
+SUMMARY:ABSSA D3C J2: ETTEKIJS (Eq. 2) vs NEW INN FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20250906T103000Z
+DTEND;VALUE=DATE-TIME:20250906T120000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_2_343_359
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
  pale équipe domicile: Noir rayé de blanc\nCouleur principale équipe ext
- erieure: Noir et Jaune\n\nContact équipe domicile: Raes F. (0479.73.82.49
-  - freddy.raes@gmail.com)\n\nAccès voiture : A partir du square des Archi
- ducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVéri
- fiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https
- ://calabssa.be/c/343_2_ettekijs
-GEO:50.80645209999999;4.4087184
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J3: TRICOTEUSES FC. vs ETTEKIJS (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20240921T133000Z
-DTEND;VALUE=DATE-TIME:20240921T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_3D_3_617_343
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W19\n\nCouleur princi
- pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: No
- ir rayé de blanc\n\nContact équipe domicile: Van Roey P. (0475.68.28.41 
- - pierrickvr4@gmail.com)\n\nAccès voiture : Ring de Bruxelles (RO)\, sort
- ie n° 2. Prendre la direction Wezembeek-Oppem. Ensuite première rue à d
- roite (Louis Marcelisstraat) puis la troisième à droite (Sportpleinstraa
- t).\nL'entrée au terrain se trouve à gauche entre les n° 16 et 24.\nPar
-  la ville : A partir du rond point Montgomery\, prendre l'Avenue de Broque
- ville\, toujours tout droit. Passez devant le Shopping de Woluwé\, toujou
- rs tout droit\, passez devant le magasin "Carrefour"\, puis au 2ème feu d
- e signalisation prendre à droite et ensuite tout droit. Au bout de la rue
-  prendre à droite\, le terrain se trouve à 100 mètres  sur la gauche.\n
- \nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa
- : https://calabssa.be/c/343_2_ettekijs
-GEO:50.8424578;4.486587999999999
-LOCATION:Sportpleinstraat 20\, 1970 Wezembeek - Oppem\, Belgique
-ORGANIZER;CN="Van Roey P.";ROLE=Secrétaire:MAILTO:pierrickvr4@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J4: ETTEKIJS (Eq. 2) vs RAPID MYMOL
-DTSTART;VALUE=DATE-TIME:20240928T103000Z
-DTEND;VALUE=DATE-TIME:20240928T120000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_3D_4_343_622
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
- pale équipe domicile: Noir rayé de blanc\nCouleur principale équipe ext
- erieure: Bleu et Jaune\n\nContact équipe domicile: Raes F. (0479.73.82.49
-  - freddy.raes@gmail.com)\n\nAccès voiture : A partir du square des Archi
- ducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVéri
- fiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https
- ://calabssa.be/c/343_2_ettekijs
-GEO:50.80645209999999;4.4087184
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J5: RHINOCEROS vs ETTEKIJS (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20241005T133000Z
-DTEND;VALUE=DATE-TIME:20241005T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_3D_5_654_343
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
- pale équipe domicile: Jaune\nCouleur principale équipe exterieure: Noir 
- rayé de blanc\n\nContact équipe domicile: Watteyne R. (0498.16.13.01 - r
- obin@watteyne.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'
- autoroute E411 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, 
- tenir la droite et au bout de la bretelle\, prendre la direction d'Ottigni
- es par la N238. Au 1èr feu de signalisation continuer tout droit en passa
- nt devant Walibi (qui se trouve sur la gauche) jusqu'à la sortie Limelett
- e. Au bout de cette sortie\, en face du Tennis Club La Palestre\, prendre 
- à droite la rue Charles Dubois\, jusqu'au carrefour principal. Continuer 
- tout droit en traversant l'avenue Albert 1èr. Passer en dessous du 1èr p
- ont du chemin de fer et prendre la rue de l'Europe jusqu'à la place de l'
- Europe. Traverser cette place par la droite. Au bout à gauche\, suivre l'
- avenue Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C.
-  Limelette). Continuer cette rue et passer en dessous du 2ème pont du che
- min de fer. Après ce pont\, prendre tout de suite à gauche l'avenue Demo
- lder (panneau F.C. Limelette)\, en face de l'étang du Buston. Suivre cett
- e avenue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après
-  50 m. dans cette rue\, prendre à droite l'avenue des Sorbiers (panneau d
- u F.C. Limelette). L'entrée du terrain est située 50 m. plus bas sur la 
- gauche.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur
-  calabssa: https://calabssa.be/c/343_2_ettekijs
-GEO:50.67628029999999;4.562802
-LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
-ORGANIZER;CN="Watteyne R.";ROLE=Secrétaire:MAILTO:robin@watteyne.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J6: ETTEKIJS (Eq. 2) vs IRLANDE FC (Eq. 4)
-DTSTART;VALUE=DATE-TIME:20241012T103000Z
-DTEND;VALUE=DATE-TIME:20241012T120000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_3D_6_343_402
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
- pale équipe domicile: Noir rayé de blanc\nCouleur principale équipe ext
- erieure: Vert\n\nContact équipe domicile: Raes F. (0479.73.82.49 - freddy
+ erieure: Rose\n\nContact équipe domicile: Raes F. (0479.73.82.49 - freddy
  .raes@gmail.com)\n\nAccès voiture : A partir du square des Archiducs\, pr
  endre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez touj
  ours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabs
@@ -158,14 +43,38 @@ LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
 ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J25: ETTEKIJS (Eq. 2) vs GERMINAL CSA
-DTSTART;VALUE=DATE-TIME:20241019T103000Z
-DTEND;VALUE=DATE-TIME:20241019T120000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_3D_25_343_235
+SUMMARY:ABSSA D3C J3: PIRATERIE (LA) vs ETTEKIJS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20250913T120000Z
+DTEND;VALUE=DATE-TIME:20250913T133000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_3_652_343
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: N03\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir r
+ ayé de blanc\n\nContact équipe domicile: Lopez Y Lopez P (0470.42.98.63 
+ - lapirateriefc@outlook.com)\n\nAccès voiture : En venant de Bruxelles\, 
+ par l'autoroute Bruxelles-Paris\, prendre la sortie Nivelles-Sud (n° 19)\
+ , passer sous le pont de l'autoroute et prendre la direction de Nivelles. 
+ A 200 m.\, au rond-point (Shopping Center)\, tourner à droite en directio
+ n de Wavre (petit ring de Nivelles).\nAu 4ème rond-point (en tenant compt
+ e du rond-point du Shopping Center)\, tourner à gauche \, rue de l'Indust
+ rie et pénétrer dans le zoning. Au bout de la rue\, avant le feu de sign
+ alisation\, tourner à gauche et prendre la rue du Progrès pendant +/- 40
+ 0 m.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur ca
+ labssa: https://calabssa.be/c/343_2_ettekijs
+GEO:50.5959861;4.3562179
+LOCATION:Domaine Militaire\, Rue du Progrès 1A\, 1400 Nivelles\, Belgique
+ORGANIZER;CN="Lopez Y Lopez P";ROLE=Secrétaire:MAILTO:lapirateriefc@outlo
+ ok.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J4: ETTEKIJS (Eq. 2) vs LORRAINE(LA)-MTM.R (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20250920T103000Z
+DTEND;VALUE=DATE-TIME:20250920T120000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_4_343_44
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
  pale équipe domicile: Noir rayé de blanc\nCouleur principale équipe ext
- erieure: Vert\n\nContact équipe domicile: Raes F. (0479.73.82.49 - freddy
+ erieure: Bleu\n\nContact équipe domicile: Raes F. (0479.73.82.49 - freddy
  .raes@gmail.com)\n\nAccès voiture : A partir du square des Archiducs\, pr
  endre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez touj
  ours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabs
@@ -176,11 +85,11 @@ LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
 ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J26: MIDI AS vs ETTEKIJS (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20241026T133000Z
-DTEND;VALUE=DATE-TIME:20241026T150000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_3D_26_169_343
+SUMMARY:ABSSA D3C J5: MIDI AS vs ETTEKIJS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20250927T133000Z
+DTEND;VALUE=DATE-TIME:20250927T150000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_5_169_343
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: B03\n\nCouleur princi
  pale équipe domicile: Rouge\nCouleur principale équipe exterieure: Noir 
  rayé de blanc\n\nContact équipe domicile: Cantiniau J-C. (0479.84.17.35 
@@ -198,51 +107,91 @@ ORGANIZER;CN="Cantiniau J-C.";ROLE=Secrétaire:MAILTO:standardmidi@hotmail
  .com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J7: CURTIS L'AUSELE vs ETTEKIJS (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20241102T130000Z
-DTEND;VALUE=DATE-TIME:20241102T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_3D_7_599_343
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: I03\n\nCouleur princi
- pale équipe domicile: Blanc\nCouleur principale équipe exterieure: Noir 
- rayé de blanc\n\nContact équipe domicile: Lambricht T. (0474.20.64.38 - 
- thomas.lambricht@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, p
- rendre l’E411 en direction de Namur et prendre la sortie 11 Perwez-Gembl
- oux\, prendre à droite vers Perwez sur la N29 jusqu’au rond-point de Gl
- imes qui croise la N91 (7km depuis l’E411). Sortir à la 3ème sortie su
- r la N91 en\ndirection de Hamme-Mille. Prendre ensuite la 3ème rue à gau
- che et le terrain se trouve directement sur la droite.\n\nVérifiez toujou
- rs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa
- .be/c/343_2_ettekijs
-GEO:50.6849677;4.8070879
-LOCATION:Incourt\, Rue de la Bruyère\, 1315 Incourt\, Belgique
-ORGANIZER;CN="Lambricht T.";ROLE=Secrétaire:MAILTO:thomas.lambricht@gmail
- .com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J8: ETTEKIJS (Eq. 2) vs VOGELPIK FC.
-DTSTART;VALUE=DATE-TIME:20241109T113000Z
-DTEND;VALUE=DATE-TIME:20241109T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_3D_8_343_629
+SUMMARY:ABSSA D3C J6: ETTEKIJS (Eq. 2) vs GOALOIS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20251004T103000Z
+DTEND;VALUE=DATE-TIME:20251004T120000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_6_343_345
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
  pale équipe domicile: Noir rayé de blanc\nCouleur principale équipe ext
- erieure: Rouge et noir\n\nContact équipe domicile: Raes F. (0479.73.82.49
-  - freddy.raes@gmail.com)\n\nAccès voiture : A partir du square des Archi
- ducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVéri
- fiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https
- ://calabssa.be/c/343_2_ettekijs
+ erieure: Bleu ciel-blanc\n\nContact équipe domicile: Raes F. (0479.73.82.
+ 49 - freddy.raes@gmail.com)\n\nAccès voiture : A partir du square des Arc
+ hiducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVé
+ rifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: htt
+ ps://calabssa.be/c/343_2_ettekijs
 GEO:50.80645209999999;4.4087184
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
 ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J9: PATJES FC vs ETTEKIJS (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20241116T143000Z
-DTEND;VALUE=DATE-TIME:20241116T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_3D_9_582_343
+SUMMARY:ABSSA D3C J7: ETTEKIJS (Eq. 2) vs PHARMA SC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20251011T103000Z
+DTEND;VALUE=DATE-TIME:20251011T120000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_7_343_268
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Noir rayé de blanc\nCouleur principale équipe ext
+ erieure: Bleu\n\nContact équipe domicile: Raes F. (0479.73.82.49 - freddy
+ .raes@gmail.com)\n\nAccès voiture : A partir du square des Archiducs\, pr
+ endre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez touj
+ ours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabs
+ sa.be/c/343_2_ettekijs
+GEO:50.80645209999999;4.4087184
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J8: BRUSSELS LTC (Eq. 2) vs ETTEKIJS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20251018T103000Z
+DTEND;VALUE=DATE-TIME:20251018T120000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_8_39_343
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O01\n\nCouleur princi
+ pale équipe domicile: Bordeaux\nCouleur principale équipe exterieure: No
+ ir rayé de blanc\n\nContact équipe domicile: Prudhomme D (0478.49.26.08 
+ - brusselsltc039@gmail.com)\n\nAccès voiture : Venant de Bruxelles\, pren
+ dre ring Est direction Waterloo. Sortir à la sortie n°27 Waterloo Centre
+ .\n	Prendre ensuite à gauche La Drève de Richelle jusqu'au 3ème rond-po
+ int et prendre à gauche la 	Chaussée de Louvain sur environ 2km et prend
+ re à droite la Rue des Saules toujours tout droit et 	qui devient ensuite
+  la Route des Marnières. Continuer ensuite tout droit\, passer un premier
+  rond-point puis continuer tout droit jusqu'au rond-point du Messager où 
+ il faut prendre la 2ème sortie. Vous êtes alors sur la Route de Genval e
+ t l'entrée du Complexe se trouve à environ 200m sur la gauche.\n\nVérif
+ iez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:
+ //calabssa.be/c/343_2_ettekijs
+GEO:50.70475570000001;4.4703447
+LOCATION:Route de Genval\, 26A - 1380 Ohain\, Route de Genval 20A\, 1380 O
+ hain\, Belgique
+ORGANIZER;CN="Prudhomme D";ROLE=Secrétaire:MAILTO:brusselsltc039@gmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J9: ETTEKIJS (Eq. 2) vs RAPID TAMTAM FC.
+DTSTART;VALUE=DATE-TIME:20251025T103000Z
+DTEND;VALUE=DATE-TIME:20251025T120000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_9_343_600
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Noir rayé de blanc\nCouleur principale équipe ext
+ erieure: Jaune etRose\n\nContact équipe domicile: Raes F. (0479.73.82.49 
+ - freddy.raes@gmail.com)\n\nAccès voiture : A partir du square des Archid
+ ucs\, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérif
+ iez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:
+ //calabssa.be/c/343_2_ettekijs
+GEO:50.80645209999999;4.4087184
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J10: PATJES FC vs ETTEKIJS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20251108T143000Z
+DTEND;VALUE=DATE-TIME:20251108T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_10_582_343
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
  pale équipe domicile: Rouge et blanc.\nCouleur principale équipe exterie
  ure: Noir rayé de blanc\n\nContact équipe domicile: Waucquez J-B (0472.0
@@ -270,69 +219,155 @@ LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
 ORGANIZER;CN="Waucquez J-B";ROLE=Secrétaire:MAILTO:fcpatjes@outlook.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J12: GERMINAL CSA vs ETTEKIJS (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20241123T130000Z
-DTEND;VALUE=DATE-TIME:20241123T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_3D_12_235_343
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: E07\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Noir r
- ayé de blanc\n\nContact équipe domicile: Naniot M. (0477.47.14.56 - m.na
- niot@skynet.be)\n\nAccès voiture : Boulevard Lambermont\, prendre le boul
- evard Léopold III\, direction aéroport de Bruxelles-National\, au 3ème 
- feu de signalisation prendre à droite. le terrain se trouve à 50 m.\n\nV
- érifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: h
- ttps://calabssa.be/c/343_2_ettekijs
-GEO:50.8691994;4.406709999999999
-LOCATION:Complexe Sportif Evere\, Avenue des Anciens Combattants 300\, 114
- 0 Evere\, Belgique
-ORGANIZER;CN="Naniot M.";ROLE=Secrétaire:MAILTO:m.naniot@skynet.be
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J11: SYB  RFC vs ETTEKIJS (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20241130T143000Z
-DTEND;VALUE=DATE-TIME:20241130T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_3D_11_48_343
-DESCRIPTION:Terrain synthétique: non\nCode terrain: A09\n\nCouleur princi
- pale équipe domicile: Rayé Vert et blanc\nCouleur principale équipe ext
- erieure: Noir rayé de blanc\n\nContact équipe domicile: Vanhalst M (0495
- .86.17.84 - maxvanhalst@hotmail.com)\n\nAccès voiture : En venant de la R
- oute de Lennik (Citroën) ou de la Chaussée de Mons (Ikea)\, prendre la d
- irection du cimetière d'Anderlecht\, emprunter le Boulevard Josse Leemans
- \, au rond-point prendre la sortie pour la rue du Chant d'Oiseaux (Vogelen
- zang). L'entrée du complexe et des terrains se situe à +/- 500 m. sur la
-  gauche.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir su
- r calabssa: https://calabssa.be/c/343_2_ettekijs
-GEO:50.8114295;4.2763934
-LOCATION:Complexe du Vogelenzang\, Rue du Chant d'Oiseau\, 1070 Anderlecht
- \, Belgique
-ORGANIZER;CN="Vanhalst M";ROLE=Secrétaire:MAILTO:maxvanhalst@hotmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J10: ETTEKIJS (Eq. 2) vs FORESTOISE E.J.
-DTSTART;VALUE=DATE-TIME:20241207T113000Z
-DTEND;VALUE=DATE-TIME:20241207T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_3D_10_343_623
+SUMMARY:ABSSA D3C J11: ETTEKIJS (Eq. 2) vs TAURO FC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20251115T113000Z
+DTEND;VALUE=DATE-TIME:20251115T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_11_343_574
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
  pale équipe domicile: Noir rayé de blanc\nCouleur principale équipe ext
- erieure: Bleu Ciel\n\nContact équipe domicile: Raes F. (0479.73.82.49 - f
- reddy.raes@gmail.com)\n\nAccès voiture : A partir du square des Archiducs
- \, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez
-  toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://c
- alabssa.be/c/343_2_ettekijs
+ erieure: Noir\n\nContact équipe domicile: Raes F. (0479.73.82.49 - freddy
+ .raes@gmail.com)\n\nAccès voiture : A partir du square des Archiducs\, pr
+ endre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez touj
+ ours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabs
+ sa.be/c/343_2_ettekijs
 GEO:50.80645209999999;4.4087184
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
 ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J13: ETTEKIJS (Eq. 2) vs MIDI AS
-DTSTART;VALUE=DATE-TIME:20241214T113000Z
-DTEND;VALUE=DATE-TIME:20241214T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2024_3D_13_343_169
+SUMMARY:ABSSA D3C J12: STRING PENELOPE vs ETTEKIJS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20251122T130000Z
+DTEND;VALUE=DATE-TIME:20251122T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_12_181_343
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: O05\n\nCouleur princi
+ pale équipe domicile: Orange\nCouleur principale équipe exterieure: Noir
+  rayé de blanc\n\nContact équipe domicile: Sbaiti Y (0487.54.95.27 - yo.
+ sbaiti@gmail.com)\n\nAccès voiture : En venant de Bruxelles\, prendre l'a
+ utoroute E411 en direction de Namur\, prendre la sortie  Wavre (n° 6)\, t
+ enir la droite et au bout de la bretelle\, prendre la direction d'Ottignie
+ s par la N238. Au 1èr feu de signalisation continuer tout droit en passan
+ t devant Walibi (qui se trouve sur la gauche) jusqu'à la sortie Limelette
+ . Au bout de cette sortie\, en face du Tennis Club La Palestre\, prendre 
+ à droite la rue Charles Dubois\, jusqu'au carrefour principal. Continuer 
+ tout droit en traversant l'avenue Albert 1èr. Passer en dessous du 1èr p
+ ont du chemin de fer et prendre la rue de l'Europe jusqu'à la place de l'
+ Europe. Traverser cette place par la droite. Au bout à gauche\, suivre l'
+ avenue Jassans. Ensuite 1ère rue à gauche\,  la rue Bustan (panneau F.C.
+  Limelette). Continuer cette rue et passer en dessous du 2ème pont du che
+ min de fer. Après ce pont\, prendre tout de suite à gauche l'avenue Demo
+ lder (panneau F.C. Limelette)\, en face de l'étang du Buston. Suivre cett
+ e avenue jusqu'à la 4ème rue à droite\, l'avenue des Mérisiers. Après
+  50 m. dans cette rue\, prendre à droite l'avenue des Sorbiers (panneau d
+ u F.C. Limelette). L'entrée du terrain est située 50 m. plus bas sur la 
+ gauche.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur
+  calabssa: https://calabssa.be/c/343_2_ettekijs
+GEO:50.67628029999999;4.562802
+LOCATION:Avenue des Sorbiers 120A\, 1342 Ottignies-Limelette\, Belgique
+ORGANIZER;CN="Sbaiti Y";ROLE=Secrétaire:MAILTO:yo.sbaiti@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J13: ETTEKIJS (Eq. 2) vs BLOOD SPIKES
+DTSTART;VALUE=DATE-TIME:20251129T113000Z
+DTEND;VALUE=DATE-TIME:20251129T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_13_343_660
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Noir rayé de blanc\nCouleur principale équipe ext
+ erieure: Noir\n\nContact équipe domicile: Raes F. (0479.73.82.49 - freddy
+ .raes@gmail.com)\n\nAccès voiture : A partir du square des Archiducs\, pr
+ endre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez touj
+ ours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabs
+ sa.be/c/343_2_ettekijs
+GEO:50.80645209999999;4.4087184
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J14: ETTEKIJS (Eq. 2) vs FORESTOIS SC
+DTSTART;VALUE=DATE-TIME:20251206T113000Z
+DTEND;VALUE=DATE-TIME:20251206T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_14_343_152
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Noir rayé de blanc\nCouleur principale équipe ext
+ erieure: Noir\n\nContact équipe domicile: Raes F. (0479.73.82.49 - freddy
+ .raes@gmail.com)\n\nAccès voiture : A partir du square des Archiducs\, pr
+ endre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez touj
+ ours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabs
+ sa.be/c/343_2_ettekijs
+GEO:50.80645209999999;4.4087184
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J15: NEW INN FC (Eq. 2) vs ETTEKIJS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20251213T130000Z
+DTEND;VALUE=DATE-TIME:20251213T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2025_3C_15_359_343
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
+ pale équipe domicile: Rose\nCouleur principale équipe exterieure: Noir r
+ ayé de blanc\n\nContact équipe domicile: Van Brabant V (0474.60.68.96 - 
+ vanbrabant.v@gmail.com)\n\nAccès voiture : Au départ de la Place Meiser\
+ , l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraainem (n° 2).
+  Sous le viaduc prendre à droite\, l'avenue des Anciens Combattants. Just
+ e après le carrefour avec des feux de signalisation prendre à droite ver
+ s la Place de la Chapelle\, puis prendre la 4ème rue à main droite (rue 
+ au Bois). Le terrain se trouve à 300 m. sur la droite.\n\nVérifiez toujo
+ urs ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabss
+ a.be/c/343_2_ettekijs
+GEO:50.8588843;4.4603439
+LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
+ORGANIZER;CN="Van Brabant V";ROLE=Secrétaire:MAILTO:vanbrabant.v@gmail.co
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J16: ETTEKIJS (Eq. 2) vs PIRATERIE (LA)
+DTSTART;VALUE=DATE-TIME:20260110T113000Z
+DTEND;VALUE=DATE-TIME:20260110T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3C_16_343_652
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Noir rayé de blanc\nCouleur principale équipe ext
+ erieure: Noir\n\nContact équipe domicile: Raes F. (0479.73.82.49 - freddy
+ .raes@gmail.com)\n\nAccès voiture : A partir du square des Archiducs\, pr
+ endre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez touj
+ ours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabs
+ sa.be/c/343_2_ettekijs
+GEO:50.80645209999999;4.4087184
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J17: LORRAINE(LA)-MTM.R (Eq. 2) vs ETTEKIJS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260117T130000Z
+DTEND;VALUE=DATE-TIME:20260117T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3C_17_44_343
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: R02\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir r
+ ayé de blanc\n\nContact équipe domicile: Degimbe M. (0478.53.63.56 - lal
+ orrainefc@gmail.com)\n\nAccès voiture : Autoroute E411\, prendre la sorti
+ e Rosières. Passer devant l'église\, longer l'autoroute et tourner à dr
+ oite au cimetière des animaux. Terrain à 200 m.\n\nVérifiez toujours ce
+ s infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/c
+ /343_2_ettekijs
+GEO:50.7264542;4.5530681
+LOCATION:Rue de la Ferme du Plagniau\, 1331 Rosières\, Belgique
+ORGANIZER;CN="Degimbe M.";ROLE=Secrétaire:MAILTO:lalorrainefc@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J18: ETTEKIJS (Eq. 2) vs MIDI AS
+DTSTART;VALUE=DATE-TIME:20260124T113000Z
+DTEND;VALUE=DATE-TIME:20260124T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3C_18_343_169
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
  pale équipe domicile: Noir rayé de blanc\nCouleur principale équipe ext
  erieure: Rouge\n\nContact équipe domicile: Raes F. (0479.73.82.49 - fredd
@@ -346,51 +381,53 @@ LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
 ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J14: ETTEKIJS (Eq. 2) vs PICARDIE AS
-DTSTART;VALUE=DATE-TIME:20250111T113000Z
-DTEND;VALUE=DATE-TIME:20250111T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_3D_14_343_63
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
- pale équipe domicile: Noir rayé de blanc\nCouleur principale équipe ext
- erieure: Bleu\n\nContact équipe domicile: Raes F. (0479.73.82.49 - freddy
- .raes@gmail.com)\n\nAccès voiture : A partir du square des Archiducs\, pr
- endre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez touj
- ours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabs
- sa.be/c/343_2_ettekijs
-GEO:50.80645209999999;4.4087184
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
+SUMMARY:ABSSA D3C J19: GOALOIS (Eq. 2) vs ETTEKIJS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260131T130000Z
+DTEND;VALUE=DATE-TIME:20260131T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3C_19_345_343
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Bleu ciel-blanc\nCouleur principale équipe exterie
+ ure: Noir rayé de blanc\n\nContact équipe domicile: Laruelle M. (0494.52
+ .09.71 - martin.laruelle@gmail.com)\n\nAccès voiture : Boulevard de la Wo
+ luwe\, prendre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit P
+ ont (terminus bus 28). Avant ce pont le terrain se trouve à gauche.\n\nV
+ érifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: h
+ ttps://calabssa.be/c/343_2_ettekijs
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Laruelle M.";ROLE=Secrétaire:MAILTO:martin.laruelle@gmail.c
+ om
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J15: NEW INN FC (Eq. 3) vs ETTEKIJS (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20250118T130000Z
-DTEND;VALUE=DATE-TIME:20250118T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_3D_15_359_343
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: K02\n\nCouleur princi
- pale équipe domicile: Noir et Jaune\nCouleur principale équipe exterieur
- e: Noir rayé de blanc\n\nContact équipe domicile: Van Brabant V (0474.60
- .68.96 - vanbrabant.v@gmail.com)\n\nAccès voiture : Au départ de la Plac
- e Meiser\, l'autoroute Bruxelles-Liège (E40)\, prendre la sortie Kraainem
-  (n° 2). Sous le viaduc prendre à droite\, l'avenue des Anciens Combatta
- nts. Juste après le carrefour avec des feux de signalisation prendre à d
- roite vers la Place de la Chapelle\, puis prendre la 4ème rue à main dro
- ite (rue au Bois). Le terrain se trouve à 300 m. sur la droite.\n\nVérif
- iez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:
- //calabssa.be/c/343_2_ettekijs
-GEO:50.8588843;4.4603439
-LOCATION:Bosstraat\, 1950 Kraainem\, Belgique
-ORGANIZER;CN="Van Brabant V";ROLE=Secrétaire:MAILTO:vanbrabant.v@gmail.co
- m
+SUMMARY:ABSSA D3C J20: PHARMA SC (Eq. 2) vs ETTEKIJS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260207T143000Z
+DTEND;VALUE=DATE-TIME:20260207T160000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3C_20_268_343
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: F01\n\nCouleur princi
+ pale équipe domicile: Bleu\nCouleur principale équipe exterieure: Noir r
+ ayé de blanc\n\nContact équipe domicile: Van Durme Th. (0477.71.89.93 - 
+ phie.dumidi@scarlet.be)\n\nAccès voiture : Au départ de la Place St. Den
+ is à Forest prendre la chaussée de Neerstalle jusqu'à la rue de la Soie
+ rie (4ème rue à droite) et dans la rue de la Soierie rouler env. 100 m. 
+ puis 1ère à gauche (Bld. de la 2ème Armée Britannique) pendant env. 50
+ 0 m. L'entrée du Complexe se trouve à hauteur de City Cart\, à gauche d
+ e la route.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir
+  sur calabssa: https://calabssa.be/c/343_2_ettekijs
+GEO:50.8005447;4.3095283
+LOCATION:Complexe Sportif du Bempt\, Av. de la 2ème Armée Britannique\, 
+ 1190 Forest\, Belgique
+ORGANIZER;CN="Van Durme Th.";ROLE=Secrétaire:MAILTO:phie.dumidi@scarlet.b
+ e
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J16: ETTEKIJS (Eq. 2) vs TRICOTEUSES FC.
-DTSTART;VALUE=DATE-TIME:20250125T113000Z
-DTEND;VALUE=DATE-TIME:20250125T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_3D_16_343_617
+SUMMARY:ABSSA D3C J21: ETTEKIJS (Eq. 2) vs BRUSSELS LTC (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260214T113000Z
+DTEND;VALUE=DATE-TIME:20260214T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3C_21_343_39
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
  pale équipe domicile: Noir rayé de blanc\nCouleur principale équipe ext
  erieure: Bordeaux\n\nContact équipe domicile: Raes F. (0479.73.82.49 - fr
@@ -404,134 +441,31 @@ LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
 ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J17: RAPID MYMOL vs ETTEKIJS (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20250201T130000Z
-DTEND;VALUE=DATE-TIME:20250201T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_3D_17_622_343
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W19\n\nCouleur princi
- pale équipe domicile: Bleu et Jaune\nCouleur principale équipe exterieur
- e: Noir rayé de blanc\n\nContact équipe domicile: Delanghe A. (0498.42.2
- 1.39 - rapidmymolabssa@gmail.com)\n\nAccès voiture : Ring de Bruxelles (R
- O)\, sortie n° 2. Prendre la direction Wezembeek-Oppem. Ensuite première
-  rue à droite (Louis Marcelisstraat) puis la troisième à droite (Sportp
- leinstraat).\nL'entrée au terrain se trouve à gauche entre les n° 16 et
-  24.\nPar la ville : A partir du rond point Montgomery\, prendre l'Avenue 
- de Broqueville\, toujours tout droit. Passez devant le Shopping de Woluwé
- \, toujours tout droit\, passez devant le magasin "Carrefour"\, puis au 2
- ème feu de signalisation prendre à droite et ensuite tout droit. Au bout
-  de la rue prendre à droite\, le terrain se trouve à 100 mètres  sur la
-  gauche.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir su
- r calabssa: https://calabssa.be/c/343_2_ettekijs
-GEO:50.8424578;4.486587999999999
-LOCATION:Sportpleinstraat 20\, 1970 Wezembeek - Oppem\, Belgique
-ORGANIZER;CN="Delanghe A.";ROLE=Secrétaire:MAILTO:rapidmymolabssa@gmail.c
- om
+SUMMARY:ABSSA D3C J22: RAPID TAMTAM FC. vs ETTEKIJS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260221T130000Z
+DTEND;VALUE=DATE-TIME:20260221T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3C_22_600_343
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W10\n\nCouleur princi
+ pale équipe domicile: Jaune etRose\nCouleur principale équipe exterieure
+ : Noir rayé de blanc\n\nContact équipe domicile: Mme Dubray M (0484.39.7
+ 4.80 - fcrapidtamtam@gmail.com)\n\nAccès voiture : Boulevard de la Woluwe
+ \, prendre la rue Voot\, puis la chaussée de Stockel jusqu'au Petit Pont 
+ (terminus bus 28). Avant ce pont le terrain se trouve à gauche.\n\nVérif
+ iez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https:
+ //calabssa.be/c/343_2_ettekijs
+GEO:50.8423054;4.445628699999999
+LOCATION:Stade Communal - Fallon\, Avenue J.F. De Becker 60\, 1200 Woluwé
+ -Saint-Lambert\, Belgique
+ORGANIZER;CN="Mme Dubray M";ROLE=Secrétaire:MAILTO:fcrapidtamtam@gmail.co
+ m
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABSSA D3D J18: ETTEKIJS (Eq. 2) vs RHINOCEROS
-DTSTART;VALUE=DATE-TIME:20250208T113000Z
-DTEND;VALUE=DATE-TIME:20250208T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_3D_18_343_654
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
- pale équipe domicile: Noir rayé de blanc\nCouleur principale équipe ext
- erieure: Jaune\n\nContact équipe domicile: Raes F. (0479.73.82.49 - fredd
- y.raes@gmail.com)\n\nAccès voiture : A partir du square des Archiducs\, p
- rendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez tou
- jours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calab
- ssa.be/c/343_2_ettekijs
-GEO:50.80645209999999;4.4087184
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J19: IRLANDE FC (Eq. 4) vs ETTEKIJS (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20250215T130000Z
-DTEND;VALUE=DATE-TIME:20250215T143000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_3D_19_402_343
-DESCRIPTION:Terrain synthétique: non\nCode terrain: N04\n\nCouleur princi
- pale équipe domicile: Vert\nCouleur principale équipe exterieure: Noir r
- ayé de blanc\n\nContact équipe domicile: Penouilh S. (0474.97.79.48 - fc
- i.secretary.mens@outlook.com)\n\nAccès voiture : Chaussée de Louvain jus
- qu'à Nossegem\, au premier croisement prendre à gauche la \nMechelsestee
- nweg. Le terrain est indiqué à +/- 1 km. à gauche.\nPar l'autoroute Bru
- xelles-Liège\, prendre la sortie Nossegem-Sterrebeek\, prendre à gauche 
- la Mechelsesteenweg\, traverser la chaussée de Louvain\, et suivre comme 
- ci-avant.\n\nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir s
- ur calabssa: https://calabssa.be/c/343_2_ettekijs
-GEO:50.88776559999999;4.50894
-LOCATION:Radar Vlieghaven\, Mechelsesteenweg 596\, 1930 Zaventem\, Belgiqu
- e
-ORGANIZER;CN="Penouilh S.";ROLE=Secrétaire:MAILTO:fci.secretary.mens@outl
- ook.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J24: ETTEKIJS (Eq. 2) vs SYB  RFC
-DTSTART;VALUE=DATE-TIME:20250222T113000Z
-DTEND;VALUE=DATE-TIME:20250222T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_3D_24_343_48
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
- pale équipe domicile: Noir rayé de blanc\nCouleur principale équipe ext
- erieure: Rayé Vert et blanc\n\nContact équipe domicile: Raes F. (0479.73
- .82.49 - freddy.raes@gmail.com)\n\nAccès voiture : A partir du square des
-  Archiducs\, prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\
- nVérifiez toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa:
-  https://calabssa.be/c/343_2_ettekijs
-GEO:50.80645209999999;4.4087184
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J20: ETTEKIJS (Eq. 2) vs CURTIS L'AUSELE
-DTSTART;VALUE=DATE-TIME:20250308T113000Z
-DTEND;VALUE=DATE-TIME:20250308T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_3D_20_343_599
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
- pale équipe domicile: Noir rayé de blanc\nCouleur principale équipe ext
- erieure: Blanc\n\nContact équipe domicile: Raes F. (0479.73.82.49 - fredd
- y.raes@gmail.com)\n\nAccès voiture : A partir du square des Archiducs\, p
- rendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez tou
- jours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://calab
- ssa.be/c/343_2_ettekijs
-GEO:50.80645209999999;4.4087184
-LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
- Boitsfort\, Belgique
-ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J21: VOGELPIK FC. vs ETTEKIJS (Eq. 2)
-DTSTART;VALUE=DATE-TIME:20250315T143000Z
-DTEND;VALUE=DATE-TIME:20250315T160000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_3D_21_629_343
-DESCRIPTION:Terrain synthétique: oui\nCode terrain: L08\n\nCouleur princi
- pale équipe domicile: Rouge et noir\nCouleur principale équipe exterieur
- e: Noir rayé de blanc\n\nContact équipe domicile: Arnould J (0499.51.32.
- 29 - vogelpikfc@gmail.com)\n\nAccès voiture : Autoroute Bruxelles-Namur E
- 411\, après Wavre prendre la sortie Louvain-la-Neuve\, continuer sur la N
- 4 direction Namur\, au premier rond-point prendre à droite vers la N250 e
- t suivre "Blocry/Hocaille". Après le second rond-point\, prendre à droit
- e\, au carrefour\, la rue de l'Invasion\, puis de nouveau à droite. L'ent
- rée du terrain ROS se trouve au bout de l'avenue.\n\nVérifiez toujours c
- es infos sur http://www.abssa.be/\nVoir sur calabssa: https://calabssa.be/
- c/343_2_ettekijs
-GEO:50.6706953;4.5975173
-LOCATION:Terrain Royal Ottignies Stimont (Ros)\, Avenue de Lauzelle\, 1348
-  Louvain-La-Neuve\, Belgique
-ORGANIZER;CN="Arnould J";ROLE=Secrétaire:MAILTO:vogelpikfc@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ABSSA D3D J22: ETTEKIJS (Eq. 2) vs PATJES FC
-DTSTART;VALUE=DATE-TIME:20250322T113000Z
-DTEND;VALUE=DATE-TIME:20250322T130000Z
-DTSTAMP;VALUE=DATE-TIME:20240813T183931Z
-UID:2025_3D_22_343_582
+SUMMARY:ABSSA D3C J23: ETTEKIJS (Eq. 2) vs PATJES FC
+DTSTART;VALUE=DATE-TIME:20260228T113000Z
+DTEND;VALUE=DATE-TIME:20260228T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3C_23_343_582
 DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
  pale équipe domicile: Noir rayé de blanc\nCouleur principale équipe ext
  erieure: Rouge et blanc.\n\nContact équipe domicile: Raes F. (0479.73.82.
@@ -543,5 +477,61 @@ GEO:50.80645209999999;4.4087184
 LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
  Boitsfort\, Belgique
 ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J24: TAURO FC (Eq. 2) vs ETTEKIJS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260307T140000Z
+DTEND;VALUE=DATE-TIME:20260307T153000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3C_24_574_343
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: S01\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir r
+ ayé de blanc\n\nContact équipe domicile: Lietaer Y. (0484.16.30.31 - yli
+ etaer@gmail.com)\n\nAccès voiture : Place Meiser\, descendre le boulevard
+  Lambermont. Au 3ème feu de signalisation prendre à gauche\, puis la pre
+ mière à droite.\n\nVérifiez toujours ces infos sur http://www.abssa.be/
+ \nVoir sur calabssa: https://calabssa.be/c/343_2_ettekijs
+GEO:50.8666341;4.3823667
+LOCATION:Stade du Crossing\, Avenue du Suffrage Universel 22/24\, 1030 Sch
+ aerbeek\, Belgique
+ORGANIZER;CN="Lietaer Y.";ROLE=Secrétaire:MAILTO:ylietaer@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J25: ETTEKIJS (Eq. 2) vs STRING PENELOPE
+DTSTART;VALUE=DATE-TIME:20260314T113000Z
+DTEND;VALUE=DATE-TIME:20260314T130000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3C_25_343_181
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: W05\n\nCouleur princi
+ pale équipe domicile: Noir rayé de blanc\nCouleur principale équipe ext
+ erieure: Orange\n\nContact équipe domicile: Raes F. (0479.73.82.49 - fred
+ dy.raes@gmail.com)\n\nAccès voiture : A partir du square des Archiducs\, 
+ prendre la rue Berensheide\, ensuite l'avenue des Nymphes.\n\nVérifiez to
+ ujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://cala
+ bssa.be/c/343_2_ettekijs
+GEO:50.80645209999999;4.4087184
+LOCATION:Stade des trois Tilleuls\, Avenue des Nymphes 1\, 1170 Watermael-
+ Boitsfort\, Belgique
+ORGANIZER;CN="Raes F.";ROLE=Secrétaire:MAILTO:freddy.raes@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABSSA D3C J26: BLOOD SPIKES vs ETTEKIJS (Eq. 2)
+DTSTART;VALUE=DATE-TIME:20260321T130000Z
+DTEND;VALUE=DATE-TIME:20260321T143000Z
+DTSTAMP;VALUE=DATE-TIME:20250825T162932Z
+UID:2026_3C_26_660_343
+DESCRIPTION:Terrain synthétique: oui\nCode terrain: B14\n\nCouleur princi
+ pale équipe domicile: Noir\nCouleur principale équipe exterieure: Noir r
+ ayé de blanc\n\nContact équipe domicile: Otte J. (0486.41.87.42 - bloods
+ pikes9@gmail.com)\n\nAccès voiture : A partir de Bruxelles\, prendre la E
+  411 en direction de Namur. Prendre la sortie N° 8 puis à droite la bret
+ elle pour la N 25 vers Chaumont-Gistoux / Grez Doiceau / Louvain. Après +
+ /- 6\,5 km\, au rond-point\, prendre la sortie 1 vers la N 420 Chée. de l
+ a Libération\, puis à gauche dans la rue de la Grande lecke.\n\nVérifie
+ z toujours ces infos sur http://www.abssa.be/\nVoir sur calabssa: https://
+ calabssa.be/c/343_2_ettekijs
+GEO:50.7611768;4.7884455
+LOCATION:Rue de la Grande Lecke 3\, 1320 Beauvechain\, Belgique
+ORGANIZER;CN="Otte J.";ROLE=Secrétaire:MAILTO:bloodspikes9@gmail.com
 END:VEVENT
 END:VCALENDAR
