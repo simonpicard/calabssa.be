@@ -1,71 +1,108 @@
-# Getting Started with Create React App
+# CalABSSA.be
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+📅 **All ABSSA Saturday football schedules in one place** - Search, view, and sync match calendars with your favorite calendar app.
 
-## Available Scripts
+[![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
+[![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-black?logo=vercel)](https://vercel.com/)
 
-In the project directory, you can run:
+## 🌟 Features
 
-### `npm start`
+- **🔍 Team Search**: Quickly find any ABSSA team from 200+ Saturday football teams across Brussels
+- **📱 Responsive Design**: Works perfectly on mobile, tablet, and desktop
+- **🗺️ Interactive Maps**: View match locations with integrated Leaflet maps
+- **📲 Calendar Integration**: Sync matches with Google Calendar, Apple Calendar, Outlook, and more
+- **🌍 French**: Interface in French with clear, intuitive navigation
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🚀 Getting Started
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Prerequisites
 
-### `npm test`
+- Node.js 18+ and npm
+- Git
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Installation
 
-### `npm run build`
+1. Clone the repository:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+git clone https://github.com/yourusername/calabssa.be.git
+cd calabssa.be
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. Install dependencies:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+npm install
+```
 
-### `npm run eject`
+3. Start the development server:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```bash
+npm run dev
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Available Scripts
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- `npm run dev` - Start development server
+- `npm run build` - Build for production
+- `npm run start` - Start production server
+- `npm run lint` - Run ESLint
 
-## Learn More
+## 🏗️ Tech Stack
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- **Framework**: [Next.js 14](https://nextjs.org/) with App Router
+- **Language**: [TypeScript](https://www.typescriptlang.org/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **Maps**: [Leaflet](https://leafletjs.com/) + [React Leaflet](https://react-leaflet.js.org/)
+- **Analytics**: [Plausible](https://plausible.io/) (privacy-friendly)
+- **Deployment**: [Vercel](https://vercel.com/)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 📁 Project Structure
 
-### Code Splitting
+```
+calabssa.be/
+├── app/                    # Next.js App Router
+│   ├── components/         # React components
+│   ├── data/              # JSON data files
+│   ├── lib/               # Utilities and helpers
+│   ├── c/[teamId]/        # Dynamic team pages
+│   └── page.tsx           # Homepage
+├── public/
+│   ├── ics/               # Calendar files (.ics)
+│   ├── icon/              # App icons
+│   └── favicon/           # Favicon files
+└── next.config.js         # Next.js configuration
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 📊 Data Sources
 
-### Analyzing the Bundle Size
+Calendar data is sourced from official ABSSA schedules and processed into iCalendar format. The data includes:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- 200+ teams across all divisions
+- Match schedules for the entire season
+- Venue information with GPS coordinates
+- Match officials and contact information
 
-### Making a Progressive Web App
+## 🔐 Privacy
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+CalABSSA.be respects user privacy:
 
-### Advanced Configuration
+- No personal data collection
+- Privacy-friendly analytics with Plausible
+- No cookies or tracking
+- All data is publicly available match information
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 📧 Contact
 
-### Deployment
+For questions, suggestions, or issues, please:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+- Open an [issue on GitHub](https://github.com/yourusername/calabssa.be/issues)
+- Visit [calabssa.be](https://calabssa.be)
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# calabssa.be
+Made with ⚽ in Brussels

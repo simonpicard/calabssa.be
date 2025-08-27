@@ -1,0 +1,34 @@
+[
+  {
+    "q": "De quoi s'agit-il?",
+    "a": "Un outil pour visualiser les matchs d'ABSSA, une ligue de football amateur belge, en regroupant différentes informations dans un calendrier. Attention, cet outil est une aide proposée sans garantie de service. Il est possible que celui-ci soit un jour interrompu ou indisponible."
+  },
+  {
+    "q": "Toutes les informations à propos des matchs sont-elles correctes?",
+    "a": "L'exactitude des données n'est pas garantie. Veillez à toujours les vérifier sur le site de l'ABSSA. Les informations proviennent du <a href=\"http://www.abssa.be/documents/37_Calendrier_2025_2026.pdf\" style=\"text-decoration: underline;\">calendrier de l'ABSSA<a>. Si une information est incorrecte dans ce document, elle sera copiée telle quelle ici, pensez à en informer l'ABSSA si c'est le cas. Enfin, les modifications en cours de saison ne sont pas prises en compte, tel qu'une remise de journée ou un changement de terrain."
+  },
+  {
+    "q": "Une question? Une suggestion? Un bug à signaler?",
+    "a": "Merci pour votre intérêt! S'il vous plait, contactez-moi par mail à <a href=\"mailto:simon@ourway.be\" style=\"text-decoration: underline;\">simon@ourway.be<a>."
+  },
+  {
+    "q": "Qui suis-je?",
+    "a": "Simon, vous pouvez en savoir plus ici: <a href=\"https://www.simonmyway.com\" style=\"text-decoration: underline;\">simonmyway.com<a>."
+  },
+  {
+    "q": "Pourquoi ai-je créé ce site web?",
+    "a": "À la base, j'avais créé un calendrier pour mon équipe, puis je l'ai fait pour toutes les autres équipes. Ensuite, j'ai voulu apprendre à créer un site web en utilisant React, et ce projet m'a permis de pratiquer. Vous pouvez en savoir plus en lisant cet <a href=\"https://www.simonmyway.com/blog/i-learned-dynamic-web-development-by-playing-soccer\" style=\"text-decoration: underline;\">article<a>."
+  },
+  {
+    "q": "Liens utiles",
+    "a": "<ul><li><a href=\"http://www.abssa.be/\" style=\"text-decoration: underline;\">abssa.be<a>: le site officiel de la Royale A.B.S.S.A.</li><li><a href=\"http://www.abssaratings.be/\" style=\"text-decoration: underline;\">abssaratings.be<a>: ABSSA Ratings applique la formule Elo au football en ABSSA.</li><li><a href=\"https://github.com/simonpicard/calabssa.be\" style=\"text-decoration: underline;\">GitHub<a>: Code source de CalABSSA (open source).</li><li><a href=\"https://www.simonmyway.com/\" style=\"text-decoration: underline;\">Blog de Simon<a>: Articles sur le développement web et autres projets.</li></ul>"
+  },
+  {
+    "q": "Politique de confidentialité",
+    "a": "<strong>Données collectées</strong><br/>CalABSSA respecte votre vie privée et collecte uniquement les données nécessaires au fonctionnement du service.<br/><br/><strong>Newsletter (optionnelle)</strong><br/>Si vous choisissez de vous inscrire à notre newsletter, nous collectons votre adresse email. Ces données sont stockées sur notre instance Listmonk auto-hébergée (pas de tiers). Vous pouvez vous désinscrire à tout moment via le lien présent dans chaque email. Nous utilisons un double opt-in pour confirmer votre inscription (conforme RGPD).<br/><br/><strong>Analytics</strong><br/>Nous utilisons Plausible Analytics, une solution respectueuse de la vie privée qui ne nécessite pas de cookies et qui est conforme au RGPD. Plausible collecte uniquement des statistiques anonymes et agrégées sur l'utilisation du site (pages vues, navigateur, pays). Aucune donnée personnelle n'est collectée ou stockée.<br/><br/><strong>Abonnements aux calendriers</strong><br/>Les liens de calendrier (webcal://) sont des liens directs vers les fichiers .ics. Aucun suivi n'est effectué lors de l'utilisation de ces liens.<br/><br/><strong>Stockage des données</strong><br/>En dehors des emails pour la newsletter (si vous vous inscrivez), CalABSSA ne stocke aucune information personnelle des utilisateurs. Toutes les données de matchs affichées proviennent des calendriers publics de l'ABSSA.<br/><br/><strong>Vos droits</strong><br/>Conformément au RGPD, vous avez le droit de demander l'accès, la rectification ou la suppression de vos données. Pour la newsletter, vous pouvez vous désinscrire directement via le lien dans l'email ou nous contacter.<br/><br/><strong>Contact</strong><br/>Pour toute question concernant la confidentialité: <a href=\"mailto:simon@ourway.be\" style=\"text-decoration: underline;\">simon@ourway.be</a>"
+  },
+  {
+    "q": "Conditions d'utilisation",
+    "a": "<strong>1. Acceptation des conditions</strong><br/>En utilisant CalABSSA, vous acceptez ces conditions d'utilisation.<br/><br/><strong>2. Nature du service</strong><br/>CalABSSA est un service gratuit, non officiel et non affilié à la Royale A.B.S.S.A. Il s'agit d'un projet personnel open source sous licence MIT.<br/><br/><strong>3. Absence de garantie</strong><br/>Le service est fourni \"tel quel\", sans garantie d'aucune sorte:<br/>• L'exactitude des données n'est pas garantie<br/>• La disponibilité du service peut être interrompue sans préavis<br/>• Les horaires et lieux des matchs peuvent changer sans être reflétés immédiatement<br/><br/><strong>4. Limitation de responsabilité</strong><br/>CalABSSA et son créateur ne peuvent être tenus responsables de:<br/>• Erreurs dans les informations affichées<br/>• Matchs manqués ou confusions d'horaires<br/>• Indisponibilité temporaire ou permanente du service<br/>• Tout dommage direct ou indirect résultant de l'utilisation du service<br/><br/><strong>5. Utilisation appropriée</strong><br/>Les utilisateurs s'engagent à:<br/>• Vérifier les informations importantes sur le site officiel de l'ABSSA<br/>• Ne pas surcharger le service avec des requêtes automatisées excessives<br/>• Utiliser le service de manière légale et éthique<br/><br/><strong>6. Propriété intellectuelle</strong><br/>Le code source est disponible sous licence MIT sur GitHub. Les données des matchs appartiennent à l'ABSSA.<br/><br/><strong>7. Modifications</strong><br/>Ces conditions peuvent être modifiées à tout moment sans notification préalable.<br/><br/><strong>8. Droit applicable</strong><br/>Ces conditions sont régies par le droit belge.<br/><br/><strong>Dernière mise à jour:</strong> Août 2025"
+  }
+]
