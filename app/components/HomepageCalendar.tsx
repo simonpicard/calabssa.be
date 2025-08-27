@@ -14,10 +14,10 @@ interface HomepageCalendarProps {
 }
 
 export default function HomepageCalendar({ initialData, divisionInfo }: HomepageCalendarProps) {
-  // Always show only future matches
-  const events = initialData.icalEvents.filter((e) => new Date(e.dtstart) >= new Date())
+  // Events are already filtered on the server
+  const events = initialData.icalEvents
 
-  // Format the date nicely
+  // Format the date - use suppressHydrationWarning for client-only formatting
   const matchDate = new Date(divisionInfo.date)
   const dateOptions: Intl.DateTimeFormatOptions = {
     weekday: 'long',
@@ -33,7 +33,7 @@ export default function HomepageCalendar({ initialData, divisionInfo }: Homepage
           🌟 Consultez les matchs directement sur <span className="text-sky-600">l&apos;application web</span>
         </h2>
         <p className="text-lg text-gray-600">
-          Tous les détails en un seul endroit : horaires, adresses, type de terrain, cartes, contacts, couleurs de maillots... Par exemple, voici les matchs du <span className="font-semibold text-gray-900">{formattedDate}</span> de la division <span className="font-semibold text-gray-900">{divisionInfo.division}</span>:
+          Tous les détails en un seul endroit : horaires, adresses, type de terrain, cartes, contacts, couleurs de maillots... Par exemple, voici les matchs du <span className="font-semibold text-gray-900" suppressHydrationWarning>{formattedDate}</span> de la division <span className="font-semibold text-gray-900">{divisionInfo.division}</span>:
         </p>
       </div>
 

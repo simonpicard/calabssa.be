@@ -4,7 +4,7 @@ import AddCalendarPopUp from './AddCalendarPopUp'
 import { CalendarData } from '../lib/calendar-utils'
 import Event from './Event'
 import Toggle from './Toggle'
-import { useState } from 'react'
+import { useState, useMemo } from 'react'
 
 interface CalendarClientProps {
   initialData: CalendarData
@@ -18,9 +18,14 @@ export default function CalendarClient({ initialData }: CalendarClientProps) {
     setSaveCal(true)
   }
 
-  const events = showPast
-    ? initialData.icalEvents
-    : initialData.icalEvents.filter((e) => new Date(e.dtstart) >= new Date())
+  // Use useMemo to ensure consistent filtering
+  const events = useMemo(() => {
+    if (showPast) {
+      return initialData.icalEvents
+    }
+    const now = new Date()
+    return initialData.icalEvents.filter((e) => new Date(e.dtstart) >= now)
+  }, [showPast, initialData.icalEvents])
 
   return (
     <div>
