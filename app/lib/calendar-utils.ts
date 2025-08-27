@@ -122,8 +122,8 @@ export async function loadAndParseCal(fileName: string): Promise<CalendarData> {
     fullUrl = `http://localhost:3000/ics/${fileName}.ics`
   } else {
     // In production, prefer custom domain if available
-    domain = 'calabssa.be'
-    fullUrl = `https://calabssa.be/ics/${fileName}.ics`
+    domain = 'www.calabssa.be'
+    fullUrl = `https://www.calabssa.be/ics/${fileName}.ics`
   }
   
   return {

@@ -1,9 +1,13 @@
 import './globals.css'
-import { Metadata } from 'next'
+import { Metadata, Viewport } from 'next'
 import PlausibleProvider from 'next-plausible'
 
+export const viewport: Viewport = {
+  themeColor: '#ffffff',
+}
+
 export const metadata: Metadata = {
-  metadataBase: new URL('https://calabssa.be'),
+  metadataBase: new URL('https://www.calabssa.be'),
   title: {
     default: 'CalABSSA - Calendriers ABSSA | Football du samedi Bruxelles',
     template: '%s | CalABSSA - ABSSA Bruxelles'
@@ -27,7 +31,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'fr_BE',
-    url: 'https://calabssa.be',
+    url: 'https://www.calabssa.be',
     siteName: 'CalABSSA',
     title: 'CalABSSA - Tous les calendriers ABSSA en un clic',
     description: 'Consultez et synchronisez les calendriers de toutes les équipes ABSSA. Horaires, adresses, cartes interactives.',
@@ -60,9 +64,8 @@ export const metadata: Metadata = {
     ]
   },
   manifest: '/manifest.json',
-  themeColor: '#ffffff',
   alternates: {
-    canonical: 'https://calabssa.be',
+    canonical: 'https://www.calabssa.be',
   },
   other: {
     'msapplication-TileColor': '#da532c'
@@ -79,18 +82,18 @@ export default function RootLayout({
     '@type': 'WebSite',
     name: 'CalABSSA',
     alternateName: 'Calendriers ABSSA Bruxelles',
-    url: 'https://calabssa.be',
+    url: 'https://www.calabssa.be',
     description: 'Calendriers officiels de toutes les équipes ABSSA (Royale Association Belge des Sports du Samedi)',
     publisher: {
       '@type': 'Organization',
       name: 'CalABSSA',
-      url: 'https://calabssa.be',
+      url: 'https://www.calabssa.be',
     },
     potentialAction: {
       '@type': 'SearchAction',
       target: {
         '@type': 'EntryPoint',
-        urlTemplate: 'https://calabssa.be/c/{search_term}',
+        urlTemplate: 'https://www.calabssa.be/c/{search_term}',
       },
       'query-input': 'required name=search_term',
     },

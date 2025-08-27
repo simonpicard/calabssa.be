@@ -1,6 +1,6 @@
 /** @type {import('next-sitemap').IConfig} */
 module.exports = {
-  siteUrl: 'https://calabssa.be',
+  siteUrl: 'https://www.calabssa.be',
   generateRobotsTxt: true,
   changefreq: 'daily',
   priority: 0.7,
@@ -9,7 +9,7 @@ module.exports = {
   exclude: [],
   robotsTxtOptions: {
     additionalSitemaps: [
-      'https://calabssa.be/sitemap.xml',
+      'https://www.calabssa.be/sitemap.xml',
     ],
     policies: [
       {

@@ -27,7 +27,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/calabssa.be.git
+git clone https://github.com/simonpicard/calabssa.be.git
 cd calabssa.be
 ```
 
@@ -100,8 +100,8 @@ CalABSSA.be respects user privacy:
 
 For questions, suggestions, or issues, please:
 
-- Open an [issue on GitHub](https://github.com/yourusername/calabssa.be/issues)
-- Visit [calabssa.be](https://calabssa.be)
+- Open an [issue on GitHub](https://github.com/simonpicard/calabssa.be/issues)
+- Visit [www.calabssa.be](https://www.calabssa.be)
 
 ---
 

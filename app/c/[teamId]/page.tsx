@@ -30,7 +30,7 @@ export async function generateMetadata({ params }: TeamPageProps): Promise<Metad
       title,
       description,
       type: 'website',
-      url: `https://calabssa.be/c/${params.teamId}`,
+      url: `https://www.calabssa.be/c/${params.teamId}`,
     },
     twitter: {
       card: 'summary',
@@ -38,7 +38,7 @@ export async function generateMetadata({ params }: TeamPageProps): Promise<Metad
       description,
     },
     alternates: {
-      canonical: `https://calabssa.be/c/${params.teamId}`,
+      canonical: `https://www.calabssa.be/c/${params.teamId}`,
     },
   }
 }
