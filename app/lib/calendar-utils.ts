@@ -42,27 +42,40 @@ export interface CalendarData {
 }
 
 export async function loadAndParseCal(fileName: string): Promise<CalendarData> {
-  // Determine the base URL
-  let baseUrl: string
+  // Read the ICS file directly from the filesystem during build time
+  // This is more reliable for static generation
+  const fs = require('fs')
+  const path = require('path')
   
-  if (process.env.NODE_ENV === 'development') {
-    baseUrl = 'http://localhost:3000'
-  } else if (process.env.NEXT_PUBLIC_VERCEL_URL) {
-    // Vercel preview deployments
-    baseUrl = `https://${process.env.NEXT_PUBLIC_VERCEL_URL}`
-  } else if (process.env.VERCEL_URL) {
-    // Vercel production (server-side)
-    baseUrl = `https://${process.env.VERCEL_URL}`
+  let icalText: string
+  
+  if (typeof window === 'undefined') {
+    // Server-side: read directly from filesystem
+    const icsPath = path.join(process.cwd(), 'public', 'ics', `${fileName}.ics`)
+    console.log('[Calendar] Reading ICS from filesystem:', icsPath)
+    
+    try {
+      icalText = fs.readFileSync(icsPath, 'utf8')
+      console.log('[Calendar] ICS file read successfully, length:', icalText.length)
+    } catch (error) {
+      console.error('[Calendar] Failed to read ICS file:', error)
+      throw new Error(`Failed to read calendar file: ${fileName}`)
+    }
   } else {
-    // Fallback to production domain
-    baseUrl = 'https://calabssa.be'
+    // Client-side: fetch from public URL (shouldn't happen with SSG)
+    const icalPath = `/ics/${fileName}.ics`
+    console.log('[Calendar] Fetching ICS from:', icalPath)
+    
+    const icalCall = await fetch(icalPath)
+    
+    if (!icalCall.ok) {
+      console.error('[Calendar] Fetch failed:', icalCall.status, icalCall.statusText)
+      throw new Error(`Failed to fetch calendar: ${icalCall.status}`)
+    }
+    
+    icalText = await icalCall.text()
+    console.log('[Calendar] ICS content length:', icalText.length)
   }
-
-  const icalPath = `${baseUrl}/ics/${fileName}.ics`
-  const icalWebcal = icalPath.replace(/^https?:/, 'webcal:')
-
-  const icalCall = await fetch(icalPath)
-  const icalText = await icalCall.text()
   const icalTextNewline = icalText
     .replace(/\\\r\n n/g, '<br />')
     .replace(/\\n/g, '<br />')
@@ -100,15 +113,25 @@ export async function loadAndParseCal(fileName: string): Promise<CalendarData> {
     })
   })
 
-  // Extract just the domain for calendar subscription links
-  const domain = baseUrl.replace(/^https?:\/\//, '')
+  // For calendar subscription links, use the actual deployment domain
+  let domain: string
+  let fullUrl: string
+  
+  if (process.env.NODE_ENV === 'development') {
+    domain = 'localhost:3000'
+    fullUrl = `http://localhost:3000/ics/${fileName}.ics`
+  } else {
+    // In production, prefer custom domain if available
+    domain = 'calabssa.be'
+    fullUrl = `https://calabssa.be/ics/${fileName}.ics`
+  }
   
   return {
     icalEvents,
     icalInfo,
     icalParam: { 
       baseUri: `${domain}/ics/${fileName}.ics`,
-      httpUri: icalPath,
+      httpUri: fullUrl,
       webcalUri: `webcal://${domain}/ics/${fileName}.ics`,
       fileName 
     },
