@@ -50,7 +50,9 @@ export default function HomepageEvent({
   const { width } = useWindowDimensions()
   const [mapKey, setMapKey] = useState(0)
   const [isOpen, setIsOpen] = useState(defaultOpen)
+  const [maxHeight, setMaxHeight] = useState<string>(defaultOpen ? '1000px' : '0px')
   const detailRef = useRef<HTMLDivElement>(null)
+  const contentRef = useRef<HTMLDivElement>(null)
 
   const dateFmt: Intl.DateTimeFormatOptions = width >= 768
     ? { year: 'numeric', month: 'long', day: 'numeric' }
@@ -70,6 +72,20 @@ export default function HomepageEvent({
   const hasCoordinates = latitude !== undefined && longitude !== undefined
   const mapLat = latitude || 50.8503
   const mapLng = longitude || 4.3517
+
+  useEffect(() => {
+    if (isOpen && contentRef.current) {
+      // Measure the actual content height when opened
+      const contentHeight = contentRef.current.scrollHeight
+      setMaxHeight(`${contentHeight}px`)
+      if (defaultOpen) {
+        // If initially open, trigger map update
+        updateMap()
+      }
+    } else if (!isOpen) {
+      setMaxHeight('0px')
+    }
+  }, [isOpen])
 
   const updateMap = () => {
     // Force map re-render after accordion opens
@@ -144,13 +160,12 @@ export default function HomepageEvent({
       </div>
 
       <div
-        className="flex overflow-hidden transition-[max-height] ease-out duration-200 delay-[0ms]"
-        style={{
-          maxHeight: isOpen ? (detailRef.current?.scrollHeight || 500) + 'px' : '0px',
-        }}
+        className="overflow-hidden transition-[max-height] ease-out duration-200"
+        style={{ maxHeight }}
         ref={detailRef}
       >
-        <div className="w-full">
+        <div className="flex" ref={contentRef}>
+          <div className="w-full">
           <div className="flex flex-col-reverse h-full md:grid md:grid-rows-1 md:grid-cols-6 xl:grid-cols-7">
             {hasCoordinates && (
               <div className="block z-0 min-h-[8rem] md:min-h-[auto] md:row-start-1 md:col-start-5 xl:col-start-1 md:col-span-2 md:ml-2 xl:mr-2 xl:ml-0">
@@ -166,8 +181,9 @@ export default function HomepageEvent({
               {formatDescription(description)}
             </div>
           </div>
+          </div>
+          {width > 1280 && <p className="text-2xl invisible">❯</p>}
         </div>
-        {width > 1280 && <p className="text-2xl invisible">❯</p>}
       </div>
     </div>
   )
