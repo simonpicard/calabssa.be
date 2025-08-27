@@ -9,7 +9,7 @@ interface AddCalendarPopUpProps {
 export default function AddCalendarPopUp({ baseUri, calName, closeEvent }: AddCalendarPopUpProps) {
   const webcalUri = `webcal://${baseUri}`
   const httpUri = `https://${baseUri}`
-  
+
   const subscribeLinks = [
     {
       name: 'Apple Calendar',
@@ -18,23 +18,18 @@ export default function AddCalendarPopUp({ baseUri, calName, closeEvent }: AddCa
     },
     {
       name: 'Google Calendar',
-      url: `https://calendar.google.com/calendar/u/0/r?cid=${httpUri}`,
+      url: `https://calendar.google.com/calendar/render?cid=${encodeURIComponent(webcalUri)}`,
       icon: '/img/calendar/google-calendar.svg',
     },
     {
-      name: 'Outlook',
-      url: webcalUri,
+      name: 'Outlook.com',
+      url: `https://outlook.live.com/calendar/0/addfromweb?url=${encodeURIComponent(httpUri)}&name=${encodeURIComponent(calName)}`,
       icon: '/img/calendar/outlook-calendar.svg',
     },
     {
       name: 'Office 365',
-      url: `https://outlook.office.com/calendar/0/addfromweb?url=${httpUri}&name=${encodeURIComponent(calName)}`,
+      url: `https://outlook.office.com/calendar/0/addfromweb?url=${encodeURIComponent(httpUri)}&name=${encodeURIComponent(calName)}`,
       icon: '/img/calendar/office-calendar.svg',
-    },
-    {
-      name: 'Microsoft Teams',
-      url: `https://teams.microsoft.com/l/meeting/new?content=${encodeURIComponent(httpUri)}`,
-      icon: '/img/calendar/teams-calendar.svg',
     },
     {
       name: 'Windows Calendar',
@@ -51,7 +46,7 @@ export default function AddCalendarPopUp({ baseUri, calName, closeEvent }: AddCa
 
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-50" onClick={closeEvent}>
-      <div 
+      <div
         className="bg-white rounded-lg p-6 max-w-md w-full mx-4 max-h-[90vh] overflow-y-auto"
         onClick={(e) => e.stopPropagation()}
       >
@@ -66,12 +61,12 @@ export default function AddCalendarPopUp({ baseUri, calName, closeEvent }: AddCa
             </svg>
           </button>
         </div>
-        
+
         <div className="space-y-3">
           <p className="text-sm text-gray-600 mb-4">
             Choisissez votre application calendrier pour vous abonner automatiquement aux matchs
           </p>
-          
+
           {subscribeLinks.map((link) => (
             <a
               key={link.name}
@@ -84,7 +79,7 @@ export default function AddCalendarPopUp({ baseUri, calName, closeEvent }: AddCa
               <span className="font-medium">{link.name}</span>
             </a>
           ))}
-          
+
           <div className="pt-3 mt-3 border-t">
             <a
               href={downloadLink.url}
@@ -96,10 +91,10 @@ export default function AddCalendarPopUp({ baseUri, calName, closeEvent }: AddCa
             </a>
           </div>
         </div>
-        
+
         <div className="mt-4 p-3 bg-blue-50 rounded-lg">
           <p className="text-xs text-blue-800">
-            <strong>Astuce:</strong> L&apos;abonnement met automatiquement à jour votre calendrier avec les derniers changements de matchs.
+            <strong>Astuce:</strong> L&apos;abonnement met automatiquement à jour votre calendrier avec les derniers matchs, à condition que votre équipe garde le même nom.
           </p>
         </div>
       </div>
