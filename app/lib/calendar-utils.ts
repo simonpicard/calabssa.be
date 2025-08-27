@@ -42,12 +42,24 @@ export interface CalendarData {
 }
 
 export async function loadAndParseCal(fileName: string): Promise<CalendarData> {
-  const hostname = process.env.NEXT_PUBLIC_VERCEL_URL || (process.env.NODE_ENV === 'development' ? 'localhost:3000' : 'calabssa.be')
-  const httpProtocol = hostname.includes('localhost') ? 'http' : 'https'
+  // Determine the base URL
+  let baseUrl: string
+  
+  if (process.env.NODE_ENV === 'development') {
+    baseUrl = 'http://localhost:3000'
+  } else if (process.env.NEXT_PUBLIC_VERCEL_URL) {
+    // Vercel preview deployments
+    baseUrl = `https://${process.env.NEXT_PUBLIC_VERCEL_URL}`
+  } else if (process.env.VERCEL_URL) {
+    // Vercel production (server-side)
+    baseUrl = `https://${process.env.VERCEL_URL}`
+  } else {
+    // Fallback to production domain
+    baseUrl = 'https://calabssa.be'
+  }
 
-  const baseUri = `${hostname}/ics/${fileName}.ics`
-  const icalPath = `${httpProtocol}://${baseUri}`
-  const icalWebcal = `webcal://${baseUri}`
+  const icalPath = `${baseUrl}/ics/${fileName}.ics`
+  const icalWebcal = icalPath.replace(/^https?:/, 'webcal:')
 
   const icalCall = await fetch(icalPath)
   const icalText = await icalCall.text()
@@ -88,10 +100,18 @@ export async function loadAndParseCal(fileName: string): Promise<CalendarData> {
     })
   })
 
+  // Extract just the domain for calendar subscription links
+  const domain = baseUrl.replace(/^https?:\/\//, '')
+  
   return {
     icalEvents,
     icalInfo,
-    icalParam: { baseUri, httpUri: icalPath, webcalUri: icalWebcal, fileName },
+    icalParam: { 
+      baseUri: `${domain}/ics/${fileName}.ics`,
+      httpUri: icalPath,
+      webcalUri: `webcal://${domain}/ics/${fileName}.ics`,
+      fileName 
+    },
     calSettings: {
       displayPast: false,
       setPageTitle: true,
