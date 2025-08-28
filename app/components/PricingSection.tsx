@@ -1,6 +1,6 @@
 export default function PricingSection() {
   return (
-    <section className="mt-20 bg-gradient-to-r from-green-50 to-sky-50 rounded-2xl p-8 md:p-12">
+    <section className="bg-gradient-to-r from-green-50 to-sky-50 rounded-2xl p-8 md:p-12">
       <div className="max-w-3xl mx-auto text-center">
         <h2 className="text-3xl font-bold text-gray-900 mb-4">
           ⚽ 100% <span className="text-purple-600">Gratuit</span> - Un projet né sur le terrain

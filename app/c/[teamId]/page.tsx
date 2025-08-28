@@ -1,5 +1,5 @@
 import { getCalendarDataForTeam } from '../../lib/calendar-utils'
-import CalendarClient from '../../components/CalendarClient'
+import TeamCalendarClient from '../../components/TeamCalendarClient'
 import { notFound } from 'next/navigation'
 import { Metadata } from 'next'
 import TeamData from '../../data/teams.json'
@@ -57,5 +57,5 @@ export default async function TeamPage({ params }: TeamPageProps) {
     notFound()
   }
   
-  return <CalendarClient initialData={calendarData} />
+  return <TeamCalendarClient initialData={calendarData} teamId={params.teamId} />
 }

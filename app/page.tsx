@@ -9,7 +9,7 @@ import { getDefaultCalendarData } from './lib/calendar-utils'
 
 export default async function HomePage() {
   const { calendarData, divisionInfo } = await getDefaultCalendarData()
-  
+
   // Filter events on the server side to avoid hydration mismatch
   const now = new Date()
   const filteredCalendarData = {
@@ -22,17 +22,17 @@ export default async function HomePage() {
       <HeroSection teamData={TeamData} divisionData={DayDiv} />
 
       {/* Section 1: Web App */}
-      <section className="mb-20">
+      <section className="mb-12">
         <HomepageCalendar initialData={filteredCalendarData} divisionInfo={divisionInfo} />
       </section>
 
       {/* Section 2: Calendar Integration */}
-      <section className="mb-20">
+      <section className="mb-12">
         <CalendarIntegration />
       </section>
 
       {/* Section 3: Pricing */}
-      <section className="mb-20">
+      <section className="mb-12">
         <PricingSection />
       </section>
 

@@ -86,7 +86,7 @@ export default function CalendarIntegration() {
   }
 
   return (
-    <div className="mt-20">
+    <div>
       <div className="mb-8">
         <h2 className="text-3xl font-bold text-gray-900 mb-3">
           📅 Intégrez vos matchs dans <span className="text-green-600">votre calendrier</span>

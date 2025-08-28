@@ -46,7 +46,7 @@ export default function NewsletterSignup() {
   }
 
   return (
-    <section className="mt-20 rounded-2xl p-8 md:p-12">
+    <section className="rounded-2xl px-8 md:px-12">
       <div className="mx-auto">
         <div className="text-center mb-6">
           <h2 className="text-3xl font-bold text-gray-900 mb-2">
