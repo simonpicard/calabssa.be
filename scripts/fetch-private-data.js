@@ -1,8 +1,7 @@
 const { Storage } = require("@google-cloud/storage");
 const {
   ExternalAccountClient,
-  GoogleAuth,
-  OAuth2Client,
+  Impersonated,
 } = require("google-auth-library");
 const fs = require("fs").promises;
 const path = require("path");
@@ -153,46 +152,38 @@ async function getAuthenticatedStorage() {
     try {
       console.log("🔧 Creating ExternalAccountClient with token supplier...");
 
-      const authClient = ExternalAccountClient.fromJSON({
-        projectId: GCP_PROJECT_ID,
+      // Create the external account client WITHOUT service account impersonation
+      const externalClient = ExternalAccountClient.fromJSON({
         type: "external_account",
         audience: `//iam.googleapis.com/projects/${GCP_PROJECT_NUMBER}/locations/global/workloadIdentityPools/${GCP_WORKLOAD_IDENTITY_POOL_ID}/providers/${GCP_WORKLOAD_IDENTITY_POOL_PROVIDER_ID}`,
         subject_token_type: "urn:ietf:params:oauth:token-type:jwt",
         token_url: "https://sts.googleapis.com/v1/token",
-        service_account_impersonation_url: `https://iamcredentials.googleapis.com/v1/projects/-/serviceAccounts/${GCP_SERVICE_ACCOUNT_EMAIL}:generateAccessToken`,
         subject_token_supplier: {
           getSubjectToken: getSubjectTokenFunc,
         },
-        service_account_impersonation: {
-          token_lifetime_seconds: 3600,
-        },
       });
 
-      console.log("✅ AuthClient created successfully");
+      console.log("✅ ExternalClient created successfully");
 
-      // Get an access token to use directly
-      // let accessToken;
-      // try {
-      //   console.log("🔐 Getting access token for direct authentication...");
-      //   const tokenResponse = await authClient.getAccessToken();
-      //   accessToken = tokenResponse.token;
-      //   console.log("✅ Access token obtained successfully");
-      //   console.log(
-      //     "🔍 Token starts with:",
-      //     accessToken.substring(0, 20) + "..."
-      //   );
-      // } catch (tokenError) {
-      //   console.error("❌ Failed to get access token:", tokenError.message);
-      //   console.error("🔍 Error details:", tokenError);
-      //   throw tokenError;
-      // }
+      // Create an Impersonated client to impersonate the service account
+      console.log("🔄 Creating Impersonated client for service account...");
+      const impersonatedClient = new Impersonated({
+        sourceClient: externalClient,
+        targetPrincipal: GCP_SERVICE_ACCOUNT_EMAIL,
+        lifetime: 3600, // 1 hour
+        delegates: [],
+        targetScopes: ["https://www.googleapis.com/auth/cloud-platform"],
+      });
 
-      console.log("authClient", authClient);
+      console.log("✅ Impersonated client created successfully");
 
       console.log("🚀 Initializing Storage client...");
 
-      // Use the OAuth2Client with Storage
-      const storage = new Storage({ authClient });
+      // Use the impersonated client with Storage
+      const storage = new Storage({ 
+        projectId: GCP_PROJECT_ID,
+        authClient: impersonatedClient 
+      });
 
       return storage;
     } catch (error) {
