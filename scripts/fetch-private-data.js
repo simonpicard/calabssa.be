@@ -135,20 +135,22 @@ async function getAuthenticatedStorage() {
       );
     }
 
-    // Create a custom token supplier class
-    class VercelOIDCTokenSupplier {
-      constructor(token) {
-        this.token = token;
+    // Create token supplier function
+    async function getSubjectTokenFunc(context) {
+      console.log("📤 Supplying OIDC token for audience:", context.audience);
+      // For build scripts, we use the environment variable
+      // (for runtime functions, you'd use getContext().headers['x-vercel-oidc-token'])
+      const token = process.env.VERCEL_OIDC_TOKEN;
+      if (!token) {
+        throw new Error(
+          "VERCEL_OIDC_TOKEN is missing. Do you have the OIDC option enabled in the Vercel project settings?"
+        );
       }
-      
-      async getSubjectToken(context) {
-        console.log("📤 Supplying OIDC token for audience:", context.audience);
-        return this.token;
-      }
+      return token;
     }
 
     try {
-      console.log("🔧 Creating ExternalAccountClient with custom token supplier...");
+      console.log("🔧 Creating ExternalAccountClient with token supplier...");
 
       const authClient = ExternalAccountClient.fromJSON({
         type: "external_account",
@@ -156,7 +158,9 @@ async function getAuthenticatedStorage() {
         subject_token_type: "urn:ietf:params:oauth:token-type:jwt",
         token_url: "https://sts.googleapis.com/v1/token",
         service_account_impersonation_url: `https://iamcredentials.googleapis.com/v1/projects/-/serviceAccounts/${GCP_SERVICE_ACCOUNT_EMAIL}:generateAccessToken`,
-        subject_token_supplier: new VercelOIDCTokenSupplier(oidcToken),
+        subject_token_supplier: {
+          getSubjectToken: getSubjectTokenFunc,
+        },
         service_account_impersonation: {
           token_lifetime_seconds: 3600,
         },
