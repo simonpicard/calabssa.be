@@ -37,20 +37,31 @@ cd calabssa.be
 npm install
 ```
 
-3. Start the development server:
+3. Set up data (choose one option):
+
+   **Option A: Use sample data** (recommended for contributors)
+   ```bash
+   USE_SAMPLE_DATA=true npm run dev
+   ```
+
+   **Option B: Use your own data**
+   - See [DEPLOYMENT.md](DEPLOYMENT.md) for setting up your own data source
+
+4. Start the development server:
 
 ```bash
 npm run dev
 ```
 
-4. Open [http://localhost:3000](http://localhost:3000) in your browser
+5. Open [http://localhost:3000](http://localhost:3000) in your browser
 
 ### Available Scripts
 
 - `npm run dev` - Start development server
-- `npm run build` - Build for production
+- `npm run build` - Build for production (fetches data then builds)
 - `npm run start` - Start production server
 - `npm run lint` - Run ESLint
+- `npm run fetch-data` - Manually fetch data from configured source
 
 ## 🏗️ Tech Stack
 
@@ -78,14 +89,24 @@ calabssa.be/
 └── next.config.js         # Next.js configuration
 ```
 
-## 📊 Data Sources
+## 📊 Data Architecture
 
-Calendar data is sourced from official ABSSA schedules and processed into iCalendar format. The data includes:
+This repository contains the application code only. Actual match data is stored separately and fetched during build time for security and privacy reasons.
 
+### Sample Data
+The repository includes sample data for development purposes:
+- Sample teams and divisions
+- Example calendar files
+- Test match schedules
+
+### Production Data
+The production deployment uses real ABSSA data:
 - 200+ teams across all divisions
 - Match schedules for the entire season
 - Venue information with GPS coordinates
 - Match officials and contact information
+
+See [DEPLOYMENT.md](DEPLOYMENT.md) for details on deploying with your own data.
 
 ## 🔐 Privacy
 

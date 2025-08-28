@@ -1,0 +1,36 @@
+{
+  "sample_team_1": {
+    "club_id": 1,
+    "team_id": 1,
+    "club_name": "Sample FC",
+    "search_name": "SAMPLE FC - Equipe A",
+    "division": "4A",
+    "game_time": "15:00",
+    "field_id": "T1",
+    "color": "Rouge et Blanc",
+    "secretary": "John Doe",
+    "phone_number": "0470.12.34.56",
+    "email": "secretary@samplefc.be",
+    "artificial_grass": false,
+    "place": "Stade Communal",
+    "municipality_short": "Bruxelles",
+    "address": "Avenue du Sport 1, 1000 Bruxelles"
+  },
+  "sample_team_2": {
+    "club_id": 2,
+    "team_id": 1,
+    "club_name": "Example United",
+    "search_name": "EXAMPLE UNITED - First Team",
+    "division": "3B",
+    "game_time": "14:30",
+    "field_id": "T2",
+    "color": "Bleu et Jaune",
+    "secretary": "Jane Smith",
+    "phone_number": "0471.98.76.54",
+    "email": "contact@exampleunited.be",
+    "artificial_grass": true,
+    "place": "Complexe Sportif",
+    "municipality_short": "Ixelles",
+    "address": "Rue du Sport 50, 1050 Ixelles"
+  }
+}

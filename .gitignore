@@ -27,3 +27,12 @@ yarn-error.log*
 .vscode
 .claude
 CLAUDE.md
+
+# Private data (fetched from GCS at build time)
+/app/data/teams.json
+/app/data/dayDiv.json
+/public/ics/*.ics
+
+# Environment files with sensitive configuration
+.env.local
+.env.production
