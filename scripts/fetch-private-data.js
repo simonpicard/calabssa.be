@@ -90,13 +90,17 @@ async function fetchFromGCS() {
     }
     
     // Get the OIDC token from Vercel
-    const oidcToken = process.env.OIDC_TOKEN_CONTENTS;
+    // Vercel provides this as OIDC_TOKEN when OIDC is enabled
+    const oidcToken = process.env.OIDC_TOKEN;
     
     if (!oidcToken) {
-      console.error('❌ OIDC_TOKEN_CONTENTS not found.');
+      console.error('❌ OIDC_TOKEN not found.');
       console.log('\n💡 Please ensure:');
       console.log('   1. OIDC is enabled in Vercel project settings (Settings → General → OIDC)');
-      console.log('   2. You have added OIDC_TOKEN_CONTENTS=$VERCEL_OIDC_TOKEN in environment variables');
+      console.log('   2. The build is running on Vercel (OIDC_TOKEN is automatically provided)');
+      console.log('\n   Debug info:');
+      console.log('   - VERCEL env:', process.env.VERCEL);
+      console.log('   - VERCEL_ENV:', process.env.VERCEL_ENV);
       throw new Error('OIDC token not available');
     }
     
@@ -106,6 +110,8 @@ async function fetchFromGCS() {
     tokenFile = path.join(os.tmpdir(), `oidc-token-${Date.now()}.txt`);
     
     console.log('📝 Writing OIDC token to temporary file...');
+    console.log('   Token length:', oidcToken.length);
+    console.log('   Token preview:', oidcToken.substring(0, 50) + '...');
     fs.writeFileSync(tokenFile, oidcToken);
     
     // Create external account credentials configuration
