@@ -65,13 +65,20 @@ export default function TeamCalendarClient({ initialData, teamId }: TeamCalendar
     // Calculate statistics
     const nextMatch = futureEvents[0]
     // Simple heuristic: if the team name appears first in summary, it's likely home
-    const homeMatches = allEvents.filter((e) => {
+    const homeMatchesAll = allEvents.filter((e) => {
       const summary = e.summary?.toLowerCase() || ''
       const clubName = teamInfo?.club_name?.toLowerCase() || ''
       const firstTeam = summary.split(' vs ')[0] || summary.split(' - ')[0]
       return firstTeam.includes(clubName)
-    }).length
-    const awayMatches = allEvents.length - homeMatches
+    })
+    const homeMatchesPlayed = homeMatchesAll.filter((e) => new Date(e.dtstart) < now).length
+    const awayMatchesAll = allEvents.filter((e) => {
+      const summary = e.summary?.toLowerCase() || ''
+      const clubName = teamInfo?.club_name?.toLowerCase() || ''
+      const firstTeam = summary.split(' vs ')[0] || summary.split(' - ')[0]
+      return !firstTeam.includes(clubName)
+    })
+    const awayMatchesPlayed = awayMatchesAll.filter((e) => new Date(e.dtstart) < now).length
 
     // Calculate days until next match
     const daysUntilNext = nextMatch
@@ -86,8 +93,10 @@ export default function TeamCalendarClient({ initialData, teamId }: TeamCalendar
         upcomingMatches: futureEvents.length,
         nextMatch,
         daysUntilNext,
-        homeMatches,
-        awayMatches,
+        homeMatchesTotal: homeMatchesAll.length,
+        homeMatchesPlayed,
+        awayMatchesTotal: awayMatchesAll.length,
+        awayMatchesPlayed,
         completion: Math.round((pastEvents.length / allEvents.length) * 100)
       }
     }
@@ -152,28 +161,53 @@ export default function TeamCalendarClient({ initialData, teamId }: TeamCalendar
 
       {/* Team Information Cards */}
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 mb-8">
+        {/* Total Matches */}
+        <div className="bg-white rounded-lg shadow-sm p-4 border border-gray-200">
+          <p className="text-sm text-gray-600 mb-1">Total de la saison</p>
+          <p className="text-3xl font-bold text-gray-900">{stats.totalMatches}</p>
+          <p className="text-sm text-gray-600">matchs</p>
+        </div>
+
         {teamInfo && (
           <>
             {/* Field Info */}
             {(teamInfo.place || teamInfo.municipality_short || teamInfo.field_id) && (
-              <div className="bg-white rounded-lg shadow-sm p-4 border border-gray-200">
-                <div className="flex items-start justify-between">
-                  <div>
-                    <p className="text-sm text-gray-600 mb-1">Terrain habituel</p>
-                    <p className="font-semibold text-gray-900">
-                      {teamInfo.place || <span className="text-gray-500 italic">Nom du terrain indisponible</span>}
-                    </p>
-                    {teamInfo.municipality_short && (
-                      <p className="text-sm text-gray-600">{teamInfo.municipality_short}</p>
-                    )}
-                    {teamInfo.artificial_grass && (
-                      <span className="inline-block mt-2 px-2 py-1 bg-green-100 text-green-700 text-xs rounded-full">
-                        🌱 Synthétique
-                      </span>
-                    )}
-                  </div>
+              teamInfo.address ? (
+                <a
+                  href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(teamInfo.address)}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="block bg-white rounded-lg shadow-sm p-4 border border-gray-200 hover:border-sky-300 hover:shadow-md transition-all cursor-pointer"
+                >
+                  <p className="text-sm text-gray-600 mb-1">Terrain habituel</p>
+                  <p className="font-semibold text-gray-900">
+                    {teamInfo.place || <span className="text-gray-500 italic">Nom du terrain indisponible</span>}
+                  </p>
+                  {teamInfo.municipality_short && (
+                    <p className="text-sm text-gray-600">{teamInfo.municipality_short}</p>
+                  )}
+                  {teamInfo.artificial_grass && (
+                    <span className="inline-block mt-2 px-2 py-1 bg-green-100 text-green-700 text-xs rounded-full">
+                      🌱 Synthétique
+                    </span>
+                  )}
+                </a>
+              ) : (
+                <div className="bg-white rounded-lg shadow-sm p-4 border border-gray-200">
+                  <p className="text-sm text-gray-600 mb-1">Terrain habituel</p>
+                  <p className="font-semibold text-gray-900">
+                    {teamInfo.place || <span className="text-gray-500 italic">Nom du terrain indisponible</span>}
+                  </p>
+                  {teamInfo.municipality_short && (
+                    <p className="text-sm text-gray-600">{teamInfo.municipality_short}</p>
+                  )}
+                  {teamInfo.artificial_grass && (
+                    <span className="inline-block mt-2 px-2 py-1 bg-green-100 text-green-700 text-xs rounded-full">
+                      🌱 Synthétique
+                    </span>
+                  )}
                 </div>
-              </div>
+              )
             )}
 
             {/* Colors */}
@@ -212,23 +246,12 @@ export default function TeamCalendarClient({ initialData, teamId }: TeamCalendar
                 )}
               </div>
             )}
-
-            {/* Stats Summary */}
-            <div className="bg-white rounded-lg shadow-sm p-4 border border-gray-200">
-              <p className="text-sm text-gray-600 mb-1">Progression</p>
-              <p className="text-2xl font-bold text-sky-600">{stats.completion}%</p>
-              <p className="text-sm text-gray-600">de la saison</p>
-            </div>
           </>
         )}
       </div>
 
       {/* Stats Cards */}
       <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-        <div className="bg-white rounded-lg shadow-sm p-4 border border-gray-200">
-          <p className="text-3xl font-bold text-gray-900">{stats.totalMatches}</p>
-          <p className="text-sm text-gray-600 mt-1">Matchs au total</p>
-        </div>
         <div className="bg-white rounded-lg shadow-sm p-4 border border-gray-200">
           <p className="text-3xl font-bold text-green-600">{stats.upcomingMatches}</p>
           <p className="text-sm text-gray-600 mt-1">Matchs à venir</p>
@@ -238,12 +261,12 @@ export default function TeamCalendarClient({ initialData, teamId }: TeamCalendar
           <p className="text-sm text-gray-600 mt-1">Matchs joués</p>
         </div>
         <div className="bg-white rounded-lg shadow-sm p-4 border border-gray-200">
-          <div className="flex justify-between items-center">
-            <span className="text-lg font-semibold">🏠 {stats.homeMatches}</span>
-            <span className="text-sm text-gray-500">vs</span>
-            <span className="text-lg font-semibold">{stats.awayMatches} 🚌</span>
-          </div>
-          <p className="text-sm text-gray-600 mt-1 text-center">Domicile / Extérieur</p>
+          <p className="text-3xl font-bold text-gray-900">{stats.homeMatchesPlayed}/{stats.homeMatchesTotal}</p>
+          <p className="text-sm text-gray-600 mt-1">🏠 Matchs à domicile</p>
+        </div>
+        <div className="bg-white rounded-lg shadow-sm p-4 border border-gray-200">
+          <p className="text-3xl font-bold text-gray-900">{stats.awayMatchesPlayed}/{stats.awayMatchesTotal}</p>
+          <p className="text-sm text-gray-600 mt-1">🚌 Matchs à l'extérieur</p>
         </div>
       </div>
 
