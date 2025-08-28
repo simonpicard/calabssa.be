@@ -135,18 +135,12 @@ async function getAuthenticatedStorage() {
       );
     }
 
-    // Create token supplier function
+    // Create token supplier function that returns the OIDC token
     async function getSubjectTokenFunc(context) {
       console.log("📤 Supplying OIDC token for audience:", context.audience);
-      // For build scripts, we use the environment variable
-      // (for runtime functions, you'd use getContext().headers['x-vercel-oidc-token'])
-      const token = process.env.VERCEL_OIDC_TOKEN;
-      if (!token) {
-        throw new Error(
-          "VERCEL_OIDC_TOKEN is missing. Do you have the OIDC option enabled in the Vercel project settings?"
-        );
-      }
-      return token;
+      console.log("🔍 Token being supplied starts with:", oidcToken.substring(0, 50) + "...");
+      // Return the same token we already validated above
+      return oidcToken;
     }
 
     try {
@@ -166,6 +160,22 @@ async function getAuthenticatedStorage() {
         },
       });
 
+      console.log("✅ AuthClient created successfully");
+      
+      // Try to get an access token to verify auth is working
+      try {
+        console.log("🔐 Testing authentication by getting access token...");
+        const accessToken = await authClient.getAccessToken();
+        console.log("✅ Access token obtained successfully");
+        console.log("🔍 Token type:", typeof accessToken);
+        if (accessToken && typeof accessToken === 'object' && 'token' in accessToken) {
+          console.log("🔍 Token length:", accessToken.token?.length);
+        }
+      } catch (tokenError) {
+        console.error("❌ Failed to get access token:", tokenError.message);
+        throw tokenError;
+      }
+      
       console.log("🚀 Initializing Storage client...");
       const storage = new Storage({
         projectId: GCP_PROJECT_ID,
