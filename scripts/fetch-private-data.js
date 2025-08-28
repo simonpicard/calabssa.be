@@ -1,5 +1,9 @@
 const { Storage } = require("@google-cloud/storage");
-const { ExternalAccountClient, GoogleAuth, OAuth2Client } = require("google-auth-library");
+const {
+  ExternalAccountClient,
+  GoogleAuth,
+  OAuth2Client,
+} = require("google-auth-library");
 const fs = require("fs").promises;
 const path = require("path");
 
@@ -172,26 +176,24 @@ async function getAuthenticatedStorage() {
         const tokenResponse = await authClient.getAccessToken();
         accessToken = tokenResponse.token;
         console.log("✅ Access token obtained successfully");
-        console.log("🔍 Token starts with:", accessToken.substring(0, 20) + "...");
+        console.log(
+          "🔍 Token starts with:",
+          accessToken.substring(0, 20) + "..."
+        );
       } catch (tokenError) {
         console.error("❌ Failed to get access token:", tokenError.message);
         console.error("🔍 Error details:", tokenError);
         throw tokenError;
       }
 
+      console.log("authClient", authClient);
+
       console.log("🚀 Initializing Storage client...");
 
-      // Create an OAuth2Client with the access token
-      const oauth2Client = new OAuth2Client();
-      oauth2Client.setCredentials({
-        access_token: accessToken,
-        token_type: 'Bearer',
-      });
-
       // Use the OAuth2Client with Storage
-      const storage = new Storage({ 
+      const storage = new Storage({
         projectId: GCP_PROJECT_ID,
-        authClient: oauth2Client
+        authClient: authClient,
       });
 
       return storage;
