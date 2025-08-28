@@ -138,7 +138,10 @@ async function getAuthenticatedStorage() {
     // Create token supplier function that returns the OIDC token
     async function getSubjectTokenFunc(context) {
       console.log("📤 Supplying OIDC token for audience:", context.audience);
-      console.log("🔍 Token being supplied starts with:", oidcToken.substring(0, 50) + "...");
+      console.log(
+        "🔍 Token being supplied starts with:",
+        oidcToken.substring(0, 50) + "..."
+      );
       // Return the same token we already validated above
       return oidcToken;
     }
@@ -161,24 +164,26 @@ async function getAuthenticatedStorage() {
       });
 
       console.log("✅ AuthClient created successfully");
-      
+
       // Try to get an access token to verify auth is working
       try {
         console.log("🔐 Testing authentication by getting access token...");
         const accessToken = await authClient.getAccessToken();
         console.log("✅ Access token obtained successfully");
-        console.log("🔍 Full accessToken response:", JSON.stringify(accessToken, null, 2));
+        console.log(
+          "🔍 Full accessToken response:",
+          JSON.stringify(accessToken, null, 2)
+        );
       } catch (tokenError) {
         console.error("❌ Failed to get access token:", tokenError.message);
         console.error("🔍 Error details:", tokenError);
         throw tokenError;
       }
-      
+
       console.log("🚀 Initializing Storage client...");
-      
+
       // Pass the authClient directly to Storage
       const storage = new Storage({
-        projectId: GCP_PROJECT_ID,
         authClient: authClient,
       });
 
