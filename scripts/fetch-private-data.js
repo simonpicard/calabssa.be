@@ -167,20 +167,25 @@ async function getAuthenticatedStorage() {
         console.log("🔐 Testing authentication by getting access token...");
         const accessToken = await authClient.getAccessToken();
         console.log("✅ Access token obtained successfully");
-        console.log("🔍 Token type:", typeof accessToken);
-        if (accessToken && typeof accessToken === 'object' && 'token' in accessToken) {
-          console.log("🔍 Token length:", accessToken.token?.length);
-        }
+        console.log("🔍 Full accessToken response:", JSON.stringify(accessToken, null, 2));
       } catch (tokenError) {
         console.error("❌ Failed to get access token:", tokenError.message);
+        console.error("🔍 Error details:", tokenError);
         throw tokenError;
       }
       
       console.log("🚀 Initializing Storage client...");
+      // Pass the authClient directly
       const storage = new Storage({
         projectId: GCP_PROJECT_ID,
         authClient: authClient,
       });
+      
+      // Alternative: Try setting credentials explicitly
+      // const storage = new Storage({
+      //   projectId: GCP_PROJECT_ID,
+      //   credentials: authClient,
+      // });
 
       return storage;
     } catch (error) {
