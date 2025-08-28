@@ -220,17 +220,20 @@ export default function TeamCalendarClient({ initialData, teamId }: TeamCalendar
 
             {/* Secretary */}
             {teamInfo.secretary && (
-              <div className="bg-white rounded-lg shadow-sm p-4 border border-gray-200">
-                <p className="text-sm text-gray-600 mb-1">Secrétaire</p>
-                <p className="font-semibold text-gray-900">{teamInfo.secretary}</p>
-                {!showContact ? (
-                  <button
-                    onClick={() => setShowContact(true)}
-                    className="mt-2 text-sm text-sky-600 hover:text-sky-700 underline cursor-pointer"
-                  >
-                    Afficher les contacts
+              !showContact ? (
+                <div className="bg-white rounded-lg shadow-sm p-4 border border-gray-200 hover:border-sky-300 hover:shadow-md transition-all cursor-pointer"
+                  onClick={() => setShowContact(true)}
+                >
+                  <p className="text-sm text-gray-600 mb-1">Secrétaire</p>
+                  <p className="font-semibold text-gray-900">{teamInfo.secretary}</p>
+                  <button className="mt-2 text-sm text-sky-600">
+                    Cliquer pour afficher les contacts
                   </button>
-                ) : (
+                </div>
+              ) : (
+                <div className="bg-white rounded-lg shadow-sm p-4 border border-gray-200">
+                  <p className="text-sm text-gray-600 mb-1">Secrétaire</p>
+                  <p className="font-semibold text-gray-900">{teamInfo.secretary}</p>
                   <div className="space-y-1 mt-2">
                     {teamInfo.phone_number && (
                       <a href={`tel:${teamInfo.phone_number}`} className="block text-sm text-sky-600 hover:underline">
@@ -243,8 +246,8 @@ export default function TeamCalendarClient({ initialData, teamId }: TeamCalendar
                       </a>
                     )}
                   </div>
-                )}
-              </div>
+                </div>
+              )
             )}
           </>
         )}
