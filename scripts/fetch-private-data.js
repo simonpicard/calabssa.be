@@ -73,6 +73,7 @@ async function fetchFromGCS() {
   console.log('☁️  Fetching private data from Google Cloud Storage...');
   
   let storage;
+  let tokenFile = null; // Track token file for cleanup
   
   // Check if we're in Vercel environment
   const isVercel = process.env.VERCEL || process.env.VERCEL_ENV;
@@ -95,43 +96,43 @@ async function fetchFromGCS() {
       console.error('❌ OIDC_TOKEN_CONTENTS not found.');
       console.log('\n💡 Please ensure:');
       console.log('   1. OIDC is enabled in Vercel project settings (Settings → General → OIDC)');
-      console.log('   2. You have configured OIDC_TOKEN_CONTENTS in environment variables');
+      console.log('   2. You have added OIDC_TOKEN_CONTENTS=$VERCEL_OIDC_TOKEN in environment variables');
       throw new Error('OIDC token not available');
     }
     
     // Write OIDC token to a temporary file for authentication
     const fs = require('fs');
     const os = require('os');
-    const tokenFile = `${os.tmpdir()}/oidc-token-${Date.now()}.txt`;
+    tokenFile = path.join(os.tmpdir(), `oidc-token-${Date.now()}.txt`);
+    
+    console.log('📝 Writing OIDC token to temporary file...');
     fs.writeFileSync(tokenFile, oidcToken);
+    
+    // Create external account credentials configuration
+    const credentials = {
+      type: 'external_account',
+      audience: `//iam.googleapis.com/${workloadIdentityProvider}`,
+      subject_token_type: 'urn:ietf:params:oauth:token-type:jwt',
+      token_url: 'https://sts.googleapis.com/v1/token',
+      credential_source: {
+        file: tokenFile,
+        format: {
+          type: 'text'
+        }
+      },
+      service_account_impersonation_url: `https://iamcredentials.googleapis.com/v1/projects/-/serviceAccounts/${serviceAccount}:generateAccessToken`
+    };
     
     // Create auth client with Workload Identity Federation
     const auth = new GoogleAuth({
       projectId: GCP_PROJECT_ID,
-      credentials: {
-        type: 'external_account',
-        audience: `//iam.googleapis.com/${workloadIdentityProvider}`,
-        subject_token_type: 'urn:ietf:params:oauth:token-type:jwt',
-        token_url: 'https://sts.googleapis.com/v1/token',
-        credential_source: {
-          file: tokenFile,
-          format: {
-            type: 'text'
-          }
-        },
-        service_account_impersonation: {
-          service_account_impersonation_url: `https://iamcredentials.googleapis.com/v1/projects/-/serviceAccounts/${serviceAccount}:generateAccessToken`,
-        }
-      }
+      credentials: credentials
     });
     
     storage = new Storage({
       projectId: GCP_PROJECT_ID,
       authClient: await auth.getClient(),
     });
-    
-    // Clean up token file
-    fs.unlinkSync(tokenFile);
   } else {
     console.log('🔑 Using Application Default Credentials (local environment)');
     
@@ -193,7 +194,25 @@ async function fetchFromGCS() {
       console.log('   Option 3: Use USE_SAMPLE_DATA=true to use sample data instead');
     }
     
+    // Clean up token file if it exists
+    if (tokenFile) {
+      const fs = require('fs');
+      if (fs.existsSync(tokenFile)) {
+        console.log('🧹 Cleaning up temporary token file');
+        fs.unlinkSync(tokenFile);
+      }
+    }
+    
     throw error;
+  }
+  
+  // Clean up token file after successful operation
+  if (tokenFile) {
+    const fs = require('fs');
+    if (fs.existsSync(tokenFile)) {
+      console.log('🧹 Cleaning up temporary token file');
+      fs.unlinkSync(tokenFile);
+    }
   }
 }
 
