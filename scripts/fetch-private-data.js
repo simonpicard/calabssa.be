@@ -183,9 +183,7 @@ async function getAuthenticatedStorage() {
       console.log("🚀 Initializing Storage client...");
 
       // Pass the authClient directly to Storage
-      const storage = new Storage({
-        authClient: authClient,
-      });
+      const storage = new Storage({ authClient });
 
       return storage;
     } catch (error) {
