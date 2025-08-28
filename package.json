@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@google-cloud/storage": "^7.17.0",
+    "@vercel/functions": "^2.2.13",
     "cal-parser": "^1.0.2",
     "google-auth-library": "^10.3.0",
     "leaflet": "^1.9.4",

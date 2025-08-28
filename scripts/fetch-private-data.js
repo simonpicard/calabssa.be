@@ -1,5 +1,5 @@
 const { Storage } = require('@google-cloud/storage');
-const { GoogleAuth } = require('google-auth-library');
+const { GoogleAuth, ExternalAccountClient } = require('google-auth-library');
 const fs = require('fs').promises;
 const path = require('path');
 
@@ -17,6 +17,10 @@ if (!process.env.VERCEL && !process.env.CI) {
 const USE_SAMPLE_DATA = process.env.USE_SAMPLE_DATA === 'true';
 const GCS_BUCKET_NAME = process.env.GCS_BUCKET_NAME;
 const GCP_PROJECT_ID = process.env.GCP_PROJECT_ID;
+const GCP_PROJECT_NUMBER = process.env.GCP_PROJECT_NUMBER;
+const GCP_SERVICE_ACCOUNT_EMAIL = process.env.GCP_SERVICE_ACCOUNT_EMAIL || process.env.GCP_SERVICE_ACCOUNT; // Support both names
+const GCP_WORKLOAD_IDENTITY_POOL_ID = process.env.GCP_WORKLOAD_IDENTITY_POOL_ID;
+const GCP_WORKLOAD_IDENTITY_POOL_PROVIDER_ID = process.env.GCP_WORKLOAD_IDENTITY_POOL_PROVIDER_ID;
 
 // Paths
 const DATA_DIR = path.join(__dirname, '..', 'app', 'data');
@@ -81,64 +85,74 @@ async function fetchFromGCS() {
   if (isVercel) {
     console.log('🔐 Using Workload Identity Federation (Vercel environment)');
     
-    // Get the required environment variables
-    const serviceAccount = process.env.GCP_SERVICE_ACCOUNT;
-    const workloadIdentityProvider = process.env.GCP_WORKLOAD_IDENTITY_PROVIDER;
-    
-    if (!serviceAccount || !workloadIdentityProvider) {
-      throw new Error('Missing required environment variables for Workload Identity Federation');
+    if (!GCP_SERVICE_ACCOUNT_EMAIL) {
+      throw new Error('Missing GCP_SERVICE_ACCOUNT_EMAIL environment variable');
     }
     
-    // Get the OIDC token from Vercel
-    // Vercel provides this as OIDC_TOKEN when OIDC is enabled
-    const oidcToken = process.env.OIDC_TOKEN;
-    
-    if (!oidcToken) {
-      console.error('❌ OIDC_TOKEN not found.');
-      console.log('\n💡 Please ensure:');
-      console.log('   1. OIDC is enabled in Vercel project settings (Settings → General → OIDC)');
-      console.log('   2. The build is running on Vercel (OIDC_TOKEN is automatically provided)');
-      console.log('\n   Debug info:');
-      console.log('   - VERCEL env:', process.env.VERCEL);
-      console.log('   - VERCEL_ENV:', process.env.VERCEL_ENV);
-      throw new Error('OIDC token not available');
+    try {
+      // Try the new approach with @vercel/functions
+      const { getVercelOidcToken } = require('@vercel/functions/oidc');
+      
+      console.log('📝 Using @vercel/functions for OIDC token...');
+      
+      // Initialize the External Account Client following Vercel's documentation
+      const authClient = ExternalAccountClient.fromJSON({
+        type: 'external_account',
+        audience: `//iam.googleapis.com/projects/${GCP_PROJECT_NUMBER}/locations/global/workloadIdentityPools/${GCP_WORKLOAD_IDENTITY_POOL_ID}/providers/${GCP_WORKLOAD_IDENTITY_POOL_PROVIDER_ID}`,
+        subject_token_type: 'urn:ietf:params:oauth:token-type:jwt',
+        token_url: 'https://sts.googleapis.com/v1/token',
+        service_account_impersonation_url: `https://iamcredentials.googleapis.com/v1/projects/-/serviceAccounts/${GCP_SERVICE_ACCOUNT_EMAIL}:generateAccessToken`,
+        subject_token_supplier: {
+          // Use the Vercel OIDC token as the subject token
+          getSubjectToken: getVercelOidcToken,
+        },
+      });
+      
+      storage = new Storage({
+        projectId: GCP_PROJECT_ID,
+        authClient: authClient,
+      });
+      
+    } catch (e) {
+      // Fallback to environment variable approach
+      console.log('⚠️  @vercel/functions not available, trying OIDC_TOKEN env var...');
+      
+      const oidcToken = process.env.OIDC_TOKEN;
+      
+      if (!oidcToken) {
+        console.error('❌ OIDC_TOKEN not found.');
+        console.log('\n💡 Please ensure:');
+        console.log('   1. OIDC is enabled in Vercel project settings');
+        console.log('   2. The build is running on Vercel');
+        throw new Error('OIDC token not available');
+      }
+      
+      // Write OIDC token to a temporary file
+      const fsSync = require('fs');
+      const os = require('os');
+      tokenFile = path.join(os.tmpdir(), `oidc-token-${Date.now()}.txt`);
+      fsSync.writeFileSync(tokenFile, oidcToken);
+      
+      // Create auth client with file-based approach
+      const authClient = ExternalAccountClient.fromJSON({
+        type: 'external_account',
+        audience: `//iam.googleapis.com/projects/${GCP_PROJECT_NUMBER}/locations/global/workloadIdentityPools/${GCP_WORKLOAD_IDENTITY_POOL_ID}/providers/${GCP_WORKLOAD_IDENTITY_POOL_PROVIDER_ID}`,
+        subject_token_type: 'urn:ietf:params:oauth:token-type:jwt',
+        token_url: 'https://sts.googleapis.com/v1/token',
+        credential_source: {
+          file: tokenFile,
+          format: {
+            type: 'text'
+          }
+        },
+        service_account_impersonation_url: `https://iamcredentials.googleapis.com/v1/projects/-/serviceAccounts/${GCP_SERVICE_ACCOUNT}:generateAccessToken`
+      });
+      
+      storage = new Storage({
+        projectId: GCP_PROJECT_ID,
+        authClient: authClient,
+      });
     }
-    
-    // Write OIDC token to a temporary file for authentication
-    const fs = require('fs');
-    const os = require('os');
-    tokenFile = path.join(os.tmpdir(), `oidc-token-${Date.now()}.txt`);
-    
-    console.log('📝 Writing OIDC token to temporary file...');
-    console.log('   Token length:', oidcToken.length);
-    console.log('   Token preview:', oidcToken.substring(0, 50) + '...');
-    fs.writeFileSync(tokenFile, oidcToken);
-    
-    // Create external account credentials configuration
-    const credentials = {
-      type: 'external_account',
-      audience: `//iam.googleapis.com/${workloadIdentityProvider}`,
-      subject_token_type: 'urn:ietf:params:oauth:token-type:jwt',
-      token_url: 'https://sts.googleapis.com/v1/token',
-      credential_source: {
-        file: tokenFile,
-        format: {
-          type: 'text'
-        }
-      },
-      service_account_impersonation_url: `https://iamcredentials.googleapis.com/v1/projects/-/serviceAccounts/${serviceAccount}:generateAccessToken`
-    };
-    
-    // Create auth client with Workload Identity Federation
-    const auth = new GoogleAuth({
-      projectId: GCP_PROJECT_ID,
-      credentials: credentials
-    });
-    
-    storage = new Storage({
-      projectId: GCP_PROJECT_ID,
-      authClient: await auth.getClient(),
-    });
   } else {
     console.log('🔑 Using Application Default Credentials (local environment)');
     
