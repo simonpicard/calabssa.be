@@ -286,7 +286,7 @@ export default function TeamCalendarClient({ initialData, teamId }: TeamCalendar
       </div>
 
       {/* Options */}
-      <div className="flex justify-between items-center mb-6">
+      <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center gap-3 mb-6">
         <h2 className="text-xl font-semibold text-gray-900">Calendrier des matchs</h2>
         <Toggle state={showPast} setState={setShowPast}>
           Afficher les matches passés
