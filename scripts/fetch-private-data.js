@@ -192,10 +192,7 @@ async function getAuthenticatedStorage() {
       console.log("🚀 Initializing Storage client...");
 
       // Use the OAuth2Client with Storage
-      const storage = new Storage({
-        projectId: GCP_PROJECT_ID,
-        authClient: authClient,
-      });
+      const storage = new Storage({ authClient });
 
       return storage;
     } catch (error) {
