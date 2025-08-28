@@ -171,21 +171,21 @@ async function getAuthenticatedStorage() {
       console.log("✅ AuthClient created successfully");
 
       // Get an access token to use directly
-      let accessToken;
-      try {
-        console.log("🔐 Getting access token for direct authentication...");
-        const tokenResponse = await authClient.getAccessToken();
-        accessToken = tokenResponse.token;
-        console.log("✅ Access token obtained successfully");
-        console.log(
-          "🔍 Token starts with:",
-          accessToken.substring(0, 20) + "..."
-        );
-      } catch (tokenError) {
-        console.error("❌ Failed to get access token:", tokenError.message);
-        console.error("🔍 Error details:", tokenError);
-        throw tokenError;
-      }
+      // let accessToken;
+      // try {
+      //   console.log("🔐 Getting access token for direct authentication...");
+      //   const tokenResponse = await authClient.getAccessToken();
+      //   accessToken = tokenResponse.token;
+      //   console.log("✅ Access token obtained successfully");
+      //   console.log(
+      //     "🔍 Token starts with:",
+      //     accessToken.substring(0, 20) + "..."
+      //   );
+      // } catch (tokenError) {
+      //   console.error("❌ Failed to get access token:", tokenError.message);
+      //   console.error("🔍 Error details:", tokenError);
+      //   throw tokenError;
+      // }
 
       console.log("authClient", authClient);
 
