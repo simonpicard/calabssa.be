@@ -71,6 +71,11 @@ async function getAuthenticatedStorage() {
     // Check required environment variables
     if (!GCP_PROJECT_NUMBER || !GCP_SERVICE_ACCOUNT_EMAIL || 
         !GCP_WORKLOAD_IDENTITY_POOL_ID || !GCP_WORKLOAD_IDENTITY_POOL_PROVIDER_ID) {
+      console.error('Missing environment variables:');
+      console.error('  GCP_PROJECT_NUMBER:', GCP_PROJECT_NUMBER ? '✓' : '✗');
+      console.error('  GCP_SERVICE_ACCOUNT_EMAIL:', GCP_SERVICE_ACCOUNT_EMAIL ? '✓' : '✗');
+      console.error('  GCP_WORKLOAD_IDENTITY_POOL_ID:', GCP_WORKLOAD_IDENTITY_POOL_ID ? '✓' : '✗');
+      console.error('  GCP_WORKLOAD_IDENTITY_POOL_PROVIDER_ID:', GCP_WORKLOAD_IDENTITY_POOL_PROVIDER_ID ? '✓' : '✗');
       throw new Error('Missing required GCP environment variables for Workload Identity Federation');
     }
     
@@ -82,6 +87,24 @@ async function getAuthenticatedStorage() {
     
     console.log('🎫 Using VERCEL_OIDC_TOKEN for authentication');
     console.log('📊 Config: Pool=' + GCP_WORKLOAD_IDENTITY_POOL_ID + ', Provider=' + GCP_WORKLOAD_IDENTITY_POOL_PROVIDER_ID);
+    console.log('🔑 Service Account:', GCP_SERVICE_ACCOUNT_EMAIL);
+    console.log('📍 Token length:', oidcToken.length, 'chars');
+    
+    // Debug token format (JWT should have 3 parts separated by dots)
+    const tokenParts = oidcToken.split('.');
+    if (tokenParts.length === 3) {
+      console.log('✅ Token appears to be a valid JWT');
+      try {
+        const payload = JSON.parse(Buffer.from(tokenParts[1], 'base64').toString());
+        console.log('🔍 JWT issuer:', payload.iss);
+        console.log('🔍 JWT subject:', payload.sub);
+        console.log('🔍 JWT audience:', payload.aud);
+      } catch (e) {
+        console.log('⚠️  Could not decode JWT payload');
+      }
+    } else {
+      console.log('⚠️  Token does not appear to be a JWT (parts:', tokenParts.length, ')')
+    }
     
     // Write token to temporary file for credential_source
     const fs = require('fs');
@@ -90,8 +113,7 @@ async function getAuthenticatedStorage() {
     fs.writeFileSync(tokenFile, oidcToken);
     
     try {
-      // Create the external account configuration WITHOUT service account impersonation
-      // The workload identity pool should directly have access to the resources
+      // Create the external account configuration with service account impersonation
       const externalAccountConfig = {
         type: 'external_account',
         audience: `//iam.googleapis.com/projects/${GCP_PROJECT_NUMBER}/locations/global/workloadIdentityPools/${GCP_WORKLOAD_IDENTITY_POOL_ID}/providers/${GCP_WORKLOAD_IDENTITY_POOL_PROVIDER_ID}`,
@@ -102,8 +124,11 @@ async function getAuthenticatedStorage() {
           format: {
             type: 'text'
           }
+        },
+        service_account_impersonation_url: `https://iamcredentials.googleapis.com/v1/projects/-/serviceAccounts/${GCP_SERVICE_ACCOUNT_EMAIL}:generateAccessToken`,
+        service_account_impersonation: {
+          token_lifetime_seconds: 3600
         }
-        // Removed service_account_impersonation_url - we'll grant permissions directly to the pool
       };
       
       console.log('🔧 Creating ExternalAccountClient...');
