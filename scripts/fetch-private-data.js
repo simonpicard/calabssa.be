@@ -1,5 +1,5 @@
 const { Storage } = require("@google-cloud/storage");
-const { ExternalAccountClient, GoogleAuth } = require("google-auth-library");
+const { ExternalAccountClient, GoogleAuth, OAuth2Client } = require("google-auth-library");
 const fs = require("fs").promises;
 const path = require("path");
 
@@ -165,15 +165,14 @@ async function getAuthenticatedStorage() {
 
       console.log("✅ AuthClient created successfully");
 
-      // Try to get an access token to verify auth is working
+      // Get an access token to use directly
+      let accessToken;
       try {
-        console.log("🔐 Testing authentication by getting access token...");
-        const accessToken = await authClient.getAccessToken();
+        console.log("🔐 Getting access token for direct authentication...");
+        const tokenResponse = await authClient.getAccessToken();
+        accessToken = tokenResponse.token;
         console.log("✅ Access token obtained successfully");
-        console.log(
-          "🔍 Full accessToken response:",
-          JSON.stringify(accessToken, null, 2)
-        );
+        console.log("🔍 Token starts with:", accessToken.substring(0, 20) + "...");
       } catch (tokenError) {
         console.error("❌ Failed to get access token:", tokenError.message);
         console.error("🔍 Error details:", tokenError);
@@ -182,15 +181,18 @@ async function getAuthenticatedStorage() {
 
       console.log("🚀 Initializing Storage client...");
 
-      // Pass authClient to Storage - it expects AuthClient or GoogleAuth
+      // Create an OAuth2Client with the access token
+      const oauth2Client = new OAuth2Client();
+      oauth2Client.setCredentials({
+        access_token: accessToken,
+        token_type: 'Bearer',
+      });
+
+      // Use the OAuth2Client with Storage
       const storage = new Storage({ 
         projectId: GCP_PROJECT_ID,
-        authClient: authClient 
+        authClient: oauth2Client
       });
-      
-      // Debug: Check storage client configuration
-      console.log("🔍 Storage authClient type:", storage.authClient?.constructor?.name);
-      console.log("🔍 Storage projectId:", storage.projectId);
 
       return storage;
     } catch (error) {
