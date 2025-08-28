@@ -1,4 +1,3 @@
-const { Storage } = require("@google-cloud/storage");
 const {
   ExternalAccountClient,
   Impersonated,
@@ -66,7 +65,7 @@ async function copySampleData() {
   }
 }
 
-async function getAuthenticatedStorage() {
+async function getAuthenticatedClient() {
   const isVercel = process.env.VERCEL === "1";
 
   if (isVercel) {
@@ -177,15 +176,8 @@ async function getAuthenticatedStorage() {
 
       console.log("✅ Impersonated client created successfully");
 
-      console.log("🚀 Initializing Storage client...");
-
-      // Use the impersonated client with Storage
-      const storage = new Storage({ 
-        projectId: GCP_PROJECT_ID,
-        authClient: impersonatedClient 
-      });
-
-      return storage;
+      // Return the impersonated client directly
+      return impersonatedClient;
     } catch (error) {
       console.error("❌ Auth error details:", error.message);
       throw error;
@@ -194,9 +186,12 @@ async function getAuthenticatedStorage() {
     console.log("🔑 Using Application Default Credentials (local environment)");
 
     // For local development, use gcloud auth or service account key
-    return new Storage({
+    const { GoogleAuth } = require("google-auth-library");
+    const auth = new GoogleAuth({
       projectId: GCP_PROJECT_ID,
+      scopes: ["https://www.googleapis.com/auth/cloud-platform"],
     });
+    return auth.getClient();
   }
 }
 
@@ -211,17 +206,37 @@ async function fetchFromGCS() {
   console.log("☁️  Fetching private data from Google Cloud Storage...");
   console.log(`📦 Bucket: ${GCS_BUCKET_NAME}`);
 
-  const storage = await getAuthenticatedStorage();
-  const bucket = storage.bucket(GCS_BUCKET_NAME);
+  const authClient = await getAuthenticatedClient();
+  
+  // Get an access token
+  console.log("🔐 Getting access token...");
+  const tokenResponse = await authClient.getAccessToken();
+  const accessToken = tokenResponse.token || tokenResponse;
+  console.log("✅ Got access token");
 
-  // Test bucket access first
-  try {
-    console.log("\n🔍 Testing bucket access...");
-    const [exists] = await bucket.exists();
-    console.log("✅ Bucket exists:", exists);
-  } catch (error) {
-    console.error("❌ Bucket access error:", error.message);
-    throw error;
+  // Use fetch with bearer token for direct API calls
+  const https = require('https');
+  const fetch = require('node-fetch');
+
+  async function downloadFile(sourcePath, destPath) {
+    const encodedPath = encodeURIComponent(sourcePath);
+    const url = `https://storage.googleapis.com/storage/v1/b/${GCS_BUCKET_NAME}/o/${encodedPath}?alt=media`;
+    
+    console.log(`  • Downloading ${sourcePath}...`);
+    
+    const response = await fetch(url, {
+      headers: {
+        'Authorization': `Bearer ${accessToken}`
+      },
+      agent: new https.Agent({ rejectUnauthorized: true })
+    });
+
+    if (!response.ok) {
+      throw new Error(`Failed to download ${sourcePath}: ${response.status} ${response.statusText}`);
+    }
+
+    const buffer = await response.buffer();
+    await fs.writeFile(destPath, buffer);
   }
 
   // Download JSON data files
@@ -233,15 +248,27 @@ async function fetchFromGCS() {
   ];
 
   for (const file of dataFiles) {
-    console.log(`  • Downloading ${file.source}...`);
-    await bucket.file(file.source).download({ destination: file.dest });
+    await downloadFile(file.source, file.dest);
   }
   console.log("✅ Data files downloaded");
 
-  // Download ICS files
+  // List and download ICS files
   console.log("\n📥 Downloading calendar files...");
 
-  const [files] = await bucket.getFiles({ prefix: "ics/" });
+  // List files in ics/ prefix
+  const listUrl = `https://storage.googleapis.com/storage/v1/b/${GCS_BUCKET_NAME}/o?prefix=ics/`;
+  const listResponse = await fetch(listUrl, {
+    headers: {
+      'Authorization': `Bearer ${accessToken}`
+    }
+  });
+
+  if (!listResponse.ok) {
+    throw new Error(`Failed to list files: ${listResponse.status} ${listResponse.statusText}`);
+  }
+
+  const listData = await listResponse.json();
+  const files = listData.items || [];
   console.log(`  • Found ${files.length} calendar files`);
 
   let downloaded = 0;
@@ -249,7 +276,7 @@ async function fetchFromGCS() {
     const fileName = path.basename(file.name);
     if (fileName && fileName.endsWith(".ics")) {
       const destPath = path.join(ICS_DIR, fileName);
-      await file.download({ destination: destPath });
+      await downloadFile(file.name, destPath);
       downloaded++;
 
       // Show progress every 50 files
