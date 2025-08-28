@@ -81,6 +81,7 @@ async function getAuthenticatedStorage() {
     }
     
     console.log('🎫 Using VERCEL_OIDC_TOKEN for authentication');
+    console.log('📊 Config: Pool=' + GCP_WORKLOAD_IDENTITY_POOL_ID + ', Provider=' + GCP_WORKLOAD_IDENTITY_POOL_PROVIDER_ID);
     
     // Write token to temporary file for credential_source
     const fs = require('fs');
@@ -89,8 +90,9 @@ async function getAuthenticatedStorage() {
     fs.writeFileSync(tokenFile, oidcToken);
     
     try {
-      // Create External Account Client with file-based credential source
-      const authClient = ExternalAccountClient.fromJSON({
+      // Create the external account configuration WITHOUT service account impersonation
+      // The workload identity pool should directly have access to the resources
+      const externalAccountConfig = {
         type: 'external_account',
         audience: `//iam.googleapis.com/projects/${GCP_PROJECT_NUMBER}/locations/global/workloadIdentityPools/${GCP_WORKLOAD_IDENTITY_POOL_ID}/providers/${GCP_WORKLOAD_IDENTITY_POOL_PROVIDER_ID}`,
         subject_token_type: 'urn:ietf:params:oauth:token-type:jwt',
@@ -100,10 +102,14 @@ async function getAuthenticatedStorage() {
           format: {
             type: 'text'
           }
-        },
-        service_account_impersonation_url: `https://iamcredentials.googleapis.com/v1/projects/-/serviceAccounts/${GCP_SERVICE_ACCOUNT_EMAIL}:generateAccessToken`,
-      });
+        }
+        // Removed service_account_impersonation_url - we'll grant permissions directly to the pool
+      };
       
+      console.log('🔧 Creating ExternalAccountClient...');
+      const authClient = ExternalAccountClient.fromJSON(externalAccountConfig);
+      
+      console.log('🚀 Initializing Storage client...');
       const storage = new Storage({
         projectId: GCP_PROJECT_ID,
         authClient: authClient,
@@ -127,6 +133,7 @@ async function getAuthenticatedStorage() {
       } catch (e) {
         // Ignore cleanup errors
       }
+      console.error('❌ Auth error details:', error.message);
       throw error;
     }
     
@@ -147,6 +154,7 @@ async function fetchFromGCS() {
   }
   
   console.log('☁️  Fetching private data from Google Cloud Storage...');
+  console.log(`📦 Bucket: ${GCS_BUCKET_NAME}`);
   
   const storage = await getAuthenticatedStorage();
   const bucket = storage.bucket(GCS_BUCKET_NAME);
