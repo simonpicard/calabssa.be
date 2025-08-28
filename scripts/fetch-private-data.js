@@ -1,5 +1,5 @@
 const { Storage } = require("@google-cloud/storage");
-const { ExternalAccountClient } = require("google-auth-library");
+const { ExternalAccountClient, GoogleAuth } = require("google-auth-library");
 const fs = require("fs").promises;
 const path = require("path");
 
@@ -175,17 +175,12 @@ async function getAuthenticatedStorage() {
       }
       
       console.log("🚀 Initializing Storage client...");
-      // Pass the authClient directly
+      
+      // Pass the authClient directly to Storage
       const storage = new Storage({
         projectId: GCP_PROJECT_ID,
         authClient: authClient,
       });
-      
-      // Alternative: Try setting credentials explicitly
-      // const storage = new Storage({
-      //   projectId: GCP_PROJECT_ID,
-      //   credentials: authClient,
-      // });
 
       return storage;
     } catch (error) {
@@ -215,6 +210,16 @@ async function fetchFromGCS() {
 
   const storage = await getAuthenticatedStorage();
   const bucket = storage.bucket(GCS_BUCKET_NAME);
+
+  // Test bucket access first
+  try {
+    console.log("\n🔍 Testing bucket access...");
+    const [exists] = await bucket.exists();
+    console.log("✅ Bucket exists:", exists);
+  } catch (error) {
+    console.error("❌ Bucket access error:", error.message);
+    throw error;
+  }
 
   // Download JSON data files
   console.log("\n📥 Downloading data files...");
