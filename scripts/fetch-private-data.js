@@ -81,20 +81,29 @@ async function fetchFromGCS() {
     console.log('🔐 Using Workload Identity Federation (Vercel environment)');
     
     // Get the required environment variables
-    const audience = process.env.VERCEL_OIDC_TOKEN_AUDIENCE;
     const serviceAccount = process.env.GCP_SERVICE_ACCOUNT;
     const workloadIdentityProvider = process.env.GCP_WORKLOAD_IDENTITY_PROVIDER;
     
-    if (!audience || !serviceAccount || !workloadIdentityProvider) {
+    if (!serviceAccount || !workloadIdentityProvider) {
       throw new Error('Missing required environment variables for Workload Identity Federation');
     }
     
     // Get the OIDC token from Vercel
-    const oidcToken = process.env.VERCEL_OIDC_TOKEN;
+    const oidcToken = process.env.OIDC_TOKEN_CONTENTS;
     
     if (!oidcToken) {
-      throw new Error('VERCEL_OIDC_TOKEN not found. Make sure OIDC is enabled in Vercel project settings.');
+      console.error('❌ OIDC_TOKEN_CONTENTS not found.');
+      console.log('\n💡 Please ensure:');
+      console.log('   1. OIDC is enabled in Vercel project settings (Settings → General → OIDC)');
+      console.log('   2. You have configured OIDC_TOKEN_CONTENTS in environment variables');
+      throw new Error('OIDC token not available');
     }
+    
+    // Write OIDC token to a temporary file for authentication
+    const fs = require('fs');
+    const os = require('os');
+    const tokenFile = `${os.tmpdir()}/oidc-token-${Date.now()}.txt`;
+    fs.writeFileSync(tokenFile, oidcToken);
     
     // Create auth client with Workload Identity Federation
     const auth = new GoogleAuth({
@@ -104,8 +113,15 @@ async function fetchFromGCS() {
         audience: `//iam.googleapis.com/${workloadIdentityProvider}`,
         subject_token_type: 'urn:ietf:params:oauth:token-type:jwt',
         token_url: 'https://sts.googleapis.com/v1/token',
-        service_account_impersonation_url: `https://iamcredentials.googleapis.com/v1/projects/-/serviceAccounts/${serviceAccount}:generateAccessToken`,
-        subject_token: oidcToken,
+        credential_source: {
+          file: tokenFile,
+          format: {
+            type: 'text'
+          }
+        },
+        service_account_impersonation: {
+          service_account_impersonation_url: `https://iamcredentials.googleapis.com/v1/projects/-/serviceAccounts/${serviceAccount}:generateAccessToken`,
+        }
       }
     });
     
@@ -113,6 +129,9 @@ async function fetchFromGCS() {
       projectId: GCP_PROJECT_ID,
       authClient: await auth.getClient(),
     });
+    
+    // Clean up token file
+    fs.unlinkSync(tokenFile);
   } else {
     console.log('🔑 Using Application Default Credentials (local environment)');
     
