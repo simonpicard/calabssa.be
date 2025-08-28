@@ -135,17 +135,20 @@ async function getAuthenticatedStorage() {
       );
     }
 
-    // Write token to temporary file for credential_source
-    const fs = require("fs");
-    const os = require("os");
-    const tokenFile = path.join(os.tmpdir(), `vercel-oidc-${Date.now()}.txt`);
-    fs.writeFileSync(tokenFile, oidcToken);
-    console.log("📝 Written token to:", tokenFile);
+    // Create a custom token supplier class
+    class VercelOIDCTokenSupplier {
+      constructor(token) {
+        this.token = token;
+      }
+      
+      async getSubjectToken(context) {
+        console.log("📤 Supplying OIDC token for audience:", context.audience);
+        return this.token;
+      }
+    }
 
     try {
-      // Create the external account configuration
-
-      console.log("🔧 Creating ExternalAccountClient from JSON...");
+      console.log("🔧 Creating ExternalAccountClient with custom token supplier...");
 
       const authClient = ExternalAccountClient.fromJSON({
         type: "external_account",
@@ -153,10 +156,7 @@ async function getAuthenticatedStorage() {
         subject_token_type: "urn:ietf:params:oauth:token-type:jwt",
         token_url: "https://sts.googleapis.com/v1/token",
         service_account_impersonation_url: `https://iamcredentials.googleapis.com/v1/projects/-/serviceAccounts/${GCP_SERVICE_ACCOUNT_EMAIL}:generateAccessToken`,
-        subject_token_supplier: {
-          // Use the Vercel OIDC token as the subject token
-          getSubjectToken: async () => oidcToken,
-        },
+        subject_token_supplier: new VercelOIDCTokenSupplier(oidcToken),
         service_account_impersonation: {
           token_lifetime_seconds: 3600,
         },
@@ -168,23 +168,8 @@ async function getAuthenticatedStorage() {
         authClient: authClient,
       });
 
-      // Clean up token file after creating the client
-      process.on("exit", () => {
-        try {
-          fs.unlinkSync(tokenFile);
-        } catch (e) {
-          // Ignore cleanup errors
-        }
-      });
-
       return storage;
     } catch (error) {
-      // Clean up token file on error
-      try {
-        fs.unlinkSync(tokenFile);
-      } catch (e) {
-        // Ignore cleanup errors
-      }
       console.error("❌ Auth error details:", error.message);
       throw error;
     }
