@@ -182,8 +182,15 @@ async function getAuthenticatedStorage() {
 
       console.log("🚀 Initializing Storage client...");
 
-      // Pass the authClient directly to Storage
-      const storage = new Storage({ authClient });
+      // Pass authClient to Storage - it expects AuthClient or GoogleAuth
+      const storage = new Storage({ 
+        projectId: GCP_PROJECT_ID,
+        authClient: authClient 
+      });
+      
+      // Debug: Check storage client configuration
+      console.log("🔍 Storage authClient type:", storage.authClient?.constructor?.name);
+      console.log("🔍 Storage projectId:", storage.projectId);
 
       return storage;
     } catch (error) {
