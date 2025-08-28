@@ -154,6 +154,7 @@ async function getAuthenticatedStorage() {
       console.log("🔧 Creating ExternalAccountClient with token supplier...");
 
       const authClient = ExternalAccountClient.fromJSON({
+        projectId: GCP_PROJECT_ID,
         type: "external_account",
         audience: `//iam.googleapis.com/projects/${GCP_PROJECT_NUMBER}/locations/global/workloadIdentityPools/${GCP_WORKLOAD_IDENTITY_POOL_ID}/providers/${GCP_WORKLOAD_IDENTITY_POOL_PROVIDER_ID}`,
         subject_token_type: "urn:ietf:params:oauth:token-type:jwt",
