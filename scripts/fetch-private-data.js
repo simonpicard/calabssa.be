@@ -1,24 +1,23 @@
 const { Storage } = require('@google-cloud/storage');
-const { GoogleAuth, ExternalAccountClient } = require('google-auth-library');
+const { ExternalAccountClient } = require('google-auth-library');
 const fs = require('fs').promises;
 const path = require('path');
 
-// Try to load .env.local if running locally (not in Vercel)
-if (!process.env.VERCEL && !process.env.CI) {
+// Load .env.local for local development
+if (!process.env.VERCEL) {
   try {
-    require('dotenv').config({ path: '.env.local', silent: true });
+    require('dotenv').config({ path: '.env.local' });
   } catch (e) {
-    // dotenv might not be installed, that's okay
-    // User can set env vars manually or use sample data
+    // dotenv not installed is okay
   }
 }
 
-// Configuration from environment variables
+// Configuration
 const USE_SAMPLE_DATA = process.env.USE_SAMPLE_DATA === 'true';
 const GCS_BUCKET_NAME = process.env.GCS_BUCKET_NAME;
 const GCP_PROJECT_ID = process.env.GCP_PROJECT_ID;
 const GCP_PROJECT_NUMBER = process.env.GCP_PROJECT_NUMBER;
-const GCP_SERVICE_ACCOUNT_EMAIL = process.env.GCP_SERVICE_ACCOUNT_EMAIL || process.env.GCP_SERVICE_ACCOUNT; // Support both names
+const GCP_SERVICE_ACCOUNT_EMAIL = process.env.GCP_SERVICE_ACCOUNT_EMAIL;
 const GCP_WORKLOAD_IDENTITY_POOL_ID = process.env.GCP_WORKLOAD_IDENTITY_POOL_ID;
 const GCP_WORKLOAD_IDENTITY_POOL_PROVIDER_ID = process.env.GCP_WORKLOAD_IDENTITY_POOL_PROVIDER_ID;
 
@@ -36,13 +35,14 @@ async function copySampleData() {
   console.log('📦 Using sample data for development...');
   
   // Copy sample JSON files
-  const teamsSource = path.join(DATA_DIR, 'teams.sample.json');
-  const teamsDest = path.join(DATA_DIR, 'teams.json');
-  const dayDivSource = path.join(DATA_DIR, 'dayDiv.sample.json');
-  const dayDivDest = path.join(DATA_DIR, 'dayDiv.json');
-  
-  await fs.copyFile(teamsSource, teamsDest);
-  await fs.copyFile(dayDivSource, dayDivDest);
+  await fs.copyFile(
+    path.join(DATA_DIR, 'teams.sample.json'),
+    path.join(DATA_DIR, 'teams.json')
+  );
+  await fs.copyFile(
+    path.join(DATA_DIR, 'dayDiv.sample.json'),
+    path.join(DATA_DIR, 'dayDiv.json')
+  );
   console.log('✅ Copied sample JSON files');
   
   // Copy sample ICS files
@@ -62,78 +62,34 @@ async function copySampleData() {
   }
 }
 
-async function fetchFromGCS() {
-  // Check required environment variables
-  if (!GCP_PROJECT_ID || !GCS_BUCKET_NAME) {
-    console.error('❌ Missing required environment variables');
-    console.log('\n💡 Please set the following environment variables:');
-    console.log('   - GCP_PROJECT_ID: Your Google Cloud project ID');
-    console.log('   - GCS_BUCKET_NAME: Your Google Cloud Storage bucket name');
-    console.log('\n   For local development, add them to .env.local');
-    console.log('   For Vercel deployment, add them in project settings');
-    throw new Error('Missing required GCP configuration');
-  }
-  
-  console.log('☁️  Fetching private data from Google Cloud Storage...');
-  
-  let storage;
-  let tokenFile = null; // Track token file for cleanup
-  
-  // Check if we're in Vercel environment
-  const isVercel = process.env.VERCEL || process.env.VERCEL_ENV;
+async function getAuthenticatedStorage() {
+  const isVercel = process.env.VERCEL === '1';
   
   if (isVercel) {
     console.log('🔐 Using Workload Identity Federation (Vercel environment)');
     
-    if (!GCP_SERVICE_ACCOUNT_EMAIL) {
-      throw new Error('Missing GCP_SERVICE_ACCOUNT_EMAIL environment variable');
+    // Check required environment variables
+    if (!GCP_PROJECT_NUMBER || !GCP_SERVICE_ACCOUNT_EMAIL || 
+        !GCP_WORKLOAD_IDENTITY_POOL_ID || !GCP_WORKLOAD_IDENTITY_POOL_PROVIDER_ID) {
+      throw new Error('Missing required GCP environment variables for Workload Identity Federation');
     }
     
+    // In Vercel builds, the OIDC token is provided as VERCEL_OIDC_TOKEN
+    const oidcToken = process.env.VERCEL_OIDC_TOKEN;
+    if (!oidcToken) {
+      throw new Error('VERCEL_OIDC_TOKEN not found. Make sure OIDC is enabled in Vercel project settings.');
+    }
+    
+    console.log('🎫 Using VERCEL_OIDC_TOKEN for authentication');
+    
+    // Write token to temporary file for credential_source
+    const fs = require('fs');
+    const os = require('os');
+    const tokenFile = path.join(os.tmpdir(), `vercel-oidc-${Date.now()}.txt`);
+    fs.writeFileSync(tokenFile, oidcToken);
+    
     try {
-      // Try the new approach with @vercel/functions
-      const { getVercelOidcToken } = require('@vercel/functions/oidc');
-      
-      console.log('📝 Using @vercel/functions for OIDC token...');
-      
-      // Initialize the External Account Client following Vercel's documentation
-      const authClient = ExternalAccountClient.fromJSON({
-        type: 'external_account',
-        audience: `//iam.googleapis.com/projects/${GCP_PROJECT_NUMBER}/locations/global/workloadIdentityPools/${GCP_WORKLOAD_IDENTITY_POOL_ID}/providers/${GCP_WORKLOAD_IDENTITY_POOL_PROVIDER_ID}`,
-        subject_token_type: 'urn:ietf:params:oauth:token-type:jwt',
-        token_url: 'https://sts.googleapis.com/v1/token',
-        service_account_impersonation_url: `https://iamcredentials.googleapis.com/v1/projects/-/serviceAccounts/${GCP_SERVICE_ACCOUNT_EMAIL}:generateAccessToken`,
-        subject_token_supplier: {
-          // Use the Vercel OIDC token as the subject token
-          getSubjectToken: getVercelOidcToken,
-        },
-      });
-      
-      storage = new Storage({
-        projectId: GCP_PROJECT_ID,
-        authClient: authClient,
-      });
-      
-    } catch (e) {
-      // Fallback to environment variable approach
-      console.log('⚠️  @vercel/functions not available, trying OIDC_TOKEN env var...');
-      
-      const oidcToken = process.env.OIDC_TOKEN;
-      
-      if (!oidcToken) {
-        console.error('❌ OIDC_TOKEN not found.');
-        console.log('\n💡 Please ensure:');
-        console.log('   1. OIDC is enabled in Vercel project settings');
-        console.log('   2. The build is running on Vercel');
-        throw new Error('OIDC token not available');
-      }
-      
-      // Write OIDC token to a temporary file
-      const fsSync = require('fs');
-      const os = require('os');
-      tokenFile = path.join(os.tmpdir(), `oidc-token-${Date.now()}.txt`);
-      fsSync.writeFileSync(tokenFile, oidcToken);
-      
-      // Create auth client with file-based approach
+      // Create External Account Client with file-based credential source
       const authClient = ExternalAccountClient.fromJSON({
         type: 'external_account',
         audience: `//iam.googleapis.com/projects/${GCP_PROJECT_NUMBER}/locations/global/workloadIdentityPools/${GCP_WORKLOAD_IDENTITY_POOL_ID}/providers/${GCP_WORKLOAD_IDENTITY_POOL_PROVIDER_ID}`,
@@ -145,95 +101,92 @@ async function fetchFromGCS() {
             type: 'text'
           }
         },
-        service_account_impersonation_url: `https://iamcredentials.googleapis.com/v1/projects/-/serviceAccounts/${GCP_SERVICE_ACCOUNT}:generateAccessToken`
+        service_account_impersonation_url: `https://iamcredentials.googleapis.com/v1/projects/-/serviceAccounts/${GCP_SERVICE_ACCOUNT_EMAIL}:generateAccessToken`,
       });
       
-      storage = new Storage({
+      const storage = new Storage({
         projectId: GCP_PROJECT_ID,
         authClient: authClient,
       });
+      
+      // Clean up token file after creating the client
+      process.on('exit', () => {
+        try {
+          fs.unlinkSync(tokenFile);
+        } catch (e) {
+          // Ignore cleanup errors
+        }
+      });
+      
+      return storage;
+      
+    } catch (error) {
+      // Clean up token file on error
+      try {
+        fs.unlinkSync(tokenFile);
+      } catch (e) {
+        // Ignore cleanup errors
+      }
+      throw error;
     }
+    
   } else {
     console.log('🔑 Using Application Default Credentials (local environment)');
     
-    // Local development - use ADC or service account key
-    storage = new Storage({
+    // For local development, use gcloud auth or service account key
+    return new Storage({
       projectId: GCP_PROJECT_ID,
     });
   }
+}
+
+async function fetchFromGCS() {
+  // Check required environment variables
+  if (!GCP_PROJECT_ID || !GCS_BUCKET_NAME) {
+    throw new Error('Missing required environment variables: GCP_PROJECT_ID and GCS_BUCKET_NAME');
+  }
   
+  console.log('☁️  Fetching private data from Google Cloud Storage...');
+  
+  const storage = await getAuthenticatedStorage();
   const bucket = storage.bucket(GCS_BUCKET_NAME);
   
-  try {
-    // Download JSON data files
-    console.log('\n📥 Downloading data files...');
-    
-    const dataFiles = [
-      { source: 'data/teams.json', dest: path.join(DATA_DIR, 'teams.json') },
-      { source: 'data/dayDiv.json', dest: path.join(DATA_DIR, 'dayDiv.json') },
-    ];
-    
-    for (const file of dataFiles) {
-      console.log(`  • Downloading ${file.source}...`);
-      await bucket.file(file.source).download({ destination: file.dest });
-    }
-    console.log('✅ Data files downloaded');
-    
-    // Download ICS files
-    console.log('\n📥 Downloading calendar files...');
-    
-    // List all files in the ics/ folder
-    const [files] = await bucket.getFiles({ prefix: 'ics/' });
-    console.log(`  • Found ${files.length} calendar files`);
-    
-    // Download each ICS file
-    let downloaded = 0;
-    for (const file of files) {
-      const fileName = path.basename(file.name);
-      if (fileName && fileName.endsWith('.ics')) {
-        const destPath = path.join(ICS_DIR, fileName);
-        await file.download({ destination: destPath });
-        downloaded++;
-        
-        // Show progress every 50 files
-        if (downloaded % 50 === 0) {
-          console.log(`    ⏳ Downloaded ${downloaded}/${files.length} files...`);
-        }
+  // Download JSON data files
+  console.log('\n📥 Downloading data files...');
+  
+  const dataFiles = [
+    { source: 'data/teams.json', dest: path.join(DATA_DIR, 'teams.json') },
+    { source: 'data/dayDiv.json', dest: path.join(DATA_DIR, 'dayDiv.json') },
+  ];
+  
+  for (const file of dataFiles) {
+    console.log(`  • Downloading ${file.source}...`);
+    await bucket.file(file.source).download({ destination: file.dest });
+  }
+  console.log('✅ Data files downloaded');
+  
+  // Download ICS files
+  console.log('\n📥 Downloading calendar files...');
+  
+  const [files] = await bucket.getFiles({ prefix: 'ics/' });
+  console.log(`  • Found ${files.length} calendar files`);
+  
+  let downloaded = 0;
+  for (const file of files) {
+    const fileName = path.basename(file.name);
+    if (fileName && fileName.endsWith('.ics')) {
+      const destPath = path.join(ICS_DIR, fileName);
+      await file.download({ destination: destPath });
+      downloaded++;
+      
+      // Show progress every 50 files
+      if (downloaded % 50 === 0) {
+        console.log(`    ⏳ Downloaded ${downloaded}/${files.length} files...`);
       }
     }
-    
-    console.log(`✅ Downloaded ${downloaded} calendar files`);
-    
-  } catch (error) {
-    console.error('❌ Error fetching from GCS:', error.message);
-    
-    if (error.message.includes('Could not load the default credentials')) {
-      console.log('\n💡 For local development, you need to set up authentication:');
-      console.log('   Option 1: Run: gcloud auth application-default login');
-      console.log('   Option 2: Set GOOGLE_APPLICATION_CREDENTIALS to a service account key file');
-      console.log('   Option 3: Use USE_SAMPLE_DATA=true to use sample data instead');
-    }
-    
-    // Clean up token file if it exists
-    if (tokenFile) {
-      const fs = require('fs');
-      if (fs.existsSync(tokenFile)) {
-        console.log('🧹 Cleaning up temporary token file');
-        fs.unlinkSync(tokenFile);
-      }
-    }
-    
-    throw error;
   }
   
-  // Clean up token file after successful operation
-  if (tokenFile) {
-    const fs = require('fs');
-    if (fs.existsSync(tokenFile)) {
-      console.log('🧹 Cleaning up temporary token file');
-      fs.unlinkSync(tokenFile);
-    }
-  }
+  console.log(`✅ Downloaded ${downloaded} calendar files`);
 }
 
 async function main() {
@@ -252,6 +205,19 @@ async function main() {
     
   } catch (error) {
     console.error('\n❌ Failed to fetch data:', error.message);
+    
+    if (error.message.includes('Could not load the default credentials')) {
+      console.log('\n💡 For local development, you need to authenticate:');
+      console.log('   Run: gcloud auth application-default login');
+    }
+    
+    if (error.message.includes('VERCEL_OIDC_TOKEN')) {
+      console.log('\n💡 For Vercel builds:');
+      console.log('   1. Enable OIDC in project settings');
+      console.log('   2. Ensure all GCP environment variables are set');
+      console.log('   3. Make sure the build runs in Vercel environment');
+    }
+    
     process.exit(1);
   }
 }
