@@ -7,6 +7,7 @@ import { CalendarData } from '../lib/calendar-utils'
 import Event from './Event'
 import TeamData from '../data/teams.json'
 import Toggle from './Toggle'
+import NewsletterSignup from './NewsletterSignup'
 
 interface TeamCalendarClientProps {
   initialData: CalendarData
@@ -342,6 +343,11 @@ export default function TeamCalendarClient({ initialData, teamId }: TeamCalendar
           })}
         </div>
       )}
+
+      {/* Newsletter Signup */}
+      <div className="mt-16">
+        <NewsletterSignup />
+      </div>
     </div>
   )
 }

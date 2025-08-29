@@ -96,11 +96,7 @@ export default function NewsletterSignup() {
         )}
 
         <p className="text-xs text-gray-500 text-center mt-4">
-          En vous inscrivant, vous acceptez notre{' '}
-          <a href="/about" className="underline">
-            politique de confidentialité
-          </a>
-          . Désinscription possible à tout moment.
+          Désinscription possible à tout moment.
         </p>
       </div>
     </section>
