@@ -1,5 +1,7 @@
 import './globals.css'
+
 import { Metadata, Viewport } from 'next'
+
 import PlausibleProvider from 'next-plausible'
 
 export const viewport: Viewport = {
@@ -12,7 +14,7 @@ export const metadata: Metadata = {
     default: 'CalABSSA - Calendriers ABSSA | Football du samedi Bruxelles',
     template: '%s | CalABSSA - ABSSA Bruxelles'
   },
-  description: 'Calendriers officiels ABSSA (Royale Association Belge des Sports du Samedi). Consultez les matchs de football du samedi à Bruxelles, horaires, terrains, cartes. 200+ équipes, toutes divisions.',
+  description: 'Calendriers non officiels ABSSA (Royale Association Belge des Sports du Samedi). Consultez les matchs de football du samedi à Bruxelles, horaires, terrains, cartes. 200+ équipes, toutes divisions.',
   keywords: ['ABSSA', 'football samedi', 'Bruxelles', 'calendrier', 'match', 'foot 11', 'football', 'équipe', 'division', 'horaire match', 'terrain football', 'sports samedi'],
   authors: [{ name: 'CalABSSA' }],
   creator: 'CalABSSA',
@@ -83,7 +85,7 @@ export default function RootLayout({
     name: 'CalABSSA',
     alternateName: 'Calendriers ABSSA Bruxelles',
     url: 'https://www.calabssa.be',
-    description: 'Calendriers officiels de toutes les équipes ABSSA (Royale Association Belge des Sports du Samedi)',
+    description: 'Calendriers non officiels de toutes les équipes ABSSA (Royale Association Belge des Sports du Samedi)',
     publisher: {
       '@type': 'Organization',
       name: 'CalABSSA',
@@ -103,7 +105,7 @@ export default function RootLayout({
   return (
     <html lang="fr">
       <head>
-        <PlausibleProvider domain="calabssa.be" />
+        <PlausibleProvider domain="calabssa.be" trackOutboundLinks={true} trackFileDownloads={true} taggedEvents={true} />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}

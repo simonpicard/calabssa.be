@@ -1,8 +1,10 @@
 'use client'
 
 import { useState } from 'react'
+import { usePlausible } from 'next-plausible'
 
 export default function NewsletterSignup() {
+  const plausible = usePlausible()
   const [email, setEmail] = useState('')
   const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle')
   const [message, setMessage] = useState('')
@@ -29,6 +31,11 @@ export default function NewsletterSignup() {
         setStatus('success')
         setMessage('Merci! Vérifiez votre email pour confirmer votre inscription.')
         setEmail('')
+        plausible('Newsletter Signup', { 
+          props: { 
+            email_domain: email.split('@')[1] 
+          } 
+        })
       } else {
         setStatus('error')
         setMessage(data.message || 'Une erreur est survenue. Veuillez réessayer.')
