@@ -8,9 +8,7 @@ module.exports = {
   generateIndexSitemap: true,
   exclude: [],
   robotsTxtOptions: {
-    additionalSitemaps: [
-      'https://www.calabssa.be/sitemap.xml',
-    ],
+    additionalSitemaps: [],
     policies: [
       {
         userAgent: '*',

@@ -33,6 +33,10 @@ CLAUDE.md
 /app/data/dayDiv.json
 /public/ics/*.ics
 
+# Generated files
+/public/sitemap*.xml
+/public/robots.txt
+
 # Environment files with sensitive configuration
 .env.local
 .env.production

@@ -37,31 +37,37 @@ cd calabssa.be
 npm install
 ```
 
-3. Set up data (choose one option):
-
-   **Option A: Use sample data** (recommended for contributors)
-   ```bash
-   USE_SAMPLE_DATA=true npm run dev
-   ```
-
-   **Option B: Use your own data**
-   - See [DEPLOYMENT.md](DEPLOYMENT.md) for setting up your own data source
-
-4. Start the development server:
+3. Start development with sample data:
 
 ```bash
-npm run dev
+USE_SAMPLE_DATA=true npm run dev
 ```
 
-5. Open [http://localhost:3000](http://localhost:3000) in your browser
+4. Open [http://localhost:3000](http://localhost:3000) in your browser
+
+### Building for Production
+
+To test the production build locally with sample data:
+
+```bash
+USE_SAMPLE_DATA=true npm run build
+npm run start
+```
+
+**Note for contributors:** The project includes sample data that allows you to run and test the application without needing access to real ABSSA data. The sample data includes:
+- 2 sample teams with realistic data structure
+- Sample calendar files (.ics) with proper formatting
+- Division calendars for testing
+
+For deploying with real data, see [DEPLOYMENT.md](DEPLOYMENT.md)
 
 ### Available Scripts
 
-- `npm run dev` - Start development server
-- `npm run build` - Build for production (fetches data then builds)
+- `USE_SAMPLE_DATA=true npm run dev` - Start development server with sample data
+- `USE_SAMPLE_DATA=true npm run build` - Build for production with sample data
 - `npm run start` - Start production server
 - `npm run lint` - Run ESLint
-- `npm run fetch-data` - Manually fetch data from configured source
+- `npm run postbuild` - Generate sitemap (runs automatically after build)
 
 ## 🏗️ Tech Stack
 

@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//CalABSSA//Sample Calendar//EN
-X-WR-CALNAME:SAMPLE FC - Equipe A
+PRODID:-//CalABSSA//Division Calendar//EN
+X-WR-CALNAME:ABSSA Division 4A - Journée 1
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VTIMEZONE
 TZID:Europe/Brussels
@@ -21,23 +21,23 @@ RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:sample-match-1@calabssa.be
+UID:div4a-j1-match1@calabssa.be
 DTSTART;TZID=Europe/Brussels:20250907T150000
 DTEND;TZID=Europe/Brussels:20250907T164500
 SUMMARY:Sample FC vs Example United
-DESCRIPTION:Match de championnat\nDivision 4A\nJournée 1
+DESCRIPTION:Division 4A - Journée 1\nArbitre: REF001
 LOCATION:Stade Communal, 1000 Bruxelles
 GEO:50.8503;4.3517
 URL:https://www.calabssa.be
 END:VEVENT
 BEGIN:VEVENT
-UID:sample-match-2@calabssa.be
-DTSTART;TZID=Europe/Brussels:20250914T150000
-DTEND;TZID=Europe/Brussels:20250914T164500
-SUMMARY:Another Team vs Sample FC
-DESCRIPTION:Match de championnat\nDivision 4A\nJournée 2
-LOCATION:Terrain Visiteur, 1080 Molenbeek
-GEO:50.8476;4.3387
+UID:div4a-j1-match2@calabssa.be
+DTSTART;TZID=Europe/Brussels:20250907T150000
+DTEND;TZID=Europe/Brussels:20250907T164500
+SUMMARY:Test Team vs Demo Squad
+DESCRIPTION:Division 4A - Journée 1\nArbitre: REF002
+LOCATION:Terrain Municipal, 1030 Schaerbeek
+GEO:50.8667;4.3833
 URL:https://www.calabssa.be
 END:VEVENT
 END:VCALENDAR
