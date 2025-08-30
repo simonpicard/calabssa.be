@@ -60,8 +60,8 @@ export default function TeamCalendarClient({ initialData, teamId }: TeamCalendar
   const { events, stats } = useMemo(() => {
     const now = new Date()
     const allEvents = initialData.icalEvents
-    const futureEvents = allEvents.filter((e) => new Date(e.dtstart) >= now)
-    const pastEvents = allEvents.filter((e) => new Date(e.dtstart) < now)
+    const futureEvents = allEvents.filter((e) => new Date(e.dtend) >= now)
+    const pastEvents = allEvents.filter((e) => new Date(e.dtend) < now)
 
     // Calculate statistics
     const nextMatch = futureEvents[0]
@@ -72,19 +72,22 @@ export default function TeamCalendarClient({ initialData, teamId }: TeamCalendar
       const firstTeam = summary.split(' vs ')[0] || summary.split(' - ')[0]
       return firstTeam.includes(clubName)
     })
-    const homeMatchesPlayed = homeMatchesAll.filter((e) => new Date(e.dtstart) < now).length
+    const homeMatchesPlayed = homeMatchesAll.filter((e) => new Date(e.dtend) < now).length
     const awayMatchesAll = allEvents.filter((e) => {
       const summary = e.summary?.toLowerCase() || ''
       const clubName = teamInfo?.club_name?.toLowerCase() || ''
       const firstTeam = summary.split(' vs ')[0] || summary.split(' - ')[0]
       return !firstTeam.includes(clubName)
     })
-    const awayMatchesPlayed = awayMatchesAll.filter((e) => new Date(e.dtstart) < now).length
+    const awayMatchesPlayed = awayMatchesAll.filter((e) => new Date(e.dtend) < now).length
 
     // Calculate days until next match
     const daysUntilNext = nextMatch
-      ? Math.floor((new Date(nextMatch.dtstart).getTime() - now.getTime()) / (1000 * 60 * 60 * 24))
+      ? Math.floor((new Date(nextMatch.dtend).getTime() - now.getTime()) / (1000 * 60 * 60 * 24))
       : null
+
+    const isNextMatchHome = nextMatch?.summary?.toLowerCase().split(' vs ')[0].includes(teamInfo?.club_name?.toLowerCase() || '') || false
+    const nextMatchOpponent = nextMatch?.summary?.split(': ')[1]?.split(' vs ')[isNextMatchHome ? 1 : 0] || 'Adversaire'
 
     return {
       events: showPast ? allEvents : futureEvents,
@@ -98,7 +101,9 @@ export default function TeamCalendarClient({ initialData, teamId }: TeamCalendar
         homeMatchesPlayed,
         awayMatchesTotal: awayMatchesAll.length,
         awayMatchesPlayed,
-        completion: Math.round((pastEvents.length / allEvents.length) * 100)
+        completion: Math.round((pastEvents.length / allEvents.length) * 100),
+        nextMatchOpponent,
+        isNextMatchHome
       }
     }
   }, [showPast, initialData.icalEvents, teamInfo])
@@ -145,15 +150,22 @@ export default function TeamCalendarClient({ initialData, teamId }: TeamCalendar
           <div className="mt-6 p-4 bg-white/70 border border-gray-200 rounded-lg">
             <p className="text-sm text-gray-600 mb-1">Prochain match</p>
             <p className="text-xl font-semibold text-gray-900">
-              {new Date(stats.nextMatch.dtstart).toLocaleDateString('fr-BE', {
+              {new Date(stats.nextMatch.dtend).toLocaleDateString('fr-BE', {
                 weekday: 'long',
                 day: 'numeric',
                 month: 'long'
-              })}
+              }) + " contre " + stats.nextMatchOpponent + " à " + (stats.isNextMatchHome ? " domicile" : "l'extérieur")}
+              {stats.isNextMatchHome ? " 🏠" : " 🚌"}
             </p>
             <p className="text-gray-600 mt-1">
-              {stats.daysUntilNext === 0 ? "Aujourd'hui !" :
-                stats.daysUntilNext === 1 ? "Demain !" :
+              {stats.daysUntilNext === 0 ? "Aujourd'hui à " + new Date(stats.nextMatch.dtstart).toLocaleTimeString('fr-BE', {
+                hour: '2-digit',
+                minute: '2-digit',
+              }) + " !" :
+                stats.daysUntilNext === 1 ? "Demain à " + new Date(stats.nextMatch.dtstart).toLocaleTimeString('fr-BE', {
+                  hour: '2-digit',
+                  minute: '2-digit',
+                }) + " !" :
                   `Dans ${stats.daysUntilNext} jours`}
             </p>
           </div>
