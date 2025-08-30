@@ -10,20 +10,13 @@ import { getDefaultCalendarData } from './lib/calendar-utils'
 export default async function HomePage() {
   const { calendarData, divisionInfo } = await getDefaultCalendarData()
 
-  // Filter events on the server side to avoid hydration mismatch
-  const now = new Date()
-  const filteredCalendarData = {
-    ...calendarData,
-    icalEvents: calendarData.icalEvents.filter((e) => new Date(e.dtstart) >= now)
-  }
-
   return (
     <div>
       <HeroSection teamData={TeamData} divisionData={DayDiv} />
 
       {/* Section 1: Web App */}
       <section className="mb-12">
-        <HomepageCalendar initialData={filteredCalendarData} divisionInfo={divisionInfo} />
+        <HomepageCalendar initialData={calendarData} divisionInfo={divisionInfo} />
       </section>
 
       {/* Section 2: Calendar Integration */}
