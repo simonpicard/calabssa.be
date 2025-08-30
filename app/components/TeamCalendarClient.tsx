@@ -5,9 +5,9 @@ import { useMemo, useState } from 'react'
 import AddCalendarPopUp from './AddCalendarPopUp'
 import { CalendarData } from '../lib/calendar-utils'
 import Event from './Event'
+import NewsletterSignup from './NewsletterSignup'
 import TeamData from '../data/teams.json'
 import Toggle from './Toggle'
-import NewsletterSignup from './NewsletterSignup'
 
 interface TeamCalendarClientProps {
   initialData: CalendarData
@@ -83,7 +83,7 @@ export default function TeamCalendarClient({ initialData, teamId }: TeamCalendar
 
     // Calculate days until next match
     const daysUntilNext = nextMatch
-      ? Math.ceil((new Date(nextMatch.dtstart).getTime() - now.getTime()) / (1000 * 60 * 60 * 24))
+      ? Math.floor((new Date(nextMatch.dtstart).getTime() - now.getTime()) / (1000 * 60 * 60 * 24))
       : null
 
     return {

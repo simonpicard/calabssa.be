@@ -184,14 +184,32 @@ async function getAuthenticatedClient() {
     }
   } else {
     console.log("🔑 Using Application Default Credentials (local environment)");
-
-    // For local development, use gcloud auth or service account key
+    
+    // For local development, try multiple auth methods
     const { GoogleAuth } = require("google-auth-library");
-    const auth = new GoogleAuth({
-      projectId: GCP_PROJECT_ID,
-      scopes: ["https://www.googleapis.com/auth/cloud-platform"],
-    });
-    return auth.getClient();
+    
+    try {
+      // First try with GoogleAuth which handles multiple auth methods
+      const auth = new GoogleAuth({
+        projectId: GCP_PROJECT_ID,
+        scopes: ["https://www.googleapis.com/auth/cloud-platform"],
+      });
+      
+      const client = await auth.getClient();
+      console.log("✅ Using authenticated client");
+      return client;
+    } catch (authError) {
+      console.log("⚠️  Application Default Credentials not available");
+      console.log("💡 Trying to refresh credentials...");
+      
+      // If ADC fails, suggest re-authentication
+      console.log("\n📋 To fix authentication locally, run:");
+      console.log("   gcloud auth application-default login");
+      console.log("\n   Or set up a service account key:");
+      console.log("   export GOOGLE_APPLICATION_CREDENTIALS=/path/to/key.json");
+      
+      throw new Error("Local authentication failed. Please run: gcloud auth application-default login");
+    }
   }
 }
 
