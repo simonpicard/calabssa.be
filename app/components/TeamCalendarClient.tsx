@@ -58,7 +58,9 @@ export default function TeamCalendarClient({ initialData, teamId }: TeamCalendar
 
   // Use useMemo to ensure consistent filtering and stats calculation
   const { events, stats } = useMemo(() => {
-    const now = new Date()
+    // Use Brussels timezone for consistency
+    const brusselsTime = new Date().toLocaleString("en-US", { timeZone: "Europe/Brussels" })
+    const now = new Date(brusselsTime)
     const allEvents = initialData.icalEvents
     const futureEvents = allEvents.filter((e) => new Date(e.dtend) >= now)
     const pastEvents = allEvents.filter((e) => new Date(e.dtend) < now)

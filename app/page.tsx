@@ -7,6 +7,9 @@ import PricingSection from './components/PricingSection'
 import TeamData from './data/teams.json'
 import { getDefaultCalendarData } from './lib/calendar-utils'
 
+// Revalidate every 4 hours to ensure the calendar selection stays current
+export const revalidate = 14400
+
 export default async function HomePage() {
   const { calendarData, divisionInfo } = await getDefaultCalendarData()
 

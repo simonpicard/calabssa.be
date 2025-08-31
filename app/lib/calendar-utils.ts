@@ -169,12 +169,19 @@ interface DayDivEntry {
 }
 
 export async function getDefaultCalendarData(): Promise<{ calendarData: CalendarData; divisionInfo: DayDivEntry }> {
-  const today = new Date()
+  // Use Brussels timezone for consistency
+  // Get current date in Brussels timezone
+  const brusselsTime = new Date().toLocaleString("en-US", { timeZone: "Europe/Brussels" })
+  const today = new Date(brusselsTime)
   today.setHours(0, 0, 0, 0)
 
   const dayDivTyped = DayDiv as Record<string, DayDivEntry>
   const dayDivFlt = Object.entries(dayDivTyped).filter(
-    (e) => new Date(Date.parse(e[1].date.replace(' ', 'T'))) >= today
+    (e) => {
+      // Parse the date string and compare
+      const matchDate = new Date(Date.parse(e[1].date.replace(' ', 'T')))
+      return matchDate >= today
+    }
   )
 
   let dayDivCandidates: [string, DayDivEntry][]

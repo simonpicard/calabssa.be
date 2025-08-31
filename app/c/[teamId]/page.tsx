@@ -4,6 +4,9 @@ import { notFound } from 'next/navigation'
 import { Metadata } from 'next'
 import TeamData from '../../data/teams.json'
 
+// Revalidate every 4 hours to keep match data current
+export const revalidate = 14400
+
 interface TeamPageProps {
   params: {
     teamId: string
