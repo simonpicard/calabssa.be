@@ -18,18 +18,13 @@ export default function AddCalendarPopUp({ baseUri, calName, closeEvent }: AddCa
     },
     {
       name: 'Google Calendar',
-      url: `https://calendar.google.com/calendar/render?cid=${encodeURIComponent(webcalUri)}`,
+      url: `https://calendar.google.com/calendar/render?cid=${encodeURIComponent(webcalUri.replace('www.', ''))}`,
       icon: '/img/calendar/google-calendar.svg',
     },
     {
       name: 'Outlook.com',
       url: `https://outlook.live.com/calendar/0/addfromweb?url=${encodeURIComponent(httpUri)}&name=${encodeURIComponent(calName)}`,
       icon: '/img/calendar/outlook-calendar.svg',
-    },
-    {
-      name: 'Office 365',
-      url: `https://outlook.office.com/calendar/0/addfromweb?url=${encodeURIComponent(httpUri)}&name=${encodeURIComponent(calName)}`,
-      icon: '/img/calendar/office-calendar.svg',
     },
     {
       name: 'Windows Calendar',
