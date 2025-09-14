@@ -18,7 +18,7 @@ export default function AddCalendarPopUp({ baseUri, calName, closeEvent }: AddCa
     },
     {
       name: 'Google Calendar',
-      url: `https://calendar.google.com/calendar/render?cid=${encodeURIComponent(webcalUri.replace('www.', ''))}`,
+      url: `https://calendar.google.com/calendar/render?cid=${encodeURIComponent(webcalUri)}`,
       icon: '/img/calendar/google-calendar.svg',
     },
     {
