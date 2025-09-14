@@ -27,35 +27,46 @@ export default function Template({ children }: TemplateProps) {
           {children}
         </div>
 
-        <footer className="text-sm px-4 sm:px-6 md:px-8 pb-4 sm:pb-6 md:pb-8 mt-16 max-w-[1280px] mx-auto text-[#334155]">
-          <div className="flex flex-wrap gap-x-4 gap-y-2 justify-between">
-            <p>
-              Créé par{" "}
-              <a
-                href="https://www.simonmyway.com/"
-                className="underline"
-              >
-                Simon
-              </a>
-            </p>
-            <p className="text-gray-500">
-              © {new Date().getFullYear()} CalABSSA - Site non officiel des calendriers de l&apos;ABSSA
-            </p>
-            <p>
+        <footer className="text-sm px-4 sm:px-6 md:px-8 pb-4 mt-8 max-w-[1280px] mx-auto text-[#334155]">
+          <div className="flex flex-col sm:flex-row sm:flex-wrap gap-4 sm:gap-x-6 sm:gap-y-3 sm:justify-between items-center sm:items-start">
+            <div className="text-center sm:text-left order-2 sm:order-1">
+              <p className="text-gray-500 flex flex-col sm:flex-row sm:gap-2">
+                <span>© {new Date().getFullYear()} CalABSSA</span>
+                <span className="text-xs sm:text-sm text-gray-400">
+                  - Site non officiel des calendriers de l&apos;ABSSA
+                </span>
+              </p>
+            </div>
+
+            <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 items-center order-1 sm:order-2">
               <a
                 href="/about"
-                className="underline mr-3"
+                className="underline hover:text-gray-700 transition-colors"
               >
                 CGU & Confidentialité
               </a>
-              Code sur{" "}
-              <a
-                href="https://github.com/simonpicard/calabssa.be"
-                className="underline"
-              >
-                GitHub
-              </a>
-            </p>
+              <div className="flex gap-4 items-center">
+                <span>
+                  Créé par{" "}
+                  <a
+                    href="https://www.simonmyway.com/"
+                    className="underline hover:text-gray-700 transition-colors"
+                  >
+                    Simon
+                  </a>
+                </span>
+                <span className="text-gray-400">•</span>
+                <span>
+                  Code sur{" "}
+                  <a
+                    href="https://github.com/simonpicard/calabssa.be"
+                    className="underline hover:text-gray-700 transition-colors"
+                  >
+                    GitHub
+                  </a>
+                </span>
+              </div>
+            </div>
           </div>
         </footer>
       </div>

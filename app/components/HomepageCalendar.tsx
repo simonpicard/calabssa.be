@@ -30,7 +30,7 @@ export default function HomepageCalendar({ initialData, divisionInfo }: Homepage
     <div>
       <div className="mb-8">
         <h2 className="text-3xl font-bold text-gray-900 mb-3">
-          🌟 Consultez les matchs directement sur <span className="text-sky-600">l&apos;application web</span>
+          🌟 Consultez les matchs directement sur <span className="text-sky-600">ce site web</span>
         </h2>
         <p className="text-lg text-gray-600">
           Tous les détails en un seul endroit : horaires, adresses, type de terrain, cartes, contacts, couleurs de maillots... Par exemple, voici les matchs du <span className="font-semibold text-gray-900" suppressHydrationWarning>{formattedDate}</span> de la division <span className="font-semibold text-gray-900">{divisionInfo.division}</span>:
