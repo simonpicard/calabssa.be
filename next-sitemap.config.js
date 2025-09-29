@@ -13,6 +13,7 @@ module.exports = {
       {
         userAgent: '*',
         allow: '/',
+        disallow: ['/ics/', '/ics-sample/', '*.ics'],
       },
     ],
   },
