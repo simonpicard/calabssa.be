@@ -123,6 +123,9 @@ export default function AddCalendarPopUp({ baseUri, calName, closeEvent }: AddCa
                       >
                         Aller à la page d'ajout →
                       </a>
+                      <p className="text-xs text-orange-600 mt-1 font-medium">
+                        ⚠️ Sur mobile : ouvrez ce lien dans votre navigateur web, pas dans l'app Google Calendar
+                      </p>
                     </div>
                   </div>
 
