@@ -84,6 +84,10 @@ export default function SearchBar({ placeholder, data }: SearchBarProps) {
         const calId = selectedResultRef.current.id
         clearInput()
         router.push(`/c/${calId}`)
+      } else if (wordEntered.trim() !== '') {
+        // No suggestions but user pressed Enter - navigate to not-found page with fuzzy search
+        clearInput()
+        router.push(`/c/${encodeURIComponent(wordEntered.trim())}`)
       }
     } else {
       setFocusedIndex(-1)

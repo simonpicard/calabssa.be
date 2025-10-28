@@ -9,12 +9,12 @@ export const viewport: Viewport = {
 }
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://www.calabssa.be'),
+  metadataBase: new URL('https://www.calabssa.be/'),
   title: {
     default: 'CalABSSA - Calendriers ABSSA | Football du samedi Bruxelles',
     template: '%s | CalABSSA - ABSSA Bruxelles'
   },
-  description: 'Calendriers non officiels ABSSA (Royale Association Belge des Sports du Samedi). Consultez les matchs de football du samedi à Bruxelles, horaires, terrains, cartes. 200+ équipes, toutes divisions.',
+  description: 'Calendriers ABSSA. Consultez les matchs de football du samedi à Bruxelles, horaires, terrains, cartes. 200+ équipes, toutes divisions (Royale Association Belge des Sports du Samedi).',
   keywords: ['ABSSA', 'football samedi', 'Bruxelles', 'calendrier', 'match', 'foot 11', 'football', 'équipe', 'division', 'horaire match', 'terrain football', 'sports samedi'],
   authors: [{ name: 'CalABSSA' }],
   creator: 'CalABSSA',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'fr_BE',
-    url: 'https://www.calabssa.be',
+    url: 'https://www.calabssa.be/',
     siteName: 'CalABSSA',
     title: 'CalABSSA - Tous les calendriers ABSSA en un clic',
     description: 'Consultez et synchronisez les calendriers de toutes les équipes ABSSA. Horaires, adresses, cartes interactives.',
@@ -67,7 +67,7 @@ export const metadata: Metadata = {
   },
   manifest: '/manifest.json',
   alternates: {
-    canonical: 'https://www.calabssa.be',
+    canonical: 'https://www.calabssa.be/',
   },
   other: {
     'msapplication-TileColor': '#da532c'
@@ -84,18 +84,18 @@ export default function RootLayout({
     '@type': 'WebSite',
     name: 'CalABSSA',
     alternateName: 'Calendriers ABSSA Bruxelles',
-    url: 'https://www.calabssa.be',
-    description: 'Calendriers non officiels de toutes les équipes ABSSA (Royale Association Belge des Sports du Samedi)',
+    url: 'https://www.calabssa.be/',
+    description: 'Calendriers de toutes les équipes ABSSA (Royale Association Belge des Sports du Samedi)',
     publisher: {
       '@type': 'Organization',
       name: 'CalABSSA',
-      url: 'https://www.calabssa.be',
+      url: 'https://www.calabssa.be/',
     },
     potentialAction: {
       '@type': 'SearchAction',
       target: {
         '@type': 'EntryPoint',
-        urlTemplate: 'https://www.calabssa.be/c/{search_term}',
+        urlTemplate: 'https://www.calabssa.be/c/{search_term}/',
       },
       'query-input': 'required name=search_term',
     },
