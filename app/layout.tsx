@@ -12,10 +12,10 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://www.calabssa.be/'),
   title: {
     default: 'CalABSSA - Calendriers ABSSA | Football du samedi Bruxelles',
-    template: '%s | CalABSSA - ABSSA Bruxelles'
+    template: '%s | CalABSSA - Foot amateur Bruxelles'
   },
   description: 'Calendriers ABSSA. Consultez les matchs de football du samedi à Bruxelles, horaires, terrains, cartes. 200+ équipes, toutes divisions (Royale Association Belge des Sports du Samedi).',
-  keywords: ['ABSSA', 'football samedi', 'Bruxelles', 'calendrier', 'match', 'foot 11', 'football', 'équipe', 'division', 'horaire match', 'terrain football', 'sports samedi'],
+  keywords: ['ABSSA', 'football samedi', 'Bruxelles', 'calendrier', 'match', 'foot 11', 'football', 'équipe', 'division', 'horaire match', 'terrain football', 'sports samedi', 'foot amateur', 'foot amateur bruxelles'],
   authors: [{ name: 'CalABSSA' }],
   creator: 'CalABSSA',
   publisher: 'CalABSSA',
