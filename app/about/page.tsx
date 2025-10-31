@@ -9,7 +9,7 @@ interface AboutItem {
 
 export const metadata: Metadata = {
   title: 'À propos de CalABSSA - Les calendriers ABSSA',
-  description: 'À propos de CalABSSA, un outil pour visualiser les matchs d\'ABSSA, une ligue de football amateur belge, en regroupant différentes informations dans un calendrier.
+  description: 'À propos de CalABSSA, un outil pour visualiser les matchs d\'ABSSA, une ligue de football amateur belge, en regroupant différentes informations dans un calendrier.'
 }
 
 export default function AboutPage() {
