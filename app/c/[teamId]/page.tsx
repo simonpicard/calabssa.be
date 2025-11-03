@@ -29,7 +29,7 @@ export async function generateMetadata({ params }: TeamPageProps): Promise<Metad
   }
   const saisonStartYearShort = saisonStartYear % 100
 
-  const title = `${teamInfo.club_name} (eq. ${teamInfo.team_id}) en D${teamInfo.division} - Calendrier ABSSA ${saisonStartYearShort}/${(saisonStartYearShort + 1)}`
+  const title = `${teamInfo.club_name} (eq. ${teamInfo.team_id}) en D${teamInfo.division} - Calendrier ABSSA ${saisonStartYear}/${(saisonStartYearShort + 1)}`
   const description = `Calendrier complet de ${teamInfo.club_name} (équipe ${teamInfo.team_id}) en division ${teamInfo.division}. Tous les matchs ABSSA: dates, horaires, adresses, terrains. Synchronisez avec votre agenda.`
 
   return {
@@ -86,7 +86,7 @@ export default async function TeamPage({ params }: TeamPageProps) {
       url: 'https://www.abssa.be/',
     },
     url: `https://www.calabssa.be/c/${params.teamId}/`,
-    description: `Calendrier complet de ${teamInfo.club_name} (équipe ${teamInfo.team_id}) en division ${teamInfo.division}. Tous les matchs ABSSA saison ${saisonStartYearShort}/${(saisonStartYearShort + 1)}.`,
+    description: `Calendrier complet de ${teamInfo.club_name} (équipe ${teamInfo.team_id}) en division ${teamInfo.division}. Tous les matchs ABSSA saison ${saisonStartYear}/${(saisonStartYearShort + 1)}.`,
     address: {
       '@type': 'PostalAddress',
       streetAddress: teamInfo.street,
