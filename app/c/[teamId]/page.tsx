@@ -27,9 +27,10 @@ export async function generateMetadata({ params }: TeamPageProps): Promise<Metad
   if (new Date().getMonth() < 8) {
     saisonStartYear = saisonStartYear - 1
   }
+  const saisonStartYearShort = saisonStartYear % 100
 
-  const title = `${teamInfo.search_name} - Calendrier ABSSA ${saisonStartYear}/${(saisonStartYear + 1) % 100} division ${teamInfo.division}`
-  const description = `Calendrier complet de ${teamInfo.club_name} (équipe ${teamInfo.team_id}) division ${teamInfo.division}. Tous les matchs ABSSA: dates, horaires, adresses, terrains. Synchronisez avec votre agenda.`
+  const title = `${teamInfo.club_name} (eq. ${teamInfo.team_id}) en D${teamInfo.division} - Calendrier ABSSA ${saisonStartYearShort}/${(saisonStartYearShort + 1)}`
+  const description = `Calendrier complet de ${teamInfo.club_name} (équipe ${teamInfo.team_id}) en division ${teamInfo.division}. Tous les matchs ABSSA: dates, horaires, adresses, terrains. Synchronisez avec votre agenda.`
 
   return {
     title,
@@ -71,19 +72,21 @@ export default async function TeamPage({ params }: TeamPageProps) {
   if (new Date().getMonth() < 8) {
     saisonStartYear = saisonStartYear - 1
   }
+  const saisonStartYearShort = saisonStartYear % 100
 
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'SportsTeam',
-    name: teamInfo.search_name,
+    name: `${teamInfo.club_name} équipe ${teamInfo.team_id}`,
     sport: 'Soccer',
+    gender: 'Male',
     memberOf: {
       '@type': 'SportsOrganization',
       name: 'ABSSA',
       url: 'https://www.abssa.be/',
     },
     url: `https://www.calabssa.be/c/${params.teamId}/`,
-    description: `Calendrier complet de ${teamInfo.club_name} (équipe ${teamInfo.team_id}) division ${teamInfo.division}. Tous les matchs ABSSA ${saisonStartYear}/${(saisonStartYear + 1) % 100}.`,
+    description: `Calendrier complet de ${teamInfo.club_name} (équipe ${teamInfo.team_id}) en division ${teamInfo.division}. Tous les matchs ABSSA saison ${saisonStartYearShort}/${(saisonStartYearShort + 1)}.`,
     address: {
       '@type': 'PostalAddress',
       streetAddress: teamInfo.street,
