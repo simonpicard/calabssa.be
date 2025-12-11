@@ -48,11 +48,15 @@ export default function HomepageEvent({
   defaultOpen = false
 }: HomepageEventProps) {
   const { width } = useWindowDimensions()
-  const [mapKey, setMapKey] = useState(0)
+  const [mounted, setMounted] = useState(false)
   const [isOpen, setIsOpen] = useState(defaultOpen)
   const [maxHeight, setMaxHeight] = useState<string>(defaultOpen ? '1000px' : '0px')
   const detailRef = useRef<HTMLDivElement>(null)
   const contentRef = useRef<HTMLDivElement>(null)
+
+  useEffect(() => {
+    setMounted(true)
+  }, [])
 
   const dateFmt: Intl.DateTimeFormatOptions = width >= 768
     ? { year: 'numeric', month: 'long', day: 'numeric' }
@@ -78,25 +82,13 @@ export default function HomepageEvent({
       // Measure the actual content height when opened
       const contentHeight = contentRef.current.scrollHeight
       setMaxHeight(`${contentHeight}px`)
-      if (defaultOpen) {
-        // If initially open, trigger map update
-        updateMap()
-      }
     } else if (!isOpen) {
       setMaxHeight('0px')
     }
   }, [isOpen])
 
-  const updateMap = () => {
-    // Force map re-render after accordion opens
-    setTimeout(() => setMapKey(prev => prev + 1), 300)
-  }
-
   const toggleHandler = () => {
     setIsOpen(!isOpen)
-    if (!isOpen) {
-      updateMap()
-    }
   }
 
   const urlify = (txt: string) => {
@@ -107,7 +99,7 @@ export default function HomepageEvent({
       if (i % 2 === 1) {
         return (
           <a className="underline" key={`link${i}`} href={part}>
-            {width < 640 ? 'lien' : part}
+            {mounted && width < 640 ? 'lien' : part}
           </a>
         )
       }
@@ -138,7 +130,7 @@ export default function HomepageEvent({
             <div className="row-start-1 col-start-1 flex-none flex lg:block xl:grid xl:grid-cols-2 row-span-1 lg:row-span-2 xl:row-span-1 xl:col-span-2 space-x-1 lg:space-x-0">
               <div className="flex-none">{dateStr}</div>
               <div className="flex-none">
-                {width >= 640 ? `${timeStartStr} à ${timeEndStr}` : timeStartStr}
+                {mounted && width >= 640 ? `${timeStartStr} à ${timeEndStr}` : timeStartStr}
               </div>
             </div>
             <div className="row-start-2 col-span-full lg:row-start-1 lg:col-start-2 xl:col-start-3 lg:col-span-5 font-semibold flex-none">
@@ -170,7 +162,6 @@ export default function HomepageEvent({
             {hasCoordinates && (
               <div className="block z-0 min-h-[8rem] md:min-h-[auto] md:row-start-1 md:col-start-5 xl:col-start-1 md:col-span-2 md:ml-2 xl:mr-2 xl:ml-0">
                 <MapComponent
-                  key={mapKey}
                   latitude={mapLat}
                   longitude={mapLng}
                   zoom={10}
@@ -182,7 +173,7 @@ export default function HomepageEvent({
             </div>
           </div>
           </div>
-          {width > 1280 && <p className="text-2xl invisible">❯</p>}
+          {mounted && width > 1280 && <p className="text-2xl invisible">❯</p>}
         </div>
       </div>
     </div>

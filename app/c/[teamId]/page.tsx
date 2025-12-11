@@ -8,13 +8,14 @@ import { notFound } from 'next/navigation'
 export const revalidate = 14400
 
 interface TeamPageProps {
-  params: {
+  params: Promise<{
     teamId: string
-  }
+  }>
 }
 
 export async function generateMetadata({ params }: TeamPageProps): Promise<Metadata> {
-  const teamInfo = (TeamData as any)[params.teamId]
+  const { teamId } = await params
+  const teamInfo = (TeamData as any)[teamId]
 
   if (!teamInfo) {
     return {
@@ -39,7 +40,7 @@ export async function generateMetadata({ params }: TeamPageProps): Promise<Metad
       title,
       description,
       type: 'website',
-      url: `https://www.calabssa.be/c/${params.teamId}/`,
+      url: `https://www.calabssa.be/c/${teamId}/`,
     },
     twitter: {
       card: 'summary',
@@ -47,7 +48,7 @@ export async function generateMetadata({ params }: TeamPageProps): Promise<Metad
       description,
     },
     alternates: {
-      canonical: `https://www.calabssa.be/c/${params.teamId}/`,
+      canonical: `https://www.calabssa.be/c/${teamId}/`,
     },
   }
 }
@@ -60,13 +61,14 @@ export async function generateStaticParams() {
 }
 
 export default async function TeamPage({ params }: TeamPageProps) {
-  const calendarData = await getCalendarDataForTeam(params.teamId)
+  const { teamId } = await params
+  const calendarData = await getCalendarDataForTeam(teamId)
 
   if (!calendarData) {
     notFound()
   }
 
-  const teamInfo = (TeamData as any)[params.teamId]
+  const teamInfo = (TeamData as any)[teamId]
 
   let saisonStartYear = new Date().getFullYear()
   if (new Date().getMonth() < 8) {
@@ -85,7 +87,7 @@ export default async function TeamPage({ params }: TeamPageProps) {
       name: 'ABSSA',
       url: 'https://www.abssa.be/',
     },
-    url: `https://www.calabssa.be/c/${params.teamId}/`,
+    url: `https://www.calabssa.be/c/${teamId}/`,
     description: `Calendrier complet de ${teamInfo.club_name} (équipe ${teamInfo.team_id}) en division ${teamInfo.division}. Tous les matchs ABSSA saison ${saisonStartYear}/${(saisonStartYearShort + 1)}.`,
     address: {
       '@type': 'PostalAddress',
@@ -102,7 +104,7 @@ export default async function TeamPage({ params }: TeamPageProps) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
-      <TeamCalendarClient initialData={calendarData} teamId={params.teamId} />
+      <TeamCalendarClient initialData={calendarData} teamId={teamId} />
     </>
   )
 }

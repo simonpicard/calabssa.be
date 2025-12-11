@@ -35,9 +35,13 @@ function useWindowDimensions() {
 
 export default function Event({ summary, description, dtstart, dtend, location, url, latitude, longitude }: EventProps) {
   const { width } = useWindowDimensions()
-  const [mapKey, setMapKey] = useState(0)
+  const [mounted, setMounted] = useState(false)
 
-  const dateFmt: Intl.DateTimeFormatOptions = width >= 768 
+  useEffect(() => {
+    setMounted(true)
+  }, [])
+
+  const dateFmt: Intl.DateTimeFormatOptions = width >= 768
     ? { year: 'numeric', month: 'long', day: 'numeric' }
     : { year: '2-digit', month: '2-digit', day: '2-digit' }
 
@@ -56,20 +60,15 @@ export default function Event({ summary, description, dtstart, dtend, location, 
   const mapLat = latitude || 50.8503
   const mapLng = longitude || 4.3517
 
-  const updateMap = () => {
-    // Force map re-render after accordion opens
-    setTimeout(() => setMapKey(prev => prev + 1), 300)
-  }
-
   const urlify = (txt: string) => {
     const urlRegex = /(https?:\/\/[^\s]+)/g
     const parts = txt.split(urlRegex)
-    
+
     return parts.map((part, i) => {
       if (i % 2 === 1) {
         return (
           <a className="underline" key={`link${i}`} href={part}>
-            {width < 640 ? 'lien' : part}
+            {mounted && width < 640 ? 'lien' : part}
           </a>
         )
       }
@@ -92,14 +91,13 @@ export default function Event({ summary, description, dtstart, dtend, location, 
   return (
     <Accordion
       className="pt-2 mt-2 text-left text-[#334155]"
-      openAction={updateMap}
-      offsetArrow={width > 1280}
+      offsetArrow={mounted && width > 1280}
     >
       <div className="grid grid-cols-6 lg:grid-cols-6 xl:grid-cols-7 w-full">
         <div className="row-start-1 col-start-1 flex-none flex lg:block xl:grid xl:grid-cols-2 row-span-1 lg:row-span-2 xl:row-span-1 xl:col-span-2 space-x-1 lg:space-x-0">
           <div className="flex-none">{dateStr}</div>
           <div className="flex-none">
-            {width >= 640 ? `${timeStartStr} à ${timeEndStr}` : timeStartStr}
+            {mounted && width >= 640 ? `${timeStartStr} à ${timeEndStr}` : timeStartStr}
           </div>
         </div>
         <div className="row-start-2 col-span-full lg:row-start-1 lg:col-start-2 xl:col-start-3 lg:col-span-5 font-semibold flex-none">
@@ -113,11 +111,10 @@ export default function Event({ summary, description, dtstart, dtend, location, 
       <div className="flex flex-col-reverse h-full md:grid md:grid-rows-1 md:grid-cols-6 xl:grid-cols-7">
         {hasCoordinates && (
           <div className="block z-0 min-h-[8rem] md:min-h-[auto] md:row-start-1 md:col-start-5 xl:col-start-1 md:col-span-2 md:ml-2 xl:mr-2 xl:ml-0">
-            <MapComponent 
-              key={mapKey}
-              latitude={mapLat} 
-              longitude={mapLng} 
-              zoom={10} 
+            <MapComponent
+              latitude={mapLat}
+              longitude={mapLng}
+              zoom={10}
             />
           </div>
         )}
