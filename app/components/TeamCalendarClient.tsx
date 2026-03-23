@@ -337,16 +337,33 @@ export default function TeamCalendarClient({ initialData, teamId }: TeamCalendar
       {/* Events List */}
       {events.length === 0 ? (
         <div className="text-center py-12 bg-gray-50 rounded-lg">
-          <p className="text-gray-500 text-lg">
-            {showPast ? 'Aucun match trouvé' : 'Aucun match à venir'}
-          </p>
-          {!showPast && stats.playedMatches > 0 && (
-            <button
-              onClick={() => setShowPast(true)}
-              className="mt-4 text-sky-600 underline"
-            >
-              Voir les {stats.playedMatches} matchs passés
-            </button>
+          {!showPast && stats.playedMatches > 0 ? (
+            <>
+              <p className="text-gray-900 text-xl font-semibold mb-4">
+                La saison est terminée !
+              </p>
+              <div className="mx-auto max-w-md mb-6 rounded-md bg-amber-50 border border-amber-200 px-4 py-3 text-sm text-amber-800 text-left">
+                <p>
+                  Ce calendrier ne tient pas compte des journées reportées.
+                  Il se peut que certains matchs soient encore à venir.
+                </p>
+              </div>
+              <button
+                onClick={() => setShowPast(true)}
+                className="text-sky-600 underline"
+              >
+                Voir les {stats.playedMatches} matchs passés
+              </button>
+              <p className="mt-6 text-gray-500 text-sm">
+                Inscrivez-vous à la newsletter ci-dessous pour être
+                informé dès que les matchs de la prochaine saison
+                seront disponibles&nbsp;↓
+              </p>
+            </>
+          ) : (
+            <p className="text-gray-500 text-lg">
+              {showPast ? 'Aucun match trouvé' : 'Aucun match à venir'}
+            </p>
           )}
         </div>
       ) : (
