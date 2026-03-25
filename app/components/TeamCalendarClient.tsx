@@ -5,6 +5,7 @@ import { useMemo, useState } from 'react'
 import AddCalendarPopUp from './AddCalendarPopUp'
 import { CalendarData } from '../lib/calendar-utils'
 import Event from './Event'
+import ExternalLinkIcon from './icons/ExternalLinkIcon'
 import NewsletterSignup from './NewsletterSignup'
 import TeamData from '../data/teams.json'
 import Toggle from './Toggle'
@@ -192,8 +193,13 @@ export default function TeamCalendarClient({ initialData, teamId }: TeamCalendar
                   href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(teamInfo.address)}`}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="block bg-white rounded-lg shadow-sm p-4 border border-gray-200 hover:border-sky-300 hover:shadow-md transition-all cursor-pointer"
+                  className="block bg-white rounded-lg shadow-sm p-4 border border-gray-200 hover:border-sky-300 hover:shadow-md transition-all cursor-pointer relative"
                 >
+                  {teamInfo.artificial_grass && (
+                    <span className="absolute top-3 right-3 px-2 py-1 bg-green-100 text-green-700 text-xs rounded-full">
+                      🌱 Synthétique
+                    </span>
+                  )}
                   <p className="text-sm text-gray-600 mb-1">Terrain habituel</p>
                   <p className="font-semibold text-gray-900">
                     {teamInfo.place || <span className="text-gray-500 italic">Nom du terrain indisponible</span>}
@@ -201,11 +207,11 @@ export default function TeamCalendarClient({ initialData, teamId }: TeamCalendar
                   {teamInfo.municipality_short && (
                     <p className="text-sm text-gray-600">{teamInfo.municipality_short}</p>
                   )}
-                  {teamInfo.artificial_grass && (
-                    <span className="inline-block mt-2 px-2 py-1 bg-green-100 text-green-700 text-xs rounded-full">
-                      🌱 Synthétique
-                    </span>
-                  )}
+                  <p className="mt-2 text-sm text-sky-600 flex items-center gap-1.5">
+                    <img src="/images/google-maps-icon.png" alt="Google Maps" className="h-4 w-4" />
+                    Ouvrir dans Google Maps
+                    <ExternalLinkIcon className="h-3 w-3" />
+                  </p>
                 </a>
               ) : (
                 <div className="bg-white rounded-lg shadow-sm p-4 border border-gray-200">
