@@ -7,12 +7,16 @@ import { findSimilarTeams } from '../../lib/search-utils'
 export default function NotFound() {
   const params = useParams()
   const teamId = params?.teamId as string
+  const decodedTeamId = (() => {
+    try { return decodeURIComponent(teamId || '') }
+    catch { return teamId || '' }
+  })()
 
   const maxLength = 100
-  const isTruncated = teamId && teamId.length > maxLength
-  const displayTeamId = isTruncated ? teamId.substring(0, maxLength) + '...' : teamId
+  const isTruncated = decodedTeamId.length > maxLength
+  const displayTeamId = isTruncated ? decodedTeamId.substring(0, maxLength) + '...' : decodedTeamId
 
-  const suggestions = teamId ? findSimilarTeams(teamId, 5) : []
+  const suggestions = decodedTeamId ? findSimilarTeams(decodedTeamId, 5) : []
 
   return (
     <div className="max-w-3xl mx-auto py-8">
