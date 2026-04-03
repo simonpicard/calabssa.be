@@ -69,18 +69,17 @@ export default function TeamCalendarClient({ initialData, teamId }: TeamCalendar
     // Calculate statistics
     const nextMatch = futureEvents[0]
     // Simple heuristic: if the team name appears first in summary, it's likely home
+    const normalizedClubName = (teamInfo?.club_name || '').toLowerCase().replace(/\s+/g, ' ')
     const homeMatchesAll = allEvents.filter((e) => {
       const summary = e.summary?.toLowerCase() || ''
-      const clubName = teamInfo?.club_name?.toLowerCase() || ''
       const firstTeam = summary.split(' vs ')[0] || summary.split(' - ')[0]
-      return firstTeam.includes(clubName)
+      return firstTeam.includes(normalizedClubName)
     })
     const homeMatchesPlayed = homeMatchesAll.filter((e) => new Date(e.dtend) < now).length
     const awayMatchesAll = allEvents.filter((e) => {
       const summary = e.summary?.toLowerCase() || ''
-      const clubName = teamInfo?.club_name?.toLowerCase() || ''
       const firstTeam = summary.split(' vs ')[0] || summary.split(' - ')[0]
-      return !firstTeam.includes(clubName)
+      return !firstTeam.includes(normalizedClubName)
     })
     const awayMatchesPlayed = awayMatchesAll.filter((e) => new Date(e.dtend) < now).length
 
@@ -89,7 +88,7 @@ export default function TeamCalendarClient({ initialData, teamId }: TeamCalendar
       ? Math.floor((new Date(nextMatch.dtend).getTime() - now.getTime()) / (1000 * 60 * 60 * 24))
       : null
 
-    const isNextMatchHome = nextMatch?.summary?.toLowerCase().split(' vs ')[0].includes(teamInfo?.club_name?.toLowerCase() || '') || false
+    const isNextMatchHome = nextMatch?.summary?.toLowerCase().split(' vs ')[0].includes(normalizedClubName) || false
     const nextMatchOpponent = nextMatch?.summary?.split(': ')[1]?.split(' vs ')[isNextMatchHome ? 1 : 0] || 'Adversaire'
 
     return {
@@ -307,7 +306,7 @@ export default function TeamCalendarClient({ initialData, teamId }: TeamCalendar
                 href={`/c/${team.id}`}
                 className="inline-flex items-center px-3 py-1.5 bg-white border border-gray-300 rounded-lg text-sm text-gray-700 hover:bg-sky-50 hover:border-sky-300 hover:text-sky-700 transition-colors"
               >
-                <span className="font-medium">{team.name.split(' - ')[1] || team.name}</span>
+                <span className="font-medium">{team.name.split(' - ').slice(1).join(' - ') || team.name}</span>
                 {team.division && (
                   <span className="ml-2 text-xs text-gray-500">(Div. {team.division})</span>
                 )}
